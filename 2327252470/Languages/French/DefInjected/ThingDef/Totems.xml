@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: totem de sagesse animale -->
+  <VBY_AnimalRimTotem.label>totem de sagesse animale</VBY_AnimalRimTotem.label>
+  <!-- EN: A tall artistic carving depicting some of the most revered and respected animals on The Rim. -->
+  <VBY_AnimalRimTotem.description>Une grande sculpture artistique représentant certains des animaux les plus vénérés et respectés sur The Rim.</VBY_AnimalRimTotem.description>
+  
+  <!-- EN: totem animal -->
+  <VBY_AnimalTotem.label>totem animal</VBY_AnimalTotem.label>
+  <!-- EN: Une grande sculpture artistique représentant le lien spirituel entre les hommes primitifs et leurs désirs de liberté et la nature animale. -->
+  <VBY_AnimalTotem.description>Une grande sculpture artistique représentant le lien spirituel entre les hommes primitifs et leurs désirs de liberté et la nature animale.</VBY_AnimalTotem.description>
+  
+  <!-- EN: totem d'os -->
+  <VBY_BoneTotemMO.label>totem d'os</VBY_BoneTotemMO.label>
+  <!-- EN: A tall artistic statue constructed of bones. Do you recognize anyone? -->
+  <VBY_BoneTotemMO.description>Une grande statue artistique construite en os. Reconnaissez-vous quelqu'un ?</VBY_BoneTotemMO.description>
+  
+  <!-- EN: totem insecte -->
+  <VBY_InsectTotem.label>totem insecte</VBY_InsectTotem.label>
+  <!-- EN: Une grande sculpture artistique représentant le lien spirituel entre les hommes primitifs et leur esprit de ruche désireux de réaliser un progrès collectif et de survivre. -->
+  <VBY_InsectTotem.description>Une grande sculpture artistique représentant le lien spirituel entre les hommes primitifs et leur esprit de ruche désireux de réaliser un progrès collectif et de survivre.</VBY_InsectTotem.description>
+
+
+</LanguageData>

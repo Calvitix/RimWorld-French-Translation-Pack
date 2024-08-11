@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TerrainDef  ParentName="FloorBase">
+    <defName>CCot_RusticPlankFloor</defName>
+    <label>rustic plank floor</label>
+    <renderPrecedence>250</renderPrecedence>
+    <description>Rustic plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable.</description>
+    <texturePath>Terrain/Surfaces/RusticPlanks</texturePath>
+    <burnedDef>BurnedWoodPlankFloor</burnedDef>
+    <color>(108,78,55)</color>
+    <statBases>
+      <WorkToBuild>85</WorkToBuild>
+      <Flammability>0.22</Flammability>
+	  <Beauty>1</Beauty>
+    </statBases>
+    <costList>
+      <WoodLog>6</WoodLog>
+    </costList>
+    <constructEffect>ConstructWood</constructEffect>
+    <researchPrerequisites>
+      <li>DankPyon_Lumber</li>
+    </researchPrerequisites>	
+  </TerrainDef>
+
+</Defs>

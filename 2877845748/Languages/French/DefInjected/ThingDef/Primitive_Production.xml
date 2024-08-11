@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: poste de taille de pierre primitif -->
+  <VBY_PrimitiveStoneCuttingSpot.label>poste de taille primitif</VBY_PrimitiveStoneCuttingSpot.label>
+  <!-- EN: Un endroit où l'on peut frapper de gros rochers pour en faire de plus petits.. -->
+  <VBY_PrimitiveStoneCuttingSpot.description>Un endroit où l'on peut frapper de gros rochers pour en faire de plus petits.</VBY_PrimitiveStoneCuttingSpot.description>
+  
+</LanguageData>

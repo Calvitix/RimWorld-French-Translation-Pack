@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+   
+	<HediffDef Name="AddedPartMedAmbroisen" ParentName="AddedBodyPartBase" Abstract="True">
+		<defaultLabelColor>(212,78,242)</defaultLabelColor>
+	</HediffDef>
+   
+	<ThingDef Name="BodyPartMedAmbroisenBase" ParentName="BodyPartBase" Abstract="True">
+		<techLevel>Medieval</techLevel>
+		<thingCategories>
+			<li>BodyPartsSimple</li>
+		</thingCategories>
+		<graphicData>
+			<texPath>Things/Item/BodyPart/AmbroisenProsthesis</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>0.80</drawSize>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+		<statBases>
+			<DeteriorationRate>2</DeteriorationRate>
+			<WorkToMake>300000</WorkToMake>
+		</statBases>
+		<recipeMaker>
+			<workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+			<workSkill>Crafting</workSkill>
+			<effectWorking>Smith</effectWorking>
+			<recipeUsers>
+				<li>FueledSmithy</li>
+			</recipeUsers>
+			<unfinishedThingDef>UnfinishedProsthesis</unfinishedThingDef>
+			<researchPrerequisite>AmbroisenLimbs</researchPrerequisite>
+		</recipeMaker>
+		<techHediffsTags>
+			<li>Simple</li>
+		</techHediffsTags>
+	</ThingDef>
+	
+	<RecipeDef Name="SurgeryMedAmbroisen" ParentName="SurgeryInstallBodyPartArtificialBase" Abstract="True">
+		<dontShowIfAnyIngredientMissing>true</dontShowIfAnyIngredientMissing>
+		<skillRequirements>
+			<Medicine>5</Medicine>
+		</skillRequirements>
+	</RecipeDef>
+	
+	
+	<!-- Parésian Hand -->
+	
+	<HediffDef ParentName="AddedPartMedAmbroisen">
+		<defName>AmbroisenMedHand</defName>
+		<label>Main Pariétale</label>
+		<labelNoun>a Parésian hand</labelNoun>
+		<description>An installed Parésian hand.</description>
+		<descriptionHyperlinks><ThingDef>AmbroisenMedHand</ThingDef></descriptionHyperlinks>
+		<comps><li Class="HediffCompProperties_VerbGiver"><tools>
+			   <li>
+				  <label>Main Pariétale</label>
+				  <capacities>
+					 <li>Blunt</li>
+				  </capacities>
+				  <power>10</power>
+				  <cooldownTime>1.8</cooldownTime>
+			   </li>
+		</tools></li></comps>
+		<spawnThingOnRemoved>AmbroisenMedHand</spawnThingOnRemoved>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>1</partEfficiency>
+		</addedPartProps>
+	</HediffDef>
+	
+	<ThingDef ParentName="BodyPartMedAmbroisenBase">
+		<defName>AmbroisenMedHand</defName>
+		<label>Main Pariétale</label>
+		<description>A Parésian hand.</description>
+		<descriptionHyperlinks><RecipeDef>InstallAmbroisenMedHand</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Steel>70</Steel>
+			<ComponentIndustrial>10</ComponentIndustrial>
+			<Gold>2</Gold>
+			<Silver>15</Silver>
+		</costList>
+		<statBases>
+			<Mass>2</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<RecipeDef ParentName="SurgeryMedAmbroisen">
+		<defName>InstallAmbroisenMedHand</defName>
+		<label>installer Main Pariétale</label>
+		<description>Installs Parésian hand.</description>
+		<descriptionHyperlinks>
+			<ThingDef>AmbroisenMedHand</ThingDef>
+			<HediffDef>AmbroisenMedHand</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing Parésian hand.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>AmbroisenMedHand</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>AmbroisenMedHand</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Hand</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>AmbroisenMedHand</addsHediff>
+	</RecipeDef>
+	
+	
+	<!-- Parésian Arm -->
+	
+	<HediffDef ParentName="AddedPartMedAmbroisen">
+		<defName>AmbroisenMedArm</defName>
+		<label>Bras Pariétale</label>
+		<labelNoun>a Parésian arm</labelNoun>
+		<description>An installed Parésian arm.</description>
+		<descriptionHyperlinks><ThingDef>AmbroisenMedArm</ThingDef></descriptionHyperlinks>
+		<comps><li Class="HediffCompProperties_VerbGiver"><tools>
+			   <li>
+				  <label>Bras Pariétale</label>
+				  <capacities>
+					 <li>Blunt</li>
+				  </capacities>
+				  <power>10</power>
+				  <cooldownTime>1.8</cooldownTime>
+			   </li>
+		</tools></li></comps>
+		<spawnThingOnRemoved>AmbroisenMedArm</spawnThingOnRemoved>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>1</partEfficiency>
+		</addedPartProps>
+	</HediffDef>
+	
+	<ThingDef ParentName="BodyPartMedAmbroisenBase">
+		<defName>AmbroisenMedArm</defName>
+		<label>Bras Pariétale</label>
+		<description>A Parésian arm.</description>
+		<descriptionHyperlinks><RecipeDef>InstallAmbroisenMedArm</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Steel>115</Steel>
+			<ComponentIndustrial>15</ComponentIndustrial>
+			<Gold>3</Gold>
+			<Silver>20</Silver>
+		</costList>
+		<statBases>
+			<Mass>6</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<RecipeDef ParentName="SurgeryMedAmbroisen">
+		<defName>InstallAmbroisenMedArm</defName>
+		<label>install Parésian arm</label>
+		<description>Installs Parésian arm.</description>
+		<descriptionHyperlinks>
+			<ThingDef>AmbroisenMedArm</ThingDef>
+			<HediffDef>AmbroisenMedArm</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing Parésian arm.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>AmbroisenMedArm</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>AmbroisenMedArm</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Shoulder</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>AmbroisenMedArm</addsHediff>
+	</RecipeDef>
+   
+   
+	<!-- Parésian Leg -->
+   
+	<HediffDef ParentName="AddedPartMedAmbroisen">
+		<defName>AmbroisenMedLeg</defName>
+		<label>Jambe Pariétale</label>
+		<labelNoun>a Parésian leg</labelNoun>
+		<description>An installed Parésian leg.</description>
+		<descriptionHyperlinks><ThingDef>AmbroisenMedLeg</ThingDef></descriptionHyperlinks>
+		<spawnThingOnRemoved>AmbroisenMedLeg</spawnThingOnRemoved>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>1</partEfficiency>
+		</addedPartProps>
+	</HediffDef>
+	
+	<ThingDef ParentName="BodyPartMedAmbroisenBase">
+		<defName>AmbroisenMedLeg</defName>
+		<label>Jambe Pariétale</label>
+		<description>A Parésian leg.</description>
+		<descriptionHyperlinks><RecipeDef>InstallAmbroisenMedLeg</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Steel>115</Steel>
+			<ComponentIndustrial>15</ComponentIndustrial>
+			<Gold>3</Gold>
+			<Silver>20</Silver>
+		</costList>
+		<statBases>
+			<Mass>8</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<RecipeDef ParentName="SurgeryMedAmbroisen">
+		<defName>InstallAmbroisenMedLeg</defName>
+		<label>install Parésian leg</label>
+		<description>Installs Parésian leg.</description>
+		<descriptionHyperlinks>
+			<ThingDef>AmbroisenMedLeg</ThingDef>
+			<HediffDef>AmbroisenMedLeg</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing Parésian leg.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>AmbroisenMedLeg</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>AmbroisenMedLeg</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Leg</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>AmbroisenMedLeg</addsHediff>
+	</RecipeDef>
+	
+	
+	<!-- Parésian Foot -->
+	
+	<HediffDef ParentName="AddedPartMedAmbroisen">
+		<defName>AmbroisenMedFoot</defName>
+		<label>pied Pariétal</label>
+		<labelNoun>a Parésian foot</labelNoun>
+		<description>An installed Parésian foot.</description>
+		<descriptionHyperlinks><ThingDef>AmbroisenMedFoot</ThingDef></descriptionHyperlinks>
+		<spawnThingOnRemoved>AmbroisenMedFoot</spawnThingOnRemoved>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>1</partEfficiency>
+		</addedPartProps>
+	</HediffDef>
+	
+	<ThingDef ParentName="BodyPartMedAmbroisenBase">
+		<defName>AmbroisenMedFoot</defName>
+		<label>Pied Pariétal</label>
+		<description>A Parésian foot.</description>
+		<descriptionHyperlinks><RecipeDef>InstallAmbroisenMedFoot</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Steel>70</Steel>
+			<ComponentIndustrial>10</ComponentIndustrial>
+			<Gold>2</Gold>
+			<Silver>15</Silver>
+		</costList>
+		<statBases>
+			<Mass>2</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<RecipeDef ParentName="SurgeryMedAmbroisen">
+		<defName>InstallAmbroisenMedFoot</defName>
+		<label>install Parésian foot</label>
+		<description>Installs Parésian foot.</description>
+		<descriptionHyperlinks>
+			<ThingDef>AmbroisenMedFoot</ThingDef>
+			<HediffDef>AmbroisenMedFoot</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing Parésian foot.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>AmbroisenMedFoot</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>AmbroisenMedFoot</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Foot</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>AmbroisenMedFoot</addsHediff>
+	</RecipeDef>
+	
+	
+	<!-- Parésian Toe -->
+	
+	<HediffDef ParentName="AddedPartMedAmbroisen">
+		<defName>AmbroisenMedToe</defName>
+		<label>Orteil Pariétal</label>
+		<labelNoun>a Parésian toe</labelNoun>
+		<description>An installed Parésian toe.</description>
+		<descriptionHyperlinks><ThingDef>AmbroisenMedToe</ThingDef></descriptionHyperlinks>
+		<spawnThingOnRemoved>AmbroisenMedToe</spawnThingOnRemoved>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>1</partEfficiency>
+		</addedPartProps>
+	</HediffDef>
+	
+	<ThingDef ParentName="BodyPartMedAmbroisenBase">
+		<defName>AmbroisenMedToe</defName>
+		<label>Orteil Pariétale</label>
+		<description>A Parésian toe.</description>
+		<descriptionHyperlinks><RecipeDef>InstallAmbroisenMedToe</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Steel>25</Steel>
+			<ComponentIndustrial>5</ComponentIndustrial>
+			<Gold>1</Gold>
+			<Silver>5</Silver>
+		</costList>
+		<statBases>
+			<Mass>0.2</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<RecipeDef ParentName="SurgeryMedAmbroisen">
+		<defName>InstallAmbroisenMedToe</defName>
+		<label>install Parésian toe</label>
+		<description>Installs Parésian toe.</description>
+		<descriptionHyperlinks>
+			<ThingDef>AmbroisenMedToe</ThingDef>
+			<HediffDef>AmbroisenMedToe</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing Parésian toe.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>AmbroisenMedToe</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>AmbroisenMedToe</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Toe</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>AmbroisenMedToe</addsHediff>
+	</RecipeDef>
+	
+	
+	<!-- Parésian Finger -->
+	
+	<HediffDef ParentName="AddedPartMedAmbroisen">
+	<defName>AmbroisenMedFinger</defName>
+	<label>Doigt Pariétal</label>
+	<labelNoun>a Parésian finger</labelNoun>
+	<description>An installed Parésian finger.</description>
+	<descriptionHyperlinks><ThingDef>AmbroisenMedFinger</ThingDef></descriptionHyperlinks>
+	<spawnThingOnRemoved>AmbroisenMedFinger</spawnThingOnRemoved>
+	<addedPartProps>
+		<solid>true</solid>
+		<partEfficiency>1</partEfficiency>
+	</addedPartProps>
+	</HediffDef>
+	
+	<ThingDef ParentName="BodyPartMedAmbroisenBase">
+		<defName>AmbroisenMedFinger</defName>
+		<label>Doigt Pariétal</label>
+		<description>A Parésian finger.</description>
+		<descriptionHyperlinks><RecipeDef>InstallAmbroisenMedFinger</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Steel>25</Steel>
+			<ComponentIndustrial>5</ComponentIndustrial>
+			<Gold>1</Gold>
+			<Silver>5</Silver>
+		</costList>
+		<statBases>
+			<Mass>0.2</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<RecipeDef ParentName="SurgeryMedAmbroisen">
+		<defName>InstallAmbroisenMedFinger</defName>
+		<label>install Parésian finger</label>
+		<description>Installs Parésian finger.</description>
+		<descriptionHyperlinks>
+			<ThingDef>AmbroisenMedFinger</ThingDef>
+			<HediffDef>AmbroisenMedFinger</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing Parésian finger.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>AmbroisenMedFinger</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>AmbroisenMedFinger</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Finger</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>AmbroisenMedFinger</addsHediff>
+	</RecipeDef>
+	
+	
+	<!-- Parésian Nose -->
+	
+	<HediffDef ParentName="AddedPartMedAmbroisen">
+		<defName>AmbroisenMedNose</defName>
+		<label>Nez Pariétal</label>
+		<labelNoun>a Parésian nose</labelNoun>
+		<description>An installed Parésian nose.</description>
+		<descriptionHyperlinks><ThingDef>AmbroisenMedNose</ThingDef></descriptionHyperlinks>
+		<spawnThingOnRemoved>AmbroisenMedNose</spawnThingOnRemoved>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>0</partEfficiency>
+		</addedPartProps>
+		<stages>
+			<li>
+				<statOffsets>
+					<NegotiationAbility>+0.10</NegotiationAbility>
+					<SocialImpact>+0.15</SocialImpact>
+				</statOffsets>
+			</li>	 
+		</stages>
+	</HediffDef>
+	
+	<ThingDef ParentName="BodyPartMedAmbroisenBase">
+		<defName>AmbroisenMedNose</defName>
+		<label>Nez Pariétal</label>
+		<description>A Parésian nose.</description>
+		<descriptionHyperlinks><RecipeDef>InstallAmbroisenMedNose</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Steel>20</Steel>
+			<Gold>1</Gold>
+			<Silver>5</Silver>
+		</costList>
+		<statBases>
+			<Mass>0.6</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<RecipeDef ParentName="SurgeryMedAmbroisen">
+		<defName>InstallAmbroisenMedNose</defName>
+		<label>install Parésian nose</label>
+		<description>Installs Parésian nose.</description>
+		<descriptionHyperlinks>
+			<ThingDef>AmbroisenMedNose</ThingDef>
+			<HediffDef>AmbroisenMedNose</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing Parésian nose.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>AmbroisenMedNose</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>AmbroisenMedNose</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Nose</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>AmbroisenMedNose</addsHediff>
+	</RecipeDef>
+	
+	
+	<!-- Parésian Eye -->
+	
+	<HediffDef ParentName="AddedPartMedAmbroisen">
+		<defName>AmbroisenMedEye</defName>
+		<label>Oeil Pariétal</label>
+		<labelNoun>a Parésian eye</labelNoun>
+		<description>An installed Parésian eye.</description>
+		<descriptionHyperlinks><ThingDef>AmbroisenMedEye</ThingDef></descriptionHyperlinks>
+		<spawnThingOnRemoved>AmbroisenMedEye</spawnThingOnRemoved>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>0</partEfficiency>
+		</addedPartProps>
+		<stages>
+			<li>
+				<statOffsets>
+					<NegotiationAbility>+0.10</NegotiationAbility>
+					<SocialImpact>+0.15</SocialImpact>
+				</statOffsets>
+			</li>	 
+		</stages>
+	</HediffDef>
+	
+	<ThingDef ParentName="BodyPartMedAmbroisenBase">
+		<defName>AmbroisenMedEye</defName>
+		<label>Oeil Pariétal</label>
+		<description>A Parésian eye.</description>
+		<descriptionHyperlinks><RecipeDef>InstallAmbroisenMedEye</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Steel>20</Steel>
+			<Gold>1</Gold>
+			<Silver>5</Silver>
+		</costList>
+		<statBases>
+			<Mass>0.6</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<RecipeDef ParentName="SurgeryMedAmbroisen">
+		<defName>InstallAmbroisenMedEye</defName>
+		<label>install Parésian eye</label>
+		<description>Installs Parésian eye.</description>
+		<descriptionHyperlinks>
+			<ThingDef>AmbroisenMedEye</ThingDef>
+			<HediffDef>AmbroisenMedEye</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing Parésian eye.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>AmbroisenMedEye</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>AmbroisenMedEye</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Eye</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>AmbroisenMedEye</addsHediff>
+	</RecipeDef>	
+	
+	
+	<!-- Parésian Ear -->
+	
+	<HediffDef ParentName="AddedPartMedAmbroisen">
+		<defName>AmbroisenMedEar</defName>
+		<label>Oreille Pariétale</label>
+		<labelNoun>a Parésian ear</labelNoun>
+		<description>An installed Parésian ear.</description>
+		<descriptionHyperlinks><ThingDef>AmbroisenMedEar</ThingDef></descriptionHyperlinks>
+		<spawnThingOnRemoved>AmbroisenMedEar</spawnThingOnRemoved>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>0</partEfficiency>
+		</addedPartProps>
+		<stages>
+			<li>
+				<statOffsets>
+					<NegotiationAbility>+0.10</NegotiationAbility>
+					<SocialImpact>+0.15</SocialImpact>
+				</statOffsets>
+			</li>	 
+		</stages>
+	</HediffDef>
+	
+	<ThingDef ParentName="BodyPartMedAmbroisenBase">
+		<defName>AmbroisenMedEar</defName>
+		<label>Oreille Pariétale</label>
+		<description>A Parésian ear.</description>
+		<descriptionHyperlinks><RecipeDef>InstallAmbroisenMedEar</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Steel>20</Steel>
+			<Gold>1</Gold>
+			<Silver>5</Silver>
+		</costList>
+		<statBases>
+			<Mass>0.6</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<RecipeDef ParentName="SurgeryMedAmbroisen">
+		<defName>InstallAmbroisenMedEar</defName>
+		<label>install Parésian ear</label>
+		<description>Installs Parésian ear.</description>
+		<descriptionHyperlinks>
+			<ThingDef>AmbroisenMedEar</ThingDef>
+			<HediffDef>AmbroisenMedEar</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing Parésian ear.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>AmbroisenMedEar</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>AmbroisenMedEar</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Ear</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>AmbroisenMedEar</addsHediff>
+	</RecipeDef>
+   
+</Defs>

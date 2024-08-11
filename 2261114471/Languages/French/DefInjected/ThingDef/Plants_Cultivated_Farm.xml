@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cibarius -->
+  <RG_Plant_Cibarius.label>cibarius</RG_Plant_Cibarius.label>
+  <!-- EN: A tiny yellow and very tasty mushroom growing in small clusters. It can be found exclusively in temperate biomes. -->
+  <RG_Plant_Cibarius.description>Un minuscule champignon jaune et très savoureux qui pousse en petits amas. On le trouve exclusivement dans les biomes tempérés.</RG_Plant_Cibarius.description>
+  
+  <!-- EN: waxcap -->
+  <RG_Plant_Waxcap.label>hygrocybe</RG_Plant_Waxcap.label>
+  <!-- EN: A pink bright mushroom growing in clusters. It grows exclusively in grassland biomes. -->
+  <RG_Plant_Waxcap.description>Un champignon rose vif qui pousse en amas. Il pousse exclusivement dans les biomes de prairie.</RG_Plant_Waxcap.description>
+  
+</LanguageData>

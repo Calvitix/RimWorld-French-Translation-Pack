@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+<RimHUD.Layout.UserPreset>[Profil utilisateur]</RimHUD.Layout.UserPreset>
+<RimHUD.Layout.IntegratedPreset>Intégré</RimHUD.Layout.IntegratedPreset>
+
+<RimHUD.Layout.Root>Racine</RimHUD.Layout.Root>
+<RimHUD.Layout.VStack>Stack verticale</RimHUD.Layout.VStack>
+<RimHUD.Layout.VStackFilled>Stack vertical (rempli)</RimHUD.Layout.VStackFilled>
+<RimHUD.Layout.HStack>Stack Horizontal</RimHUD.Layout.HStack>
+<RimHUD.Layout.HStackFilled>Stack Horizontal (rempli)</RimHUD.Layout.HStackFilled>
+<RimHUD.Layout.Panel>Panneau</RimHUD.Layout.Panel>
+<RimHUD.Layout.PanelFilled>Panneau (rempli)</RimHUD.Layout.PanelFilled>
+<RimHUD.Layout.Row>Ligne</RimHUD.Layout.Row>
+<RimHUD.Layout.ContainerFilled>Rempli</RimHUD.Layout.ContainerFilled>
+
+<RimHUD.Layout.Blank>Vide</RimHUD.Layout.Blank>
+<RimHUD.Layout.Separator>Ligne de séparation</RimHUD.Layout.Separator>
+<RimHUD.Layout.NameHeader>Nom dans l'en-tête</RimHUD.Layout.NameHeader>
+<RimHUD.Layout.Outfit>Sélecteur de tenue</RimHUD.Layout.Outfit>
+<RimHUD.Layout.Food>Sélecteur de repas</RimHUD.Layout.Food>
+<RimHUD.Layout.Rules>Sélecteur de règles</RimHUD.Layout.Rules>
+<RimHUD.Layout.Timetable>Sélecteur du planning</RimHUD.Layout.Timetable>
+<RimHUD.Layout.Area>Sélecteur de zone</RimHUD.Layout.Area>
+<RimHUD.Layout.RelationKindAndFaction>Relation, type et faction</RimHUD.Layout.RelationKindAndFaction>
+<RimHUD.Layout.GenderRaceAndAge>Sexe, race et âge</RimHUD.Layout.GenderRaceAndAge>
+<RimHUD.Layout.SimpleGenderRaceAndAge>Sexe, race simple et âge</RimHUD.Layout.SimpleGenderRaceAndAge>
+<RimHUD.Layout.Health>Barre de santé</RimHUD.Layout.Health>
+<RimHUD.Layout.HealthCondition>État de santé</RimHUD.Layout.HealthCondition>
+<RimHUD.Layout.MentalCondition>État mental</RimHUD.Layout.MentalCondition>
+
+<RimHUD.Layout.Stat>{0}</RimHUD.Layout.Stat><!-- statistique -->
+<RimHUD.Layout.Record>{0}</RimHUD.Layout.Record><!-- enregistrement -->
+
+<RimHUD.Layout.NeedMood>Barre d'Humeur</RimHUD.Layout.NeedMood>
+<RimHUD.Layout.NeedFood>Barre de Nourriture</RimHUD.Layout.NeedFood>
+<RimHUD.Layout.NeedSleep>Barre du Sommeil</RimHUD.Layout.NeedSleep>
+<RimHUD.Layout.NeedEnergy>Barre d'Énergie</RimHUD.Layout.NeedEnergy>
+<RimHUD.Layout.NeedRecreation>Barre de Plaisir</RimHUD.Layout.NeedRecreation>
+<RimHUD.Layout.NeedSuppression>Barre de Répression</RimHUD.Layout.NeedSuppression>
+<RimHUD.Layout.Need>Barre de {0}</RimHUD.Layout.Need><!-- Barre de -->
+
+<RimHUD.Layout.SkillShooting>Compétence Tir</RimHUD.Layout.SkillShooting>
+<RimHUD.Layout.SkillMelee>Compétence Mêlée</RimHUD.Layout.SkillMelee>
+<RimHUD.Layout.SkillConstruction>Compétence Construction</RimHUD.Layout.SkillConstruction>
+<RimHUD.Layout.SkillMining>Compétence Minage</RimHUD.Layout.SkillMining>
+<RimHUD.Layout.SkillCooking>Compétence Cuisine</RimHUD.Layout.SkillCooking>
+<RimHUD.Layout.SkillPlants>Compétence Agriculture</RimHUD.Layout.SkillPlants>
+<RimHUD.Layout.SkillAnimals>Compétence Animaux</RimHUD.Layout.SkillAnimals>
+<RimHUD.Layout.SkillCrafting>Compétence Artisanat</RimHUD.Layout.SkillCrafting>
+<RimHUD.Layout.SkillArtistic>Compétence Artiste</RimHUD.Layout.SkillArtistic>
+<RimHUD.Layout.SkillMedicine>Compétence Médecine</RimHUD.Layout.SkillMedicine>
+<RimHUD.Layout.SkillSocial>Compétence Sociabilité</RimHUD.Layout.SkillSocial>
+<RimHUD.Layout.SkillIntellectual>Compétence Intellectuel</RimHUD.Layout.SkillIntellectual>
+<RimHUD.Layout.Skill>Compétence {0}</RimHUD.Layout.Skill><!-- Compétence -->
+
+<RimHUD.Layout.TrainingTameness>Domestication</RimHUD.Layout.TrainingTameness>
+<RimHUD.Layout.TrainingObedience>Dressage</RimHUD.Layout.TrainingObedience>
+<RimHUD.Layout.TrainingRelease>Attaque</RimHUD.Layout.TrainingRelease>
+<RimHUD.Layout.TrainingRescue>Sauvetage</RimHUD.Layout.TrainingRescue>
+<RimHUD.Layout.TrainingHaul>Transport</RimHUD.Layout.TrainingHaul>
+<RimHUD.Layout.Training>Entraîner {0}</RimHUD.Layout.Training><!-- training -->
+
+<RimHUD.Layout.Master>Maître</RimHUD.Layout.Master>
+<RimHUD.Layout.Activity>Activité</RimHUD.Layout.Activity>
+<RimHUD.Layout.Queued>Attente</RimHUD.Layout.Queued>
+<RimHUD.Layout.Equipped>Équipé</RimHUD.Layout.Equipped>
+<RimHUD.Layout.Carrying>Transport</RimHUD.Layout.Carrying>
+<RimHUD.Layout.CompInfo>Info. supplémentaire</RimHUD.Layout.CompInfo>
+<RimHUD.Layout.PrisonerInfo>Info. prisonnier</RimHUD.Layout.PrisonerInfo>
+
+<RimHUD.Layout.Target.PlayerHumanlike>Humain du joueur</RimHUD.Layout.Target.PlayerHumanlike>
+<RimHUD.Layout.Target.OtherHumanlike>Autre humain</RimHUD.Layout.Target.OtherHumanlike>
+<RimHUD.Layout.Target.PlayerCreature>Créature du joueur</RimHUD.Layout.Target.PlayerCreature>
+<RimHUD.Layout.Target.OtherCreature>Autre créature</RimHUD.Layout.Target.OtherCreature>
+
+<RimHUD.Layout.BarColorStyle.LowToMain>Couleur faible à principale (Par défaut)</RimHUD.Layout.BarColorStyle.LowToMain>
+<RimHUD.Layout.BarColorStyle.LowOnly>Couleur faible uniquement</RimHUD.Layout.BarColorStyle.LowOnly>
+<RimHUD.Layout.BarColorStyle.MainToLow>Couleur principale à faible</RimHUD.Layout.BarColorStyle.MainToLow>
+<RimHUD.Layout.BarColorStyle.MainOnly>Couleur principale uniquement</RimHUD.Layout.BarColorStyle.MainOnly>
+
+
+</LanguageData>

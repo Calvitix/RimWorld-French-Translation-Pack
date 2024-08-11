@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: longbow arrow -->
+  <Arrow_Clongbow.label>flèche d'arc long</Arrow_Clongbow.label>
+  
+  <!-- EN: burning arrow -->
+  <Arrow_Fire.label>flèche enflammée</Arrow_Fire.label>
+  
+  <!-- EN: heavy bolt -->
+  <Bolt_Siege.label>boulon lourd</Bolt_Siege.label>
+  
+  <!-- EN: crossbow bolt -->
+  <MM_bolt_double.label>boulon d'arbalète</MM_bolt_double.label>
+  
+  <!-- EN: hand crossbow bolt -->
+  <MM_bolt_hand.label>boulon d'arbalète à main</MM_bolt_hand.label>
+  
+  <!-- EN: heavy crossbow bolt -->
+  <MM_bolt_heavy.label>boulon d'arbalète lourd</MM_bolt_heavy.label>
+  
+  <!-- EN: light crossbow bolt -->
+  <MM_bolt_light.label>boulon d'arbalète léger</MM_bolt_light.label>
+  
+  <!-- EN: repeater bolt -->
+  <MM_bolt_repeater.label>boulon répéteur</MM_bolt_repeater.label>
+  
+  <!-- EN: forged bolas -->
+  <MM_fbolas.label>bolas forgées</MM_fbolas.label>
+  
+  <!-- EN: harpoon -->
+  <MM_harpoon.label>harpon</MM_harpoon.label>
+  
+  <!-- EN: harpoon -->
+  <MM_javelin.label>harpon</MM_javelin.label>
+  
+  <!-- EN: primitive bolas -->
+  <MM_pbolas.label>bolas primitives</MM_pbolas.label>
+  
+  <!-- EN: sling stone -->
+  <MM_stone.label>pierre de fronde</MM_stone.label>
+  
+  <!-- EN: throwing axe -->
+  <MM_taxe.label>hache de lancer</MM_taxe.label>
+  
+  <!-- EN: throwing knife -->
+  <MM_tknife.label>couteau de lancer</MM_tknife.label>
+  
+  <!-- EN: throwing net -->
+  <MM_tnet.label>filet de lancer</MM_tnet.label>
+  
+  <!-- EN: composite longbow -->
+  <MMr_clongbow.label>arc long composite</MMr_clongbow.label>
+  <!-- EN: Powerful ranged weapon capable of launching heavy arrows over great distances with decent precision and power. -->
+  <MMr_clongbow.description>Arme à distance puissante capable de lancer des flèches lourdes sur de grandes distances avec une précision et une puissance décentes.</MMr_clongbow.description>
+  <!-- EN: limb -->
+  <MMr_clongbow.tools.limb.label>membre</MMr_clongbow.tools.limb.label>
+  <!-- EN: composite longbow -->
+  <MMr_clongbow.verbs.Verb_Shoot.label>arc long composite</MMr_clongbow.verbs.Verb_Shoot.label>
+  
+  <!-- EN: doubleshot crossbow -->
+  <MMr_crossbow_double.label>arbalète à double tir</MMr_crossbow_double.label>
+  <!-- EN: Heavy crossbow modified to support two bolts instead of one, it has less armor penetration, but compensates for it by having decent accuracy and better overall firing speed compared to heavy crossbows. Why shoot once, when you can shoot twice! -->
+  <MMr_crossbow_double.description>Arbalète lourde modifiée pour supporter deux boulons au lieu d'un, elle a moins de pénétration d'armure, mais compense cela par une précision décente et une meilleure vitesse de tir globale par rapport aux arbalètes lourdes. Pourquoi tirer une fois, quand on peut tirer deux fois !</MMr_crossbow_double.description>
+  <!-- EN: stock -->
+  <MMr_crossbow_double.tools.stock.label>crosse</MMr_crossbow_double.tools.stock.label>
+  <!-- EN: doubleshot crossbow -->
+  <MMr_crossbow_double.verbs.Verb_Shoot.label>arbalète à double tir</MMr_crossbow_double.verbs.Verb_Shoot.label>
+  
+  <!-- EN: hand crossbow -->
+  <MMr_crossbow_hand.label>arbalète à main</MMr_crossbow_hand.label>
+  <!-- EN: Compact and light hand crossbow for shooting small bolts over short distances. Can be fired with one hand and easily reloaded with a small lever. -->
+  <MMr_crossbow_hand.description>Arbalète à main compacte et légère pour tirer de petits boulons sur de courtes distances. Peut être tirée d'une main et facilement rechargée avec un petit levier.</MMr_crossbow_hand.description>
+  <!-- EN: handle -->
+  <MMr_crossbow_hand.tools.handle.label>poignée</MMr_crossbow_hand.tools.handle.label>
+  <!-- EN: hand crossbow -->
+  <MMr_crossbow_hand.verbs.Verb_Shoot.label>arbalète à main</MMr_crossbow_hand.verbs.Verb_Shoot.label>
+  
+  <!-- EN: heavy crossbow -->
+  <MMr_crossbow_heavy.label>arbalète lourde</MMr_crossbow_heavy.label>
+  <!-- EN: Heavier version of standard issue crossbow, has much better overall performance, but slower reloading speed due to winch base reloading mechanism and higher string tension. Good range and armor penetration. -->
+  <MMr_crossbow_heavy.description>Version plus lourde de l'arbalète standard, a une bien meilleure performance globale, mais une vitesse de rechargement plus lente en raison du mécanisme de rechargement à base de treuil et d'une tension de corde plus élevée. Bonne portée et pénétration d'armure.</MMr_crossbow_heavy.description>
+  <!-- EN: stock -->
+  <MMr_crossbow_heavy.tools.stock.label>crosse</MMr_crossbow_heavy.tools.stock.label>
+  <!-- EN: heavy crossbow -->
+  <MMr_crossbow_heavy.verbs.Verb_Shoot.label>arbalète lourde</MMr_crossbow_heavy.verbs.Verb_Shoot.label>
+  
+  <!-- EN: light crossbow -->
+  <MMr_crossbow_light.label>arbalète légère</MMr_crossbow_light.label>
+  <!-- EN: Standard issue crossbow, has a decent armor penetration and medium range. Light enough to shoot with one hand, reloaded with a lever. -->
+  <MMr_crossbow_light.description>Arbalète standard, a une pénétration d'armure décente et une portée moyenne. Assez légère pour être tirée d'une main, rechargée avec un levier.</MMr_crossbow_light.description>
+  <!-- EN: handle -->
+  <MMr_crossbow_light.tools.handle.label>poignée</MMr_crossbow_light.tools.handle.label>
+  <!-- EN: light crossbow -->
+  <MMr_crossbow_light.verbs.Verb_Shoot.label>arbalète légère</MMr_crossbow_light.verbs.Verb_Shoot.label>
+  
+  <!-- EN: repeater crossbow -->
+  <MMr_crossbow_repeater.label>arbalète répétitrice</MMr_crossbow_repeater.label>
+  <!-- EN: Starndard light crossbow modified with a small bolt magazine with a spring based bolt feeding mechanism. Can fire several shots in quick succession, but requires long reloads and lacks precision. -->
+  <MMr_crossbow_repeater.description>Arbalète légère standard modifiée avec un petit chargeur de boulons avec un mécanisme d'alimentation de boulons à ressort. Peut tirer plusieurs coups en succession rapide, mais nécessite de longs rechargements et manque de précision.</MMr_crossbow_repeater.description>
+  <!-- EN: stock -->
+  <MMr_crossbow_repeater.tools.stock.label>crosse</MMr_crossbow_repeater.tools.stock.label>
+  <!-- EN: repeater crossbow -->
+  <MMr_crossbow_repeater.verbs.Verb_Shoot.label>arbalète répétitrice</MMr_crossbow_repeater.verbs.Verb_Shoot.label>
+  
+  <!-- EN: siege crossbow -->
+  <MMr_crossbow_Siege.label>arbalète de siège</MMr_crossbow_Siege.label>
+  <!-- EN: This mechanical contraption is a nightmare for any slow armored target. Due to its mass usually it would be deployed as wall mounted siege weapon, but with enough stregth it can be wielded as a handheld weapon. Pierces all but strongest armors like paper, but requires very long winch based reloads and precision aiming. -->
+  <MMr_crossbow_Siege.description>Ce mécanisme est un cauchemar pour toute cible blindée lente. En raison de sa masse, il serait généralement déployé comme une arme de siège montée sur un mur, mais avec assez de force, il peut être manié comme une arme à main. Perce tous les armures sauf les plus fortes comme du papier, mais nécessite des rechargements très longs basés sur un treuil et une visée précise.</MMr_crossbow_Siege.description>
+  <!-- EN: stock -->
+  <MMr_crossbow_Siege.tools.stock.label>crosse</MMr_crossbow_Siege.tools.stock.label>
+  <!-- EN: siege crossbow -->
+  <MMr_crossbow_Siege.verbs.Verb_Shoot.label>arbalète de siège</MMr_crossbow_Siege.verbs.Verb_Shoot.label>
+  
+  <!-- EN: forged bolas -->
+  <MMr_fbolas.label>bolas forgées</MMr_fbolas.label>
+  <!-- EN: Enhanced version of favorite slavetrader weapon - primitive bolas. This one has chains instead of ropes and heavy forged metal balls instead of stones. Its much harder to free yourself from and also does decent blunt damage due to its mass. -->
+  <MMr_fbolas.description>Version améliorée de l'arme préférée des marchands d'esclaves - les bolas primitives. Celle-ci a des chaînes au lieu de cordes et des boules de métal forgé lourd au lieu de pierres. Il est beaucoup plus difficile de s'en libérer et fait également des dégâts contondants décents en raison de sa masse.</MMr_fbolas.description>
+  <!-- EN: bola -->
+  <MMr_fbolas.tools.bola.label>bola</MMr_fbolas.tools.bola.label>
+  <!-- EN: chain -->
+  <MMr_fbolas.tools.chain.label>chaîne</MMr_fbolas.tools.chain.label>
+  <!-- EN: forged bolas -->
+  <MMr_fbolas.verbs.Verb_Shoot.label>bolas forgées</MMr_fbolas.verbs.Verb_Shoot.label>
+  
+  <!-- EN: fireshot longbow -->
+  <MMr_firelongbow.label>arc long à tir de feu</MMr_firelongbow.label>
+  <!-- EN: Powerful longbow for shooting light arrows over great distances. Arrowtips are wrapped with oiled cloth pieces, which are set on fire right before the shot. Inaccurate and doesn't do much damage, its main purpose is to cause panic and distractions by spreading fires. -->
+  <MMr_firelongbow.description>Arc long puissant pour tirer des flèches légères sur de grandes distances. Les pointes de flèches sont enveloppées de morceaux de tissu huilé, qui sont enflammés juste avant le tir. Inexact et ne fait pas beaucoup de dégâts, son but principal est de causer la panique et des distractions en propageant des incendies.</MMr_firelongbow.description>
+  <!-- EN: limb -->
+  <MMr_firelongbow.tools.limb.label>membre</MMr_firelongbow.tools.limb.label>
+  <!-- EN: fireshot longbow -->
+  <MMr_firelongbow.verbs.Verb_Shoot.label>arc long à tir de feu</MMr_firelongbow.verbs.Verb_Shoot.label>
+  
+  <!-- EN: harpoon -->
+  <MMr_harpoon.label>harpon</MMr_harpoon.label>
+  <!-- EN: Long spear-like weapon with sharp barbed tip, used for fishing and hunting whales. Can be thrown over short distances to great effect. -->
+  <MMr_harpoon.description>Arme longue semblable à une lance avec une pointe barbelée tranchante, utilisée pour la pêche et la chasse aux baleines. Peut être lancé sur de courtes distances avec un grand effet.</MMr_harpoon.description>
+  <!-- EN: handle -->
+  <MMr_harpoon.tools.handle.label>manche</MMr_harpoon.tools.handle.label>
+  <!-- EN: point -->
+  <MMr_harpoon.tools.point.label>pointe</MMr_harpoon.tools.point.label>
+  <!-- EN: harpoon -->
+  <MMr_harpoon.verbs.Verb_Shoot.label>harpon</MMr_harpoon.verbs.Verb_Shoot.label>
+  
+  <!-- EN: javelin -->
+  <MMr_javelin.label>javelot</MMr_javelin.label>
+  <!-- EN: Advanced version of weighted armor piercing throwing spear. Does heavy damage, but requires careful aiming and significant physical strength. Doubles as a spear in melee combat. -->
+  <MMr_javelin.description>Version avancée de la lance de jet perforante d'armure pondérée. Fait de lourds dégâts, mais nécessite une visée soignée et une force physique significative. Fait également office de lance en combat rapproché.</MMr_javelin.description>
+  <!-- EN: shaft -->
+  <MMr_javelin.tools.shaft.label>tige</MMr_javelin.tools.shaft.label>
+  <!-- EN: point -->
+  <MMr_javelin.tools.point.label>pointe</MMr_javelin.tools.point.label>
+  <!-- EN: javelin -->
+  <MMr_javelin.verbs.Verb_Shoot.label>javelot</MMr_javelin.verbs.Verb_Shoot.label>
+  
+  <!-- EN: primitive bolas -->
+  <MMr_pbolas.label>bolas primitives</MMr_pbolas.label>
+  <!-- EN: Several stones tied together with a long rope or leather stripls. When thrown bolas connect with the target stones wrap around it entangling it and preventing its movement. -->
+  <MMr_pbolas.description>Plusieurs pierres liées ensemble avec une longue corde ou des lanières de cuir. Lorsqu'elles sont lancées, les bolas se connectent avec les pierres cibles qui s'enroulent autour d'elle, l'emmêlant et empêchant son mouvement.</MMr_pbolas.description>
+  <!-- EN: stone -->
+  <MMr_pbolas.tools.stone.label>pierre</MMr_pbolas.tools.stone.label>
+  <!-- EN: primitive bolas -->
+  <MMr_pbolas.verbs.Verb_Shoot.label>bolas primitives</MMr_pbolas.verbs.Verb_Shoot.label>
+  
+  <!-- EN: sling -->
+  <MMr_sling.label>fronde</MMr_sling.label>
+  <!-- EN: Simple and easy to make weapon for launching small stones at your opponents. -->
+  <MMr_sling.description>Arme simple et facile à fabriquer pour lancer de petites pierres sur vos adversaires.</MMr_sling.description>
+  <!-- EN: stone -->
+  <MMr_sling.tools.stone.label>pierre</MMr_sling.tools.stone.label>
+  <!-- EN: sling -->
+  <MMr_sling.verbs.Verb_Shoot.label>fronde</MMr_sling.verbs.Verb_Shoot.label>
+  
+  <!-- EN: throwing axes -->
+  <MMr_taxes.label>haches de lancer</MMr_taxes.label>
+  <!-- EN: A set of well balanced throwing axes. In capable hands these can be a significant threat even to an armored opponent. Double as a decent melee weapons. -->
+  <MMr_taxes.description>Un ensemble de haches de lancer bien équilibrées. Entre des mains capables, elles peuvent représenter une menace significative même pour un adversaire blindé. Fait également office d'armes de mêlée décentes.</MMr_taxes.description>
+  <!-- EN: handle -->
+  <MMr_taxes.tools.handle.label>manche</MMr_taxes.tools.handle.label>
+  <!-- EN: axeblade -->
+  <MMr_taxes.tools.axeblade.label>lame de hache</MMr_taxes.tools.axeblade.label>
+  <!-- EN: throwing axes -->
+  <MMr_taxes.verbs.Verb_Shoot.label>haches de lancer</MMr_taxes.verbs.Verb_Shoot.label>
+  
+  <!-- EN: throwing knives -->
+  <MMr_tknives.label>couteaux de lancer</MMr_tknives.label>
+  <!-- EN: A set of well balanced throwing knives. They won't do good against heavy armor, but plenty lethal for quietly dealing with unarmored opponents. -->
+  <MMr_tknives.description>Un ensemble de couteaux de lancer bien équilibrés. Ils ne sont pas efficaces contre les armures lourdes, mais sont largement mortels pour traiter discrètement avec des adversaires non blindés.</MMr_tknives.description>
+  <!-- EN: handle -->
+  <MMr_tknives.tools.handle.label>manche</MMr_tknives.tools.handle.label>
+  <!-- EN: point -->
+  <MMr_tknives.tools.point.label>pointe</MMr_tknives.tools.point.label>
+  <!-- EN: throwing knives -->
+  <MMr_tknives.verbs.Verb_Shoot.label>couteaux de lancer</MMr_tknives.verbs.Verb_Shoot.label>
+  
+  <!-- EN: throwing net -->
+  <MMr_tnet.label>filet de lancer</MMr_tnet.label>
+  <!-- EN: Simple rope net, weighted by several steel balls or stones for increased range and velocity. Not exactly dangerous on its own, but can hold target in place, making it vulnerable. Favorite tool of slave traders along with various bolas for "merchandise aquistion". Single use. -->
+  <MMr_tnet.description>Filet de corde simple, lesté par plusieurs boules d'acier ou pierres pour augmenter la portée et la vitesse. Pas exactement dangereux en soi, mais peut maintenir la cible en place, la rendant vulnérable. Outil préféré des marchands d'esclaves avec diverses bolas pour "l'acquisition de marchandises". Usage unique.</MMr_tnet.description>
+  <!-- EN: weight -->
+  <MMr_tnet.tools.weight.label>poids</MMr_tnet.tools.weight.label>
+  <!-- EN: throwing net -->
+  <MMr_tnet.verbs.Verb_ShootOneUse.label>filet de lancer</MMr_tnet.verbs.Verb_ShootOneUse.label>
+  
+</LanguageData>

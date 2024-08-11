@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: unfinished pot -->
+  <DV_UnfinishedPot.label>poterie inachevée</DV_UnfinishedPot.label>
+  <!-- EN: An unfinished pot. -->
+  <DV_UnfinishedPot.description>une poterie qui n'est pas terminée.</DV_UnfinishedPot.description>
+  
+</LanguageData>

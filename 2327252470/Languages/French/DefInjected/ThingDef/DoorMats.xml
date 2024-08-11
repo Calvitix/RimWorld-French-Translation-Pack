@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: paillasson (toile de foin) -->
+  <VBY_DoorMatHayCloth.label>paillasson (toile de foin)</VBY_DoorMatHayCloth.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <VBY_DoorMatHayCloth.description>Un paillasson pour nettoyer vos pieds.</VBY_DoorMatHayCloth.description>
+  
+  <!-- EN: paillasson (toile de foin) -->
+  <VBY_DoorMatHayClothSmall.label>paillasson (toile de foin)</VBY_DoorMatHayClothSmall.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <VBY_DoorMatHayClothSmall.description>Un paillasson pour nettoyer vos pieds.</VBY_DoorMatHayClothSmall.description>
+  
+</LanguageData>

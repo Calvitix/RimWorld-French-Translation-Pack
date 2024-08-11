@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: leftovers -->
+  <Leftovers.label>restes</Leftovers.label>
+  <!-- EN: Leftovers from meals, good for feeding animals. Humans can eat it, but they really, really don't like it. -->
+  <Leftovers.description>Des restes de repas, bons pour nourrir les animaux. Les humains peuvent en manger, mais ils n'aiment vraiment pas ça.</Leftovers.description>
+  
+</LanguageData>

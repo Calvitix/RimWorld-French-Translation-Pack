@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TerrainDef ParentName="BurnedFloorBase">
+    <defName>CCot_BurnedRusticPlankFloor</defName>
+    <label>burned rustic plank floor</label>
+    <renderPrecedence>251</renderPrecedence>
+    <description>Burned-out rustic plank flooring.</description>
+    <texturePath>Terrain/Surfaces/BurnedRusticPlanks</texturePath>
+    <edgeType>FadeRough</edgeType>
+  </TerrainDef>
+
+</Defs>

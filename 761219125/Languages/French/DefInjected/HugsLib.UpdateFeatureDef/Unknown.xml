@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+<!-- Les goules et les mécanoides contrôlés par le joueur peuvent désormais être assignés et envoyés à leurs positions défensives. -->
+<DefensivePositions_1_13_1.content>Les goules et les mécanoides contrôlés par le joueur peuvent désormais être assignés et envoyés à leurs positions défensives.</DefensivePositions_1_13_1.content>
+<!-- Positions défensives -->
+<DefensivePositions_1_13_1.modNameReadable>Positions défensives</DefensivePositions_1_13_1.modNameReadable>
+
+<!-- Colonists peuvent désormais être assignés à des escouades pour une sélection rapide en utilisant les touches numériques. De plus, il existe maintenant des raccourcis clavier pour gérer tous les colons - sélectionner tout le monde, annuler le recrutement de tout le monde et envoyer tout le monde à leur position défensive. Les touches peuvent être réassignées dans Options > Configuration du clavier. -->
+<DefensivePositions_1_2_0.content>Colonists peuvent désormais être assignés à des escouades pour une sélection rapide en utilisant les touches numériques. De plus, il existe maintenant des raccourcis clavier pour gérer tous les colons - sélectionner tout le monde, annuler le recrutement de tout le monde et envoyer tout le monde à leur position défensive. Les touches peuvent être réassignées dans Options > Configuration du clavier.</DefensivePositions_1_2_0.content>
+<!-- Positions défensives -->
+<DefensivePositions_1_2_0.modNameReadable>Positions défensives</DefensivePositions_1_2_0.modNameReadable>
+
+<!-- - Les Positions défensives sont maintenant compatibles avec le mod Multijoueur de Zetrith. |- La touche Maj peut maintenant être utilisée pour mettre en file d'attente les ordres de déplacement. Cela peut être activé via un paramètre dans Options > Options du mod. -->
+<DefensivePositions_1_8_0.content>Les Positions défensives sont maintenant compatibles avec le mod Multijoueur de Zetrith. La touche Maj peut maintenant être utilisée pour mettre en file d'attente les ordres de déplacement. Cela peut être activé via un paramètre dans Options > Options du mod.</DefensivePositions_1_8_0.content>
+<!-- Positions défensives -->
+<DefensivePositions_1_8_0.modNameReadable>Positions défensives</DefensivePositions_1_8_0.modNameReadable>
+
+<!-- - Les caravanes peuvent maintenant être assignées à des escouades depuis la carte du monde. |- En appuyant plusieurs fois sur une touche d'escouade, vous pouvez parcourir tous les endroits où se trouvent ses membres. Fonctionne également pour les caravanes et sur plusieurs cartes. -->
+<DefensivePositions_1_9_1.content>Les caravanes peuvent maintenant être assignées à des escouades depuis la carte du monde. En appuyant plusieurs fois sur une touche d'escouade, vous pouvez parcourir tous les endroits où se trouvent ses membres. Fonctionne également pour les caravanes et sur plusieurs cartes.</DefensivePositions_1_9_1.content>
+<!-- Positions défensives -->
+<DefensivePositions_1_9_1.modNameReadable>Positions défensives</DefensivePositions_1_9_1.modNameReadable>
+
+  
+</LanguageData>

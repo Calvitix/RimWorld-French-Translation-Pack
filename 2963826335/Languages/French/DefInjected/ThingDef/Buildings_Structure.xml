@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ossuary wall -->
+  <DA_OssuaryWall.label>Mur ossuaire</DA_OssuaryWall.label>
+  <!-- EN: An impassable wall made out of sculpted skulls used to decorate ossuaries and crypts. A grim decoration that functions as a memento mori. Capable of holding up a roof. -->
+  <DA_OssuaryWall.description>Mur infranchissable fait de crânes sculptés, utilisé pour décorer les ossuaires et les cryptes. Décoration sinistre qui fait office de memento mori. Capable de soutenir un toit.</DA_OssuaryWall.description>
+  
+</LanguageData>

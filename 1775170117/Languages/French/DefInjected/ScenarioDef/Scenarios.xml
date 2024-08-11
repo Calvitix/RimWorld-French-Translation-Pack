@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Crashlanded (Abandoned City) -->
+  <Crashlanded_City_Abandoned.label>Écrasé (Ville Abandonnée)</Crashlanded_City_Abandoned.label>
+  <!-- EN: Instead of spawning in the wilderness, you will start inside an abandoned city. You will find plenty of\n      resources, but keep a close eye out for scavengers and raiding parties.\n\n<i><color=#66E0E4FF>RimCities</color></i> -->
+  <Crashlanded_City_Abandoned.description>Au lieu d'apparaître dans la nature, vous commencerez à l'intérieur d'une ville abandonnée. Vous trouverez beaucoup de ressources, mais gardez un œil attentif sur les pilleurs et les groupes de raid.</Crashlanded_City_Abandoned.description>
+  <!-- EN: Instead of spawning in the wilderness, you will start inside an abandoned city. You will find plenty of\n      resources, but keep a close eye out for scavengers and raiding parties.\n     -->
+  <Crashlanded_City_Abandoned.scenario.description>Au lieu d'apparaître dans la nature, vous commencerez à l'intérieur d'une ville abandonnée. Vous trouverez beaucoup de ressources, mais gardez un œil attentif sur les pilleurs et les groupes de raid.</Crashlanded_City_Abandoned.scenario.description>
+  <!-- EN: Crashlanded (Abandoned City) -->
+  <Crashlanded_City_Abandoned.scenario.name>Écrasé (Ville Abandonnée)</Crashlanded_City_Abandoned.scenario.name>
+  <!-- EN: The classic RimWorld experience with an urban twist. -->
+  <Crashlanded_City_Abandoned.scenario.summary>L'expérience classique de RimWorld avec une touche urbaine.</Crashlanded_City_Abandoned.scenario.summary>
+  
+  <!-- EN: Crashlanded (Friendly City) -->
+  <Crashlanded_City_Friendly.label>Écrasé (Ville Amicale)</Crashlanded_City_Friendly.label>
+  <!-- EN: Instead of spawning in the wilderness, you will start inside a friendly city.\n\n<i><color=#66E0E4FF>RimCities</color></i> -->
+  <Crashlanded_City_Friendly.description>Au lieu d'apparaître dans la nature, vous commencerez à l'intérieur d'une ville amicale.</Crashlanded_City_Friendly.description>
+  <!-- EN: Instead of spawning in the wilderness, you will start inside a friendly city. -->
+  <Crashlanded_City_Friendly.scenario.description>Au lieu d'apparaître dans la nature, vous commencerez à l'intérieur d'une ville amicale.</Crashlanded_City_Friendly.scenario.description>
+  <!-- EN: Crashlanded (Friendly City) -->
+  <Crashlanded_City_Friendly.scenario.name>Écrasé (Ville Amicale)</Crashlanded_City_Friendly.scenario.name>
+  <!-- EN: The classic RimWorld experience with an urban twist. -->
+  <Crashlanded_City_Friendly.scenario.summary>L'expérience classique de RimWorld avec une touche urbaine.</Crashlanded_City_Friendly.scenario.summary>
+  
+  <!-- EN: Crashlanded (Ghost City) -->
+  <Crashlanded_City_Ghost.label>Écrasé (Ville Fantôme)</Crashlanded_City_Ghost.label>
+  <!-- EN: Instead of spawning in the wilderness, you will start inside an eerily silent city.\n\n<i><color=#66E0E4FF>RimCities</color></i> -->
+  <Crashlanded_City_Ghost.description>Au lieu d'apparaître dans la nature, vous commencerez à l'intérieur d'une ville étrangement silencieuse.</Crashlanded_City_Ghost.description>
+  <!-- EN: Instead of spawning in the wilderness, you will start inside an eerily silent city. -->
+  <Crashlanded_City_Ghost.scenario.description>Au lieu d'apparaître dans la nature, vous commencerez à l'intérieur d'une ville étrangement silencieuse.</Crashlanded_City_Ghost.scenario.description>
+  <!-- EN: Crashlanded (Ghost City) -->
+  <Crashlanded_City_Ghost.scenario.name>Écrasé (Ville Fantôme)</Crashlanded_City_Ghost.scenario.name>
+  <!-- EN: The classic RimWorld experience with an urban twist. -->
+  <Crashlanded_City_Ghost.scenario.summary>L'expérience classique de RimWorld avec une touche urbaine.</Crashlanded_City_Ghost.scenario.summary>
+  
+  <!-- EN: Task Force (Hostile Capitol) -->
+  <Siege_City_Citadel.label>Force d'intervention (Capitale Hostile)</Siege_City_Citadel.label>
+  <!-- EN: Take command of an elite task force to capture a hostile citadel. Expect multiple days of combat-intensive gameplay on a long, narrow city map.\n\n<i><color=#66E0E4FF>RimCities</color></i> -->
+  <Siege_City_Citadel.description>Prenez le commandement d'une force d'intervention d'élite pour capturer une citadelle hostile. Attendez-vous à plusieurs jours de gameplay intensif au combat sur une carte de ville longue et étroite.</Siege_City_Citadel.description>
+  <!-- EN: Take command of an elite task force to capture a hostile citadel. Expect multiple days of combat-intensive gameplay on a long, narrow city map. -->
+  <Siege_City_Citadel.scenario.description>Prenez le commandement d'une force d'intervention d'élite pour capturer une citadelle hostile. Attendez-vous à plusieurs jours de gameplay intensif au combat sur une carte de ville longue et étroite.</Siege_City_Citadel.scenario.description>
+  <!-- EN: Task Force (Hostile Capitol) -->
+  <Siege_City_Citadel.scenario.name>Force d'intervention (Capitale Hostile)</Siege_City_Citadel.scenario.name>
+  <!-- EN: Take command of an elite task force to capture a hostile citadel. -->
+  <Siege_City_Citadel.scenario.summary>Prenez le commandement d'une force d'intervention d'élite pour capturer une citadelle hostile.</Siege_City_Citadel.scenario.summary>
+
+  
+</LanguageData>

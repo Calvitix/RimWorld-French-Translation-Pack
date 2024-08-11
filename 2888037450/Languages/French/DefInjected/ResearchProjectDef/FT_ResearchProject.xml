@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Concrete -->
+  <FT_Concrete.label>Béton</FT_Concrete.label>
+  <!-- EN: crush and smelt stony material to concrete. -->
+  <FT_Concrete.description>broyer et fondre les matériaux pierreux pour les transformer en béton.</FT_Concrete.description>
+
+</LanguageData>

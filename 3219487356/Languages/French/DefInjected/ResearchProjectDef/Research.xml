@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+<!-- EN: Small trap -->
+<HAZN_SmallTrap.label>Petit piège</HAZN_SmallTrap.label>
+<!-- EN: Research small hunting trap to passively catch small animals, must be baited with kibble or raw vegetables. -->
+<HAZN_SmallTrap.description>Recherchez le petit piège de chasse pour capturer passivement de petits animaux, il doit être appâté avec des croquettes ou des légumes crus.</HAZN_SmallTrap.description>
+
+</LanguageData>

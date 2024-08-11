@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<Mote_Bucket.label>Mote</Mote_Bucket.label>
+<Mote_Plunger.label>Mote</Mote_Plunger.label>
+<Mote_FecalBit.label>Mote</Mote_FecalBit.label>
+
+
+<BionicBladder.label>vessie bionique</BionicBladder.label>
+<BionicBladder.description>Une vessie artificielle avancée. Un système de recyclage chimique décompose les déchets du corps en molécules qui sont recyclées, le reste étant libéré sous forme de gaz, l'inconvénient étant que cela donne des gaz à l'utilisateur.</BionicBladder.description>
+
+<HygieneEnhancer.label>amélioration d'hygiène</HygieneEnhancer.label>
+<HygieneEnhancer.description>Libère des mécanites qui décomposent les cellules mortes et autres détritus sur la peau et les cheveux en les libérant de manière inoffensive dans l'air.</HygieneEnhancer.description>
+
+<!-- Pipes -->
+<sewagePipeStuff.label>tuyau</sewagePipeStuff.label>
+<sewagePipeStuff.description>Tuyauterie pour raccorder des objets ayant besoin d’eau ou d’évacuation des eaux usées.</sewagePipeStuff.description>
+
+<plumbingValve.label>vanne de plomberie</plumbingValve.label>
+<plumbingValve.description>Ouvre ou ferme les connexions entre les tuyaux.</plumbingValve.description>
+
+<airPipe.label>gaine de ventilation</airPipe.label>
+<airPipe.description>Gaine pour connecter les climatiseurs.</airPipe.description>
+
+
+<ToiletStallDoor.label>porte des toilettes</ToiletStallDoor.label>
+<ToiletStallDoor.description>Une porte fine qui bloque uniquement la vue des personnes utilisant les toilettes. Ne crée pas de nouvelles pièces et n'empêche pas les pertes de chaleur.</ToiletStallDoor.description>
+
+<!-- Low Tech Stuff -->
+<PitLatrine.label>latrine</PitLatrine.label>
+<PitLatrine.description>Une latrine à fosse collectant les excréments dans un trou dans le sol. Elle doit être vidée manuellement ou peut être raccordée à une canalisation.\n14L par utilisation</PitLatrine.description>
+
+<PrimitiveWell.label>puits primitif</PrimitiveWell.label>
+<PrimitiveWell.description>Accès aux eaux souterraines. L'eau doit être transportée jusqu'à un bac à eau avant de pouvoir être utilisée pour se laver ou boire.</PrimitiveWell.description>
+
+<WashBucket.label>bassine d'eau</WashBucket.label>
+<WashBucket.description>Bassine d'eau utilisée pour l'hygiène personnelle, doit être régulièrement remplie d'eau fraîche, se remplit également d'eau de pluie. Peut également être utilisé pour boire si la soif est activée.</WashBucket.description>
+
+<LitterBox.label>litière</LitterBox.label>
+<LitterBox.description>Une boîte de collecte d'excrément et d'urine pour les petits animaux.</LitterBox.description>
+
+<BurnPit.label>incinérateur de déchets</BurnPit.label>
+<BurnPit.description>Élimine les boues fécales en les brûlant comme combustible. Peut également être utilisé pour éliminer les cadavres ou autres détritus. Les colons peuvent tomber malades s'ils passent trop de temps à proximité de déchets en combustion.</BurnPit.description>
+
+<!-- Basins -->
+<BasinStuff.label>lavabo</BasinStuff.label>
+<BasinStuff.description>Lavabo simple pour se laver les mains après avoir utilisé les toilettes.</BasinStuff.description>
+
+<Fountain.label>fontaine</Fountain.label>
+<Fountain.description>Une fontaine d'eau utilisée pour boire et se laver.</Fountain.description>
+
+<KitchenSink.label>évier</KitchenSink.label>
+<KitchenSink.description>Les plats ne se lavent pas d'eux-mêmes. Augmente la propreté dans la pièce.</KitchenSink.description>
+
+<!-- Toilets -->
+<ToiletStuff.label>toilette</ToiletStuff.label>
+<ToiletStuff.description>Appareil sanitaire utilisé pour l'élimination de l'urine et des excréments humains.\n14L par utilisation</ToiletStuff.description>
+
+<ToiletAdvStuff.label>toilette intelligent</ToiletAdvStuff.label>
+<ToiletAdvStuff.description>Des toilettes intelligentes confortables, autonettoyantes, débouchables et super efficaces. Offre une expérience multifonctionnelle optimale avec un nettoyage et une désodorisation automatique.\n7L par utilisation</ToiletAdvStuff.description>
+
+<!-- Baths -->
+<BathMat.label>tapis de bain</BathMat.label>
+<BathMat.description>Un petit tapis utilisé à côté d'une baignoire pour absorber l'eau.</BathMat.description>
+
+<BathtubStuff.label>baignoire</BathtubStuff.label>
+<BathtubStuff.description>Lent à utiliser et nécessite de grandes quantités d'eau, mais très confortable. Peut être chauffé en plaçant un feu de camp adjacent ou une chaudière à bois, ou via des réservoirs d'eau chaude. Ne nécessite pas de sortie d'égout.\n190L par utilisation</BathtubStuff.description>
+
+<!-- Showers -->
+<ShowerStuff.label>douche</ShowerStuff.label>
+<ShowerStuff.description>Douche simple. Nécessite l'eau des châteaux d'eau. Peut être chauffé via des réservoirs d'eau chaude. Ne nécessite pas de sortie d'égout.\n65L par utilisation</ShowerStuff.description>
+
+<ShowerSimple.label>douche simple</ShowerSimple.label>
+<ShowerSimple.description>Douche simple. Nécessite l'eau des châteaux d'eau. Peut être chauffé via des réservoirs d'eau chaude. Ne nécessite pas de sortie d'égout.\n65L par utilisation</ShowerSimple.description>
+
+<ShowerAdvStuff.label>douche massante</ShowerAdvStuff.label>
+<ShowerAdvStuff.description>Comprend une grande pomme de douche de 110 mm à 4 jets pour détendre les muscles endoloris. Chauffe l'eau à la demande et double la vitesse de lavage !\n90L par utilisation</ShowerAdvStuff.description>
+
+
+<DBHSwimmingPool.label>piscine</DBHSwimmingPool.label>
+<DBHSwimmingPool.description>Piscine utilisée pour l'hydrothérapie, la relaxation ou le plaisir. Doit d'abord être rempli d'eau des châteaux d'eau.</DBHSwimmingPool.description>
+
+<HotTub.label>jacuzzi</HotTub.label>
+<HotTub.description>Jacuzzi utilisé pour l'hydrothérapie, la relaxation ou le plaisir. Rempli d'eau des châteaux d'eau lors de la première utilisation. Auto-chauffant et ne nécessite pas d'évacuation des eaux usées.</HotTub.description>
+
+<WashingMachine.label>machine à laver</WashingMachine.label>
+<WashingMachine.description>Lave les vêtements si bien que vous ne pourrez jamais dire que quelqu'un est mort en les portant !</WashingMachine.description>
+
+<DBHSaunaHeaterLog.label>chauffage du sauna à combustible</DBHSaunaHeaterLog.label>
+<DBHSaunaHeaterLog.description>Un système de chauffage conçu spécialement pour créer une salle de sauna. L'utilisation régulière d'un sauna réduit le risque de crise cardiaque et permet de chauffer une pièce à 60°C.</DBHSaunaHeaterLog.description>
+
+<DBHSaunaHeaterElec.label>chauffage du sauna électrique</DBHSaunaHeaterElec.label>
+<DBHSaunaHeaterElec.description>Un système de chauffage conçu spécialement pour créer une salle de sauna. L'utilisation régulière d'un sauna réduit le risque de crise cardiaque et permet de chauffer une pièce à 60°C.</DBHSaunaHeaterElec.description>
+
+<DBHSaunaSeating.label>siège du sauna</DBHSaunaSeating.label>
+<DBHSaunaSeating.description>Sièges à lattes pour les saunas.</DBHSaunaSeating.description>
+
+
+<!-- WATER PUMPING -->
+<WaterWellInlet.label>puits</WaterWellInlet.label>
+<WaterWellInlet.description>Accède à l'eau souterraine qui peut être pompée par des pompes à eau. La présence d'eaux usées ou d'autres pollutions réduira la qualité de l'eau et peut provoquer une contamination.</WaterWellInlet.description>
+
+<DeepWaterWellInlet.label>puits profond</DeepWaterWellInlet.label>
+<DeepWaterWellInlet.description>Accède à une grande surface d'eau souterraine qui peut être pompée par des pompes à eau. Les puits profonds ne sont pas affectés par la pollution.</DeepWaterWellInlet.description>
+
+<WaterButt.label>tonneau</WaterButt.label>
+<WaterButt.description>Stocke l'eau destinée à être utilisée par les appareils sanitaires. Si l'eau contenue est contaminée, le réservoir doit être vidangé.</WaterButt.description>
+
+<WaterTowerS.label>château d'eau</WaterTowerS.label>
+<WaterTowerS.description>Stocke l'eau destinée à être utilisée par les appareils sanitaires. Si l'eau contenue est contaminée, le réservoir doit être vidangé.</WaterTowerS.description>
+
+<WaterTowerL.label>grand réservoir d'eau</WaterTowerL.label>
+<WaterTowerL.description>Stocke l'eau destinée à être utilisée par les appareils sanitaires. Si l'eau contenue est contaminée, le réservoir doit être vidangé.</WaterTowerL.description>
+
+<WindPump.label>pompe à vent</WindPump.label>
+<WindPump.description>Une pompe éolienne.\n\nPompe l'eau du puits dans les châteaux d'eau.\n\nCapacité de la pompe: 3000 L/Jour</WindPump.description>
+
+<ElectricPump.label>pompe électrique</ElectricPump.label>
+<ElectricPump.description>Pompe l'eau du puits dans les châteaux d'eau.\n\nCapacité de la pompe: 1500 L/Jour</ElectricPump.description>
+
+<PumpingStation.label>station de pompage</PumpingStation.label>
+<PumpingStation.description>Pompe l'eau du puits dans les châteaux d'eau.\n\nCapacité de la pompe: 10000 L/Jour</PumpingStation.description>
+
+<SewageOutlet.label>sortie eaux usée</SewageOutlet.label>
+<SewageOutlet.description>Peut être placé n'importe où. Les eaux usées s'accumuleront et se répandront sur la terre ou se disperseront dans l'eau. Les eaux usées se nettoient avec le temps; la présence d'arbres, d'eau ou de pluie accélérera cela.</SewageOutlet.description>
+
+<SewageSepticTank.label>fosse septique</SewageSepticTank.label>
+<SewageSepticTank.description>Nettoie lentement les eaux usées au fil du temps. Les eaux usées sont d'abord dirigées vers la fosse septique, lorsqu'elles atteignent leur capacité maximale, les eaux usées en excès sont envoyées aux sorties des eaux usées.</SewageSepticTank.description>
+
+<SewageTreatment.label>traitement eaux usées</SewageTreatment.label>
+<SewageTreatment.description>Nettoie lentement les eaux usées au fil du temps. Les eaux usées sont d'abord envoyées aux stations d'épuration où 90% sont éliminées, les 10% restants sont envoyés aux sorties d'eaux usées, lorsque la pleine capacité est atteinte, les eaux usées en excès sont envoyées directement aux sorties d'eaux usées sans traitement.</SewageTreatment.description>
+
+<WaterTreatment.label>usine traitement de l'eau</WaterTreatment.label>
+<WaterTreatment.description>Nettoie 99,99% des germes ! Filtre l'eau existante dans les tours de stockage et toute eau consommée par les robinets, éliminant ainsi le risque de maladie.</WaterTreatment.description>
+
+
+<!-- Heating -->
+<Thermostat.label>thermostat</Thermostat.label>
+<Thermostat.description>Utilisé pour contrôler les chaudières électriques et à gaz. Il est possible d'en placer plusieurs. Se connecte via la plomberie standard.</Thermostat.description>
+
+<LogBoiler.label>chaudière à bois</LogBoiler.label>
+<LogBoiler.description>Produit 2000 unités de chauffage pour radiateurs et réservoirs d'eau chaude. Chauffe la pièce et les baignoires adjacentes. Nécessite du bois comme combustible.</LogBoiler.description>
+<LogBoiler.comps.CompBoiler.GizmoLabel>Mode d'énergie</LogBoiler.comps.CompBoiler.GizmoLabel>
+
+<GasBoiler.label>chaudière à gaz</GasBoiler.label>
+<GasBoiler.description>Produit 2000 unités de chauffage pour les radiateurs et le stockage d'eau chaude. Nécessite du Chemfuel comme combustible. Peut être contrôlé par un thermostat.</GasBoiler.description>
+<GasBoiler.comps.CompBoiler.GizmoLabel>Mode d'énergie</GasBoiler.comps.CompBoiler.GizmoLabel>
+
+<ElectricBoiler.label>chaudière électrique</ElectricBoiler.label>
+<ElectricBoiler.description>Produit une quantité variable d'unités de chauffage pour les radiateurs et les réservoirs d'eau chaude. Réglage manuel de la puissance. Peut être contrôlé par un thermostat.</ElectricBoiler.description>
+<ElectricBoiler.comps.CompBoiler.GizmoLabel>Mode d'énergie</ElectricBoiler.comps.CompBoiler.GizmoLabel>
+
+<SolarHeater.label>chauffage solaire</SolarHeater.label>
+<SolarHeater.description>Utilise la lumière du soleil pour chauffer les réservoirs d'eau chaude et les radiateurs. 0-2000 unités de chauffage en fonction du niveau d'éclairage et de la température ambiante.</SolarHeater.description>
+<SolarHeater.comps.CompBoilerSolar.GizmoLabel>Mode d'énergie</SolarHeater.comps.CompBoilerSolar.GizmoLabel>
+
+<GeothermHeater.label>chauffage géothermique</GeothermHeater.label>
+<GeothermHeater.description>Utilise la chaleur géothermique pour chauffer les réservoirs d'eau chaude et les radiateurs. 3700 unités de chauffage.</GeothermHeater.description>
+<GeothermHeater.comps.CompGeoBoiler.GizmoLabel>Mode d'énergie</GeothermHeater.comps.CompGeoBoiler.GizmoLabel>
+
+<HotWaterTank.label>réservoir d'eau chaude</HotWaterTank.label>
+<HotWaterTank.description>Stocke l'eau chaude pour les douches et les baignoires et peut être connectée à n'importe quelle chaudière.</HotWaterTank.description>
+
+<RadiatorStuffed.label>radiateur</RadiatorStuffed.label>
+<RadiatorStuffed.description>Chauffe les pièces avec de l'eau chaude. Nécessite 100 unités de chauffage.</RadiatorStuffed.description>
+
+<RadiatorLarge.label>grand radiateur</RadiatorLarge.label>
+<RadiatorLarge.description>3 fois plus puissant qu'un radiateur, utile pour les grandes pièces. Nécessite 300 unités de chauffage.</RadiatorLarge.description>
+
+<RadiatorTowelRail.label>porte-serviettes</RadiatorTowelRail.label>
+<RadiatorTowelRail.description>Impressionnant porte-serviettes de salle de bains.</RadiatorTowelRail.description>
+
+<!-- COOLING -->
+<CeilingFan.label>ventilateur de plafond 2x2</CeilingFan.label>
+<CeilingFan.description>Refroidit une pièce en faisant circuler l'air, une lampe est intégrée.</CeilingFan.description>
+
+<CeilingFanS.label>ventilateur de plafond 1x1</CeilingFanS.label>
+<CeilingFanS.description>Refroidit une pièce en faisant circuler l'air, une lampe est intégrée.</CeilingFanS.description>
+
+<CeilingFanDarklight.label>ventilateur de plafond 2x2</CeilingFanDarklight.label> <!-- Avec la 1.4 plus besion des lampes tamisées car le type de lampe peut être modifié -->
+<CeilingFanDarklight.description>Refroidit une pièce en faisant circuler l'air, une lampe est intégrée.</CeilingFanDarklight.description> <!-- Avec la 1.4 plus besion des lampes tamisées car le type de lampe peut être modifié -->
+
+<CeilingFanSDarklight.label>ventilateur de plafond 1x1</CeilingFanSDarklight.label> <!-- Avec la 1.4 plus besion des lampes tamisées car le type de lampe peut être modifié -->
+<CeilingFanSDarklight.description>Refroidit une pièce en faisant circuler l'air, une lampe est intégrée.</CeilingFanSDarklight.description> <!-- Avec la 1.4 plus besion des lampes tamisées car le type de lampe peut être modifié -->
+
+<AirConOutdoorUnit.label>convecteur extérieur</AirConOutdoorUnit.label>
+<AirConOutdoorUnit.description>Climatiseur multi-split. Placez-le à l'extérieur et raccordez-le à des unités intérieures ou à des unités de congélation. Sélectionner le mode d'alimentation pour une capacité allant de 100 à 1000 unités de refroidissement.</AirConOutdoorUnit.description>
+
+<AirconIndoorUnit.label>climatisation</AirconIndoorUnit.label>
+<AirconIndoorUnit.description>Le climatiseur intérieur doit être connecté à un convecteur extérieur. Nécessite 100 unités de refroidissement.</AirconIndoorUnit.description>
+
+<FreezerUnit.label>évaporateur négative</FreezerUnit.label>
+<FreezerUnit.description>Évaporateur pour la congélation, nécessite une connexion a un convecteur extérieur. Nécessite 300 unités de refroidissement.</FreezerUnit.description>
+
+
+<!-- Irrigation -->
+<IrrigationSprinkler.label>arroseur (Irrigation)</IrrigationSprinkler.label>
+<IrrigationSprinkler.description>Arrose la zone environnante une fois par matinée pour améliorer la fertilité du sol tout au long de la journée. Utilise 1000L chaque matin au rayon maximum.</IrrigationSprinkler.description>
+
+<FireSprinkler.label>gicleur (Incendie)</FireSprinkler.label>
+<FireSprinkler.description>Déclenché par le feu, une température élevée ou à la main, éteinds les flammes avec un jet d'eau.</FireSprinkler.description>
+<FireSprinkler.comps.CompUsable.useLabel>gicleur à déclenchement (Incendie)</FireSprinkler.comps.CompUsable.useLabel>
+
+<BiosolidsComposter.label>composteur biosolide</BiosolidsComposter.label>
+<BiosolidsComposter.description>Un composteur pour transformer les boues fécales en engrais pour augmenter la fertilité du terrain.</BiosolidsComposter.description>
+
+
+<FilthUrine.label>urine</FilthUrine.label>
+<FilthUrine.description>Urine sur le sol.</FilthUrine.description>
+
+<FilthFaeces.label>excrément</FilthFaeces.label>
+
+<RawSewage.label>eaux usée</RawSewage.label>
+
+
+<BedPan.label>bassin de lit</BedPan.label>
+<BedPan.description>Un récipient utilisé par un patient alité pour l'urine et les selles.</BedPan.description>
+
+<Biosolids.label>biosolide</Biosolids.label>
+<Biosolids.description>Lorsqu'elles sont correctement traitées et transformées, les boues fécales deviennent du biosolide qui offre un petit coup de pouce à la fertilité du terrain. Utile dans les environnements difficiles où l'espace de culture est limité. Les biosolides donnent également une forte augmentation de la fertilité du sable, ce qui peut le rendre fertile lorsqu'il est combiné à l'irrigation.</Biosolids.description>
+
+<FecalSludge.label>tonneau boues fécales</FecalSludge.label>
+<FecalSludge.description>Un tonneau rempli de matières fécales pouvant être conservé, brûlé ou composté en biosolides.</FecalSludge.description>
+
+<!-- Le "besoin de soif" doit être activé pour éviter les erreurs -->
+<DBH_WaterBottle.label>eau</DBH_WaterBottle.label>
+<DBH_WaterBottle.description>Une outre d'eau.</DBH_WaterBottle.description>
+<DBH_WaterBottle.ingestible.ingestCommandString>Boire l'{0}</DBH_WaterBottle.ingestible.ingestCommandString>
+<DBH_WaterBottle.ingestible.ingestReportString>Boit l'{0}.</DBH_WaterBottle.ingestible.ingestReportString>
+
+<WaterTrough.label>abreuvoir</WaterTrough.label>
+<WaterTrough.description>Abreuvoir d'eau utilisé par les animaux, un réservoir avec un robinet à bille remplit automatiquement l'eau lorsque le niveau est trop bas, il se remplit également en cas de pluie.</WaterTrough.description>
+
+<PetWaterBowl.label>bol d'eau</PetWaterBowl.label>
+<PetWaterBowl.description>Bol d'eau utilisé par les animaux.</PetWaterBowl.description>
+
+<HydroponicsBasin.comps.CompRefuelable.fuelLabel>Eau</HydroponicsBasin.comps.CompRefuelable.fuelLabel>
+
+
+</LanguageData>

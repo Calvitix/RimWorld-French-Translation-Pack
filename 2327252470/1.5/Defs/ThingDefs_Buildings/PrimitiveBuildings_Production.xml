@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Base -->
+	
+	<ThingDef Name="VBY_PrimitiveBenchBase" ParentName="VBY_PrimitiveProductionBase" Abstract="True">
+	  <thingClass>Building_WorkTable</thingClass>
+	  <building>
+	    <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+      </building>
+	  <researchPrerequisites>
+        <li>VBY_PrimitiveProduction</li>
+      </researchPrerequisites>	  	
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+	</ThingDef>
+
+<!-- Crafting Table -->
+	
+  <ThingDef ParentName="VBY_PrimitiveBenchBase">
+    <defName>VBY_PrimitiveCraftingTable</defName>
+    <label>Poste de fabrication primitif</label>
+    <description>Un banc de pierre pour fabriquer des objets simples comme des couteaux ou des arcs. Avec quelques outils simples, ce banc est plus efficace qu'un terrain plat.</description>    
+    <graphicData>
+      <texPath>Things/Building/Production/Neolithic/HDM_TableCrafting</texPath>      
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawSize>(3.15,1.35)</drawSize>
+    </graphicData>
+	<uiIconPath>Things/Building/Production/Neolithic/HDM_TableCrafting_south</uiIconPath>
+    <uiIconScale>0.9</uiIconScale>
+    <statBases>
+      <WorkToBuild>2500</WorkToBuild>
+	  <MaxHitPoints>380</MaxHitPoints>
+      <WorkTableWorkSpeedFactor>0.50</WorkTableWorkSpeedFactor>
+    </statBases>
+	<comps>
+	  <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>ToolCabinet</li>
+		  <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_ConfectionerySaucer</li>
+		  <li MayRequire="zal.tribalessentials">CraftingBasket</li>
+        </linkableFacilities>
+      </li>
+    </comps>
+	<costList>
+	  <WoodLog>10</WoodLog>
+	</costList>
+    <recipes>
+      <li>SmashCorpseMechanoid</li>
+	  <li MayRequire="Neronix17.Outland.Core">Outland_MakeComponentMedieval</li>
+    </recipes>
+	<costStuffCount>75</costStuffCount>
+    <stuffCategories>
+      <li>Stony</li>
+    </stuffCategories>
+  </ThingDef>
+ 
+<!-- Butcher Table -->
+ 
+  <ThingDef ParentName="VBY_PrimitiveBenchBase">
+    <defName>VBY_PrimitiveButcherTable</defName>
+    <label>poste de boucher en pierre</label>
+    <description>Une dalle de pierre pour dépecer les animaux. Avec quelques outils simples, ce banc est plus efficace qu'un terrain plat.</description>    
+    <graphicData>
+      <texPath>Things/Building/Production/TableButcher/HDM_TableButcherNeolithic</texPath>      
+      <graphicClass>Graphic_Multi</graphicClass>
+	  <shaderType>CutoutComplex</shaderType>
+      <drawSize>(1.15,1.15)</drawSize> 
+    </graphicData>
+	<uiIconPath>Things/Building/Production/TableButcher/HDM_TableButcherNeolithic_south</uiIconPath>
+    <uiIconScale>0.85</uiIconScale>
+	<fillPercent>0.45</fillPercent>
+    <statBases>
+      <WorkToBuild>750</WorkToBuild>	  
+	  <MaxHitPoints>280</MaxHitPoints>
+      <WorkTableEfficiencyFactor>0.85</WorkTableEfficiencyFactor>
+	  <Mass>27</Mass>
+	  <Cleanliness>-20</Cleanliness>
+    </statBases>
+	<comps>
+	  <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>ToolCabinet</li>
+          <li MayRequire="Semo583.GloomyHExtraHUHKitchen">SM_Sink</li>
+          <li MayRequire="Semo583.GloomyHExtraHUHKitchen">SM_ButcherShelf</li>
+          <li MayRequire="Semo583.GloomyHExtraHUHKitchen">SM_KitchenCupboard_A</li>
+          <li MayRequire="Semo583.GloomyHExtraHUHKitchen">SM_KitchenCupboard_B</li>
+          <li MayRequire="Semo583.GloomyHExtraHUHKitchen">SM_KitchenCupboard_C</li>
+		  <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_ConfectionerySaucer</li>
+		  <li MayRequire="tosenbo.Ricecultivatingcivilization">CookingTable</li>
+        </linkableFacilities>
+      </li>
+    </comps>
+    <recipes>
+      <li>ButcherCorpseFlesh</li>
+      <li>Make_Kibble</li>
+	  <li MayRequire="sihv.rombones">MakeMarrowFromBone</li>
+	  <li MayRequire="pleccymm.infectiouscreatures">ExtractSnakeVenomGland</li>
+	  <li MayRequire="pleccymm.infectiouscreatures">ExtractMegaSpiderVenomGland</li>
+	  <li MayRequire="pleccymm.infectiouscreatureslite">ExtractSnakeVenomGland</li>
+    </recipes>
+	<costList>
+	  <WoodLog>10</WoodLog>
+	</costList>
+	<costStuffCount>25</costStuffCount>
+    <stuffCategories>
+      <li>Stony</li>
+    </stuffCategories>
+	<size>(1,1)</size>
+  </ThingDef>
+ 
+<!-- Kiln -->
+  
+  <ThingDef ParentName="VBY_PrimitiveBenchBase">  
+    <thingClass>Building_WorkTable_HeatPush</thingClass> 
+    <defName>VBY_PrimitiveKiln</defName>
+    <label>séchoir en pierre(H)</label>
+    <description>Un séchoir en pierre pour la production de poterie, de céramique et d'adobe.</description>    
+    <graphicData>
+      <texPath>Things/Building/Production/Kiln88/HDM_Kiln88</texPath>       <!-- Add bench segment for non-pottery  -->
+      <graphicClass>Graphic_Single</graphicClass>
+	  <shaderType>CutoutComplex</shaderType>
+      <drawSize>(1.15,1.15)</drawSize>  <!-- (1.15,1.15)  -->
+	  <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+    </graphicData>
+	<drawerType>RealtimeOnly</drawerType>   
+    <tickerType>Normal</tickerType>
+	<uiIconPath>Things/Building/Production/Kiln88/HDM_Kiln88</uiIconPath>
+    <uiIconScale>0.85</uiIconScale>
+	<fillPercent>0.55</fillPercent>
+	<rotatable>true</rotatable>
+    <statBases>
+      <WorkToBuild>1010</WorkToBuild>
+	  <MaxHitPoints>180</MaxHitPoints>
+      <WorkTableWorkSpeedFactor>0.75</WorkTableWorkSpeedFactor>
+	  <Mass>52</Mass>
+    </statBases>     
+    <recipes>
+      <!--  here  -->
+    </recipes>
+	<size>(1,1)</size>
+	<costList>
+	  <WoodLog>25</WoodLog>
+	</costList>
+	<costStuffCount>30</costStuffCount>
+    <stuffCategories>
+      <li>Stony</li>
+    </stuffCategories>
+	<!-- <size>(1,1)</size>  -->
+	<comps>
+      <li Class="CompProperties_Refuelable">
+        <fuelConsumptionRate>80.0</fuelConsumptionRate>
+        <fuelCapacity>25.0</fuelCapacity>
+        <fuelFilter>
+          <thingDefs>
+            <li>WoodLog</li>
+			<li MayRequire="tosenbo.Ricecultivatingcivilization">RPC_Firewood</li>
+			<li MayRequire="tosenbo.Ricecultivatingcivilization">Momigalite</li>
+			<li MayRequire="tosenbo.Ricecultivatingcivilization">RPC_Charcoal</li>
+          </thingDefs>
+        </fuelFilter>
+		<initialFuelPercent>1</initialFuelPercent>
+        <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
+        <showAllowAutoRefuelToggle>true</showAllowAutoRefuelToggle>
+      </li>
+	  <li Class="CompProperties_Glower">
+        <glowRadius>7</glowRadius>
+        <glowColor>(73,123,138,0)</glowColor>
+      </li>
+      <li Class="CompProperties_HeatPusher">
+        <compClass>CompHeatPusherPowered</compClass>
+        <heatPerSecond>8</heatPerSecond>
+      </li>
+      <li Class="CompProperties_FireOverlay">
+        <fireSize>0.60</fireSize>
+		<offset>(0,-0.3,-0.2)</offset>
+      </li>
+	  <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>ToolCabinet</li>
+		  <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_ConfectionerySaucer</li>
+		  <li MayRequire="zal.tribalessentials">CraftingBasket</li>
+        </linkableFacilities>
+      </li>
+      <li MayRequire="owlchemist.simplefx.smoke2" Class="Flecker.CompProperties_Smoker">
+		<fleckDef>Owl_SmokeHeavy</fleckDef>
+		<particleOffset>(0,0,0.5)</particleOffset>
+	  </li>
+      <li MayRequire="LongerCFloor.ProxyHeat" Class="ProxyHeat.CompProperties_TemperatureSource">
+		<radius>1.5</radius>
+		<tempOutcome>20</tempOutcome>
+		<dependsOnFuel>true</dependsOnFuel>
+		<maxTemperature>30</maxTemperature>
+		<smeltSnowRadius>1.25</smeltSnowRadius>
+		<smeltSnowAtTemperature>3</smeltSnowAtTemperature>
+		<smeltSnowPower>0.001</smeltSnowPower>
+	  </li>
+    </comps>
+    <building>
+      <heatPerTickWhileWorking>0.15</heatPerTickWhileWorking>
+    </building>
+  </ThingDef>
+ 
+<!-- Tailoring Table -->
+     
+   <ThingDef ParentName="VBY_PrimitiveBenchBase">
+    <defName>VBY_PrimitiveTailoringTable</defName>
+    <label>poste de couture primitif</label>
+    <description>Une dalle de pierre avec des outils primitifs pour tisser des vêtements primitifs.</description>    
+    <graphicData>
+      <texPath>Things/Building/Production/Neolithic/HDM_TableTailoring</texPath>      
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawSize>(3.15,1.35)</drawSize>
+    </graphicData>
+	<uiIconPath>Things/Building/Production/Neolithic/HDM_TableTailoring_north</uiIconPath>
+    <uiIconScale>0.9</uiIconScale>
+    <statBases>
+      <WorkToBuild>3500</WorkToBuild>
+	  <MaxHitPoints>250</MaxHitPoints>
+      <WorkTableWorkSpeedFactor>0.35</WorkTableWorkSpeedFactor>
+    </statBases>
+	<comps>
+	  <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>ToolCabinet</li>
+          <li MayRequire="VanillaExpanded.VFEProduction">VFE_TailorCabinet</li>
+		  <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_ConfectionerySaucer</li>
+        </linkableFacilities>
+      </li>
+    </comps>
+	<costList>
+			<WoodLog>20</WoodLog>
+	</costList>
+	<costStuffCount>75</costStuffCount>
+    <stuffCategories>
+      <li>Stony</li>
+    </stuffCategories>
+  </ThingDef>
+ 
+<!-- Stonecutting Table -->
+      
+  <ThingDef ParentName="VBY_PrimitiveBenchBase">
+    <defName>VBY_PrimitiveStoneCuttingTable</defName>
+    <label>table de maçonnerie</label>
+    <description>Une table avec des outils primitifs pour casser des roches en blocs.</description>    
+    <graphicData>
+      <texPath>Things/Building/Production/Neolithic/HDM_TableMason</texPath>      
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawSize>(3.15,1.35)</drawSize>
+    </graphicData>
+	<uiIconPath>Things/Building/Production/Neolithic/HDM_TableMason_south</uiIconPath>
+    <uiIconScale>0.9</uiIconScale>
+    <statBases>
+      <WorkToBuild>1000</WorkToBuild>
+	  <MaxHitPoints>450</MaxHitPoints>
+      <WorkTableWorkSpeedFactor>0.55</WorkTableWorkSpeedFactor>
+	  <WorkTableEfficiencyFactor>0.85</WorkTableEfficiencyFactor>
+	  <Cleanliness>-10</Cleanliness>
+    </statBases>
+	<comps>
+	  <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>ToolCabinet</li>
+		  <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_ConfectionerySaucer</li>
+        </linkableFacilities>
+      </li>
+    </comps>
+	<costList>
+	  <WoodLog>5</WoodLog>
+	</costList>
+	<costStuffCount>75</costStuffCount>
+    <stuffCategories>
+      <li>Stony</li>
+    </stuffCategories>
+	<researchPrerequisites>
+		<li>VBY_PrimitiveStonecutting</li>
+    </researchPrerequisites>
+	<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>     
+    <recipes />
+  </ThingDef>
+ 
+<!-- Herbalist Table -->
+   
+  <ThingDef ParentName="VBY_PrimitiveBenchBase">
+    <defName>VBY_PrimitiveBrewery_HerbalistBench</defName>
+    <label>poste d'herboristerie et de fabrication de spiritueux</label>
+    <description>Une table pour concocter des alcools et des médicaments.</description>    
+    <graphicData>
+      <texPath>Things/Building/Production/Neolithic/HDM_BrewHerbTable</texPath>      
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawSize>(3.15,1.35)</drawSize>
+    </graphicData>
+	<uiIconPath>Things/Building/Production/Neolithic/HDM_BrewHerbTable_south</uiIconPath>
+    <uiIconScale>0.9</uiIconScale>
+    <statBases>
+      <WorkToBuild>2750</WorkToBuild>
+	  <MaxHitPoints>275</MaxHitPoints>
+      <WorkTableWorkSpeedFactor>0.55</WorkTableWorkSpeedFactor>
+	  <WorkTableEfficiencyFactor>0.85</WorkTableEfficiencyFactor>
+	  <Flammability>0.25</Flammability>
+    </statBases>
+	<comps>
+	  <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>ToolCabinet</li>
+          <li MayRequire="VanillaExpanded.VFEProduction">VFE_DrugCabinet</li>
+		  <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_ConfectionerySaucer</li>
+        </linkableFacilities>
+      </li>
+      <li MayRequire="owlchemist.simplefx.smoke2" Class="Flecker.CompProperties_Smoker">
+		<fleckDef>Owl_Vapor</fleckDef>
+		<billsOnly>true</billsOnly>
+		<particleSize>0.33</particleSize>
+	  </li>
+    </comps>
+	<constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+	<costList>
+	  <WoodLog>35</WoodLog>
+	</costList>
+	<costStuffCount>75</costStuffCount>
+    <stuffCategories>
+      <li>Stony</li>
+    </stuffCategories>
+	<recipes>
+      <li>Make_Wort</li>
+    </recipes>
+	<!--
+	<researchPrerequisites>
+      <li>Brewing</li>
+	  <li>DrugProduction</li>
+    </researchPrerequisites>
+	-->
+  </ThingDef>
+  
+<!-- Melee Table -->
+    
+  <ThingDef ParentName="VBY_PrimitiveBenchBase">
+    <defName>VBY_PrimitiveMeleeWeaponTable</defName>
+    <label>banc d'armes de mêlée</label>
+    <description>Une table pour forger des armes et des outils de base.</description>    
+    <graphicData>
+      <texPath>Things/Building/Production/Neolithic/HDM_MeleeWeaponTable</texPath>      
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawSize>(3.15,1.35)</drawSize>
+    </graphicData>
+	<uiIconPath>Things/Building/Production/Neolithic/HDM_MeleeWeaponTable_north</uiIconPath>
+    <uiIconScale>0.9</uiIconScale>
+    <statBases>
+      <WorkToBuild>2500</WorkToBuild>
+	  <MaxHitPoints>475</MaxHitPoints>
+      <WorkTableWorkSpeedFactor>0.75</WorkTableWorkSpeedFactor>	  
+      <Cleanliness>-6</Cleanliness>
+    </statBases>
+	<comps>
+	  <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>ToolCabinet</li>
+		  <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_ConfectionerySaucer</li>
+        </linkableFacilities>
+      </li>
+    </comps>
+	<costList>
+	  <WoodLog>25</WoodLog>
+	</costList>
+	<costStuffCount>75</costStuffCount>
+	<constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+    <stuffCategories>
+      <li>Stony</li>
+    </stuffCategories>
+  </ThingDef> 
+  
+<!-- Ranged Table -->
+ 
+  <ThingDef ParentName="VBY_PrimitiveBenchBase">
+    <defName>VBY_PrimitiveRangedWeaponTable</defName>
+    <label>banc d'armes à distance</label>
+    <description>Une table pour la fabrication d'armes à distance.</description>    
+    <graphicData>
+      <texPath>Things/Building/Production/Neolithic/HDM_RangedWeaponBench</texPath>      
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawSize>(3.15,1.35)</drawSize>
+    </graphicData>
+	<uiIconPath>Things/Building/Production/Neolithic/HDM_RangedWeaponBench_north</uiIconPath>
+    <uiIconScale>0.9</uiIconScale>
+    <statBases>
+      <WorkToBuild>2500</WorkToBuild>
+	  <MaxHitPoints>475</MaxHitPoints>
+      <WorkTableWorkSpeedFactor>0.75</WorkTableWorkSpeedFactor>	  
+      <Cleanliness>-6</Cleanliness>
+    </statBases>
+	<comps>
+	  <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>ToolCabinet</li>
+		  <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_ConfectionerySaucer</li>
+        </linkableFacilities>
+      </li>
+    </comps>
+	<costList>
+	  <WoodLog>45</WoodLog>
+	</costList>
+	<costStuffCount>75</costStuffCount>
+	<constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+    <stuffCategories>
+      <li>Stony</li>
+    </stuffCategories>
+  </ThingDef>   
+
+	<DesignatorDropdownGroupDef>
+	  <defName>VBY_PrimitiveResearch</defName>
+	  <label>poste de recherche primitif</label>
+	</DesignatorDropdownGroupDef>
+  
+<!-- Reasearch Tables -->
+ 
+	<ThingDef Name="VBY_PrimitiveResearchTableBase" ParentName="VBY_PrimitiveProductionBase">
+      <defName>VBY_PrimitiveResearchTable</defName>
+	  <label>poste de recherche primitif</label>	  
+	  <costStuffCount>75</costStuffCount>
+	  <stuffCategories>
+	    <li>Stony</li>
+	  </stuffCategories>
+	  <description>A slab of rock and a collection of interesting things to study and observe.</description>
+	  <thingClass>Building_ResearchBench</thingClass>
+	  <graphicData>
+		<texPath>Things/Building/Production/Neolithic/HDM_PrimitiveResearchTable</texPath>      
+		<graphicClass>Graphic_Multi</graphicClass>
+		<shaderType>CutoutComplex</shaderType>
+		<drawSize>(3.15,1.35)</drawSize>
+	  </graphicData>
+	  <uiIconPath>Things/Building/Production/Neolithic/HDM_PrimitiveResearchTable_south</uiIconPath>
+	  <uiIconScale>0.9</uiIconScale>
+	  <statBases>
+		<WorkToBuild>1100</WorkToBuild>
+		<MaxHitPoints>375</MaxHitPoints>
+		<WorkTableWorkSpeedFactor>0.75</WorkTableWorkSpeedFactor>
+		<ResearchSpeedFactor>0.55</ResearchSpeedFactor>
+	  </statBases>
+	  <researchPrerequisites>
+		<li>VBY_PrimitiveProduction</li>
+	  </researchPrerequisites>
+			<!--
+			<designatorDropdown>VBY_PrimitiveResearch</designatorDropdown>
+			-->
+	  <comps>
+	    <li Class="CompProperties_AffectedByFacilities">
+	    	<linkableFacilities Inherit="False">
+			  <li MayRequire="Neronix17.Outland.FurnitureAndDecor">Outland_Bookshelf</li>
+			  <li MayRequire="VanillaExpanded.VFECore">Misc_FileCabinet</li>
+			  <li MayRequire="VanillaExpanded.VFEMedical">Facility_ResearchCounter</li>
+			  <li MayRequire="Solaris.FurnitureBase">GL_Bookshelf</li>
+			  <li MayRequire="Mlie.UNFurniture">SadjuukResearchBA</li>
+			  <li MayRequire="Mlie.UNFurniture">SadjuukResearchBB</li>
+			  <li MayRequire="Mlie.UNFurniture">SadjuukResearchBC</li>
+			  <li MayRequire="Mlie.UNFurniture">SadjuukResearchBD</li>
+			  <li MayRequire="Mlie.UNColonyVanilla">SadjuukResearchUpgradeAA</li>
+			  <li MayRequire="Mlie.UNColonyVanilla">SadjuukResearchUpgradeBA</li>
+			  <li MayRequire="Mlie.UNColonyVanilla">SadjuukResearchUpgradeBB</li>
+			  <li MayRequire="Mlie.UNColonyVanilla">SadjuukResearchUpgradeBC</li>
+			  <li MayRequire="Mlie.UNColonyVanilla">SadjuukResearchUpgradeCB</li>
+			  <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_ConfectionerySaucer</li>
+			  <li MayRequire="JPT.HumanResources">BookShelf</li>
+			</linkableFacilities>
+		</li>
+	  </comps>
+	</ThingDef>	
+
+	<!--
+	
+	<ThingDef ParentName="VBY_PrimitiveResearchTableBase">
+	</ThingDef> 
+	<ThingDef ParentName="VBY_PrimitiveResearchTableBase">
+      <defName>VBY_PrimitiveResearchTable_Granite</defName>    
+		<label>granite research table</label>
+		<costList>
+		  <ChunkGranite>4</ChunkGranite>
+		</costList>
+		<graphicData>
+			<color>(105,95,97)</color>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="VBY_PrimitiveResearchTableBase">
+      <defName>VBY_PrimitiveResearchTable_Limestone</defName>    
+		<label>limestone research table</label>
+		<costList>
+		  <ChunkLimestone>4</ChunkLimestone>
+		</costList>
+		<graphicData>
+			<color>(158,153,135)</color>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="VBY_PrimitiveResearchTableBase">
+      <defName>VBY_PrimitiveResearchTable_Slate</defName>    
+		<label>slate research table</label>
+		<costList>
+		  <ChunkSlate>4</ChunkSlate>
+		</costList>
+		<graphicData>
+			<color>(90,90,90)</color>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="VBY_PrimitiveResearchTableBase">
+      <defName>VBY_PrimitiveResearchTable_Marble</defName>    
+		<label>marble research table</label>
+		<costList>
+		  <ChunkMarble>4</ChunkMarble>
+		</costList>
+		<graphicData>
+			<color>(132,135,132)</color>
+		</graphicData>
+	</ThingDef>
+	-->
+	
+	<ThingDef ParentName="BuildingBase">
+		<defName>VBY_PrimitiveResearchSpot</defName>
+		<label>poste de recherche primitive</label>
+		<description>Un lieu pour réfléchir au fonctionnement du monde.</description>
+		<thingClass>Building_ResearchBench</thingClass>
+		<terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+		<graphicData>
+			<texPath>Things/Building/Production/VBY_ResearchSpot</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(1,1)</drawSize>
+		</graphicData>
+		<altitudeLayer>FloorEmplacement</altitudeLayer>
+		<statBases>
+			<Mass>0</Mass>
+			<WorkToBuild>0</WorkToBuild>
+			<ResearchSpeedFactor>0.35</ResearchSpeedFactor>
+		</statBases>
+		<fillPercent>0</fillPercent>
+		<comps>
+		  <li Class="CompProperties_AffectedByFacilities">
+			<linkableFacilities Inherit="False">
+			  <li MayRequire="Neronix17.Outland.FurnitureAndDecor">Outland_Bookshelf</li>
+			  <li MayRequire="VanillaExpanded.VFECore">Misc_FileCabinet</li>
+			  <li MayRequire="VanillaExpanded.VFEMedical">Facility_ResearchCounter</li>
+			  <li MayRequire="Mlie.MoreFurniture">Anon2FileCabinet</li>
+			  <li MayRequire="Solaris.FurnitureBase">GL_Bookshelf</li>
+			  <li MayRequire="Mlie.UNFurniture">SadjuukResearchBA</li>
+			  <li MayRequire="Mlie.UNFurniture">SadjuukResearchBB</li>
+			  <li MayRequire="Mlie.UNFurniture">SadjuukResearchBC</li>
+			  <li MayRequire="Mlie.UNFurniture">SadjuukResearchBD</li>
+			  <li MayRequire="Mlie.UNColonyVanilla">SadjuukResearchUpgradeAA</li>
+			  <li MayRequire="Mlie.UNColonyVanilla">SadjuukResearchUpgradeBA</li>
+			  <li MayRequire="Mlie.UNColonyVanilla">SadjuukResearchUpgradeBB</li>
+			  <li MayRequire="Mlie.UNColonyVanilla">SadjuukResearchUpgradeBC</li>
+			  <li MayRequire="Mlie.UNColonyVanilla">SadjuukResearchUpgradeCB</li>
+			  <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_ConfectionerySaucer</li>
+			  <li MayRequire="JPT.HumanResources">BookShelf</li>
+			</linkableFacilities>
+		  </li>
+		  <li Class="CompProperties_ReportWorkSpeed">
+			<workSpeedStat>WorkTableWorkSpeedFactor</workSpeedStat>
+		  </li>
+		</comps>
+		<scatterableOnMapGen>false</scatterableOnMapGen>
+		<useHitPoints>False</useHitPoints>
+		<size>(1,1)</size>
+		<designationCategory>Production</designationCategory>
+		<passability>Standable</passability>
+		<hasInteractionCell>True</hasInteractionCell>
+		<interactionCellOffset>(0,0,-1)</interactionCellOffset>	
+		<interactionCellIcon>DiningChair</interactionCellIcon>
+		<surfaceType>Item</surfaceType>
+		<building>
+			<sowTag>SupportPlantsOnly</sowTag>
+			<canPlaceOverImpassablePlant>false</canPlaceOverImpassablePlant>
+			<ai_chillDestination>false</ai_chillDestination>
+			<wakeDormantPawnsOnConstruction>false</wakeDormantPawnsOnConstruction>
+			<artificialForMeditationPurposes>false</artificialForMeditationPurposes>
+		    <buildingTags>
+			  <li>Production</li>
+		    </buildingTags>
+		</building>
+		<designationHotKey>Misc6</designationHotKey>
+		<placeWorkers>
+		  <li>PlaceWorker_ShowFacilitiesConnections</li>
+		  <li>PlaceWorker_ReportWorkSpeedPenalties</li>
+		  <li>PlaceWorker_PreventInteractionSpotOverlap</li>
+		</placeWorkers>
+	  <researchPrerequisites>
+		<li>VFET_Culture</li>
+	  </researchPrerequisites>		
+	</ThingDef>
+  
+<!-- Facilities Tables -->
+ 
+  <ThingDef ParentName="BuildingBase">
+    <defName>VBY_PrimitiveToolBench</defName>
+    <label>poste d'outils primitifs</label>
+    <description>Augmente la vitesse de travail lorsqu'il est placé à proximité d'un établi. Un établi peut utiliser jusqu'à deux tables à outils..</description>
+    <graphicData>
+      <texPath>Things/Building/Misc/HDM_PrimitiveToolTable</texPath> 
+      <graphicClass>Graphic_Single</graphicClass>	  			
+	  <shaderType>CutoutComplex</shaderType>
+      <drawSize>(1.12,1.12)</drawSize>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <castEdgeShadows>true</castEdgeShadows>
+    <staticSunShadowHeight>0.35</staticSunShadowHeight>
+    <fillPercent>0.4</fillPercent>
+    <canOverlapZones>false</canOverlapZones>
+    <pathCost>42</pathCost>
+    <statBases>
+      <MaxHitPoints>120</MaxHitPoints>
+      <WorkToBuild>1900</WorkToBuild>
+      <Mass>20</Mass>
+      <Flammability>0</Flammability>
+    </statBases>
+    <size>(1,1)</size>
+    <costList>
+	  <VBY_PrimitiveFlint>200</VBY_PrimitiveFlint>
+	</costList>
+	<costStuffCount>25</costStuffCount>
+    <stuffCategories>
+      <li>Stony</li>
+    </stuffCategories>
+    <building>
+      <destroySound>BuildingDestroyed_Metal_Small</destroySound>
+    </building>
+    <designationCategory>Misc</designationCategory>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+    <thingCategories>
+      <li>BuildingsMisc</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Facility">
+        <statOffsets>
+          <WorkTableWorkSpeedFactor>0.04</WorkTableWorkSpeedFactor>
+        </statOffsets>
+        <maxSimultaneous>2</maxSimultaneous>
+      </li>
+    </comps>
+    <designationHotKey>Misc6</designationHotKey>
+    <placeWorkers>
+      <li>PlaceWorker_ShowFacilitiesConnections</li>
+    </placeWorkers>
+	  <researchPrerequisites>
+		<li>VBY_PrimitiveProduction</li>
+	  </researchPrerequisites>	
+  </ThingDef>
+
+  <ThingDef ParentName="BuildingBase">
+    <defName>VBY_PrimitiveTabletTable</defName>
+    <label>poste de tablettes primitif</label>
+    <description>Augmente la vitesse de recherche lorsqu'il est placé près d'un banc ou d'une table de recherche primitive. Chaque banc ou point de recherche ne peut utiliser qu'une seule tablette.</description>
+    <graphicData>
+      <texPath>Things/Building/Misc/HDM_StoneTabletToolbox</texPath> 
+      <graphicClass>Graphic_Single</graphicClass>	  			
+	  <shaderType>CutoutComplex</shaderType>
+      <drawSize>(1.12,1.12)</drawSize>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+	<rotatable>false</rotatable>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <castEdgeShadows>true</castEdgeShadows>
+    <staticSunShadowHeight>0.35</staticSunShadowHeight>
+    <fillPercent>0.4</fillPercent>
+    <canOverlapZones>false</canOverlapZones>
+    <pathCost>42</pathCost>
+    <statBases>
+      <MaxHitPoints>120</MaxHitPoints>
+      <WorkToBuild>1900</WorkToBuild>
+      <Mass>20</Mass>
+      <Flammability>0</Flammability>
+    </statBases>
+    <size>(1,1)</size>
+	<costStuffCount>300</costStuffCount>
+    <stuffCategories>
+      <li>Stony</li>
+    </stuffCategories>
+    <building>
+      <destroySound>BuildingDestroyed_Metal_Small</destroySound>
+    </building>
+    <designationCategory>Misc</designationCategory>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+    <thingCategories>
+      <li>BuildingsMisc</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Facility">
+        <statOffsets>
+          <ResearchSpeedFactor>0.04</ResearchSpeedFactor>
+        </statOffsets>
+        <maxSimultaneous>1</maxSimultaneous>
+      </li>
+    </comps>
+    <designationHotKey>Misc6</designationHotKey>
+    <placeWorkers>
+      <li>PlaceWorker_ShowFacilitiesConnections</li>
+    </placeWorkers>
+	  <researchPrerequisites>
+		<li>VBY_PrimitiveProduction</li>
+	  </researchPrerequisites>	
+  </ThingDef>
+   
+<!-- Smithing Table -->  
+  	
+  <ThingDef ParentName="VBY_PrimitiveBenchBase">
+    <defName>VBY_PrimitiveSmithingTable</defName>
+    <label>Poste de travail des métaux</label>
+    <description>Un banc de pierre et un foyer pour chauffer le métal au-delà de son point de fusion afin de le marteler, de le former et de le mouler pour en faire des outils et des armes.</description>    
+    <graphicData>
+      <texPath>Things/Building/Production/Neolithic/HDM_PrimitiveSmithy</texPath>      
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(3.15,1.35)</drawSize>
+    </graphicData>
+	<uiIconPath>Things/Building/Production/Neolithic/HDM_PrimitiveSmithy_north</uiIconPath>
+    <uiIconScale>0.9</uiIconScale>
+    <statBases>
+      <WorkToBuild>3400</WorkToBuild>
+	  <MaxHitPoints>380</MaxHitPoints>
+      <WorkTableWorkSpeedFactor>0.50</WorkTableWorkSpeedFactor>
+      <Cleanliness>-5</Cleanliness>
+    </statBases>
+	<comps>
+      <li Class="CompProperties_Refuelable">
+        <fuelConsumptionRate>90.0</fuelConsumptionRate>
+        <fuelCapacity>30.0</fuelCapacity>
+        <fuelFilter>
+          <thingDefs>
+            <li>WoodLog</li>
+          </thingDefs>
+        </fuelFilter>
+        <initialFuelPercent>1</initialFuelPercent>
+        <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
+        <showAllowAutoRefuelToggle>true</showAllowAutoRefuelToggle>
+      </li>
+	  <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>ToolCabinet</li>
+		  <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_ConfectionerySaucer</li>
+        </linkableFacilities>
+      </li>
+      <li Class="CompProperties_Glower">
+        <glowRadius>10</glowRadius>
+        <glowColor>(252,187,113,0)</glowColor>
+      </li>
+      <li Class="CompProperties_HeatPusher">
+        <compClass>CompHeatPusherPowered</compClass>
+        <heatPerSecond>28</heatPerSecond>
+        <heatPushMaxTemperature>36</heatPushMaxTemperature>
+      </li>
+      <li Class="CompProperties_FireOverlay">
+        <fireSize>1</fireSize>
+		<offset>(0,0,0.15)</offset>
+      </li>
+      <li MayRequire="LongerCFloor.ProxyHeat" Class="ProxyHeat.CompProperties_TemperatureSource">
+		<radius>2.5</radius>
+		<tempOutcome>28</tempOutcome>
+		<dependsOnFuel>true</dependsOnFuel>
+		<maxTemperature>34</maxTemperature>
+		<smeltSnowRadius>1.75</smeltSnowRadius>
+		<smeltSnowAtTemperature>3</smeltSnowAtTemperature>
+		<smeltSnowPower>0.001</smeltSnowPower>
+	  </li>
+      <li MayRequire="owlchemist.simplefx.smoke2" Class="Flecker.CompProperties_Smoker">
+		<fleckDef>Owl_SmokeHeavy</fleckDef>
+		<particleSize>0.75</particleSize>
+	  </li>      
+    </comps>
+    <researchPrerequisites>
+      <li>VBY_PrimitiveSmithing</li>
+    </researchPrerequisites>
+	<costList>
+	  <WoodLog>30</WoodLog>
+	</costList>
+    <recipes />
+	<costStuffCount>75</costStuffCount>
+    <stuffCategories>
+      <li>Stony</li>
+    </stuffCategories>
+    <constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+	<thingCategories Inherit="False"/>
+	<minifiedDef Inherit="False"/>
+	<drawerType>RealtimeOnly</drawerType>   
+    <tickerType>Normal</tickerType>
+  </ThingDef>
+    
+<!-- Loom -->  
+    
+  <ThingDef ParentName="VBY_PrimitiveBenchBase">
+	<defName>VBY_PrimitiveLoom</defName>
+	<label>métier à tisser primitif</label>
+	<description>Structure en bois utilisée pour produire des tissus.</description>    
+	<graphicData>
+	  <texPath>Things/Building/Production/Neolithic/HDM_PrimitiveLoom</texPath>      
+	  <graphicClass>Graphic_Single</graphicClass>
+	  <drawRotated>false</drawRotated>
+	  <allowFlip>false</allowFlip>
+	  <drawSize>(1.25)</drawSize>
+	  <drawOffset>(0,0,.25)</drawOffset>
+	  <shadowData>
+		<volume>(0.2, 0.35, 0.13)</volume>
+		<offset>(0,0,-0.42)</offset>
+	  </shadowData>
+	</graphicData>
+	<staticSunShadowHeight Inherit="false"/>	
+	<castEdgeShadows>false</castEdgeShadows>
+	<uiIconScale>1</uiIconScale>
+	<statBases>
+	  <WorkToBuild>1800</WorkToBuild>
+	  <MaxHitPoints>100</MaxHitPoints>
+	  <WorkTableWorkSpeedFactor>0.65</WorkTableWorkSpeedFactor>
+	  <Flammability>5</Flammability>
+	</statBases>
+	<size>(1,1)</size>
+	<comps>
+	  <li Class="CompProperties_AffectedByFacilities">
+		<linkableFacilities>
+		  <li>ToolCabinet</li>
+          <li MayRequire="VanillaExpanded.VFEProduction">VFE_TailorCabinet</li>
+		  <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_ConfectionerySaucer</li>
+		</linkableFacilities>
+	  </li>
+	</comps>
+	<recipes>              <!--   -->
+		<li MayRequire="dismarzero.VGP.VGPGardenFabrics">MakeCloth</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabrics">MakeClothBulk</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabrics">MakeLinen</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabrics">MakeLinenBulk</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabrics">MakeDevilstrand</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabrics">MakeDevilstrandBulk</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabrics">MakeSynthreadCloth</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabrics">MakeSynthreadClothBulk</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabrics">MakeHyperweaveCloth</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabrics">MakeHyperweaveClothBulk</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabrics">Makeblendedwool</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabrics">MakeblendedwoolBulk</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabrics">Makeblendedcloth</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabrics">MakeblendedclothBulk</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabrics">MakeHempCloth</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabrics">MakeHempClothBulk</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabrics">MakePlasteelThread</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabrics">Make_PatchleatherBulk</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabricsSimplified">MakeHempCloth</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabricsSimplified">MakeHempClothBulk</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabricsSimplified">MakePlasteelThread</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabricsSimplified">MakeSynthreadCloth</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabricsSimplified">MakeSynthreadClothBulk</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabricsSimplified">MakeHyperweaveCloth</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabricsSimplified">MakeHyperweaveClothBulk</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabricsSimplified">Makeblendedwool</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabricsSimplified">MakeblendedwoolBulk</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabricsSimplified">Makeblendedcloth</li>
+		<li MayRequire="dismarzero.VGP.VGPGardenFabricsSimplified">MakeblendedclothBulk</li>
+		<li MayRequire="troopersmith1.BWP">ProcessWoolAny</li>
+		<li MayRequire="troopersmith1.BWP">MakeWoolBlended</li>
+		<li MayRequire="MysticFelines.BWP">ProcessWoolAny</li>
+		<li MayRequire="MysticFelines.BWP">MakeWoolBlended</li>
+		<li MayRequire="SirMashedPotato.MorrowRim">MorrowRim_MakeClothFromKresh</li>
+		<li MayRequire="SirMashedPotato.MorrowRim">MorrowRim_MakeClothFromKresh_Bulk</li>
+		<li MayRequire="SafetyMets.BlessedTribalApparel">Make_SBCloth</li>
+		<li MayRequire="SafetyMets.BlessedTribalApparel">Make_SBClothBulk</li>
+	<!--<li MayRequire="zal.tribalessentials"></li>
+		<li MayRequire="zal.tribalessentials"></li>-->
+		<li>VBY_HayclothRecipe</li>
+		<li>VBY_HayclothRecipeBulk</li>
+		<li MayRequire="DankPyon.Medieval.Overhaul">DankPyon_MakeCloth</li>
+		<li MayRequire="DankPyon.Medieval.Overhaul">DankPyon_MakeClothBulk</li>
+		<li MayRequire="dismarzero.VGP.VGPVegetableGarden">VBY_BambooFiberRecipe</li>
+		<li MayRequire="dismarzero.VGP.VGPVegetableGarden">VBY_BambooFiberRecipeBulk</li>
+		<li MayRequire="TextilesPlus.velcroboy333">Make_Fustian</li>
+		<li MayRequire="TextilesPlus.velcroboy333">Make_Denim</li>
+		<li MayRequire="TextilesPlus.velcroboy333">Make_Synthread</li>
+		<li MayRequire="TextilesPlus.velcroboy333">Make_Hemp</li>
+		<li MayRequire="TextilesPlus.velcroboy333">Make_Corduroy</li>
+		<li MayRequire="TextilesPlus.velcroboy333">Make_Kevlar</li>
+		<li MayRequire="TextilesPlus.velcroboy333">Make_Sinstrand</li>
+		<li MayRequire="TextilesPlus.velcroboy333">Make_Hyperweave</li>
+		<li MayRequire="Owlchemist.SeedsPleaseLite">ProcessRawCotton</li>
+		<li MayRequire="Owlchemist.SeedsPleaseLite">ProcessRawDevilstrand</li>
+		<li MayRequire="IronScruff.FlaxnFabrics">IronScruff_WeaveDenimCloth</li>
+		<li MayRequire="IronScruff.FlaxnFabrics">IronScruff_WeaveCorduroyCloth</li>
+		<li MayRequire="IronScruff.FlaxnFabrics">IronScruff_WeaveVelvetCloth</li>
+		<li MayRequire="IronScruff.FlaxnFabrics">IronScruff_WeaveLaceCloth</li>
+		<li MayRequire="IronScruff.FlaxnFabrics">IronScruff_WeaveDenimLinen</li>
+		<li MayRequire="IronScruff.FlaxnFabrics">IronScruff_WeaveCorduroyLinen</li>
+		<li MayRequire="IronScruff.FlaxnFabrics">IronScruff_WeaveVelvetLinen</li>
+		<li MayRequire="IronScruff.FlaxnFabrics">IronScruff_WeaveLaceLinen</li>
+		<li MayRequire="Shenanigans.Denim">Make_SDenim</li>
+	</recipes>
+	<costList>
+	  <VBY_Haycloth>20</VBY_Haycloth>
+	</costList>
+	<costStuffCount>20</costStuffCount>
+	<stuffCategories>
+	  <li>Woody</li>
+	</stuffCategories>
+ </ThingDef>
+
+</Defs>

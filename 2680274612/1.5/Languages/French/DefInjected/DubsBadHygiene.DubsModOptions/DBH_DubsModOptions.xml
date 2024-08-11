@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+<PipeVisibility.label>Tuyau visible</PipeVisibility.label>
+<PipeVisibility.options.0.label>Caché</PipeVisibility.options.0.label>
+<PipeVisibility.options.1.label>Sous le plancher</PipeVisibility.options.1.label>
+<PipeVisibility.options.2.label>Toujours visible</PipeVisibility.options.2.label>
+<PipeVisibility.tip>Comment les tuyaux doivent être affichés</PipeVisibility.tip>
+
+<HygieneRateD.label>Taux d'hygiène</HygieneRateD.label>
+<HygieneRateD.tip>La vitesse à laquelle le besoin d'hygiène diminue</HygieneRateD.tip>
+<HygieneRateD.options.0.label>Tricher</HygieneRateD.options.0.label>
+
+<BladderRateD.label>Taux de vessie</BladderRateD.label>
+<BladderRateD.tip>La vitesse à laquelle le besoin en vessie diminue</BladderRateD.tip>
+<BladderRateD.options.0.label>Tricher</BladderRateD.options.0.label>
+
+<FlushSize.label>Chasse d'eau</FlushSize.label>
+<FlushSize.tip>Quelle quantité d'eaux usées est produite par chaque chasse d'eau</FlushSize.tip>
+<FlushSize.options.0.label>Tricher</FlushSize.options.0.label>
+
+<ThirstRateD.label>Taux de soif</ThirstRateD.label>
+<ThirstRateD.tip>La vitesse à laquelle le besoin de soif diminue</ThirstRateD.tip>
+<ThirstRateD.options.0.label>Tricher</ThirstRateD.options.0.label>
+
+<ContaminationChance.label>Contamination</ContaminationChance.label>
+<ContaminationChance.tip>Possibilité pour un colon d'être contaminé par de l'eau non traitée.</ContaminationChance.tip>
+<ContaminationChance.options.0.label>Tricher</ContaminationChance.options.0.label>
+
+<WaterPumpCapacity.label>Pompe à eau</WaterPumpCapacity.label>
+<WaterPumpCapacity.tip>Capacité des pompes à eau</WaterPumpCapacity.tip>
+<WaterPumpCapacity.options.0.label>Tricher</WaterPumpCapacity.options.0.label>
+
+<WaterHeatingRate.label>Eau chaude</WaterHeatingRate.label>
+<WaterHeatingRate.tip>Quelle quantité d'eau chaude est utilisée pour se laver</WaterHeatingRate.tip>
+<WaterHeatingRate.options.0.label>Tricher</WaterHeatingRate.options.0.label>
+
+<SewageGridCapacity.label>Eaux usées par case</SewageGridCapacity.label>
+<SewageGridCapacity.tip>Quelle quantité d'eaux usées peut entrer dans une case à la surface</SewageGridCapacity.tip>
+<SewageGridCapacity.options.0.label>Tricher</SewageGridCapacity.options.0.label>
+
+<SewageCleanupRateB.label>Assainissement des eaux usées</SewageCleanupRateB.label>
+<SewageCleanupRateB.tip>La vitesse à laquelle les eaux usées en surface se nettoient au fil du temps</SewageCleanupRateB.tip>
+<SewageCleanupRateB.options.0.label>Tricher</SewageCleanupRateB.options.0.label>
+
+<SewageProcRate.label>Traitement des eaux usées</SewageProcRate.label>
+<SewageProcRate.tip>La rapidité du traitement des eaux usées dans les fosses septiques et le traitement des eaux usées</SewageProcRate.tip>
+<SewageProcRate.options.0.label>Tricher</SewageProcRate.options.0.label>
+
+<IrrigationGridStrength.label>Force de l'irrigation</IrrigationGridStrength.label>
+<IrrigationGridStrength.tip>Quel est l'effet de l'irrigation sur la fertilité</IrrigationGridStrength.tip>
+<IrrigationGridStrength.options.0.label>Tricher</IrrigationGridStrength.options.0.label>
+
+<FertilizerGridStrength.label>Force de l'engrais</FertilizerGridStrength.label>
+<FertilizerGridStrength.tip>Quel est l'effet de l'engrais sur la fertilité</FertilizerGridStrength.tip>
+<FertilizerGridStrength.options.0.label>Tricher</FertilizerGridStrength.options.0.label>
+
+<TerrainFertilityFactor.label>Fertilité du terrain</TerrainFertilityFactor.label>
+<TerrainFertilityFactor.tip>Valeur de base de la fertilité du terrain</TerrainFertilityFactor.tip>
+<TerrainFertilityFactor.options.0.label>Tricher</TerrainFertilityFactor.options.0.label>
+
+<FertilizerLifespan.label>Durée de l'engrais</FertilizerLifespan.label>
+<FertilizerLifespan.options.0.label>Tricher</FertilizerLifespan.options.0.label>
+<FertilizerLifespan.options.1.label>240 jours (3 années)</FertilizerLifespan.options.1.label>
+<FertilizerLifespan.options.2.label>180 jours</FertilizerLifespan.options.2.label>
+<FertilizerLifespan.options.3.label>120 jours (2 années)</FertilizerLifespan.options.3.label>
+<FertilizerLifespan.options.4.label>80 jours</FertilizerLifespan.options.4.label>
+<FertilizerLifespan.options.5.label>60 jours (1 année)</FertilizerLifespan.options.5.label>
+<FertilizerLifespan.options.6.label>40 jours</FertilizerLifespan.options.6.label>
+<FertilizerLifespan.options.7.label>30 jours</FertilizerLifespan.options.7.label>
+<FertilizerLifespan.options.8.label>20 jours</FertilizerLifespan.options.8.label>
+<FertilizerLifespan.options.9.label>10 jours</FertilizerLifespan.options.9.label>
+<FertilizerLifespan.options.10.label>1 jour</FertilizerLifespan.options.10.label>
+<FertilizerLifespan.tip>Combien de temps le terrain reste-t-il fertilisé après l'application de l'engrais</FertilizerLifespan.tip>
+
+
+</LanguageData>

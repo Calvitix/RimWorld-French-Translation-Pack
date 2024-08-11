@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: Combat Draft -->
+  <Sarge945.CombatReadinessModName>Combat Draft</Sarge945.CombatReadinessModName>
+    <!-- EN: Combat Draft -->
+  <Sarge945.CombatReadinessGizmoText>S'équiper au Combat</Sarge945.CombatReadinessGizmoText>
+    <!-- EN: Draft and equip a combat outfit before moving to a location, and change back when undrafting -->
+  <Sarge945.CombatReadinessGizmoDesc>Définir et équiper une tenue de combat avant de se rendre sur un lieu, et la changer en cas de déséquipement.</Sarge945.CombatReadinessGizmoDesc>
+    <!-- EN: Default Combat Outfit -->
+  <Sarge945.CombatReadinessDefaultLabel>Tenue de combat par défaut</Sarge945.CombatReadinessDefaultLabel>
+</LanguageData>

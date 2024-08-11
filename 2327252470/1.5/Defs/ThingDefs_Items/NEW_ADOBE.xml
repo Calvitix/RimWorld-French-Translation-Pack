@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef ParentName="StoneBlocksBase">
+		<defName>VBY_BlocksAdobe</defName>
+		<label>blocs d'adobe</label>
+		<description>Blocs d'adobe cuit. L'adobe est mou mais efficace pour construire des abris rapides et secs..</description>
+		<graphicData>
+			<texPath>Things/Item/Resource/VBY_AdobeBlocks</texPath>
+			<graphicClass>Graphic_StackCount</graphicClass>
+		</graphicData>
+		<statBases>
+		  <Mass>1</Mass>
+		  <SharpDamageMultiplier>0.12</SharpDamageMultiplier>
+		</statBases>
+		<stuffProps>
+		  <color>(204,102,0)</color>
+		  <soundImpactBullet>BulletImpact_Ground</soundImpactBullet>
+		  <soundImpactMelee>Pawn_Melee_Punch_HitBuilding_Stone</soundImpactMelee>
+		  <soundMeleeHitSharp>MeleeHit_Stone</soundMeleeHitSharp>
+		  <soundMeleeHitBlunt>MeleeHit_Stone</soundMeleeHitBlunt>
+		  <stuffAdjective>adobe</stuffAdjective>
+		  <statFactors>
+			<Beauty>0.9</Beauty>  
+			<MaxHitPoints>1.45</MaxHitPoints>
+			<WorkToBuild>4.5</WorkToBuild>
+			<WorkToMake>0.9</WorkToMake>
+			<Mass MayRequire="robopitek.Massivity">2</Mass>
+		  </statFactors>
+		</stuffProps>
+	  </ThingDef>
+
+</Defs>

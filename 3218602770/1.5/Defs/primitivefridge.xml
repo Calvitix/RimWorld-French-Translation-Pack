@@ -1,0 +1,184 @@
+<Defs>
+	<DesignatorDropdownGroupDef>
+		<defName>PrimFridge</defName> 
+	</DesignatorDropdownGroupDef>
+	
+    <ResearchProjectDef>
+        <defName>AdvancedTribalRefrigeration</defName>
+        <label>Réfrigération tribale avancée</label>
+        <description>Apprendre les techniques de construction de systèmes de réfrigération avancés à l'aide de méthodes tribales.</description>
+        <baseCost>500</baseCost>
+        <techLevel>Neolithic</techLevel>
+        <tab>Main</tab>
+        <prerequisites>
+            <li>PassiveCooler</li>
+        </prerequisites>
+        
+		<researchViewX>2.00</researchViewX>
+		<researchViewY>1.10</researchViewY>
+    </ResearchProjectDef>	
+
+	<ThingDef Name="PrimFridgeBase" ParentName="FurnitureBase" Abstract="True">
+		<thingClass>Building_Storage</thingClass>
+		<drawGUIOverlay>true</drawGUIOverlay>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>PassThroughOnly</passability>
+		<fillPercent>0.4</fillPercent>
+		<castEdgeShadows>true</castEdgeShadows>
+		<pathCost>50</pathCost>
+		<defaultPlacingRot>South</defaultPlacingRot>
+		<staticSunShadowHeight>0.5</staticSunShadowHeight>
+		<surfaceType>Item</surfaceType>
+		<canOverlapZones>false</canOverlapZones>
+		<inspectorTabs>
+			<li>ITab_Storage</li>
+			<li MayRequire="lwm.deepstorage">LWM.DeepStorage.ITab_DeepStorage_Inventory</li>
+		</inspectorTabs>
+		<researchPrerequisites>
+			<li>AdvancedTribalRefrigeration</li>
+		</researchPrerequisites>
+		<building>
+			<preventDeteriorationOnTop>true</preventDeteriorationOnTop>
+			<ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
+			<maxItemsInCell>3</maxItemsInCell>
+			<storageGroupTag>Fridge</storageGroupTag>
+			<blueprintClass>Blueprint_Storage</blueprintClass>
+			<fixedStorageSettings>
+				<filter>
+					<categories>
+						<li>Foods</li>
+						<li>PlantMatter</li>
+						<li>BodyPartsNatural</li>
+						<li>Drugs</li>
+						<li MayRequire="vanillaexpanded.vbrewe">VBE_Musts</li>
+					</categories>
+					<thingDefs>
+						<li>MedicineHerbal</li>
+						<li>Wort</li>
+						<li>Hay</li>
+						<li MayRequire="oskarpotocki.vanillafactionsexpanded.medievalmodule">VFEM_Must</li>
+						<li MayRequire="oskarpotocki.vfe.insectoid">VFEI_DroneGenome</li>
+						<li MayRequire="oskarpotocki.vfe.insectoid">VFEI_WarriorGenome</li>
+						<li MayRequire="oskarpotocki.vfe.insectoid">VFEI_RoyalGenome</li>
+						<li MayRequire="sarg.alphaanimals">AA_CactipineQuill</li>
+						<li MayRequire="ludeon.rimworld.biotech">Wastepack</li>
+					</thingDefs>
+					<specialFiltersToDisallow>
+						<li>AllowRotten</li>
+					</specialFiltersToDisallow>
+					<disallowedThingDefs>
+						<li MayRequire="ludeon.rimworld.ideology">Dye</li>
+						<li>Hay</li>
+						<li>Kibble</li>
+					</disallowedThingDefs>
+				</filter>
+			</fixedStorageSettings>
+			<defaultStorageSettings>
+				<priority>Important</priority>
+				<filter>
+					<categories>
+						<li>FoodMeals</li>
+					</categories>
+					<disallowedThingDefs>
+						<li>MealSurvivalPack</li>
+					</disallowedThingDefs>
+				</filter>
+			</defaultStorageSettings>
+			<paintable>true</paintable>
+		</building>
+		<comps>
+			<li MayRequire="lwm.deepstorage" Class="LWM.DeepStorage.Properties">
+				<maxNumberStacks>5</maxNumberStacks>
+				<minNumberStacks>5</minNumberStacks>
+				<timeStoringTakes>100</timeStoringTakes>
+				<additionalTimeEachStack>60</additionalTimeEachStack>
+				<showContents>false</showContents>
+				<overlayType>SumOfAllItems</overlayType>
+			</li>
+			<li>
+				<compClass>CompColorable</compClass>
+			</li>
+		</comps>
+		<modExtensions>
+			<li Class="PrimitiveFridge.PrimFridge" />
+		</modExtensions>
+		<designationCategory>Temperature</designationCategory>
+		<designatorDropdown>PrimFridge</designatorDropdown>
+		<clearBuildingArea>true</clearBuildingArea>
+		
+		<tickerType>Normal</tickerType>
+	</ThingDef>
+	
+	<ThingDef ParentName="PrimFridgeBase">
+		<defName>primitive_fridge</defName>
+		<label>cellier primitif</label>
+		<description>Un conteneur primitif scellé, non alimenté, qui peut être utilisé pour réfrigérer des denrées périssables. Doit être régulièrement réapprovisionné en bois.</description>
+		<graphicData>
+			<texPath>Things/Fridge_1</texPath>
+			<drawSize>(1,1)</drawSize>
+            <graphicClass>Graphic_Multi</graphicClass>
+            <drawRotated>false</drawRotated>
+            <allowFlip>true</allowFlip>
+		</graphicData>
+		<uiIconScale>0.8</uiIconScale>
+		<costList>
+			<WoodLog>80</WoodLog>
+		</costList>
+		<statBases>
+			<MaxHitPoints>50</MaxHitPoints>
+			<Mass>8</Mass>
+			<WorkToBuild>500</WorkToBuild>
+			<Flammability>1.0</Flammability>
+		</statBases>
+		<size>(1,1)</size>
+		<comps>
+			<li Class="CompProperties_Refuelable">
+                <fuelConsumptionRate>5.0</fuelConsumptionRate>
+                <fuelCapacity>50.0</fuelCapacity>
+                <fuelFilter>
+					<thingDefs>
+						<li>WoodLog</li>
+					</thingDefs>
+                </fuelFilter>
+				<initialFuelPercent>0</initialFuelPercent>
+				<showAllowAutoRefuelToggle>true</showAllowAutoRefuelToggle>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<ThingDef ParentName="PrimFridgeBase">
+		<defName>primitive_doublerefrigerator</defName>
+		<label>cellier primitif double</label>
+		<description>Un conteneur primitif scellé, non alimenté, qui peut être utilisé pour réfrigérer des denrées périssables. Cette unité est deux fois plus grande.</description>
+		<graphicData>
+			<texPath>Things/Fridge_2</texPath>
+            <graphicClass>Graphic_Multi</graphicClass>
+            <drawRotated>false</drawRotated>
+            <allowFlip>true</allowFlip>
+			<drawSize>(2,1)</drawSize>
+		</graphicData>
+		<costList>
+			<WoodLog>160</WoodLog>
+		</costList>
+		<statBases>
+			<MaxHitPoints>140</MaxHitPoints>
+			<Mass>15</Mass>
+			<WorkToBuild>850</WorkToBuild>
+			<Flammability>1.0</Flammability>
+		</statBases>
+		<size>(2,1)</size>
+		<comps>
+			<li Class="CompProperties_Refuelable">
+                <fuelConsumptionRate>5.0</fuelConsumptionRate>
+                <fuelCapacity>100.0</fuelCapacity>
+                <fuelFilter>
+					<thingDefs>
+						<li>WoodLog</li>
+					</thingDefs>
+                </fuelFilter>
+				<initialFuelPercent>0</initialFuelPercent>
+				<showAllowAutoRefuelToggle>true</showAllowAutoRefuelToggle>
+			</li>
+		</comps>
+	</ThingDef>
+</Defs>

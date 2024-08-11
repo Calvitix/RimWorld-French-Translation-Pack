@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: concrete mixer -->
+  <IC_PortableConcrete.label>Bétonneuse</IC_PortableConcrete.label>
+  <!-- EN: A machine that crushes and mixes stony materials into concrete dusts, doesn't requrie power but not very efficient. -->
+  <IC_PortableConcrete.description>Une machine qui concasse et mélange des matériaux pierreux pour en faire des poussières de béton, ne nécessite pas d'énergie mais n'est pas très efficace.</IC_PortableConcrete.description>
+  
+</LanguageData>

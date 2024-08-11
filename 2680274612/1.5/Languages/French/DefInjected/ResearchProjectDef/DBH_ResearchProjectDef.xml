@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<SewageSludgeComposting.label>compostage des boues fécales</SewageSludgeComposting.label>
+<SewageSludgeComposting.description>Lorsqu'elles sont correctement traitées, les boues fécales deviennent des biosolides qui offrent un petit coup de pouce à la fertilité du terrain, utile dans les environnements difficiles avec un espace limité pour croître. Les biosolides augmentent également considérablement la fertilité du sable, ce qui peut le rendre fertile lorsqu'il est combiné avec l'irrigation.</SewageSludgeComposting.description>
+
+<MultiSplitAirCon.label>système de climatisation</MultiSplitAirCon.label>
+<MultiSplitAirCon.description>Construisez des systèmes de climatisation multiple avec des unités extérieures raccordées aux unités intérieures et aux congélateurs.</MultiSplitAirCon.description>
+
+<Plumbing.label>plomberie</Plumbing.label>
+<Plumbing.description>Utilisez des tuyaux, des accessoires de plomberie, des réservoirs de stockage, des puits et d'autres appareils pour acheminer et drainer l'eau et les eaux usées.</Plumbing.description>
+
+<LogBoilers.label>chauffage</LogBoilers.label>
+<LogBoilers.description>Construisez des chaudières à bois pouvant être utilisées pour chauffer les pièces, pour chauffer l’eau des bains placer là à côté.</LogBoilers.description>
+
+<CentralHeating.label>chauffage central</CentralHeating.label>
+<CentralHeating.description>Construisez un système de chauffage central avec des radiateurs, réservoirs d'eau chaude, chaudières et thermostats.</CentralHeating.description>
+
+<GeothermalHeating.label>chauffage géothermique</GeothermalHeating.label>
+<GeothermalHeating.description>Construisez des systèmes de chauffage géothermique qui peuvent être construits au-dessus des geysers pour produire de la chaleur pour le chauffage central et les réservoirs d'eau chaude.</GeothermalHeating.description>
+
+<Saunas.label>sauna</Saunas.label>
+<Saunas.description>Construisez une pièce dédiée au sauna où les colons peuvent se détendre et se nettoyer. Une utilisation fréquente peut réduire les risques de crise cardiaque.</Saunas.description>
+
+<ModernFixtures.label>sanitaire moderne</ModernFixtures.label>
+<ModernFixtures.description>Construisez une salle de bain moderne avec des toilettes et des douches.</ModernFixtures.description>
+
+<ElectricPumps.label>pompes électriques</ElectricPumps.label>
+<ElectricPumps.description>Pompes à eau motorisées pour le pompage continu d'eau sous pression.</ElectricPumps.description>
+
+<AdvancedShowers.label>douche à jets</AdvancedShowers.label>
+<AdvancedShowers.description>Construisez des douches électriques qui réduisent de moitié le temps passé sous la douche et améliorent le confort.</AdvancedShowers.description>
+
+<AdvancedToilets.label>toilette intelligent</AdvancedToilets.label>
+<AdvancedToilets.description>Construisez des toilettes intelligentes qui sont deux fois plus économes en eau que les toilettes standard et offrent plus de confort.</AdvancedToilets.description>
+
+<HotTubs.label>jacuzzi</HotTubs.label>
+<HotTubs.description>Construisez des Jacuzzi qui peuvent être utilisés pour l'hydrothérapie, la détente et le plaisir.</HotTubs.description>
+
+<LargeWaterPumps.label>pompe industrielle</LargeWaterPumps.label>
+<LargeWaterPumps.description>Construire des pompes à eau et des réservoirs de stockage à l'échelle industrielle.</LargeWaterPumps.description>
+
+<DeepWells.label>puits profonds</DeepWells.label>
+<DeepWells.description>Forer des puits plus profonds pour accéder à une zone d'eau souterraine beaucoup plus grande.</DeepWells.description>
+
+<WashingMachines.label>machine à laver</WashingMachines.label>
+<WashingMachines.description>Construisez des machines à laver qui peuvent laver les vêtements si bien que vous ne pourriez même pas dire que quelqu'un est mort en le portant!</WashingMachines.description>
+
+<WaterFiltration.label>filtration de l'eau</WaterFiltration.label>
+<WaterFiltration.description>Construisez des systèmes de filtration de l'eau qui traitent l'approvisionnement en eau en éliminant le risque de maladie.</WaterFiltration.description>
+
+<HygieneBionics.label>hygiène Bionique</HygieneBionics.label>
+<HygieneBionics.description>Fabriquez des dispositifs bioniques qui aident à traiter les déchets corporels et à gérer l'hygiène personnelle.</HygieneBionics.description>
+
+<SepticTanks.label>fosses septiques</SepticTanks.label>
+<SepticTanks.description>Construire des fosses septiques qui accumulent les eaux usées et assurent un traitement modéré des eaux usées.</SepticTanks.description>
+
+<SewageTreatment.label>traitement des eaux usées</SewageTreatment.label>
+<SewageTreatment.description>Construisez de grands systèmes de traitement des eaux usées qui accumulent de grandes quantités d'eaux usées et assurent un traitement rapide de celles-ci.</SewageTreatment.description>
+
+<SwimmingPools.label>piscine</SwimmingPools.label>
+<SwimmingPools.description>Construisez des piscines.</SwimmingPools.description>
+
+<Irrigation.label>irrigation</Irrigation.label>
+<Irrigation.description>Construisez des arroseurs qui peuvent irriguer le sol pour améliorer la fertilité.</Irrigation.description>
+
+<FireSuppression.label>système anti-incendie</FireSuppression.label>
+<FireSuppression.description>Construisez des gicleurs d'incendie qui étteignent le feu.</FireSuppression.description>
+
+
+</LanguageData>

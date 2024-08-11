@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- FR: installer un bras artificiel -->
+<InstallAmbroisenMedArm.label>installer un bras pariétal</InstallAmbroisenMedArm.label>
+<!-- FR: Installe un bras artificiel. -->
+<InstallAmbroisenMedArm.description>Installe un bras pariétal.</InstallAmbroisenMedArm.description>
+<!-- FR: Installation du bras artificiel. -->
+<InstallAmbroisenMedArm.jobString>Installation du bras pariétal.</InstallAmbroisenMedArm.jobString>
+
+<!-- FR: installer une oreille artificielle -->
+<InstallAmbroisenMedEar.label>installer une oreille artificielle</InstallAmbroisenMedEar.label>
+<!-- FR: Installe une oreille artificielle. -->
+<InstallAmbroisenMedEar.description>Installe une oreille pariétale.</InstallAmbroisenMedEar.description>
+<!-- FR: Installation de l'oreille artificielle. -->
+<InstallAmbroisenMedEar.jobString>Installation de l'oreille pariétale.</InstallAmbroisenMedEar.jobString>
+
+<!-- FR: installer un œil artificiel -->
+<InstallAmbroisenMedEye.label>installer un œil pariétal</InstallAmbroisenMedEye.label>
+<!-- FR: Installe un œil artificiel. -->
+<InstallAmbroisenMedEye.description>Installe un œil pariétal.</InstallAmbroisenMedEye.description>
+<!-- FR: Installation de l'œil artificiel. -->
+<InstallAmbroisenMedEye.jobString>Installation de l'œil pariétal.</InstallAmbroisenMedEye.jobString>
+
+<!-- FR: installer un doigt artificiel -->
+<InstallAmbroisenMedFinger.label>installer un doigt pariétal</InstallAmbroisenMedFinger.label>
+<!-- FR: Installe un doigt artificiel. -->
+<InstallAmbroisenMedFinger.description>Installe un doigt pariétal.</InstallAmbroisenMedFinger.description>
+<!-- FR: Installation du doigt artificiel. -->
+<InstallAmbroisenMedFinger.jobString>Installation du doigt pariétal.</InstallAmbroisenMedFinger.jobString>
+
+<!-- FR: installer un pied artificiel -->
+<InstallAmbroisenMedFoot.label>installer un pied pariétal</InstallAmbroisenMedFoot.label>
+<!-- FR: Installe un pied artificiel. -->
+<InstallAmbroisenMedFoot.description>Installe un pied pariétal.</InstallAmbroisenMedFoot.description>
+<!-- FR: Installation du pied artificiel. -->
+<InstallAmbroisenMedFoot.jobString>Installation du pied pariétal.</InstallAmbroisenMedFoot.jobString>
+
+<!-- FR: installer une main artificielle -->
+<InstallAmbroisenMedHand.label>installer une main artificielle</InstallAmbroisenMedHand.label>
+<!-- FR: Installe une main artificielle. -->
+<InstallAmbroisenMedHand.description>Installe une main pariétale.</InstallAmbroisenMedHand.description>
+<!-- FR: Installation de la main artificielle. -->
+<InstallAmbroisenMedHand.jobString>Installation de la main pariétale.</InstallAmbroisenMedHand.jobString>
+
+<!-- FR: installer une jambe artificielle -->
+<InstallAmbroisenMedLeg.label>installer une jambe artificielle</InstallAmbroisenMedLeg.label>
+<!-- FR: Installe une jambe artificielle. -->
+<InstallAmbroisenMedLeg.description>Installe une jambe pariétale.</InstallAmbroisenMedLeg.description>
+<!-- FR: Installation de la jambe artificielle. -->
+<InstallAmbroisenMedLeg.jobString>Installation de la jambe pariétale.</InstallAmbroisenMedLeg.jobString>
+
+<!-- FR: installer un nez artificiel -->
+<InstallAmbroisenMedNose.label>installer un nez pariétal</InstallAmbroisenMedNose.label>
+<!-- FR: Installe un nez artificiel. -->
+<InstallAmbroisenMedNose.description>Installe un nez pariétal.</InstallAmbroisenMedNose.description>
+<!-- FR: Installation du nez artificiel. -->
+<InstallAmbroisenMedNose.jobString>Installation du nez pariétal.</InstallAmbroisenMedNose.jobString>
+
+<!-- FR: installer un orteil artificiel -->
+<InstallAmbroisenMedToe.label>installer un orteil pariétal</InstallAmbroisenMedToe.label>
+<!-- FR: Installe un orteil artificiel. -->
+<InstallAmbroisenMedToe.description>Installe un orteil pariétal.</InstallAmbroisenMedToe.description>
+<!-- FR: Installation de l'orteil artificiel. -->
+<InstallAmbroisenMedToe.jobString>Installation de l'orteil pariétal.</InstallAmbroisenMedToe.jobString>
+    
+</LanguageData>

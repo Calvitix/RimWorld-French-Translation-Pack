@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: plant bucket -->
+  <CCol_BucketPlantPot.label>Seau à plantes</CCol_BucketPlantPot.label>
+  <!-- EN: A repurposed bucket, built from scratch for some reason, that holds soil to grow decorative flowers. The handle is fixed in place, don’t question it. -->
+  <CCol_BucketPlantPot.description>Un seau réutilisé, construit à partir de rien pour une raison quelconque, qui contient de la terre pour faire pousser des fleurs décoratives. La poignée est fixée en place, ne la remettez pas en question.</CCol_BucketPlantPot.description>
+  
+  <!-- EN: grinder -->
+  <CCol_Grinder.label>Moulin</CCol_Grinder.label>
+  <!-- EN: A grinder, unlike the app this will not bring the boys to your yard. -->
+  <CCol_Grinder.description>Un moulin, contrairement à l'application, cela n'attirera pas les garçons dans votre cour.</CCol_Grinder.description>
+  
+  <!-- EN: potted plant a -->
+  <CCol_PottedPlantA.label>Plante en pot a</CCol_PottedPlantA.label>
+  <!-- EN: A cute potted plant perfect for decorating any room. -->
+  <CCol_PottedPlantA.description>Une jolie plante en pot parfaite pour décorer n'importe quelle pièce.</CCol_PottedPlantA.description>
+  
+  <!-- EN: potted plant b -->
+  <CCol_PottedPlantB.label>Plante en pot b</CCol_PottedPlantB.label>
+  <!-- EN: A cute potted plant perfect for decorating any room. -->
+  <CCol_PottedPlantB.description>Une jolie plante en pot parfaite pour décorer n'importe quelle pièce.</CCol_PottedPlantB.description>
+  
+  <!-- EN: potted plant c -->
+  <CCol_PottedPlantC.label>Plante en pot c</CCol_PottedPlantC.label>
+  <!-- EN: A cute potted plant perfect for decorating any room. -->
+  <CCol_PottedPlantC.description>Une jolie plante en pot parfaite pour décorer n'importe quelle pièce.</CCol_PottedPlantC.description>
+  
+  <!-- EN: potted plant d -->
+  <CCol_PottedPlantD.label>Plante en pot d</CCol_PottedPlantD.label>
+  <!-- EN: A cute potted plant perfect for decorating any room. -->
+  <CCol_PottedPlantD.description>Une jolie plante en pot parfaite pour décorer n'importe quelle pièce.</CCol_PottedPlantD.description>
+  
+  <!-- EN: tea set -->
+  <CCol_TeaSet.label>Service à thé</CCol_TeaSet.label>
+  <!-- EN: A nice tea set on a tree stump table, what's that Mr Flibble? We can't possibly do that, who'd clean up the mess? -->
+  <CCol_TeaSet.description>Un joli service à thé sur une table en souche d'arbre, qu'est-ce que c'est M. Flibble ? Nous ne pouvons pas faire cela, qui nettoierait le désordre ?</CCol_TeaSet.description>
+  
+  <!-- EN: wheel barrow -->
+  <CCol_WheelBarrow.label>Brouette</CCol_WheelBarrow.label>
+  <!-- EN: A garden wheel barrow, useful for moving lots of dirt around, or the occasional body. -->
+  <CCol_WheelBarrow.description>Une brouette de jardin, utile pour déplacer beaucoup de terre, ou occasionnellement un corps.</CCol_WheelBarrow.description>
+
+  
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Barrel -->
+  <DSP_Barrel.label>Tonneau</DSP_Barrel.label>
+  <!-- EN: A large barrel for storing copious amounts of liquid. You can only store one type of item in it at a time, because it's a barrel, and you're pouring liquid into it. -->
+  <DSP_Barrel.description>Un grand tonneau pour stocker du liquide. Vous ne pouvez y conserver qu'un seul type de liquide à la fois car il s'agit d'un tonneau et le liquide y est versé.</DSP_Barrel.description>
+  
+  <!-- EN: Bin -->
+  <DSP_Bin.label>Bac</DSP_Bin.label>
+  <!-- EN: A large bin for storing a lot of one type of thing. On the plus side, it's faster to store things than a skip, since you don't need to arrange anything. -->
+  <DSP_Bin.description>Un bac pour ranger beaucoup de choses.</DSP_Bin.description>
+  
+  <!-- EN: Organ Fridge -->
+  <DSP_OrganFridge.label>Congélateur d'organes</DSP_OrganFridge.label>
+  <!-- EN: A deep, insulated cold box for storing organs, prosthetics, and other body parts. \n\nNote: because organs in Rimworld do not rot, this building does not require electricity. -->
+  <DSP_OrganFridge.description>Une glacière profonde et isolée pour ranger les organes, prothèses et autres parties du corps.\n\nRemarque: comme les organes de Rimworld ne pourrissent pas, ce bâtiment ne nécessite pas d'électricité.</DSP_OrganFridge.description>
+  
+  <!-- EN: Firewood Rack -->
+  <DSP_WoodRack.label>Support à bois</DSP_WoodRack.label>
+  <!-- EN: A metal frame with a cover designed for storing firewood outside, without the wood getting wet. -->
+  <DSP_WoodRack.description>Un cadre en métal avec un couvercle pour stocker le bois de chauffage à l'extérieur sans que le bois ne soit mouillé.</DSP_WoodRack.description>
+  
+  <!-- EN: Firewood Rack -->
+  <DSP_Barrel_Dubs.label>Tonneau d'eau</DSP_Barrel_Dubs.label>
+  <!-- EN: A metal frame with a cover designed for storing firewood outside, without the wood getting wet. -->
+  <DSP_Barrel_Dubs.description>Un grand tonneau pour stocker du liquide. Vous ne pouvez y conserver qu'un seul type de liquide à la fois car il s'agit d'un tonneau et le liquide y est versé.</DSP_Barrel_Dubs.description>
+  
+  
+  
+</LanguageData>

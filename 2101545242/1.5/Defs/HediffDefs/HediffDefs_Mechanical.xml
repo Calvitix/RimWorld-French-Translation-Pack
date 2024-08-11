@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+   
+	<HediffDef Name="addedPartMedMechanical" ParentName="AddedBodyPartBase" Abstract="True">
+		<defaultLabelColor>(78,196,242)</defaultLabelColor>
+	</HediffDef>
+   
+	<ThingDef Name="BodyPartMedMechanicalBase" ParentName="BodyPartBase" Abstract="True">
+		<techLevel>Medieval</techLevel>
+		<thingCategories>
+			<li>BodyPartsSimple</li>
+		</thingCategories>
+		<graphicData>
+			<texPath>Things/Item/BodyPart/MechanicalProsthesis</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>0.80</drawSize>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+		<statBases>
+			<DeteriorationRate>2</DeteriorationRate>
+			<WorkToMake>180000</WorkToMake>
+		</statBases>
+		<recipeMaker>
+			<workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+			<workSkill>Crafting</workSkill>
+			<effectWorking>Smith</effectWorking>
+			<recipeUsers>
+				<li>FueledSmithy</li>
+			</recipeUsers>
+			<unfinishedThingDef>UnfinishedProsthesis</unfinishedThingDef>
+			<researchPrerequisite>MechanicalLimbs</researchPrerequisite>
+		</recipeMaker>
+		<techHediffsTags>
+			<li>Simple</li>
+		</techHediffsTags>
+	</ThingDef>
+   
+	<RecipeDef Name="SurgeryMedMechanical" ParentName="SurgeryInstallBodyPartArtificialBase" Abstract="True">
+		<dontShowIfAnyIngredientMissing>true</dontShowIfAnyIngredientMissing>
+		<skillRequirements>
+			<Medicine>4</Medicine>
+		</skillRequirements>
+	</RecipeDef>
+   
+   
+   <!-- Mechanical Hand -->
+   
+	<HediffDef ParentName="addedPartMedMechanical">
+		<defName>MechanicalMedHand</defName>
+		<label>Main mécanique</label>
+		<labelNoun>a mechanical hand</labelNoun>
+		<description>An installed mechanical hand.</description>
+		<descriptionHyperlinks><ThingDef>MechanicalMedHand</ThingDef></descriptionHyperlinks>
+		<comps><li Class="HediffCompProperties_VerbGiver"><tools>
+			<li>
+				<label>mechanical hand</label>
+				<capacities>
+					<li>Blunt</li>
+				</capacities>
+				<power>10</power>
+				<cooldownTime>1.8</cooldownTime>
+			</li>
+		</tools></li></comps>
+		<spawnThingOnRemoved>MechanicalMedHand</spawnThingOnRemoved>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>0.9</partEfficiency>
+		</addedPartProps>
+	</HediffDef>
+	
+	<ThingDef ParentName="BodyPartMedMechanicalBase">
+		<defName>MechanicalMedHand</defName>
+		<label>mechanical hand</label>
+		<description>A mechanical hand.</description>
+		<descriptionHyperlinks><RecipeDef>InstallMechanicalMedHand</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Steel>70</Steel>
+			<ComponentIndustrial>3</ComponentIndustrial>
+		</costList>
+		<statBases>
+			<Mass>4</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<RecipeDef ParentName="SurgeryMedMechanical">
+		<defName>InstallMechanicalMedHand</defName>
+		<label>install mechanical hand</label>
+		<description>Installs mechanical hand.</description>
+		<descriptionHyperlinks>
+			<ThingDef>MechanicalMedHand</ThingDef>
+			<HediffDef>MechanicalMedHand</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing mechanical hand.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>MechanicalMedHand</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>MechanicalMedHand</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Hand</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>MechanicalMedHand</addsHediff>
+	</RecipeDef>
+	
+	
+	<!-- Mechanical Arm -->
+	
+	<HediffDef ParentName="addedPartMedMechanical">
+		<defName>MechanicalMedArm</defName>
+		<label>mechanical arm</label>
+		<labelNoun>a mechanical arm</labelNoun>
+		<description>An installed mechanical arm.</description>
+		<descriptionHyperlinks><ThingDef>MechanicalMedArm</ThingDef></descriptionHyperlinks>
+		<comps><li Class="HediffCompProperties_VerbGiver"><tools>
+			<li>
+				<label>mechanical arm</label>
+				<capacities>
+					<li>Blunt</li>
+				</capacities>
+				<power>10</power>
+				<cooldownTime>1.8</cooldownTime>
+			</li>
+		</tools></li></comps>
+		<spawnThingOnRemoved>MechanicalMedArm</spawnThingOnRemoved>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>0.75</partEfficiency>
+		</addedPartProps>
+	</HediffDef>
+	
+	<ThingDef ParentName="BodyPartMedMechanicalBase">
+		<defName>MechanicalMedArm</defName>
+		<label>mechanical arm</label>
+		<description>A mechanical arm.</description>
+		<descriptionHyperlinks><RecipeDef>InstallMechanicalMedArm</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Steel>115</Steel>
+			<ComponentIndustrial>6</ComponentIndustrial>
+		</costList>
+		<statBases>
+			<Mass>8</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<RecipeDef ParentName="SurgeryMedMechanical">
+		<defName>InstallMechanicalMedArm</defName>
+		<label>install mechanical arm</label>
+		<description>Installs mechanical arm.</description>
+		<descriptionHyperlinks>
+			<ThingDef>MechanicalMedArm</ThingDef>
+			<HediffDef>MechanicalMedArm</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing mechanical arm.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>MechanicalMedArm</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>MechanicalMedArm</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Shoulder</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>MechanicalMedArm</addsHediff>
+	</RecipeDef>
+	
+	
+	<!-- Mechanical Leg -->
+	
+	<HediffDef ParentName="addedPartMedMechanical">
+		<defName>MechanicalMedLeg</defName>
+		<label>mechanical leg</label>
+		<labelNoun>a mechanical leg</labelNoun>
+		<description>An installed mechanical leg.</description>
+		<descriptionHyperlinks><ThingDef>MechanicalMedLeg</ThingDef></descriptionHyperlinks>
+		<spawnThingOnRemoved>MechanicalMedLeg</spawnThingOnRemoved>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>0.9</partEfficiency>
+		</addedPartProps>
+	</HediffDef>
+	
+	<ThingDef ParentName="BodyPartMedMechanicalBase">
+		<defName>MechanicalMedLeg</defName>
+		<label>mechanical leg</label>
+		<description>A mechanical leg.</description>
+		<descriptionHyperlinks><RecipeDef>InstallMechanicalMedLeg</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Steel>115</Steel>
+			<ComponentIndustrial>6</ComponentIndustrial>
+		</costList>
+		<statBases>
+			<Mass>10</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<RecipeDef ParentName="SurgeryMedMechanical">
+		<defName>InstallMechanicalMedLeg</defName>
+		<label>install mechanical leg</label>
+		<description>Installs mechanical leg.</description>
+		<descriptionHyperlinks>
+			<ThingDef>MechanicalMedLeg</ThingDef>
+			<HediffDef>MechanicalMedLeg</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing mechanical leg.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>MechanicalMedLeg</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>MechanicalMedLeg</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Leg</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>MechanicalMedLeg</addsHediff>
+	</RecipeDef>
+	
+	
+	<!-- Mechanical Foot -->
+	
+	<HediffDef ParentName="addedPartMedMechanical">
+		<defName>MechanicalMedFoot</defName>
+		<label>mechanical foot</label>
+		<labelNoun>a mechanical foot</labelNoun>
+		<description>An installed mechanical foot.</description>
+		<descriptionHyperlinks><ThingDef>MechanicalMedFoot</ThingDef></descriptionHyperlinks>
+		<spawnThingOnRemoved>MechanicalMedFoot</spawnThingOnRemoved>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>0.9</partEfficiency>
+		</addedPartProps>
+	</HediffDef>
+	
+	<ThingDef ParentName="BodyPartMedMechanicalBase">
+		<defName>MechanicalMedFoot</defName>
+		<label>mechanical foot</label>
+		<description>A mechanical foot.</description>
+		<descriptionHyperlinks><RecipeDef>InstallMechanicalMedFoot</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Steel>70</Steel>
+			<ComponentIndustrial>3</ComponentIndustrial>
+		</costList>
+		<statBases>
+			<Mass>4</Mass>
+		</statBases>
+	</ThingDef>
+   
+   <RecipeDef ParentName="SurgeryMedMechanical">
+		<defName>InstallMechanicalMedFoot</defName>
+		<label>install mechanical foot</label>
+		<description>Installs mechanical foot.</description>
+		<descriptionHyperlinks>
+			<ThingDef>MechanicalMedFoot</ThingDef>
+			<HediffDef>MechanicalMedFoot</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing mechanical foot.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>MechanicalMedFoot</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>MechanicalMedFoot</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Foot</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>MechanicalMedFoot</addsHediff>
+	</RecipeDef>
+	
+	
+	<!-- Mechanical Toe -->
+	
+	<HediffDef ParentName="addedPartMedMechanical">
+		<defName>MechanicalMedToe</defName>
+		<label>mechanical toe</label>
+		<labelNoun>a mechanical toe</labelNoun>
+		<description>An installed mechanical toe.</description>
+		<descriptionHyperlinks><ThingDef>MechanicalMedToe</ThingDef></descriptionHyperlinks>
+		<spawnThingOnRemoved>MechanicalMedToe</spawnThingOnRemoved>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>0.9</partEfficiency>
+		</addedPartProps>
+	</HediffDef>
+	
+	<ThingDef ParentName="BodyPartMedMechanicalBase">
+		<defName>MechanicalMedToe</defName>
+		<label>mechanical toe</label>
+		<description>A mechanical toe.</description>
+		<descriptionHyperlinks><RecipeDef>InstallMechanicalMedToe</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Steel>25</Steel>
+			<ComponentIndustrial>1</ComponentIndustrial>
+		</costList>
+		<statBases>
+			<Mass>0.2</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<RecipeDef ParentName="SurgeryMedMechanical">
+		<defName>InstallMechanicalMedToe</defName>
+		<label>install mechanical toe</label>
+		<description>Installs mechanical toe.</description>
+		<descriptionHyperlinks>
+			<ThingDef>MechanicalMedToe</ThingDef>
+			<HediffDef>MechanicalMedToe</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing mechanical toe.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>MechanicalMedToe</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>MechanicalMedToe</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Toe</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>MechanicalMedToe</addsHediff>
+	</RecipeDef>
+	
+	
+	<!-- Mechanical Finger -->
+	
+	<HediffDef ParentName="addedPartMedMechanical">
+		<defName>MechanicalMedFinger</defName>
+		<label>mechanical finger</label>
+		<labelNoun>a mechanical finger</labelNoun>
+		<description>An installed mechanical finger.</description>
+		<descriptionHyperlinks><ThingDef>MechanicalMedFinger</ThingDef></descriptionHyperlinks>
+		<spawnThingOnRemoved>MechanicalMedFinger</spawnThingOnRemoved>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>0.9</partEfficiency>
+		</addedPartProps>
+	</HediffDef>
+	
+	<ThingDef ParentName="BodyPartMedMechanicalBase">
+		<defName>MechanicalMedFinger</defName>
+		<label>mechanical finger</label>
+		<description>A mechanical finger.</description>
+		<descriptionHyperlinks><RecipeDef>InstallMechanicalMedFinger</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Steel>25</Steel>
+			<ComponentIndustrial>1</ComponentIndustrial>
+		</costList>
+		<statBases>
+			<Mass>0.2</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<RecipeDef ParentName="SurgeryMedMechanical">
+		<defName>InstallMechanicalMedFinger</defName>
+		<label>install mechanical finger</label>
+		<description>Installs mechanical finger.</description>
+		<descriptionHyperlinks>
+			<ThingDef>MechanicalMedFinger</ThingDef>
+			<HediffDef>MechanicalMedFinger</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing mechanical finger.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>MechanicalMedFinger</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>MechanicalMedFinger</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Finger</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>MechanicalMedFinger</addsHediff>
+	</RecipeDef>
+	
+	
+	<!-- Mechanical Nose -->
+	
+	<HediffDef ParentName="addedPartMedMechanical">
+		<defName>MechanicalMedNose</defName>
+		<label>mechanical nose</label>
+		<labelNoun>a mechanical nose</labelNoun>
+		<description>An installed mechanical nose.</description>
+		<descriptionHyperlinks><ThingDef>MechanicalMedNose</ThingDef></descriptionHyperlinks>
+		<spawnThingOnRemoved>MechanicalMedNose</spawnThingOnRemoved>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>0</partEfficiency>
+		</addedPartProps>
+		<stages>
+		<li>
+			<statOffsets>
+				<NegotiationAbility>+0.05</NegotiationAbility>
+				<SocialImpact>+0.10</SocialImpact>
+			</statOffsets>
+		</li>	 
+		</stages>
+	</HediffDef>
+	
+	<ThingDef ParentName="BodyPartMedMechanicalBase">
+		<defName>MechanicalMedNose</defName>
+		<label>intricate nose</label>
+		<description>An intricate nose.</description>
+		<descriptionHyperlinks><RecipeDef>InstallMechanicalMedNose</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Steel>10</Steel>
+			<Silver>5</Silver>
+		</costList>
+		<statBases>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<RecipeDef ParentName="SurgeryMedMechanical">
+		<defName>InstallMechanicalMedNose</defName>
+		<label>install mechanical nose</label>
+		<description>Installs mechanical nose.</description>
+		<descriptionHyperlinks>
+			<ThingDef>MechanicalMedNose</ThingDef>
+			<HediffDef>MechanicalMedNose</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing mechanical nose.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>MechanicalMedNose</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>MechanicalMedNose</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Nose</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>MechanicalMedNose</addsHediff>
+	</RecipeDef>
+	
+	
+	<!-- Mechanical Eye -->
+	
+	<HediffDef ParentName="addedPartMedMechanical">
+		<defName>MechanicalMedEye</defName>
+		<label>mechanical eye</label>
+		<labelNoun>a mechanical eye</labelNoun>
+		<description>An installed mechanical eye.</description>
+		<descriptionHyperlinks><ThingDef>MechanicalMedEye</ThingDef></descriptionHyperlinks>
+		<spawnThingOnRemoved>MechanicalMedEye</spawnThingOnRemoved>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>0</partEfficiency>
+		</addedPartProps>
+		<stages>
+		<li>
+			<statOffsets>
+				<NegotiationAbility>+0.05</NegotiationAbility>
+				<SocialImpact>+0.10</SocialImpact>
+			</statOffsets>
+		</li>	 
+		</stages>	  
+	</HediffDef>
+	
+	<ThingDef ParentName="BodyPartMedMechanicalBase">
+		<defName>MechanicalMedEye</defName>
+		<label>intricate eye</label>
+		<description>An intricate eye.</description>
+		<descriptionHyperlinks><RecipeDef>InstallMechanicalMedEye</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Steel>10</Steel>
+			<Silver>5</Silver>
+		</costList>
+		<statBases>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<RecipeDef ParentName="SurgeryMedMechanical">
+		<defName>InstallMechanicalMedEye</defName>
+		<label>install mechanical eye</label>
+		<description>Installs mechanical eye.</description>
+		<descriptionHyperlinks>
+			<ThingDef>MechanicalMedEye</ThingDef>
+			<HediffDef>MechanicalMedEye</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing mechanical eye.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>MechanicalMedEye</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>MechanicalMedEye</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Eye</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>MechanicalMedEye</addsHediff>
+	</RecipeDef>
+	
+	
+	<!-- Mechanical Ear -->
+	
+	<HediffDef ParentName="addedPartMedMechanical">
+		<defName>MechanicalMedEar</defName>
+		<label>mechanical ear</label>
+		<labelNoun>a mechanical ear</labelNoun>
+		<description>An installed mechanical ear.</description>
+		<descriptionHyperlinks><ThingDef>MechanicalMedEar</ThingDef></descriptionHyperlinks>
+		<spawnThingOnRemoved>MechanicalMedEar</spawnThingOnRemoved>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>0</partEfficiency>
+		</addedPartProps>
+		<stages>
+		<li>
+			<statOffsets>
+				<NegotiationAbility>+0.05</NegotiationAbility>
+				<SocialImpact>+0.10</SocialImpact>
+			</statOffsets>
+		</li>	 
+		</stages>	  
+	</HediffDef>
+	
+	<ThingDef ParentName="BodyPartMedMechanicalBase">
+		<defName>MechanicalMedEar</defName>
+		<label>intricate ear</label>
+		<description>An intricate ear.</description>
+		<descriptionHyperlinks><RecipeDef>InstallMechanicalMedEar</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Steel>10</Steel>
+			<Silver>5</Silver>
+		</costList>
+		<statBases>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<RecipeDef ParentName="SurgeryMedMechanical">
+		<defName>InstallMechanicalMedEar</defName>
+		<label>install mechanical ear</label>
+		<description>Installs mechanical ear.</description>
+		<descriptionHyperlinks>
+			<ThingDef>MechanicalMedEar</ThingDef>
+			<HediffDef>MechanicalMedEar</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing mechanical ear.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>MechanicalMedEar</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>MechanicalMedEar</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Ear</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>MechanicalMedEar</addsHediff>
+	</RecipeDef>
+   
+</Defs>

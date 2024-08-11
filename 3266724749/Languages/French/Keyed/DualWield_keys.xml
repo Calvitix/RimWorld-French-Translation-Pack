@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<!-- EN: Off hand cooldown penalty (Default: {2}% Current: {3}%) -->
+<DW_Setting_StaticCooldownPenOffHand_Title>Pénalité de temps de recharge pour la main non dominante (Par défaut : {2}% Actuel : {3}%)</DW_Setting_StaticCooldownPenOffHand_Title>
+<!-- EN: Penalty to off hand weapon cooldown when dual wielding. -->
+<DW_Setting_StaticCooldownPenOffHand_Description>Pénalité sur le temps de recharge de l'arme de la main non dominante lors du double maniement.</DW_Setting_StaticCooldownPenOffHand_Description>
+
+<!-- EN: Main hand cooldown penalty (Default: {2}% Current: {3}%) -->
+<DW_Setting_StaticCooldownPMainHand_Title>Pénalité de temps de recharge pour la main dominante (Par défaut : {2}% Actuel : {3}%)</DW_Setting_StaticCooldownPMainHand_Title>
+<!-- EN: Penalty to main hand weapon cooldown when dual wielding. -->
+<DW_Setting_StaticCooldownPMainHand_Description>Pénalité sur le temps de recharge de l'arme de la main dominante lors du double maniement.</DW_Setting_StaticCooldownPMainHand_Description>
+
+<!-- EN: Off hand accuracy penalty (Default: {2}% Current: {3}%) -->
+<DW_Setting_StaticAccPOffHand_Title>Pénalité de précision pour la main non dominante (Par défaut : {2}% Actuel : {3}%)</DW_Setting_StaticAccPOffHand_Title>
+<!-- EN: Penalty to off hand weapon accuracy when dual wielding. -->
+<DW_Setting_StaticAccPOffHand_Description>Pénalité sur la précision de l'arme de la main non dominante lors du double maniement.</DW_Setting_StaticAccPOffHand_Description>
+
+<!-- EN: Main hand accuracy penalty (Default: {2}% Current: {3}%) -->
+<DW_Setting_StaticAccPMainHand_Title>Pénalité de précision pour la main dominante (Par défaut : {2}% Actuel : {3}%)</DW_Setting_StaticAccPMainHand_Title>
+<!-- EN: Penalty to main hand weapon accuracy when dual wielding. -->
+<DW_Setting_StaticAccPMainHand_Description>Pénalité sur la précision de l'arme de la main dominante lors du double maniement.</DW_Setting_StaticAccPMainHand_Description>
+
+<!-- EN: Extra per level cooldown penalty (Default: {2}% Current: {3}%) -->
+<DW_Setting_DynamicCooldownP_Title>Pénalité supplémentaire par niveau pour le temps de recharge (Par défaut : {2}% Actuel : {3}%)</DW_Setting_DynamicCooldownP_Title>
+<!-- EN: Extra penalty to cooldown for each level a pawn is below the maximum shooting/melee level when dual wielding. This penalty applies to both weapons. -->
+<DW_Setting_DynamicCooldownP_Description>Pénalité supplémentaire sur le temps de recharge pour chaque niveau en dessous du niveau maximum de tir/corps à corps lors du double maniement. Cette pénalité s'applique aux deux armes.</DW_Setting_DynamicCooldownP_Description>
+
+<!-- EN: Extra per level accuracy penalty (Default: {2}% Current: {3}%) -->
+<DW_Setting_DynamicAccP_Title>Pénalité supplémentaire par niveau pour la précision (Par défaut : {2}% Actuel : {3}%)</DW_Setting_DynamicAccP_Title>
+<!-- EN: Extra penalty to accuracy for each level a pawn is below the maximum shooting/melee level when dual wielding. This penalty applies to both weapons. -->
+<DW_Setting_DynamicAccP_Description>Pénalité supplémentaire sur la précision pour chaque niveau en dessous du niveau maximum de tir/corps à corps lors du double maniement. Cette pénalité s'applique aux deux armes.</DW_Setting_DynamicAccP_Description>
+
+<!-- EN: Melee weapon extra angle (Default: {2} Current: {3}) -->
+<DW_Setting_MeleeAngle_Title>Angle supplémentaire pour l'arme de mêlée (Par défaut : {2} Actuel : {3})</DW_Setting_MeleeAngle_Title>
+<!-- EN: The angle relative to the vanilla angle at which pawns hold their melee weapon in north/south view while dual wielding. -->
+<DW_Setting_MeleeAngle_Description>L'angle par rapport à l'angle de base à partir duquel les pions tiennent leur arme de mêlée en vue nord/sud lors du double maniement.</DW_Setting_MeleeAngle_Description>
+
+<!-- EN: Ranged weapon extra angle (Default: {2} Current: {3}) -->
+<DW_Setting_RangedAngle_Title>Angle supplémentaire pour l'arme à distance (Par défaut : {2} Actuel : {3})</DW_Setting_RangedAngle_Title>
+<!-- EN: The angle relative to the vanilla angle at which pawns hold their ranged weapon in north/south view while dual wielding. -->
+<DW_Setting_RangedAngle_Description>L'angle par rapport à l'angle de base à partir duquel les pions tiennent leur arme à distance en vue nord/sud lors du double maniement.</DW_Setting_RangedAngle_Description>
+
+<!-- EN: Melee weapon horizontal offset (Default: {2} Current: {3}) -->
+<DW_Setting_MeleeXOffset_Title>Décalage horizontal pour l'arme de mêlée (Par défaut : {2} Actuel : {3})</DW_Setting_MeleeXOffset_Title>
+<!-- EN: The horizontal offset relative to the center of the pawn at which the pawn holds his melee weapons while dual wielding. -->
+<DW_Setting_MeleeXOffset_Description>Le décalage horizontal par rapport au centre du pion à partir duquel le pion tient ses armes de mêlée lors du double maniement.</DW_Setting_MeleeXOffset_Description>
+
+<!-- EN: Ranged weapon horizontal offset (Default: {2} Current: {3}) -->
+<DW_Setting_RangedXOffset_Title>Décalage horizontal pour l'arme à distance (Par défaut : {2} Actuel : {3})</DW_Setting_RangedXOffset_Title>
+<!-- EN: The horizontal offset relative to the center of the pawn at which the pawn holds his ranged weapons while dual wielding. -->
+<DW_Setting_RangedXOffset_Description>Le décalage horizontal par rapport au centre du pion à partir duquel le pion tient ses armes à distance lors du double maniement.</DW_Setting_RangedXOffset_Description>
+
+<!-- EN: Melee weapon vertical offset (Default: {2} Current: {3}) -->
+<DW_Setting_MeleeZOffset_Title>Décalage vertical pour l'arme de mêlée (Par défaut : {2} Actuel : {3})</DW_Setting_MeleeZOffset_Title>
+<!-- EN: The vertical offset relative to the center of the pawn at which the pawn holds his melee weapons while dual wielding. -->
+<DW_Setting_MeleeZOffset_Description>Le décalage vertical par rapport au centre du pion à partir duquel le pion tient ses armes de mêlée lors du double maniement.</DW_Setting_MeleeZOffset_Description>
+	
+<!-- EN: Ranged weapon vertical offset (Default: {2} Current: {3}) -->
+<DW_Setting_RangedZOffset_Title>Décalage vertical de l'arme à distance (Par défaut : {2} Actuel : {3})</DW_Setting_RangedZOffset_Title>
+<!-- EN: The vertical offset relative to the center of the pawn at which the pawn holds his ranged weapons while dual wielding. -->
+<DW_Setting_RangedZOffset_Description>Le décalage vertical par rapport au centre du pion où le pion tient ses armes à distance lors du double maniement.</DW_Setting_RangedZOffset_Description>
+
+<!-- EN: Melee weapons mirrored -->
+<DW_Setting_MeleeMirrored_Title>Armes de mêlée en miroir</DW_Setting_MeleeMirrored_Title>
+<!-- EN: If this is checked, dual wielded melee weapons will be drawn mirrored in regards to each other. -->
+<DW_Setting_MeleeMirrored_Description>Si cette option est cochée, les armes de mêlée utilisées en double maniement seront dessinées en miroir l'une par rapport à l'autre.</DW_Setting_MeleeMirrored_Description>
+
+<!-- EN: Ranged weapons mirrored -->
+<DW_Setting_RangedMirrored_Title>Armes à distance en miroir</DW_Setting_RangedMirrored_Title>
+<!-- EN: If this is checked, dual wielded ranged weapons will be drawn mirrored in regards to each other. -->
+<DW_Setting_RangedMirrored_Description>Si cette option est cochée, les armes à distance utilisées en double maniement seront dessinées en miroir l'une par rapport à l'autre.</DW_Setting_RangedMirrored_Description>
+
+<!-- EN: Extra rotation: {0}º -->
+<DW_Setting_CustomRotations_SetRotation>Rotation supplémentaire : {0}º</DW_Setting_CustomRotations_SetRotation>
+
+<!-- EN: NPC/enemy dual wield chance (Default: {2}% Current: {3}%) -->
+<DW_Setting_NPCDualWieldChance_Title>Chance de double maniement pour les PNJ/ennemis (Par défaut : {2}% Actuel : {3}%)</DW_Setting_NPCDualWieldChance_Title>
+<!-- EN: Chance a given NPC (enemy or friendly) uses dual wielding, provided it did not spawn with a two-handed weapon. -->
+<DW_Setting_NPCDualWieldChance_Description>Chance qu'un PNJ donné (ennemi ou ami) utilise le double maniement, à condition qu'il n'apparaisse pas avec une arme à deux mains.</DW_Setting_NPCDualWieldChance_Description>
+
+<!-- EN: {0} dropped {1} off-hand weapon to make room for a two-handed weapon. -->
+<DW_Message_UnequippedOffHand>{0} a laissé tomber l'arme {1} de la main non dominante pour faire de la place pour une arme à deux mains.</DW_Message_UnequippedOffHand>
+<!-- EN: his -->
+<DW_HerHis_Male>son</DW_HerHis_Male>
+<!-- EN: her -->
+<DW_HerHis_Female>sa</DW_HerHis_Female>
+<!-- EN: Equip {0} (off-hand) -->
+<DW_EquipOffHand>Équiper {0} (main non dominante)</DW_EquipOffHand>
+<!-- EN: Drop {0} (off-hand) -->
+<DW_DropOffHand>Laisser tomber {0} (main non dominante)</DW_DropOffHand>
+<!-- EN: as off-hand weapon -->
+<DW_AsOffHand>comme arme de la main non dominante</DW_AsOffHand>
+<!-- EN: Missing arm or hand -->
+<DW_MissArmOrHand>Il manque un bras ou une main</DW_MissArmOrHand>
+<!-- EN: Wielding two-handed weapon -->
+<DW_WieldingTwoHanded>Manie une arme à deux mains</DW_WieldingTwoHanded>
+<!-- EN: Cannot wear two-handed weapon as off-hand -->
+<DW_NoTwoHandedInOffHand>Ne peut pas porter une arme à deux mains comme arme de la main non dominante</DW_NoTwoHandedInOffHand>
+<!-- EN: Not configured as secondary weapon in mod options -->
+<DW_CannotBeOffHand>Non configuré comme arme secondaire dans les options du mod</DW_CannotBeOffHand>
+
+<!-- EN: Two-handed weapons cannot be dual wielded, and require both arms to operate. -->
+<DW_Twohanders>Les armes à deux mains ne peuvent pas être maniées en double et nécessitent deux bras pour être utilisées.</DW_Twohanders>
+<!-- EN: Click on any weapon to apply a custom rotation angle. -->
+<DW_CustomRotations>Cliquez sur n'importe quelle arme pour appliquer un angle de rotation personnalisé.</DW_CustomRotations>
+<!-- EN: Customize the graphical offsets for weapons. -->
+<DW_CustomOffsets>Personnalisez les décalages graphiques pour les armes.</DW_CustomOffsets>
+
+<!-- EN: Enable Dual Wield module -->
+<DW_EnableDualWield_Title>Activer le module Double Maniement</DW_EnableDualWield_Title>
+<!-- EN: If disabled, pawns may not dual wield weapons. -->
+<DW_EnableDualWield_Description>Si désactivé, les pions ne peuvent pas manier deux armes.</DW_EnableDualWield_Description>
+</LanguageData>

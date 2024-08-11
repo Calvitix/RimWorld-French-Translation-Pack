@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription-></li>
+  -->
+  <CityQuest.questDescriptionRules.rulesStrings>TODO</CityQuest.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->City Mission</li>
+  -->
+  <CityQuest.questNameRules.rulesStrings>TODO</CityQuest.questNameRules.rulesStrings>
+  
+</LanguageData>

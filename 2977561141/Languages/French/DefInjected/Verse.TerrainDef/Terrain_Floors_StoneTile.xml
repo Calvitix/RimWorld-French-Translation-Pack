@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: granite cobblestone -->
+  <CCot_CobblestoneGranite.label>Pavement de granite</CCot_CobblestoneGranite.label>
+  <!-- EN: todo -->
+  <CCot_CobblestoneGranite.description>Pavement de granite</CCot_CobblestoneGranite.description>
+  
+  <!-- EN: limestone cobblestone -->
+  <CCot_CobblestoneLimestone.label>Pavement de calcaire</CCot_CobblestoneLimestone.label>
+  <!-- EN: todo -->
+  <CCot_CobblestoneLimestone.description>Pavement de calcaire</CCot_CobblestoneLimestone.description>
+  
+  <!-- EN: marble cobblestone -->
+  <CCot_CobblestoneMarble.label>Pavement de marbre</CCot_CobblestoneMarble.label>
+  <!-- EN: todo -->
+  <CCot_CobblestoneMarble.description>Pavement de marbre</CCot_CobblestoneMarble.description>
+  
+  <!-- EN: sandstone cobblestone -->
+  <CCot_CobblestoneSandstone.label>Pavement de grès</CCot_CobblestoneSandstone.label>
+  <!-- EN: todo -->
+  <CCot_CobblestoneSandstone.description>Pavement de grès</CCot_CobblestoneSandstone.description>
+  
+  <!-- EN: slate cobblestone -->
+  <CCot_CobblestoneSlate.label>Pavé d'ardoise</CCot_CobblestoneSlate.label>
+  <!-- EN: todo -->
+  <CCot_CobblestoneSlate.description>Pavé d'ardoise</CCot_CobblestoneSlate.description>
+
+  
+</LanguageData>

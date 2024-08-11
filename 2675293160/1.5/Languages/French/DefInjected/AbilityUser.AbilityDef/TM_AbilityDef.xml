@@ -1,0 +1,1195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<TM_Artifact_Conviction.label>Sentence</TM_Artifact_Conviction.label>
+<TM_Artifact_Conviction.description>Donner à un colon la conviction de rejoindre votre cause. Ce pouvoir fera payer un lourd tribut au lanceur.\n\nL'utilisation de Conviction détruira l'orbe.</TM_Artifact_Conviction.description>
+
+<TM_Artifact_TraitThief.label>Assimilation d'âme</TM_Artifact_TraitThief.label>
+<TM_Artifact_TraitThief.description>Voler les traits d'un autre colon.</TM_Artifact_TraitThief.description>
+
+<TM_Artifact_TraitInfuse.label>Infuser l'âme</TM_Artifact_TraitInfuse.label>
+<TM_Artifact_TraitInfuse.description>Infuser des traits scellés dans un colon de type humain.</TM_Artifact_TraitInfuse.description>
+
+<TM_CompVerb.label>cible secondaire</TM_CompVerb.label>
+<TM_CompVerb.description>utilisé dans le ciblage secondaire</TM_CompVerb.description>
+
+<TM_Shadow.label>Ombre</TM_Shadow.label>
+<TM_Shadow.description>Crée une aura d'ombre autour du lanceur de sorts qui améliore périodiquement un allié.\n\nOmbre : Augmentation magique qui aide le travailleur à améliorer ses capacités physiques, mais provoque une baisse d'humeur.\n\nFréquence d'application : 80-90s\nDurée : 500-600s\nManipulation, vue, ouïe, Filtrage du sang : +10%\nMouvement, Conscience : +5%\nDiminution de l'humeur : -3\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_Shadow.description>
+
+<TM_Shadow_I.label>Ombre</TM_Shadow_I.label>
+<TM_Shadow_I.description>Crée une aura d'ombre autour du lanceur de sorts qui améliore périodiquement un allié.\n\nOmbre : Augmentation magique qui aide le travailleur à améliorer ses capacités physiques, mais provoque une baisse d'humeur.\n\nFréquence d'application : 80-90s\nDurée : 500-600s\nManipulation, Vue, Ouïe, Parole : +20%\nMouvement, Conscience, Métabolisme, Filtrage du sang : +10%\nBaisse d'humeur : -4\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_Shadow_I.description>
+<TM_Shadow_II.label>Ombre</TM_Shadow_II.label>
+<TM_Shadow_II.description>Crée une aura d'ombre autour du lanceur de sorts qui améliore périodiquement un allié.\n\nOmbre : Augmentation magique qui aide le travailleur à améliorer ses capacités physiques, mais provoque une baisse d'humeur.\n\nFréquence d'application : 80-90s\nDurée : 1100-1250s\nManipulation, Vue, Ouïe, Parole : +25%\nMouvement, Métabolisme, Filtrage du sang : +15%\nConscience : +10%\nBaisse d'humeur : -6\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_Shadow_II.description>
+<TM_Shadow_III.label>Ombre</TM_Shadow_III.label>
+<TM_Shadow_III.description>Crée une aura d'ombre autour du lanceur de sorts qui améliore périodiquement un allié.\n\nOmbre : Augmentation magique qui aide le travailleur à améliorer ses capacités physiques, mais provoque une baisse d'humeur.\n\nFréquence d'application : 80-90s\nDurée : 1100-1250s\nManipulation, Vue, Ouïe, Parole : +25%\nMouvement, Métabolisme, Filtrage du sang : +20%\nConscience : +15%\nBaisse d'humeur : -8\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_Shadow_III.description>
+
+<TM_MagicMissile.label>Missile Magique</TM_MagicMissile.label>
+<TM_MagicMissile.description>Tire une vague de missiles magiques sur les ennemis.\n\nChance de désorienter : 3%.\nIncantation : 2,5s\nPortée : 24\nProjectiles : 14 sur 2.8s\nDégâts : 4</TM_MagicMissile.description>
+<TM_MagicMissile_I.label>Missile Magique</TM_MagicMissile_I.label>
+<TM_MagicMissile_I.description>Tire une vague de missiles magiques sur les ennemis.\n\nChance de désorienter : 5%.\nIncantation : 2s\nPortée : 28\nProjectiles : 17 sur 2.83s\nDégâts : 5</TM_MagicMissile_I.description>
+<TM_MagicMissile_II.label>Missile Magique</TM_MagicMissile_II.label>
+<TM_MagicMissile_II.description>Tire une vague de missiles magiques sur les ennemis.\n\nChance de désorienter : 7%\nIncantation : 1.5s\nPortée : 32\nProjectiles : 20 sur 2.67s\nDégâts : 6</TM_MagicMissile_II.description>
+<TM_MagicMissile_III.label>Missile Magique</TM_MagicMissile_III.label>
+<TM_MagicMissile_III.description>Tire une vague de missiles magiques sur les ennemis.\n\nChance de désorienter : 9%\nIncantation : 1s\nPortée: 36\nProjectiles : 24 sur 2.4s\nDégâts : 7</TM_MagicMissile_III.description>
+
+<TM_Teleport.label>Téléportation</TM_Teleport.label>
+<TM_Teleport.description>Sort de téléportation de masse. Crée une méthode temporaire de transport à longue distance ; attention, le portail s'effondre après une courte période, provoquant une explosion en retour à l'endroit où le portail a été créé.</TM_Teleport.description>
+
+<TM_Blink.label>Transfert</TM_Blink.label>
+<TM_Blink.description>Déplace instantanément le lanceur de sorts vers l'endroit ciblé.\n\nIncantation : 0,5s\nTemps de recharge : 10s\nPortée : 30</TM_Blink.description>
+<TM_Blink_I.label>Transfert</TM_Blink_I.label>
+<TM_Blink_I.description>Déplace instantanément le lanceur de sorts vers l'endroit ciblé.\n\nIncantation : 0.3s\nTemps de recharge : 8s\nPortée : 50</TM_Blink_I.description>
+<TM_Blink_II.label>Transfert</TM_Blink_II.label>
+<TM_Blink_II.description>Déplace instantanément le lanceur de sorts vers l'endroit ciblé.\n\nIncantation : 0.1s\nTemps de recharge : 6s\nPortée : 70</TM_Blink_II.description>
+<TM_Blink_III.label>Transfert</TM_Blink_III.label>
+<TM_Blink_III.description>Déplace instantanément le lanceur de sorts vers l'endroit ciblé.\n\nIncantation : Instantanée\nTemps de recharge : 5s\nPortée : 90</TM_Blink_III.description>
+
+<TM_Summon.label>Invocation</TM_Summon.label>
+<TM_Summon.description>Invoque des objets à l'endroit où se trouve le lanceur de sorts.\n\nIncantation : 3s\nTemps de recharge : 20s\nPortée : 70</TM_Summon.description>
+<TM_Summon_I.label>Invocation</TM_Summon_I.label>
+<TM_Summon_I.description>Invoque des objets à l'endroit où se trouve le lanceur de sorts.\n\nIncantation : 2.7s\nTemps de recharge : 18s\nPortée : 80</TM_Summon_I.description>
+<TM_Summon_II.label>Invocation</TM_Summon_II.label>
+<TM_Summon_II.description>Invoque des objets à l'endroit où se trouve le lanceur de sorts.\n\nIncantation : 2.5s\nTemps de recharge : 16s\nPortée : 90</TM_Summon_II.description>
+<TM_Summon_III.label>Invocation</TM_Summon_III.label>
+<TM_Summon_III.description>Invoque des objets à l'endroit où se trouve le lanceur de sorts.\n\nIncantation : 2.4s\nTemps de recharge : 15s\nPortée : 100</TM_Summon_III.description>
+
+<TM_FoldReality.label>Porte</TM_FoldReality.label>
+<TM_FoldReality.description>Plie la réalité pour ouvrir une porte vers un autre lieu contrôlé par le joueur et déplace instantanément tous les colons et objets dans un rayon de 7 cases autour de la case cible vers le lanceur de sorts.</TM_FoldReality.description>
+
+<TM_BardTraining.label>Entraînement du Barde</TM_BardTraining.label>
+<TM_BardTraining.description>Affiner les compétences d'un barde en suivant une formation aux arts du spectacle, à la comédie, à la socialisation et à l'inspiration. Chaque niveau modifie le trait du barde pour refléter son niveau de compétence.\n\nRangs :\nAmuseur : Impact social +10%, Négociation +20%, Commerce +10%,\nSeuil de douleur -10%, Capacité de transport -10, Vitesse de travail -10%.\n\nInterprète : Impact social +20%, Négociation +30%, Commerce +15%,\nSeuil de douleur -12%, Capacité de transport -15, Vitesse de travail -12%.\n\nMénestrel : Impact social +30%, Négociation +35%, Commerce +20%,\nSeuil de douleur -14%, Capacité de transport -18, Vitesse de travail -14%.\n\nBarde : Impact social +35%, Négociation +40%, Commerce +25%,\nSeuil de douleur -15%, Capacité de transport -20, Vitesse de travail -15%.</TM_BardTraining.description>
+
+<TM_Entertain.label>Divertir</TM_Entertain.label>
+<TM_Entertain.description>Divertir les autres colons en utilisant une variété de méthodes. Cette compétence a deux composantes, une compétence passive et une compétence active. La compétence passive permet au barde de divertir d'autres colons lors d'une conversation brève.\n\nCette commande permet d'activer ou de désactiver la compétence active.\n\nL'activation de la compétence analyse la colonie et permet au barde de détecter les colons en difficulté et tente de les divertir. Le barde gagne des points d'expérience en tant que mage lorsque le divertissement actif est réussi. Garder cette capacité active réduit le mana maximum de 30. Le barde pratique le divertissement comme un type de travail, et le fera en fonction de la priorité du type de travail "Geôlier".</TM_Entertain.description>
+
+<TM_Inspire.label>Inspirer</TM_Inspire.label>
+<TM_Inspire.description>Le barde inspire les autres colons à proximité. Cette capacité est toujours active.</TM_Inspire.description>
+
+<TM_Lullaby.label>Berceuse</TM_Lullaby.label>
+<TM_Lullaby.description>Projette une onde émotionnellement apaisante qui nettoie les préoccupations et la conscience et qui peut endormir toute créature dans la zone ciblée. Ne fonctionne pas sur les mécanoïdes.</TM_Lullaby.description>
+<TM_Lullaby_I.label>Berceuse</TM_Lullaby_I.label>
+<TM_Lullaby_I.description>Projette une onde émotionnellement apaisante qui nettoie les préoccupations et la conscience et qui peut endormir toute créature dans la zone ciblée.</TM_Lullaby_I.description>
+<TM_Lullaby_II.label>Berceuse</TM_Lullaby_II.label>
+<TM_Lullaby_II.description>Projette une onde émotionnellement apaisante qui nettoie les préoccupations et la conscience et qui peut endormir toute créature dans la zone ciblée.</TM_Lullaby_II.description>
+<TM_Lullaby_III.label>Berceuse</TM_Lullaby_III.label>
+<TM_Lullaby_III.description>Projette une onde émotionnellement apaisante qui nettoie les préoccupations et la conscience et qui peut endormir toute créature dans la zone ciblée.</TM_Lullaby_III.description>
+
+<TM_BattleHymn.label>Hymne de bataille</TM_BattleHymn.label>
+<TM_BattleHymn.description>Jouer un hymne de bataille entraînant pour motiver et renforcer les alliés proches. Chaque verset de l'hymne augmente l'effet et renforce la puissance de combat des alliés. Chaque verset consomme 9% de mana supplémentaire (réduit par l'entraînement).\n\nL'Hymne de bataille a une petite chance de provoquer des inspirations qui renforceront davantage les capacités de combat.\n\nUtiliser la compétence pour activer ou désactiver la capacité.</TM_BattleHymn.description>
+
+<TM_BladeFocus.label>Entraînement de lame</TM_BladeFocus.label>
+<TM_BladeFocus.description>Un entraînement qui améliore la technique et l'habileté avec les armes de mêlée et élève le statut du danseur de lames. Chaque niveau modifie le trait du danseur de lames pour refléter son niveau de compétence.\n\nRangs :\nBladesman : Vitesse +0.15c/s, MBT -3%, Chance de toucher +3%, Esquive +5%, Préci. de tir -20%, Vitesse générale de travail -10%\nMaître des lames : Vitesse +0.2c/s, MBT -5%, Chance de toucher +6%, Esquive +10%, Préci. de tir -25%, Vitesse générale de travail -8%\nDanseur de lames : Vitesse +0.3c/s, MBT -8%, Chance de toucher +10%, Esquive +15%, Préci. de tir -28%, Vitesse générale de travail -6%, Seuil de douleur +5%\nDanseur de lames légendaire : Vitesse +0.4c/s, MBT -10%, Chance de toucher +15%, Esquive +20%, Préci. de tir -30%, Vitesse générale de travail -5%, Seuil de douleur +10%</TM_BladeFocus.description>
+
+<TM_BladeArt.label>Entraînement physique</TM_BladeArt.label>
+<TM_BladeArt.description>Entraînement qui améliore les capacités physiques.\n\nNiveau 0 : Mouvement +10%, Manipulation +10%\nNiveau 1 : Mouvement +15%, Manipulation +15%\nNiveau 2 : Mouvement +20%, Manipulation +20%, Respiration +10%\nNiveau 3 : Mouvement +25%, Manipulation +25%, Respiration +15%, Pompage du sang +10%, Filtrage du sang +10%</TM_BladeArt.description>
+
+<TM_BladeSpin.label>Lame tournoyante</TM_BladeSpin.label>
+<TM_BladeSpin.description>Le maître des lames semble disparaître pendant une fraction de seconde, frappant toutes les cibles proches dans une rafale d'acier.</TM_BladeSpin.description>
+
+<TM_SeismicSlash.label>Entaille sismique</TM_SeismicSlash.label>
+<TM_SeismicSlash.description>Exploitant l'âme sans émotion de la lame, le danseur de lames déclenche une frappe qui déchire le tissu le long d'une ligne droite.</TM_SeismicSlash.description>
+
+<TM_PhaseStrike.label>Frappe de phase</TM_PhaseStrike.label>
+<TM_PhaseStrike.description>Fusionne la concentration du danseur de lames avec le tranchant d'une lame pour se glisser entre les réalités, apparaissant à un endroit choisi pour exécuter une frappe vicieuse sur des ennemis peu méfiants.\n\nEchauffement : 0.3s\nTemps de recharge : 25s\nPortée : 30</TM_PhaseStrike.description>
+<TM_PhaseStrike_I.label>Frappe de phase</TM_PhaseStrike_I.label>
+<TM_PhaseStrike_I.description>Fusionne la concentration du danseur de lames avec le tranchant d'une lame pour se glisser entre les réalités, apparaissant à un endroit choisi pour exécuter une frappe vicieuse sur des ennemis peu méfiants.\n\nEchauffement : 0.2s\nTemps de recharge : 23s\nPortée : 35</TM_PhaseStrike_I.description>
+<TM_PhaseStrike_II.label>Frappe de phase</TM_PhaseStrike_II.label>
+<TM_PhaseStrike_II.description>Fusionne la concentration du danseur de lames avec le tranchant d'une lame pour se glisser entre les réalités, apparaissant à un endroit choisi pour exécuter une frappe vicieuse sur des ennemis peu méfiants.\n\nEchauffement : 0.1s\nTemps de recharge : 21s\nPortée : 40</TM_PhaseStrike_II.description>
+<TM_PhaseStrike_III.label>Frappe de phase</TM_PhaseStrike_III.label>
+<TM_PhaseStrike_III.description>Fusionne la concentration du danseur de lames avec le tranchant d'une lame pour se glisser entre les réalités, apparaissant à un endroit choisi pour exécuter une frappe vicieuse sur des ennemis peu méfiants.\n\nEchauffement : Instantanée\nTemps de recharge : 20s\nPortée : 45</TM_PhaseStrike_III.description>
+
+<TM_BloodGift.label>Sacrifice de sang</TM_BloodGift.label>
+<TM_BloodGift.description>Combine le sang et le mana en une forme hybride de pouvoir utilisée pour réaliser la magie du sang. L'utilisation du sacrifice de sang inflige plusieurs coupures profondes pour permettre un accès facile au sang et le combine avec le mana pour générer une quantité immédiate de pouvoir de magie du sang.\n\nLes mages de sang peuvent lentement générer un pouvoir de magie du sang à partir de blessures ouvertes qui saignent sans utiliser de mana, et peuvent également s'entraîner à utiliser le sang frais à proximité d'eux pour alimenter la magie du sang.\n\nUn mage de sang perd lentement son pouvoir de magie du sang lorsqu'il ne saigne plus.</TM_BloodGift.description>
+
+<TM_IgniteBlood.label>Embrasement du sang</TM_IgniteBlood.label>
+<TM_IgniteBlood.description>Enflamme et brûle tout le sang exposé dans un feu instantané et intense. Le feu continue à se propager au sang à proximité.</TM_IgniteBlood.description>
+
+<TM_BloodForBlood.label>Sang pour Sang</TM_BloodForBlood.label>
+<TM_BloodForBlood.description>Cette malédiction fait chauffer le sang de la cible et l'accélère jusqu'à ce que le sang suinte de tous les pores de la victime. Cette malédiction a plusieurs effets.\n\nLe sang qui est expulsé de la cible devient une brume que le lanceur de sorts absorbe comme énergie réparatrice et l'utilise pour soigner les blessures et reconstituer les réserves de sang. Cette capacité permet de guérir lentement les cicatrices et autres blessures permanentes du lanceur.\n\nLes plaies et les blessures de la cible seront également guéries au fur et à mesure que le sang sort du corps. La cible perd une partie de son sang à chaque impulsion et, comme toute blessure, peut entraîner une incapacité ou la mort si elle perd trop de sang.\n\nLe taux de transfert et de guérison est augmenté pour le lanceur de sorts et la victime en fonction de l'importance de l'hémorragie. Les effets sont les mêmes lorsqu'ils sont utilisés sur des colons amis ou ennemis, mais déclencheront un affront s'ils sont utilisés pour neutraliser ou tuer un colon allié ou neutre.</TM_BloodForBlood.description>
+
+<TM_BloodShield.label>Bouclier de sang</TM_BloodShield.label>
+<TM_BloodShield.description>Entoure une cible d'une barrière formée de l'énergie du sang du lanceur de sorts. L'énergie du bouclier régénère lentement le colon qu'il protège. Tout dégât infligé au bouclier disperse une partie de cette énergie mais provoque également une poussée de guérison sur le colon protégé.\n\nUne partie des dégâts absorbés par le bouclier sera infligée au lanceur de sorts à cause du lien de sang - ceci inclut la guérison progressive. Tant que le mage de sang soutenant le bouclier dispose de puissance magique de sang, tout dégât retourné sera déduit de cette puissance de sang, mais si le mage de sang n'a plus de puissance magique de sang, les dégâts retournés causeront des dégâts physiques au mage de sang.\n\nLes mages de sang ne peuvent pas former un bouclier de sang sur eux-mêmes.</TM_BloodShield.description>
+
+<TM_Rend.label>Pourfendre</TM_Rend.label>
+<TM_Rend.description>Le sang de la victime est violemment rejeté par son hôte et jaillit de multiples blessures, provoquant une hémorragie massive.\n\nPortée : 35\nRayon : 3\nCibles max : 3\nTemps de recharge : 40s\nIncantation : 1.5s</TM_Rend.description>
+<TM_Rend_I.label>Pourfendre</TM_Rend_I.label>
+<TM_Rend_I.description>Le sang de la victime est violemment rejeté par son hôte et jaillit de multiples blessures, provoquant une hémorragie massive.\n\nPortée : 38\nRayon : 4\nCibles max : 4\nTemps de recharge : 30s\nIncantation : 1.3s</TM_Rend_I.description>
+<TM_Rend_II.label>Pourfendre</TM_Rend_II.label>
+<TM_Rend_II.description>Le sang de la victime est violemment rejeté par son hôte et jaillit de multiples blessures, provoquant une hémorragie massive.\n\nPortée : 41\nRayon : 4\nCibles max : 5\nTemps de recharge : 20s\nIncantation : 1.1s</TM_Rend_II.description>
+<TM_Rend_III.label>Pourfendre</TM_Rend_III.label>
+<TM_Rend_III.description>Le sang de la victime est violemment rejeté par son hôte et jaillit de multiples blessures, provoquant une hémorragie massive.\n\nPortée : 44\nRayon : 5\nCibles max : 5\nTemps de recharge : 10s\nIncantation : 1s</TM_Rend_III.description>
+
+<TM_BloodMoon.label>Lune de sang</TM_BloodMoon.label>
+<TM_BloodMoon.description>Entoure une zone de magie du sang, appelant les démons de rage et de terreur à s'attaquer aux ennemis qui se trouvent à l'intérieur.</TM_BloodMoon.description>
+<TM_BloodMoon_I.label>Lune de sang</TM_BloodMoon_I.label>
+<TM_BloodMoon_I.description>Entoure une zone de magie du sang, appelant les démons de rage et de terreur à s'attaquer aux ennemis qui se trouvent à l'intérieur.</TM_BloodMoon_I.description>
+<TM_BloodMoon_II.label>Lune de sang</TM_BloodMoon_II.label>
+<TM_BloodMoon_II.description>Entoure une zone de magie du sang, appelant les démons de rage et de terreur à s'attaquer aux ennemis qui se trouvent à l'intérieur.</TM_BloodMoon_II.description>
+<TM_BloodMoon_III.label>Lune de sang</TM_BloodMoon_III.label>
+<TM_BloodMoon_III.description>Entoure une zone de magie du sang, appelant les démons de rage et de terreur à s'attaquer aux ennemis qui se trouvent à l'intérieur.</TM_BloodMoon_III.description>
+
+<TM_LightLance.label>Javelot de lumière</TM_LightLance.label>
+<TM_LightLance.description>Concentrer la lumière en un faisceau intense qui brûle tout sur son passage. Cette capacité est renforcée par la lumière accumulée.</TM_LightLance.description>
+
+<TM_Sunfire.label>Éclat solaire</TM_Sunfire.label>
+<TM_Sunfire.description>La zone ciblée est parcourue d'éclats de lumière brûlants. Cette capacité est renforcée par la lumière accumulée.\n\nIncantation : 3s\nPortée : 50\nTemps de recharge : 60s\nRayon : 5\nNombre : 13</TM_Sunfire.description>
+<TM_Sunfire_I.label>Éclat solaire</TM_Sunfire_I.label>
+<TM_Sunfire_I.description>La zone ciblée est parcourue d'éclats de lumière brûlants. Cette capacité est renforcée par la lumière accumulée.\n\nIncantation : 2.7s\nPortée : 55\nTemps de recharge : 55s\nRayon: 6\nNombre: 14</TM_Sunfire_I.description>
+<TM_Sunfire_II.label>Éclat solaire</TM_Sunfire_II.label>
+<TM_Sunfire_II.description>La zone ciblée est parcourue d'éclats de lumière brûlants. Cette capacité est renforcée par la lumière accumulée.\n\nIncantation : 2.4s\nPortée : 60\nTemps de recharge : 50s\nRayon: 7\nNombre: 15</TM_Sunfire_II.description>
+<TM_Sunfire_III.label>Éclat solaire</TM_Sunfire_III.label>
+<TM_Sunfire_III.description>La zone ciblée est parcourue d'éclats de lumière brûlants. Cette capacité est renforcée par la lumière accumulée.\n\nIncantation : 2.2s\nPortée : 65\nTemps de recharge : 45s\nRayon: 8\nNombre: 16</TM_Sunfire_III.description>
+
+<TM_LightBurst.label>Rafale lumineuse</TM_LightBurst.label>
+<TM_LightBurst.description>Crée des éclairs de lumière qui aveuglent et désorientent les colons pris dans l'explosion. Les colons désorientés seront incapables de distinguer un ami d'un ennemi et pourront tirer sur les colons amis proches. Cette capacité est renforcée par la lumière accumulée.</TM_LightBurst.description>
+
+<TM_LightSkip.label>Saut de lumière</TM_LightSkip.label>
+<TM_LightSkip.description>Le lanceur de sorts voyage à travers un faisceau de lumière pour un déplacement quasi instantané. Ni la position du lanceur de sorts ni la position ciblée ne doivent être recouvert d’un toit.</TM_LightSkip.description>
+
+<TM_LightSkipMass.label>Saut de lumière de masse</TM_LightSkipMass.label>
+<TM_LightSkipMass.description>Le lanceur de sorts et tous les alliés dans un rayon de 5 cases voyagent à travers des ondes de lumière pour un voyage quasi-instantané. Les colons se trouvant sous un toit ne seront pas transportés.</TM_LightSkipMass.description>
+
+<TM_LightSkipGlobal.label>Saut de lumière monde</TM_LightSkipGlobal.label>
+<TM_LightSkipGlobal.description>Le lanceur de sorts et tous les alliés dans un rayon de 5 cases voyagent à travers des ondes de lumière pour un voyage quasi-instantané. Les colons se trouvant sous un toit ne seront pas transportés.</TM_LightSkipGlobal.description>
+
+<TM_Refraction.label>Réfraction</TM_Refraction.label>
+<TM_Refraction.description>Crée un mur de lumière qui affecte les projectiles lorsqu'ils traversent le mur. Les projectiles ennemis peuvent être déviés de leur cible. Les projectiles amis peuvent utiliser une partie de l'énergie lumineuse pour créer un reflet miroir du projectile. Le mur dure environ 25 secondes ou jusqu'à ce qu'il soit à court d'énergie. Cette capacité est renforcée par la lumière accumulée.</TM_Refraction.description>
+
+<TM_SpiritOfLight.label>Esprit de lumière</TM_SpiritOfLight.label>
+<TM_SpiritOfLight.description>Invoque un esprit de lumière qui aide et protège le lanceur de sorts. Cette capacité nécessite 60 mana pour être soutenue et réduit la régénération de mana de 75%. Utiliser à nouveau cette capacité pour renvoyer l'esprit. L'Esprit de lumière est capable de stocker de l'énergie lumineuse et utilise cette énergie pour effectuer des actions.\n\nL'esprit de lumière travaille de manière autonome pour aider le lanceur de sorts et effectue les actions suivantes :\no Dévier les attaques\no Cautériser les blessures des colons à terre\no Attaquer les ennemis (si Mobiliser)\no Améliorer l'humeur des alliés proches\no Créer une explosion de joie\no Protège les rêves du lanceur de sorts</TM_SpiritOfLight.description>
+
+<TM_SoL_CreateLight.label>Créer une lumière</TM_SoL_CreateLight.label>
+<TM_SoL_CreateLight.description>Demande à l'Esprit de lumière de créer une lumière dans une zone donnée. Cela réduit la régénération de lumière de l'Esprit de 70%. Utiliser à nouveau cette capacité à n'importe quel endroit pour annuler la lumière.</TM_SoL_CreateLight.description>
+
+<TM_SoL_Equalize.label>Egaliseur</TM_SoL_Equalize.label>
+<TM_SoL_Equalize.description>Égalise l'énergie lumineuse entre l'Esprit de lumière et le lanceur de sorts.</TM_SoL_Equalize.description>
+
+<TM_ChaosTradition.label>Tradition du Chaos</TM_ChaosTradition.label>
+<TM_ChaosTradition.description>La Tradition du Chaos est la pratique dans laquelle les mages du chaos redéfinissent leur processus de pensée pour échanger leurs capacités magiques disponibles. Comme son nom l'indique, les capacités apprises ne peuvent être contrôlées et sont choisies au hasard. Chaque capacité lancée par un mage du chaos a une chance d'être affectée par les fluctuations magiques.</TM_ChaosTradition.description>
+
+<TM_Prediction.label>Prédiction</TM_Prediction.label>
+<TM_Prediction.description>Permet la prédiction - un effort conscient dédié au déchiffrage des événements futurs. La prédiction a deux composantes.\n\nLa première composante est une conscience de soi et une intuition qui rend le chronomancier étrangement difficile à blesser, cependant, cela divise l'attention du chronomancien et réduit son acuité physique et sa vitesse.\n\nLa deuxième composante se concentre sur la prédiction d'événements importants. Des indicateurs tels que le vol d'un oiseau, un nuage de poussière, un bruit dans le vent sont mis en évidence par le chronomancier et tissés ensemble dans une tapisserie décrivant un futur potentiel.\n\nAucune de ces méthodes n'est infaillible, mais la pratique permet d'améliorer la précision des prédictions et de réduire la concentration nécessaire pour la maintenir.\n\nCette capacité réduit la régénération du mana de 50%.</TM_Prediction.description>
+
+<TM_AlterFate.label>Altérer le destin</TM_AlterFate.label>
+<TM_AlterFate.description>Modifier le cours du temps pour éviter les catastrophes annoncées. Cette capacité repose sur des prédictions précises pour façonner l'avenir. Les chronomanciens hautement qualifiés peuvent inverser les conditions environnementales même après qu'elles se soient produites.\n\nAltérer le destin est plus efficace contre les conditions environnementales. Cette capacité peut toutefois se retourner contre vous, en modifiant l'événement, en l'aggravant ou en déclenchant le fameux "effet papillon".</TM_AlterFate.description>
+
+<TM_AccelerateTime.label>Accélérer le temps</TM_AccelerateTime.label>
+<TM_AccelerateTime.description>Accélérer le temps applique un champ autour de la cible où toute la matière physique vieillit rapidement.\n\nLorsqu'il est appliqué à des objets inanimés, l'effet est instantané et détériore les objets de manière significative ; cela peut entraîner le désassemblage d'un objet en ses composants de base. Il n'y a pas de zone d'effet pour cette fonction, seul l'objet au centre sera affecté.\n\nLes tissus vivants résistent aux changements instantanés et nécessitent une approche plus graduelle. Tout colon vivant affecté aura une vitesse de mouvement et de manipulation accrue. Les éléments neutres (plantes) connaîtront une croissance rapide.\n\nLorsqu'il est utilisé à un endroit ou sur un ennemi hostile, tous les ennemis dans la zone seront maudits par un vieillissement rapide. Cela drainera le repos et l'énergie de la cible, accélérera d'autres conditions de santé, et peut infliger des maladies liées à l'âge.\n\nLorsqu'il est utilisé sur des colons amis, il n'y a pas de zone d'effet, seule la cible principale sera affectée. Le processus de vieillissement des colons amis est beaucoup plus progressif, et peut être annulé par Inverser le temps.</TM_AccelerateTime.description>
+
+<TM_ReverseTime.label>Inverser le temps</TM_ReverseTime.label>
+<TM_ReverseTime.description>Inverser le temps applique un champ autour de la cible où toute matière physique inverse sa dégradation naturelle. L'inversion des effets du temps est plus difficile - elle nécessite plus d'énergie que pour accélérer le temps et ne peut être appliquée qu'à une seule cible à la fois.\n\nLorsqu'il est appliqué à des objets inanimés, l'effet est instantané et permet de régénérer les objets et de ramener la matière à son état antérieur. L'inversion du temps peut être utilisée pour restaurer de la nourriture pourrie, de l'équipement en décomposition et du matériel contaminé.\n\nLes tissus vivants résistent aux changements instantanés et nécessitent une approche plus graduelle. Tout colon vivant affecté aura une vitesse de mouvement et de manipulation réduite et son vieillissement biologique s'inversera. Cela peut supprimer de nombreuses affections qui ont été causées récemment car le tissu est restauré à un état antérieur à l'affection ; cela inclut les blessures, les maladies et les affections liées à l'âge qui se sont produites dans la fenêtre d'inversion du temps.\n\nLe temps inversé peut être dissipé en opposant ses effets à ceux d'Accélérer le temps.</TM_ReverseTime.description>
+
+<TM_ChronostaticField.label>Champ chronostatique</TM_ChronostaticField.label>
+<TM_ChronostaticField.description>Le champ chronostatique (également appelé bulle temporelle) déphase toutes les créatures vivantes se trouvant dans la zone affectée par le champ chronostatique. Toute interaction avec les créatures affectées est impossible jusqu'à ce qu'elles soient ramenées dans le flux temporel naturel.\n\nRayon : 3\nPortée : 40\nIncantation : 1s</TM_ChronostaticField.description>
+<TM_ChronostaticField_I.label>Champ chronostatique</TM_ChronostaticField_I.label>
+<TM_ChronostaticField_I.description>Le champ chronostatique (également appelé bulle temporelle) déphase toutes les créatures vivantes se trouvant dans la zone affectée par le champ chronostatique. Toute interaction avec les créatures affectées est impossible jusqu'à ce qu'elles soient ramenées dans le flux temporel naturel.\n\nRayon : 3.5\nPortée: 44\nIncantation : 0.8s</TM_ChronostaticField_I.description>
+<TM_ChronostaticField_II.label>Champ chronostatique</TM_ChronostaticField_II.label>
+<TM_ChronostaticField_II.description>Le champ chronostatique (également appelé bulle temporelle) déphase toutes les créatures vivantes se trouvant dans la zone affectée par le champ chronostatique. Toute interaction avec les créatures affectées est impossible jusqu'à ce qu'elles soient ramenées dans le flux temporel naturel.\n\nRayon : 4\nPortée: 48\nIncantation : 0.6s</TM_ChronostaticField_II.description>
+<TM_ChronostaticField_III.label>Champ chronostatique</TM_ChronostaticField_III.label>
+<TM_ChronostaticField_III.description>Le champ chronostatique (également appelé bulle temporelle) déphase toutes les créatures vivantes se trouvant dans la zone affectée par le champ chronostatique. Toute interaction avec les créatures affectées est impossible jusqu'à ce qu'elles soient ramenées dans le flux temporel naturel.\n\nRayon : 4.5\nPortée: 50\nIncantation : 0.5s</TM_ChronostaticField_III.description>
+
+<TM_TimeMark.label>Marque du temps</TM_TimeMark.label>
+<TM_TimeMark.description>Le chronomancien est capable de capturer son état à un moment précis dans le temps et de s'y ramener. Cette capacité ne change pas le temps et n'affecte rien d'autre que le chronomancien. Le chronomancien conservera tous les souvenirs qu'il avait au moment où le rappel est activé ; une activation automatique suite à un coup mortel peut infliger des cassures mentales puisque le Chronomancien se souviendra de sa mort.\n\nLe rappel a une durée effective limitée (~1 jour) avant que la marque du temps expire et doit être réappliquée. Lorsque la marque du temps est active, le maximum de mana est réduit de 40 et la régénération de mana est réduite de 30%.\n\nLorsqu'il est réglé sur lancer-auto, le chronomancien tentera de maintenir un marqueur de rappel à tout moment - cela n'affecte pas les déclencheurs d'activation (à terre/morts) qui se déclencheront toujours si la compétence est apprise et que la marque du temps est active.\n\nPour maintenir la cohésion physique pendant un rappel, le lanceur de sorts conservera toutes les conditions avec pérennité (parties du corps manquantes ou ajoutées, blessures permanentes).  Tous les sorts du chronomancien sont réinitialisés à la suite d'un rappel, sauf le rappel lui-même.</TM_TimeMark.description>
+
+<TM_Recall.label>Rappel</TM_Recall.label>
+<TM_Recall.description>Ramène le lanceur de sorts à un point précédent dans le temps. Ne peut être utilisé sans une marque du temps active.</TM_Recall.description>
+
+<TM_ProvisionerAura.label>Ravitaillement</TM_ProvisionerAura.label>
+<TM_ProvisionerAura.description>Utiliser la capacité pour basculer l'Aura de ravitaillement : améliore le repos et réduit la faim des colons à proximité. Peut être améliorée pour réparer l'équipement, augmenter les taux de guérison naturelle et stimuler la régénération d'énergie. Cette aura nécessite 60 d'endurance pour être maintenue.</TM_ProvisionerAura.description>
+
+<TM_TaskMasterAura.label>Maître de Tâche</TM_TaskMasterAura.label>
+<TM_TaskMasterAura.description>Utiliser la capacité d'activer l'Aura du Maître de Tâche : augmente la vitesse de travail, la vitesse d'alimentation et la capacité de transport mais rend les colons moins sociables. Les colons qui font l'objet d'une surveillance de la part d'un maître de tâche auront une pénalité d'humeur. Cette aura nécessite 70 d'endurance pour être maintenue.</TM_TaskMasterAura.description>
+
+<TM_CommanderAura.label>Commandant</TM_CommanderAura.label>
+<TM_CommanderAura.description>Utiliser la capacité d'activer l'Aura du Commandant : améliore l'humeur de tous les colons à proximité mais diminue leur productivité. Lorsque cette aura est activée, le commandant recherche les colons qui ont craqué à cause du stress mental et leur fait un discours de motivation pour surmonter la rupture. Les colons qui surmontent un choc mental de cette manière n'obtiendront pas de catharsis. Cette aura nécessite 80 d'endurance pour être maintenue.</TM_CommanderAura.description>
+
+<TM_StayAlert.label>Rester vigilant !</TM_StayAlert.label>
+<TM_StayAlert.description>Donne l'ordre à tous les colons proches de rester en alerte. Les colons concernés se reposent instantanément et voient mieux.\n\nTemps de recharge : 120s\nCibles max : 10\nPortée : 14\n\nLes colons peuvent rejeter les ordres si la compétence sociale du commandant est inférieure à 10 ; une compétence sociale de 5 a 50% de chances d'être rejetée par chaque colon à portée.\nLes ordres provoquent une perte d'humeur ; chaque ordre augmente la gravité de la perte.\nLes commandes n'affectent pas le commandant.</TM_StayAlert.description>
+<TM_StayAlert_I.label>Rester vigilant !</TM_StayAlert_I.label>
+<TM_StayAlert_I.description>Donne l'ordre à tous les colons proches de rester en alerte. Les colons concernés se reposent instantanément et voient mieux.\n\nTemps de recharge : 110s\nCibles max : 12\nPortée: 16\n\nLes colons peuvent rejeter les ordres si la compétence sociale du commandant est inférieure à 10 ; une compétence sociale de 5 a 50% de chances d'être rejetée par chaque colon à portée.\nLes ordres provoquent une perte d'humeur ; chaque ordre augmente la gravité de la perte.\nLes commandes n'affectent pas le commandant.</TM_StayAlert_I.description>
+<TM_StayAlert_II.label>Rester vigilant !</TM_StayAlert_II.label>
+<TM_StayAlert_II.description>Donne l'ordre à tous les colons proches de rester en alerte. Les colons concernés se reposent instantanément et voient mieux.\n\nTemps de recharge : 100s\nCibles max : 14\nPortée: 18\n\nLes colons peuvent rejeter les ordres si la compétence sociale du commandant est inférieure à 10 ; une compétence sociale de 5 a 50% de chances d'être rejetée par chaque colon à portée.\nLes ordres provoquent une perte d'humeur ; chaque ordre augmente la gravité de la perte.\nLes commandes n'affectent pas le commandant.</TM_StayAlert_II.description>
+<TM_StayAlert_III.label>Rester vigilant !</TM_StayAlert_III.label>
+<TM_StayAlert_III.description>Donne l'ordre à tous les colons proches de rester en alerte. Les colons concernés se reposent instantanément et voient mieux.\n\nTemps de recharge : 90s\nCibles max : 15\nPortée: 20\n\nLes colons peuvent rejeter les ordres si la compétence sociale du commandant est inférieure à 10 ; une compétence sociale de 5 a 50% de chances d'être rejetée par chaque colon à portée.\nLes ordres provoquent une perte d'humeur ; chaque ordre augmente la gravité de la perte.\nLes commandes n'affectent pas le commandant.</TM_StayAlert_III.description>
+
+<TM_MoveOut.label>Dégagez !</TM_MoveOut.label>
+<TM_MoveOut.description>Donne l'ordre à tous les colons proches de se déplacer. Les colons affectés bénéficient instantanément d'un mouvement accru et empêchent les colons d'être stupéfaits ou étourdis. Les colons ont un mouvement réduit à la fin de l'ordre pour récupérer leur énergie.\n\nTemps de recharge : 120s\nCibles max : 10\nPortée : 14\n\nLes colons peuvent rejeter les ordres si la compétence sociale du commandant est inférieure à 10 ; une compétence sociale de 5 a 50% de chances d'être rejetée par chaque colon à portée.\nLes ordres provoquent une perte d'humeur ; chaque ordre augmente la gravité de la perte.\nLes commandes n'affectent pas le commandant.</TM_MoveOut.description>
+<TM_MoveOut_I.label>Dégagez !</TM_MoveOut_I.label>
+<TM_MoveOut_I.description>Donne l'ordre à tous les colons proches de se déplacer. Les colons affectés bénéficient instantanément d'un mouvement accru et empêchent les colons d'être stupéfaits ou étourdis. Les colons ont un mouvement réduit à la fin de l'ordre pour récupérer leur énergie.\n\nTemps de recharge : 110s\nCibles max : 12\nPortée : 16\n\nLes colons peuvent rejeter les ordres si la compétence sociale du commandant est inférieure à 10 ; une compétence sociale de 5 a 50% de chances d'être rejetée par chaque colon à portée.\nLes ordres provoquent une perte d'humeur ; chaque ordre augmente la gravité de la perte.\nLes commandes n'affectent pas le commandant.</TM_MoveOut_I.description>
+<TM_MoveOut_II.label>Dégagez !</TM_MoveOut_II.label>
+<TM_MoveOut_II.description>Donne l'ordre à tous les colons proches de se déplacer. Les colons affectés bénéficient instantanément d'un mouvement accru et empêchent les colons d'être stupéfaits ou étourdis. Les colons ont un mouvement réduit à la fin de l'ordre pour récupérer leur énergie.\n\nTemps de recharge : 100s\nCibles max : 14\nPortée : 18\n\nLes colons peuvent rejeter les ordres si la compétence sociale du commandant est inférieure à 10 ; une compétence sociale de 5 a 50% de chances d'être rejetée par chaque colon à portée.\nLes ordres provoquent une perte d'humeur ; chaque ordre augmente la gravité de la perte.\nLes commandes n'affectent pas le commandant.</TM_MoveOut_II.description>
+<TM_MoveOut_III.label>Dégagez !</TM_MoveOut_III.label>
+<TM_MoveOut_III.description>Donne l'ordre à tous les colons proches de se déplacer. Les colons affectés bénéficient instantanément d'un mouvement accru et empêchent les colons d'être stupéfaits ou étourdis. Les colons ont un mouvement réduit à la fin de l'ordre pour récupérer leur énergie.\n\nTemps de recharge : 90s\nCibles max : 15\nPortée : 20\n\nLes colons peuvent rejeter les ordres si la compétence sociale du commandant est inférieure à 10 ; une compétence sociale de 5 a 50% de chances d'être rejetée par chaque colon à portée.\nLes ordres provoquent une perte d'humeur ; chaque ordre augmente la gravité de la perte.\nLes commandes n'affectent pas le commandant.</TM_MoveOut_III.description>
+
+<TM_HoldTheLine.label>Tenez la ligne !</TM_HoldTheLine.label>
+<TM_HoldTheLine.description>Donne l'ordre à tous les colons proches de tenir la ligne. Les colons affectés gagnent en résistance aux dégâts, en résistance à la douleur, en stabilité mentale et en cadence de tir, mais leurs mouvements sont réduits.\n\nTemps de recharge : 200s\nCibles max : 7\nPortée : 10\n\nLes colons peuvent rejeter les ordres si la compétence sociale du commandant est inférieure à 10 ; une compétence sociale de 5 a 50% de chances d'être rejetée par chaque colon à portée.\nLes ordres provoquent une perte d'humeur ; chaque ordre augmente la gravité de la perte.\nLes commandes n'affectent pas le commandant.</TM_HoldTheLine.description>
+<TM_HoldTheLine_I.label>Tenez la ligne !</TM_HoldTheLine_I.label>
+<TM_HoldTheLine_I.description>Donne l'ordre à tous les colons proches de tenir la ligne. Les colons affectés gagnent en résistance aux dégâts, en résistance à la douleur, en stabilité mentale et en cadence de tir, mais leurs mouvements sont réduits.\n\nTemps de recharge : 180s\nCibles max : 8\nPortée : 12\n\nLes colons peuvent rejeter les ordres si la compétence sociale du commandant est inférieure à 10 ; une compétence sociale de 5 a 50% de chances d'être rejetée par chaque colon à portée.\nLes ordres provoquent une perte d'humeur ; chaque ordre augmente la gravité de la perte.\nLes commandes n'affectent pas le commandant.</TM_HoldTheLine_I.description>
+<TM_HoldTheLine_II.label>Tenez la ligne !</TM_HoldTheLine_II.label>
+<TM_HoldTheLine_II.description>Donne l'ordre à tous les colons proches de tenir la ligne. Les colons affectés gagnent en résistance aux dégâts, en résistance à la douleur, en stabilité mentale et en cadence de tir, mais leurs mouvements sont réduits.\n\nTemps de recharge : 160s\nCibles max : 9\nPortée : 14\n\nLes colons peuvent rejeter les ordres si la compétence sociale du commandant est inférieure à 10 ; une compétence sociale de 5 a 50% de chances d'être rejetée par chaque colon à portée.\nLes ordres provoquent une perte d'humeur ; chaque ordre augmente la gravité de la perte.\nLes commandes n'affectent pas le commandant.</TM_HoldTheLine_II.description>
+<TM_HoldTheLine_III.label>Tenez la ligne !</TM_HoldTheLine_III.label>
+<TM_HoldTheLine_III.description>Donne l'ordre à tous les colons proches de tenir la ligne. Les colons affectés gagnent en résistance aux dégâts, en résistance à la douleur, en stabilité mentale et en cadence de tir, mais leurs mouvements sont réduits.\n\nTemps de recharge : 150s\nCibles max : 10\nPortée : 15\n\nLes colons peuvent rejeter les ordres si la compétence sociale du commandant est inférieure à 10 ; une compétence sociale de 5 a 50% de chances d'être rejetée par chaque colon à portée.\nLes ordres provoquent une perte d'humeur ; chaque ordre augmente la gravité de la perte.\nLes commandes n'affectent pas le commandant.</TM_HoldTheLine_III.description>
+
+<TM_Shroud.label>Voile des ténèbres</TM_Shroud.label>
+<TM_Shroud.description>Le Voile des ténèbres est un manteau de malice et de peur tangible qui consomme l'énergie à proximité.\n\nLe voile a de nombreuses fonctions différentes et constitue un élément crucial de l'entraînement du chevalier de la mort. Avant tout, le voile offre un bonus défensif contre tous les types de dégâts et augmente légèrement les dégâts des armes.\n\nIl est également capable de solidifier et de riposter à une attaque utilisant des dégâts d'esprit.\n\nEnfin, le voile est capable d'annuler les projectiles proches du chevalier de la mort en les consumant dans le vide.  Les projectiles lancés à moins de 6 cases ne seront jamais annulés.\n\nToutes ces fonctions sont renforcées par l'augmentation du niveau de haine et doivent avoir un niveau de haine suffisant pour fonctionner.</TM_Shroud.description>
+
+<TM_WaveOfFear.label>Vague de peur</TM_WaveOfFear.label>
+<TM_WaveOfFear.description>Libère une vague de peur qui fait reculer les ennemis. Vague de peur applique également un affaiblissement significatif à la défense ombre/lumière et aux mouvements, et ralentit la vitesse d'attaque.\n\nLa haine n'est pas nécessaire pour utiliser cette capacité, mais sa portée effective est considérablement augmentée par les niveaux de haine.</TM_WaveOfFear.description>
+
+<TM_Spite.label>Rancune</TM_Spite.label>
+<TM_Spite.description>Libérer la haine exploitée et projeter une vague de rancune sur une cible. La rancune nécessite de la haine pour être utilisée.\n\nIncantation : 1s\nTemps de recharge : 5s\nPortée : 21</TM_Spite.description>
+<TM_Spite_I.label>Rancune</TM_Spite_I.label>
+<TM_Spite_I.description>Libérer la haine exploitée et projeter une vague de rancune sur une cible. La rancune nécessite de la haine pour être utilisée.\n\nIncantation : 0.8s\nTemps de recharge  : 4s\nPortée : 24</TM_Spite_I.description>
+<TM_Spite_II.label>Rancune</TM_Spite_II.label>
+<TM_Spite_II.description>Libérer la haine exploitée et projeter une vague de rancune sur une cible. La rancune nécessite de la haine pour être utilisée.\n\nIncantation : 0.6s\nTemps de recharge  : 3s\nPortée : 27</TM_Spite_II.description>
+<TM_Spite_III.label>Rancune</TM_Spite_III.label>
+<TM_Spite_III.description>Libérer la haine exploitée et projeter une vague de rancune sur une cible. La rancune nécessite de la haine pour être utilisée.\n\nIncantation : 0.4s\nTemps de recharge  : 2s\nPortée : 30</TM_Spite_III.description>
+
+<TM_LifeSteal.label>Vol de vie</TM_LifeSteal.label>
+<TM_LifeSteal.description>Permet d'extraire l'essence vitale des ennemis touchés en combat de mêlée pour redonner vie et énergie au chevalier de la mort.</TM_LifeSteal.description>
+
+<TM_GraveBlade.label>Lame runique</TM_GraveBlade.label>
+<TM_GraveBlade.description>Les lames runiques sortent les esprits des morts.\n\nPortée : 35\nIncantation : 1.6s\nRayon : 3.0</TM_GraveBlade.description>
+<TM_GraveBlade_I.label>Lame runique</TM_GraveBlade_I.label>
+<TM_GraveBlade_I.description>Les lames runiques sortent les esprits des morts.\n\nPortée : 38\nIncantation : 1.4s\nRayon : 3.4</TM_GraveBlade_I.description>
+<TM_GraveBlade_II.label>Lame runique</TM_GraveBlade_II.label>
+<TM_GraveBlade_II.description>Les lames runiques sortent les esprits des morts.\n\nPortée : 41\nIncantation : 1.2s\nRayon : 3.8</TM_GraveBlade_II.description>
+<TM_GraveBlade_III.label>Lame runique</TM_GraveBlade_III.label>
+<TM_GraveBlade_III.description>Les lames runiques sortent les esprits des morts.\n\nPortée : 44\nIncantation : 1s\nRayon : 4.2</TM_GraveBlade_III.description>
+
+<TM_SoulBond.label>Lien d'âme</TM_SoulBond.label>
+<TM_SoulBond.description>Les démons, ou ceux qui possèdent le pouvoir d'un démon, peuvent créer un lien d'âme (contrat d'âme) avec un autre colon qui soutiendra (ou accueillera) le lien. Le lien fournit l'énergie de l'âme de l'hôte au démonoïde, en échange, les émotions de l'hôte sont lavées dans le bonheur. Le lien d'âme crée également un lien qui permet au démonoïde de voyager vers l'hôte ou de l'invoquer.\n\nLe contrat de lien d'âme peut être annulé à tout moment par le démonoïde en réutilisant la capacité sur l'hôte actuel. La création d'un lien d'âme avec un autre hôte annule tous les contrats précédents. Le contrat prend également fin si l'une des parties meurt ou est détruite.\n\nLes succubes et les sorciers forment des liens d'âme distincts - les liens des sorciers sont mentalement réciproques tandis que les liens des succubes sont de nature physique. Les démonoïdes ne peuvent entretenir qu'un seul lien ; les hôtes ne peuvent entretenir qu'un seul lien de chaque type (mental/physique).</TM_SoulBond.description>
+
+<TM_ShadowCall.label>Appel de l'ombre</TM_ShadowCall.label>
+<TM_ShadowCall.description>Ordonne à l'âme d'un hôte lié à vous rejoindre à votre emplacement.</TM_ShadowCall.description>
+
+<TM_ShadowStep.label>Pas de l’ombre</TM_ShadowStep.label>
+<TM_ShadowStep.description>Traverser l'ombre jusqu'à l'emplacement de votre hôte lié à votre âme.</TM_ShadowStep.description>
+
+<TM_ShadowBolt.label>Trait de l'ombre</TM_ShadowBolt.label>
+<TM_ShadowBolt.description>Lance un Trait de l'ombre. Toute créature prise dans sa trajectoire est touchée par l'ombre. À l'impact, l'énergie de l'ombre est libérée dans une violente onde de ténèbres.\n\nIncantation : 2s\nTemps de recharge : 20s\nPortée : 40</TM_ShadowBolt.description>
+<TM_ShadowBolt_I.label>Trait de l'ombre</TM_ShadowBolt_I.label>
+<TM_ShadowBolt_I.description>Lance un Trait de l'ombre. Toute créature prise dans sa trajectoire est touchée par l'ombre. À l'impact, l'énergie de l'ombre est libérée dans une violente onde de ténèbres.\n\nIncantation : 1.8s\nTemps de recharge : 18s\nPortée : 45</TM_ShadowBolt_I.description>
+<TM_ShadowBolt_II.label>Trait de l'ombre</TM_ShadowBolt_II.label>
+<TM_ShadowBolt_II.description>Lance un Trait de l'ombre. Toute créature prise dans sa trajectoire est touchée par l'ombre. À l'impact, l'énergie de l'ombre est libérée dans une violente onde de ténèbres.\n\nIncantation : 1.6s\nTemps de recharge : 16s\nPortée : 50</TM_ShadowBolt_II.description>
+<TM_ShadowBolt_III.label>Trait de l'ombre</TM_ShadowBolt_III.label>
+<TM_ShadowBolt_III.description>Lance un Trait de l'ombre. Toute créature prise dans sa trajectoire est touchée par l'ombre. À l'impact, l'énergie de l'ombre est libérée dans une violente onde de ténèbres.\n\nIncantation : 1.5s\nTemps de recharge : 15s\nPortée : 55</TM_ShadowBolt_III.description>
+
+<TM_Dominate.label>Dominer</TM_Dominate.label>
+<TM_Dominate.description>Commander l'ombre pour envelopper vos ennemis dans un cauchemar vivant qui les entourera de leurs plus grandes peurs. Les ennemis suffisamment proches pour être témoins de la peur d'un colon dominé peuvent également succomber à la peur et laisser l'ombre dominer leur propre esprit.\n\nLes sorciers et les succubes dominent leurs ennemis de différentes manières. Les sorciers tenteront de briser l'esprit de leurs ennemis, tandis que les succubes réduiront les prouesses physiques de leurs victimes.</TM_Dominate.description>
+
+<TM_Attraction.label>Attraction</TM_Attraction.label>
+<TM_Attraction.description>Crée un grand puits d'ombre qui attire tous les colons proches en son centre. Les ombres s'accrochent à toute créature affectée par l'Attraction, réduisant drastiquement leur vitesse de déplacement pendant un court instant.\n\nIncantation : 3s\nTemps de recharge : 60\nPortée : 40</TM_Attraction.description>
+<TM_Attraction_I.label>Attraction</TM_Attraction_I.label>
+<TM_Attraction_I.description>Crée un grand puits d'ombre qui attire tous les colons proches en son centre. Les ombres s'accrochent à toute créature affectée par l'Attraction, réduisant drastiquement leur vitesse de déplacement pendant un court instant.\n\nIncantation : 2.6s\nTemps de recharge : 55\nPortée : 45</TM_Attraction_I.description>
+<TM_Attraction_II.label>Attraction</TM_Attraction_II.label>
+<TM_Attraction_II.description>Crée un grand puits d'ombre qui attire tous les colons proches en son centre. Les ombres s'accrochent à toute créature affectée par l'Attraction, réduisant drastiquement leur vitesse de déplacement pendant un court instant.\n\nIncantation : 2.3s\nTemps de recharge : 50\nPortée : 50</TM_Attraction_II.description>
+<TM_Attraction_III.label>Attraction</TM_Attraction_III.label>
+<TM_Attraction_III.description>Crée un grand puits d'ombre qui attire tous les colons proches en son centre. Les ombres s'accrochent à toute créature affectée par l'Attraction, réduisant drastiquement leur vitesse de déplacement pendant un court instant.\n\nIncantation : 2s\nTemps de recharge : 45\nPortée : 55</TM_Attraction_III.description>
+
+<TM_Repulsion.label>Répulsion</TM_Repulsion.label>
+<TM_Repulsion.description>Le sorcier génère une explosion d'énergie sur une case ciblée avec suffisamment de force pour projeter les créatures proches loin du centre.\n\nIncantation : 1s\nPortée : 40\nTemps de recharge : 30s\nRayon : 5</TM_Repulsion.description>
+<TM_Repulsion_I.label>Répulsion</TM_Repulsion_I.label>
+<TM_Repulsion_I.description>Le sorcier génère une explosion d'énergie sur une case ciblée avec suffisamment de force pour projeter les créatures proches loin du centre.\n\nIncantation : 0.8s\nPortée : 47\nTemps de recharge : 25s\nRayon : 6</TM_Repulsion_I.description>
+<TM_Repulsion_II.label>Répulsion</TM_Repulsion_II.label>
+<TM_Repulsion_II.description>Le sorcier génère une explosion d'énergie sur une case ciblée avec suffisamment de force pour projeter les créatures proches loin du centre.\n\nIncantation : 0.6s\nPortée : 54\nTemps de recharge : 20s\nRayon : 7</TM_Repulsion_II.description>
+<TM_Repulsion_III.label>Répulsion</TM_Repulsion_III.label>
+<TM_Repulsion_III.description>Le sorcier génère une explosion d'énergie sur une case ciblée avec suffisamment de force pour projeter les créatures proches loin du centre.\n\nIncantation : 0.5s\nPortée : 60\nTemps de recharge : 15s\nRayon : 8</TM_Repulsion_III.description>
+
+<TM_Scorn.label>Dédain</TM_Scorn.label>
+<TM_Scorn.description>Le succube utilise ses pouvoirs démoniaques pour se transformer partiellement en un démon ailé, se lançant vers un endroit éloigné pour écraser ses ennemis dans un torrent de furie sombre.\n\nLa succube conserve sa forme démoniaque partielle pendant une courte période après avoir utilisé cette capacité, ce qui lui confère des capacités physiques améliorées et un bouclier contre les dégâts.</TM_Scorn.description>
+
+<TM_PsychicShock.label>Choc psychique</TM_PsychicShock.label>
+<TM_PsychicShock.description>Le sorcier supprime toutes les barrières mentales et projette une puissante vague d'énergie psychique. Tout colon pris dans la vague sera bombardé par la puissance psychique et sera brièvement soumis à la volonté du Sorcier.\n\nLe sorcier utilisera l'esprit des autres pour propager la vague psychique. Le sorcier tentera également de détruire l'esprit de tout ennemi touché par l'énergie psychique. Le fait d'être soumis à cet assaut mental désoriente les colons pendant une courte période et peut même désorienter le sorcier s'il est affecté par l'énergie psychique réfléchie. Choc psychique bénéficie d'un bonus basé sur la sensibilité psychique du sorcier et peut ne pas affecter les colons dont la sensibilité psychique est réduite.</TM_PsychicShock.description>
+
+<TM_SummonDemon.label>Invocation de démon</TM_SummonDemon.label>
+<TM_SummonDemon.description>Manifeste un véritable pouvoir démoniaque en manipulant les liens physiques et mentaux de l'âme. Ce pouvoir obscur fait payer un lourd tribut et son utilisation, ne doit être envisagée que dans des circonstances extrêmes.\n\nL'invocation est lancée lorsqu'une succube ancre l'offrande physique et s'achève lorsqu'un sorcier finalise les termes du contrat démoniaque.</TM_SummonDemon.description>
+
+<TM_Poison.label>Poison</TM_Poison.label>
+<TM_Poison.description>Une toxine à action rapide qui se fraye un chemin dans le sang de la cible. Plus la cible bouge, plus le poison devient mortel. Le poison est inefficace contre les mécanoïdes.</TM_Poison.description>
+
+<TM_SootheAnimal.label>Duperie animal</TM_SootheAnimal.label>
+<TM_SootheAnimal.description>Grâce à sa maîtrise de la nature, le druide peut bouleverser l'état émotionnel des animaux. Cette capacité a un double objectif - si l'animal est dans un état calme, elle incitera la bête à une rage de chasseur d'hommes ; si l'animal est déjà enragé, elle apaisera la bête. Ne fonctionne pas sur les animaux qui appartiennent à une faction.\n\nPortée : 65\nTemps de recharge : 80s\nCibles max : 4\nTaille AoE : 7</TM_SootheAnimal.description>
+<TM_SootheAnimal_I.label>Duperie animal</TM_SootheAnimal_I.label>
+<TM_SootheAnimal_I.description>Grâce à sa maîtrise de la nature, le druide peut bouleverser l'état émotionnel des animaux. Cette capacité a un double objectif - si l'animal est dans un état calme, elle incitera la bête à une rage de chasseur d'hommes ; si l'animal est déjà enragé, elle apaisera la bête. Ne fonctionne pas sur les animaux qui appartiennent à une faction.\n\nPortée : 70\nTemps de recharge : 75s\nCibles max : 6\nTaille AoE : 8</TM_SootheAnimal_I.description>
+<TM_SootheAnimal_II.label>Duperie animal</TM_SootheAnimal_II.label>
+<TM_SootheAnimal_II.description>Grâce à sa maîtrise de la nature, le druide peut bouleverser l'état émotionnel des animaux. Cette capacité a un double objectif - si l'animal est dans un état calme, elle incitera la bête à une rage de chasseur d'hommes ; si l'animal est déjà enragé, elle apaisera la bête. Ne fonctionne pas sur les animaux qui appartiennent à une faction.\n\nPortée : 75\nTemps de recharge : 68s\nCibles max : 7\nTaille AoE : 9</TM_SootheAnimal_II.description>
+<TM_SootheAnimal_III.label>Duperie animal</TM_SootheAnimal_III.label>
+<TM_SootheAnimal_III.description>Grâce à sa maîtrise de la nature, le druide peut bouleverser l'état émotionnel des animaux. Cette capacité a un double objectif - si l'animal est dans un état calme, elle incitera la bête à une rage de chasseur d'hommes ; si l'animal est déjà enragé, elle apaisera la bête. Ne fonctionne pas sur les animaux qui appartiennent à une faction.\n\nPortée : 80\nTemps de recharge : 60s\nCibles max : 7\nTaille AoE : 10</TM_SootheAnimal_III.description>
+
+<TM_Regenerate.label>Régénérer</TM_Regenerate.label>
+<TM_Regenerate.description>La régénération agit comme un remède naturel au fil du temps et restaurera même les blessures les plus graves avec une action continue. La régénération de base redonne 4 points de vie à 1 blessure toutes les 5 secondes. Elle ne soigne que les blessures physiques et ne permet pas de restaurer ou de guérir les parties du corps détruites.</TM_Regenerate.description>
+
+<TM_CureDisease.label>Guérison des maladies</TM_CureDisease.label>
+<TM_CureDisease.description>Possibilité de guérir la plupart des maladies et des infections.</TM_CureDisease.description>
+
+<TM_RegrowLimb.label>Rétablissement</TM_RegrowLimb.label>
+<TM_RegrowLimb.description>Crée la graine de vie nécessaire au rétablissement des parties du corps. Les chirurgies de rétablissement n’apparaissent comme une option que si tous les objets pour le rétablissement sont dans les zones de stockages : une Graine de vie, des Potions de mana et des Médicaments, puis sélectionner la partie du corps à faire repousser dans l'onglet chirurgie du patient. Assurez-vous que le druide (ou un colon ayant ce sort) effectue la chirurgie et qu’il possède 90 de mana ou plus au moment où la chirurgie est effectuée.</TM_RegrowLimb.description>
+
+<TM_Elemental_Icebolt.label>Éclair de glace</TM_Elemental_Icebolt.label>
+<TM_Elemental_Icebolt.description>Éclair de glace spécialement créé pour se briser en éclats de verre lors de l'impact, provoquant de graves saignements et des dégâts dans une petite zone.</TM_Elemental_Icebolt.description>
+
+<TM_Elemental_Firebolt.label>Éclair de feu</TM_Elemental_Firebolt.label>
+<TM_Elemental_Firebolt.description>Éclair de feu magique. Met le feu à la cible.</TM_Elemental_Firebolt.description>
+
+<TM_EnchantedBody.label>Corps enchanté</TM_EnchantedBody.label>
+<TM_EnchantedBody.description>Fait pousser des membres supplémentaires pour améliorer la manipulation et augmente la vitesse de combat. Cet enchantement a tendance à donner à l'enchanteur une apparence assez effrayante et peut effrayer les autres colons. Cet enchantement est soutenu et réduit le mana maximum de 20 et la régénération de mana de 30%.\n\nL'utilisation de cette capacité alors que l'enchantement est actif dissipera l'enchantement. Un seul type d'enchantement peut être actif à la fois.\n\n*Toutes les compétences Corps enchanté s'appliquent à Aura enchantée.</TM_EnchantedBody.description>
+
+<TM_EnchantedAura.label>Aura enchantée</TM_EnchantedAura.label>
+<TM_EnchantedAura.description>Rayonne une aura de charme qui désarme les barrières sociales et améliore les interactions sociales et les opinions. Ce sort est soutenu et réduit le mana maximum de 20 et la régénération de mana de 30%.\n\nL'utilisation de cette capacité alors que l'enchantement est actif dissipe l'enchantement. Un seul type d'enchantement peut être actif à la fois.</TM_EnchantedAura.description>
+
+<TM_Transmutate.label>Transmutation</TM_Transmutate.label>
+<TM_Transmutate.description>Transmute un matériau en un autre matériau de valeur égale ou supérieure. La quantité de nouvelle matière créée à partir de l'ancienne est basée sur la valeur de cette dernière ; une certaine quantité de matière sera consommée lors du processus de conversion.\n\nCette capacité ne fonctionne que sur les ressources brutes (argent, acier, fourrures, tissus, etc.) et les blocs par défaut, mais peut être améliorée pour transmuter d'autres matériaux.\n\nConsulter les descriptions des compétences pour plus de détails.</TM_Transmutate.description>
+
+<TM_EnchanterStone.label>Pierre d’enchantement</TM_EnchanterStone.label>
+<TM_EnchanterStone.description>Crée un artefact à partir de matières premières et lui confère des propriétés magiques. Un enchanteur peut avoir autant d'artefacts qu'il le souhaite, mais chaque artefact réduit le mana maximum de 20.\n\nLes avantages des artefacts sont accordés au colon qui a l'objet équipé. Les artefacts ont des emplacements d'équipement uniques.\n\nCette capacité est utilisée sur des ressources brutes telles que des gravats de pierre, de l'acier ou de l'argent - voir les descriptions des compétences pour une liste complète des ressources qui peuvent être utilisées pour créer une pierre d'enchanteur.</TM_EnchanterStone.description>
+
+<TM_DismissEnchanterStones.label>Détruire Pierre d’enchantement</TM_DismissEnchanterStones.label>
+<TM_DismissEnchanterStones.description>Détruit la plus ancienne pierre d'enchantement.</TM_DismissEnchanterStones.description>
+
+<TM_EnchantWeapon.label>Enchantement d'arme</TM_EnchantWeapon.label>
+<TM_EnchantWeapon.description>Enchanter une arme de mêlée équipée par un colon ciblé. Les armes enchantées acquièrent des propriétés élémentaires.\n\nL'enchantement de feu inflige des dégâts de brûlure supplémentaires et peut mettre le feu à la cible.\nL'enchantement de glace réduit l'efficacité de la partie du corps touchée.\nL'enchantement de foudre peut étourdir l'ennemi.\nL'enchantement d'ombre peut aveugler l'ennemi.\n\nLes armes enchantées nécessitent une quantité de mana égale au coût de l'enchantement pour être maintenues. Le nombre d'enchantements d'armes n'est limité que par la capacité de mana de l'enchanteur.\n\nL'enchantement reste actif tant que le colon possède l'arme enchantée. Si elle est abandonnée ou échangée contre une autre arme, l'enchantement se dissipe. Les enchantements d'armes n'affectent que les armes de mêlée.</TM_EnchantWeapon.description>
+
+<TM_DispelEnchantWeapon.label>Dissipation Enchantement d'arme</TM_DispelEnchantWeapon.label>
+<TM_DispelEnchantWeapon.description>Supprime tous les enchantements d'armes maintenus par cet enchanteur.</TM_DispelEnchantWeapon.description>
+
+<TM_Polymorph.label>Métamorphose</TM_Polymorph.label>
+<TM_Polymorph.description>Transforme les colons de la zone ciblée en bêtes aléatoires. La créature polymorphe conserve suffisamment de son identité d'origine pour reconnaître sa situation et être enragée par celle-ci. Les alliés peuvent être contrôlés (Mobiliser), mais ils conservent un comportement "animal" en l'absence de tâche spécifique.\n\nLes alliés peuvent être polymorphes, mais la plupart seront bouleversés par l'altercation. Les enchanteurs ne peuvent pas utiliser cette méthode pour se polymorphe eux-mêmes.\n\nL'utilisation de polymorphe sur une créature déjà affectée par polymorphe mettra fin à l'enchantement de polymorphe existant. L'enchantement de polymorphe est rompu si la créature meurt.\n\nLorsqu'une cible est polymorphe, sa nouvelle forme ne conserve pas les blessures préexistantes, mais lorsqu'elle reprend sa forme d'origine, elle retrouve toutes ses blessures d'origine en plus des blessures subies pendant le polymorphe.\n\nCibles max : 4\nRayon : 3\nPortée : 36\nIncantation : 3s</TM_Polymorph.description>
+<TM_Polymorph_I.label>Métamorphose</TM_Polymorph_I.label>
+<TM_Polymorph_I.description>Transforme les colons de la zone ciblée en bêtes aléatoires. La créature polymorphe conserve suffisamment de son identité d'origine pour reconnaître sa situation et être enragée par celle-ci. Les alliés peuvent être contrôlés (Mobiliser), mais ils conservent un comportement "animal" en l'absence de tâche spécifique.\n\nLes alliés peuvent être polymorphes, mais la plupart seront bouleversés par l'altercation. Les enchanteurs ne peuvent pas utiliser cette méthode pour se polymorphe eux-mêmes.\n\nL'utilisation de polymorphe sur une créature déjà affectée par polymorphe mettra fin à l'enchantement de polymorphe existant. L'enchantement de polymorphe est rompu si la créature meurt.\n\nLorsqu'une cible est polymorphe, sa nouvelle forme ne conserve pas les blessures préexistantes, mais lorsqu'elle reprend sa forme d'origine, elle retrouve toutes ses blessures d'origine en plus des blessures subies pendant le polymorphe.\n\nCibles max : 5\nRayon : 3\nPortée : 38\nIncantation : 2.8s</TM_Polymorph_I.description>
+<TM_Polymorph_II.label>Métamorphose</TM_Polymorph_II.label>
+<TM_Polymorph_II.description>Transforme les colons de la zone ciblée en bêtes aléatoires. La créature polymorphe conserve suffisamment de son identité d'origine pour reconnaître sa situation et être enragée par celle-ci. Les alliés peuvent être contrôlés (Mobiliser), mais ils conservent un comportement "animal" en l'absence de tâche spécifique.\n\nLes alliés peuvent être polymorphes, mais la plupart seront bouleversés par l'altercation. Les enchanteurs ne peuvent pas utiliser cette méthode pour se polymorphe eux-mêmes.\n\nL'utilisation de polymorphe sur une créature déjà affectée par polymorphe mettra fin à l'enchantement de polymorphe existant. L'enchantement de polymorphe est rompu si la créature meurt.\n\nLorsqu'une cible est polymorphe, sa nouvelle forme ne conserve pas les blessures préexistantes, mais lorsqu'elle reprend sa forme d'origine, elle retrouve toutes ses blessures d'origine en plus des blessures subies pendant le polymorphe.\n\nCibles max : 5\nRayon : 4\nPortée : 40\nIncantation : 2.6s</TM_Polymorph_II.description>
+<TM_Polymorph_III.label>Métamorphose</TM_Polymorph_III.label>
+<TM_Polymorph_III.description>Transforme les colons de la zone ciblée en bêtes aléatoires. La créature polymorphe conserve suffisamment de son identité d'origine pour reconnaître sa situation et être enragée par celle-ci. Les alliés peuvent être contrôlés (Mobiliser), mais ils conservent un comportement "animal" en l'absence de tâche spécifique.\n\nLes alliés peuvent être polymorphes, mais la plupart seront bouleversés par l'altercation. Les enchanteurs ne peuvent pas utiliser cette méthode pour se polymorphe eux-mêmes.\n\nL'utilisation de polymorphe sur une créature déjà affectée par polymorphe mettra fin à l'enchantement de polymorphe existant. L'enchantement de polymorphe est rompu si la créature meurt.\n\nLorsqu'une cible est polymorphe, sa nouvelle forme ne conserve pas les blessures préexistantes, mais lorsqu'elle reprend sa forme d'origine, elle retrouve toutes ses blessures d'origine en plus des blessures subies pendant le polymorphe.\n\nCibles max : 6\nRayon : 4\nPortée : 42\nIncantation : 2.4s</TM_Polymorph_III.description>
+
+<TM_Shapeshift.label>Changeforme</TM_Shapeshift.label>
+<TM_Shapeshift.description>Transformation en une créature aléatoire. L'enchanteur conserve son identité et le contrôle de ses actions. Les dégâts subis pendant le changeforme seront transférés en proportions égales à l'enchanteur après son retour à sa forme d'origine.\n\nLe changeforme n'est pas sans effets secondaires mineurs ; en se transformant en un animal, l'enchanteur héritera des instincts et du comportement de l'animal, s'il n'a pas reçu d'instructions spécifiques, il errera ou fera d'autres tâches aléatoires qu'un animal ferait normalement.</TM_Shapeshift.description>
+
+<TM_ShapeshiftDW.label>Changeforme : Loup redoutable</TM_ShapeshiftDW.label>
+<TM_ShapeshiftDW.description>Transformation en une créature aléatoire. L'enchanteur conserve son identité et le contrôle de ses actions. Les dégâts subis pendant le changeforme seront transférés en proportions égales à l'enchanteur après son retour à sa forme d'origine.\n\nLe changeforme n'est pas sans effets secondaires mineurs ; en se transformant en un animal, l'enchanteur héritera des instincts et du comportement de l'animal, s'il n'a pas reçu d'instructions spécifiques, il errera ou fera d'autres tâches aléatoires qu'un animal ferait normalement.\nLes loups redoutables sont des animaux uniques qui ont un lien spécial avec la magie. Lorsqu'ils sont sous cette forme, les enchanteurs peuvent utiliser de petites quantités de magie pour permettre au loup redoutable d'entrer et de sortir brièvement de la réalité.</TM_ShapeshiftDW.description>
+
+<TM_Disguise.label>Tromperie</TM_Disguise.label>
+<TM_Disguise.description>Le sans-visage manipule la lumière et le mouvement pour que sa forme apparaisse insignifiante à tout observateur ; à un niveau subconscient, tout observateur considérera cognitivement le sans-visage comme un objet sans importance et inoffensif, rendant le sans-visage pratiquement invisible.\n\nLe déguisement ne trompera pas un colon qui voit le sans-visage comme une menace.</TM_Disguise.description>
+
+<TM_Mimic.label>Imitation</TM_Mimic.label>
+<TM_Mimic.description>Le sans-visage copie une capacité aléatoire d'un mage ou d'un combattant. Une seule capacité peut être mémorisée à la fois. La capacité est conservée après utilisation ; la réutilisation de Imitation remplacera la capacité mémorisée.</TM_Mimic.description>
+
+<TM_Reversal.label>Inversion</TM_Reversal.label>
+<TM_Reversal.description>Inverse l'énergie cinétique de toutes les attaques de mêlée et de projectiles pendant une courte période. Le sans-visage ne subit aucun dégât de ces attaques. L'application directe et les attaques explosives ne peuvent pas être inversées.</TM_Reversal.description>
+
+<TM_Transpose.label>Transposition</TM_Transpose.label>
+<TM_Transpose.description>Echanger sa place avec un colon ciblé. Le sans-visage et la cible seront désorientés suite à la transposition. Le sans-visage gagnera Inversion pendant une courte période.\nIncantation : 0.8s\nPortée : 40\nTemps de recharge : 15</TM_Transpose.description>
+<TM_Transpose_I.label>Transposition</TM_Transpose_I.label>
+<TM_Transpose_I.description>Echanger sa place avec un colon ciblé. Le sans-visage et la cible seront désorientés suite à la transposition. Le sans-visage gagnera Inversion pendant une courte période.\nIncantation : 0.6s\nPortée : 44\nTemps de recharge : 13</TM_Transpose_I.description>
+<TM_Transpose_II.label>Transposition</TM_Transpose_II.label>
+<TM_Transpose_II.description>Echanger sa place avec un colon ciblé. Le sans-visage et la cible seront désorientés suite à la transposition. Le sans-visage gagnera Inversion pendant une courte période.\nIncantation : 0.4s\nPortée : 47\nTemps de recharge : 11</TM_Transpose_II.description>
+<TM_Transpose_III.label>Transposition</TM_Transpose_III.label>
+<TM_Transpose_III.description>Echanger sa place avec un colon ciblé. Le sans-visage et la cible seront désorientés suite à la transposition. Le sans-visage gagnera Inversion pendant une courte période.\nIncantation : 0.2s\nPortée : 50\nTemps de recharge : 9</TM_Transpose_III.description>
+
+<TM_Possess.label>Possession</TM_Possess.label>
+<TM_Possess.description>Comme un marionnettiste, le sans-visage utilise l'esprit et le corps pour provoquer un doute extrême sur un colon ciblé - ce qui lui permet de contrôler sa cible par la suggestion mentale et la coercition.\n\nIl est peu probable que les ennemis proches détectent immédiatement la possession, à moins qu'ils ne voient une activité suspecte. Si elles sont détectées, les factions neutres et amies considéreront les actions agressives du colon possédé comme un acte d'hostilité.\n\nSeules les créatures dotées d'un esprit de type humain capable de douter de soi peuvent être possédées.</TM_Possess.description>
+
+<TM_MedicalSupply.label>Réapprovisionnement</TM_MedicalSupply.label>
+<TM_MedicalSupply.description>Réapprovisionnement des fournitures médicales du Médecin de combat.\n\nLe médecin de combat utilisera un objet de la réserve de la cible et le convertira en fournitures médicales personnelles qu'il pourra utiliser pour ravitailler ses capacités.\n\nLa quantité de fournitures gagnée est égale à 20 fois la puissance médicale de l'objet au carré :\nMédicament : 20 fournitures médicales\nHerbe médicinale : 4.9 fournitures médicales\nMédicament avancé : 51.2 fournitures médicales\n\nLe médecin de combat peut s'entraîner à convertir son équipement en médecine commune.</TM_MedicalSupply.description>
+
+<TM_Emergency.label>Urgence</TM_Emergency.label>
+<TM_Emergency.description>Le médecin de combat se précipite pour aider ses patients.\n\nLe médecin de combat bénéficie d'une augmentation de la vitesse de déplacement de base, de la vitesse de soins et de la qualité des soins, ainsi que d'une réduction de la douleur pendant 30 secondes.</TM_Emergency.description>
+
+<TM_Medigel.label>Gel médical</TM_Medigel.label>
+<TM_Medigel.description>Applique un gel cicatrisant sur les blessures d'une cible qui accélère la guérison et combat l'infection. Les plaies seront guéries lentement au fil du temps. Le gel médical réduit légèrement la douleur des blessures.</TM_Medigel.description>
+
+<TM_CombatDrugs.label>Drogues de combat</TM_CombatDrugs.label>
+<TM_CombatDrugs.description>Donne des drogues de combat à un allié.\n\nLe médecin de combat lance une seringue de drogues de combat improvisées à un allié.\nLes effets sont toujours positifs mais peuvent varier.</TM_CombatDrugs.description>
+
+<TM_RayofHope.label>Feu intérieur</TM_RayofHope.label>
+<TM_RayofHope.description>Crée une aura de chaleur autour du lanceur de sorts qui renforce périodiquement l'esprit d'un allié.\n\nFeu intérieur : Augmentation magique qui allume un feu intérieur, augmentant l'endurance et les résistances d'un colon.\n\nFréquence d'application : 80-90s \nDurée : 200-223s\nBesoins Repos et Nourriture : -10%\nGuérison naturelle : +20%\nRésistance crise de nerfs : +3%\nRésistance au froid : +6°C\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau le sort pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_RayofHope.description>
+<TM_RayofHope_I.label>Feu intérieur</TM_RayofHope_I.label>
+<TM_RayofHope_I.description>Crée une aura de chaleur autour du lanceur de sorts qui renforce périodiquement l'esprit d'un allié.\n\nFeu intérieur : Augmentation magique qui allume un feu intérieur, augmentant l'endurance et les résistances d'un colon.\n\nFréquence d'application : 80-90s\nDurée : 200-223s\nBesoins Repos et Nourriture : -14%\nGuérison naturelle : +25%\nRésistance crise de nerfs : +4%\nRésistance au froid : +8°C\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau le sort pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_RayofHope_I.description>
+<TM_RayofHope_II.label>Feu intérieur</TM_RayofHope_II.label>
+<TM_RayofHope_II.description>Crée une aura de chaleur autour du lanceur de sorts qui renforce périodiquement l'esprit d'un allié.\n\nFeu intérieur : Augmentation magique qui allume un feu intérieur, augmentant l'endurance et les résistances d'un colon.\n\nFréquence d'application : 80-90s\nDurée : 500-600s\nBesoins Repos et Nourriture : -17%\nGuérison naturelle : +28%\nRésistance crise de nerfs : +4%\nRésistance au froid : +9°C\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau le sort pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_RayofHope_II.description>
+<TM_RayofHope_III.label>Feu intérieur</TM_RayofHope_III.label>
+<TM_RayofHope_III.description>Crée une aura de chaleur autour du lanceur de sorts qui renforce périodiquement l'esprit d'un allié.\n\nFeu intérieur : Augmentation magique qui allume un feu intérieur, augmentant l'endurance et les résistances d'un colon.\n\nFréquence d'application : 80-90s\nDurée : 500-600\nBesoins Repos et Nourriture : -20%\nGuérison naturelle : +30%\nRésistance crise de nerfs : +5%\nRésistance au froid : +10°C\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau le sort pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_RayofHope_III.description>
+
+<TM_Firebolt.label>Éclair de feu</TM_Firebolt.label>
+<TM_Firebolt.description>Lance un éclair de magma surchauffé qui endommage la cible et peut l'enflammer.</TM_Firebolt.description>
+
+<TM_Fireball.label>Boule de feu</TM_Fireball.label>
+<TM_Fireball.description>Lance une boule de feu massive et lente. Elle fait des ravages et crée une explosion de feu dans la zone ciblée.</TM_Fireball.description>
+
+<TM_Fireclaw.label>Serre de feu</TM_Fireclaw.label>
+<TM_Fireclaw.description>Créer des vrilles de feu qui ratissent vos ennemis, laissant la destruction et le feu dans leur sillage.</TM_Fireclaw.description>
+
+<TM_Firestorm.label>Tempête de feu</TM_Firestorm.label>
+<TM_Firestorm.description>Invoque toute la fureur du feu élémentaire dans une tempête de mort et de destruction.</TM_Firestorm.description>
+
+<TM_Stoneskin.label>Peau de pierre</TM_Stoneskin.label>
+<TM_Stoneskin.description>Applique une peau de pierre au colon ciblé. Chaque charge de peau de pierre absorbe une seule attaque, quelle que soit sa puissance ou sa faiblesse. La peau de pierre est une défense non substantielle, ce qui signifie que les mesures défensives qu'elle emploie ne sont pas physiques et n'interfèrent pas avec les capacités de combat de son porteur.\n\nLa peau de pierre nécessite une réserve constante de mana pour être maintenue, chaque application réduira le mana maximum du lanceur de 15. Le lanceur de sorts ne peut maintenir qu'un nombre limité d'instances de Peau de pierre, quelle que soit la quantité de mana dont il dispose.\n\nL'application de Peau de pierre à une cible qui en possède déjà une supprimera toutes les charges de Peau de pierre sur la cible et dissipera le sort (rendant les réserves de mana au lanceur).</TM_Stoneskin.description>
+
+<TM_DispelStoneskin.label>Dissipation Peau de pierre</TM_DispelStoneskin.label>
+<TM_DispelStoneskin.description>Dissipe toutes les instances de peau de pierre maintenues par ce colon.</TM_DispelStoneskin.description>
+
+<TM_Encase.label>Figer</TM_Encase.label>
+<TM_Encase.description>Enferme une zone ciblée dans un anneau de pierre, efficace pour isoler des sections du champ de bataille.\n\nRayon : 3\nPortée : 50\nIncantation : 1.5s</TM_Encase.description>
+<TM_Encase_I.label>Figer</TM_Encase_I.label>
+<TM_Encase_I.description>Enferme une zone ciblée dans un anneau de pierre, efficace pour isoler des sections du champ de bataille.\n\nRayon : 4\nPortée : 55\nIncantation : 1.3s</TM_Encase_I.description>
+<TM_Encase_II.label>Figer</TM_Encase_II.label>
+<TM_Encase_II.description>Enferme une zone ciblée dans un anneau de pierre, efficace pour isoler des sections du champ de bataille.\n\nRayon : 5\nPortée : 60\nIncantation : 1.1s</TM_Encase_II.description>
+<TM_Encase_III.label>Figer</TM_Encase_III.label>
+<TM_Encase_III.description>Enferme une zone ciblée dans un anneau de pierre, efficace pour isoler des sections du champ de bataille.\n\nRayon : 6\nPortée : 65\nIncantation : 1.0s</TM_Encase_III.description>
+
+<TM_EarthSprites.label>Lutins de terre</TM_EarthSprites.label>
+<TM_EarthSprites.description>Appelle les lutins de terre pour transformer le terrain. Les lutins apparaissent sous la forme d'éclats de lumière et peuvent facilement passer inaperçus pour les personnes inattentives, mais ce sont des travailleurs assidus capables de briser la roche ou la pierre pour en extraire les éléments de base ou d'augmenter la richesse et la fertilité du sol.\n\nUne fois invoqués, ils continueront à travailler sur le terrain, se déplaçant même dans les zones voisines, jusqu'à ce que le géomancien les congédie. Les lutins de terre ne comprennent que les instructions de base et se déplacent au hasard vers une nouvelle zone pour continuer leur travail ; si aucune zone proche n'a besoin d'être travaillée, l'invocation prend fin. Si les lutins de terre sont invoqués dans une zone nommée "earth sprites", ils ne se déplaceront que dans les cases voisines de cette zone.\n\nEn échange de leurs efforts, les lutins de terre attendent un apport régulier et substantiel de mana. Si le géomancien ne répond pas à cette demande, les lutins de terre disparaissent. Chaque géomancien ne peut demander l'aide que d'un seul lutin de terre, quelle que soit la quantité de mana dont il dispose.</TM_EarthSprites.description>
+
+<TM_DismissEarthSprites.label>Dissipation Lutins de terre</TM_DismissEarthSprites.label>
+<TM_DismissEarthSprites.description>Renvoie le lutin de terre.</TM_DismissEarthSprites.description>
+
+<TM_EarthernHammer.label>Marteau terrestre</TM_EarthernHammer.label>
+<TM_EarthernHammer.description>Le géomancien manipule les lois de la gravité pour catapulter des pierres massives depuis la terre environnante. La quantité d'énergie gravitationnelle inversée est limitée ; les pierres proches de la surface nécessitent un minimum d'énergie alors que les pierres souterraines en nécessitent beaucoup plus.\n\nLa première pierre, et les trois suivantes, seront toujours souterraines, sauf si l'énergie gravitationnelle est insuffisante, auquel cas le géomancien tentera d'utiliser l'énergie restante pour lancer des pierres proches. Le changement extrême de gravité désorientera temporairement le géomancien.</TM_EarthernHammer.description>
+
+<TM_Sentinel.label>Sentinelle</TM_Sentinel.label>
+<TM_Sentinel.description>Crée une sentinelle de pierre pour défendre une zone. Les sentinelles restent en sommeil jusqu'à ce qu'un ennemi se trouve dans sa portée, puis elles se libèrent de leur prison de pierre pour défendre leur terrain.\n\nL'utilisation de cette capacité sur une sentinelle en sommeil annulera la sentinelle. Chaque sentinelle réduit le mana maximum de 20.\n\n*Note esthétique : les sentinelles seront toujours tournées vers l'extérieur du lanceur de sorts.</TM_Sentinel.description>
+
+<TM_ShatterSentinel.label>Détruire Sentinelle</TM_ShatterSentinel.label>
+<TM_ShatterSentinel.description>Toutes les sentinelles maintenues par ce colon sont détruites dans une violente éruption.</TM_ShatterSentinel.description>
+
+<TM_Meteor.label>Météore</TM_Meteor.label>
+<TM_Meteor.description>Collecte les roches, les poussières et les débris de l'atmosphère et de l'espace et les transforme en météorite. Le géomancien dirige sa descente pour ensevelir un emplacement ciblé.\n\nLe noyau de la météorite est toujours composé de matériaux précieux.\n\nRayon : 2\nIncantation : 5s</TM_Meteor.description>
+<TM_Meteor_I.label>Météore</TM_Meteor_I.label>
+<TM_Meteor_I.description>Collecte les roches, les poussières et les débris de l'atmosphère et de l'espace et les transforme en météorite. Le géomancien dirige sa descente pour ensevelir un emplacement ciblé.\n\nLe noyau de la météorite est toujours composé de matériaux précieux.\n\nRayon : 3\nIncantation : 4.6s</TM_Meteor_I.description>
+<TM_Meteor_II.label>Météore</TM_Meteor_II.label>
+<TM_Meteor_II.description>Collecte les roches, les poussières et les débris de l'atmosphère et de l'espace et les transforme en météorite. Le géomancien dirige sa descente pour ensevelir un emplacement ciblé.\n\nLe noyau de la météorite est toujours composé de matériaux précieux.\n\nRayon : 4\nIncantation : 4.2s</TM_Meteor_II.description>
+<TM_Meteor_III.label>Météore</TM_Meteor_III.label>
+<TM_Meteor_III.description>Collecte les roches, les poussières et les débris de l'atmosphère et de l'espace et les transforme en météorite. Le géomancien dirige sa descente pour ensevelir un emplacement ciblé.\n\nLe noyau de la météorite est toujours composé de matériaux précieux.\n\nRayon : 5\nIncantation : 3.8s</TM_Meteor_III.description>
+
+<TM_Sprint.label>Sprint</TM_Sprint.label>
+<TM_Sprint.description>Active ou désactive la compétence de combat maintenu Sprint - augmente considérablement la vitesse de déplacement mais provoque l'épuisement. Nécessite 30 d'endurance pour être maintenu et réduit la régénération de l'endurance de 20%.</TM_Sprint.description>
+<TM_Sprint_I.label>Sprint</TM_Sprint_I.label>
+<TM_Sprint_I.description>Active ou désactive la compétence de combat maintenu Sprint - augmente considérablement la vitesse de déplacement mais provoque l'épuisement. Nécessite 30 d'endurance pour être maintenu et réduit la régénération de l'endurance de 20%.</TM_Sprint_I.description>
+<TM_Sprint_II.label>Sprint</TM_Sprint_II.label>
+<TM_Sprint_II.description>Active ou désactive la compétence de combat maintenu Sprint - augmente considérablement la vitesse de déplacement mais provoque l'épuisement. Nécessite 30 d'endurance pour être maintenu et réduit la régénération de l'endurance de 20%.</TM_Sprint_II.description>
+<TM_Sprint_III.label>Sprint</TM_Sprint_III.label>
+<TM_Sprint_III.description>Active ou désactive la compétence de combat maintenu Sprint - augmente considérablement la vitesse de déplacement mais provoque l'épuisement. Nécessite 30 d'endurance pour être maintenu et réduit la régénération de l'endurance de 20%.</TM_Sprint_III.description>
+
+<TM_Fortitude.label>Robustesse</TM_Fortitude.label>
+<TM_Fortitude.description>Atténue une quantité déterminée de dégâts à chaque coup.\nAtténuation de base : 5</TM_Fortitude.description>
+
+<TM_Grapple.label>Grappin</TM_Grapple.label>
+<TM_Grapple.description>Accroche et tire avec force un adversaire au Gladiateur, suivi d'un violent balayage des jambes, mettant l'adversaire à terre.\n\nIncantation : 1s\nPortée : 15</TM_Grapple.description>
+<TM_Grapple_I.label>Grappin</TM_Grapple_I.label>
+<TM_Grapple_I.description>Accroche et tire avec force un adversaire au Gladiateur, suivi d'un violent balayage des jambes, mettant l'adversaire à terre.\nIncantation : 0.6s\nPortée : 17</TM_Grapple_I.description>
+<TM_Grapple_II.label>Grappin</TM_Grapple_II.label>
+<TM_Grapple_II.description>Accroche et tire avec force un adversaire au Gladiateur, suivi d'un violent balayage des jambes, mettant l'adversaire à terre.\n\nIncantation : 0.4s\nPortée : 20</TM_Grapple_II.description>
+<TM_Grapple_III.label>Grappin</TM_Grapple_III.label>
+<TM_Grapple_III.description>Accroche et tire avec force un adversaire au Gladiateur, suivi d'un violent balayage des jambes, mettant l'adversaire à terre.\n\nIncantation : 0.2s\nPortée : 23</TM_Grapple_III.description>
+
+<TM_Cleave.label>Enchaînement</TM_Cleave.label>
+<TM_Cleave.description>Exécute un coup puissant et balayé qui peut frapper plusieurs ennemis adjacents à la cible. Tant que le gladiateur a suffisamment d'endurance, cette capacité fonctionne automatiquement chaque fois que le gladiateur effectue une attaque de mêlée. Les chances d'Enchaînement sont calculées en fonction de la masse de l'arme - les armes les plus lourdes ont plus de chances d'Enchaînement.</TM_Cleave.description>
+
+<TM_Whirlwind.label>Tourbillon</TM_Whirlwind.label>
+<TM_Whirlwind.description>Le gladiateur se lance dans une attaque frénétique, dansant en avant dans un furieux tourbillon d'acier et de mort.</TM_Whirlwind.description>
+
+<TM_Golemancy.label>Golemancie</TM_Golemancy.label>
+<TM_Golemancy.description>La Golemancie est l'art d'insuffler de l'énergie magique à un objet par l'utilisation de runes ou de marques qui créent un lien avec le lanceur de sorts. Ce lien énergétique est couramment utilisé pour réaliser l'animation d'un objet, la conversion d'énergie ou la collecte d'informations.\n\nLe golem et le golemancien bénéficient tous deux d'un renforcement de leurs capacités lorsqu'ils sont associés. Un golem ne peut être affecté qu'à un seul colon, mais plusieurs golems peuvent être affectés à un seul colon. Les avantages de la golemancie ne s'appliquent qu'à un golem assigné.</TM_Golemancy.description>
+
+<TM_RuneCarving.label>Gravure de rune</TM_RuneCarving.label>
+<TM_RuneCarving.description>La gravure de runes est un art magique utilisé pour insuffler de façon permanente un pouvoir magique à un objet. Ce procédé est utilisé depuis longtemps pour graver des runes sur des équipements et des armes afin de leur conférer des propriétés magiques. Le Golemancien utilise un processus similaire, mais plus délicat, en utilisant des runes pour augmenter l'efficacité des parties du corps. Bien que seules des parties spécifiques puissent être améliorées par la gravure de runes, toute variation de ces parties peut être améliorée.\n\nLa gravure de runes nécessite des ressources matérielles supplémentaires dans une réserve marquée : 225 magicite, 2 potions de mana, et 1 médicament. La réussite de la gravure des runes est déterminée par les compétences du golemancien en artisanat, en artiste et en habileté. Le travail médical doit également être activé pour le lanceur de sorts puisque la gravure de runes est une forme d'opération médicale. La gravure de runes ne sera jamais réussie si les compétences d'artisanat ou d'artiste sont désactivées.</TM_RuneCarving.description>
+
+<TM_Branding.label>Marquage</TM_Branding.label>
+<TM_Branding.description>Le marquage est utilisé pour créer une marque magique temporaire sur un colon qui crée un lien entre le lanceur et le marqué. Plusieurs marques peuvent être placées sur un même colon, à condition que chaque marque soit d'un type différent. Un lanceur de sorts peut créer autant de marques qu'il le souhaite, mais chaque marque soustrait de la régénération d'énergie du lanceur de sorts. Les marques deviennent inactives si le lanceur de sorts n'a plus de mana. Les marques sont un type de sort unique, et chaque marque doit être apprise séparément. La compétence en marquage affecte tous les types de marques.</TM_Branding.description>
+
+<TM_SiphonBrand.label>Marque : Siphon</TM_SiphonBrand.label>
+<TM_SiphonBrand.description>La marque de siphon peut être placée sur un autre mage pour transférer périodiquement du mana au lanceur.\n\nLes marques sont une forme de magie semi-permanente généralement créée à l'aide d'une forme de marquage ou de gravure, un peu comme un tatouage magique, qui crée un lien entre deux colons. Les marques requièrent un flux constant de mana pour être maintenues, cependant, la marque devient inactive si le lanceur est incapable de maintenir le sort. La marque est supprimée si le lanceur meurt ou choisit de la dissiper.</TM_SiphonBrand.description>
+
+<TM_FitnessBrand.label>Marque : Fitness</TM_FitnessBrand.label>
+<TM_FitnessBrand.description>La marque de fitness peut être placée sur un autre colon pour améliorer ses performances physiques.\n\nLes marques sont une forme de magie semi-permanente généralement créée à l'aide d'une forme de marquage ou de gravure, un peu comme un tatouage magique, qui crée un lien entre deux colons. Les marques requièrent un flux constant de mana pour être maintenues, cependant, la marque devient inactive si le lanceur est incapable de maintenir le sort. La marque est supprimée si le lanceur meurt ou choisit de la dissiper.</TM_FitnessBrand.description>
+
+<TM_EmotionBrand.label>Marque : Émotion</TM_EmotionBrand.label>
+<TM_EmotionBrand.description>La marque d'émotion peut être placée sur un autre colon pour améliorer son humeur.\n\nLes marques sont une forme de magie semi-permanente généralement créée à l'aide d'une forme de marquage ou de gravure, un peu comme un tatouage magique, qui crée un lien entre deux colons. Les marques requièrent un flux constant de mana pour être maintenues, cependant, la marque devient inactive si le lanceur est incapable de maintenir le sort. La marque est supprimée si le lanceur meurt ou choisit de la dissiper.</TM_EmotionBrand.description>
+
+<TM_VitalityBrand.label>Marque : Vitalité</TM_VitalityBrand.label>
+<TM_VitalityBrand.description>La marque de vitalité peut être placée sur un autre colon pour améliorer sa santé générale, sa guérison et sa résistance aux maladies.\n\nLes marques sont une forme de magie semi-permanente généralement créée à l'aide d'une forme de marquage ou de gravure, un peu comme un tatouage magique, qui crée un lien entre deux colons. Les marques requièrent un flux constant de mana pour être maintenues, cependant, la marque devient inactive si le lanceur est incapable de maintenir le sort. La marque est supprimée si le lanceur meurt ou choisit de la dissiper.</TM_VitalityBrand.description>
+
+<TM_ProtectionBrand.label>Marque : Protection</TM_ProtectionBrand.label>
+<TM_ProtectionBrand.description>La marque de protection peut être placée sur un autre colon pour absorber les attaques. La rune de protection se recharge périodiquement.\n\nLes marques sont une forme de magie semi-permanente généralement créée à l'aide d'une forme de marquage ou de gravure, un peu comme un tatouage magique, qui crée un lien entre deux colons. Les marques requièrent un flux constant de mana pour être maintenues, cependant, la marque devient inactive si le lanceur est incapable de maintenir le sort. La marque est supprimée si le lanceur meurt ou choisit de la dissiper.</TM_ProtectionBrand.description>
+
+<TM_AwarenessBrand.label>Marque : Conscience</TM_AwarenessBrand.label>
+<TM_AwarenessBrand.description>La marque de conscience peut être placée sur un autre colon pour augmenter sa vision, son audition, sa parole et son intellect.\n\nLes marques sont une forme de magie semi-permanente généralement créée à l'aide d'une forme de marquage ou de gravure, un peu comme un tatouage magique, qui crée un lien entre deux colons. Les marques requièrent un flux constant de mana pour être maintenues, cependant, la marque devient inactive si le lanceur est incapable de maintenir le sort. La marque est supprimée si le lanceur meurt ou choisit de la dissiper.</TM_AwarenessBrand.description>
+
+<TM_DispelBranding.label>Dissipation des Marque</TM_DispelBranding.label>
+<TM_DispelBranding.description>Dissipe toutes les marques actives.</TM_DispelBranding.description>
+
+<TM_SigilSurge.label>Sceau surchargé</TM_SigilSurge.label>
+<TM_SigilSurge.description>En activant cette capacité, toutes les marques deviennent surchargées. Cette capacité provoque une douleur modérée chez le Golemancien et triple la consommation d'énergie de chaque marque. Utiliser à nouveau cette capacité pour arrêter la surcharge.</TM_SigilSurge.description>
+
+<TM_SigilDrain.label>Sceau drainage</TM_SigilDrain.label>
+<TM_SigilDrain.description>En activant cette capacité, toutes les marques inversent leurs effets, accordant des bonus au lanceur de sorts plutôt qu'à la personne marquée. Cette capacité provoque une douleur modérée à la personne marquée et des bonus au lanceur de sorts pour chaque marque qu'il contrôle. Utiliser à nouveau cette capacité pour arrêter le drainage.</TM_SigilDrain.description>
+
+<TM_LivingWall.label>Mur vivant</TM_LivingWall.label>
+<TM_LivingWall.description>Enchante un mur avec un but lui permettant de devenir semi-intelligent. Le mur vivant frappera les ennemis à sa portée et se réparera lui-même s'il est endommagé. La créature animée à l'intérieur du mur peut se déplacer vers n'importe quelle section de mur adjacente et traite toute une section de mur connectée comme une extension de lui-même. Un mur vivant tentera de se déplacer vers le segment de mur le plus proche de l'ennemi. Le mur vivant ne peut pas se déplacer entre des segments de mur déconnectés et ne peut se déplacer que vers un autre segment qui est cardinal adjacent. Un lanceur de sorts ne peut maintenir qu'un seul mur vivant, quelle que soit la taille du mur qu'il occupe. Plusieurs murs vivants peuvent occuper un seul mur.</TM_LivingWall.description>
+
+<TM_DispelLivingWall.label>Dissipation Mur vivant</TM_DispelLivingWall.label>
+<TM_DispelLivingWall.description>Dissipe le mur vivant.</TM_DispelLivingWall.description>
+
+<TM_Soothe.label>Brise apaisante</TM_Soothe.label>
+<TM_Soothe.description>Crée une aura apaisante autour du lanceur de sorts qui améliore périodiquement les performances d'un allié.\n\nBrise apaisante : Augmentation magique qui aide le travailleur, réduisant la douleur et la fatigue et augmentant la concentration.\n\nFréquence d'application : 80-90s\nDurée : 200-223s\nConscience : +10%\nAugmente l'humeur : +2\nRepos et douleur : -10%\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau le sort pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_Soothe.description>
+<TM_Soothe_I.label>SBrise apaisante</TM_Soothe_I.label>
+<TM_Soothe_I.description>Crée une aura apaisante autour du lanceur de sorts qui améliore périodiquement les performances d'un allié.\n\nBrise apaisante : Augmentation magique qui aide le travailleur, réduisant la douleur et la fatigue et augmentant la concentration.\n\nFréquence d'application : 80-90s\nDurée : 200-223s\nConscience : +12%\nAugmente l'humeur : +3\nRepos et douleur : -12%\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau le sort pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_Soothe_I.description>
+<TM_Soothe_II.label>Brise apaisante</TM_Soothe_II.label>
+<TM_Soothe_II.description>Crée une aura apaisante autour du lanceur de sorts qui améliore périodiquement les performances d'un allié.\n\nBrise apaisante : Augmentation magique qui aide le travailleur, réduisant la douleur et la fatigue et augmentant la concentration.\n\nFréquence d'application : 80-90s\nDurée : 500-600s\nConscience : +14%\nAugmente l'humeur : +4\nRepos et douleur : -14%\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau le sort pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_Soothe_II.description>
+<TM_Soothe_III.label>Brise apaisante</TM_Soothe_III.label>
+<TM_Soothe_III.description>Crée une aura apaisante autour du lanceur de sorts qui améliore périodiquement les performances d'un allié.\n\nBrise apaisante : Augmentation magique qui aide le travailleur, réduisant la douleur et la fatigue et augmentant la concentration.\n\nFréquence d'application : 80-90s\nDurée : 500-600s\nConscience : +15%\nAugmente l'humeur : +5\nRepos et douleur : -15%\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau le sort pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_Soothe_III.description>
+
+<TM_FrostRay.label>Rayon de givre</TM_FrostRay.label>
+<TM_FrostRay.description>Rayon de particules surfondues s'étendant rapidement qui endommage et gèle les cibles.\n\nTemps de recharge : 12s\nPortée : 28\nTir : 1</TM_FrostRay.description>
+<TM_FrostRay_I.label>Rayon de givre</TM_FrostRay_I.label>
+<TM_FrostRay_I.description>Rayon de particules surfondues s'étendant rapidement qui endommage et gèle les cibles.\n\nTemps de recharge : 10s\nPortée : 30\nTir : 1</TM_FrostRay_I.description>
+<TM_FrostRay_II.label>Rayon de givre</TM_FrostRay_II.label>
+<TM_FrostRay_II.description>Rayon de particules surfondues s'étendant rapidement qui endommage et gèle les cibles.\n\nTemps de recharge : 8s\nPortée : 32\nTir : 2</TM_FrostRay_II.description>
+<TM_FrostRay_III.label>Rayon de givre</TM_FrostRay_III.label>
+<TM_FrostRay_III.description>Rayon de particules surfondues s'étendant rapidement qui endommage et gèle les cibles.\n\nTemps de recharge : 8s\nPortée : 34\nTir : 3</TM_FrostRay_III.description>
+
+<TM_Snowball.label>Orbe gelé</TM_Snowball.label>
+<TM_Snowball.description>Lancer une énorme boule de glace et de neige qui endommage et gèle une large zone à l'impact.</TM_Snowball.description>
+
+<TM_Icebolt.label>Éclair de glace</TM_Icebolt.label>
+<TM_Icebolt.description>Lance un éclair de glace spécialement créé pour se briser en éclats de verre à l'impact, causant des dégâts et de graves saignements.</TM_Icebolt.description>
+
+<TM_Rainmaker.label>Faiseur de pluie</TM_Rainmaker.label>
+<TM_Rainmaker.description>Modifie les conditions de l'atmosphère et provoque la pluie. Si la pluie est déjà en cours, cette capacité l'arrêtera.</TM_Rainmaker.description>
+
+<TM_Blizzard.label>Blizzard</TM_Blizzard.label>
+<TM_Blizzard.description>Appelle un blizzard mortel pour ensevelir vos ennemis sous la glace.</TM_Blizzard.description>
+
+<TM_AMP.label>AMP</TM_AMP.label>
+<TM_AMP.description>Bénédiction : Augmentation Magique de Puissance - alias "AMP". Augmente considérablement la capacité physique au prix d'un stress accru pour le corps.\n\nDurée : 30-40s\nCapacité physique : ~+30%\nExigence physique : +40%\nDouleur : -20%</TM_AMP.description>
+<TM_AMP_I.label>AMP</TM_AMP_I.label>
+<TM_AMP_I.description>Bénédiction : Augmentation Magique de Puissance - alias "AMP". Augmente considérablement la capacité physique au prix d'un stress accru pour le corps.\n\nDurée : 30-40s\nCapacité physique : ~+50%\nExigence physique : +60%\nDouleur : -20%</TM_AMP_I.description>
+<TM_AMP_II.label>AMP</TM_AMP_II.label>
+<TM_AMP_II.description>Bénédiction : Augmentation Magique de Puissance - alias "AMP". Augmente considérablement la capacité physique au prix d'un stress accru pour le corps.\n\nDurée : 50-60s\nCapacité physique : ~+65%\nExigence physique : +60%\nDouleur : -30%</TM_AMP_II.description>
+<TM_AMP_III.label>AMP</TM_AMP_III.label>
+<TM_AMP_III.description>Bénédiction : Augmentation Magique de Puissance - alias "AMP". Augmente considérablement la capacité physique au prix d'un stress accru pour le corps.\n\nDurée : 50-60s\nCapacité physique : ~+80%\nExigence physique : +100%\nDouleur : -40%</TM_AMP_III.description>
+
+<TM_LightningCloud.label>Nuage d'éclairs</TM_LightningCloud.label>
+<TM_LightningCloud.description>Crée une zone chargée d'éclairs. Endommage et étourdit tout ce qui se trouve dans la brume.</TM_LightningCloud.description>
+
+<TM_LightningBolt.label>Éclair</TM_LightningBolt.label>
+<TM_LightningBolt.description>Lancer un éclair pour frapper votre cible.</TM_LightningBolt.description>
+
+<TM_LightningStorm.label>Tempête de foudre</TM_LightningStorm.label>
+<TM_LightningStorm.description>Créer un orage violent, mais incontrôlé, au-dessus de l'endroit ciblé.</TM_LightningStorm.description>
+
+<TM_EyeOfTheStorm.label>Œil du cyclone</TM_EyeOfTheStorm.label>
+<TM_EyeOfTheStorm.description>Libère une boule d'énergie électrique pure qui anéantit tout sur son passage.</TM_EyeOfTheStorm.description>
+
+<TM_Chi.label>Ch'i</TM_Chi.label>
+<TM_Chi.description>Le ch'i, ou esprit, est la force vitale qui réside dans tous les êtres vivants. Les moines cultivent et exploitent cette force pour exercer leur art. L'équilibre du rythme et du flux du Ch'i prend du temps et s'acquiert généralement par une méditation assidue.</TM_Chi.description>
+
+<TM_ChiBurst.label>Explosion de chi</TM_ChiBurst.label>
+<TM_ChiBurst.description>Projette une énorme quantité de ch'i dans une zone ciblée, surchargeant et perturbant l'énergie de tous les colons se trouvant dans la zone d'effet.\n\nExplosion de chi interrompt les capacités des combattants et des mages et cause des dégâts en fonction de la quantité d'énergie perturbée. Cela affecte le chi, le mana, la magie du sang, l'endurance, la haine et l'énergie psionique.\n\nA une faible chance de perturber l'état mental de n'importe quel colon. Il est possible d'y résister.</TM_ChiBurst.description>
+
+<TM_MindOverBody.label>Esprit et Corps</TM_MindOverBody.label>
+<TM_MindOverBody.description>Conditionnement mental qui renforce le contrôle du moine sur ses capacités physiques et améliore sa résistance au stress physique et mental. L'atténuation des dégâts est réduite par le poids (en kg) de l'armure portée.\n\nL'esprit sur le corps est un buff passif qui améliore la conscience, les mouvements, la manipulation, les chances de toucher en mêlée, les chances d'esquive, la pénétration d'armure, les crisses mentale et la douleur.</TM_MindOverBody.description>
+
+<TM_Meditate.label>Méditer</TM_Meditate.label>
+<TM_Meditate.description>La méditation restaure la force vitale du moine et constitue un élément vital pour maintenir un niveau élevé de Ch'i.\n\nToute affection physique ou mentale doit être purgée avant que la méditation ne puisse générer du Ch'i. Si le moine est affligé (blessures, maladies, mauvaise humeur, toxicomanie), la méditation concentrera le Ch'i dans le but de supprimer l'affliction. Les afflictions ne peuvent être purgées qu'en état de méditation.</TM_Meditate.description>
+
+<TM_TigerStrike.label>Frappes du tigre</TM_TigerStrike.label>
+<TM_TigerStrike.description>Une attaque de mêlée qui porte de multiples coups rapides contre un seul adversaire. Il faut être à portée de mêlée et non armé pour effectuer cette attaque.\n\nCapacité activée (12 chi) : porte 4 attaques en succession rapide. Frappes du tigre peut être entraîné pour ajouter des attaques supplémentaires qui peuvent étourdir, drainer l'énergie ou délivrer une frappe de précision qui détruit les organes vitaux.\n\nCapacité passive (8 d'endurance) : inflige de multiples coups à un adversaire ; les attaques peuvent être de n'importe quel type (physique, étourdissement, drainage, vitale) qui est entraîné. Frappe du tigre a une chance de se déclencher sur n'importe quelle attaque normale ou sur elle-même.</TM_TigerStrike.description>
+
+<TM_DragonStrike.label>Frappe du dragon</TM_DragonStrike.label>
+<TM_DragonStrike.description>Une attaque bondissante qui permet au moine de se rapprocher rapidement d'un adversaire.\n\nCapacité activée (8 chi) : saute dans les airs et délivre un puissant coup de pied volant contre un adversaire éloigné. Plus l'adversaire est proche, plus la Frappe du dragon inflige de dégâts. Si l'adversaire se trouve dans un rayon de 5 cases, cette attaque fait également reculer la cible.\n\nCapacité passive (10 d'endurance) : effectue un coup de pied circulaire qui frappe plusieurs adversaires. Frappe du dragon a une chance de se déclencher sur n'importe quelle attaque normale lorsque plusieurs ennemis se trouvent près de la cible.</TM_DragonStrike.description>
+
+<TM_ThunderStrike.label>Coup de tonnerre</TM_ThunderStrike.label>
+<TM_ThunderStrike.description>Surcharge une attaque avec suffisamment de ch'i pour générer des éclairs.</TM_ThunderStrike.description>
+
+<TM_RaiseUndead.label>Ranimer un mort-vivant</TM_RaiseUndead.label>
+<TM_RaiseUndead.description>Ressuscite les morts-vivants à partir des cadavres. Ne fonctionne que sur les créatures biologiques qui étaient autrefois vivantes.\n\nLes morts-vivants restent indéfiniment sous le contrôle du nécromancien. Le nécromancien subit un coût d'entretien de mana de 30% de la régénération de mana de base pour chaque mort-vivant de type humain. Les animaux morts-vivants ont un coût d'entretien de 15% pour chaque 100 de puissance de combat.\n\nIl n'y a pas de limite au nombre de morts-vivants qu'un nécromancien peut contrôler, cependant, lorsque le nécromancien n'a plus de mana pour entretenir les morts-vivants, ils sont automatiquement consommés jusqu'à ce que le nombre de morts-vivants actifs soit réduit à une quantité contrôlable.</TM_RaiseUndead.description>
+
+<TM_DismissUndead.label>Dissipation Morts-vivant</TM_DismissUndead.label>
+<TM_DismissUndead.description>Renvoyer un mort-vivant.</TM_DismissUndead.description>
+
+<TM_DeathMark.label>Marque de mort</TM_DeathMark.label>
+<TM_DeathMark.description>Marquer une victime d'une malédiction qui fait que sa vie défile devant ses yeux. Les victimes maudites perdent leur concentration et leur volonté de se battre, ce qui réduit leur taux d'attaque. Marquer les cibles pour la mort renforce Trait de mort. Ne fonctionne pas sur les mécanoïdes.\n\nCibles max : 4\nIncantation : 3s\nTemps de recharge : 120s\nPortée : 34</TM_DeathMark.description>
+<TM_DeathMark_I.label>Marque de mort</TM_DeathMark_I.label>
+<TM_DeathMark_I.description>Marquer une victime d'une malédiction qui fait que sa vie défile devant ses yeux. Les victimes maudites perdent leur concentration et leur volonté de se battre, ce qui réduit leur taux d'attaque. Marquer les cibles pour la mort renforce Trait de mort. Ne fonctionne pas sur les mécanoïdes.\n\nCibles max : 5\nIncantation : 2.5s\nTemps de recharge : 90s\nPortée : 38</TM_DeathMark_I.description>
+<TM_DeathMark_II.label>Marque de mort</TM_DeathMark_II.label>
+<TM_DeathMark_II.description>Marquer une victime d'une malédiction qui fait que sa vie défile devant ses yeux. Les victimes maudites perdent leur concentration et leur volonté de se battre, ce qui réduit leur taux d'attaque. Marquer les cibles pour la mort renforce Trait de mort. Ne fonctionne pas sur les mécanoïdes.\n\nCibles max : 6\nIncantation : 2s\nTemps de recharge : 60s\nPortée : 42</TM_DeathMark_II.description>
+<TM_DeathMark_III.label>Marque de mort</TM_DeathMark_III.label>
+<TM_DeathMark_III.description>Marquer une victime d'une malédiction qui fait que sa vie défile devant ses yeux. Les victimes maudites perdent leur concentration et leur volonté de se battre, ce qui réduit leur taux d'attaque. Marquer les cibles pour la mort renforce Trait de mort. Ne fonctionne pas sur les mécanoïdes.\n\nCibles max : 7\nIncantation : 1.8s\nTemps de recharge : 45s\nPortée : 46</TM_DeathMark_III.description>
+
+<TM_FogOfTorment.label>Brouillard du tourment</TM_FogOfTorment.label>
+<TM_FogOfTorment.description>Crée un brouillard qui provoque douleur et souffrance à toutes les créatures vivantes qui s'y trouvent. Les morts-vivants se trouvant dans le brouillard sont lentement guéris et ne subissent aucune pénalité du brouillard.</TM_FogOfTorment.description>
+
+<TM_ConsumeCorpse.label>Festin macabre</TM_ConsumeCorpse.label>
+<TM_ConsumeCorpse.description>Consommer un cadavre ou un mort-vivant pour reconstituer le mana. Les vêtements, les objets et l'équipement restent sur place, mais tout ce qui appartient au cadavre est consommé (viande/cuir).\n\nCoût en mana : 3%\nPortée : 50\nTemps de recharge : 20s\nIncantation : 2s</TM_ConsumeCorpse.description>
+<TM_ConsumeCorpse_I.label>Festin macabre</TM_ConsumeCorpse_I.label>
+<TM_ConsumeCorpse_I.description>Consommer un cadavre ou un mort-vivant pour reconstituer le mana. Les vêtements, les objets et l'équipement restent sur place, mais tout ce qui appartient au cadavre est consommé (viande/cuir).\n\nCoût en mana : 2.5%\nPortée : 60\nTemps de recharge : 18s\nIncantation : 1.8s</TM_ConsumeCorpse_I.description>
+<TM_ConsumeCorpse_II.label>Festin macabre</TM_ConsumeCorpse_II.label>
+<TM_ConsumeCorpse_II.description>Consommer un cadavre ou un mort-vivant pour reconstituer le mana. Les vêtements, les objets et l'équipement restent sur place, mais tout ce qui appartient au cadavre est consommé (viande/cuir).\n\nCoût en mana : 2%\nPortée : 70\nTemps de recharge : 16s\nIncantation : 1.5s</TM_ConsumeCorpse_II.description>
+<TM_ConsumeCorpse_III.label>Festin macabre</TM_ConsumeCorpse_III.label>
+<TM_ConsumeCorpse_III.description>Consommer un cadavre ou un mort-vivant pour reconstituer le mana. Les vêtements, les objets et l'équipement restent sur place, mais tout ce qui appartient au cadavre est consommé (viande/cuir).\n\nCoût en mana : 1.5%\nPortée : 80\nTemps de recharge : 15s\nIncantation : 1.2s</TM_ConsumeCorpse_III.description>
+
+<TM_CorpseExplosion.label>Explosion morbide</TM_CorpseExplosion.label>
+<TM_CorpseExplosion.description>Mélanger l'énergie magique avec des produits chimiques à l'intérieur d'un cadavre ou d'un mort-vivant pour faire exploser le corps après un court délai. L'équipement ne sera pas automatiquement consumé par l'explosion, mais pourra être détruit dans l'explosion.\n\nCoût en mana : 20%\nPortée : 40\nTemps de recharge : 10s\nIncantation : 2s</TM_CorpseExplosion.description>
+<TM_CorpseExplosion_I.label>Explosion morbide</TM_CorpseExplosion_I.label>
+<TM_CorpseExplosion_I.description>Mélanger l'énergie magique avec des produits chimiques à l'intérieur d'un cadavre ou d'un mort-vivant pour faire exploser le corps après un court délai. L'équipement ne sera pas automatiquement consumé par l'explosion, mais pourra être détruit dans l'explosion.\n\nCoût en mana : 22%\nPortée : 50\nTemps de recharge : 7s\nIncantation : 1.5s</TM_CorpseExplosion_I.description>
+<TM_CorpseExplosion_II.label>Explosion morbide</TM_CorpseExplosion_II.label>
+<TM_CorpseExplosion_II.description>Mélanger l'énergie magique avec des produits chimiques à l'intérieur d'un cadavre ou d'un mort-vivant pour faire exploser le corps après un court délai. L'équipement ne sera pas automatiquement consumé par l'explosion, mais pourra être détruit dans l'explosion.\n\nCoût en mana : 24%\nPortée : 60\nTemps de recharge : 5s\nIncantation : 1s</TM_CorpseExplosion_II.description>
+<TM_CorpseExplosion_III.label>Explosion morbide</TM_CorpseExplosion_III.label>
+<TM_CorpseExplosion_III.description>Mélanger l'énergie magique avec des produits chimiques à l'intérieur d'un cadavre ou d'un mort-vivant pour faire exploser le corps après un court délai. L'équipement ne sera pas automatiquement consumé par l'explosion, mais pourra être détruit dans l'explosion.\n\nCoût en mana : 25%\nPortée : 70\nTemps de recharge : 4s\nIncantation : 0.5s</TM_CorpseExplosion_III.description>
+
+<TM_LichForm.label>Forme de Liche</TM_LichForm.label>
+<TM_LichForm.description>Transformer le nécromancien en une liche mort-vivante qui gagne une existence immortelle et en puissance magique. Une fois utilisé, il n'y a pas de retour possible.\n\nAvantage : \nMana maximum : +50\nRégénération du mana : +50%\nGagne des immunités surnaturelles aux maladies, des résistances aux dégâts, une régénération de la santé, et elle est maintenue par le mana (plus besoin de dormir ou de manger).\nGagne en capacité : Vol\nGagne en capacité : Trait de mort\n\nPénalité :\nNe peut plus effectuer de travaux impliquant des soins, des activités sociales, des animaux, la lutte contre les incendies, des activités artistiques ou des travaux pénibles.\nPerd toute passion pour le travail, sauf pour le combat et la recherche.\nRéduction de la vitesse d'apprentissage de 40% et la vitesse générale de travail de 75%.\nVitesse de déplacement : -2.0 c/s</TM_LichForm.description>
+
+<TM_DeathBolt.label>Trait de mort</TM_DeathBolt.label>
+<TM_DeathBolt.description>Lancer des traits de puissance transportant l'angoisse des morts ; cause une douleur intense à toute créature vivante prise dans la déflagration.\n\nRayon d'explosion : 1.6m\nTemps de recharge : 15s\nTrait : 2\nPortée : 40</TM_DeathBolt.description>
+<TM_DeathBolt_I.label>Trait de mort</TM_DeathBolt_I.label>
+<TM_DeathBolt_I.description>Lancer des traits de puissance transportant l'angoisse des morts ; cause une douleur intense à toute créature vivante prise dans la déflagration.\n\nRayon d'explosion : 2m\nTemps de recharge : 14s\nTrait: 2\nPortée  40</TM_DeathBolt_I.description>
+<TM_DeathBolt_II.label>Trait de mort</TM_DeathBolt_II.label>
+<TM_DeathBolt_II.description>Lancer des traits de puissance transportant l'angoisse des morts ; cause une douleur intense à toute créature vivante prise dans la déflagration.\n\nRayon d'explosion : 2m\nTemps de recharge : 13s\nTrait: 3\nPortée  40</TM_DeathBolt_II.description>
+<TM_DeathBolt_III.label>Trait de mort</TM_DeathBolt_III.label>
+<TM_DeathBolt_III.description>Lancer des traits de puissance transportant l'angoisse des morts ; cause une douleur intense à toute créature vivante prise dans la déflagration.\n\nRayon d'explosion : 2.4m\nTemps de recharge : 12s\nTrait: 3\nPortée : 50</TM_DeathBolt_III.description>
+
+<TM_P_RayofHope.label>Lueur d’espoir</TM_P_RayofHope.label>
+<TM_P_RayofHope.description>Créer une aura d'espoir autour du lanceur de sorts qui améliore périodiquement un allié.\n\nLueur d’espoir : Augmentation magique qui aide le travailleur, améliorant ses capacités physiques et son humeur.\n\nFréquence d'application : 80-90s\nDurée : 200-223s\nManipulation, Mouvement : +15%\nAugmente l'humeur : +3\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau le sort pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_P_RayofHope.description>
+<TM_P_RayofHope_I.label>Lueur d’espoir</TM_P_RayofHope_I.label>
+<TM_P_RayofHope_I.description>Créer une aura d'espoir autour du lanceur de sorts qui améliore périodiquement un allié.\n\nLueur d’espoir : Augmentation magique qui aide le travailleur, améliorant ses capacités physiques et son humeur.\n\nFréquence d'application : 80-90s\nDurée : 200-223s\nManipulation, Mouvement : +18%\nAugmente l'humeur : +4\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau le sort pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_P_RayofHope_I.description>
+<TM_P_RayofHope_II.label>Lueur d’espoir</TM_P_RayofHope_II.label>
+<TM_P_RayofHope_II.description>Créer une aura d'espoir autour du lanceur de sorts qui améliore périodiquement un allié.\n\nLueur d’espoir : Augmentation magique qui aide le travailleur, améliorant ses capacités physiques et son humeur.\n\nFréquence d'application : 80-90s\nDurée : 500-600s\nManipulation, Mouvement : +20%\nAugmente l'humeur : +5\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau le sort pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_P_RayofHope_II.description>
+<TM_P_RayofHope_III.label>Lueur d’espoir</TM_P_RayofHope_III.label>
+<TM_P_RayofHope_III.description>Créer une aura d'espoir autour du lanceur de sorts qui améliore périodiquement un allié.\n\nLueur d’espoir : Augmentation magique qui aide le travailleur, améliorant ses capacités physiques et son humeur.\n\nFréquence d'application : 80-90s\nDurée : 500-600s\nManipulation, Mouvement : +22%\nAugmente l'humeur : +5\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau le sort pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_P_RayofHope_III.description>
+
+<TM_Heal.label>Soins</TM_Heal.label>
+<TM_Heal.description>Invoquer le pouvoir sacré pour guérir les blessures d'une cible. La guérison de base redonne 8 points de vie pour un maximum de 3 blessures. Ne peut pas guérir les parties du corps manquantes.</TM_Heal.description>
+
+<TM_Shield.label>Bouclier</TM_Shield.label>
+<TM_Shield.description>Protéger le paladin des dégâts pendant 50s ou jusqu'à ce que le bouclier se brise.\nAbsorbe jusqu'à 100 dégâts.</TM_Shield.description>
+<TM_Shield_I.label>Bouclier</TM_Shield_I.label>
+<TM_Shield_I.description>Protéger le paladin des dégâts pendant 50s ou jusqu'à ce que le bouclier se brise.\nAbsorbe jusqu'à 125 dégâts.\nRéduit le temps de recharge à 30s.</TM_Shield_I.description>
+<TM_Shield_II.label>Bouclier</TM_Shield_II.label>
+<TM_Shield_II.description>Protéger le paladin des dégâts pendant 50s ou jusqu'à ce que le bouclier se brise.\nAbsorbe jusqu'à 135 dégâts.\nRéduit le temps de recharge à 27s.</TM_Shield_II.description>
+<TM_Shield_III.label>Bouclier</TM_Shield_III.label>
+<TM_Shield_III.description>Protéger le paladin des dégâts pendant 50s ou jusqu'à ce que le bouclier se brise.\nAbsorbe jusqu'à 150 dégâts.\nRéduit le temps de recharge à 25s.</TM_Shield_III.description>
+
+<TM_ValiantCharge.label>Charge vaillante</TM_ValiantCharge.label>
+<TM_ValiantCharge.description>Le paladin s'envole avec les ailes d'un ange pour se rendre dans un lieu éloigné, fracassant le sol avec la puissance sacrée à l'atterrissage.</TM_ValiantCharge.description>
+
+<TM_Overwhelm.label>Accabler</TM_Overwhelm.label>
+<TM_Overwhelm.description>La puissance sacrée est libérée par le paladin, écrasant les sens physiques et mentaux de toutes les créatures proches.</TM_Overwhelm.description>
+
+<TM_HolyWrath.label>Colère divine</TM_HolyWrath.label>
+<TM_HolyWrath.description>Appeler la sainte colère sur terre.</TM_HolyWrath.description>
+
+<TM_AdvancedHeal.label>Soins avancés</TM_AdvancedHeal.label>
+<TM_AdvancedHeal.description>Invoquer la puissance sacrée pour soigner efficacement les blessures d'une cible. La guérison de base redonne 14 points de vie pour un maximum de 3 blessures. Stoppe immédiatement le saignement des blessures provenant de parties du corps manquantes.</TM_AdvancedHeal.description>
+
+<TM_Purify.label>Purifier</TM_Purify.label>
+<TM_Purify.description>Invoquer le pouvoir sacré pour purifier les cicatrices sur le corps, l'esprit et l'âme.</TM_Purify.description>
+
+<TM_HealingCircle.label>Cercle de guérison</TM_HealingCircle.label>
+<TM_HealingCircle.description>Créer un champ de lumière qui guérit les colons amis qui s'y trouvent. La capacité de base soigne 1 blessure de 10 points de vie pour chaque colon soigné. Ne peut pas guérir les blessures des parties du corps manquantes.\n\nRayon : 3\nPortée : 30</TM_HealingCircle.description>
+<TM_HealingCircle_I.label>Cercle de guérison</TM_HealingCircle_I.label>
+<TM_HealingCircle_I.description>Créer un champ de lumière qui guérit les colons amis qui s'y trouvent. La capacité de base soigne 1 blessure de 10 points de vie pour chaque colon soigné. Ne peut pas guérir les blessures des parties du corps manquantes.\n\nRayon : 4\nPortée : 35</TM_HealingCircle_I.description>
+<TM_HealingCircle_II.label>Cercle de guérison</TM_HealingCircle_II.label>
+<TM_HealingCircle_II.description>Créer un champ de lumière qui guérit les colons amis qui s'y trouvent. La capacité de base soigne 1 blessure de 10 points de vie pour chaque colon soigné. Ne peut pas guérir les blessures des parties du corps manquantes.\n\nRayon : 5.5\nPortée : 40</TM_HealingCircle_II.description>
+<TM_HealingCircle_III.label>Cercle de guérison</TM_HealingCircle_III.label>
+<TM_HealingCircle_III.description>Créer un champ de lumière qui guérit les colons amis qui s'y trouvent. La capacité de base soigne 1 blessure de 10 points de vie pour chaque colon soigné. Ne peut pas guérir les blessures des parties du corps manquantes.\n\nRayon : 7\nPortée : 45</TM_HealingCircle_III.description>
+
+<TM_BestowMight.label>Accorder la puissance</TM_BestowMight.label>
+<TM_BestowMight.description>Bénit une seule cible avec une puissance physique considérablement accrue.\n\nDurée : 30-40s\nCapacité physique : +40%\nExigence physique : +50%\nDouleur : -40%</TM_BestowMight.description>
+<TM_BestowMight_I.label>Accorder la puissance</TM_BestowMight_I.label>
+<TM_BestowMight_I.description>Bénit une seule cible avec une puissance physique considérablement accrue.\n\nDurée : 50-60s\nCapacité physique : +60%\nExigence physique : +60%\nDouleur : -50%</TM_BestowMight_I.description>
+<TM_BestowMight_II.label>Accorder la puissance</TM_BestowMight_II.label>
+<TM_BestowMight_II.description>Bénit une seule cible avec une puissance physique considérablement accrue.\n\nDurée : 50-60s\nCapacité physique : +80%\nExigence physique : +70%\nDouleur : -60%</TM_BestowMight_II.description>
+<TM_BestowMight_III.label>Accorder la puissance</TM_BestowMight_III.label>
+<TM_BestowMight_III.description>Bénit une seule cible avec une puissance physique considérablement accrue.\n\nDurée : 100-115s\nCapacité physique : ~+100%\nExigence physique : +100%\nDouleur : -70%</TM_BestowMight_III.description>
+
+<TM_Resurrection.label>Résurrection</TM_Resurrection.label>
+<TM_Resurrection.description>La résurrection redonne la vie à un colon récemment décédé. Cela demande un effort considérable au prêtre et au colon ressuscité, qui seront tous deux affaiblis pendant plusieurs jours, le temps de récupérer leurs forces. La résurrection a un prix : le colon ressuscité perd jusqu'à 35% de ses compétences et peut développer des problèmes de santé.</TM_Resurrection.description>
+
+<TM_PsionicAugmentation.label>Augmentation psionique</TM_PsionicAugmentation.label>
+<TM_PsionicAugmentation.description>Le pouvoir psionique est une manifestation physique de l'énergie mentale sous forme d'énergie cinétique ou potentielle. Un psionique est capable d'utiliser ce pouvoir de la manière la plus efficace en le dirigeant à travers son corps pour renforcer l'action physique.\n\nUn psionique bien entraîné est capable de réaliser des exploits physiques incroyables en utilisant un mélange de force psionique et physique. L'augmentation psionique devient une seconde nature et se produit naturellement en combat et hors combat.</TM_PsionicAugmentation.description>
+
+<TM_PsionicBarrier.label>Barrière psionique</TM_PsionicBarrier.label>
+<TM_PsionicBarrier.description>Le psionique forme une barrière psychique qui repousse l'énergie cinétique dans une petite zone autour de l'utilisateur. L'utilisation de cette capacité nécessite une concentration constante afin de maintenir la barrière et le psionique sera incapable d'effectuer toute autre action tant qu'elle sera active.\n\nCette capacité nécessite 2 points pour être mise à niveau.</TM_PsionicBarrier.description>
+
+<TM_PsionicBarrier_Projected.label>Barrière psionique</TM_PsionicBarrier_Projected.label>
+<TM_PsionicBarrier_Projected.description>Le psionique forme une barrière psychique qui repousse l'énergie cinétique dans une petite zone autour de l'utilisateur. L'utilisation de cette capacité nécessite une concentration constante afin de maintenir la barrière et le psionique sera incapable d'effectuer toute autre action tant qu'elle sera active.\n\nCette barrière peut être projetée vers un lieu désigné.</TM_PsionicBarrier_Projected.description>
+
+<TM_PsionicBlast.label>Déflagration psionique</TM_PsionicBlast.label>
+<TM_PsionicBlast.description>Projeter de l'énergie psionique volatile qui crée une petite détonation lorsqu'elle entre en collision avec un objet physique. Jusqu'à cinq détonations peuvent être projetées, en fonction de la quantité d'énergie disponible pour le psionique.\n\nIncantation : 2s\nTemps de recharge : 12s\nPortée : 28</TM_PsionicBlast.description>
+<TM_PsionicBlast_I.label>Déflagration psionique</TM_PsionicBlast_I.label>
+<TM_PsionicBlast_I.description>Projeter de l'énergie psionique volatile qui crée une petite détonation lorsqu'elle entre en collision avec un objet physique. Jusqu'à cinq détonations peuvent être projetées, en fonction de la quantité d'énergie disponible pour le psionique.\n\nIncantation : 1.6s\nTemps de recharge : 10s\nPortée : 34</TM_PsionicBlast_I.description>
+<TM_PsionicBlast_II.label>Déflagration psionique</TM_PsionicBlast_II.label>
+<TM_PsionicBlast_II.description>Projeter de l'énergie psionique volatile qui crée une petite détonation lorsqu'elle entre en collision avec un objet physique. Jusqu'à cinq détonations peuvent être projetées, en fonction de la quantité d'énergie disponible pour le psionique.\n\nIncantation : 1.2s\nTemps de recharge : 8s\nPortée : 40</TM_PsionicBlast_II.description>
+<TM_PsionicBlast_III.label>Déflagration psionique</TM_PsionicBlast_III.label>
+<TM_PsionicBlast_III.description>Projeter de l'énergie psionique volatile qui crée une petite détonation lorsqu'elle entre en collision avec un objet physique. Jusqu'à cinq détonations peuvent être projetées, en fonction de la quantité d'énergie disponible pour le psionique.\n\nIncantation : 0.8s\nTemps de recharge : 6s\nPortée : 46</TM_PsionicBlast_III.description>
+
+<TM_PsionicDash.label>Célérité psionique</TM_PsionicDash.label>
+<TM_PsionicDash.description>Le psionique insuffle à son corps une quantité écrasante d'énergie et l'utilise pour se propulser dans un mouvement rapide. Chaque pas émet des ondes de choc d'énergie.</TM_PsionicDash.description>
+
+<TM_PsionicStorm.label>Tempête psionique</TM_PsionicStorm.label>
+<TM_PsionicStorm.description>Le psionique fait tomber toutes les barrières mentales et libère sa puissance psionique sans retenue. En raison de la nature de cette attaque, le psionique dépense une énorme quantité d'énergie et reste vulnérable, incapable d'exercer son pouvoir psionique, pendant un certain temps après l'attaque.</TM_PsionicStorm.description>
+
+<TM_RangerTraining.label>Entraînement de Rôdeur</TM_RangerTraining.label>
+<TM_RangerTraining.description>Entraînement des compétences professionnelles du rôdeur. Chaque niveau augmentera le trait du rôdeur pour refléter la compétence du rôdeur.\n\nRangs :\nHomme des bois : Vitesse +0,15c/s, Temps de visée -15%, Gain d'immunité +20%, Conf. température +-10C, Sensibilité toxique -10%.\nApprivoiser et Dresser un animal +5%, Vitesse de dépeçage +5%, Vitesse de fonte et construction -10%.\n\nChasseur : Vitesse +0.2c/s, Temps de visée -20%, Gain d'immunité +25%, Conf. température +-15C, Sensibilité toxique -15%.\nApprivoiser et Dresser un animal +8%, Vitesse de dépeçage +10%, Vitesse de fonte et construction -15%.\n\nÉclaireur : Vitesse +0,25c/s, Temps de visée -30%, Gain d'immunité +30%, Conf. température +-18C, Sensibilité toxique -20%.\nApprivoiser et Dresser un animal +10%, Vitesse de dépeçage +15%, Vitesse de fonte et construction -18%.\n\nRôdeur : Vitesse +0,3c/s, Temps de visée -40%, Gain d'immunité +35%, Conf. température +-25C, Sensibilité toxique -25%.\nApprivoiser et Dresser un animal +12%, Vitesse de dépeçage +20%, Vitesse de fonte et construction -20%.</TM_RangerTraining.description>
+
+<TM_BowTraining.label>Entraînement à l'arc</TM_BowTraining.label>
+<TM_BowTraining.description>Entraînement qui augmente les dégâts et la précision lors de l'utilisation d'un arc.\n\nNiveau 0 : Arc +20% de dégâts, Ouïe et Vue +20%\nNiveau 1 : Arc +40% de dégâts, Ouïe et Vue +40%\nNiveau 2 : Arc +60% de dégâts, Ouïe et Vue +60%, Respiration +15%\nNiveau 3 : Arc +80% de dégâts, Ouïe et Vue +80%, Respiration +25%, Filtrage du sang +10%</TM_BowTraining.description>
+
+<TM_PoisonTrap.label>Piège de poison</TM_PoisonTrap.label>
+<TM_PoisonTrap.description>Le rôdeur utilise une dose de poison druidique pour armer un piège en bois. Les pièges durent indéfiniment, mais un rôdeur ne peut en déployer qu'un nombre limité à la fois.\n\nLes ennemis pris dans le poison subissent 1 à 8 dégâts de poison toutes les 0,66 secondes. Les dégâts du poison appliquent également un effet de ralentissement. Les pièges ne seront jamais déclenchés par les animaux.</TM_PoisonTrap.description>
+
+<TM_AnimalFriend.label>Lien animal</TM_AnimalFriend.label>
+<TM_AnimalFriend.description>Chez lui dans la nature, le rôdeur est capable de former un lien avec les créatures de la nature.\n\nLes rôdeurs ne peuvent former qu'un seul lien et le maintien de ce lien réduit l'endurance maximum du rôdeur de 30. Créer un nouveau lien rompt le lien existant et provoque le départ définitif de l'animal dont le lien est rompu. Les tentatives ratées peuvent amener l'animal à se transformer en chasseur d'hommes. L'utilisation du lien animal sur l'animal lié peut permettre à l'animal de rester dans la colonie - la probabilité que l'animal reste est basée sur sa sauvagerie et sur la durée du lien avec le rôdeur.\n\nL'augmentation de la capacité physique ne s'applique qu'au parent de l'animal, en retour, l'animal lié aidera le rôdeur dans toutes les capacités dont il est capable.\nUn lien peut être retiré en utilisant cette capacité sur une créature liée.</TM_AnimalFriend.description>
+
+<TM_ArrowStorm.label>Tempête de flèches</TM_ArrowStorm.label>
+<TM_ArrowStorm.description>Tirer une volée de 5 flèches sur une cible.\nPortée : 32</TM_ArrowStorm.description>
+<TM_ArrowStorm_I.label>Tempête de flèches</TM_ArrowStorm_I.label>
+<TM_ArrowStorm_I.description>Tirer une volée de 6 flèches sur une cible.\nPortée : 34</TM_ArrowStorm_I.description>
+<TM_ArrowStorm_II.label>Tempête de flèches</TM_ArrowStorm_II.label>
+<TM_ArrowStorm_II.description>Tirer une volée de 7 flèches sur une cible.\nPortée : 36</TM_ArrowStorm_II.description>
+<TM_ArrowStorm_III.label>Tempête de flèches</TM_ArrowStorm_III.label>
+<TM_ArrowStorm_III.description>Tirer une volée de 8 flèches sur une cible.\nPortée : 38</TM_ArrowStorm_III.description>
+
+<TM_ShadowWalk.label>Marche des ténèbres</TM_ShadowWalk.label>
+<TM_ShadowWalk.description>Déplacez-vous sans être vu pour réapparaître instantanément dans l'ombre d'un autre colon.</TM_ShadowWalk.description>
+
+<TM_ShadowStrike.label>Attaque d'ombre</TM_ShadowStrike.label>
+<TM_ShadowStrike.description>Déplacer instantanément l'attaquant derrière la cible et délivrer une attaque dévastatrice à cible unique. L'attaquant gagne 5s de hâte. L'attaquant retourne à l'endroit où il a initié l'attaque après 5 secondes. Cette attaque peut réaliser des coups critiques pour 3x les dégâts - les chances diminuent à mesure que l'arme devient plus lourde. Les armes à distance n'infligent jamais de coup critique.</TM_ShadowStrike.description>
+
+<TM_Nightshade.label>Belladone</TM_Nightshade.label>
+<TM_Nightshade.description>Enduisez vos armes ou projectiles de toxine de belladone. Chaque attaque appliquera une partie de la toxine de belladone. Les attaques à distance appliquent la toxine 40% plus efficacement que les attaques de mêlée. Les victimes touchées souffrent d'hallucinations et d'essoufflement et subissent des dégâts au niveau des organes si le niveau de toxicité est élevé.\n\nCette capacité nécessite 30 d'endurance pour être maintenue et réduit la régénération de l'endurance de 50%.</TM_Nightshade.description>
+
+<TM_VeilOfShadows.label>Voile d’ombres</TM_VeilOfShadows.label>
+<TM_VeilOfShadows.description>Lancer une concoction qui recouvre le lanceur et les environs de fumée et d'ombres. Le lanceur de sorts gagne une cape d'ombre (invisibilité). Le nuage d'ombre empêche le ciblage par les systèmes automatisés et réduit la précision des attaques à distance de 60%.</TM_VeilOfShadows.description>
+
+<TM_Totems.label>Totems</TM_Totems.label>
+<TM_Totems.description>Les totems sont une forme de magie qui ancre un esprit élémentaire dans le monde physique, lui permettant d'influencer les objets proches du totem. Cette capacité augmente le contrôle sur tous les types de totems.</TM_Totems.description>
+
+<TM_SummonTotemLightning.label>Totem de foudre</TM_SummonTotemLightning.label>
+<TM_SummonTotemLightning.description>Créer un totem de foudre à l'endroit ciblé. Il dure 1 heure de jeu et décharge des éclairs sur les ennemis dans un rayon de 40m toutes les 2 à 3 secondes.</TM_SummonTotemLightning.description>
+
+<TM_SummonTotemEarth.label>Totem de terre</TM_SummonTotemEarth.label>
+<TM_SummonTotemEarth.description>Créer un totem de terre à l'endroit ciblé. Il dure 1 heure de jeu et provoque des secousses toutes les 3 à 4 secondes qui déstabilisent tous les colons situés dans un rayon de 5 cases.</TM_SummonTotemEarth.description>
+
+<TM_SummonTotemHealing.label>Totem de soins</TM_SummonTotemHealing.label>
+<TM_SummonTotemHealing.description>Créer un totem de soins à l'endroit ciblé. Il dure 1 heure de jeu et soigne périodiquement les colons proches.</TM_SummonTotemHealing.description>
+
+<TM_ChainLightning.label>Chaîne d’éclairs</TM_ChainLightning.label>
+<TM_ChainLightning.description>Un puissant éclair qui bifurque après avoir frappé sa première cible.</TM_ChainLightning.description>
+
+<TM_Enrage.label>Enrager</TM_Enrage.label>
+<TM_Enrage.description>Place un maléfice sur une cible qui transforme ses émotions (Humeur) en carburant pour la rage du combat. Le maléfice se consume de lui-même une fois que toutes les émotions ont été consommées. Les cibles hostiles deviendront immédiatement fous furieux si leur esprit est sensible.\n\nUn colon enragé bénéficie d'une augmentation de mouvement et de manipulation, d'une résistance accrue à la douleur, il ne peut pas être étourdi et augmente les dégâts de mêlée d'un pourcentage égal à la force de l'enragement (20-50% de bonus de dégâts).</TM_Enrage.description>
+
+<TM_Hex.label>Maléfice</TM_Hex.label>
+<TM_Hex.description>Maléfice - place un maléfice sur les colons, des effets supplémentaires peuvent être appliqués aux cibles avec déjà un maléfice. S'estompe après 6 heures de jeu.\n\nCibles max : 4\nRayon : 3\nPortée : 36\nIncantation : 1s</TM_Hex.description>
+<TM_Hex_I.label>Maléfice</TM_Hex_I.label>
+<TM_Hex_I.description>Maléfice - place un maléfice sur les colons, des effets supplémentaires peuvent être appliqués aux cibles avec déjà un maléfice. S'estompe après 6 heures de jeu.\n\nCibles max : 5\nRayon : 3\nPortée : 40\nIncantation : 0.8s</TM_Hex_I.description>
+<TM_Hex_II.label>Maléfice</TM_Hex_II.label>
+<TM_Hex_II.description>Maléfice - place un maléfice sur les colons, des effets supplémentaires peuvent être appliqués aux cibles avec déjà un maléfice. S'estompe après 6 heures de jeu.\n\nCibles max : 5\nRayon : 4\nPortée : 43\nIncantation : 0.7s</TM_Hex_II.description>
+<TM_Hex_III.label>Maléfice</TM_Hex_III.label>
+<TM_Hex_III.description>Maléfice - place un maléfice sur les colons, des effets supplémentaires peuvent être appliqués aux cibles avec déjà un maléfice. S'estompe après 6 heures de jeu.\n\nCibles max : 6\nRayon : 4\nPortée : 45\nIncantation : 0.6s</TM_Hex_III.description>
+<TM_Hex_Pain.label>Douleur (Maléfice)</TM_Hex_Pain.label>
+<TM_Hex_Pain.description>Tous les colons victimes d'un maléfice souffrent d'une douleur extrême.</TM_Hex_Pain.description>
+<TM_Hex_CriticalFail.label>Échec critique (Maléfice)</TM_Hex_CriticalFail.label>
+<TM_Hex_CriticalFail.description>Jeter une malédiction de courte durée sur toutes les cibles victimes d'un maléfice, leur confère malheur extrêmement.</TM_Hex_CriticalFail.description>
+<TM_Hex_MentalAssault.label>Assaut mental (Maléfice)</TM_Hex_MentalAssault.label>
+<TM_Hex_MentalAssault.description>Provoque chez toutes les personnes visées par un sort une poussée d'émotions dramatique et potentiellement écrasante.</TM_Hex_MentalAssault.description>
+
+<TM_SpiritWolves.label>Esprit du loup</TM_SpiritWolves.label>
+<TM_SpiritWolves.description>Manifeste une meute d'esprit de loup. Les esprits des loups infligent des dégâts spirituels qui ignorent l'armure et les étourdissements.\n\nPortée : 50\nIncantation : 3s\nTemps de recharge : 120s</TM_SpiritWolves.description>
+<TM_SpiritWolves_I.label>Esprit du loup</TM_SpiritWolves_I.label>
+<TM_SpiritWolves_I.description>Manifeste une meute d'esprit de loup. Les esprits des loups infligent des dégâts spirituels qui ignorent l'armure et les étourdissements.\n\nPortée : 55\nIncantation : 2.7s\nTemps de recharge : 110s</TM_SpiritWolves_I.description>
+<TM_SpiritWolves_II.label>Esprit du loup</TM_SpiritWolves_II.label>
+<TM_SpiritWolves_II.description>Manifeste une meute d'esprit de loup. Les esprits des loups infligent des dégâts spirituels qui ignorent l'armure et les étourdissements.\n\nPortée : 60\nIncantation : 2.5s\nTemps de recharge : 100s</TM_SpiritWolves_II.description>
+<TM_SpiritWolves_III.label>Esprit du loup</TM_SpiritWolves_III.label>
+<TM_SpiritWolves_III.description>Manifeste une meute d'esprit de loup. Les esprits des loups infligent des dégâts spirituels qui ignorent l'armure et les étourdissements.\n\nPortée : 65\nIncantation : 2.4s\nTemps de recharge : 90s</TM_SpiritWolves_III.description>
+
+<TM_GuardianSpirit.label>Esprit gardien</TM_GuardianSpirit.label>
+<TM_GuardianSpirit.description>Invoquer un esprit gardien. Les esprits gardiens se manifestent sous la forme d'animaux puissants dotés de forces et de capacités uniques.\n\nEsprit Ours - représente la défense et la force d'âme ; émet un rugissement provocateur contre quiconque pense ignorer cette bête dangereuse.\n\nEsprit Mangouste - représente la ruse et l'agilité ; capable de se glisser dans le royaume des esprits pour lancer une attaque mortelle et invisible.\n\nEsprit Corbeau - représente la magie et la perspicacité ; il jette un sort aux ennemis et améliore la sagesse de son gardien.\n\nUne fois déterminé, le type d'esprit gardien reste le même, mais il peut être changé de force à l'aide d'un parchemin de liaison spirituelle.</TM_GuardianSpirit.description>
+
+<TM_DismissGuardianSpirit.label>Renvoyer Esprit gardien</TM_DismissGuardianSpirit.label>
+<TM_DismissGuardianSpirit.description>Libère l'esprit gardien pour qu'il retourne dans le royaume des esprits.</TM_DismissGuardianSpirit.description>
+
+<TM_SniperFocus.label>Entraînement de tireur d'élite</TM_SniperFocus.label>
+<TM_SniperFocus.description>Un entraînement qui améliore la technique et le statut du tireur d'élite. Chaque niveau modifie le trait du tireur d'élite pour refléter son niveau de compétence.\n\nRangs :\nTireur précis : Vitesse +0.10c/s, Temps de visée -10%, Préci. de tir +2%, Vitesse de recherche et de travail -10%, Apprivoiser et Dresser un animal -10%\nTireur d'élite : Vitesse +0,15c/s, Temps de visée -15%, Préci. de tir +4%, Vitesse de recherche et de travail -10%, Apprivoiser et Dresser un animal -13%\nTireur d'élite Maître : Vitesse +0,20c/s, Temps de visée -22%, Préci. de tir +6%, Vitesse de recherche et de travail -13%, Apprivoiser et Dresser un animal -15%\nTireur d'élite Légendaire : Vitesse +0,25c/s, Temps de visée -30%, Préci. de tir +8%, Vitesse de recherche et de travail -15%, Apprivoiser et Dresser un animal -16%</TM_SniperFocus.description>
+
+<TM_Headshot.label>En pleine tête</TM_Headshot.label>
+<TM_Headshot.description>Un tir mortel qui vise une partie vitale du corps comme la tête ou le cœur. Efficace sur les non-humanoïdes comme sur les humanoïdes. Les chances de réussite du tir dans la tête sont réduites contre les cibles dotées d'une armure épaisse protégeant leurs organes vitaux.</TM_Headshot.description>
+
+<TM_DisablingShot.label>Tir incapacitant</TM_DisablingShot.label>
+<TM_DisablingShot.description>Un tir qui vise à mettre l'adversaire hors d'état de nuire plutôt que de le tuer. Le tireur d'élite tire des balles non mortelles qui libèrent une décharge d'électricité, paralysant brièvement la cible pendant plusieurs secondes. Les cibles blindées ne sont pas affectées.\n\nPortée : 20\nDélai de mise à feu : 2.5s\nRecharge 45s</TM_DisablingShot.description>
+<TM_DisablingShot_I.label>Tir incapacitant</TM_DisablingShot_I.label>
+<TM_DisablingShot_I.description>Un tir qui vise à mettre l'adversaire hors d'état de nuire plutôt que de le tuer. Le tireur d'élite tire des balles non mortelles qui libèrent une décharge d'électricité, paralysant brièvement la cible pendant plusieurs secondes. Les cibles blindées ne sont pas affectées.\n\nPortée : 22\nDélai de mise à feu : 2.3s\nRecharge 43s</TM_DisablingShot_I.description>
+<TM_DisablingShot_II.label>Tir incapacitant</TM_DisablingShot_II.label>
+<TM_DisablingShot_II.description>Un tir qui vise à mettre l'adversaire hors d'état de nuire plutôt que de le tuer. Le tireur d'élite tire des balles non mortelles qui libèrent une décharge d'électricité, paralysant brièvement la cible pendant plusieurs secondes. Les cibles blindées ne sont pas affectées.\n\nPortée : 25\nDélai de mise à feu : 2.1s\nRecharge 41s</TM_DisablingShot_II.description>
+<TM_DisablingShot_III.label>Tir incapacitant</TM_DisablingShot_III.label>
+<TM_DisablingShot_III.description>Un tir qui vise à mettre l'adversaire hors d'état de nuire plutôt que de le tuer. Le tireur d'élite tire des balles non mortelles qui libèrent une décharge d'électricité, paralysant brièvement la cible pendant plusieurs secondes. Les cibles blindées ne sont pas affectées.\n\nPortée : 27\nDélai de mise à feu : 2s\nRecharge 40s</TM_DisablingShot_III.description>
+
+<TM_AntiArmor.label>Anti-armure</TM_AntiArmor.label>
+<TM_AntiArmor.description>Le tireur d'élite porte des munitions anti-blindage pour les occasions spéciales. Lorsque ces munitions se brisent, elles libèrent des nanites qui déchiquettent toute armure avec laquelle elles entrent en contact. Relativement inefficaces contre les cibles tendres, elles font des dégâts supplémentaires sur les cibles blindées, pour autant que la résistance à l'impact active les nanites. Les cibles blindées peuvent être n'importe quel mécanoïde ou une cible avec un indice d'armure tranchant supérieur à 100%.</TM_AntiArmor.description>
+
+<TM_ShadowSlayer.label>Tueur de l'ombre</TM_ShadowSlayer.label>
+<TM_ShadowSlayer.description>Un tireur d'élite entraîné est un expert en matière de furtivité et de positionnement, et connaît le bon moment et le bon endroit pour frapper.\n\nLe champ de dissimulation du tueur d'ombres est une forme d'invisibilité de longue durée. Contrairement à la technologie d'occultation normale, ce système repose sur une forme d'occultation prédictive qui se dissipe rapidement lorsque l'utilisateur effectue des actions rapides ou violentes (comme tirer avec une arme).</TM_ShadowSlayer.description>
+
+<TM_Heater.label>Chaleur magique</TM_Heater.label>
+<TM_Heater.description>Créer une orbe dimensionnelle qui puise dans le plan du feu, générant une chaleur constante dans une zone confinée. Le chauffage doit être soutenu par le mage - réduit le mana maximum de 25 pendant qu'il est actif.</TM_Heater.description>
+
+<TM_DismissHeater.label>Dissipation Chaleur magique</TM_DismissHeater.label>
+<TM_DismissHeater.description>Dissipe le chauffage magique.</TM_DismissHeater.description>
+
+<TM_Cooler.label>Fraîcheur magique</TM_Cooler.label>
+<TM_Cooler.description>Créer une orbe dimensionnelle qui puise dans le plan de la glace, réduisant la chaleur dans une zone confinée. La glacière doit être soutenue par le mage - réduit le mana maximum de 25 pendant qu'elle est active.</TM_Cooler.description>
+
+<TM_DismissCooler.label>Dissipation Fraîcheur magique</TM_DismissCooler.label>
+<TM_DismissCooler.description>Dissipe la glacière magique.</TM_DismissCooler.description>
+
+<TM_PowerNode.label>Énergie magique</TM_PowerNode.label>
+<TM_PowerNode.description>Créer un nœud énergétique qui libère lentement l'énergie magique sous forme d'électricité. Peut être utilisé comme source d'énergie. Le nœud d'énergie doit être soutenu par le mage - réduit le mana maximum de 25 et le régénération de mana de 25% lorsqu'il est actif.</TM_PowerNode.description>
+
+<TM_DismissPowerNode.label>Dissipation Énergie magique</TM_DismissPowerNode.label>
+<TM_DismissPowerNode.description>Dissipe la batterie magique.</TM_DismissPowerNode.description>
+
+<TM_Sunlight.label>Lumière solaire</TM_Sunlight.label>
+<TM_Sunlight.description>Créer une balise de lumière solaire suffisamment puissante pour faire pousser des plantes. La balise doit être soutenue par le mage - réduit le mana maximum de 40 et la régénération de mana de 40% lorsqu'elle est active.</TM_Sunlight.description>
+
+<TM_DismissSunlight.label>Dissipation Lumière solaire</TM_DismissSunlight.label>
+<TM_DismissSunlight.description>Dissipe la lumière solaire magique.</TM_DismissSunlight.description>
+
+<TM_DryGround.label>Sol sec</TM_DryGround.label>
+<TM_DryGround.description>Infuse le sol avec de la chaleur, évaporant la plupart de l'humidité d'une parcelle de terrain. Ne fonctionne que sur les sols boueux.</TM_DryGround.description>
+
+<TM_WetGround.label>Sol hydrater</TM_WetGround.label>
+<TM_WetGround.description>Infuse le sable avec de l'eau, créant ainsi un sol utilisable.</TM_WetGround.description>
+
+<TM_ChargeBattery.label>Charger la batterie</TM_ChargeBattery.label>
+<TM_ChargeBattery.description>Convertir la puissance magique brute en énergie électrique. Ce sort ne peut être utilisé que sur des batteries. Génère 400Wd.</TM_ChargeBattery.description>
+
+<TM_SmokeCloud.label>Nuage de fumée</TM_SmokeCloud.label>
+<TM_SmokeCloud.description>Aspire et enflamme les particules d'eau et de saleté présentes dans l'air pour créer un écran de fumée qui dissimule temporairement la zone.</TM_SmokeCloud.description>
+
+<TM_Extinguish.label>Extinction</TM_Extinguish.label>
+<TM_Extinguish.description>Supprime l'élément feu de l'endroit ciblé, éteignant instantanément les feux indésirables.</TM_Extinguish.description>
+
+<TM_EMP.label>IEM</TM_EMP.label>
+<TM_EMP.description>Génère une explosion de radiations électromagnétiques sur une zone ciblée, désactivant les mécanoïdes pendant une courte période.</TM_EMP.description>
+
+<TM_TransferMana.label>Transfert de mana</TM_TransferMana.label>
+<TM_TransferMana.description>Transfère l'énergie magique d'un lanceur de sorts à un autre. Les destinataires qui ne sont pas des utilisateurs de magie recevront une augmentation physique significative, bien qu'aléatoire, pendant une courte période. Peut être dangereux, voire mortel, à des niveaux extrêmes.</TM_TransferMana.description>
+
+<TM_SiphonMana.label>Siphon de mana</TM_SiphonMana.label>
+<TM_SiphonMana.description>Siphonne l'énergie magique d'un autre lanceur de sorts. Les destinataires qui ne sont pas des utilisateurs de magie verront leurs capacités physiques drainées à la place. Peut être mortel si trop de force vitale est drainée.</TM_SiphonMana.description>
+
+<TM_ManaShield.label>Bouclier de mana</TM_ManaShield.label>
+<TM_ManaShield.description>Invoquer une barrière protectrice qui puise son énergie dans le mana du lanceur de sorts. Le taux d'absorption des dégâts est de 1 pour 1 mana. La barrière se brise lorsque le lanceur de sorts n'a pas assez de mana pour absorber une attaque.\n\nSi vous lancez ce sort alors que la barrière est active, elle disparaît. Peut être utilisé en conjonction avec les ceintures-boucliers. N'empêche pas l'incantation de sorts, quels qu'ils soient.</TM_ManaShield.description>
+
+<TM_ArcaneBarrier.label>Barrière des Arcanes</TM_ArcaneBarrier.label>
+<TM_ArcaneBarrier.description>Crée une barrière des arcanes à l'endroit ciblé qui est horizontal par rapport au lanceur de sorts. La barrière dure 60 secondes.</TM_ArcaneBarrier.description>
+
+<TM_Flight.label>Vol</TM_Flight.label>
+<TM_Flight.description>Voler rapidement vers un emplacement cible.</TM_Flight.description>
+
+<TM_FertileLands.label>Terres fertiles</TM_FertileLands.label>
+<TM_FertileLands.description>Infuser une zone de terre avec le pouvoir du druide qui augmente sa fertilité. Cette capacité doit être maintenue et réduit la régénération du mana de 40%. Le druide est limité à une zone.</TM_FertileLands.description>
+
+<TM_DismissFertileLands.label>Fin des terres fertiles</TM_DismissFertileLands.label>
+<TM_DismissFertileLands.description>Libérer le pouvoir du druide en infusant la terre de fertilité.</TM_DismissFertileLands.description>
+
+<TM_SpellMending.label>Sort de réparation</TM_SpellMending.label>
+<TM_SpellMending.description>Lancer un enchantement sur une personne qui reconstruit lentement son équipement au niveau moléculaire. Le sort de réparation nécessite le port de l'équipement afin d'extraire les "souvenirs" du porteur pour effectuer la reconstruction. Cela impose une contrainte physique au colon affecté et ralentit ses activités physiques. Le sort de réparation se dissipe après plusieurs heures.</TM_SpellMending.description>
+
+<TM_CauterizeWound.label>Cautérisation des blessures</TM_CauterizeWound.label>
+<TM_CauterizeWound.description>Le mage du feu invoque le feu élémentaire pour cautériser instantanément les blessures d'un patient. Toutefois, ce procédé est susceptible de laisser des cicatrices de brûlure.</TM_CauterizeWound.description>
+
+<TM_TeachMagic.label>Mentor magique</TM_TeachMagic.label>
+<TM_TeachMagic.description>Encadrer un mage de niveau inférieur pour augmenter sa compétence magique.\n\nLes mages avec un mentor gagnent de l'XP de classe. La quantité d'XP gagnée dépend du statut social et de la différence de niveau entre les deux mages.</TM_TeachMagic.description>
+
+<TM_TeachMight.label>Entraînement au combat</TM_TeachMight.label>
+<TM_TeachMight.description>Entraîner un combattant de niveau inférieur pour augmenter sa compétence de combat.\n\nLes combattants entraînés gagnent de l'XP de classe. La quantité d'XP gagnée dépend du statut social et de la différence de niveau entre les deux combattants.</TM_TeachMight.description>
+
+<TM_Blur.label>Voile corrompu</TM_Blur.label>
+<TM_Blur.description>Chance supplémentaire de 20% d'éviter toutes les attaques en déformant la lumière autour du lanceur de sorts. Nécessite 20 mana pour être maintenu et réduit la régénération de mana de 10%. Réutiliser la capacité pour désactiver le voile corrompu.</TM_Blur.description>
+
+<TM_BlankMind.label>Esprit vide</TM_BlankMind.label>
+<TM_BlankMind.description>Effacer les souvenirs d'un colon et le libère de tout état mental, mais induit une brève période de confusion pendant qu'il rassemble ses esprits. Lorsqu'il est utilisé sur des ennemis, il applique un gel mental, étourdissant l'ennemi pendant une brève période.\n\nLes effets AoE ne sont appliqués que lorsque la cible principale n'est pas un colon ami. Les colons amis perdent à la fois les bons et les mauvais souvenirs.</TM_BlankMind.description>
+
+<TM_DirtDevil.label>Dirt Devil</TM_DirtDevil.label>
+<TM_DirtDevil.description>Créer un petit vide d'air élémentaire qui recherche et vaporise la saleté et les débris.</TM_DirtDevil.description>
+
+<TM_MechaniteReprogramming.label>Mécanites reprogrammés</TM_MechaniteReprogramming.label>
+<TM_MechaniteReprogramming.description>Reprogramme les mécanites fibreuses ou sensorielles pour les harmoniser avec les systèmes biologiques de l'hôte. Le résultat est une réduction significative de la tension sur l'hôte pendant que les mécanites sont actifs.</TM_MechaniteReprogramming.description>
+
+<TM_ArcaneBolt.label>Éclair des Arcanes</TM_ArcaneBolt.label>
+<TM_ArcaneBolt.description>Lancer un éclair d'énergie des arcanes brute. La puissance de cette capacité augmente lentement en fonction du niveau de magie du lanceur.\n\nL'éclair des arcanes est inefficace en raison de la nature non raffinée du sort, mais il peut être appris et lancé par tout mage capable de violence.</TM_ArcaneBolt.description>
+
+<TM_ThrowingKnife.label>Couteau de lancer</TM_ThrowingKnife.label>
+<TM_ThrowingKnife.description>Une attaque à distance utilisant un couteau de lancer dissimulé, conçu pour compléter tout système d'arme équipé.</TM_ThrowingKnife.description>
+
+<TM_PommelStrike.label>Frappe du pommeau</TM_PommelStrike.label>
+<TM_PommelStrike.description>Une attaque de mêlée qui porte un coup non mortel infligeant des dégâts mineurs et étourdissant la cible pendant une courte période.\n\nCette capacité peut mettre instantanément à terre un colon ciblé ; plus la cible souffre, plus le coup est susceptible de la mettre à terre au lieu de l'étourdir.\n\nLe lancement automatique ne se déclenche que lorsque la cible a 80% ou plus de chances d'être abattue par cette attaque.</TM_PommelStrike.description>
+
+<TM_LightningTrap.label>Piège de foudre</TM_LightningTrap.label>
+<TM_LightningTrap.description>Un piège créé en maintenant la foudre élémentaire à l'intérieur d'une barrière magique ; il libère l'énergie qu'il contient lorsqu'un ennemi perturbe le flux magique à proximité. Les pièges durent indéfiniment, mais un mage ne peut en maintenir qu'un seul.</TM_LightningTrap.description>
+
+<TM_DismissLightningTrap.label>Dissipation Piège de foudre</TM_DismissLightningTrap.label>
+<TM_DismissLightningTrap.description>Dissipe un piège à foudre.</TM_DismissLightningTrap.description>
+
+<TM_Invisibility.label>Invisibilité</TM_Invisibility.label>
+<TM_Invisibility.description>Devenez invisible pendant 20 secondes. Toute interaction manifeste rompt immédiatement le sort. Libère le lanceur de sorts de toute cible hostile.</TM_Invisibility.description>
+
+<TM_BriarPatch.label>Lianes épineuses (Briar Patch)</TM_BriarPatch.label>
+<TM_BriarPatch.description>Créer un danger fait de lianes épineuses. Tout mouvement au-dessus de la zone affectée sera ralenti, les créatures se déplaçant dans la zone de bruyères peuvent subir des dégâts mineurs.</TM_BriarPatch.description>
+
+<TM_MageLight.label>Lumière magique</TM_MageLight.label>
+<TM_MageLight.description>Créer un petit orbe de lumière qui bannit l'obscurité. La lumière magique reste à proximité du mage qui la lance. Ce sort a un coût d'entretien de 10 mana et 5 % de régénération de mana.\n\nLa lumière magique confère un bonus de vision de 20 % ; seul le lanceur bénéficie de ce bonus.\n\nLa lumière magique peut être dissipée en utilisant cette capacité sur le lanceur.</TM_MageLight.description>
+
+<TM_Legion.label>Légion</TM_Legion.label>
+<TM_Legion.description>Copier une capacité d'un autre combattant. Tous les bonus et restrictions de la capacité copiée s'appliquent. Une seule capacité peut être mémorisée à la fois.</TM_Legion.description>
+
+<TM_TempestStrike.label>Éclair de tempête</TM_TempestStrike.label>
+<TM_TempestStrike.description>Lancer plusieurs attaques en succession rapide. Chaque attaque consomme 20 d'endurance. Éclair de tempête s'arrête lorsque le combattant n'a plus assez d'endurance ou après 5 attaques.\n\nLes armes de mêlée génèrent des lames d'énergie.\n\nCette attaque ne fonctionne que si l'arme équipée n'est pas consommée après utilisation.</TM_TempestStrike.description>
+
+<TM_Ignite.label>Enflammer</TM_Ignite.label>
+<TM_Ignite.description>Concentre une énorme quantité de chaleur sur un point focal, puis la libère. La chaleur libérée peut enflammer les créatures proches et mettra toujours le feu aux cadavres. La chaleur libérée augmente également de façon spectaculaire la température ambiante de toute zone fermée.</TM_Ignite.description>
+
+<TM_SnapFreeze.label>Gel rapide</TM_SnapFreeze.label>
+<TM_SnapFreeze.description>Supprime presque toute la chaleur au niveau d'un point focal, provoquant un gel rapide de tout objet vivant. Les créatures peuvent souffrir d'engelures et la plupart des plantes meurent. L'élimination de la chaleur fait également baisser de façon spectaculaire la température ambiante de toute zone fermée.</TM_SnapFreeze.description>
+
+<TM_Discord.label>Discorde</TM_Discord.label>
+<TM_Discord.description>Une capacité canalisée qui agresse continuellement les sens de la victime avec des signaux aléatoires et dérangeants. Cette surcharge sensorielle affaiblit progressivement la stabilité mentale de la cible, qui finit par perdre toute son harmonie mentale. Les résultats de cette capacité varient, mais se renforcent à chaque itération.\n\nLes effets comprennent des vertiges, des nausées, des pertes de vision et d'audition, des vomissements, l'incapacité de déterminer l'ami de l'ennemi, l'impossibilité de faire des calculs, l'aversion pour les autres colons, la perte des capacités motrices, la perte de la raison, l'envie de discuter de politique, le paroxysme, l'hémorragie cérébrale et la détonation crânienne. Les résultats peuvent varier lorsqu'on cible des colons amis. Consulter votre thérapeute avant de l'utiliser.</TM_Discord.description>
+
+<TM_Explosion.label>Explosion !</TM_Explosion.label>
+<TM_Explosion.description>Noirceur enveloppée de lumière, flamme frénétique habillée de nuit, au nom des démons cramoisis, laisse l'effondrement de ton origine se manifester. Appelle devant moi la racine de ton pouvoir, cachée dans le royaume florissant de la mort. Explosion !</TM_Explosion.description>
+
+<TM_Taunt.label>Provocation</TM_Taunt.label>
+<TM_Taunt.description>Provoquer les cibles proches pour attaquer ce colon.</TM_Taunt.description>
+
+<TM_ShieldOther.label>Bouclier autre</TM_ShieldOther.label>
+<TM_ShieldOther.description>Protéger la cible des dégâts pendant 60s ou jusqu'à ce que le bouclier se brise.\nAbsorbe jusqu'à 80 dégâts.\nLe bouclier absorbe 0,5 de dégâts supplémentaires pour chaque niveau du lanceur de sorts.</TM_ShieldOther.description>
+
+<TM_SummonMinion.label>Invocation d'un serviteur</TM_SummonMinion.label>
+<TM_SummonMinion.description>Invoquer des serviteurs pour vous aider dans vos tâches quotidiennes.</TM_SummonMinion.description>
+
+<TM_DismissMinion.label>Renvoyer serviteur</TM_DismissMinion.label>
+<TM_DismissMinion.description>Renvoyer un serviteur invoqué.</TM_DismissMinion.description>
+
+<TM_SummonPylon.label>Invocation d'un pylône de défense</TM_SummonPylon.label>
+<TM_SummonPylon.description>Invoquer et manifester l'énergie magique pour former une tourelle de défense automatisée qui est attachée à un emplacement physique. La tourelle canalise le courant magique vers un point focal qui émet des rafales d'énergie brute.  Lorsque le lien qui relie la tourelle au monde physique se dissipe, la tourelle se dissout sans danger dans l'énergie magique. Si la tourelle est détruite, cet effet peut être plus destructeur.</TM_SummonPylon.description>
+
+<TM_SummonExplosive.label>Invocation d'un explosifs</TM_SummonExplosive.label>
+<TM_SummonExplosive.description>Créer une mine à partir de mana brut compressé et l'attacher à un emplacement physique. La mine se dissout de manière inoffensive si l'énergie qui la maintient est épuisée.</TM_SummonExplosive.description>
+
+<TM_SummonElemental.label>Invocation d’un élémentaire</TM_SummonElemental.label>
+<TM_SummonElemental.description>Appeler un élémentaire monstrueux d'un plan de puissance pour écraser vos ennemis. Ces êtres défendront un emplacement et engageront immédiatement un ennemi s'il se trouve à proximité. Cependant, s'il n'y a pas d'ennemis, ils ont tendance à s'ennuyer assez rapidement et à s'éloigner de leur position d'invocation. Ils ne s'occuperont pas de tâches subalternes telles que le "transport" ou le "nettoyage", qui sont réservées à des êtres inférieurs. En raison de la puissance de l'invocation, l'élémentaire ne peut exister dans ce royaume que pendant une courte période. Le type d'élémentaire est aléatoire.</TM_SummonElemental.description>
+
+<TM_SummonPoppi.label>Invocation d’un Poppi</TM_SummonPoppi.label>
+<TM_SummonPoppi.description>Invoquer une meute de Poppi vicieux tout droit sortis des portes de la folie. Cette meute de Poppi est enragée et s'acharne sur les unités ennemies.</TM_SummonPoppi.description>
+
+<TM_PistolSpec.label>Spécialisation Pistolet</TM_PistolSpec.label>
+<TM_PistolSpec.description>Spécialisation en armement : Pistolet\n\nCette spécialisation améliore tous les aspects des pistolets : précision, dégâts, vitesse de tir, nombre de coups, portée, et plus encore.
+Les spécialisations d'armes s'appliquent automatiquement lorsqu'un Super-Soldat équipe une arme dans sa catégorie de spécialisation. Les armes spécialisées sont indiquées par un "++" après le nom de l'objet.\n\nLes super-soldats équipés d'un pistolet spécialisé acquièrent un talent unique de "double tape" qui leur permet d'ignorer le temps de recharge et de commencer immédiatement une nouvelle rafale de tirs ; ce talent consomme de l'endurance lorsqu'il se produit.</TM_PistolSpec.description>
+
+<TM_PistolWhip.label>Coup de crosse</TM_PistolWhip.label>
+<TM_PistolWhip.description>Une attaque soudaine utilisant la crosse du pistolet comme une arme contondante ; les attaques réussies étourdissent la cible, la laissant étourdie pendant une courte période, et peuvent également désarmer la cible.</TM_PistolWhip.description>
+
+<TM_RifleSpec.label>Spécialisation Fusil</TM_RifleSpec.label>
+<TM_RifleSpec.description>Spécialisation en armement : Fusil\n\nCette spécialisation améliore tous les aspects des fusils : précision, dégâts, vitesse de tir, nombre de tirs, portée, etc.\nLes spécialisations d'armes s'appliquent automatiquement lorsqu'un Super-Soldat équipe une arme dans sa catégorie de spécialisation. Les armes spécialisées sont signalées par un "++" après le nom de l'objet.</TM_RifleSpec.description>
+
+<TM_SuppressingFire.label>Tir de suppression</TM_SuppressingFire.label>
+<TM_SuppressingFire.description>Supprimer les positions ennemies avec une tempête de balles.</TM_SuppressingFire.description>
+
+<TM_Mk203GL.label>Mk203 LG</TM_Mk203GL.label>
+<TM_Mk203GL.description>Tire une grenade à l'aide du Mk203 Lance-Grenades sous le canon.</TM_Mk203GL.description>
+
+<TM_ShotgunSpec.label>Spécialisation Fusil à pompe</TM_ShotgunSpec.label>
+<TM_ShotgunSpec.description>Spécialisation en armement : Fusil à pompe\n\nCette spécialisation améliore tous les aspects des fusils à pompe : précision, dégâts, vitesse de tir, nombre de tirs, portée, etc.\nLes spécialisations d'armes s'appliquent automatiquement lorsqu'un Super-Soldat équipe une arme dans sa catégorie de spécialisation. Les armes spécialisées sont signalées par un "++" après le nom de l'objet.</TM_ShotgunSpec.description>
+
+<TM_Buckshot.label>Chevrotine</TM_Buckshot.label>
+<TM_Buckshot.description>Une cartouche de fusil à pompe qui tire plusieurs plombs. Le volume des balles tirées peut être dévastateur à courte portée, mais se disperse rapidement.</TM_Buckshot.description>
+
+<TM_BreachingCharge.label>Charge explosive</TM_BreachingCharge.label>
+<TM_BreachingCharge.description>Lancer un explosif spécialisé qui excelle à détruire les structures ou à arrêter des groupes d'ennemis. Il inflige 30x les dégâts aux structures.</TM_BreachingCharge.description>
+
+<TM_CQC.label>Combat rapproché</TM_CQC.label>
+<TM_CQC.description>Le Combat rapproché est un entraînement courant pour les soldats qui leur permet d'exécuter en douceur une attaque combinée vicieuse contre un ennemi à portée de mêlée.</TM_CQC.description>
+
+<TM_FirstAid.label>Auto-assistance</TM_FirstAid.label>
+<TM_FirstAid.description>L'auto-assistance est possible pour les super-soldats grâce aux améliorations génétiques qu'ils ont acquises avec le sérum. Cette capacité leur permet de concentrer consciemment leur énergie pour soigner rapidement leurs blessures. L'auto-assistance est incapable de soigner des blessures graves, comme des parties du corps manquantes.</TM_FirstAid.description>
+
+<TM_60mmMortar.label>Mortier 60 mm</TM_60mmMortar.label>
+<TM_60mmMortar.description>Affaiblissez les cibles ennemies avant même que le combat ne commence avec un système de mortier personnel. Le mortier de 60 mm peut être facilement transporté par un super-soldat et déployé rapidement pour lancer trois rafales de tir indirect.</TM_60mmMortar.description>
+
+<TM_GearRepair.label>Réparation du matériel</TM_GearRepair.label>
+<TM_GearRepair.description>Activer ou Désactiver la compétence de combat maintenu Réparation du matériel - répare lentement les vêtements et armes équipés. Nécessite 20 d'endurance pour être maintenu.</TM_GearRepair.description>
+
+<TM_InnerHealing.label>Guérison intérieure</TM_InnerHealing.label>
+<TM_InnerHealing.description>Activer ou Désactiver la compétence de combat maintenu Guérison intérieure - sacrifie l'énergie physique pour augmenter le taux de guérison et l'immunité aux maladies. Nécessite 10 d'endurance pour être maintenue.</TM_InnerHealing.description>
+
+<TM_HeavyBlow.label>Coup puissant</TM_HeavyBlow.label>
+<TM_HeavyBlow.description>Activer ou Désactiver la compétence de combat maintenu Coup puissant - augmente les dégâts de toutes les attaques de 20%. Nécessite 30 d'endurance pour être maintenue.</TM_HeavyBlow.description>
+
+<TM_StrongBack.label>Dos solide</TM_StrongBack.label>
+<TM_StrongBack.description>Activer ou Désactiver la compétence de combat maintenu Dos solide - augmente la capacité de transport de 40 et la capacité d'inventaire de 50 % mais entraîne une augmentation de 10 % du taux d'épuisement. Nécessite 20 d'endurance pour être maintenu.</TM_StrongBack.description>
+
+<TM_ThickSkin.label>Peau dure</TM_ThickSkin.label>
+<TM_ThickSkin.description>Activer ou Désactiver la compétence de combat maintenu Peau dure - augmente toutes les valeurs d'armure de 10% et améliore légèrement les seuils de température. Nécessite 30 d'endurance pour être maintenu et réduit la régénération de l'endurance de 15%.</TM_ThickSkin.description>
+
+<TM_FightersFocus.label>Focalisation du combattant</TM_FightersFocus.label>
+<TM_FightersFocus.description>Activer ou Désactiver la compétence de combat maintenu Focalisation du combattant - augmente le seuil de rupture mentale de 5% et le seuil de douleur de 20%. Nécessite 15 d'endurance pour être maintenu.</TM_FightersFocus.description>
+
+<TM_BurningFury.label>Fureur ardente</TM_BurningFury.label>
+<TM_BurningFury.description>Activer ou Désactiver la compétence de combat maintenu Fureur ardente.\n\nLa Fureur ardente inflige périodiquement des dégâts de feu aux ennemis proches ainsi qu'au lanceur de sorts. Elle cautérise également les blessures qui saignent et applique une amélioration de combat au lanceur.\n\nFurie ardente :\nMouvement : +10%\nRespiration : +40%\nPompage du sang : +40%\nSeuil de la douleur : +40%\nArmure (chaleur) : +100\n\nLorsqu'elle est active, le lanceur de sorts ne peut pas être déstabilisé et réduit tous les dégâts entrants de 35%.\n\nCette capacité consomme activement de l'endurance, et s'annule automatiquement lorsque l'endurance du lanceur atteint 0.</TM_BurningFury.description>
+
+<TM_TechnoBit.label>Techno-Bit</TM_TechnoBit.label>
+<TM_TechnoBit.description>Le Techno-Bit est une petite sphère autonome qui assiste le technomancien dans de nombreuses tâches et lui fournit des capacités de soutien supplémentaires. L'assistance du techno-bit peut être activée et n'effectue aucune tâche lorsqu'elle est désactivée.\n\nNon Mobiliser : le techno-bit assiste les tâches d'artisanat, d'exploitation minière et de construction. Il peut également réparer les bâtiments, les androïdes et les mécanoïdes à proximité.\n\nMobiliser : utilise une LED interne pour tirer des micro lasers sur la cible du technomancien. Effectue des réparations accélérées sur les colons robotiques ou les bâtiments à proximité.</TM_TechnoBit.description>
+
+<TM_TechnoTurret.label>Tourelle Mark-IV</TM_TechnoTurret.label>
+<TM_TechnoTurret.description>Déploie et établit un lien neural avec la tourelle Mark-IV. Le Mark-IV est contrôlé à distance par le lanceur de sorts. Une fois la tourelle déployée, toute activité ou tout mouvement du lanceur de sorts rompt le lien neural et miniaturise le système d'arme du Mark-IV. Les roquettes et les mortiers consomment du mana par tir.\n\nLe Mark-IV se miniaturise automatiquement lorsqu'il subit des dommages critiques et peut provoquer une réaction neuronale au technomancien qui contrôle le système.</TM_TechnoTurret.description>
+
+<TM_TechnoWeapon.label>Arme de l'ingénieur</TM_TechnoWeapon.label>
+<TM_TechnoWeapon.description>Le technomancien applique ses connaissances en ingénierie et en magie pour créer une version modifiée d'une arme existante. Cette arme est façonnée à partir de mana brut et physiquement ancrée au technomancien comme une extension de son corps.\nDe ce fait, l'arme se désintègre si elle est séparée du technomancien.  Cette arme sera automatiquement équipée par le technomancien une fois créée.\n\nLes spécialistes des armes ont également accès à des munitions modifiées et à des nano-stimulants pour améliorer leurs capacités de combat.\n\nPour créer une arme techno : ciblez une arme au sol. L'arme ciblée doit être une arme à distance, avec un niveau technologique industriel ou supérieur, et utiliser une action de tir standard.</TM_TechnoWeapon.description>
+
+<TM_NanoStimulant.label>Nano Stimulant</TM_NanoStimulant.label>
+<TM_NanoStimulant.description>Une injection de nanites qui augmente temporairement les capacités de combat de l'utilisateur. Ce stimulant est spécialement synthétisé par le technomancien pour sa propre constitution biologique et génétique unique. Il n'entraîne pas de dépendance chimique, mais est nocif pour tout autre colon.\n\nLes nanites sont alimentés par le mana et l'énergie du corps et provoquent rapidement la fatigue.\n\nLorsque les nanites s'épuisent, elles forment des plaquettes pour cautériser et arrêter les saignements et même guérir les petites blessures. L'utilisation de nano stimulants accélérera toute maladie ou infection active.</TM_NanoStimulant.description>
+
+<TM_TechnoShield.label>Bouclier cinétique</TM_TechnoShield.label>
+<TM_TechnoShield.description>Entoure la cible d'un champ cinétique qui repousse les projectiles entrants. Le bouclier cinétique est capable de dévier les projectiles en fonction de leur énergie cinétique. Les projectiles plus lourds sont plus difficiles à dévier et pénètrent les boucliers de faible puissance.\n\nLa quantité d'énergie cinétique impliquée dans une déviation est déterminée par la quantité de dégâts qui seraient causés par le projectile.</TM_TechnoShield.description>
+
+<TM_Sabotage.label>Sabotage</TM_Sabotage.label>
+<TM_Sabotage.description>Le sabotage neutralise les défaillances mécaniques des cibles, les fonctions logiques et tout autre système exploitable dans une petite zone. Les effets du sabotage peuvent aller de la réduction des performances mécaniques à l'arrêt temporaire, en passant par l'autodestruction, la défaillance catastrophique et même la perte de la capacité à distinguer l'ami de l'ennemi.\n\nPeut être appliqué à : batteries, générateurs électriques, tourelles, robots, androïdes et mécanoïdes.</TM_Sabotage.description>
+
+<TM_Overdrive.label>Surmultiplicateur</TM_Overdrive.label>
+<TM_Overdrive.description>Surcharge le système mécanique, électrique ou IA ciblé avec des nanites fabriquées qui poussent le système au-delà de ses limites. Surmultiplicateur endommagera périodiquement le système.\n\nPeut être appliqué aux générateurs électriques, tourelles, robots, androïdes et mécanoïdes.</TM_Overdrive.description>
+
+<TM_OrbitalStrike.label>Frappe orbitale</TM_OrbitalStrike.label>
+<TM_OrbitalStrike.description>Pirater un réseau de satellites de bombardement orbital et entrer une désignation à cibler. En utilisant des signatures aléatoires et magiques pour masquer leur activité, les technomanciens peuvent manipuler en permanence des systèmes avancés sans être identifiés et verrouillés.\n\nPortée : 70\nÉchauffement : 3s\nRayon : 2.5</TM_OrbitalStrike.description>
+<TM_OrbitalStrike_I.label>Frappe orbitale</TM_OrbitalStrike_I.label>
+<TM_OrbitalStrike_I.description>Pirater un réseau de satellites de bombardement orbital et entrer une désignation à cibler. En utilisant des signatures aléatoires et magiques pour masquer leur activité, les technomanciens peuvent manipuler en permanence des systèmes avancés sans être identifiés et verrouillés.\n\nPortée : 80\nÉchauffement : 2.1s\nRayon : 4.2</TM_OrbitalStrike_I.description>
+<TM_OrbitalStrike_II.label>Frappe orbitale</TM_OrbitalStrike_II.label>
+<TM_OrbitalStrike_II.description>Pirater un réseau de satellites de bombardement orbital et entrer une désignation à cibler. En utilisant des signatures aléatoires et magiques pour masquer leur activité, les technomanciens peuvent manipuler en permanence des systèmes avancés sans être identifiés et verrouillés.\n\nPortée : 90\nÉchauffement : 1.8s\nRayon : 5.0</TM_OrbitalStrike_II.description>
+<TM_OrbitalStrike_III.label>Frappe orbitale</TM_OrbitalStrike_III.label>
+<TM_OrbitalStrike_III.description>Pirater un réseau de satellites de bombardement orbital et entrer une désignation à cibler. En utilisant des signatures aléatoires et magiques pour masquer leur activité, les technomanciens peuvent manipuler en permanence des systèmes avancés sans être identifiés et verrouillés.\n\nPortée : 100\nÉchauffement : 1.6s\nRayon : 5.6</TM_OrbitalStrike_III.description>
+
+<TM_WandererCraft.label>Le vagabond</TM_WandererCraft.label>
+<TM_WandererCraft.description>Augmenter les attributs par le travail et la créativité. Voir les compétences pour plus de détails.</TM_WandererCraft.description>
+
+<TM_Cantrips.label>Sortilèges</TM_Cantrips.label>
+<TM_Cantrips.description>Les mages vagabonds n'ont pas de capacités spécifiques à leur classe, mais ils excellent dans les sorts généraux ou les sortilèges.\n\nLes sortilèges sont rejetés par la plupart des mages comme de simples commodités qui ne nécessitent pas d'entraînement supplémentaire, mais le vagabond adopte une autre approche. En investissant du temps et des efforts dans la compréhension des sortilèges, le vagabond est capable d'améliorer presque toutes les capacités générales en utilité, puissance et efficacité.\n\nVoir les compétences pour plus de détails.</TM_Cantrips.description>
+
+<TM_WayfarerCraft.label>Le voyageur</TM_WayfarerCraft.label>
+<TM_WayfarerCraft.description>Augmenter les attributs par l'entraînement et le travail acharné. Voir les compétences pour plus de détails.</TM_WayfarerCraft.description>
+
+<TM_FieldTraining.label>Entraînement au combat</TM_FieldTraining.label>
+<TM_FieldTraining.description>Les Voyageurs n'ont pas de capacités spécifiques à une classe, mais ils excellent en combat général.\n\nLes techniques de combat général sont rejetées par la plupart des combattants comme des compétences supplémentaires qui ne nécessitent aucune formation supplémentaire. Le voyageur adopte une autre approche ; en investissant du temps et des efforts dans la compréhension de ces techniques de combat, le voyageur est capable d'améliorer presque toutes les capacités générales en utilité, puissance et efficacité.\n\nVoir les compétences pour plus de détails.</TM_FieldTraining.description>
+
+<Forge_Verb.label>cible secondaire</Forge_Verb.label>
+<Forge_Verb.description>verbe utilisé pour forger la réplication</Forge_Verb.description>
+
+<TM_Herbalist.label>Herboriste</TM_Herbalist.label>
+<TM_Herbalist.description>Une formation en herboristerie permet à l'apothicaire d'identifier et de récolter efficacement les ingrédients nécessaires à ses concoctions.</TM_Herbalist.description>
+
+<TM_PoisonFlask.label>Flacon de poison</TM_PoisonFlask.label>
+<TM_PoisonFlask.description>Lance une préparation nocive qui éclate en un épais nuage de gaz toxique. Le gaz toxique reste à proximité pendant un petit moment avant de se disperser. Toute personne qui inhale les fumées subit des dégâts corrosifs à la gorge et aux poumons.</TM_PoisonFlask.description>
+
+<TM_Elixir.label>Élixir</TM_Elixir.label>
+<TM_Elixir.description>Les élixirs à base de plantes sont créés à partir d'un mélange d'herbes puissantes, d'extraits d'herbes et d'autres matières organiques. La puissance de l'élixir à base de plantes provient de la réaction immédiate des ingrédients lorsqu'ils sont combinés. La réaction chimique a une courte demi-vie, ce qui la rend peu pratique et peu rentable pour une production et une distribution de masse. Lorsqu'il est consommé immédiatement, les effets bénéfiques de l'élixir sur la santé sont suffisamment puissants pour ramener un colon au bord de la mort. Les effets de l'élixir durent presque une journée.</TM_Elixir.description>
+
+<TM_SoothingBalm.label>Baume apaisant</TM_SoothingBalm.label>
+<TM_SoothingBalm.description>Le baume apaisant de l'apothicaire peut être appliqué sur les plaies ouvertes pour combattre l'infection, favoriser la coagulation du sang et réduire la douleur. Les effets secondaires peuvent inclure des hallucinations, un sentiment d'euphorie et une perte de conscience.</TM_SoothingBalm.description>
+
+<TM_Empathy.label>Empathie</TM_Empathy.label>
+<TM_Empathy.description>Un empathe a la capacité de ressentir les émotions de ceux qui l'entourent, de réverbérer ces émotions pour mieux comprendre les sentiments des autres, ou de transmettre ses propres émotions. Ces capacités innées ont été augmentées par des pouvoirs magiques, amplifiant les effets de l'empathie. Les colons qui se trouvent à proximité de l'empathe ressentiront occasionnellement les émotions atténuées de l'empathe, qu'elles soient bonnes ou mauvaises. Plus l'empathe ressent de bonnes émotions, plus les colons à proximité sont susceptibles de ressentir des sentiments empathiques positifs. La maîtrise des capacités empathiques peut en faire un outil efficace de gestion de l'humeur, mais un empathe non entraîné et stressé peut causer le désespoir de toute une colonie.</TM_Empathy.description>
+
+<TM_MindKiller.label>Tueur d'esprit</TM_MindKiller.label>
+<TM_MindKiller.description>Libère un gémissement empathique qui inonde d'émotions tous les colons proches. Les réactions peuvent varier, mais la plupart des organismes vivants ont du mal à gérer la vague d'émotions qui les submerge. Plus l'humeur d'un colon affecté est élevée, plus l'énergie émotionnelle est libérée. Lorsqu'elle n'est pas entraînée, cette compétence peut affecter les alliés proches.</TM_MindKiller.description>
+
+<TM_SuppressiveAura.label>Aura de suppression</TM_SuppressiveAura.label>
+<TM_SuppressiveAura.description>Crée une aura autour de l'empathe qui supprime les émotions des autres colons, leur permettant de ne ressentir que ce que l'empathe souhaite qu'ils ressentent. Avec de l'entraînement, l'empathe peut permettre les émotions positives et supprimer les émotions négatives. Les effets secondaires de l'aura peuvent provoquer le transfert des émotions de l'empathe. Les colons dont les émotions sont supprimées ne connaîtront pas de rupture mentale.</TM_SuppressiveAura.description>
+
+<TM_HarvestPassion.label>Récolte de passion</TM_HarvestPassion.label>
+<TM_HarvestPassion.description>Tente de voler une passion au colon ciblé. Le lanceur de sorts doit sacrifier une inspiration active pour activer cette capacité. Une fois que toute la joie est retirée du colon ciblé, l'effet tente de transférer une passion au lanceur de sorts. La joie du lanceur de sorts est également consommée à chaque itération. Si une passion n'est pas transférée au lanceur de sorts avant que sa joie ne soit épuisée, la capacité prend fin. Le lanceur et la cible subissent tous deux un traumatisme choquant pendant que l'effet est actif. La passion récoltée est toujours aléatoire.</TM_HarvestPassion.description>
+
+<TM_IncitePassion.label>Susciter la passion</TM_IncitePassion.label>
+<TM_IncitePassion.description>Transfère une passion du lanceur de sorts à une cible. Cette capacité est toujours réussie. Cette capacité ne peut pas être utilisée par les esclaves. La passion transférée est toujours aléatoire.</TM_IncitePassion.description>
+
+<TM_FireSuppressionFlask.label>Flacon d'extinction d'incendie</TM_FireSuppressionFlask.label>
+<TM_FireSuppressionFlask.description>Lancer un récipient contenant un liquide extincteur qui étouffe rapidement les flammes.</TM_FireSuppressionFlask.description>
+
+<TM_HerbalClarity.label>Clarté</TM_HerbalClarity.label>
+<TM_HerbalClarity.description>Administre une concoction qui aide le consommateur à s'ouvrir et à devenir plus conscient de la magie. La régénération du mana est augmentée jusqu'à 300% et la sensibilité psychique est augmentée jusqu'à 50%. Les effets diminuent également la stabilité mentale. La clarté dure plusieurs jours mais perd de sa puissance avec le temps. L'utilisation de cette drogue peut être risquée, voire fatale pour un mage, lorsqu'elle est combinée à un événement de drain de mana - à utiliser avec prudence.</TM_HerbalClarity.description>
+
+<TM_HerbalBliss.label>Béatitude</TM_HerbalBliss.label>
+<TM_HerbalBliss.description>Administrer l'une des drogues les plus dangereuses connues dans la région, probablement après le luciferum. Cette drogue plonge le consommateur dans un état de béatitude, capable de masquer complètement presque toutes les émotions et la douleur. Un mélange créatif d'extraits de plantes et d'ingrédients locaux peut être utilisé pour créer cette drogue. Fidèle à l'adage 'L'ignorance c'est le bonheur' cette drogue fait perdre lentement au consommateur ses compétences acquises, et le gain de compétences sous l'influence de cette drogue est fortement diminué.</TM_HerbalBliss.description>
+
+
+
+<TM_FireSuppressionFlask_I.label>Flacon d'extinction d'incendie</TM_FireSuppressionFlask_I.label>
+<TM_FireSuppressionFlask_I.description>Lancer un récipient contenant un liquide extincteur qui étouffe rapidement les flammes.\n		\nPortée : 25\nTemps de recharge : 20\nRayon : 8</TM_FireSuppressionFlask_I.description>
+<TM_FireSuppressionFlask_II.label>Flacon d'extinction d'incendie</TM_FireSuppressionFlask_II.label>
+<TM_FireSuppressionFlask_II.description>Lancer un récipient contenant un liquide extincteur qui étouffe rapidement les flammes.\n		\nPortée: 30\nTemps de recharge : 15\nRayon : 10</TM_FireSuppressionFlask_II.description>
+<TM_FireSuppressionFlask_III.label>Flacon d'extinction d'incendie</TM_FireSuppressionFlask_III.label>
+<TM_FireSuppressionFlask_III.description>Lancer un récipient contenant un liquide extincteur qui étouffe rapidement les flammes.\n		\nPortée: 34\nTemps de recharge : 10\nRayon : 11</TM_FireSuppressionFlask_III.description>
+
+<TM_Symbiosis.label>Symbiose</TM_Symbiosis.label>
+<TM_Symbiosis.description>Lie le destin de l'empathe avec la cible. L'empathe entrera dans un état de vide mental, incapable de contrôler son propre corps alors qu'il projette sa volonté pour renforcer la volonté d'un colon ciblé. L'empathe conservera tout effet ou toute aura préexistants. La cible recevra en retour une force émotionnelle et une force mentale. Le symbiote peut ressentir les séquelles physiques des blessures subies par son hôte. Si l'hôte meurt alors que l'empathe est un symbiote, l'empathe mourra également. La symbiose ne prendra fin qu'à l'expiration de l'humeur de l'empathe.</TM_Symbiosis.description>
+
+<TM_FadeEmotions.label>Émotions disparues</TM_FadeEmotions.label>
+<TM_FadeEmotions.description>Réduit l'humeur de l'empathe et de la cible pour débarrasser la cible des souvenirs négatifs. Après le premier souvenir, chaque souvenir négatif supplémentaire consommera 30 d'humeur de la cible pour être éliminé. L'effet se termine lorsque la cible a moins de 30 d'humeur ou aucun souvenir négatif n'est plus présent. Le premier souvenir consomme toujours 30 d'humeur à la cible. Cette capacité n'a aucun effet sur les modificateurs d'humeur situationnels.</TM_FadeEmotions.description>
+
+<TM_MagicWardrobe.label>Armoire magique</TM_MagicWardrobe.label>
+<TM_MagicWardrobe.description>Une capacité simple qui stocke tous les vêtements équipés dans une poche dimensionnelle. Lorsqu'il est utilisé à nouveau, les vêtements stockés deviennent équipés et tout équipement actuel devient stocké. Fonctionne pour tous les vêtements, mais pas pour les armes ou les objets tenus. Utile pour stocker de l'équipement ou pour changer rapidement d'équipement.</TM_MagicWardrobe.description>
+
+<TM_HeatShield.label>Bouclier thermique</TM_HeatShield.label>
+<TM_HeatShield.description>Place une barrière thermique sur les alliés qui offre un bonus de protection de 75% contre les dégâts de chaleur et empêche de prendre feu. Elle affecte jusqu'à 6 cibles et dure environ 30 secondes.</TM_HeatShield.description>
+
+<TM_AlterStorm.label>Tempête altérée</TM_AlterStorm.label>
+<TM_AlterStorm.description>Modifie le temps pour créer de nouvelles conditions. Une tempête de pluie sera transformée en pluie curative. La neige sera transformée en une tempête de grêle. La tempête de grêle peut être partiellement contrôlée en dirigeant la grêle vers les ennemis sur la carte, mais une fois que ce phénomène météorologique est lancé, il doit suivre son cours et ne peut pas être influencé par Faiseur de pluie.</TM_AlterStorm.description>
+
+
+
+<!-- MàJ du mod 2022.06.05 -->
+<TM_Weapon_WintersFury.label>Furie de l'hiver</TM_Weapon_WintersFury.label>
+<TM_Weapon_WintersFury.description>Couvre la carte de vagues ondulantes de nuages sombres et furieux, portant le souffle mordant de l'hiver.</TM_Weapon_WintersFury.description>
+
+
+
+<!-- MàJ v1.4 -->
+<TM_ConsumeCorpse_Mass.label>Consommer les corps : masse</TM_ConsumeCorpse_Mass.label>
+<TM_ConsumeCorpse_Mass.description>Consommer un groupe de cadavres ou de morts-vivants pour reconstituer le mana. Les vêtements, les objets et l'équipement restent sur place, mais tout le matériel appartenant au cadavre est consommé (viande/cuir).</TM_ConsumeCorpse_Mass.description>
+
+<TM_SpiritPossession.label>Posséder</TM_SpiritPossession.label>
+<TM_SpiritPossession.description>Posséder un corps physique, qu'il soit mort ou vivant. Posséder un corps diminue la vitesse à laquelle l'énergie spirituelle se perd. Les corps ou les animaux décédés peuvent être librement possédés, mais ils ne génèrent pas d'énergie spirituelle par eux-mêmes, seul un autre corps avec un esprit hôte existant génèrera de l'énergie spirituelle. Cependant, un corps déjà occupé est plus difficile à posséder et l'esprit possesseur peut se battre avec l'esprit original de l'hôte. Si l'esprit a encore de l'énergie, il s'extrait du corps et redevient un esprit errant. Si l'énergie d'un esprit est complètement épuisée, il cessera d'exister. Lorsqu'un esprit quitte un corps, ce dernier retrouve son état ou son propriétaire d'origine. L'énergie spirituelle peut être obtenue en siphonnant de l'énergie par le biais de blessures physiques, en utilisant le Drain d'esprit ou par la méditation. Tuer un autre colon avec le drain d'esprit absorbe une grande quantité d'esprit. Le corps d'un colon possédé ne se rétablit pas naturellement, et ne guérit des blessures et des maladies que lorsqu'il gagne de l'énergie spirituelle.</TM_SpiritPossession.description>
+
+<TM_SpiritDrain.label>Drain d'esprit</TM_SpiritDrain.label>
+<TM_SpiritDrain.description>Draine l'esprit d'un être vivant pour restaurer l'énergie spirituelle du lanceur de sorts.</TM_SpiritDrain.description>
+
+<TM_DistortSpirit.label>Déformer l'esprit (I)</TM_DistortSpirit.label>
+<TM_DistortSpirit.description>Déforme l'équilibre entre l'esprit et le corps des colons vivants dans une large zone. Les colons souffrant de distorsion de l'esprit subissent 20% de dégâts supplémentaires, toutes sources confondues.\n	\nPortée : 35\nIncantation : 3s\nTemps de recharge : 60s</TM_DistortSpirit.description>
+<TM_DistortSpirit_I.label>Déformer l'esprit (II)</TM_DistortSpirit_I.label>
+<TM_DistortSpirit_I.description>Déforme l'équilibre entre l'esprit et le corps des colons vivants dans une large zone. Les colons souffrant de distorsion de l'esprit subissent 20% de dégâts supplémentaires, toutes sources confondues.\n	\nPortée : 40\nIncantation : 2s\nTemps de recharge : 45s</TM_DistortSpirit_I.description>
+<TM_DistortSpirit_II.label>Déformer l'esprit (III)</TM_DistortSpirit_II.label>
+<TM_DistortSpirit_II.description>Déforme l'équilibre entre l'esprit et le corps des colons vivants dans une large zone. Les colons souffrant de distorsion de l'esprit subissent 20% de dégâts supplémentaires, toutes sources confondues..\n	\nPortée : 45\nIncantation : 1.5s\nTemps de recharge : 30s</TM_DistortSpirit_II.description>
+<TM_DistortSpirit_III.label>Déformer l'esprit (IV)</TM_DistortSpirit_III.label>
+<TM_DistortSpirit_III.description>Déforme l'équilibre entre l'esprit et le corps des colons vivants dans une large zone. Les colons souffrant de distorsion de l'esprit subissent 20% de dégâts supplémentaires, toutes sources confondues.\n	\nPortée : 50\nIncantation : 1s\nTemps de recharge : 20s</TM_DistortSpirit_III.description>
+
+<TM_SummonSpiritAnimalMass.label>Esprit d'animaux</TM_SummonSpiritAnimalMass.label>
+<TM_SummonSpiritAnimalMass.description>Invoque 1 de chaque animal spirituel pour une courte durée.</TM_SummonSpiritAnimalMass.description>
+
+<TM_SpiritRally.label>Rassemblement d'esprits (I)</TM_SpiritRally.label>
+<TM_SpiritRally.description>Demande l'aide de colons récemment décédés pour qu'ils prennent la forme d'un loup-esprit et aident le lanceur de sorts pendant une courte durée. Rassemblement d'esprits n'est efficace que lorsqu'il est lancé à proximité de cadavres. Chaque cadavre peut générer un esprit.\n\nIncantation : 2s\nTemps de recharge : 45s</TM_SpiritRally.description>
+<TM_SpiritRally_I.label>Rassemblement d'esprits (II)</TM_SpiritRally_I.label>
+<TM_SpiritRally_I.description>Demande l'aide de colons récemment décédés pour qu'ils prennent la forme d'un loup-esprit et aident le lanceur de sorts pendant une courte durée. Rassemblement d'esprits n'est efficace que lorsqu'il est lancé à proximité de cadavres. Chaque cadavre peut générer un esprit.\n\nIncantation : 1s\nTemps de recharge : 30s</TM_SpiritRally_I.description>
+<TM_SpiritRally_II.label>Rassemblement d'esprits (III)</TM_SpiritRally_II.label>
+<TM_SpiritRally_II.description>Demande l'aide de colons récemment décédés pour qu'ils prennent la forme d'un loup-esprit et aident le lanceur de sorts pendant une courte durée. Rassemblement d'esprits n'est efficace que lorsqu'il est lancé à proximité de cadavres. Chaque cadavre peut générer un esprit.\n\nIncantation : .5s\nTemps de recharge : 20s</TM_SpiritRally_II.description>
+<TM_SpiritRally_III.label>Rassemblement d'esprits (IV)</TM_SpiritRally_III.label>
+<TM_SpiritRally_III.description>Demande l'aide de colons récemment décédés pour qu'ils prennent la forme d'un loup-esprit et aident le lanceur de sorts pendant une courte durée. Rassemblement d'esprits n'est efficace que lorsqu'il est lancé à proximité de cadavres. Chaque cadavre peut générer un esprit.\n\nIncantation : 0s\nTemps de recharge : 15s</TM_SpiritRally_III.description>
+
+<TM_SpiritStorm.label>Tempête d'esprits</TM_SpiritStorm.label>
+<TM_SpiritStorm.description>Crée une balise spirituelle qui attire les esprits de la défaite, de la rancune et de la vengeance. L'essaim d'esprits en colère se transforme rapidement en un tourbillon qui arrache la réalité et l'espoir. Les esprits malveillants de cette tempête chercheront les esprits des êtres vivants pour leur infliger leurs souffrances. La direction de la tempête d'esprits peut être contrôlée pendant une courte période après sa création.</TM_SpiritStorm.description>
+
+<TM_ControlSpiritStorm.label>Contrôler la tempête d'esprits</TM_ControlSpiritStorm.label>
+<TM_ControlSpiritStorm.description>Dirige les esprits de la tempête vers un endroit désigné.</TM_ControlSpiritStorm.description>
+
+
+</LanguageData>

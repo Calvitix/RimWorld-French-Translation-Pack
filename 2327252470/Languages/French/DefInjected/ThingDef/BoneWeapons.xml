@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: lance d'os -->
+  <VBY_BoneSpear.label>lance d'os</VBY_BoneSpear.label>
+  <!-- EN: Une pièce de bois solide avec un fragment d'os attaché à l'extrémité. Parfait pour chasser le gibier ou défendre la colonie. -->
+  <VBY_BoneSpear.description>Une pièce de bois solide avec un fragment d'os attaché à l'extrémité. Parfait pour chasser le gibier ou défendre la colonie.</VBY_BoneSpear.description>
+  <!-- EN: shaft -->
+  <VBY_BoneSpear.tools.shaft.label>emmanche</VBY_BoneSpear.tools.shaft.label>
+  <!-- EN: point -->
+  <VBY_BoneSpear.tools.point.label>point</VBY_BoneSpear.tools.point.label>
+  
+</LanguageData>

@@ -1,0 +1,1198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+		<!-- +++++ ActivateAbility_Item +++++ -->
+<MagicArtifact_RerollSpiritBond.label>parchemin de lien d'esprit</MagicArtifact_RerollSpiritBond.label>
+<MagicArtifact_RerollSpiritBond.description>Ce parchemin peut être utilisé pour changer l’esprit animal du chaman. Le nouveau lien choisira au hasard un nouveau type d'esprit à lier.</MagicArtifact_RerollSpiritBond.description>
+<MagicArtifact_RerollSpiritBond.comps.CompUsable.useLabel>Utiliser</MagicArtifact_RerollSpiritBond.comps.CompUsable.useLabel>
+
+<TM_Artifact_ClassExtraction.label>éclat d'extraction d'esprit</TM_Artifact_ClassExtraction.label>
+<TM_Artifact_ClassExtraction.description>Cet éclat mystérieux est capable d'extraire les talents martiaux ou magiques d'un colon et de les convertir en essence. L’éclat est détruit après utilisation.\n	\n*Remarque : cet objet supprime complètement la classe du colon et toutes les capacités et compétences associées. Le colon peut apprendre une autre classe à la suite d'une extraction d'esprit.</TM_Artifact_ClassExtraction.description>
+<TM_Artifact_ClassExtraction.comps.CompUsable.useLabel>Utiliser l’éclat d'extraction d'esprit</TM_Artifact_ClassExtraction.comps.CompUsable.useLabel>
+
+<TM_MagicArtifact_MightEssence.label>essence de puissance</TM_MagicArtifact_MightEssence.label>
+<TM_MagicArtifact_MightEssence.description>L'essence de la compétence martiale brute. Absorber l'essence confère de l'expérience martiale.</TM_MagicArtifact_MightEssence.description>
+<TM_MagicArtifact_MightEssence.comps.CompUsable.useLabel>Utiliser l'essence de puissance</TM_MagicArtifact_MightEssence.comps.CompUsable.useLabel>
+
+<TM_MagicArtifact_MagicEssence.label>essence de magie</TM_MagicArtifact_MagicEssence.label>
+<TM_MagicArtifact_MagicEssence.description>L'essence de la compétence brute et magique. Absorber l'essence confère de l'expérience magique.</TM_MagicArtifact_MagicEssence.description>
+<TM_MagicArtifact_MagicEssence.comps.CompUsable.useLabel>Utiliser l'essence de magie</TM_MagicArtifact_MagicEssence.comps.CompUsable.useLabel>
+
+
+		<!-- +++++ Building_ManaStorage +++++ -->
+<TM_ArcaneCapacitor.label>condensateur magique</TM_ArcaneCapacitor.label>
+<TM_ArcaneCapacitor.description>Le condensateur magique est capable de stocker le mana sous forme d'énergie potentielle que les mages peuvent utiliser ultérieurement. Les mages affectés à des tâches magiques chargeront la batterie jusqu'à ce qu'elle atteigne le niveau de remplissage fixé. Un mage n'effectuera cette tâche que si son niveau de mana est supérieur à 90 % de son maximum.\n\nLe condensateur magique déchargera du mana à tout colon non Mobilisé à portée si le ratio de mana du condensateur est supérieur à 250% du mage. Les mages Mobilisé puiseront de force du mana dans le condensateur jusqu'à ce que le condensateur soit vide ou que le mage ait 90% ou plus de mana.\n\nUne partie du mana est perdue pendant le processus de décharge.\nEfficacité : 71%.</TM_ArcaneCapacitor.description>
+
+<TM_DimensionalManaPocket.label>poche de mana dimensionnelle</TM_DimensionalManaPocket.label>
+<TM_DimensionalManaPocket.description>La poche de mana dimensionnelle stocke une énorme quantité de mana et dispose d'une grande zone de distribution, mais elle est plus lente que le condensateur magique à le redistribuer en cas de besoin.\n\nLes mages affectés à des tâches magiques stockeront du mana dans la poche dimensionnelle jusqu'à ce qu'elle atteigne son niveau de remplissage. Un mage n'effectuera cette tâche que si son niveau de mana est supérieur à 90 % de son maximum.\n\nLa poche dimensionnelle déchargera du mana à tout colon non Mobilisé à portée si son mana est inférieur à 40% et à tout mage Mobilisé dont le mana est inférieur à 80%.\n\nUne partie du mana est perdue pendant le processus de chargement et de déchargement.\nEfficacité : 80%.</TM_DimensionalManaPocket.description>
+
+
+		<!-- +++++ Building_Portal +++++ -->
+<TM_Portal.label>portail</TM_Portal.label>
+<TM_Portal.description>Voyage instantané entre deux portails.</TM_Portal.description>
+
+<TM_ElementalRift.label>faille élémentaire</TM_ElementalRift.label>
+<TM_ElementalRift.description>Une faille causée par des élémentaires malveillants.</TM_ElementalRift.description>
+
+<TM_ElementalRift_Defenders.label>faille élémentaire</TM_ElementalRift_Defenders.label>
+<TM_ElementalRift_Defenders.description>Une faille créée par un chercheur du vide.</TM_ElementalRift_Defenders.description>
+
+
+		<!-- +++++ Buildings_Magic_Production +++++ -->
+<TableGemcutting.label>table d'orfèvrerie</TableGemcutting.label>
+<TableGemcutting.description>Un établi utilisé pour raffiner les pierres d'enchantement.</TableGemcutting.description>
+
+<TableMagicPrinter.label>table de scribe</TableMagicPrinter.label>
+<TableMagicPrinter.description>Une presse à imprimer utilisée pour fabriquer des livres et des parchemins.</TableMagicPrinter.description>
+
+<TableArcaneForge.label>forge magique</TableArcaneForge.label>
+<TableArcaneForge.description>La forge magique permet à un mage d'utiliser la puissance magique brute pour créer des objets physiques.\n\nScientifiquement, la forge magique peut être décrite comme un fabricant de matière, bien que les mécanismes exacts restent à déterminer. Seuls ceux qui possèdent la capacité de manipuler la puissance magique sont capables d'utiliser la forge magique.\n\nL'utilisation de la forge magique augmente considérablement la vitesse de fabrication mais consomme du mana. La qualité des objets est déterminée par la compétence d'intelligence et le niveau de classe du mage.</TableArcaneForge.description>
+
+<TableMagicCircle.label>cercle magique</TableMagicCircle.label>
+<TableMagicCircle.description>Le cercle magique est une construction qui amplifie la magie en alignant le physique et la magie en un point focal. Bien qu'il puisse sembler simple, le cercle est orné de runes élaborées et construit avec une grande précision.\n\nLes mages peuvent utiliser le cercle magique pour augmenter leur pouvoir ou combiner leur énergie avec d'autres mages pour créer des effets uniques et puissants. Le cercle peut accueillir jusqu'à six mages.\n\nLe type de matériau utilisé pour la construction affecte directement la qualité du cercle magique.\nPierre (toute) : aucun bonus\nAcier : aucun bonus\nBois : aucun bonus\nJade : chances de réussite +30%\nArgent : réduit de 25% le coût en matériaux\nPlastacier : points d'événement +15%, durée +10%\nOr : points d'événement +20%, durée +20%, réduit de 15% le coût en matériaux\nUranium : durée et chances de réussite +20%\nArcalleum : chances de réussite +15%, réduit de 25% le coût en mana\n\n*Note de l'administrateur : le cercle s'alimente lui-même lorsqu'il détecte des mages capables d'accomplir le rituel.</TableMagicCircle.description>
+
+<TableSmallMagicCircle.label>point focal magique</TableSmallMagicCircle.label>
+<TableSmallMagicCircle.description>Le point focal magique est un sous-produit de la recherche sur les alignement des lignes magiques et l'interconnexion magique. Le point focal permet à un mage de visualiser sa connexion avec Gaia et les autres mages, ce qui lui permet de mieux interagir avec la nature, l'ordre et le chaos. Le point focal peut relier la puissance magique de deux mages pour réaliser des rituels puissants.\n\nLe type de matériau utilisé pour la construction affecte directement la qualité du cercle magique.\nPierre (toute) : aucun bonus\nAcier : aucun bonus\nBois : aucun bonus\nJade : chances de réussite +30%\nArgent : réduit de 25% le coût en matériaux\nPlastacier : points d'événement +15%, durée +10%\nOr : points d'événement +20%, durée +20%, réduit de 15% le coût en matériaux\nUranium : durée et chances de réussite +20%\nArcalleum : chances de réussite +15%, réduit de 25% le coût en mana\n\n*Note de l'administrateur : le cercle s'alimente lui-même lorsqu'il détecte des mages capables d'accomplir le rituel. Les mages ne peuvent pas être forcés à travailler au point focal, mais ils accompliront les rituels lorsque les conditions seront réunies.</TableSmallMagicCircle.description>
+
+
+		<!-- +++++ Buildings_Summonable +++++ -->
+<TM_Teleporter.label>téléporteur</TM_Teleporter.label>
+<TM_Teleporter.description>Une plateforme de portail utilisée pour contenir des capsules de téléportation.</TM_Teleporter.description>
+<TM_Teleporter_I.label>téléporteur (I)</TM_Teleporter_I.label>
+<TM_Teleporter_I.description>Une plateforme de portail utilisée pour contenir des capsules de téléportation.</TM_Teleporter_I.description>
+<TM_Teleporter_II.label>téléporteur (II)</TM_Teleporter_II.label>
+<TM_Teleporter_II.description>Une plateforme de portail utilisée pour contenir des capsules de téléportation.</TM_Teleporter_II.description>
+<TM_Teleporter_III.label>téléporteur (III)</TM_Teleporter_III.label>
+<TM_Teleporter_III.description>Une plateforme de portail utilisée pour contenir des capsules de téléportation.</TM_Teleporter_III.description>
+
+<TM_TeleportPod.label>capsule de téléportation</TM_TeleportPod.label>
+<TM_TeleportPod.description>Grand cylindre plat utilisé par les sorciers pour se déplacer rapidement d'un endroit à un autre.</TM_TeleportPod.description>
+<TM_TeleportPod_I.label>capsule de téléportation (I)</TM_TeleportPod_I.label>
+<TM_TeleportPod_I.description>Grand cylindre plat utilisé par les sorciers pour se déplacer rapidement d'un endroit à un autre.</TM_TeleportPod_I.description>
+<TM_TeleportPod_II.label>capsule de téléportation (II)</TM_TeleportPod_II.label>
+<TM_TeleportPod_II.description>Grand cylindre plat utilisé par les sorciers pour se déplacer rapidement d'un endroit à un autre.</TM_TeleportPod_II.description>
+<TM_TeleportPod_III.label>capsule de téléportation (III)</TM_TeleportPod_III.label>
+<TM_TeleportPod_III.description>Grand cylindre plat utilisé par les sorciers pour se déplacer rapidement d'un endroit à un autre.</TM_TeleportPod_III.description>
+
+<Portfuel.label>magifuel</Portfuel.label>
+<Portfuel.description>De l'énergie magique mise en bouteille comme carburant. Utilisé pour alimenter les portails.</Portfuel.description>
+
+<TM_Heater.label>chaleur magique</TM_Heater.label>
+<TM_Heater.description>Une source dimensionnelle active dans le plan du feu qui peut être utilisée pour chauffer des espaces confinés. Peut également être utilisé pour diverses tâches de cuisson ou de crémation. Demeure tant qu'il est maintenu par un mage.</TM_Heater.description>
+
+<TM_Cooler.label>fraîcheur magique</TM_Cooler.label>
+<TM_Cooler.description>Une sphère dimensionnelle active dans le plan de la glace qui peut être utilisée pour refroidir des espaces confinés.</TM_Cooler.description>
+
+<TM_PowerNode.label>énergie magique</TM_PowerNode.label>
+<TM_PowerNode.description>Un nœud d'énergie magique qui fournit de l'énergie tant qu'il est maintenu par un mage.</TM_PowerNode.description>
+
+<TM_Sunlight.label>lumière solaire</TM_Sunlight.label>
+<TM_Sunlight.description>Une sphère dimensionnelle émettant une source continue de lumière assez puissante pour faire pousser des plantes.</TM_Sunlight.description>
+
+<TM_Sentinel.label>sentinelle</TM_Sentinel.label>
+<TM_Sentinel.description>Cette statue est faite de pierre et a la forme d'une créature terrifiante. La statue est plus petite qu'une personne moyenne et a l'apparence d'une coupe grossière et de qualité, cependant, vous remarquez que les yeux, les oreilles et les griffes semblent avoir des détails plus fins.\n\nAlors que vous vous approchez de la statue, une étrange lueur provenant des yeux de la sentinelle de pierre semble vous suivre, et vous avez l'impression d'être observé.</TM_Sentinel.description>
+
+<TM_MageLightTD.label>lumière magique</TM_MageLightTD.label>
+<TM_MageLightTD.description>Une source de lumière créée par un mage.</TM_MageLightTD.description>
+
+<TM_LightPod.label>rayon de Lumière</TM_LightPod.label>
+<TM_LightPod.description>Transporter dans un rayon de lumière.</TM_LightPod.description>
+
+
+		<!-- +++++ Buildings_SummonedSecurity +++++ -->
+<TM_PoisonTrap.label>piège de poison</TM_PoisonTrap.label>
+<TM_PoisonTrap.description>Un piège créé à partir de bâtons et de ficelles, il se fond parfaitement dans le paysage pour un œil non averti, mais il est parfumé de manière à constituer un avertissement sans équivoque pour les animaux. Des particules de poison druidique sont libérées dans l'air lorsqu'une victime déclenche le piège. Le poison est toxique et sert à la fois à blesser et à neutraliser la victime.</TM_PoisonTrap.description>
+
+<TM_Trap_Lightning.label>piège de foudre</TM_Trap_Lightning.label>
+<TM_Trap_Lightning.description>Un piège créé en maintenant la foudre élémentaire à l'intérieur d'une barrière magique ; il libère l'énergie qu'il contient lorsqu'un ennemi perturbe le flux magique à proximité.</TM_Trap_Lightning.description>
+
+<TM_ManaMine.label>mine de Mana</TM_ManaMine.label>
+<TM_ManaMine.description>Un puissant explosif créé par la compression du mana et de la matière. Des filaments de pouvoir psychique s'étendent depuis la mine ; lorsqu'une victime perturbe le filament psychique, le champ de compression s'effondre et la mine explose. Rayon d'explosion 2,4 m.</TM_ManaMine.description>
+<TM_ManaMine_I.label>mine de Mana</TM_ManaMine_I.label>
+<TM_ManaMine_I.description>Un puissant explosif créé par la compression du mana et de la matière. Des filaments de pouvoir psychique s'étendent depuis la mine ; lorsqu'une victime perturbe le filament psychique, le champ de compression s'effondre et la mine explose. Rayon d'explosion 2.9 m.</TM_ManaMine_I.description>
+<TM_ManaMine_II.label>mine de Mana</TM_ManaMine_II.label>
+<TM_ManaMine_II.description>Un puissant explosif créé par la compression du mana et de la matière. Des filaments de pouvoir psychique s'étendent depuis la mine ; lorsqu'une victime perturbe le filament psychique, le champ de compression s'effondre et la mine explose. Rayon d'explosion 3.8 m.</TM_ManaMine_II.description>
+<TM_ManaMine_III.label>mine de Mana</TM_ManaMine_III.label>
+<TM_ManaMine_III.description>Un puissant explosif créé par la compression du mana et de la matière. Des filaments de pouvoir psychique s'étendent depuis la mine ; lorsqu'une victime perturbe le filament psychique, le champ de compression s'effondre et la mine explose. Rayon d'explosion 4.7 m.</TM_ManaMine_III.description>
+
+<DefensePylon.label>pylône magique de défense</DefensePylon.label>
+<DefensePylon.description>Un pylône magique de défense. Créé en matérialisant l'énergie magique pour former une base, puis en canalisant le courant magique vers un point focal qui émet des rafales d'énergie brute.</DefensePylon.description>
+<Launcher_DefensePylon.label>point de focus énergétique</Launcher_DefensePylon.label>
+<Launcher_DefensePylon.description>Point focal d'un pylône magique de défense, capable de collecter et d'émettre des rafales d'énergie magique brute.</Launcher_DefensePylon.description>
+<Launcher_DefensePylon.verbs.Verb_Shoot.label>point de focus énergétique</Launcher_DefensePylon.verbs.Verb_Shoot.label>
+<Bullet_DefensePylon.label>énergie magique concentrée</Bullet_DefensePylon.label>
+
+<DefensePylon_I.label>pylône magique de défense (I)</DefensePylon_I.label>
+<DefensePylon_I.description>Un pylône magique de défense. Créé en matérialisant l'énergie magique pour former une base, puis en canalisant le courant magique vers un point focal qui émet des rafales d'énergie brute.</DefensePylon_I.description>
+<Launcher_DefensePylon_I.label>point de focus énergétique</Launcher_DefensePylon_I.label>
+<Launcher_DefensePylon_I.description>Point focal d'un pylône magique de défense, capable de collecter et d'émettre des rafales d'énergie magique brute.</Launcher_DefensePylon_I.description>
+<Launcher_DefensePylon_I.verbs.Verb_Shoot.label>point de focus énergétique</Launcher_DefensePylon_I.verbs.Verb_Shoot.label>
+
+<DefensePylon_II.label>pylône magique de défense (II)</DefensePylon_II.label>
+<DefensePylon_II.description>Un pylône magique de défense. Créé en matérialisant l'énergie magique pour former une base, puis en canalisant le courant magique vers un point focal qui émet des rafales d'énergie brute.</DefensePylon_II.description>
+<Launcher_DefensePylon_II.label>point de focus énergétique</Launcher_DefensePylon_II.label>
+<Launcher_DefensePylon_II.description>Point focal d'un pylône magique de défense, capable de collecter et d'émettre des rafales d'énergie magique brute.</Launcher_DefensePylon_II.description>
+<Launcher_DefensePylon_II.verbs.Verb_Shoot.label>point de focus énergétique</Launcher_DefensePylon_II.verbs.Verb_Shoot.label>
+
+<DefensePylon_III.label>pylône magique de défense (III)</DefensePylon_III.label>
+<DefensePylon_III.description>Un pylône magique de défense. Créé en matérialisant l'énergie magique pour former une base, puis en canalisant le courant magique vers un point focal qui émet des rafales d'énergie brute.</DefensePylon_III.description>
+<Launcher_DefensePylon_III.label>point de focus énergétique</Launcher_DefensePylon_III.label>
+<Launcher_DefensePylon_III.description>Point focal d'un pylône magique de défense, capable de collecter et d'émettre des rafales d'énergie magique brute.</Launcher_DefensePylon_III.description>
+<Launcher_DefensePylon_III.verbs.Verb_Shoot.label>point de focus énergétique</Launcher_DefensePylon_III.verbs.Verb_Shoot.label>
+
+<TM_ArcaneBarrier.label>barrière magique</TM_ArcaneBarrier.label>
+<TM_ArcaneBarrier.description>Un mur infranchissable fait de puissance magique solidifiée. Fournit une protection ou crée une barrière infranchissable.</TM_ArcaneBarrier.description>
+
+<TM_TechnoTurret_Base.label>mark-IV</TM_TechnoTurret_Base.label>
+<TM_TechnoTurret_Base.description>Le Mark-IV est une tourelle déployable qui offre la puissance de feu d'un système d'armement lourd. Elle utilise la miniaturisation pour permettre à l'utilisateur de transporter facilement le système lorsqu'il ne l'utilise pas. Le composant clé du Mark-IV est le convertisseur de matière qui utilise l'énergie brute pour réparer et réapprovisionner la tourelle lorsqu'elle est miniaturisée, permettant une conversion nominale de l'énergie en matière. Cependant, même en utilisant du plastacier et de l'hyperfibre pour renforcer le système d'armement, le matériau n'était tout simplement pas en mesure de résister à la pression exercée sur lui pendant le processus de conversion et était très susceptible de se briser et d'entraîner la défaillance des composants.\n\nLes technomanciens ont depuis adapté le système et utilisent leur contrôle de l'énergie magique pour fournir à la tourelle des munitions lorsqu'elle est déployée et de l'énergie pour les réparations et le processus de miniaturisation.\n\nEn raison de son poids, le Mark-IV ne peut pas être déplacé lorsqu'il est déployé.</TM_TechnoTurret_Base.description>
+<TM_TechnoTurret_Base_RL.label>mark-IV</TM_TechnoTurret_Base_RL.label>
+<TM_TechnoTurret_Base_RL.description>Le Mark-IV est une tourelle déployable qui offre la puissance de feu d'un système d'armement lourd. Elle utilise la miniaturisation pour permettre à l'utilisateur de transporter facilement le système lorsqu'il ne l'utilise pas. Le composant clé du Mark-IV est le convertisseur de matière qui utilise l'énergie brute pour réparer et réapprovisionner la tourelle lorsqu'elle est miniaturisée, permettant une conversion nominale de l'énergie en matière. Cependant, même en utilisant du plastacier et de l'hyperfibre pour renforcer le système d'armement, le matériau n'était tout simplement pas en mesure de résister à la pression exercée sur lui pendant le processus de conversion et était très susceptible de se briser et d'entraîner la défaillance des composants.\n\nLes technomanciens ont depuis adapté le système et utilisent leur contrôle de l'énergie magique pour fournir à la tourelle des munitions lorsqu'elle est déployée et de l'énergie pour les réparations et le processus de miniaturisation.\n\nEn raison de son poids, le Mark-IV ne peut pas être déplacé lorsqu'il est déployé.</TM_TechnoTurret_Base_RL.description>
+<TM_TechnoTurret_Base_RL_MTR.label>mark-IV</TM_TechnoTurret_Base_RL_MTR.label>
+<TM_TechnoTurret_Base_RL_MTR.description>Le Mark-IV est une tourelle déployable qui offre la puissance de feu d'un système d'armement lourd. Elle utilise la miniaturisation pour permettre à l'utilisateur de transporter facilement le système lorsqu'il ne l'utilise pas. Le composant clé du Mark-IV est le convertisseur de matière qui utilise l'énergie brute pour réparer et réapprovisionner la tourelle lorsqu'elle est miniaturisée, permettant une conversion nominale de l'énergie en matière. Cependant, même en utilisant du plastacier et de l'hyperfibre pour renforcer le système d'armement, le matériau n'était tout simplement pas en mesure de résister à la pression exercée sur lui pendant le processus de conversion et était très susceptible de se briser et d'entraîner la défaillance des composants.\n\nLes technomanciens ont depuis adapté le système et utilisent leur contrôle de l'énergie magique pour fournir à la tourelle des munitions lorsqu'elle est déployée et de l'énergie pour les réparations et le processus de miniaturisation.\n\nEn raison de son poids, le Mark-IV ne peut pas être déplacé lorsqu'il est déployé.</TM_TechnoTurret_Base_RL_MTR.description>
+
+<Bullet_Mark-IV.label>tir Mark-IV</Bullet_Mark-IV.label>
+<Gun_Mark-IV.label>système d'arme Mark-IV</Gun_Mark-IV.label>
+<Gun_Mark-IV.description>Canon du système d'arme Mark-IV et commandes de tir.</Gun_Mark-IV.description>
+<Gun_Mark-IV.verbs.Verb_Shoot.label>système d'arme Mark-IV</Gun_Mark-IV.verbs.Verb_Shoot.label>
+<Gun_Mark-IV_RL.label>système d'arme Mark-IV</Gun_Mark-IV_RL.label>
+<Gun_Mark-IV_RL.description>Canon du système d'arme Mark-IV et commandes de tir.</Gun_Mark-IV_RL.description>
+<Gun_Mark-IV_RL.verbs.Verb_Shoot.label>système d'arme Mark-IV</Gun_Mark-IV_RL.verbs.Verb_Shoot.label>
+<Gun_Mark-IV_RL_MTR.label>système d'arme Mark-IV</Gun_Mark-IV_RL_MTR.label>
+<Gun_Mark-IV_RL_MTR.description>Canon du système d'arme Mark-IV et commandes de tir.</Gun_Mark-IV_RL_MTR.description>
+<Gun_Mark-IV_RL_MTR.verbs.Verb_Shoot.label>système d'arme Mark-IV</Gun_Mark-IV_RL_MTR.verbs.Verb_Shoot.label>
+
+<FlyingObject_RocketSmall.label>petite roquette</FlyingObject_RocketSmall.label>
+
+<Bullet_Shell_TechnoTurretExplosive.label>HE obus</Bullet_Shell_TechnoTurretExplosive.label>
+
+<TM_60mmMortar_Base.label>tube de mortier 60 mm</TM_60mmMortar_Base.label>
+<TM_60mmMortar_Base.description>Le mortier de 60 mm est un système de tir indirect personnellement transportable et déployable. En raison du poids du système, les obus sont généralement répartis pour le transport. Le système est destiné au tir indirect et seuls les amateurs tentent de l'utiliser pour le tir direct, car il est à la fois imprécis et expose l'homme-mortier.\n\nLa portée et la puissance de feu du système sont limitées par rapport aux systèmes stationnaires en raison de la capacité de confinement du tube de mortier et de la cartouche à effet de souffle.</TM_60mmMortar_Base.description>
+<FlyingObject_60mmMortar.label>mortier 60 mm</FlyingObject_60mmMortar.label>
+
+<TM_LightningTotem.label>totem de foudre</TM_LightningTotem.label>
+<TM_LightningTotem.description>Un totem chamanique décoré de sculptures élaborées et excentriques et crépitant de foudre élémentaire.</TM_LightningTotem.description>
+
+<TM_HealingTotem.label>totem de soins</TM_HealingTotem.label>
+<TM_HealingTotem.description>Un totem chamanique décoré de formes fluides et complémentaires. Le totem de soins est capable de solliciter des esprits amis qui redonneront vigueur et santé aux alliés proches.</TM_HealingTotem.description>
+
+<TM_EarthTotem.label>totem de terre</TM_EarthTotem.label>
+<TM_EarthTotem.description>Un totem chamanique orné de sculptures symétriques et dégageant un sentiment de solidarité. Le lien du totem avec la terre lui permet de provoquer des ondes sismiques qui font vaciller les ennemis proches.</TM_EarthTotem.description>
+
+
+		<!-- +++++ Item_EnchantmentStones +++++ -->
+<TM_EStone_maxMP_minor.label>gemme magique mineure de réserve</TM_EStone_maxMP_minor.label>
+<TM_EStone_maxMP_minor.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Regarder dans la pierre donne à l'observateur une étrange sensation de vertige, comme s'il regardait dans un puits sans fond. Lorsqu'elle est imprégnée dans un objet, cette gemme augmente l'énergie maximale du mage ou du combattant qui porte l'objet de 5%.</TM_EStone_maxMP_minor.description>
+
+<TM_EStone_maxMP.label>gemme magique de réserve</TM_EStone_maxMP.label>
+<TM_EStone_maxMP.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Regarder dans la pierre donne à l'observateur une étrange sensation de vertige, comme s'il regardait dans un puits sans fond. Lorsqu'elle est imprégnée dans un objet, cette gemme augmente l'énergie maximale du mage ou du combattant qui porte l'objet de 10%.</TM_EStone_maxMP.description>
+
+<TM_EStone_maxMP_major.label>gemme magique majeure de réserve</TM_EStone_maxMP_major.label>
+<TM_EStone_maxMP_major.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Regarder dans la pierre donne à l'observateur une étrange sensation de vertige, comme s'il regardait dans un puits sans fond. Lorsqu'elle est imprégnée dans un objet, cette gemme augmente l'énergie maximale du mage ou du combattant qui porte l'objet de 15%.</TM_EStone_maxMP_major.description>
+
+<TM_EStone_mpRegenRate_minor.label>gemme magique mineure de régénération</TM_EStone_mpRegenRate_minor.label>
+<TM_EStone_mpRegenRate_minor.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme augmente le taux de régénération d'énergie du mage ou du combattant portant l'objet de 5%.</TM_EStone_mpRegenRate_minor.description>
+
+<TM_EStone_mpRegenRate.label>gemme magique de régénération</TM_EStone_mpRegenRate.label>
+<TM_EStone_mpRegenRate.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme augmente le taux de régénération d'énergie du mage ou du combattant portant l'objet de 10%.</TM_EStone_mpRegenRate.description>
+
+<TM_EStone_mpRegenRate_major.label>gemme magique majeure de régénération</TM_EStone_mpRegenRate_major.label>
+<TM_EStone_mpRegenRate_major.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme augmente le taux de régénération d'énergie du mage ou du combattant portant l'objet de 15%.</TM_EStone_mpRegenRate_major.description>
+
+<TM_EStone_mpCost_minor.label>gemme magique mineure de préservation</TM_EStone_mpCost_minor.label>
+<TM_EStone_mpCost_minor.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme diminue le coût en énergie de tous les sorts de 3%.</TM_EStone_mpCost_minor.description>
+
+<TM_EStone_mpCost.label>gemme magique de préservation</TM_EStone_mpCost.label>
+<TM_EStone_mpCost.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme diminue le coût en énergie de tous les sorts de 5%.</TM_EStone_mpCost.description>
+
+<TM_EStone_mpCost_major.label>gemme magique majeure de préservation</TM_EStone_mpCost_major.label>
+<TM_EStone_mpCost_major.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme diminue le coût en énergie de tous les sorts de 7%.</TM_EStone_mpCost_major.description>
+
+<TM_EStone_coolDown_minor.label>gemme magique mineure d'accélération</TM_EStone_coolDown_minor.label>
+<TM_EStone_coolDown_minor.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme diminue le temps de recharge de n'importe quelle capacité de 3%.</TM_EStone_coolDown_minor.description>
+
+<TM_EStone_coolDown.label>gemme magique d'accélération</TM_EStone_coolDown.label>
+<TM_EStone_coolDown.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme diminue le temps de recharge de n'importe quelle capacité de 5%.</TM_EStone_coolDown.description>
+
+<TM_EStone_coolDown_major.label>gemme magique majeure d'accélération</TM_EStone_coolDown_major.label>
+<TM_EStone_coolDown_major.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme diminue le temps de recharge de n'importe quelle capacité de 7%.</TM_EStone_coolDown_major.description>
+
+<TM_EStone_xpGain_minor.label>gemme magique mineure d'apprentissage</TM_EStone_xpGain_minor.label>
+<TM_EStone_xpGain_minor.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme aide le porteur en stockant une réplique résiduelle de la compétence, permettant au porteur une introspection supplémentaire et augmentant l'XP gagnée de 5%.</TM_EStone_xpGain_minor.description>
+
+<TM_EStone_xpGain.label>gemme magique d'apprentissage</TM_EStone_xpGain.label>
+<TM_EStone_xpGain.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme aide le porteur en stockant une réplique résiduelle de la compétence, permettant au porteur une introspection supplémentaire et augmentant l'XP gagnée de 10%.</TM_EStone_xpGain.description>
+
+<TM_EStone_xpGain_major.label>gemme magique majeure d'apprentissage</TM_EStone_xpGain_major.label>
+<TM_EStone_xpGain_major.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme aide le porteur en stockant une réplique résiduelle de la compétence, permettant au porteur une introspection supplémentaire et augmentant l'XP gagnée de 15%.</TM_EStone_xpGain_major.description>
+
+<TM_EStone_arcaneRes_minor.label>gemme magique mineure de résistance</TM_EStone_arcaneRes_minor.label>
+<TM_EStone_arcaneRes_minor.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme crée une barrière qui repousse l'énergie magique active, réduisant les dégâts magiques de 10%.</TM_EStone_arcaneRes_minor.description>
+
+<TM_EStone_arcaneRes.label>gemme magique de résistance</TM_EStone_arcaneRes.label>
+<TM_EStone_arcaneRes.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme crée une barrière qui repousse l'énergie magique active, réduisant les dégâts magiques de 20%.</TM_EStone_arcaneRes.description>
+
+<TM_EStone_arcaneRes_major.label>gemme magique majeure de résistance</TM_EStone_arcaneRes_major.label>
+<TM_EStone_arcaneRes_major.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme crée une barrière qui repousse l'énergie magique active, réduisant les dégâts magiques de 30%.</TM_EStone_arcaneRes_major.description>
+
+<TM_EStone_arcaneDmg_minor.label>gemme magique mineure de force</TM_EStone_arcaneDmg_minor.label>
+<TM_EStone_arcaneDmg_minor.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme augmente la force, ce qui augmente les dégâts de 4%.</TM_EStone_arcaneDmg_minor.description>
+
+<TM_EStone_arcaneDmg.label>gemme magique de force</TM_EStone_arcaneDmg.label>
+<TM_EStone_arcaneDmg.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme augmente la force, ce qui augmente les dégâts de 8%.</TM_EStone_arcaneDmg.description>
+
+<TM_EStone_arcaneDmg_major.label>gemme magique majeure de force</TM_EStone_arcaneDmg_major.label>
+<TM_EStone_arcaneDmg_major.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme augmente la force, ce qui augmente les dégâts de 12%.</TM_EStone_arcaneDmg_major.description>
+
+<TM_EStone_wonder_minor.label>gemme magique mineure de merveille</TM_EStone_wonder_minor.label>
+<TM_EStone_wonder_minor.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Cette gemme vibre d'une puissance intense. Lorsqu'elle est imprégnée dans un objet, cette gemme accordant des bonus mineurs dans toutes les catégories d'enchantement.</TM_EStone_wonder_minor.description>
+
+<TM_EStone_wonder.label>gemme magique de merveille</TM_EStone_wonder.label>
+<TM_EStone_wonder.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Cette gemme vibre d'une puissance intense. Lorsqu'elle est imprégnée dans un objet, cette gemme accordant des bonus dans toutes les catégories d'enchantement.</TM_EStone_wonder.description>
+
+<TM_EStone_wonder_major.label>gemme magique majeure de merveille</TM_EStone_wonder_major.label>
+<TM_EStone_wonder_major.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Cette gemme vibre d'une puissance intense. Lorsqu'elle est imprégnée dans un objet, cette gemme accordant des bonus majeurs dans toutes les catégories d'enchantement.</TM_EStone_wonder_major.description>
+
+<RawMagicyte.label>magicite</RawMagicyte.label>
+<RawMagicyte.description>Une pierre qui semble s'envelopper d'une surface terne et vitreuse, comme si un pouvoir mystérieux s'était dissimulé en son centre. Apparemment composée de la même pierre que celle dans laquelle elle a été taillée, cette pierre assez banale brille légèrement, même dans l'obscurité et elle émet une signature énergétique que les mages peuvent détecter en la touchant.\n\nLa magicite peut être raffinée pour fabriquer une variété de gemmes enchantées à la table d'orfèvrerie.</RawMagicyte.description>
+
+
+		<!-- +++++ Item_Resources +++++ -->
+<TM_Manaweave.label>tisse-mana</TM_Manaweave.label>
+<TM_Manaweave.description>Le tisse-mana est un tissu qui a été fusionné avec de la magicite et méticuleusement imprégné de symboles arcaniques. Le tisse-mana hérite de nombreuses propriétés physiques du tissu, mais acquiert une réaction supplémentaire à la force physique. Ce qui rend ce tissu unique, c'est sa capacité à agir comme un conducteur de mana qui renforce les effets des enchantements et offre une protection naturelle contre la magie noire et la magie de lumière.\n\nExtrêmement difficile et éprouvant à créer, seul un mage talentueux et bien formé peut fabriquer ce tissu.</TM_Manaweave.description>
+
+<TM_Arcalleum.label>arcalleum</TM_Arcalleum.label>
+<TM_Arcalleum.description>Un alliage métallique composé d'acier, de jade, d'argent et de magicite. Sa composition unique lui confère des propriétés mystiques qui augmentent son élasticité et créent des réverbérations de toute énergie magique transférée à travers lui. L'élasticité de l'alliage en fait un excellent choix pour les protections contondantes, mais il est de qualité inférieure pour les armes blanches. L'arcalluem est difficile à créer et nécessite une forge capable de liquéfier et de combiner tous les ingrédients de l'alliage.\n\nSi l'arcalleum est recherché pour ses propriétés défensives améliorées, il est également prisé par les combattants et les mages pour son pouvoir d'annuler le temps de recharge de n'importe quelle capacité. Chaque kilo d'arcalluem porté augmente de 1 % (50 % maximum) les chances d'annuler le temps de recharge d'une capacité après son utilisation.</TM_Arcalleum.description>
+
+<TM_Demonhide.label>peau de démon</TM_Demonhide.label>
+<TM_Demonhide.description>La peau d'un démon. Ce matériau est incroyablement résistant avec une maille microporeuse capable de diffuser rapidement la chaleur et d'amortir les coups d'impact mieux que la plupart des non-métaux. Le sang d'un démon est résistant à la magie et le cuir fabriqué à partir de la peau d'un démon absorbe une partie de cette résistance. Tous les enchantements gravés dans la peau de démon sont naturellement augmentés. Il n'y a que deux inconvénients à ce matériau : le premier est qu'il ne peut être obtenu qu'à partir de la carcasse d'un démon, ce qui le rend à la fois rare et coûteux ; le second est qu'il constitue un très mauvais isolant.</TM_Demonhide.description>
+
+<TM_Demonscale.label>écaille de démon</TM_Demonscale.label>
+<TM_Demonscale.description>Extraite du corps d'un démon, cette écaille offre une défense légère et polyvalente contre toutes les formes d'attaque. L'écaille de démon est une excellente barrière naturelle contre la magie et un excellent inhibiteur de la chaleur et du feu. Un guerrier portant une armure en écaille de démon peut même être immunisé contre tous les feux, sauf les plus intenses. Les écailles de démon peuvent être fondues, et les armes forgées à partir de ce métal raffiné font d'excellentes armes blanches. Les enchantements gravés sur l'équipement en écaille de démon sont naturellement augmentés.</TM_Demonscale.description>
+
+
+		<!-- +++++ Items_Regrowth +++++ -->
+<SeedofRegrowth.label>graine de vie</SeedofRegrowth.label>
+<SeedofRegrowth.description>Une graine requise par un druide pour commencer le processus de repousse des membres. Un druide doit être formé à l'art du rétablissement pour utiliser cet objet magique avec succès.</SeedofRegrowth.description>
+
+
+		<!-- +++++ LearnAbility_Item +++++ -->
+<BookOfQuestion.label>texte magique : ???</BookOfQuestion.label>
+<BookOfQuestion.description>Enseigne à un colon talentueux comment exploiter les pouvoirs magiques...</BookOfQuestion.description>
+<BookOfQuestion.comps.CompUsable.useLabel>Lire</BookOfQuestion.comps.CompUsable.useLabel>
+
+<Torn_BookOfInnerFire.label>texte déchiré : Feu</Torn_BookOfInnerFire.label>
+<Torn_BookOfInnerFire.description>Apprend à un colon talentueux à maîtriser les éléments du feu.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, sorts de feu.</Torn_BookOfInnerFire.description>
+<Torn_BookOfInnerFire.comps.CompUsable.useLabel>Lire</Torn_BookOfInnerFire.comps.CompUsable.useLabel>
+
+<Torn_BookOfHeartOfFrost.label>texte déchiré : Glace</Torn_BookOfHeartOfFrost.label>
+<Torn_BookOfHeartOfFrost.description>Apprend à un colon talentueux à maîtriser les éléments de glace et d'eau.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, sorts de glace et d'eau.</Torn_BookOfHeartOfFrost.description>
+<Torn_BookOfHeartOfFrost.comps.CompUsable.useLabel>Lire</Torn_BookOfHeartOfFrost.comps.CompUsable.useLabel>
+
+<Torn_BookOfStormBorn.label>texte déchiré : Foudre</Torn_BookOfStormBorn.label>
+<Torn_BookOfStormBorn.description>Apprend à un colon talentueux à maîtriser les éléments de foudre.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, sorts de foudre.</Torn_BookOfStormBorn.description>
+<Torn_BookOfStormBorn.comps.CompUsable.useLabel>Lire</Torn_BookOfStormBorn.comps.CompUsable.useLabel>
+
+<Torn_BookOfArcanist.label>texte déchiré : Arcane</Torn_BookOfArcanist.label>
+<Torn_BookOfArcanist.description>Apprend à un colon talentueux à maîtriser les pouvoirs des arcanes.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, sorts des arcanes.</Torn_BookOfArcanist.description>
+<Torn_BookOfArcanist.comps.CompUsable.useLabel>Lire</Torn_BookOfArcanist.comps.CompUsable.useLabel>
+
+<Torn_BookOfValiant.label>texte déchiré : Paladin</Torn_BookOfValiant.label>
+<Torn_BookOfValiant.description>Apprend à un colon talentueux à maîtriser les pouvoirs sacrés.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, sorts sacrés.</Torn_BookOfValiant.description>
+<Torn_BookOfValiant.comps.CompUsable.useLabel>Lire</Torn_BookOfValiant.comps.CompUsable.useLabel>
+
+<Torn_BookOfSummoner.label>texte déchiré : Invocation</Torn_BookOfSummoner.label>
+<Torn_BookOfSummoner.description>Apprend à un colon talentueux à maîtriser comment invoquer et interagir avec les éléments à travers les dimensions.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, sorts d'invocation.</Torn_BookOfSummoner.description>
+<Torn_BookOfSummoner.comps.CompUsable.useLabel>Lire</Torn_BookOfSummoner.comps.CompUsable.useLabel>
+
+<Torn_BookOfNature.label>texte déchiré : Nature</Torn_BookOfNature.label>
+<Torn_BookOfNature.description>Apprend à un colon talentueux à maîtriser les éléments de la nature.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, sorts de druide.</Torn_BookOfNature.description>
+<Torn_BookOfNature.comps.CompUsable.useLabel>Lire</Torn_BookOfNature.comps.CompUsable.useLabel>
+
+<Torn_BookOfUndead.label>texte déchiré : Nécromancie</Torn_BookOfUndead.label>
+<Torn_BookOfUndead.description>Apprend à un colon talentueux comment manipuler les forces de vie et de mort. *Note : Le nécromancien peut devenir une liche à un stade ultérieur, les liches sont incapables de toute activité sauf le combat et la recherche. De nombreuses autres classes de magie n'apprécient pas les nécromanciens. Choisissez avec soin.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, sorts de nécromancien.</Torn_BookOfUndead.description>
+<Torn_BookOfUndead.comps.CompUsable.useLabel>Lire</Torn_BookOfUndead.comps.CompUsable.useLabel>
+
+<Torn_BookOfPriest.label>texte déchiré : Prêtre</Torn_BookOfPriest.label>
+<Torn_BookOfPriest.description>Apprend à un colon talentueux à maîtriser les pouvoirs de vie et de guérison. Les prêtres sont incapables de violence et ces compétences seront désactivées.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, sorts de prêtre.</Torn_BookOfPriest.description>
+<Torn_BookOfPriest.comps.CompUsable.useLabel>Lire</Torn_BookOfPriest.comps.CompUsable.useLabel>
+
+<Torn_BookOfBard.label>texte déchiré : Barde</Torn_BookOfBard.label>
+<Torn_BookOfBard.description>Apprend à un colon talentueux à maîtriser comment devenir un barde professionnel. Les bardes sont incapables de faire du travail manuel et ce type de travail sera désactivé.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certaines, voire aucune, des capacités de barde.</Torn_BookOfBard.description>
+<Torn_BookOfBard.comps.CompUsable.useLabel>Lire</Torn_BookOfBard.comps.CompUsable.useLabel>
+
+<Torn_BookOfDemons.label>texte déchiré : Démonologie</Torn_BookOfDemons.label>
+<Torn_BookOfDemons.description>Détaille le processus permettant de conclure un accord avec un démon pour obtenir du pouvoir. Ce contrat lie le client, au sens propre, avec une essence démoniaque qui affecte sa constitution génétique. Cette liaison affecte différemment les hommes et les femmes. Les démons n'acceptent le contrat que si l'utilisateur est doué en magie.\n\n*Note griffonnée au bas de la première page* Ce texte n'est pas clair sur ce que le démon obtient de l'accord... à utiliser avec prudence.\n\nCet ouvrage magique est incomplet et n'explique pas le processus complet du contrat ; le résultat peut ne pas fournir immédiatement un accès complet à toutes les capacités.</Torn_BookOfDemons.description>
+<Torn_BookOfDemons.comps.CompUsable.useLabel>Lire</Torn_BookOfDemons.comps.CompUsable.useLabel>
+
+<Torn_BookOfEarth.label>texte déchiré : Géomancie</Torn_BookOfEarth.label>
+<Torn_BookOfEarth.description>Apprend à un colon talentueux à combiner les lois physiques, les éléments et la magie.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certaines, voire aucune, des capacités du géomancien.</Torn_BookOfEarth.description>
+<Torn_BookOfEarth.comps.CompUsable.useLabel>Lire</Torn_BookOfEarth.comps.CompUsable.useLabel>
+
+<Torn_BookOfMagitech.label>texte déchiré : Technomancie</Torn_BookOfMagitech.label>
+<Torn_BookOfMagitech.description>Apprend à un colon talentueux les voies de la technomancie, capable de voir le lien entre la science et la magie.\nCet ouvrage magique est incomplet et le lecteur n'apprendra pas les capacités de soutien du technomancien, mais il pourra toujours choisir sa voie principale de technomancie.</Torn_BookOfMagitech.description>
+<Torn_BookOfMagitech.comps.CompUsable.useLabel>Lire</Torn_BookOfMagitech.comps.CompUsable.useLabel>
+
+<Torn_BookOfHemomancy.label>texte déchiré : Hémomancie</Torn_BookOfHemomancy.label>
+<Torn_BookOfHemomancy.description>Apprend à un colon talentueux comment devenir un hémomage, ou mage de sang et utiliser le pouvoir du sang pour alimenter sa magie.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certaines, voire aucune, des capacités du mage de sang.</Torn_BookOfHemomancy.description>
+<Torn_BookOfHemomancy.comps.CompUsable.useLabel>Lire</Torn_BookOfHemomancy.comps.CompUsable.useLabel>
+
+<Torn_BookOfEnchanter.label>texte déchiré : Enchanteur</Torn_BookOfEnchanter.label>
+<Torn_BookOfEnchanter.description>Apprend à un colon talentueux comment devenir un enchanteur, capable de manipuler la matière et les matériaux pour les utiliser à ses fins.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certaines, voire aucune, des capacités de l'enchanteur.</Torn_BookOfEnchanter.description>
+<Torn_BookOfEnchanter.comps.CompUsable.useLabel>Lire</Torn_BookOfEnchanter.comps.CompUsable.useLabel>
+
+<Torn_BookOfChronomancer.label>texte déchiré : Chronomancie</Torn_BookOfChronomancer.label>
+<Torn_BookOfChronomancer.description>Apprend à un colon talentueux comment de evenir un chronomancien, capable de voir et de manipuler les réalités à travers le temps.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certaines, voire aucune, des capacités du chronomancien.</Torn_BookOfChronomancer.description>
+<Torn_BookOfChronomancer.comps.CompUsable.useLabel>Lire</Torn_BookOfChronomancer.comps.CompUsable.useLabel>
+
+<Torn_BookOfChaos.label>texte déchiré : Chaos</Torn_BookOfChaos.label>
+<Torn_BookOfChaos.description>Apprend à un colon talentueux la tradition du chaos.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, des sorts du chaos.</Torn_BookOfChaos.description>
+<Torn_BookOfChaos.comps.CompUsable.useLabel>Lire</Torn_BookOfChaos.comps.CompUsable.useLabel>
+
+<Torn_BookOfTheSun.label>texte déchiré : Mage de lumière</Torn_BookOfTheSun.label>
+<Torn_BookOfTheSun.description>Apprend à un colon talentueux comment devenir un mage de lumière. Les mages de lumière manipulent le pouvoir de la lumière du soleil pour créer une magie intense et destructrice.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, des sorts du mage de lumière.</Torn_BookOfTheSun.description>
+<Torn_BookOfTheSun.comps.CompUsable.useLabel>Lire</Torn_BookOfTheSun.comps.CompUsable.useLabel>
+
+<Torn_BookOfShamanism.label>texte déchiré : Chaman</Torn_BookOfShamanism.label>
+<Torn_BookOfShamanism.description>Apprend à un colon talentueux à devenir un chaman ; un chef de tribu qui se concentre sur la magie rituelle pour créer de puissants maléfices et enchantements, et étend son influence par le biais de totems.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, des sorts du chaman.</Torn_BookOfShamanism.description>
+<Torn_BookOfShamanism.comps.CompUsable.useLabel>Lire</Torn_BookOfShamanism.comps.CompUsable.useLabel>
+
+<Torn_BookOfGolemancy.label>texte déchiré : Golemancien</Torn_BookOfGolemancy.label>
+<Torn_BookOfGolemancy.description>Apprend à un colon talentueux comment devenir un golemancien, un mage reclus qui canalise l'énergie magique dans des objets ordinaires à l'aide de sceaux et de runes.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, des sorts du golemancien.</Torn_BookOfGolemancy.description>
+<Torn_BookOfGolemancy.comps.CompUsable.useLabel>Lire</Torn_BookOfGolemancy.comps.CompUsable.useLabel>
+
+<BookOfInnerFire.label>livre magique : Feu</BookOfInnerFire.label>
+<BookOfInnerFire.description>Apprend à un colon talentueux à maîtriser les éléments du feu.</BookOfInnerFire.description>
+<BookOfInnerFire.comps.CompUsable.useLabel>Lire</BookOfInnerFire.comps.CompUsable.useLabel>
+
+<BookOfHeartOfFrost.label>livre magique : Glace</BookOfHeartOfFrost.label>
+<BookOfHeartOfFrost.description>Apprend à un colon talentueux à maîtriser les éléments de glace et d'eau.</BookOfHeartOfFrost.description>
+<BookOfHeartOfFrost.comps.CompUsable.useLabel>Lire</BookOfHeartOfFrost.comps.CompUsable.useLabel>
+
+<BookOfStormBorn.label>livre magique : Foudre</BookOfStormBorn.label>
+<BookOfStormBorn.description>Apprend à un colon talentueux à maîtriser les éléments de foudre.</BookOfStormBorn.description>
+<BookOfStormBorn.comps.CompUsable.useLabel>Lire</BookOfStormBorn.comps.CompUsable.useLabel>
+
+<BookOfArcanist.label>livre magique : Arcane</BookOfArcanist.label>
+<BookOfArcanist.description>Apprend à un colon talentueux à maîtriser les pouvoirs des arcanes.</BookOfArcanist.description>
+<BookOfArcanist.comps.CompUsable.useLabel>Lire</BookOfArcanist.comps.CompUsable.useLabel>
+
+<BookOfValiant.label>livre divin : Paladin</BookOfValiant.label>
+<BookOfValiant.description>Apprend à un colon talentueux à devenir un paladin.</BookOfValiant.description>
+<BookOfValiant.comps.CompUsable.useLabel>Lire</BookOfValiant.comps.CompUsable.useLabel>
+
+<BookOfSummoner.label>livre magique : Invocation</BookOfSummoner.label>
+<BookOfSummoner.description>Apprend à un colon talentueux à devenir un invocateur.</BookOfSummoner.description>
+<BookOfSummoner.comps.CompUsable.useLabel>Lire</BookOfSummoner.comps.CompUsable.useLabel>
+
+<BookOfDruid.label>livre magique : Nature</BookOfDruid.label>
+<BookOfDruid.description>Apprend à un colon talentueux à devenir un druide.</BookOfDruid.description>
+<BookOfDruid.comps.CompUsable.useLabel>Lire</BookOfDruid.comps.CompUsable.useLabel>
+
+<BookOfNecromancer.label>livre magique : Nécromancie</BookOfNecromancer.label>
+<BookOfNecromancer.description>Apprend à un colon talentueux à devenir un nécromancien. *Note : Le nécromancien peut devenir une liche à un stade ultérieur, les liches sont incapables de toute activité sauf le combat et la recherche. De nombreuses autres classes de magie n'apprécient pas les nécromanciens. Choisissez avec soin.</BookOfNecromancer.description>
+<BookOfNecromancer.comps.CompUsable.useLabel>Lire</BookOfNecromancer.comps.CompUsable.useLabel>
+
+<BookOfPriest.label>livre magique : Prêtre</BookOfPriest.label>
+<BookOfPriest.description>Apprend à un colon talentueux à devenir un prêtre. Les prêtres sont incapables de violence et ces compétences seront désactivées.</BookOfPriest.description>
+<BookOfPriest.comps.CompUsable.useLabel>Lire</BookOfPriest.comps.CompUsable.useLabel>
+
+<BookOfBard.label>livre magique : Barde</BookOfBard.label>
+<BookOfBard.description>Apprend à un colon talentueux à devenir un barde. Les bardes sont incapables de faire du travail manuel et ce type de travail sera désactivé.</BookOfBard.description>
+<BookOfBard.comps.CompUsable.useLabel>Lire</BookOfBard.comps.CompUsable.useLabel>
+
+<BookOfDemons.label>livre magique : Démonologie</BookOfDemons.label>
+<BookOfDemons.description>Détaille le processus permettant de conclure un accord avec un démon pour obtenir du pouvoir. Ce contrat lie le client, au sens propre, avec une essence démoniaque qui affecte sa constitution génétique. Cette liaison affecte différemment les hommes et les femmes. Les démons n'acceptent le contrat que si l'utilisateur est doué en magie.\n\n*Note griffonnée au bas de la première page* Ce texte n'est pas clair sur ce que le démon obtient de l'accord... à utiliser avec prudence.</BookOfDemons.description>
+<BookOfDemons.comps.CompUsable.useLabel>Lire</BookOfDemons.comps.CompUsable.useLabel>
+
+<BookOfEarth.label>livre magique : Terre</BookOfEarth.label>
+<BookOfEarth.description>Apprend à un colon talentueux la maîtrise de la terre, en combinant et en modifiant les lois physiques et ses éléments avec la magie.</BookOfEarth.description>
+<BookOfEarth.comps.CompUsable.useLabel>Lire</BookOfEarth.comps.CompUsable.useLabel>
+
+<BookOfMagitech.label>livre magique : Technomancie</BookOfMagitech.label>
+<BookOfMagitech.description>Apprend à un colon talentueux les méthodes du Technomancer, capable de voir le lien entre la science et la magie.</BookOfMagitech.description>
+<BookOfMagitech.comps.CompUsable.useLabel>Lire</BookOfMagitech.comps.CompUsable.useLabel>
+
+<BookOfHemomancy.label>livre magique : Hémomancie</BookOfHemomancy.label>
+<BookOfHemomancy.description>Apprend à un colon talentueux à devenir un hémomage, ou mage de sang, et à utiliser le pouvoir du sang pour alimenter sa magie.</BookOfHemomancy.description>
+<BookOfHemomancy.comps.CompUsable.useLabel>Lire</BookOfHemomancy.comps.CompUsable.useLabel>
+
+<BookOfEnchanter.label>livre magique : Enchanteur</BookOfEnchanter.label>
+<BookOfEnchanter.description>Apprend à un colon talentueux comment devenir un enchanteur, capable de manipuler la matière et les matériaux pour les utiliser à ses fins.</BookOfEnchanter.description>
+<BookOfEnchanter.comps.CompUsable.useLabel>Lire</BookOfEnchanter.comps.CompUsable.useLabel>
+
+<BookOfChronomancer.label>livre magique : Chronomancie</BookOfChronomancer.label>
+<BookOfChronomancer.description>Apprend à un colon talentueux comment de evenir un chronomancien, capable de voir et de manipuler les réalités à travers le temps.</BookOfChronomancer.description>
+<BookOfChronomancer.comps.CompUsable.useLabel>Lire</BookOfChronomancer.comps.CompUsable.useLabel>
+
+<BookOfChaos.label>livre magique : Mage du Chaos</BookOfChaos.label>
+<BookOfChaos.description>Apprend à un colon talentueux comment devenir un mage du chaos - adaptable à toutes les classes de magie.</BookOfChaos.description>
+<BookOfChaos.comps.CompUsable.useLabel>Lire</BookOfChaos.comps.CompUsable.useLabel>
+
+<BookOfTheSun.label>livre magique : Mage de lumière</BookOfTheSun.label>
+<BookOfTheSun.description>Apprend à un colon talentueux comment devenir un mage de lumière. Les mages de lumière manipulent le pouvoir de la lumière du soleil pour créer une magie intense et destructrice.</BookOfTheSun.description>
+<BookOfTheSun.comps.CompUsable.useLabel>Lire</BookOfTheSun.comps.CompUsable.useLabel>
+
+<BookOfShamanism.label>livre magique : Chaman</BookOfShamanism.label>
+<BookOfShamanism.description>Apprend à un colon talentueux à devenir un chaman ; un chef de tribu qui se concentre sur la magie rituelle pour créer de puissants maléfices et enchantements, et étend son influence par le biais de totems.</BookOfShamanism.description>
+<BookOfShamanism.comps.CompUsable.useLabel>Lire</BookOfShamanism.comps.CompUsable.useLabel>
+
+<BookOfGolemancy.label>livre magique : Golemancien</BookOfGolemancy.label>
+<BookOfGolemancy.description>Apprend à un colon talentueux comment devenir un golemancien, un mage reclus qui canalise l'énergie magique dans des objets ordinaires à l'aide de sceaux et de runes.</BookOfGolemancy.description>
+<BookOfGolemancy.comps.CompUsable.useLabel>Lire</BookOfGolemancy.comps.CompUsable.useLabel>
+
+<BookOfGladiator.label>forme de combat : Gladiateur</BookOfGladiator.label>
+<BookOfGladiator.description>Apprend à un colon doué physiquement à s'entraîner à la forme de combat du gladiateur.</BookOfGladiator.description>
+<BookOfGladiator.comps.CompUsable.useLabel>Lire</BookOfGladiator.comps.CompUsable.useLabel>
+
+<BookOfPsionic.label>pouvoir de combat : Psionique</BookOfPsionic.label>
+<BookOfPsionic.description>Apprendre à un colon doué physiquement à exploiter le pouvoir psionique.\n\n*Il y a une note en bas de page gravée au charbon : "Il semble que seuls ceux qui ont une grande sensibilité psychique peuvent apprendre à manipuler l'énergie psionique... Soit ça, soit trouver un moyen de faire jaillir l'activité psychique."</BookOfPsionic.description>
+<BookOfPsionic.comps.CompUsable.useLabel>Lire</BookOfPsionic.comps.CompUsable.useLabel>
+
+<BookOfFaceless.label>forme de combat : Sans visage</BookOfFaceless.label>
+<BookOfFaceless.description>Apprend à un colon doué physiquement à adapter sa forme et son style de combat dans n'importe quelle situation.</BookOfFaceless.description>
+<BookOfFaceless.comps.CompUsable.useLabel>Lire</BookOfFaceless.comps.CompUsable.useLabel>
+
+<BookOfSniper.label>style de combat : Tireur d'élite</BookOfSniper.label>
+<BookOfSniper.description>Apprend à un colon doué physiquement à s'entraîner comme tireur d'élite.</BookOfSniper.description>
+<BookOfSniper.comps.CompUsable.useLabel>Lire</BookOfSniper.comps.CompUsable.useLabel>
+
+<BookOfBladedancer.label>style de combat : Danseur de lames</BookOfBladedancer.label>
+<BookOfBladedancer.description>Apprend à un colon doué physiquement à s'entraîner à la pratique de l'épée.</BookOfBladedancer.description>
+<BookOfBladedancer.comps.CompUsable.useLabel>Lire</BookOfBladedancer.comps.CompUsable.useLabel>
+
+<BookOfRanger.label>style de combat : Rôdeur</BookOfRanger.label>
+<BookOfRanger.description>Apprend à un colon doué physiquement à s'entraîner comme Rôdeur.</BookOfRanger.description>
+<BookOfRanger.comps.CompUsable.useLabel>Lire</BookOfRanger.comps.CompUsable.useLabel>
+
+<BookOfDeathKnight.label>style de combat : Chevalier de la mort</BookOfDeathKnight.label>
+<BookOfDeathKnight.description>Apprend à un colon doué physiquement à accepter l'inévitable et à devenir un chevalier de la mort.</BookOfDeathKnight.description>
+<BookOfDeathKnight.comps.CompUsable.useLabel>Lire</BookOfDeathKnight.comps.CompUsable.useLabel>
+
+<BookOfMonk.label>style de combat : Moine</BookOfMonk.label>
+<BookOfMonk.description>Apprend à un colon doué physiquement à affiner son esprit et son corps pour en faire une arme mortelle.</BookOfMonk.description>
+<BookOfMonk.comps.CompUsable.useLabel>Lire</BookOfMonk.comps.CompUsable.useLabel>
+
+<BookOfCommander.label>style de combat : Commandant</BookOfCommander.label>
+<BookOfCommander.description>Apprend à un colon doué physiquement à devenir un dirigeant charismatique.</BookOfCommander.description>
+<BookOfCommander.comps.CompUsable.useLabel>Lire</BookOfCommander.comps.CompUsable.useLabel>
+
+<BookOfSuperSoldier.label>sérum : Super-Soldat</BookOfSuperSoldier.label>
+<BookOfSuperSoldier.description>Injecte à un colon un sérum qui améliore ses capacités physiques. Incapacite le colon pendant quelques jours, le temps que le sérum fasse effet et se développe en plusieurs étapes. Le sérum prend environ 100 jours pour se développer complètement. N'importe quel colon peut prendre le sérum super-soldat, mais seuls les colons doués physiquement peuvent acquérir la caractéristique de super-soldat. Ce sérum réduit la puissance et le potentiel magiques.</BookOfSuperSoldier.description>
+<BookOfSuperSoldier.comps.CompUsable.useLabel>Injecter</BookOfSuperSoldier.comps.CompUsable.useLabel>
+
+<BookOfShadow.label>livre magique : Ombre</BookOfShadow.label>
+<BookOfShadow.description>Au cœur de la nuit, la peur se révèle dans le reflet de la lame - l'ombre se réveille.</BookOfShadow.description>
+<BookOfShadow.comps.CompUsable.useLabel>Lire</BookOfShadow.comps.CompUsable.useLabel>
+
+<BookOfApothecary.label>style de combat : Apothicaire</BookOfApothecary.label>
+<BookOfApothecary.description>Apprend à un colon doué physiquement à devenir un apothicaire.</BookOfApothecary.description>
+<BookOfApothecary.comps.CompUsable.useLabel>Lire</BookOfApothecary.comps.CompUsable.useLabel>
+
+<SpellOf_ArcaneBolt.label>sort de mage : Éclair des arcanes</SpellOf_ArcaneBolt.label>
+<SpellOf_ArcaneBolt.description>Apprend à un utilisateur de magie à projeter avec force de l'énergie des arcanes.</SpellOf_ArcaneBolt.description>
+<SpellOf_ArcaneBolt.comps.CompUsable.useLabel>Lire</SpellOf_ArcaneBolt.comps.CompUsable.useLabel>
+
+<SpellOf_Blink.label>sort de mage : Transfert</SpellOf_Blink.label>
+<SpellOf_Blink.description>Apprend à un utilisateur de magie comment les forces des arcanes sont interconnectées, permettant au mage de se déplacer rapidement sur de courtes distances.</SpellOf_Blink.description>
+<SpellOf_Blink.comps.CompUsable.useLabel>Lire</SpellOf_Blink.comps.CompUsable.useLabel>
+
+<SpellOf_Blur.label>sort de mage : Voile corrompu</SpellOf_Blur.label>
+<SpellOf_Blur.description>Apprend à un utilisateur de magie à déformer la lumière autour de son corps.</SpellOf_Blur.description>
+<SpellOf_Blur.comps.CompUsable.useLabel>Lire</SpellOf_Blur.comps.CompUsable.useLabel>
+
+<SpellOf_Cooler.label>sort de mage : Magie réfrigérante</SpellOf_Cooler.label>
+<SpellOf_Cooler.description>Apprend à un utilisateur de magie noire à créer une fenêtre temporaire dans le plan de la glace, créant ainsi une source de refroidissement temporaire.</SpellOf_Cooler.description>
+<SpellOf_Cooler.comps.CompUsable.useLabel>Lire</SpellOf_Cooler.comps.CompUsable.useLabel>
+
+<SpellOf_DirtDevil.label>sort de mage : Dirt devil</SpellOf_DirtDevil.label>
+<SpellOf_DirtDevil.description>Apprend à un utilisateur de magie à créer un tourbillon qui recherche et nettoie les saletés à l'intérieur de la maison.</SpellOf_DirtDevil.description>
+<SpellOf_DirtDevil.comps.CompUsable.useLabel>Lire</SpellOf_DirtDevil.comps.CompUsable.useLabel>
+
+<SpellOf_EMP.label>sort de mage : IEM</SpellOf_EMP.label>
+<SpellOf_EMP.description>Apprend à un utilisateur de magie comment générer une explosion IEM à un emplacement cible.</SpellOf_EMP.description>
+<SpellOf_EMP.comps.CompUsable.useLabel>Lire</SpellOf_EMP.comps.CompUsable.useLabel>
+
+<SpellOf_Extinguish.label>sort de mage : Extinction</SpellOf_Extinguish.label>
+<SpellOf_Extinguish.description>Apprend à un utilisateur de magie à supprimer l'élément du feu à un endroit cible, en éteignant les incendies.</SpellOf_Extinguish.description>
+<SpellOf_Extinguish.comps.CompUsable.useLabel>Lire</SpellOf_Extinguish.comps.CompUsable.useLabel>
+
+<SpellOf_Heal.label>sort de mage : Soins</SpellOf_Heal.label>
+<SpellOf_Heal.description>Apprend à un utilisateur de magie à manipuler délicatement les forces de la magie pour soigner les blessures.</SpellOf_Heal.description>
+<SpellOf_Heal.comps.CompUsable.useLabel>Lire</SpellOf_Heal.comps.CompUsable.useLabel>
+
+<SpellOf_Heater.label>sort de mage : Magie de chaleur</SpellOf_Heater.label>
+<SpellOf_Heater.description>Apprend à un utilisateur de magie à créer une fenêtre temporaire dans le plan du feu, créant ainsi une source de chaleur temporaire.</SpellOf_Heater.description>
+<SpellOf_Heater.comps.CompUsable.useLabel>Lire</SpellOf_Heater.comps.CompUsable.useLabel>
+
+<SpellOf_Ignite.label>sort de mage : Enflammer</SpellOf_Ignite.label>
+<SpellOf_Ignite.description>Apprend à l'utilisateur de la magie à concentrer la chaleur à un endroit précis.</SpellOf_Ignite.description>
+<SpellOf_Ignite.comps.CompUsable.useLabel>Lire</SpellOf_Ignite.comps.CompUsable.useLabel>
+
+<SpellOf_MageLight.label>sort de mage : Lumière de mage</SpellOf_MageLight.label>
+<SpellOf_MageLight.description>Apprend à un utilisateur de magie comment créer un petit orbe de lumière.</SpellOf_MageLight.description>
+<SpellOf_MageLight.comps.CompUsable.useLabel>Lire</SpellOf_MageLight.comps.CompUsable.useLabel>
+
+<SpellOf_PowerNode.label>sort de mage : Nœud de puissance</SpellOf_PowerNode.label>
+<SpellOf_PowerNode.description>Apprend à un utilisateur de magie à créer un nœud d'énergie contenu qui convertit l'énergie magique en énergie électrique. A placer à côté d’un câble électrique. Fournit 600 watts.</SpellOf_PowerNode.description>
+<SpellOf_PowerNode.comps.CompUsable.useLabel>Lire</SpellOf_PowerNode.comps.CompUsable.useLabel>
+
+<SpellOf_Rain.label>sort de mage : Pluie</SpellOf_Rain.label>
+<SpellOf_Rain.description>Apprend à un utilisateur de magie à exploiter l'énergie de l'atmosphère pour provoquer une pluie brève.</SpellOf_Rain.description>
+<SpellOf_Rain.comps.CompUsable.useLabel>Lire</SpellOf_Rain.comps.CompUsable.useLabel>
+
+<SpellOf_SnapFreeze.label>sort de mage : Gel rapide</SpellOf_SnapFreeze.label>
+<SpellOf_SnapFreeze.description>Apprend à un utilisateur de magie à supprimer toute chaleur à un endroit cible.</SpellOf_SnapFreeze.description>
+<SpellOf_SnapFreeze.comps.CompUsable.useLabel>Lire</SpellOf_SnapFreeze.comps.CompUsable.useLabel>
+
+<SpellOf_SmokeCloud.label>sort de mage : Nuage de fumée</SpellOf_SmokeCloud.label>
+<SpellOf_SmokeCloud.description>Apprend à un utilisateur de magie à déclencher des particules dans l'air pour créer un écran de fumée, dissimulant temporairement une zone cible.</SpellOf_SmokeCloud.description>
+<SpellOf_SmokeCloud.comps.CompUsable.useLabel>Lire</SpellOf_SmokeCloud.comps.CompUsable.useLabel>
+
+<SpellOf_Sunlight.label>sort de mage : Lumière solaire</SpellOf_Sunlight.label>
+<SpellOf_Sunlight.description>Apprend à un utilisateur de magie à créer une sphère dimensionnelle qui émet un flux régulier de lumière solaire suffisamment fort pour faire pousser des plantes. La lumière du soleil doit être soutenue par le mage qui la crée et réduit le mana maximum et le taux de régénération du mana.</SpellOf_Sunlight.description>
+<SpellOf_Sunlight.comps.CompUsable.useLabel>Lire</SpellOf_Sunlight.comps.CompUsable.useLabel>
+
+<SpellOf_BrandSiphon.label>sort du Golemancien : Marque du siphon</SpellOf_BrandSiphon.label>
+<SpellOf_BrandSiphon.description>Apprend à un golemancien le sceau pour créer une marque de siphon.</SpellOf_BrandSiphon.description>
+<SpellOf_BrandSiphon.comps.CompUsable.useLabel>Lire</SpellOf_BrandSiphon.comps.CompUsable.useLabel>
+<SpellOf_BrandFitness.label>sort du Golemancien : Marque de fitness</SpellOf_BrandFitness.label>
+<SpellOf_BrandFitness.description>Apprend à un golemancien le sceau pour créer une marque de fitness.</SpellOf_BrandFitness.description>
+<SpellOf_BrandFitness.comps.CompUsable.useLabel>Lire</SpellOf_BrandFitness.comps.CompUsable.useLabel>
+<SpellOf_BrandEmotion.label>sort du Golemancien : Marque d'émotions</SpellOf_BrandEmotion.label>
+<SpellOf_BrandEmotion.description>Apprend à un golemancien le sceau pour créer une marque d'émotion.</SpellOf_BrandEmotion.description>
+<SpellOf_BrandEmotion.comps.CompUsable.useLabel>Lire</SpellOf_BrandEmotion.comps.CompUsable.useLabel>
+<SpellOf_BrandVitality.label>sort du Golemancien : Marque de vitalité</SpellOf_BrandVitality.label>
+<SpellOf_BrandVitality.description>Apprend à un golemancien le sceau pour créer une marque de vitalité.</SpellOf_BrandVitality.description>
+<SpellOf_BrandVitality.comps.CompUsable.useLabel>Lire</SpellOf_BrandVitality.comps.CompUsable.useLabel>
+<SpellOf_BrandProtection.label>sort du Golemancien : Marque de protection</SpellOf_BrandProtection.label>
+<SpellOf_BrandProtection.description>Apprend à un golemancien le sceau pour créer une marque de protection.</SpellOf_BrandProtection.description>
+<SpellOf_BrandProtection.comps.CompUsable.useLabel>Lire</SpellOf_BrandProtection.comps.CompUsable.useLabel>
+<SpellOf_BrandAwareness.label>sort du Golemancien : Marque de conscience</SpellOf_BrandAwareness.label>
+<SpellOf_BrandAwareness.description>Apprend à un golemancien le sceau pour créer une marque de conscience.</SpellOf_BrandAwareness.description>
+<SpellOf_BrandAwareness.comps.CompUsable.useLabel>Lire</SpellOf_BrandAwareness.comps.CompUsable.useLabel>
+
+<SpellOf_ChargeBattery.label>sort de foudre : Charger la batterie</SpellOf_ChargeBattery.label>
+<SpellOf_ChargeBattery.description>Apprend à un mage de foudre à charger une batterie en l'imprégnant d'énergie magique. Produit 400 W ajustés par la puissance du sort.</SpellOf_ChargeBattery.description>
+<SpellOf_ChargeBattery.comps.CompUsable.useLabel>Lire</SpellOf_ChargeBattery.comps.CompUsable.useLabel>
+
+<SpellOf_CauterizeWound.label>sort de feu : Cautérisation de la plaie</SpellOf_CauterizeWound.label>
+<SpellOf_CauterizeWound.description>Apprend à un mage du feu à utiliser le feu élémentaire pour nettoyer et refermer instantanément les blessures - peut laisser des cicatrices de brûlure.</SpellOf_CauterizeWound.description>
+<SpellOf_CauterizeWound.comps.CompUsable.useLabel>Lire</SpellOf_CauterizeWound.comps.CompUsable.useLabel>
+
+<SpellOf_Discord.label>sort de Barde : Discorde</SpellOf_Discord.label>
+<SpellOf_Discord.description>Apprend à un barde à déformer l'harmonie mentale d'un colon cible.</SpellOf_Discord.description>
+<SpellOf_Discord.comps.CompUsable.useLabel>Lire</SpellOf_Discord.comps.CompUsable.useLabel>
+
+<SpellOf_DryGround.label>sort de feu : Sol sec</SpellOf_DryGround.label>
+<SpellOf_DryGround.description>Apprend à un mage du feu comment insuffler de la chaleur à la terre, en évaporant la plupart de l'eau d'une petite parcelle de terre.</SpellOf_DryGround.description>
+<SpellOf_DryGround.comps.CompUsable.useLabel>Lire</SpellOf_DryGround.comps.CompUsable.useLabel>
+
+<SpellOf_WetGround.label>sort de glace : Sol hydrater</SpellOf_WetGround.label>
+<SpellOf_WetGround.description>Apprend à un mage de glace à insuffler de l'humidité et des nutriments à la terre, transformant le sable en terreau utilisable.</SpellOf_WetGround.description>
+<SpellOf_WetGround.comps.CompUsable.useLabel>Lire</SpellOf_WetGround.comps.CompUsable.useLabel>
+
+<SpellOf_Invisibility.label>sort de mage : Invisibilité</SpellOf_Invisibility.label>
+<SpellOf_Invisibility.description>Apprend à un utilisateur de magie à manipuler la lumière et à devenir invisible.</SpellOf_Invisibility.description>
+<SpellOf_Invisibility.comps.CompUsable.useLabel>Lire</SpellOf_Invisibility.comps.CompUsable.useLabel>
+
+<SpellOf_LightningTrap.label>sort de mage : Piège de foudre</SpellOf_LightningTrap.label>
+<SpellOf_LightningTrap.description>Apprend à un utilisateur de magie à créer un piège qui décharge la foudre.</SpellOf_LightningTrap.description>
+<SpellOf_LightningTrap.comps.CompUsable.useLabel>Lire</SpellOf_LightningTrap.comps.CompUsable.useLabel>
+
+<SpellOf_ManaShield.label>sort de mage : Bouclier de mana</SpellOf_ManaShield.label>
+<SpellOf_ManaShield.description>Apprend à un utilisateur de magie à former une barrière de mana protectrice pour éviter les dégâts physiques.</SpellOf_ManaShield.description>
+<SpellOf_ManaShield.comps.CompUsable.useLabel>Lire</SpellOf_ManaShield.comps.CompUsable.useLabel>
+
+<SpellOf_ShieldOther.label>sort de sacré : Bouclier sacré</SpellOf_ShieldOther.label>
+<SpellOf_ShieldOther.description>Apprend à un lanceur de sorts sacrés (paladin, prêtre, etc.) à protéger un autre lanceur de sorts contre les dégâts.</SpellOf_ShieldOther.description>
+<SpellOf_ShieldOther.comps.CompUsable.useLabel>Lire</SpellOf_ShieldOther.comps.CompUsable.useLabel>
+
+<SpellOf_SpellMending.label>sort de mage : Réparation</SpellOf_SpellMending.label>
+<SpellOf_SpellMending.description>Apprend à un utilisateur de la magie comment reconstruire et réparer un équipement usé sur un colon.</SpellOf_SpellMending.description>
+<SpellOf_SpellMending.comps.CompUsable.useLabel>Lire</SpellOf_SpellMending.comps.CompUsable.useLabel>
+
+<SpellOf_SiphonMana.label>sort de mage : Siphon de mana</SpellOf_SiphonMana.label>
+<SpellOf_SiphonMana.description>Apprend à un utilisateur de magie à siphonner le mana d'un autre mage. S'il est utilisé sur un être qui ne possède pas de mana, ses traits physiques seront drainés à la place (aucun mana ne sera gagné). L'effet est potentiellement mortel dans les cas extrêmes.</SpellOf_SiphonMana.description>
+<SpellOf_SiphonMana.comps.CompUsable.useLabel>Lire</SpellOf_SiphonMana.comps.CompUsable.useLabel>
+
+<SpellOf_SummonMinion.label>sort de mage : Invocation d'un serviteur</SpellOf_SummonMinion.label>
+<SpellOf_SummonMinion.description>Apprend à un utilisateur de magie à invoquer un serviteur d'un autre monde pour l'aider dans ses tâches de base.</SpellOf_SummonMinion.description>
+<SpellOf_SummonMinion.comps.CompUsable.useLabel>Lire</SpellOf_SummonMinion.comps.CompUsable.useLabel>
+
+<SpellOf_Teleport.label>sort de mage : Téléportation</SpellOf_Teleport.label>
+<SpellOf_Teleport.description>Apprend à un utilisateur de magie à manipuler l'énergie en utilisant des dimensions arcaniques, permettant au mage de créer un portail pour un transport rapide.</SpellOf_Teleport.description>
+<SpellOf_Teleport.comps.CompUsable.useLabel>Lire</SpellOf_Teleport.comps.CompUsable.useLabel>
+
+<SpellOf_TransferMana.label>sort de mage : Transfert de mana</SpellOf_TransferMana.label>
+<SpellOf_TransferMana.description>Apprend à un utilisateur de magie à transférer du mana à un autre mage. Si du mana brut est infusé dans un destinataire non-mage, ses traits physiques seront temporairement augmentés.</SpellOf_TransferMana.description>
+<SpellOf_TransferMana.comps.CompUsable.useLabel>Lire</SpellOf_TransferMana.comps.CompUsable.useLabel>
+
+<SpellOf_BlankMind.label>sort d'Enchanteur : Esprit vide</SpellOf_BlankMind.label>
+<SpellOf_BlankMind.description>Apprend à un enchanteur à effacer les souvenirs et à sortir un colon d'un état mental ou à provoquer un étourdissement de longue durée sur les ennemis.</SpellOf_BlankMind.description>
+<SpellOf_BlankMind.comps.CompUsable.useLabel>Lire</SpellOf_BlankMind.comps.CompUsable.useLabel>
+
+<SpellOf_BriarPatch.label>sort de Druide : Lianes épineuses</SpellOf_BriarPatch.label>
+<SpellOf_BriarPatch.description>Apprend à un druide à faire pousser rapidement un danger fait de lianes épineuses.</SpellOf_BriarPatch.description>
+<SpellOf_BriarPatch.comps.CompUsable.useLabel>Lire</SpellOf_BriarPatch.comps.CompUsable.useLabel>
+
+<SpellOf_FertileLands.label>sort de Druide : Terres fertiles</SpellOf_FertileLands.label>
+<SpellOf_FertileLands.description>Apprend à un druide comment favoriser la croissance fertile d'une zone de terre.</SpellOf_FertileLands.description>
+<SpellOf_FertileLands.comps.CompUsable.useLabel>Lire</SpellOf_FertileLands.comps.CompUsable.useLabel>
+
+<SpellOf_MechaniteReprogramming.label>sort de Technomancien : Mécanites reprogrammés</SpellOf_MechaniteReprogramming.label>
+<SpellOf_MechaniteReprogramming.description>Apprend à un technomancien à reprogrammer des mécanites fibreuses ou sensorielles de manière à améliorer les attributs de l'hôte.</SpellOf_MechaniteReprogramming.description>
+<SpellOf_MechaniteReprogramming.comps.CompUsable.useLabel>Lire</SpellOf_MechaniteReprogramming.comps.CompUsable.useLabel>
+
+<SpellOf_Overdrive.label>sort de Technomancien : Surmultiplicateur</SpellOf_Overdrive.label>
+<SpellOf_Overdrive.description>Apprend à l'utilisateur technomancien à surrégler ou à contourner les dispositifs de sécurité des appareils mécaniques, électriques et robotiques, ce qui permet d'augmenter considérablement leurs performances pendant une courte période.</SpellOf_Overdrive.description>
+<SpellOf_Overdrive.comps.CompUsable.useLabel>Lire</SpellOf_Overdrive.comps.CompUsable.useLabel>
+
+<SpellOf_Sabotage.label>sort de Technomancien : Sabotage</SpellOf_Sabotage.label>
+<SpellOf_Sabotage.description>Apprend à un utilisateur technomancien comment créer une boucle de rétroaction dans presque n'importe quel système mécanique, provoquant un dysfonctionnement catastrophique de celui-ci.</SpellOf_Sabotage.description>
+<SpellOf_Sabotage.comps.CompUsable.useLabel>Lire</SpellOf_Sabotage.comps.CompUsable.useLabel>
+
+<SpellOf_TechnoShield.label>sort de Technomancien : Bouclier cinétique</SpellOf_TechnoShield.label>
+<SpellOf_TechnoShield.description>Apprend à un utilisateur technomancien à créer un champ de force unidirectionnel autour d'une cible, capable de repousser les projectiles entrants ou d'augmenter la vitesse des projectiles sortants.</SpellOf_TechnoShield.description>
+<SpellOf_TechnoShield.comps.CompUsable.useLabel>Lire</SpellOf_TechnoShield.comps.CompUsable.useLabel>
+
+<SpellOf_BattleHymn.label>sort de Barde : Hymne de bataille</SpellOf_BattleHymn.label>
+<SpellOf_BattleHymn.description>Apprend à un barde à exécuter un Hymne de bataille.</SpellOf_BattleHymn.description>
+<SpellOf_BattleHymn.comps.CompUsable.useLabel>Lire</SpellOf_BattleHymn.comps.CompUsable.useLabel>
+
+<SpellOf_Blizzard.label>sort de glace : Blizzard</SpellOf_Blizzard.label>
+<SpellOf_Blizzard.description>Apprend à un mage de glace à invoquer un blizzard pour ensevelir ses ennemis sous une grêle de glace et de neige.</SpellOf_Blizzard.description>
+<SpellOf_Blizzard.comps.CompUsable.useLabel>Lire</SpellOf_Blizzard.comps.CompUsable.useLabel>
+
+<SpellOf_BloodMoon.label>sort de Mage de sang : Lune de sang</SpellOf_BloodMoon.label>
+<SpellOf_BloodMoon.description>Apprend à un mage de sang comment invoquer une meute vicieuse de démons de sang.</SpellOf_BloodMoon.description>
+<SpellOf_BloodMoon.comps.CompUsable.useLabel>Lire</SpellOf_BloodMoon.comps.CompUsable.useLabel>
+
+<SpellOf_EyeOfTheStorm.label>sort de foudre : L'œil du cyclone</SpellOf_EyeOfTheStorm.label>
+<SpellOf_EyeOfTheStorm.description>Apprend à un mage de foudre à contenir la fureur brute d'un orage dans une petite sphère et à la projeter le long d'une trajectoire déterminée.</SpellOf_EyeOfTheStorm.description>
+<SpellOf_EyeOfTheStorm.comps.CompUsable.useLabel>Lire</SpellOf_EyeOfTheStorm.comps.CompUsable.useLabel>
+
+<SpellOf_Firestorm.label>sort de feu : Tempête de feu</SpellOf_Firestorm.label>
+<SpellOf_Firestorm.description>Apprend à un mage du feu à manier toute la fureur de l'élément du feu pour brûler la terre dans une tempête de feu.</SpellOf_Firestorm.description>
+<SpellOf_Firestorm.comps.CompUsable.useLabel>Lire</SpellOf_Firestorm.comps.CompUsable.useLabel>
+
+<SpellOf_FoldReality.label>sort des arcanes : Portail</SpellOf_FoldReality.label>
+<SpellOf_FoldReality.description>Apprend à un mage des arcanes à plier la réalité afin d'ouvrir une fenêtre temporaire entre les colonies.</SpellOf_FoldReality.description>
+<SpellOf_FoldReality.comps.CompUsable.useLabel>Lire</SpellOf_FoldReality.comps.CompUsable.useLabel>
+
+<SpellOf_GuardianSpirit.label>sort de Chaman : Esprit gardien</SpellOf_GuardianSpirit.label>
+<SpellOf_GuardianSpirit.description>Apprend à un chaman à invoquer son esprit gardien.</SpellOf_GuardianSpirit.description>
+<SpellOf_GuardianSpirit.comps.CompUsable.useLabel>Lire</SpellOf_GuardianSpirit.comps.CompUsable.useLabel>
+
+<SpellOf_HolyWrath.label>sort de Paladin : Colère divine</SpellOf_HolyWrath.label>
+<SpellOf_HolyWrath.description>Apprend à un paladin à invoquer la colère des dieux.</SpellOf_HolyWrath.description>
+<SpellOf_HolyWrath.comps.CompUsable.useLabel>Lire</SpellOf_HolyWrath.comps.CompUsable.useLabel>
+
+<SpellOf_LichForm.label>sort de Nécromancien : Forme de liche</SpellOf_LichForm.label>
+<SpellOf_LichForm.description>Apprend à un nécromancien à se transformer en liche.</SpellOf_LichForm.description>
+<SpellOf_LichForm.comps.CompUsable.useLabel>Lire</SpellOf_LichForm.comps.CompUsable.useLabel>
+
+<SpellOf_LivingWall.label>sort du Golemancien : Mur vivant</SpellOf_LivingWall.label>
+<SpellOf_LivingWall.description>Apprend à un golemancien comment donner à un mur une volonté propre.</SpellOf_LivingWall.description>
+<SpellOf_LivingWall.comps.CompUsable.useLabel>Lire</SpellOf_LivingWall.comps.CompUsable.useLabel>
+
+<SpellOf_Meteor.label>sort de Géomancien : Météore</SpellOf_Meteor.label>
+<SpellOf_Meteor.description>Apprend à un géomancien comment invoquer un énorme météore pour ensevelir une zone sous des rochers et des débris.</SpellOf_Meteor.description>
+<SpellOf_Meteor.comps.CompUsable.useLabel>Lire</SpellOf_Meteor.comps.CompUsable.useLabel>
+
+<SpellOf_OrbitalStrike.label>sort de Technomancien : Frappe orbitale</SpellOf_OrbitalStrike.label>
+<SpellOf_OrbitalStrike.description>Apprend à un technomancien à accéder aux anciens satellites et systèmes orbitaux et à les utiliser pour lancer une frappe orbitale.</SpellOf_OrbitalStrike.description>
+<SpellOf_OrbitalStrike.comps.CompUsable.useLabel>Lire</SpellOf_OrbitalStrike.comps.CompUsable.useLabel>
+
+<SpellOf_PsychicShock.label>sort de Sorcier : Choc psychique</SpellOf_PsychicShock.label>
+<SpellOf_PsychicShock.description>Apprend à un sorcier à utiliser ses pouvoirs psychiques pour émettre une puissante onde de choc psychique qui submerge et se répercute sur les colons à proximité.</SpellOf_PsychicShock.description>
+<SpellOf_PsychicShock.comps.CompUsable.useLabel>Lire</SpellOf_PsychicShock.comps.CompUsable.useLabel>
+
+<SpellOf_Recall.label>sort de Chronomancien : Rappel</SpellOf_Recall.label>
+<SpellOf_Recall.description>Apprend à un chronomancien comment rappeler son être physique à un état antérieur.</SpellOf_Recall.description>
+<SpellOf_Recall.comps.CompUsable.useLabel>Lire</SpellOf_Recall.comps.CompUsable.useLabel>
+
+<SpellOf_RegrowLimb.label>sort de Druide : Rétablissement</SpellOf_RegrowLimb.label>
+<SpellOf_RegrowLimb.description>Apprend à un druide comment faire rétablir des membres en combinant la nature, les pouvoirs magiques et la science médicale.</SpellOf_RegrowLimb.description>
+<SpellOf_RegrowLimb.comps.CompUsable.useLabel>Lire</SpellOf_RegrowLimb.comps.CompUsable.useLabel>
+
+<SpellOf_Resurrection.label>sort de Prêtre : Résurrection</SpellOf_Resurrection.label>
+<SpellOf_Resurrection.description>Apprend à un prêtre comment redonner l'étincelle de vie aux personnes récemment décédées.</SpellOf_Resurrection.description>
+<SpellOf_Resurrection.comps.CompUsable.useLabel>Lire</SpellOf_Resurrection.comps.CompUsable.useLabel>
+
+<SpellOf_Scorn.label>sort de Succube : Dédain</SpellOf_Scorn.label>
+<SpellOf_Scorn.description>Apprend à une succube à libérer toute la malice de son cœur de démon.</SpellOf_Scorn.description>
+<SpellOf_Scorn.comps.CompUsable.useLabel>Lire</SpellOf_Scorn.comps.CompUsable.useLabel>
+
+<SpellOf_Shapeshift.label>sort d'Enchanteur : Métamorphose</SpellOf_Shapeshift.label>
+<SpellOf_Shapeshift.description>Apprend à un enchanteur comment effectuer un changement de forme sur lui-même sans perdre son identité.</SpellOf_Shapeshift.description>
+<SpellOf_Shapeshift.comps.CompUsable.useLabel>Lire</SpellOf_Shapeshift.comps.CompUsable.useLabel>
+
+<SpellOf_SummonPoppi.label>sort d'Invocateur : Invoquer Poppi</SpellOf_SummonPoppi.label>
+<SpellOf_SummonPoppi.description>Apprend à un invocateur comment invoquer une bande de poppi mignons et câlins.</SpellOf_SummonPoppi.description>
+<SpellOf_SummonPoppi.comps.CompUsable.useLabel>Lire</SpellOf_SummonPoppi.comps.CompUsable.useLabel>
+
+<SpellOf_SpiritOfLight.label>sort Mage de lumière : Lumière d’esprit</SpellOf_SpiritOfLight.label>
+<SpellOf_SpiritOfLight.description>Apprend à un mage de lumière comment invoquer un esprit de lumière.</SpellOf_SpiritOfLight.description>
+<SpellOf_SpiritOfLight.comps.CompUsable.useLabel>Lire</SpellOf_SpiritOfLight.comps.CompUsable.useLabel>
+
+<SkillOf_ThrowingKnife.label>technique de combattant : Couteau de lancer</SkillOf_ThrowingKnife.label>
+<SkillOf_ThrowingKnife.description>Apprend à une classe de combattant la compétence couteau de lancer. Les colons non-violents ne peuvent pas apprendre cette compétence.</SkillOf_ThrowingKnife.description>
+<SkillOf_ThrowingKnife.comps.CompUsable.useLabel>Lire</SkillOf_ThrowingKnife.comps.CompUsable.useLabel>
+
+<SkillOf_BurningFury.label>technique de combattant : Fureur ardente</SkillOf_BurningFury.label>
+<SkillOf_BurningFury.description>Apprend à une classe de combattants à activer l'aura fureur ardente. Les colons non-violents ne peuvent pas apprendre cette compétence.</SkillOf_BurningFury.description>
+<SkillOf_BurningFury.comps.CompUsable.useLabel>Lire</SkillOf_BurningFury.comps.CompUsable.useLabel>
+
+<SkillOf_FightersFocus.label>technique de combattant : Concentration de combattants</SkillOf_FightersFocus.label>
+<SkillOf_FightersFocus.description>Apprend à une classe de combattants à consacrer une partie de son endurance pour résister à un stress mental et physique plus important.</SkillOf_FightersFocus.description>
+<SkillOf_FightersFocus.comps.CompUsable.useLabel>Lire</SkillOf_FightersFocus.comps.CompUsable.useLabel>
+
+<SkillOf_GearRepair.label>technique de combattant : Équipement réparé</SkillOf_GearRepair.label>
+<SkillOf_GearRepair.description>Apprend à une classe de combattants à consacrer une partie de son endurance à l'entretien et à la réparation de l'équipement usé.</SkillOf_GearRepair.description>
+<SkillOf_GearRepair.comps.CompUsable.useLabel>Lire</SkillOf_GearRepair.comps.CompUsable.useLabel>
+
+<SkillOf_HeavyBlow.label>technique de combattant : Coup puissant</SkillOf_HeavyBlow.label>
+<SkillOf_HeavyBlow.description>Apprend à une classe de combattants à consacrer une partie de son endurance pour augmenter la puissance de chaque attaque.</SkillOf_HeavyBlow.description>
+<SkillOf_HeavyBlow.comps.CompUsable.useLabel>Lire</SkillOf_HeavyBlow.comps.CompUsable.useLabel>
+
+<SkillOf_InnerHealing.label>technique de combattant : Guérison interne</SkillOf_InnerHealing.label>
+<SkillOf_InnerHealing.description>Apprend à une classe de combattants à consacrer une partie de son endurance et de son énergie physique à l'augmentation du taux de guérison et à l'amélioration de l'immunité aux maladies.</SkillOf_InnerHealing.description>
+<SkillOf_InnerHealing.comps.CompUsable.useLabel>Lire</SkillOf_InnerHealing.comps.CompUsable.useLabel>
+
+<SkillOf_Legion.label>technique de combattant : Légion</SkillOf_Legion.label>
+<SkillOf_Legion.description>Apprend à un combattant à reproduire les capacités de combat d'une autre classe de combattants.</SkillOf_Legion.description>
+<SkillOf_Legion.comps.CompUsable.useLabel>Lire</SkillOf_Legion.comps.CompUsable.useLabel>
+
+<SkillOf_PommelStrike.label>technique de combattant : Frappe du pommeau</SkillOf_PommelStrike.label>
+<SkillOf_PommelStrike.description>Apprend à une classe de combattants à porter un coup non mortel pour étourdir ou assommer une cible.</SkillOf_PommelStrike.description>
+<SkillOf_PommelStrike.comps.CompUsable.useLabel>Lire</SkillOf_PommelStrike.comps.CompUsable.useLabel>
+
+<SkillOf_Sprint.label>technique de combattant : Sprint</SkillOf_Sprint.label>
+<SkillOf_Sprint.description>Apprend à une classe de combattants à consacrer une partie de son endurance pour une vitesse de déplacement accrue.</SkillOf_Sprint.description>
+<SkillOf_Sprint.comps.CompUsable.useLabel>Lire</SkillOf_Sprint.comps.CompUsable.useLabel>
+
+<SkillOf_StrongBack.label>technique de combattant : Dos solide</SkillOf_StrongBack.label>
+<SkillOf_StrongBack.description>Apprend à une classe de combattants à consacrer une partie de son endurance à l'augmentation des capacités de transport et d'inventaire.</SkillOf_StrongBack.description>
+<SkillOf_StrongBack.comps.CompUsable.useLabel>Lire</SkillOf_StrongBack.comps.CompUsable.useLabel>
+
+<SkillOf_Taunt.label>technique de combattant : Provocation</SkillOf_Taunt.label>
+<SkillOf_Taunt.description>Apprend à une classe de combattants à défier les ennemis proches.</SkillOf_Taunt.description>
+<SkillOf_Taunt.comps.CompUsable.useLabel>Lire</SkillOf_Taunt.comps.CompUsable.useLabel>
+
+<SkillOf_TempestStrike.label>technique de combattant : Éclair de tempête</SkillOf_TempestStrike.label>
+<SkillOf_TempestStrike.description>Apprend à une classe de combattants une technique pour frapper en succession rapide en utilisant son arme.</SkillOf_TempestStrike.description>
+<SkillOf_TempestStrike.comps.CompUsable.useLabel>Lire</SkillOf_TempestStrike.comps.CompUsable.useLabel>
+
+<SkillOf_ThickSkin.label>technique de combattant : Peau dure</SkillOf_ThickSkin.label>
+<SkillOf_ThickSkin.description>Apprend à une classe de combattants à consacrer une partie de son endurance à l'augmentation des valeurs d'armure et du seuil de température.</SkillOf_ThickSkin.description>
+<SkillOf_ThickSkin.comps.CompUsable.useLabel>Lire</SkillOf_ThickSkin.comps.CompUsable.useLabel>
+
+<GemstoneOfInsight_Magic.label>gemme de connaissance magique</GemstoneOfInsight_Magic.label>
+<GemstoneOfInsight_Magic.description>Imprègne l'utilisateur d'un esprit magique, lui conférant le trait "doué en magie".\n\n**Remarque : l'utilisation de cet objet remplacera un trait aléatoire si l'utilisateur possède plus de 7 traits et ne peut pas être utilisé par un colon possédant des traits de magie ou de combat**.</GemstoneOfInsight_Magic.description>
+<GemstoneOfInsight_Magic.comps.CompUsable.useLabel>Utiliser</GemstoneOfInsight_Magic.comps.CompUsable.useLabel>
+
+<GemstoneOfInsight_Might.label>gemme de connaissance physique</GemstoneOfInsight_Might.label>
+<GemstoneOfInsight_Might.description>Imprègne l'utilisateur de l'esprit d'un guerrier, lui conférant le trait "doué en combat".\n\n**Remarque : l'utilisation de cet objet remplacera un trait aléatoire si l'utilisateur possède plus de 7 traits et ne peut pas être utilisé par un colon possédant des traits de magie ou de combat**.</GemstoneOfInsight_Might.description>
+<GemstoneOfInsight_Might.comps.CompUsable.useLabel>Utiliser</GemstoneOfInsight_Might.comps.CompUsable.useLabel>
+
+
+		<!-- +++++ MageWeapons +++++ -->
+<TM_ElephantSpear.label>lance d'éléphant</TM_ElephantSpear.label>
+<TM_ElephantSpear.description>La lance d'éléphant est fabriquée à partir des défenses d'un éléphant et elle est généralement un symbole de statut réservé aux chasseurs de têtes ou aux chefs de tribu. Le manche est gravé d'enchantements mineurs qui renforcent les capacités de combat de l'utilisateur.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +10%\nAugmente les dégâts : +10%\nRésistance magique : +20%</TM_ElephantSpear.description>
+<TM_ElephantSpear.tools.shaft.label>manche</TM_ElephantSpear.tools.shaft.label>
+<TM_ElephantSpear.tools.point.label>pointe</TM_ElephantSpear.tools.point.label>
+<TM_ElephantSpear.tools.slash.label>tranchant</TM_ElephantSpear.tools.slash.label>
+
+<TM_ElephantTusk.label>défense d'éléphant</TM_ElephantTusk.label>
+<TM_ElephantTusk.description>Cette défense d'éléphant a été sculptée en un long couteau de combat rapproché pour les attaques perforantes et tranchantes. La poignée est enveloppée de cuir et possède un petit contrepoids pour améliorer la manipulation et le poids léger de la lame permet des attaques rapides. Cependant, le faible poids et la souplesse de la lame en font un mauvais choix contre un adversaire lourdement blindé.</TM_ElephantTusk.description>
+<TM_ElephantTusk.tools.handle.label>poignée</TM_ElephantTusk.tools.handle.label>
+<TM_ElephantTusk.tools.point.label>pointe</TM_ElephantTusk.tools.point.label>
+<TM_ElephantTusk.tools.edge.label>tranchant</TM_ElephantTusk.tools.edge.label>
+
+<Projectile_ElephantBow.label>flèche</Projectile_ElephantBow.label>
+<TM_ElephantBow.label>arc d'éléphant</TM_ElephantBow.label>
+<TM_ElephantBow.description>Un arc façonné à partir de défenses d'éléphant. Les défenses sont évidées pour diminuer la rigidité et réduire le poids, et adoucies en les trempant dans un composé de magicite qui augmente la souplesse. L'arc d'éléphant offre des améliorations significatives en termes de portée et de précision pour les cibles éloignées par rapport au grand arc, bien qu'il soit légèrement plus difficile à manier.\n\nL'arc d'éléphant est gravé d'enchantements mineurs et elle est l'arme préférée de nombreux rôdeurs et chasseurs expérimentés.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +5%\nRégénération d'énergie : +5%\nAugmente les dégâts : +10%\nTemps de recharge : -10%</TM_ElephantBow.description>
+<TM_ElephantBow.tools.limb.label>limb</TM_ElephantBow.tools.limb.label>
+<TM_ElephantBow.verbs.Verb_Shoot.label>arc éléphant</TM_ElephantBow.verbs.Verb_Shoot.label>
+
+<TM_ThrumboAxe.label>hache de thrumbo</TM_ThrumboAxe.label>
+<TM_ThrumboAxe.description>Une hache fabriquée à partir de cornes de thrumbo qui sont fusionnées avec une attache faite de magicite. Ce fermoir stocke le potentiel magique et le transfère sous forme de force physique lorsque la hache est balancée, ce qui lui permet de porter des coups puissants capables de frapper plusieurs adversaires. Le manche est également gravé de runes magiques qui augmentent la puissance du manieur.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +10%\nAugmente les dégâts : +20%\nRésistance magique : +30%\nFrappes enchaînées</TM_ThrumboAxe.description>
+<TM_ThrumboAxe.tools.handle.label>poignée</TM_ThrumboAxe.tools.handle.label>
+<TM_ThrumboAxe.tools.cleave.label>tranchant</TM_ThrumboAxe.tools.cleave.label>
+<TM_ThrumboAxe.tools.horns.label>cornes</TM_ThrumboAxe.tools.horns.label>
+
+<TM_ThrumboSaber.label>sabre de thrumbo</TM_ThrumboSaber.label>
+<TM_ThrumboSaber.description>Une lame tranchante comme un rasoir, forgée à partir de la corne d'un thrumbo et imprégnée d'énergie magique. Le sabre thrumbo est plus léger que les lames métalliques et son tranchant peut traverser toutes les armures, sauf les plus épaisses. De nombreux maîtres de lames préfèrent cette arme car elle est conçue pour la vitesse et la létalité. D'autres enchantements peuvent également accélérer l'utilisateur, doublant sa vitesse d'attaque pendant une courte période.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nTemps de recharge : -10%\nAugmente les dégâts : +10%\nHâte si touché (25%)</TM_ThrumboSaber.description>
+<TM_ThrumboSaber.tools.pommel.label>pommeau</TM_ThrumboSaber.tools.pommel.label>
+<TM_ThrumboSaber.tools.stab.label>lame</TM_ThrumboSaber.tools.stab.label>
+<TM_ThrumboSaber.tools.edge.label>tranchant</TM_ThrumboSaber.tools.edge.label>
+
+<TM_Ruunbled.label>ruunbled</TM_Ruunbled.label>
+<TM_Ruunbled.description>Cette lame massive est gravée de runes complexes de la poignée jusqu’à sa pointe. Elle est forgée dans un matériau inconnu, sa lame est coupante comme un rasoir et ne pèse qu'une fraction de sa taille. Malgré sa taille, l'arme est facile à manier et vibre de puissance. Vous ne pouvez qu'imaginer les origines de cette arme, peut-être issue d'anciennes technologies perdues dans le temps ou fabriquée avec un pouvoir mystérieux. Le seul indice est un petit mot écrit dans une écriture élégante et imprimé sur la poignée avec le nom "Ruunbled". Vous n'êtes pas sûr qu'il s'agisse d'une entreprise de fabrication, du nom du fabricant ou du nom de la lame elle-même. Quoi qu'il en soit, il ne fait aucun doute que cette arme représente l'apogée de sa catégorie.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nTemps de recharge : -20%\nCoûts en énergie : -20%\nAugmente les dégâts : +25%\nRésistance magique : +25%\nHâte si touché (20%)\nDéviation (30%)\nFrappes enchaînées</TM_Ruunbled.description>
+<TM_Ruunbled.tools.pommel.label>pommeau</TM_Ruunbled.tools.pommel.label>
+<TM_Ruunbled.tools.stab.label>lame</TM_Ruunbled.tools.stab.label>
+<TM_Ruunbled.tools.edge.label>tranchant</TM_Ruunbled.tools.edge.label>
+
+<Projectile_ThrumArrow.label>flèche</Projectile_ThrumArrow.label>
+<TM_ThrumBow.label>arc de thrumbo</TM_ThrumBow.label>
+<TM_ThrumBow.description>Un arc façonné à partir de la corne d'un Thrumbo. La corne est évidée pour en diminuer le poids et adoucie en la trempant dans un composé magicite qui lui confère une souplesse surprenante. L'arc est encore amélioré par des enchantements intégrés et des gravures magiques qui parcourent toute la longueur de l'arc. On dit de l'arc qu'il est presque sensible, capable de déterminer la cible visée grâce à un lien mental avec celui qui le manie. Les flèches tirées par cet arc atteignent presque toujours leur cible. Cet effet a cependant tendance à tromper les capacités de l'utilisateur.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +20%\nRégénération d'énergie : +10%\nAugmente les dégâts : +20%\nTemps de recharge : -10%\nGain d'XP de classe : -20</TM_ThrumBow.description>
+<TM_ThrumBow.tools.limb.label>limb</TM_ThrumBow.tools.limb.label>
+<TM_ThrumBow.verbs.Verb_Shoot.label>arc thrumbo</TM_ThrumBow.verbs.Verb_Shoot.label>
+
+<TM_DemonFang.label>croc de démon</TM_DemonFang.label>
+<TM_DemonFang.description>Une lame courte mortelle qui peut infliger une toxine de belladone. Le croc du démon est léger, ses attaques sont rapides et il bénéficie du type de matériau utilisé pour sa fabrication. Cependant, les dégâts de cette arme sont inférieurs à ceux des autres armes de haut niveau. En raison de la nature de sa fabrication, elle bénéficie de plusieurs enchantements lourds qui augmenteront les compétences de son utilisateur.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nCoûts en énergie : -10%\nTemps de recharge : -15%\nAugmente les dégâts : +25%\nToxine des ténèbres si touché (20%)</TM_DemonFang.description>
+<TM_DemonFang.tools.stab.label>lame</TM_DemonFang.tools.stab.label>
+<TM_DemonFang.tools.edge.label>tranchant</TM_DemonFang.tools.edge.label>
+
+<Projectile_FireWand.label>baguette de feu</Projectile_FireWand.label>
+<TM_FireWand.label>baguette de feu</TM_FireWand.label>
+<TM_FireWand.description>Une baguette capable de convertir lentement l'énergie magique à proximité en feu élémentaire. Les baguettes sont plus utilisées comme outils de concentration pour exploiter la puissance innée que comme une arme en soi.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et combattants entraînés :\nÉnergie maximum : +5%\nRégénération d'énergie : +5%\nAugmente les dégâts : +15%</TM_FireWand.description>
+<TM_FireWand.tools.wand.label>baguette</TM_FireWand.tools.wand.label>
+<TM_FireWand.verbs.Verb_Shoot.label>baguette de feu</TM_FireWand.verbs.Verb_Shoot.label>
+
+<Projectile_IceWand.label>baguette de glace</Projectile_IceWand.label>
+<TM_IceWand.label>baguette de glace</TM_IceWand.label>
+<TM_IceWand.description>Une baguette capable de convertir lentement l'énergie magique à proximité en glace élémentaire. Les baguettes sont plus utilisées comme outils de concentration pour exploiter la puissance innée que comme une arme en soi.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et combattants entraînés :\nÉnergie maximum : +5%\nRégénération d'énergie : +5%\nAugmente les dégâts : +15%</TM_IceWand.description>
+<TM_IceWand.tools.wand.label>baguette</TM_IceWand.tools.wand.label>
+<TM_IceWand.verbs.Verb_Shoot.label>baguette de glace</TM_IceWand.verbs.Verb_Shoot.label>
+
+<Projectile_LightningWand.label>baguette de foudre</Projectile_LightningWand.label>
+<TM_LightningWand.label>baguette de foudre</TM_LightningWand.label>
+<TM_LightningWand.description>Une baguette capable de convertir lentement l'énergie magique à proximité en foudre élémentaire. Les baguettes sont plus utilisées comme outils de concentration pour exploiter la puissance innée que comme une arme en soi.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et combattants entraînés :\nÉnergie maximum : +5%\nRégénération d'énergie : +5%\nAugmente les dégâts : +15%</TM_LightningWand.description>
+<TM_LightningWand.tools.wand.label>baguette</TM_LightningWand.tools.wand.label>
+<TM_LightningWand.verbs.Verb_Shoot.label>baguette de foudre</TM_LightningWand.verbs.Verb_Shoot.label>
+
+<TM_DefenderStaff.label>bâton de défenseur</TM_DefenderStaff.label>
+<TM_DefenderStaff.description>Un bâton fabriqué à partir d'un ancien modèle portant une aura palpable de sagesse. Ce bâton est capable de puiser dans le royaume des esprits et de permettre à celui qui le manie de communiquer avec les esprits de ses ancêtres qui peuvent manifester leur pouvoir sous la forme d'une barrière physique. L'énergie nécessaire pour effectuer cette action provient des esprits eux-mêmes et ne consomme pas l'énergie de l'utilisateur, bien que les esprits aient besoin de temps pour se reposer entre les demandes.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +30%\nRégénération d'énergie : +20%\nRésistance magique : +20%\n\nL'augmentation ajoute une capacité : Barrière des arcanes</TM_DefenderStaff.description>
+<TM_DefenderStaff.tools.rod.label>manche</TM_DefenderStaff.tools.rod.label>
+<TM_DefenderStaff.tools.staff_head.label>tête</TM_DefenderStaff.tools.staff_head.label>
+<TM_DefenderStaff.verbs.Verb_BlazingPower.label>bâton de défenseur</TM_DefenderStaff.verbs.Verb_BlazingPower.label>
+
+<Projectile_BlazingPower.label>puissance flamboyante</Projectile_BlazingPower.label>
+<TM_BlazingPowerStaff.label>bâton de puissance flamboyante</TM_BlazingPowerStaff.label>
+<TM_BlazingPowerStaff.description>Un bâton qui crée un lien mental avec celui qui le manie afin d'exploiter une énergie concentrée qui peut être utilisée pour lancer un flot de projectiles ardents ou créer une barrière solide autour de celui qui le manie afin de dévier les projectiles. Les mages bénéficient d'une augmentation considérable de leurs sorts magiques lorsqu'ils manient ce bâton, mais pour un colon ordinaire, ce n'est rien d'autre qu'une arme émoussée.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +20%\nRégénération d'énergie : +10%\nAugmente les dégâts : +40%</TM_BlazingPowerStaff.description>
+<TM_BlazingPowerStaff.tools.rod.label>manche</TM_BlazingPowerStaff.tools.rod.label>
+<TM_BlazingPowerStaff.tools.staff_head.label>tête</TM_BlazingPowerStaff.tools.staff_head.label>
+<TM_BlazingPowerStaff.verbs.Verb_BlazingPower.label>bâton de puissance flamboyante</TM_BlazingPowerStaff.verbs.Verb_BlazingPower.label>
+
+<Projectile_SeerRing_Fire.label>feu élémentaire</Projectile_SeerRing_Fire.label>
+<Seer_FireRing.label>anneau de feu élémentaire</Seer_FireRing.label>
+<Seer_FireRing.description>Un ancien artefact lié à celui qui le manie permettant aux courants élémentaires de circuler à travers l'hôte. Si l'hôte est séparé de l'anneau, le contrat qui le lie à ce royaume est annulé, détruisant l'artefact.</Seer_FireRing.description>
+<Seer_FireRing.tools.elemental_fist.label>poing élémentaire</Seer_FireRing.tools.elemental_fist.label>
+<Seer_FireRing.verbs.Verb_Shoot.label>anneau de feu élémentaire</Seer_FireRing.verbs.Verb_Shoot.label>
+
+<Projectile_SeerRing_Ice.label>glace élémentaire</Projectile_SeerRing_Ice.label>
+<Seer_IceRing.label>anneau de glace élémentaire</Seer_IceRing.label>
+<Seer_IceRing.description>Un ancien artefact lié à celui qui le manie permettant aux courants élémentaires de circuler à travers l'hôte. Si l'hôte est séparé de l'anneau, le contrat qui le lie à ce royaume est annulé, détruisant l'artefact.</Seer_IceRing.description>
+<Seer_IceRing.tools.elemental_fist.label>poing élémentaire</Seer_IceRing.tools.elemental_fist.label>
+<Seer_IceRing.verbs.Verb_Shoot.label>anneau de glace élémentaire</Seer_IceRing.verbs.Verb_Shoot.label>
+
+<Laser_SeerRing_Lightning.label>foudre élémentaire</Laser_SeerRing_Lightning.label>
+<Seer_LightningRing.label>anneau de foudre élémentaire</Seer_LightningRing.label>
+<Seer_LightningRing.description>Un ancien artefact lié à celui qui le manie permettant aux courants élémentaires de circuler à travers l'hôte. Si l'hôte est séparé de l'anneau, le contrat qui le lie à ce royaume est annulé, détruisant l'artefact.</Seer_LightningRing.description>
+<Seer_LightningRing.tools.elemental_fist.label>poing élémentaire</Seer_LightningRing.tools.elemental_fist.label>
+<Seer_LightningRing.verbs.Verb_Shoot.label>anneau de foudre élémentaire</Seer_LightningRing.verbs.Verb_Shoot.label>
+
+
+		<!-- +++++ ManaPotion +++++ -->
+<ManaPotion.label>potion de mana</ManaPotion.label>
+<ManaPotion.description>Un complément magique qui permet aux utilisateurs de la magie de récupérer rapidement du mana. Les potions de mana fonctionnent en agissant comme un suppresseur naturel des résistances d'absorption de mana du corps.\n\nLes utilisateurs sont avertis, le contournement des résistances naturelles peut causer des dommages mentaux et sensoriels.</ManaPotion.description>
+<ManaPotion.ingestible.ingestCommandString>Consommer la {0}</ManaPotion.ingestible.ingestCommandString>
+<ManaPotion.ingestible.ingestReportString>Consomme la {0}.</ManaPotion.ingestible.ingestReportString>
+
+
+		<!-- +++++ TM_Apparel +++++ -->
+<TM_MaestersCloak.label>cape d'errant</TM_MaestersCloak.label>
+<TM_MaestersCloak.description>Une cape conçue pour les mages voyageurs qui offre une protection contre les éléments et améliore le taux de récupération d'énergie. La méthode d'infusion de gemmes magiques dans le tissu pendant la fabrication permet d'obtenir une efficacité d'enchantement inégalée.\n\nCette cape est enchantée et offre des avantages supplémentaires aux mages entraînés.\nÉnergie maximum : +12%\nTemps de recharge : -20%\nRésistance magique : +5%</TM_MaestersCloak.description>
+
+<DemonLordCloak.label>cape de suprématie</DemonLordCloak.label>
+<DemonLordCloak.description>Une cape fortement augmentée par la puissance magique qui aurait été fabriquée pour un chevalier noir agissant comme ambassadeur d'un démon astral. Il est difficile de se concentrer sur le tissu d'une manière qui ne peut être décrite que comme un "bruit visuel" et les plis du tissu se déplacent d'une manière non naturelle comme s'ils n'étaient pas limités par la loi de la nature. Les rares personnes qui ont porté cette cape au combat jurent qu'elle possède une conscience propre et racontent que le tissu les a protégés d'une mort certaine.  D'autres prétendent que ces observations ne sont que des hallucinations de fous dérangés. En raison de ces affirmations, la rumeur veut que la cape ait la capacité d'atténuer complètement les attaques contre celui qui la porte, mais personne n'a été capable de reproduire ces résultats avec fiabilité.\n\nLes robes de suprématie sont enchantées et offrent des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +40%\nRégénération d'énergie : +40%\nTemps de recharge : -20%\n\nAugmentation par Transfert fantôme : 20% de chances d'éviter une attaque.</DemonLordCloak.description>
+
+<DarkRobe.label>robe de mage</DarkRobe.label>
+<DarkRobe.description>Robes portées par les hérauts de la magie. Les porteurs de cette robe démontrent une volonté de faire des sacrifices physiques pour augmenter leur pouvoir inné.\n\nLes robes de mage sont enchantées et offrent des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +17.5%\nRégénération d'énergie : +10%\nTemps de recharge : -15%\nCoûts en énergie : -15%\nGain d'XP de classe : +10%\nRésistance magique : +10%</DarkRobe.description>
+
+<AncientMail.label>ancienne mailles</AncientMail.label>
+<AncientMail.description>Cotte de mailles forgée avec un design ancien qui fournit une défense physique supérieure à la moyenne. Le design de l'armure comprend une gravure symétrique de runes magiques qui confèrent à celui qui la porte un pouvoir accru. Une fois forgées, ces runes attirent un esprit ancien qui incarne la cotte de mailles et donne au porteur une chance de causer des dégâts magiques supplémentaires après n'importe quelle attaque ; cependant, cela a un prix - toutes les capacités demandent plus d'énergie pour être utilisées, et le porteur est assailli de cauchemars qui détruisent lentement ses résistances mentales.\n\nLa cotte de mailles ancienne est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +8%\nRégénération d'énergie : +10%\nCoûts en énergie : +15%\nRésistance magique : +20%\n\nAugmentation par Spectre magique : 50% de chances d'infliger 20% de dégâts supplémentaires.</AncientMail.description>
+
+<RoyalArmor.label>armure de vaillant</RoyalArmor.label>
+<RoyalArmor.description>Un plastron gravé de symboles sacrés, conçu pour protéger les zones vitales sans limiter le mouvement. On dit qu'il était porté par des guerriers saints d'une époque révolue qui maintenaient la paix avec justice et compassion dans une égale mesure. On ne sait pas ce qu'il est advenu de cet ordre, mais il est difficile de croire que cela ait eu un rapport avec leurs compétences en matière d'armure.\n\nL'Armure de vaillant est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nCoûts en énergie : -10%\nGain d'XP de classe : +10%</RoyalArmor.description>
+
+<TM_DreamcatcherBuckskin.label>attrape-rêves peau de daim</TM_DreamcatcherBuckskin.label>
+<TM_DreamcatcherBuckskin.description>Une peau de daim en patchwork de cuir cousu, ornée de souvenirs d'animaux et imprégnée d'énergies mystiques. Principalement portée par les chefs mystiques tribaux, la peau de daim de l'attrape-rêves représente la connexion onirique entre la nature et les esprits.\n\nLes mystiques tirent un pouvoir supplémentaire du symbolisme de cette tenue :\nÉnergie maximum : +40\nGain d'XP de classe : +30%\nRésistance magique : +25%</TM_DreamcatcherBuckskin.description>
+
+<ArchMageRobe.label>robe d'archimage</ArchMageRobe.label>
+<ArchMageRobe.description>Les robes conçues par une race supérieure sont destinées aux utilisateurs de magie de la plus haute classe qui sont dignes de bénéficier d'un surcroît de puissance et de connaissances. Ces robes légères et fluides semblent propulser celui qui les porte comme s'il était porté par une grande bête ailée.\n\nLes robes d'Archimage sont enchantées et offrent des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +25\nRégénération d'énergie : +25%\nTemps de recharge : -20%\nCoûts en énergie : -10%\nRésistance magique : +15%\nDégâts de capacité : +20%</ArchMageRobe.description>
+
+<TM_WizardHat.label>chapeau de sorcier</TM_WizardHat.label>
+<TM_WizardHat.description>Un chapeau classique conçu pour tous les mages et les sorciers. Ce chapeau possède des compartiments de transport secrets et bénéficie également de bonus sociaux et de bonus de production de médicaments.\n\nLe chapeau de sorcier est enchanté et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +5%\nPuissance magique : +5%</TM_WizardHat.description>
+
+<ArcaneHood.label>chaperon magique</ArcaneHood.label>
+<ArcaneHood.description>Un chaperon préféré des mages pour ses propriétés magiques, sa légèreté et son confort. La méthode d'infusion du tissu avec des enchantements avant le tissage du chaperon donne de meilleurs résultats d'enchantement.\n\nLe chaperon magique est enchanté et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +10%\nRégénération d'énergie : +10%\nRésistance magique : +10%</ArcaneHood.description>
+
+<HoodOfMadness.label>chaperon de folie</HoodOfMadness.label>
+<HoodOfMadness.description>Un chaperon sombre qui a la réputation d'être maudit, bien que ses propriétés magiques soient indéniables. Ceux qui portent cette capuche ont la capacité de voir des manifestations d'énergie magique et d'apprendre des choses qu'ils ne pourraient pas voir autrement. L'apparence de la capuche et la peur des secrets révélés conduisent la plupart des gens à se méfier de ceux qui la portent. De même, ceux qui voient à travers les yeux de ce chaperon commencent à se méfier de ceux qui les entourent.\n\nLe chaperon de folie est enchanté et offre des avantages supplémentaires aux mages et combattants entraînés :\nGain d'XP de classe : +30%\nRésistance magique : 30%</HoodOfMadness.description>
+
+<RoyalHelm.label>heaume de vaillant</RoyalHelm.label>
+<RoyalHelm.description>Un heaume en forme de barbue conçu pour maximiser la protection sans restreindre la vision ou la voix. Ces casques sont une pièce complémentaire de l'ensemble armure de vaillant et améliorent les capacités magiques de celui qui les porte tout en lui offrant une protection physique remarquable.\n\nLe heaume de vaillant est enchanté et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nCoûts en énergie : -5%\nGain d'XP de classe : +10%</RoyalHelm.description>
+
+<ParagonHelm.label>heaume du parangon</ParagonHelm.label>
+<ParagonHelm.description>Un heaume fortement enchanté destiné à identifier les guerriers d'élite des vaillants.\n\nLe heaume du parangon est enchanté et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nCoûts en énergie : -5%\nGain d'XP de classe : +15%\nÉnergie maximum : +5%\nRésistance magique : +10%</ParagonHelm.description>
+
+<TM_DreamcatcherCoronet.label>couronne attrape-rêves</TM_DreamcatcherCoronet.label>
+<TM_DreamcatcherCoronet.description>Une coiffe en cuir d'animal en patchwork surmontée d'une majestueuse couronne de ramures. Cette coiffe désigne son porteur comme le chef spirituel d'une tribu. On dit que la couronne attrape-rêves donne aux utilisateurs doués la capacité de voir la nature à travers les yeux de leur animal spirituel.\n\nLes mystiques tirent un pouvoir supplémentaire du symbolisme de cette tenue :\nÉnergie maximum : +25\nGain d'XP de classe : +20%\nRésistance magique : +20%</TM_DreamcatcherCoronet.description>
+
+
+		<!-- +++++ TM_Apparel_Artifacts +++++ -->
+<TM_Artifact_Silver.label>pendentif de vif-argent</TM_Artifact_Silver.label>
+<TM_Artifact_Silver.description>Un pendentif enchanté avec de l'essence d'argent. Connu sous le nom de pendentif de vif-argent, cet artefact coûteux est réputé d'accorder une agilité accrue à son porteur.</TM_Artifact_Silver.description>
+
+<TM_Artifact_Slate.label>pendentif de réparation</TM_Artifact_Slate.label>
+<TM_Artifact_Slate.description>Un pendentif enchanté avec l'essence de l'ardoise. Le pendentif d'ardoise de réparation récupère lentement la durabilité de tout équipement usé.</TM_Artifact_Slate.description>
+
+<TM_Artifact_Medicine.label>charme de santé</TM_Artifact_Medicine.label>
+<TM_Artifact_Medicine.description>Ce charme améliore la santé de son porteur, lui conférant une meilleure immunité aux maladies et aide les blessures à guérir plus rapidement.</TM_Artifact_Medicine.description>
+
+<TM_Artifact_Limestone.label>pendentif œil de chat</TM_Artifact_Limestone.label>
+<TM_Artifact_Limestone.description>Un pendentif enchanté avec l'essence du calcaire. Le porteur gagne une meilleure vue et peut voir dans l'obscurité. Ce pendentif émet une douce lueur.</TM_Artifact_Limestone.description>
+
+<TM_Artifact_Granite.label>anneau du travail</TM_Artifact_Granite.label>
+<TM_Artifact_Granite.description>Un anneau enchanté avec l'essence du granit. Cet anneau confère à son porteur une capacité de charge et de manipulation accrue.</TM_Artifact_Granite.description>
+
+<TM_Artifact_Marble.label>pendentif garde-esprit</TM_Artifact_Marble.label>
+<TM_Artifact_Marble.description>Un pendentif enchanté avec l'essence du marbre. Ce pendentif améliore l'état mental de son porteur et lui fournit un ancrage mental. Le pendentif permet occasionnellement à son porteur de sortir de ses états mentaux.</TM_Artifact_Marble.description>
+
+<TM_Artifact_Sandstone.label>charme du repos</TM_Artifact_Sandstone.label>
+<TM_Artifact_Sandstone.description>Un pendentif enchanté avec l'essence du grès. Ce pendentif améliore la qualité du repos de celui qui le porte et empêche les passants de perturber son sommeil.</TM_Artifact_Sandstone.description>
+
+<TM_Artifact_Steel.label>amulette de protection</TM_Artifact_Steel.label>
+<TM_Artifact_Steel.description>Un pendentif enchanté avec l'essence de l'acier. Ce pendentif améliore magiquement les défenses de celui qui le porte.</TM_Artifact_Steel.description>
+
+<TM_Artifact_Iron.label>amulette de protection mineure</TM_Artifact_Iron.label>
+<TM_Artifact_Iron.description>Un pendentif enchanté avec l'essence du fer. Ce pendentif améliore magiquement les défenses de celui qui le porte.</TM_Artifact_Iron.description>
+
+<TM_Artifact_Jade.label>anneau de récupération de la magie</TM_Artifact_Jade.label>
+<TM_Artifact_Jade.description>Un anneau enchanté avec l'essence de jade. Cet anneau augmente la vitesse à laquelle son porteur récupère de la faiblesse magique.</TM_Artifact_Jade.description>
+
+<TM_Artifact_Gold.label>anneau d'autorité</TM_Artifact_Gold.label>
+<TM_Artifact_Gold.description>Un anneau enchanté avec l'essence de l'or. Cet anneau augmente les capacités de négociation de celui qui le porte.</TM_Artifact_Gold.description>
+
+<TM_Artifact_Magicyte.label>anneau de la connaissance</TM_Artifact_Magicyte.label>
+<TM_Artifact_Magicyte.description>Un anneau enchanté avec l'essence de la magicite. Cet anneau améliore la vitesse d'apprentissage.</TM_Artifact_Magicyte.description>
+
+<TM_Artifact_Wood.label>anneau d'éclaireur</TM_Artifact_Wood.label>
+<TM_Artifact_Wood.description>Un anneau enchanté avec l'essence du bois. Le porteur de cet anneau ne sera pas ralenti par le terrain et bénéficie d'une amélioration de la recherche de nourriture lorsqu'il est à bord d'une caravane.</TM_Artifact_Wood.description>
+
+<TM_Artifact_BracersOfThePacifist.label>brassards du pacifiste</TM_Artifact_BracersOfThePacifist.label>
+<TM_Artifact_BracersOfThePacifist.description>Ces brassards semblent n'être rien de plus qu'un tissu fin enveloppé de cuir, mais leur apparence banale est démentie par un pouvoir remarquable. Cet objet ne peut être porté que par un colon qui a rejeté la violence.\n\nEnchantements :\nÉnergie maximum : +40\nRégénération d'énergie : +40%.\nRésistance magique : +50%\nRécupération magique - diminue le temps de récupération d'une faiblesse magique.</TM_Artifact_BracersOfThePacifist.description>
+
+<TM_Artifact_BracersOfDefense.label>brassards de défense</TM_Artifact_BracersOfDefense.label>
+<TM_Artifact_BracersOfDefense.description>Des brassards fabriqués dans un matériau durci qui permettent au porteur de bloquer les attaques physiques. 40% de chances de blocage.\n\nEnchantements :\nRésistance magique : 10%</TM_Artifact_BracersOfDefense.description>
+
+<TM_Artifact_BracersOfDeflection.label>brassards de déviation</TM_Artifact_BracersOfDeflection.label>
+<TM_Artifact_BracersOfDeflection.description>Des brassards fabriqués en matériau réactif qui permettent au porteur de bloquer les attaques et de dévier les projectiles. 30% de chances de blocage, toutes les attaques bloquées sont déviées contre les ennemis situés dans un rayon de 8 cases.\n\nEnchantements :\nRésistance magique : 10%</TM_Artifact_BracersOfDeflection.description>
+
+<TM_Artifact_RingOfKeenIntellect.label>anneau d'intelligence vive</TM_Artifact_RingOfKeenIntellect.label>
+<TM_Artifact_RingOfKeenIntellect.description>Un anneau qui élargit l'esprit et accroît l'acuité mentale mais augmente le stress.\n\nEnchantements :\nGain d'XP : +25</TM_Artifact_RingOfKeenIntellect.description>
+
+<TM_Artifact_RingOfBlood.label>anneau de sang</TM_Artifact_RingOfBlood.label>
+<TM_Artifact_RingOfBlood.description>Un anneau incrusté d'une pierre sombre ; des courants d'un rouge et d'un noir profonds tourbillonnent sous sa surface. Ce type d'anneau a été créé par un ancien vampire pour augmenter les réserves de sang et peut être utilisé par un mage de sang pour stocker la magie du sang.\n\nLa puissance de l'anneau de sang dépend de la renommée de son porteur et augmente avec chaque humain abattu ou tué.</TM_Artifact_RingOfBlood.description>
+
+<TM_Artifact_RingOfEternalBlue.label>anneau du bleu éternel</TM_Artifact_RingOfEternalBlue.label>
+<TM_Artifact_RingOfEternalBlue.description>Un anneau qui semble vibrer d'une douce lumière bleue. Cet anneau augmente la sensibilité psychique et rend réciproquement la sensibilité psychique de son porteur.\n\nL'anneau du bleu éternel augmente l'énergie d'un psionique proportionnellement à sa sensibilité psychique.</TM_Artifact_RingOfEternalBlue.description>
+
+<TM_Artifact_RingOfMalice.label>anneau de malveillance</TM_Artifact_RingOfMalice.label>
+<TM_Artifact_RingOfMalice.description>Cet anneau dégage une aura sombre et il est perpétuellement froid au toucher. L'anneau de malveillance augmente les niveaux et de haine maximum d'un chevalier de la mort.\n\nLa puissance de l'anneau de malveillance dépend de la renommée de son porteur et augmente à chaque blessure subie ou infligée.</TM_Artifact_RingOfMalice.description>
+
+<TM_Artifact_OrbOfConviction.label>orbe de conviction</TM_Artifact_OrbOfConviction.label>
+<TM_Artifact_OrbOfConviction.description>Également connu sous le nom de bibelot des traîtres, d'orbe de la folie ou le voleur d'esprit, l'orbe de conviction est un artefact puissant et dangereux. Lorsqu'il est rempli de la conviction et de la magie d'un lanceur de sorts, il peut être utilisé pour imposer cette conviction à une autre personne.\n\nEn cas de succès, la cible rejoindra immédiatement la faction du lanceur, mais sera affectée par un choc psychique.\n\nSeuls les mages les plus puissants peuvent diriger la puissance de cet artefact ; même dans ce cas, le prix à payer est élevé. L'orbe implose une fois le sort lancé et ne peut plus être utilisé.</TM_Artifact_OrbOfConviction.description>
+
+<TM_Artifact_OrbOfSouls.label>orbe d'âmes (vide)</TM_Artifact_OrbOfSouls.label>
+<TM_Artifact_OrbOfSouls.description>L'orbe des âmes est un artefact puissant et dangereux. Il ne nécessite aucune énergie extérieure et peut extraire l'âme d'un colon possédant des traits.\n\nS'il réussit, l'orbe des âmes absorbe tous les traits de la cible, celui-ci perd tous les traits absorbés. Le processus est presque toujours mortel.\n\nUne fois rempli, l'orbe des âmes peut être utilisé pour transférer les traits absorbés dans un autre colon de type humain.</TM_Artifact_OrbOfSouls.description>
+
+<TM_Artifact_OrbOfSouls_Full.label>orbe d'âmes (rempli)</TM_Artifact_OrbOfSouls_Full.label>
+<TM_Artifact_OrbOfSouls_Full.description>L'orbe des âmes est un artefact puissant et dangereux. Cet orbe a absorbé des traits et peut être utilisé pour infuser ces traits dans un colon de type humain.\n\nLes traits contradictoires ne peuvent jamais être transférés dans le colon cible. Si le colon possède plus de 7 traits, il y a 75 % de chances qu'un trait existant aléatoire soit remplacé par le trait infusé.\n\nL'orbe implose et il est détruit une fois que les traits ont été libérés.</TM_Artifact_OrbOfSouls_Full.description>
+
+<TM_Artifact_OrbOfEternal.label>orbe de l'éternité</TM_Artifact_OrbOfEternal.label>
+<TM_Artifact_OrbOfEternal.description>Une infusion d'énergie magique à usage unique préparée pour soigner les blessures, restaurer les membres et guérir les maladies. L'énergie de guérison ciblera et guérira le pire problème de santé affectant une personne à un moment donné.\n\nLes orbes d'éternité ont été utilisés par les mages, les souverains et l'élite pour prolonger leur vie. Ces orbes sont précieux et rares, principalement en raison du secret qui entoure le processus de fabrication de l’orbe.</TM_Artifact_OrbOfEternal.description>
+<TM_Artifact_OrbOfEternal.comps.CompUsable.useLabel>Utiliser l'orbe de l'éternité</TM_Artifact_OrbOfEternal.comps.CompUsable.useLabel>
+
+<TM_Artifact_NecroticOrb.label>orbe nécrotique</TM_Artifact_NecroticOrb.label>
+<TM_Artifact_NecroticOrb.description>Un artefact qui augmente l'énergie nécrotique nécessaire au maintien des morts-vivants. L'orbe nécrotique fonctionne comme une batterie ; lorsqu'il est équipé par un colon qui contrôle des morts-vivants, il absorbe l'énergie du nécromancien comme s'il était lui-même un mort-vivant, mais il réduit également le coût total d'entretien des morts-vivants de 25%. Lorsque l'énergie du nécromancien n'est plus disponible, il la disperse pour maintenir les morts-vivants.\n\nUn seul orbe peut être équipé par colon. L'orbe n'a d'effet que lorsqu'il est équipé par un colon qui contrôle des morts-vivants.</TM_Artifact_NecroticOrb.description>
+
+
+		<!-- +++++ TM_Base +++++ -->
+<UnfinishedGem.label>gemme inachevée</UnfinishedGem.label>
+
+
+		<!-- +++++ TM_Plants +++++ -->
+<TM_Plant_Pomanasyrrium.label>buisson de pomanasyrrium</TM_Plant_Pomanasyrrium.label>
+<TM_Plant_Pomanasyrrium.description>La plante pomanasyrrium est ancrée dans la tradition car elle possède des propriétés mythiques qui confèrent sagesse, connaissance et clarté à ceux qui consomment ses fruits. Cependant, elle est difficile à cultiver et n'a pas le niveau de rendement des autres plantes cultivées, ce qui fait qu'elle n'a pas la faveur des cultivateurs ou des agriculteurs.\n\nLe fruit qu'elle produit, connu plus communément sous le nom de Pomona, peut être consommé cru et il est assez savoureux mais a une faible valeur nutritive. Comme l'ambroisie, il provoque une légère sensation d'euphorie et favorise un sentiment de bien-être mental.</TM_Plant_Pomanasyrrium.description>
+
+<TM_RawPomanasyrrium.label>pomana</TM_RawPomanasyrrium.label>
+<TM_RawPomanasyrrium.description>Fruit de la taille d'un poing, dont les teintes vont de l'orange soleil à la violette sombre, le pomona est principalement considéré comme un mets délicat en raison de sa banalité et il est généralement dégusté cru comme dessert. Lorsqu'il est consommé cru, il génère une légère sensation euphorique de bien-être mental et il a été constaté qu'il ouvre les voies mentales, élargissant ainsi la conscience.</TM_RawPomanasyrrium.description>
+
+<TM_RawPomanaMash.label>purée de pomana</TM_RawPomanaMash.label>
+<TM_RawPomanaMash.description>Un sous-produit amer et peu appétissant lors de l'extraction du syrrium du pomonasyrrium brut. Ce sous-produit conserve une certaine valeur nutritive, mais il est en grande partie destiné à la consommation animale ou à servir de base nutritive pour les repas.</TM_RawPomanaMash.description>
+
+<TM_Syrrium.label>syrrium</TM_Syrrium.label>
+<TM_Syrrium.description>Le syrrium est distillé à partir du pomana par un processus de cuisson du fruit écrasé qui sépare le syrrium du pomana. Lorsqu'il est consommé, le syrrium produit un effet beaucoup plus intense que le pomana. Les effets chimiques qualifient le liquide de drogue et peuvent provoquer une légère dépendance chimique. Cependant, l'attrait le plus addictif est lorsque certains commencent à se sentir moins compétents sans la drogue et consomment du syrrium pour maintenir leur confiance et leur équilibre mental.\n\nLes affirmations selon lesquelles le pomanasyrrium donne de la connaissance et de la clarté ne sont pas prises en compte par la plupart des gens, car elles relèvent de l'imaginaire ou de la fantaisie, mais des recherches sur sa chimie ont révélé que ces effets sont bien réels, du moins pour les mages. Les bienfaits du syrrium sont considérés comme la principale raison de cultiver le pomanasyrrium. Lorsqu'il est correctement raffiné, les effets du syrrium permettent d'élargir l'accès des mages au mana, d'accélérer son flux et son reflux et de réduire l'effort nécessaire à l'exercice de la puissance magique. Ces effets ne sont pas cumulables avec les bénéfices obtenus en consommant le fruit brut.</TM_Syrrium.description>
+<TM_Syrrium.ingestible.ingestCommandString>Boire le {0}</TM_Syrrium.ingestible.ingestCommandString>
+<TM_Syrrium.ingestible.ingestReportString>Boit le {0}.</TM_Syrrium.ingestible.ingestReportString>
+
+<TM_Plant_Paracyte.label>paracyte épineux</TM_Plant_Paracyte.label>
+<TM_Plant_Paracyte.description>Le paracyte épineux est une plante génétiquement modifiée qui absorbe le mana par un processus de transpiration magique et le recueille dans une chrysalide. Lorsque la plante arrive à maturité, la chrysalide se transforme en magicite qui peut être récolté.  Le reste de la plante est constitué d'épines presque semblables à du verre et de tiges rigides.\n\nLe paracyte est difficile à cultiver et seuls des herboristes qualifiés sont capables de le planter et de le récolter en toute sécurité, mais malgré toutes ses difficultés, il est d'une beauté délicate et dégage une lueur éthérée qui reflète la lumière le long de ses bords cristallins.\n\nREMARQUE : les plantes paracytes réduiront le régénération de mana pour tous les mages de la carte si le nombre de plantes paracytes dépasse le plafond fixé. Consultez les paramètres du mod pour connaître la valeur du plafond. Les plans paracytes n'ont aucun effet sur le régénération du mana lorsque le nombre total sur la carte est inférieur au plafond.</TM_Plant_Paracyte.description>
+
+<TM_Plant_Briar.label>vignes épineuses</TM_Plant_Briar.label>
+<TM_Plant_Briar.description>Un danger d'enchevêtrement de pousses boisées couvertes d'épines tordues qui ralentissent quiconque se déplace dessus. Les épines sont tranchantes comme des rasoirs et peuvent transpercer même les vêtements épais.</TM_Plant_Briar.description>
+
+
+		<!-- +++++ WriteAbility_Item +++++ -->
+<UnfinishedArcane.label>texte déchiré inachevé</UnfinishedArcane.label>
+<UnfinishedArcane.description>Un texte magique prêt à être rempli avec les secrets du déblocage des pouvoirs magiques...\n\nUtiliser un mage entraîné pour écrire les secrets magiques dans le livre. Le livre peut ensuite être utilisé pour enseigner à un autre colon doué comment accéder à la même classe. Les textes déchirés feront passer un colon doué à une classe magique, mais il commencera avec un ensemble aléatoire de capacités de classe.\n\nLes colons doués pour la magie peuvent consigner leurs théories et expériences dans ce livre et apprendre à accéder à une classe de magie aléatoire.</UnfinishedArcane.description>
+<UnfinishedArcane.comps.CompUsable.useLabel>Écrire</UnfinishedArcane.comps.CompUsable.useLabel>
+
+<UnfinishedAdvArcane.label>livre magique inachevé</UnfinishedAdvArcane.label>
+<UnfinishedAdvArcane.description>Un livre magique prêt à être rempli avec les secrets du déblocage des pouvoirs magiques...\n\nUtiliser un mage entraîné pour écrire les secrets magiques dans le livre. Le livre peut ensuite être utilisé pour enseigner à un autre colon doué comment accéder à la même classe. Les livres magiques permettent à un colon doué d'accéder à une classe de magie et à toutes les capacités de classe, sauf la capacité de maître.\n\nLes colons doués pour la magie peuvent consigner leurs théories et expériences dans ce livre et apprendre à accéder à une classe de magie aléatoire.</UnfinishedAdvArcane.description>
+<UnfinishedAdvArcane.comps.CompUsable.useLabel>Écrire</UnfinishedAdvArcane.comps.CompUsable.useLabel>
+
+<UnfinishedMartial.label>style de combat inachevé</UnfinishedMartial.label>
+<UnfinishedMartial.description>Un livre prêt à être rempli avec les secrets du déblocage des pouvoirs martiaux...\n\nUtiliser un combattant entraîné pour enregistrer les techniques de combat dans le livre. Le livre peut ensuite être utilisé pour enseigner cette technique de combat à un autre colon.\n\nLes colons doués physiquement peuvent consigner leurs recherches et leur entraînement dans ce livre pour développer les concepts d'une classe de combattants aléatoire.</UnfinishedMartial.description>
+<UnfinishedMartial.comps.CompUsable.useLabel>Écrire</UnfinishedMartial.comps.CompUsable.useLabel>
+
+
+
+<TM_Hail.label>grêle</TM_Hail.label>
+
+<SpellOf_HeatShield.label>sort de feu : Bouclier thermique</SpellOf_HeatShield.label>
+<SpellOf_HeatShield.description>Apprend à un mage du feu à créer une barrière protectrice contre la chaleur et le feu.</SpellOf_HeatShield.description>
+<SpellOf_HeatShield.comps.CompUsable.useLabel>Lire</SpellOf_HeatShield.comps.CompUsable.useLabel>
+
+<SpellOf_MagicWardrobe.label>sort de mage : Armoire magique</SpellOf_MagicWardrobe.label>
+<SpellOf_MagicWardrobe.description>Apprend à un utilisateur de magie à créer une poche dimensionnelle pour stocker un équipement de réserve.</SpellOf_MagicWardrobe.description>
+<SpellOf_MagicWardrobe.comps.CompUsable.useLabel>Lire</SpellOf_MagicWardrobe.comps.CompUsable.useLabel>
+
+<SpellOf_FadeEmotions.label>capacité d'Empath : Émotions disparues</SpellOf_FadeEmotions.label>
+<SpellOf_FadeEmotions.description>Ce parchemin décrit comment un empathe peut utiliser ses capacités pour focaliser les émotions d'un souvenir négatif afin que le colon ciblé puisse se défaire de ces émotions et passer à autre chose.</SpellOf_FadeEmotions.description>
+<SpellOf_FadeEmotions.comps.CompUsable.useLabel>Lire</SpellOf_FadeEmotions.comps.CompUsable.useLabel>
+
+<SpellOf_AlterStorm.label>sort de glace : Tempête altérée</SpellOf_AlterStorm.label>
+<SpellOf_AlterStorm.description>Apprend à un mage des glaces comment modifier les conditions d'une tempête pour produire divers effets.</SpellOf_AlterStorm.description>
+<SpellOf_AlterStorm.comps.CompUsable.useLabel>Lire</SpellOf_AlterStorm.comps.CompUsable.useLabel>
+
+<SkillOf_HerbalBliss.label>recette d'Apothicaire : Béatitude</SkillOf_HerbalBliss.label>
+<SkillOf_HerbalBliss.description>Apprend à un apothicaire comment créer la Béatitude - une drogue qui induit un état de béatitude, capable de masquer complètement presque toutes les émotions et la douleur. Cette drogue entraîne également une perte de compétences et ralentit considérablement le gain de compétences.</SkillOf_HerbalBliss.description>
+<SkillOf_HerbalBliss.comps.CompUsable.useLabel>Lire</SkillOf_HerbalBliss.comps.CompUsable.useLabel>
+
+<SkillOf_HerbalClarity.label>recette d'Apothicaire : Clarté</SkillOf_HerbalClarity.label>
+<SkillOf_HerbalClarity.description>Apprend à un apothicaire comment créer la Clarté - une drogue qui réduit la résistance à la magie, donnant aux mages une forte augmentation de la régénération du mana et de la sensibilité psychique. Peut également entraîner une détérioration de la stabilité mentale.</SkillOf_HerbalClarity.description>
+<SkillOf_HerbalClarity.comps.CompUsable.useLabel>Lire</SkillOf_HerbalClarity.comps.CompUsable.useLabel>
+
+
+
+<!-- MàJ du mod 2022.06.05 -->
+<Mote_WhiteIce.label>Mote</Mote_WhiteIce.label>
+
+<Projectile_FreezingWinds.label>vents givrants</Projectile_FreezingWinds.label>
+<FlyingObject_FreezingWinds.label>vents givrants</FlyingObject_FreezingWinds.label>
+
+<TM_WinterStaff.label>règne de l'hiver</TM_WinterStaff.label>
+<TM_WinterStaff.description>Une tige d'acier bleu ornée d'une couronne d'éclats de cristal. Le contact de ce bâton ne se réchauffe jamais, comme pour rappeler à son porteur sa souveraineté glacée. Le pouvoir du bâton est double - il augmente considérablement le pouvoir magique inné d'un mage et il est capable de créer une tempête de grêle dans n'importe quel environnement. Le pouvoir du bâton a un prix - lorsqu'il est tenu, le bâton draine la chaleur et l'énergie de son détenteur et, s'il est tenu par un mage, étend cet effet à l'atmosphère environnante. Seuls les mages sont capables de maîtriser la puissance de ce bâton.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +80\nTemps de recharge : -30%\nRésistance magique : +20%\nDégâts magiques : +50%\n\nCapacité : Tempête de grêle</TM_WinterStaff.description>
+<TM_WinterStaff.tools.rod.label>tige</TM_WinterStaff.tools.rod.label>
+<TM_WinterStaff.tools.staff_head.label>tête de manche</TM_WinterStaff.tools.staff_head.label>
+<TM_WinterStaff.verbs.Verb_FreezingWinds.label>règne de l'hiver</TM_WinterStaff.verbs.Verb_FreezingWinds.label>
+
+
+
+<!-- MàJ 1.4 -->
+<Projectile_ConsumeCorpse_Mass.label>consommer les corps : masse</Projectile_ConsumeCorpse_Mass.label>
+
+<Projectile_SpiritPossession.label>posséder</Projectile_SpiritPossession.label>
+
+<Projectile_DistortSpirit.label>déformer l'esprit</Projectile_DistortSpirit.label>
+
+<Projectile_SummonSpiritAnimals.label>invoquer les esprits d'animaux</Projectile_SummonSpiritAnimals.label>
+
+<Projectile_SpiritStorm.label>tempête d'esprits</Projectile_SpiritStorm.label>
+
+<FlyingObject_SpiritStorm.label>tempête d'esprits</FlyingObject_SpiritStorm.label>
+
+<TM_SpiritTD.label>esprit</TM_SpiritTD.label>
+<TM_SpiritTD.description>Un esprit errant, ancré au plan matériel par une force inconnue.</TM_SpiritTD.description>
+<TM_SpiritTD.tools.spirit_tap.label>connexion spirituelle</TM_SpiritTD.tools.spirit_tap.label>
+
+<SpellOf_ConsumeCorpse_Mass.label>sort de Nécromancien : Consommer les corps en masse</SpellOf_ConsumeCorpse_Mass.label>
+<SpellOf_ConsumeCorpse_Mass.description>Apprend au nécromancien à étendre la consommation de cadavres pour désigner plusieurs cadavres dans une zone donnée.</SpellOf_ConsumeCorpse_Mass.description>
+<SpellOf_ConsumeCorpse_Mass.comps.CompUsable.useLabel>Lire</SpellOf_ConsumeCorpse_Mass.comps.CompUsable.useLabel>
+
+
+
+<TM_StrawGolem_Workstation.label>golem de paille (en sommeil)</TM_StrawGolem_Workstation.label>
+<TM_StrawGolem_Workstation.description>Les golems de paille appliquent les principes de base de la golemancie et sont de simples constructions de bois et de foin façonnées en forme humanoïde. Simple et peu coûteux, le golem de paille est à l'aise dans les champs, capable de semer de nouvelles cultures. Son poids léger et la souplesse de ses matériaux de construction en font un excellent golem pour garder la colonie exempte de débris, mais il est extrêmement inflammable. Le golem de paille augmente la croissance des plantes avoisinantes, qu'il soit actif ou dormant.\n\nLorsqu'il est en sommeil, le golem peut être modifié ou amélioré. Le golem de paille se recharge lentement en énergie. Ce golem met jusqu'à 3 secondes pour s'activer.</TM_StrawGolem_Workstation.description>
+
+<TM_UnfinishedStrawGolem.label>golem de paille inachevé</TM_UnfinishedStrawGolem.label>
+<TM_UnfinishedStrawGolem.description>Un golem de paille inachevé.</TM_UnfinishedStrawGolem.description>
+
+<TM_UnfinishedStrawGolemUpgrade.label>amélioration du golem de paille inachevée</TM_UnfinishedStrawGolemUpgrade.label>
+<TM_UnfinishedStrawGolemUpgrade.description>Une amélioration du golem de paille inachevée.</TM_UnfinishedStrawGolemUpgrade.description>
+
+<TM_WoodGolem_Workstation.label>golem de bois (en sommeil)</TM_WoodGolem_Workstation.label>
+<TM_WoodGolem_Workstation.description>Les golems de bois appliquent les principes de base de la golemancie et sont de simples constructions de bois, de pierre et d'acier façonnées en forme de sphère creuse. L'armature du golem de bois renferme un noyau magique. Le golem de bois est capable de faire de l'artisanat de base, de soigner les animaux, de cuisiner et de synthétiser des médicaments. La construction simple et peu coûteuse du golem de bois lui permet de remplir de nombreux rôles dans les premiers stades d'une colonie, mais il est inefficace et facile à détruire.\n\nLorsqu'il est en sommeil, le golem peut être modifié ou amélioré. Le golem de bois se recharge lentement en énergie. Il lui faut jusqu'à 4 secondes pour s'activer.</TM_WoodGolem_Workstation.description>
+
+<TM_UnfinishedWoodGolem.label>golem de bois inachevé</TM_UnfinishedWoodGolem.label>
+<TM_UnfinishedWoodGolem.description>Un golem de bois inachevé.</TM_UnfinishedWoodGolem.description>
+
+<TM_UnfinishedWoodGolemUpgrade.label>amélioration du golem de bois inachevée</TM_UnfinishedWoodGolemUpgrade.label>
+<TM_UnfinishedWoodGolemUpgrade.description>Une amélioration du golem de bois inachevée.</TM_UnfinishedWoodGolemUpgrade.description>
+
+<TM_SilkGolem_Workstation.label>golem de soie (en sommeil)</TM_SilkGolem_Workstation.label>
+<TM_SilkGolem_Workstation.description>Les golems de soie appliquent les principes de base de la golemancie et sont de simples constructions de tissu et de soie qui rendent leur forme indéfinie mais souple. La fonction principale du golem de soie est la surveillance et les tâches sociales, mais sa forme sans protection en fait un mauvais choix pour les travaux pénibles ou le combat.\n\nLorsqu'il est en sommeil, le golem peut être modifié ou amélioré. Le golem de soie se recharge lentement en énergie. Ce golem met jusqu'à 2 secondes pour s'activer.</TM_SilkGolem_Workstation.description>
+
+<TM_UnfinishedSilkGolem.label>golem de soie inachevé</TM_UnfinishedSilkGolem.label>
+<TM_UnfinishedSilkGolem.description>Un golem de soie inachevé.</TM_UnfinishedSilkGolem.description>
+
+<TM_UnfinishedSilkGolemUpgrade.label>amélioration du golem de soie inachevée</TM_UnfinishedSilkGolemUpgrade.label>
+<TM_UnfinishedSilkGolemUpgrade.description>Une amélioration du golem de soie inachevée.</TM_UnfinishedSilkGolemUpgrade.description>
+
+<TM_StrawGolem.label>golem de paille</TM_StrawGolem.label>
+<TM_StrawGolem.description>Un golem fabriqué à partir d'un mélange de matériaux de base et ayant la forme d'un humain.</TM_StrawGolem.description>
+<TM_StrawGolem.tools.left_fist.label>poing gauche</TM_StrawGolem.tools.left_fist.label>
+<TM_StrawGolem.tools.right_fist.label>poing droit</TM_StrawGolem.tools.right_fist.label>
+
+<TM_WoodGolem.label>golem de bois</TM_WoodGolem.label>
+<TM_WoodGolem.description>Une énergie magique infusée dans une construction de bois et de pierre.</TM_WoodGolem.description>
+<TM_WoodGolem.tools.spirit_force.label>force de l'esprit</TM_WoodGolem.tools.spirit_force.label>
+<TM_WoodGolem.tools.frame_smash.label>choc du cadre</TM_WoodGolem.tools.frame_smash.label>
+
+<TM_SilkGolem.label>golem de soie</TM_SilkGolem.label>
+<TM_SilkGolem.description>Un amas de tissu et de fil construit en forme de limace, dont le seul trait distinctif est son visage amical et expressif.</TM_SilkGolem.description>
+<TM_SilkGolem.tools.bash.label>coup</TM_SilkGolem.tools.bash.label>
+
+<TM_MantleOfProtection.label>cape de protection</TM_MantleOfProtection.label>
+<TM_MantleOfProtection.description>Une cape ample portée par-dessus d'autres vêtements et offrant une protection supplémentaire contre les intempéries et d'autres dangers. La cape de protection est infusée magiquement avec des runes de protection pour renforcer sa défense. La méthode d'infusion de pierres précieuses magiques dans le tissu lors de la fabrication permet d'obtenir une efficacité d'enchantement inégalée.\n\nCette cape est enchantée et offre des avantages supplémentaires aux mages entraînés :\nGain d'XP de classe : +20%\nRésistance magique : +30%</TM_MantleOfProtection.description>
+
+<TM_DiscipleRobe.label>robe de disciple</TM_DiscipleRobe.label>
+<TM_DiscipleRobe.description>L'uniforme d'un ardent disciple - cette tenue est composée d'un assortiment de poches, de pochettes et de sangles conçues pour permettre au disciple d'être prêt à faire face à n'importe quelle situation. Les porteurs de la robe de disciple apprécient la protection et l'adaptabilité.\n\nLes robes de disciple sont enchantées et offrent des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +20%\nRégénération d'énergie : +5%\nCoûts en énergie : -5%\nGain d'XP de classe : +10%\nRésistance magique : +30%</TM_DiscipleRobe.description>
+
+<TM_Necromancer_Body.label>linceul du faucheur d'âmes</TM_Necromancer_Body.label>
+<TM_Necromancer_Body.description>Cet ensemble sombre et mystique est conçu avec une élégance macabre, mêlant motifs osseux et enchantements ténébreux pour offrir une protection et servir de canal aux pouvoirs impies du nécromancien. Le linceul du faucheur d'âmes témoigne de la maîtrise du nécromancien sur les forces de la mort, les enveloppant d'une aura de puissance inquiétante alors qu'ils manipulent le tissu même de la vie et de l'au-delà. Le linceul peut être porté par n'importe qui, mais ses propriétés uniques améliorent le contrôle du nécromancien sur les morts-vivants.\n\nLes nécromanciens tirent un pouvoir supplémentaire du symbolisme de ce vêtement sombre :\nÉnergie maximum : +40\nRégénération d'énergie : +30%\nPuissance magique : +30%\n\nLinceul de mort : réduit les coûts d'entretien des morts-vivants de 30% pour ce nécromancien et augmente la puissance de déplacement et d'attaque de 15% pour les morts-vivants proches.</TM_Necromancer_Body.description>
+
+<TM_DragonSlayer.label>plaque de tueur de dragon</TM_DragonSlayer.label>
+<TM_DragonSlayer.description>Ce chef-d'œuvre d'artisanat et de résistance est une symphonie de plaques superposées sur un filet blindé qui offre une protection inégalée. Les rivets brillants et les bords dentelés tracent un motif rappelant les flammes éthérées qui engloutissent un guerrier intrépide. Forgée dans le creuset du péril, la plaque de tueur de dragon est un symbole de défi contre les tyrans à écailles qui obscurcissent le ciel et les abominations mécaniques qui saccagent la terre. Infusée d'énergies enchantées, l'armure rayonne d'une puissance magique qui agit comme une lumière directrice, assurant que le guerrier sortira victorieux au milieu du feu et des crocs.\n\nLa plaque de tueur de dragon est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +30\nRégénération d'énergie : +20%\nTemps de recharge : -20%\nCoûts en énergie : -20%\nRésistance magique : +30%\nAugmente les dégâts : +30%</TM_DragonSlayer.description>
+
+<TM_HoodOfProtection.label>capuche de protection</TM_HoodOfProtection.label>
+<TM_HoodOfProtection.description>Une simple capuche qui augmente la protection, à la fois magique et classique. La méthode consistant à infuser le tissu avec des enchantements avant de tisser la capuche permet d'améliorer les résultats de l'enchantement.\n\nLa capuche de protection est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nRésistance magique : +10%</TM_HoodOfProtection.description>
+
+<TM_DiscipleHood.label>capuche de disciple</TM_DiscipleHood.label>
+<TM_DiscipleHood.description>Ornée de symboles et de sigils qui revêtent une signification profonde dans la voie choisie par le disciple, cette capuche devient un canevas pour l'art sacré. Chaque point raconte une histoire d'épreuves affrontées, de sagesse acquise et de voyage vers un niveau de compréhension plus élevé. La capuche sert non seulement de couverture physique mais aussi de barrière métaphysique, protégeant le disciple des distractions et des influences du monde.\n\nLa capuche de disciple est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +25%\nRégénération d'énergie : +5%\nCoûts en énergie : -5%\nGain d'XP de classe : +10%\nRésistance magique : +15%</TM_DiscipleHood.description>
+
+<TM_SagesMask.label>masque de sérénité</TM_SagesMask.label>
+<TM_SagesMask.description>Ce masque est un mélange captivant de mystère et de sagesse, méticuleusement conçu pour voiler le visage de celui qui le porte. De délicates lignes sont gravées sur la surface du masque, représentant une danse complexe de symboles anciens et de lignes rythmiques qui se combinent pour former un visage de sagesse et de puissance. Les masques de cette nature sont destinés à supprimer les sens physiques de celui qui les porte, ce qui lui permet de mieux se concentrer.\n\nLe masque de sérénité est enchanté et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nCoûts en énergie : -10%\nRégénération d'énergie : +10%\nGain d'XP de classe : +10%\nPuissance magique : +10%</TM_SagesMask.description>
+
+<TM_Necromancer_Mask.label>masque du faucheur d'âmes</TM_Necromancer_Mask.label>
+<TM_Necromancer_Mask.description>Fabriqué avec une étrange élégance, ce masque déconcertant combine des matériaux sombres et des symboles magiques, dissimulant le visage du nécromancien derrière une façade obsédante. Son aura inquiétante et sa conception sinistre en font un ornement approprié pour ceux qui exploitent les pouvoirs de la mort et empruntent les voies de l'art nécromantique.\n\nLes nécromanciens tirent un pouvoir supplémentaire du symbolisme de cet objet :\nÉnergie maximum : +10\nRégénération d'énergie : +5%\n\nLinceul de mort : réduit les coûts d'entretien des morts-vivants de 10% pour ce nécromancien et augmente la puissance de déplacement et d'attaque de 5% pour les morts-vivants proches.</TM_Necromancer_Mask.description>
+
+<TM_Necromancer_Hood.label>capuchon du faucheur d'âmes</TM_Necromancer_Hood.label>
+<TM_Necromancer_Hood.description>Ce vêtement sinistre est tissé à partir d'étoffes obscures et imprégné d'enchantements sombres, dissimulant le visage du nécromancien sous un masque de tissu et d'os. Le capuchon du faucheur d'âmes n'est pas seulement un accessoire pratique pour protéger son porteur des regards indiscrets, c'est aussi une manifestation symbolique de la communion du nécromancien avec les royaumes de l'au-delà. Son aura inquiétante et son design sinistre en font un ornement approprié pour ceux qui exploitent les pouvoirs des morts-vivants et empruntent les voies de l'art nécromantique.\n\nLes nécromanciens tirent un pouvoir supplémentaire du symbolisme de cet objet :\nÉnergie maximum : +20\nRégénération d'énergie : +5%\n\nLinceul de mort : réduit les coûts d'entretien des morts-vivants de 20% pour ce nécromancien et augmente la puissance de déplacement et d'attaque de 10% pour les morts-vivants proches.</TM_Necromancer_Hood.description>
+
+
+</LanguageData>

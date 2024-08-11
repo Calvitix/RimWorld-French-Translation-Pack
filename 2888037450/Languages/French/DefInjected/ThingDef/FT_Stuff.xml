@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: concrete -->
+  <FT_BlocksConcrete.label>béton</FT_BlocksConcrete.label>
+  <!-- EN: packs of concrete dust. Concrete is a strong building material but ugly to look at. -->
+  <FT_BlocksConcrete.description>des paquets de poussière de béton. Le béton est un matériau de construction solide, mais il est laid à regarder.</FT_BlocksConcrete.description>
+  
+</LanguageData>

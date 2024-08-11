@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: artificial arm -->
+  <ArtificialMedArm.label>TODO</ArtificialMedArm.label>
+  <!-- EN: An artificial arm. -->
+  <ArtificialMedArm.description>TODO</ArtificialMedArm.description>
+  
+  <!-- EN: artificial ear -->
+  <ArtificialMedEar.label>TODO</ArtificialMedEar.label>
+  <!-- EN: An artificial ear. -->
+  <ArtificialMedEar.description>TODO</ArtificialMedEar.description>
+  
+  <!-- EN: artificial eye -->
+  <ArtificialMedEye.label>TODO</ArtificialMedEye.label>
+  <!-- EN: An artificial eye. -->
+  <ArtificialMedEye.description>TODO</ArtificialMedEye.description>
+  
+  <!-- EN: artificial finger -->
+  <ArtificialMedFinger.label>TODO</ArtificialMedFinger.label>
+  <!-- EN: An artificial finger. -->
+  <ArtificialMedFinger.description>TODO</ArtificialMedFinger.description>
+  
+  <!-- EN: artificial foot -->
+  <ArtificialMedFoot.label>TODO</ArtificialMedFoot.label>
+  <!-- EN: An artificial foot. -->
+  <ArtificialMedFoot.description>TODO</ArtificialMedFoot.description>
+  
+  <!-- EN: artificial hand -->
+  <ArtificialMedHand.label>TODO</ArtificialMedHand.label>
+  <!-- EN: An artificial hand. -->
+  <ArtificialMedHand.description>TODO</ArtificialMedHand.description>
+  
+  <!-- EN: artificial leg -->
+  <ArtificialMedLeg.label>TODO</ArtificialMedLeg.label>
+  <!-- EN: An artificial leg. -->
+  <ArtificialMedLeg.description>TODO</ArtificialMedLeg.description>
+  
+  <!-- EN: artificial nose -->
+  <ArtificialMedNose.label>TODO</ArtificialMedNose.label>
+  <!-- EN: An artificial nose. -->
+  <ArtificialMedNose.description>TODO</ArtificialMedNose.description>
+  
+  <!-- EN: artificial toe -->
+  <ArtificialMedToe.label>TODO</ArtificialMedToe.label>
+  <!-- EN: An artificial toe. -->
+  <ArtificialMedToe.description>TODO</ArtificialMedToe.description>
+  
+</LanguageData>

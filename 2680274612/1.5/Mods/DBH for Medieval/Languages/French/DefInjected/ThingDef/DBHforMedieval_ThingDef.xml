@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ES_ManualPump.label>pompe manuelle</ES_ManualPump.label>
+<ES_ManualPump.description>Cette pompe manuelle pompe l'eau en utilisant la différence de pression créée par le mouvement de la poignée de haut en bas. C'est une pompe manuelle, donc c'est fatiguant, mais cela devrait être mieux que d'utiliser un seau.</ES_ManualPump.description>
+
+<ES_ExcretionPit.label>fosse à excréments</ES_ExcretionPit.label>
+<ES_ExcretionPit.description>Il s'agit des toilettes les plus primitives. Aucun matériel n'est nécessaire, puisqu'il suffit de creuser une fosse.</ES_ExcretionPit.description>
+
+<ES_SimpleToilet.label>toilette simple</ES_SimpleToilet.label>
+<ES_SimpleToilet.description>Une simple toilette qui n'a plus besoin d'être pompée car elle est reliée à la canalisation d'égout. Elles sont grossières et moins belles et propres que les modernes.</ES_SimpleToilet.description>
+
+<ES_SimpleBathtub.label>baignoire simple</ES_SimpleBathtub.label>
+<ES_SimpleBathtub.description>Une baignoire simple faite d'une planche de bois munie d'un arceau de fixation. Consommer une grande quantité d'eau à la fois, elles sont confortables, mais pas autant que les baignoires modernes.</ES_SimpleBathtub.description>
+
+<ES_FilterDevice.label>dispositif de filtration</ES_FilterDevice.label>
+<ES_FilterDevice.description>Un dispositif de filtration simple utilisant du sable, des fibres, du charbon de bois, etc. Il améliore la qualité de l'eau et réduit le risque de maladie.\n\nNécessite un filtre comme carburant.</ES_FilterDevice.description>
+
+<ES_Filter.label>filtre</ES_Filter.label>
+<ES_Filter.description>Un filtre fait de fibres tissées. Les substances toxiques sont laissées entre les fibres pour nettoyer l'eau.</ES_Filter.description>
+
+<ES_WashingKit.label>kit de nettoyage</ES_WashingKit.label>
+<ES_WashingKit.description>Un ensemble composé d'une cruche, d'un bol et d'un linge pour laver un corps sale.</ES_WashingKit.description>
+
+<ES_Kettle.label>marmite</ES_Kettle.label>
+<ES_Kettle.description>Ce récipient peut être placé sur la table de cuisson pour chauffer l'eau qu'il contient.</ES_Kettle.description>
+
+<ES_IrrigationCanal.label>canal d'irrigation</ES_IrrigationCanal.label>
+<ES_IrrigationCanal.description>Canal utilisé pour acheminer l'eau dans les champs.</ES_IrrigationCanal.description>
+
+<ES_SluiceGate.label>vanne d'écluse</ES_SluiceGate.label>
+<ES_SluiceGate.description>Cette cloison contrôle la quantité d'eau qui s'écoule du canal d'irrigation vers les champs.</ES_SluiceGate.description>
+
+
+</LanguageData>

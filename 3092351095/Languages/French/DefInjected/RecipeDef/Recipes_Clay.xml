@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make clay from chunks -->
+  <Make_Clay.label>faire de l’argile à partir de morceaux</Make_Clay.label>
+  <!-- EN: Break and form workable clay with chunks of stone. -->
+  <Make_Clay.description>Casser et former de l’argile travaillable avec des morceaux de pierre</Make_Clay.description>
+  <!-- EN: Making clay. -->
+  <Make_Clay.jobString>fait de l’argile</Make_Clay.jobString>
+  
+  <!-- EN: make bricks from clay -->
+  <Make_ClayBricks.label>faire des briques d’argile </Make_ClayBricks.label>
+  <!-- EN: Form raw clay into bricks for building purposes. -->
+  <Make_ClayBricks.description>Former de l’argile brute en briques à des fins de construction.</Make_ClayBricks.description>
+  <!-- EN: Making bricks. -->
+  <Make_ClayBricks.jobString>fait des briques</Make_ClayBricks.jobString>
+  
+</LanguageData>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<SmartFarming.Icon.On>On</SmartFarming.Icon.On>
+	<!-- EN: Sow the selected plant so long as it is currently the grow season. -->
+  <SmartFarming.Icon.On.Desc>Semer la plante sélectionnée tant que c'est actuellement la saison de croissance.</SmartFarming.Icon.On.Desc>
+	<!-- EN: Off -->
+	<SmartFarming.Icon.Off>Off</SmartFarming.Icon.Off>
+	<SmartFarming.Icon.Off.Desc>Ne pas semer de plantes.</SmartFarming.Icon.Off.Desc>
+	<SmartFarming.Icon.Smart>Intelligent</SmartFarming.Icon.Smart>
+	<SmartFarming.Icon.Smart.Desc>Semer les plantes tant que leur croissance prévue atteindra le seuil minimal de récolte avant qu'elles ne meurent du froid ou de toxines.</SmartFarming.Icon.Smart.Desc>
+	<SmartFarming.Icon.Force>Force</SmartFarming.Icon.Force>
+	<SmartFarming.Icon.Force.Desc>Semer des plantes indépendamment de la période de végétation.</SmartFarming.Icon.Force.Desc>
+	<SmartFarming.Icon.HarvestNow>Récolter maintenant</SmartFarming.Icon.HarvestNow>
+	<SmartFarming.Icon.HarvestNow.Desc>Désigner toutes les plantes de cette zone pour la récolte, même si elles ne sont pas encore complètement développées..</SmartFarming.Icon.HarvestNow.Desc>
+	<SmartFarming.Icon.AllowHarvest>Permet la récolte</SmartFarming.Icon.AllowHarvest>
+	<SmartFarming.Icon.AllowHarvest.Desc>Désactivez cette option pour interdire aux colons de récolter cette zone..</SmartFarming.Icon.AllowHarvest.Desc>
+	<SmartFarming.Icon.OrchardAlignment>Aligner plantes</SmartFarming.Icon.OrchardAlignment>
+	<SmartFarming.Icon.OrchardAlignment.Desc>Pour les plantes qui ont besoin d'une zone de dégagement, comme les arbres, les colons essaieront de les aligner en rangées. Cela peut ne pas fonctionner pour les zones de forme irrégulière.</SmartFarming.Icon.OrchardAlignment.Desc>
+	<SmartFarming.Icon.MergeZones>Fusion de zones</SmartFarming.Icon.MergeZones>
+	<SmartFarming.Icon.MergeZones.Desc>Fusionner les zones sélectionnées en une seule zone, en utilisant la première zone sélectionnée comme référence.
+	</SmartFarming.Icon.MergeZones.Desc>
+	
+	<SmartFarming.Icon.Low>Bas</SmartFarming.Icon.Low>
+	<SmartFarming.Icon.Normal>Normal</SmartFarming.Icon.Normal>
+	<SmartFarming.Icon.Preferred>Haute</SmartFarming.Icon.Preferred>
+	<SmartFarming.Icon.Important>Importante</SmartFarming.Icon.Important>
+	<SmartFarming.Icon.Critical>Critique</SmartFarming.Icon.Critical>
+	<SmartFarming.Icon.Priority.Desc>Les colons sont encouragés à semer et à récolter les plantes par ordre de priorité.</SmartFarming.Icon.Priority.Desc>
+	
+	<SmartFarming.Icon.NoPettyJobs>Pas de petits boulots</SmartFarming.Icon.NoPettyJobs>
+	<SmartFarming.Icon.NoPettyJobs.Desc>Les colons ne sèmeront pas de nouvelles plantes dans cette zone s'il n'y a pas assez de travail à faire, configuré dans les paramètres..</SmartFarming.Icon.NoPettyJobs.Desc>
+	
+	<SmartFarming.Settings.ColdSowing>Permet plant gelé</SmartFarming.Settings.ColdSowing>
+	<SmartFarming.Settings.ColdSowing.Desc>Normalement, le jeu ne permet pas de semer lorsque le sol est gelé, même si le type de plante à semer tolère les températures négatives. Désactivez cette fonction pour conserver les règles de vanille.</SmartFarming.Settings.ColdSowing.Desc>
+	
+	<SmartFarming.Settings.AllowHarvest>Allow harvest gizmo</SmartFarming.Settings.AllowHarvest>
+	<SmartFarming.Settings.AllowHarvest.Desc>Afficher le gadget "autoriser la récolte". L'activation de cette option peut avoir un impact sur les performances des colonies très peuplées ayant de nombreux ouvriers agricoles. La modification de cette option nécessite un redémarrage du jeu.</SmartFarming.Settings.AllowHarvest.Desc>
+	
+	<SmartFarming.Settings.SmartSowLabel>plant intel.:</SmartFarming.Settings.SmartSowLabel>
+	<SmartFarming.Settings.ProcessedFoodLabel>Facteur de transf. nourr. :</SmartFarming.Settings.ProcessedFoodLabel>
+	
+	<SmartFarming.Settings.UseAverageTemperature>Utiliser la prévision de la température moyenne au lieu de la température basse</SmartFarming.Settings.UseAverageTemperature>
+	<SmartFarming.Settings.UseAverageTemperature.Desc>Lorsque vous prévoyez les conditions météorologiques pour la fonction Smart Sow, utilisez la température moyenne de la journée plutôt que la température minimale. L'utilisation de la moyenne permet de prolonger la saison de culture au risque de perdre certaines récoltes.</SmartFarming.Settings.UseAverageTemperature.Desc>
+	
+	<SmartFarming.Settings.UseAverageFertility>Utiliser la fertilité moyenne de la zone au lieu de la plus faible</SmartFarming.Settings.UseAverageFertility>
+	<SmartFarming.Settings.UseAverageFertility.Desc>Pour prévoir la croissance des plantes, utilisez la fertilité moyenne de la zone plutôt que la fertilité la plus faible de la zone.</SmartFarming.Settings.UseAverageFertility.Desc>
+	
+<!-- FR: Désigner automatiquement les cultures atteintes par le mildiou pour élimination -->
+<SmartFarming.Settings.AutoCutBlighted>Désigner automatiquement les cultures atteintes par le mildiou pour élimination</SmartFarming.Settings.AutoCutBlighted>
+<!-- FR: Si une culture est atteinte par le mildiou, un ordre de coupe sera automatiquement désigné. -->
+<SmartFarming.Settings.AutoCutBlighted.Desc>Si une culture est atteinte par le mildiou, un ordre de coupe sera automatiquement désigné.</SmartFarming.Settings.AutoCutBlighted.Desc>
+
+<!-- FR: Récolter tôt si menacé -->
+<SmartFarming.Settings.AutoHarvestNow>Récolter tôt si menacé</SmartFarming.Settings.AutoHarvestNow>
+<!-- FR: Si le temps de ce soir va être extrêmement froid, désigner toutes les plantes pour une récolte immédiate. -->
+<SmartFarming.Settings.AutoHarvestNow.Desc>Si le temps de ce soir va être extrêmement froid, désigner toutes les plantes pour une récolte immédiate.</SmartFarming.Settings.AutoHarvestNow.Desc>
+<!-- FR: Plantes désignées pour une récolte anticipée en raison des prévisions météorologiques de ce soir. -->
+<SmartFarming.Message.AutoHarvestNow>Plantes désignées pour une récolte anticipée en raison des prévisions météorologiques de ce soir.</SmartFarming.Message.AutoHarvestNow>
+
+<!-- FR: Gizmo d'alignement -->
+<SmartFarming.Settings.OrchardAlignment>Gizmo d'alignement</SmartFarming.Settings.OrchardAlignment>
+<!-- FR: Active un gizmo qui incite les colons à planter des arbres en rangées soignées. -->
+<SmartFarming.Settings.OrchardAlignment.Desc>Active un gizmo qui incite les colons à planter des arbres en rangées soignées.</SmartFarming.Settings.OrchardAlignment.Desc>
+
+<!-- FR: Essayer automatiquement de récolter les cultures mourantes -->
+<SmartFarming.Settings.AutoCutDying>Essayer automatiquement de récolter les cultures mourantes</SmartFarming.Settings.AutoCutDying>
+<!-- FR: Si une culture meurt à cause du froid, essayer de récolter automatiquement les cultures survivantes avant qu'il ne soit trop tard. Changer cela nécessite un redémarrage du jeu. -->
+<SmartFarming.Settings.AutoCutDying.Desc>Si une culture meurt à cause du froid, essayer de récolter automatiquement les cultures survivantes avant qu'il ne soit trop tard. Changer cela nécessite un redémarrage du jeu.</SmartFarming.Settings.AutoCutDying.Desc>
+
+<!-- FR: Lorsque les zones de culture donnent un rendement nutritionnel potentiel estimé, elles multiplient la nutrition des aliments crus par cette valeur. Pour référence, un repas simple multiplie la valeur par 1,8, les repas fins par 1,2 et les repas somptueux par 1,0. -->
+<SmartFarming.Settings.ProcessedFood.Desc>Lorsque les zones de culture donnent un rendement nutritionnel potentiel estimé, elles multiplient la nutrition des aliments crus par cette valeur. Pour référence, un repas simple multiplie la valeur par 1,8, les repas fins par 1,2 et les repas somptueux par 1,0.</SmartFarming.Settings.ProcessedFood.Desc>
+
+<!-- FR: Tolérance de température minimale (Par défaut du mod : {0}, Min : {1}, Max : {2}) : -->
+<SmartFarming.Settings.MinTempSlider>Tolérance de température minimale (Par défaut du mod : {0}, Min : {1}, Max : {2}) : </SmartFarming.Settings.MinTempSlider>
+<!-- FR: Lors de la prévision du temps pour le jour de récolte le plus précoce, considérer toute température inférieure à cette valeur comme inacceptable. Les plantes peuvent potentiellement mourir à 0°C, mais peuvent généralement survivre si la température est juste légèrement en dessous de zéro pendant quelques heures. Cependant, la déviation quotidienne aléatoire de la température peut réduire la précision. -->
+<SmartFarming.Settings.MinTemp>Lors de la prévision du temps pour le jour de récolte le plus précoce, considérer toute température inférieure à cette valeur comme inacceptable. Les plantes peuvent potentiellement mourir à 0°C, mais peuvent généralement survivre si la température est juste légèrement en dessous de zéro pendant quelques heures. Cependant, la déviation quotidienne aléatoire de la température peut réduire la précision.</SmartFarming.Settings.MinTemp>
+
+<!-- FR: Marge des petits travaux (Par défaut du mod : {0}, Min : {1}, Max : {2}) : -->
+<SmartFarming.Settings.PettyJobsSlider>Marge des petits travaux (Par défaut du mod : {0}, Min : {1}, Max : {2}) : </SmartFarming.Settings.PettyJobsSlider>
+<!-- FR: Si "pas de petits travaux" est activé dans une zone, les colons ne sèmeront pas un champ à moins qu'il n'y ait au moins ce pourcentage de tuiles vides à semer. Cela peut être utile pour les zones de pâturage des animaux. -->
+<SmartFarming.Settings.PettyJobs>Si "pas de petits travaux" est activé dans une zone, les colons ne sèmeront pas un champ à moins qu'il n'y ait au moins ce pourcentage de tuiles vides à semer. Cela peut être utile pour les zones de pâturage des animaux.</SmartFarming.Settings.PettyJobs>
+	<!-- EN: \nEarliest harvest day:  -->
+	<SmartFarming.Inspector.MinHarvestDay>\nJour de récolte le plus précoce: </SmartFarming.Inspector.MinHarvestDay>
+	<SmartFarming.Inspector.MinHarvestDayFail>\nLes plantes mourront probablement avant la récolte</SmartFarming.Inspector.MinHarvestDayFail>
+	<SmartFarming.Inspector.Fertility>\nFertilité: {0} moyenne / {1} plus faible</SmartFarming.Inspector.Fertility>
+	<SmartFarming.Inspector.AverageGrowth>\ncroissance moyenne: </SmartFarming.Inspector.AverageGrowth>
+	<SmartFarming.Inspector.Yield>\nNutrition potentielle: </SmartFarming.Inspector.Yield>
+	<SmartFarming.Inspector.DaysWorth> ({0} jours de travail)</SmartFarming.Inspector.DaysWorth>
+	
+	<SmartFarming.Icon.SetAll>Régler les zones sur </SmartFarming.Icon.SetAll>
+</LanguageData>

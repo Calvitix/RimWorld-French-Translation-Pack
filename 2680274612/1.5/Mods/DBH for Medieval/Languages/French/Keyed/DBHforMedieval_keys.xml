@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LanguageData>
+
+<ES_ManualPump_Warning>La pompe manuelle a été suspendue car un puits ou un réservoir d'eau n'est pas connecté.</ES_ManualPump_Warning>
+<ES_ManualPump_Capacity>La pompe manuelle a été suspendue, il n'y a pas assez de capacité dans le puits.</ES_ManualPump_Capacity>
+<ES_BillPumpWater_Warning>La valeur cible était trop élevée, la valeur a donc été remplacée par le stockage d'eau total.</ES_BillPumpWater_Warning>
+
+<ES_AreaPlaceIrrigationLabel>Zone d'irrigation</ES_AreaPlaceIrrigationLabel>
+<ES_AreaPlaceIrrigationDesc>Désigne une zone à arroser par la force humaine.</ES_AreaPlaceIrrigationDesc>
+<ES_AddIrrigationArea>Ajouter une zone</ES_AddIrrigationArea>
+<ES_RemoveIrrigationArea>Supprimer une zone</ES_RemoveIrrigationArea>
+
+<ES_MustPlaceOnFurniture>Ne peut être placé que sur des meubles.</ES_MustPlaceOnFurniture>
+<ES_MustPlaceOnHeatCookers>Doit être placé sur un réchaud qui peut être utilisé comme source de chaleur, comme un feu de camp.</ES_MustPlaceOnHeatCookers>
+<ES_HeatSource_Missing>En raison de la perte de la source de chaleur, l'eau ne peut plus être bouillie.</ES_HeatSource_Missing>
+
+<ES_HotWaterStorage>Stockage / Capacité : {0} / {1} ({2}%)</ES_HotWaterStorage>
+<ES_HotWatertemperature>Température de l'eau : </ES_HotWatertemperature>
+<ES_Cold>froide</ES_Cold>
+<ES_Warm>chaude</ES_Warm>
+<ES_NoCloth>pas de tissu</ES_NoCloth>
+
+<ES_RefillModeTimes_Desc>Contrôler l'action de remplir cet élément avec de l'eau.</ES_RefillModeTimes_Desc>
+<ES_RefillMode_Never>Remplir : Jamais</ES_RefillMode_Never>
+<ES_RefillMode_Once>Remplir : Une fois</ES_RefillMode_Once>
+<ES_RefillMode_Always>Remplir : Toujours</ES_RefillMode_Always>
+
+<ES_RefillModeTemp_Desc>Limiter la température de l'eau que vous pouvez remplir dans cet objet.</ES_RefillModeTemp_Desc>
+<ES_RefillMode_Cold>Froid</ES_RefillMode_Cold>
+<ES_RefillMode_Both>Les deux</ES_RefillMode_Both>
+<ES_RefillMode_Warm>Chaud</ES_RefillMode_Warm>
+
+<ES_Visible_Desc>Vous pouvez masquer l'affichage, par exemple, s'il ne fait pas bon ménage avec l'objet situé en dessous.</ES_Visible_Desc>
+<ES_Visible>Cacher</ES_Visible>
+<ES_Invisible>Afficher</ES_Invisible>
+
+<ES_CommandSluiceWide>Élargir la zone d'irrigation</ES_CommandSluiceWide>
+<ES_CommandSluiceNarrow>Réduire la zone d'irrigation</ES_CommandSluiceNarrow>
+<ES_CommandSluiceLong>Agrandir la zone d'irrigation</ES_CommandSluiceLong>
+<ES_CommandSluiceShort>Diminuer la zone d'irrigation</ES_CommandSluiceShort>
+
+<ES_MustPlaceOnCanal>Doit être placé sur un côté d'un canal d'irrigation.</ES_MustPlaceOnCanal>
+<ES_MustOpenedInFront>Le sens d'écoulement de l'eau est bloqué.</ES_MustOpenedInFront>
+
+
+</LanguageData>

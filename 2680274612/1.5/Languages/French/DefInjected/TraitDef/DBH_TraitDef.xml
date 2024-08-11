@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<Hygienic.degreeDatas.germaphobe.label>germaphobe</Hygienic.degreeDatas.germaphobe.label>
+<Hygienic.degreeDatas.germaphobe.description>[PAWN_nameDef] est obséd{PAWN_gender ? é : ée } par les microbes et se lave beaucoup plus souvent que d'habitude.</Hygienic.degreeDatas.germaphobe.description>
+
+<Hygienic.degreeDatas.hygienic.label>hygiénique</Hygienic.degreeDatas.hygienic.label>
+<Hygienic.degreeDatas.hygienic.description>[PAWN_nameDef] est très hygiénique et se lavera plus fréquemment.</Hygienic.degreeDatas.hygienic.description>
+
+<Hygienic.degreeDatas.unhygienic.label>manque d'hygiène</Hygienic.degreeDatas.unhygienic.label>
+<Hygienic.degreeDatas.unhygienic.description>[PAWN_nameDef] est très peu hygiénique et se lavera moins souvent.</Hygienic.degreeDatas.unhygienic.description>
+
+<Hygienic.degreeDatas.slob.label>incurie</Hygienic.degreeDatas.slob.label>
+<Hygienic.degreeDatas.slob.description>[PAWN_nameDef] a des critères de propreté très bas et ne se lave que lorsqu'il le faut absolument.</Hygienic.degreeDatas.slob.description>
+
+
+</LanguageData>

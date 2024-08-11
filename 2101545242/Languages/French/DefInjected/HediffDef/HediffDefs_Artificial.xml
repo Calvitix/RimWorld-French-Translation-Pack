@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+<!-- EN: artificial arm -->
+<ArtificialMedArm.label>bras artificiel</ArtificialMedArm.label>
+<!-- EN: An installed artificial arm. -->
+<ArtificialMedArm.description>Un bras artificiel installé.</ArtificialMedArm.description>
+<!-- EN: artificial arm -->
+<ArtificialMedArm.comps.HediffComp_VerbGiver.tools.artificial_arm.label>bras artificiel</ArtificialMedArm.comps.HediffComp_VerbGiver.tools.artificial_arm.label>
+<!-- EN: an artificial arm -->
+<ArtificialMedArm.labelNoun>un bras artificiel</ArtificialMedArm.labelNoun>
+
+<!-- EN: artificial ear -->
+<ArtificialMedEar.label>oreille artificielle</ArtificialMedEar.label>
+<!-- EN: An installed artificial ear. -->
+<ArtificialMedEar.description>Une oreille artificielle installée.</ArtificialMedEar.description>
+<!-- EN: an artificial ear -->
+<ArtificialMedEar.labelNoun>une oreille artificielle</ArtificialMedEar.labelNoun>
+
+<!-- EN: artificial eye -->
+<ArtificialMedEye.label>œil artificiel</ArtificialMedEye.label>
+<!-- EN: An installed artificial eye. -->
+<ArtificialMedEye.description>Un œil artificiel installé.</ArtificialMedEye.description>
+<!-- EN: an artificial eye -->
+<ArtificialMedEye.labelNoun>un œil artificiel</ArtificialMedEye.labelNoun>
+
+<!-- EN: artificial finger -->
+<ArtificialMedFinger.label>doigt artificiel</ArtificialMedFinger.label>
+<!-- EN: An installed artificial finger. -->
+<ArtificialMedFinger.description>Un doigt artificiel installé.</ArtificialMedFinger.description>
+<!-- EN: an artificial finger -->
+<ArtificialMedFinger.labelNoun>un doigt artificiel</ArtificialMedFinger.labelNoun>
+
+<!-- EN: artificial foot -->
+<ArtificialMedFoot.label>pied artificiel</ArtificialMedFoot.label>
+<!-- EN: An installed artificial foot. -->
+<ArtificialMedFoot.description>Un pied artificiel installé.</ArtificialMedFoot.description>
+<!-- EN: an artificial foot -->
+<ArtificialMedFoot.labelNoun>un pied artificiel</ArtificialMedFoot.labelNoun>
+
+<!-- EN: artificial hand -->
+<ArtificialMedHand.label>main artificielle</ArtificialMedHand.label>
+<!-- EN: An installed artificial hand. -->
+<ArtificialMedHand.description>Une main artificielle installée.</ArtificialMedHand.description>
+<!-- EN: artificial hand -->
+<ArtificialMedHand.comps.HediffComp_VerbGiver.tools.artificial_hand.label>main artificielle</ArtificialMedHand.comps.HediffComp_VerbGiver.tools.artificial_hand.label>
+<!-- EN: an artificial hand -->
+<ArtificialMedHand.labelNoun>une main artificielle</ArtificialMedHand.labelNoun>
+
+<!-- EN: artificial leg -->
+<ArtificialMedLeg.label>jambe artificielle</ArtificialMedLeg.label>
+<!-- EN: An installed artificial leg. -->
+<ArtificialMedLeg.description>Une jambe artificielle installée.</ArtificialMedLeg.description>
+<!-- EN: an artificial leg -->
+<ArtificialMedLeg.labelNoun>une jambe artificielle</ArtificialMedLeg.labelNoun>
+
+<!-- EN: artificial nose -->
+<ArtificialMedNose.label>nez artificiel</ArtificialMedNose.label>
+<!-- EN: An installed artificial nose. -->
+<ArtificialMedNose.description>Un nez artificiel installé.</ArtificialMedNose.description>
+<!-- EN: an artificial nose -->
+<ArtificialMedNose.labelNoun>un nez artificiel</ArtificialMedNose.labelNoun>
+
+<!-- EN: artificial toe -->
+<ArtificialMedToe.label>orteil artificiel</ArtificialMedToe.label>
+<!-- EN: An installed artificial toe. -->
+<ArtificialMedToe.description>Un orteil artificiel installé.</ArtificialMedToe.description>
+<!-- EN: an artificial toe -->
+<ArtificialMedToe.labelNoun>un orteil artificiel</ArtificialMedToe.labelNoun>
+  
+</LanguageData>

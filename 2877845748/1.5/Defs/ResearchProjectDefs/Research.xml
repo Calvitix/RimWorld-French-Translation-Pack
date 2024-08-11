@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ResearchProjectDef>
+    <defName>VBY_PrimitiveProduction</defName>
+    <label>production primitive</label>
+    <description>Apprendre à fabriquer des postes de production légèrement avancées avec des outils et des ressources rudimentaires..</description>
+    <baseCost>300</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <researchViewX>0.00</researchViewX>
+    <researchViewY>6.40</researchViewY>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>VBY_PrimitiveTools</defName>
+    <label>outils primitifs</label>
+    <description>Apprendre à fabriquer de meilleurs outils et armes en utilisant les ressources du silex, du bois et de la pierre..</description>
+    <baseCost>400</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <researchViewX>1.00</researchViewX>
+    <researchViewY>6.40</researchViewY>
+	<prerequisites>
+      <li>VBY_PrimitiveProduction</li>
+    </prerequisites>
+  </ResearchProjectDef>
+
+</Defs>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+<!-- FR: <color=#e0115f>Talent : Héraut</color> -->
+<RT_TalentHerald.degreeDatas.colore0115fTalent_Heraldcolor.label><color=#e0115f>Talent : Héraut</color></RT_TalentHerald.degreeDatas.colore0115fTalent_Heraldcolor.label>
+<!-- FR: Une langue aussi acérée qu'une lame avec un bras armé pour l'accompagner, [PAWN_nameDef] représente les meilleurs intérêts de la faction de [PAWN_possessive] et défendra volontiers son nom. -->
+<RT_TalentHerald.degreeDatas.colore0115fTalent_Heraldcolor.description>Une langue aussi acérée qu'une lame avec un bras armé pour l'accompagner, [PAWN_nameDef] représente les meilleurs intérêts de la faction de [PAWN_possessive] et défendra volontiers son nom.</RT_TalentHerald.degreeDatas.colore0115fTalent_Heraldcolor.description>
+
+<!-- FR: <color=#e0115f>Talent : Héros</color> -->
+<RT_TalentHero.degreeDatas.colore0115fTalent_Herocolor.label><color=#e0115f>Talent : Héros</color></RT_TalentHero.degreeDatas.colore0115fTalent_Herocolor.label>
+<!-- FR: Tant que [PAWN_nameDef] respire encore, il n'y a pas une seule menace que la colonie ne puisse surmonter ! -->
+<RT_TalentHero.degreeDatas.colore0115fTalent_Herocolor.description>Tant que [PAWN_nameDef] respire encore, il n'y a pas une seule menace que la colonie ne puisse surmonter !</RT_TalentHero.degreeDatas.colore0115fTalent_Herocolor.description>
+  
+</LanguageData>

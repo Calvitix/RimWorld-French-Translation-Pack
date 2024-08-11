@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ThirstRateMultiplier.label>multiplicateur de soif</ThirstRateMultiplier.label>
+<ThirstRateMultiplier.description>Un multiplicateur sur la rapidité avec laquelle une créature a soif.</ThirstRateMultiplier.description>
+
+<ThirstRateMultiplier.label>facteur de soif</ThirstRateMultiplier.label>
+<ThirstRateMultiplier.description>Un multiplicateur sur la vitesse à laquelle une créature devient assoiffée.</ThirstRateMultiplier.description>
+
+<HygieneRateMultiplier.label>facteur d'hygiène</HygieneRateMultiplier.label>
+<HygieneRateMultiplier.description>Un multiplicateur de la vitesse à laquelle le niveau d'hygiène d'une créature baisse.</HygieneRateMultiplier.description>
+
+<BladderRateMultiplier.label>facteur de vessie</BladderRateMultiplier.label>
+<BladderRateMultiplier.description>Un multiplicateur de la vitesse à laquelle le niveau de la vessie d'une créature baisse.</BladderRateMultiplier.description>
+
+
+</LanguageData>

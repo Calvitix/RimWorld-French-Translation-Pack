@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: | The recent update has made some important changes to the patches in this mod. It is likely tjhis will cause errors on starup for many of you depending on the mod combinations you use. This is somewhat intentional as it will tell me which patches have been failing this whole time. ||It is important to report these errors to me on the mod page so I can fix them ASAP and ensure this mod is working to its full potential. | Thanks. -->
+  <VBY_PrimitiveWorkbenchErrorAlert.content>La récente mise à jour a apporté quelques changements importants aux patchs de ce mod. Il est probable que cela provoque des erreurs au démarrage pour beaucoup d'entre vous en fonction des combinaisons de mods que vous utilisez. C'est en quelque sorte intentionnel car cela me permettra de savoir quels sont les patchs qui ont échoué pendant tout ce temps. ||Il est important de me rapporter ces erreurs sur la page du mod afin que je puisse les corriger le plus rapidement possible et m'assurer que ce mod fonctionne à son plein potentiel. | Merci.</VBY_PrimitiveWorkbenchErrorAlert.content>
+  <!-- EN: Primitive Workbenches -->
+  <VBY_PrimitiveWorkbenchErrorAlert.modNameReadable>Ateliers primitifs</VBY_PrimitiveWorkbenchErrorAlert.modNameReadable>
+  
+</LanguageData>

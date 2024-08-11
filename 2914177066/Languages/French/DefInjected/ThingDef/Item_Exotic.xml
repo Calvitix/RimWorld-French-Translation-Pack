@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: valboar tusk -->
+  <ERN_ValboarTusk.label>défense de sanglier val</ERN_ValboarTusk.label>
+  <!-- EN: A val boar's tusk. It is quite durable. While somewhat unwieldy as a melee weapon, it can still be deadly.\n\n<i><color=#66E0E4FF>Erin's Valheim Creatures</color></i> -->
+  <ERN_ValboarTusk.description>Une défense de sanglier val. Elle est très résistante. Bien qu'elle soit peu maniable en tant qu'arme de mêlée, elle peut s'avérer mortelle</ERN_ValboarTusk.description>
+  <!-- EN: point -->
+  <ERN_ValboarTusk.tools.point.label>pointe</ERN_ValboarTusk.tools.point.label>
+  <!-- EN: base -->
+  <ERN_ValboarTusk.tools.base.label>base</ERN_ValboarTusk.tools.base.label>
+  
+</LanguageData>

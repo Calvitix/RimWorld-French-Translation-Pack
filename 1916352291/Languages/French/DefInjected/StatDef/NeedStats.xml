@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+
+<!-- FR: déclin du besoin alimentaire -->
+<RTMT_FoodNeedDecay.label>déclin du besoin alimentaire</RTMT_FoodNeedDecay.label>
+<!-- FR: Le taux auquel le besoin alimentaire va décliner. Pour référence : x50 déclinera à la moitié du taux de base. -->
+<RTMT_FoodNeedDecay.description>Le taux auquel le besoin alimentaire va décliner. Pour référence : x50 déclinera à la moitié du taux de base.</RTMT_FoodNeedDecay.description>
+
+<!-- FR: déclin du besoin de loisirs -->
+<RTMT_RecreationNeed_Decay.label>déclin du besoin de loisirs</RTMT_RecreationNeed_Decay.label>
+<!-- FR: Le taux auquel le besoin de loisirs va décliner. Pour référence : x50 déclinera à la moitié du taux de base. -->
+<RTMT_RecreationNeed_Decay.description>Le taux auquel le besoin de loisirs va décliner. Pour référence : x50 déclinera à la moitié du taux de base.</RTMT_RecreationNeed_Decay.description>
+
+<!-- FR: déclin du besoin de repos -->
+<RTMT_RestNeed_Decay.label>déclin du besoin de repos</RTMT_RestNeed_Decay.label>
+<!-- FR: Le taux auquel le besoin de repos va décliner. Pour référence : x50 déclinera à la moitié du taux de base. -->
+<RTMT_RestNeed_Decay.description>Le taux auquel le besoin de repos va décliner. Pour référence : x50 déclinera à la moitié du taux de base.</RTMT_RestNeed_Decay.description>
+
+  
+</LanguageData>

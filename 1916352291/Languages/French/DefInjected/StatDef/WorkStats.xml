@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+
+<!-- FR: vitesse de sculpture -->
+<SculptingSpeed.label>vitesse de sculpture</SculptingSpeed.label>
+<!-- FR: La vitesse à laquelle cette personne crée des sculptures.\n\nCette statistique n'affecte que la rapidité de production des sculptures, pas leur qualité. La qualité est déterminée par la compétence artistique du sculpteur. -->
+<SculptingSpeed.description>La vitesse à laquelle cette personne crée des sculptures.\n\nCette statistique n'affecte que la rapidité de production des sculptures, pas leur qualité. La qualité est déterminée par la compétence artistique du sculpteur.</SculptingSpeed.description>
+
+<!-- FR: vitesse de forgeage -->
+<SmithingSpeed.label>vitesse de forgeage</SmithingSpeed.label>
+<!-- FR: La vitesse à laquelle cette personne fabrique des armes, des machines et des munitions.\n\nCette statistique n'affecte que la rapidité de production des objets, pas leur qualité. La qualité est déterminée par la compétence de l'artisan. -->
+<SmithingSpeed.description>La vitesse à laquelle cette personne fabrique des armes, des machines et des munitions.\n\nCette statistique n'affecte que la rapidité de production des objets, pas leur qualité. La qualité est déterminée par la compétence de l'artisan.</SmithingSpeed.description>
+
+<!-- FR: vitesse de couture -->
+<TailoringSpeed.label>vitesse de couture</TailoringSpeed.label>
+<!-- FR: La vitesse à laquelle cette personne fabrique des vêtements.\n\nCette statistique n'affecte que la rapidité de production des vêtements, pas leur qualité. La qualité est déterminée par la compétence de couture du tailleur. -->
+<TailoringSpeed.description>La vitesse à laquelle cette personne fabrique des vêtements.\n\nCette statistique n'affecte que la rapidité de production des vêtements, pas leur qualité. La qualité est déterminée par la compétence de couture du tailleur.</TailoringSpeed.description>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bloodflame -->
+  <DA_BloodflameCatacomb.label>Flamme de sang</DA_BloodflameCatacomb.label>
+  <!-- EN: Create specifically treated buildings that are soothing for people with the bloodfeeder gene. -->
+  <DA_BloodflameCatacomb.description>Créer des bâtiments spécifiquement traités pour être apaisants pour les personnes porteuses du gène BloodfeederMur infranchissable fait de crânes sculptés, utilisé pour décorer les ossuaires et les cryptes. Décoration sinistre qui fait office de memento mori. Capable de soutenir un toit.</DA_BloodflameCatacomb.description>
+
+  <!-- EN: catacombs -->
+  <DA_Catacombs.label>Catacombes</DA_Catacombs.label>
+  <!-- EN: Build sepulchral buildings to honor the deceased and embellish your catacombs and crypts. -->
+  <DA_Catacombs.description>Construisez des bâtiments funéraires pour honorer les défunts et embellissez vos catacombes et vos cryptes. </DA_Catacombs.description>
+
+</LanguageData>

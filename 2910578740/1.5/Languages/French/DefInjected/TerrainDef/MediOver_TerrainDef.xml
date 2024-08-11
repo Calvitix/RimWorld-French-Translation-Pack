@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<DankPyon_PlowedSoil.label>terre labourée</DankPyon_PlowedSoil.label>
+<DankPyon_PlowedSoil.description>Labourer le sol pour augmenter sa fertilité.</DankPyon_PlowedSoil.description>
+<DankPyon_PlowedSoil.tools.dirt.label>terre</DankPyon_PlowedSoil.tools.dirt.label>
+
+<!-- v1.5 -->
+<IronTile.label>carrelage en fer</IronTile.label>
+<IronTile.description>Carrelage en fer, pour un aspect robuste. Rapide à nettoyer et bénéficie d'un petit bonus de propreté pour une utilisation en milieu médical.</IronTile.description>
+
+<DankPyon_Floor_Cobblestone_Sandstone.label>pavé en grès</DankPyon_Floor_Cobblestone_Sandstone.label>
+<DankPyon_Floor_Cobblestone_Sandstone.description>Pavés bruts posés selon des motifs ajustés. Ils sont jolis à regarder, mais leur pose prend beaucoup de temps.</DankPyon_Floor_Cobblestone_Sandstone.description>
+
+<DankPyon_Floor_Cobblestone_Granite.label>pavé en granite</DankPyon_Floor_Cobblestone_Granite.label>
+<DankPyon_Floor_Cobblestone_Granite.description>Pavés bruts posés selon des motifs ajustés. Ils sont jolis à regarder, mais leur pose prend beaucoup de temps.</DankPyon_Floor_Cobblestone_Granite.description>
+
+<DankPyon_Floor_Cobblestone_Limestone.label>pavé en calcaire</DankPyon_Floor_Cobblestone_Limestone.label>
+<DankPyon_Floor_Cobblestone_Limestone.description>Pavés bruts posés selon des motifs ajustés. Ils sont jolis à regarder, mais leur pose prend beaucoup de temps.</DankPyon_Floor_Cobblestone_Limestone.description>
+
+<DankPyon_Floor_Cobblestone_Slate.label>pavé en ardoise</DankPyon_Floor_Cobblestone_Slate.label>
+<DankPyon_Floor_Cobblestone_Slate.description>Pavés bruts posés selon des motifs ajustés. Ils sont jolis à regarder, mais leur pose prend beaucoup de temps.</DankPyon_Floor_Cobblestone_Slate.description>
+
+<DankPyon_Floor_Cobblestone_Marble.label>pavé en marbre</DankPyon_Floor_Cobblestone_Marble.label>
+<DankPyon_Floor_Cobblestone_Marble.description>Pavés bruts posés selon des motifs ajustés. Ils sont jolis à regarder, mais leur pose prend beaucoup de temps.</DankPyon_Floor_Cobblestone_Marble.description>
+
+<DankPyon_Floor_RuinedStoneTile_Sandstone.label>dalle de ruine en grès</DankPyon_Floor_RuinedStoneTile_Sandstone.label>
+<DankPyon_Floor_RuinedStoneTile_Sandstone.description>Des dalles de pierre en ruine. Elles sont jolies à regarder, mais leur pose prend beaucoup de temps.</DankPyon_Floor_RuinedStoneTile_Sandstone.description>
+
+<DankPyon_Floor_RuinedStoneTile_Granite.label>dalle de ruine en granite</DankPyon_Floor_RuinedStoneTile_Granite.label>
+<DankPyon_Floor_RuinedStoneTile_Granite.description>Des dalles de pierre en ruine. Elles sont jolies à regarder, mais leur pose prend beaucoup de temps.</DankPyon_Floor_RuinedStoneTile_Granite.description>
+
+<DankPyon_Floor_RuinedStoneTile_Limestone.label>dalle de ruine en calcaire</DankPyon_Floor_RuinedStoneTile_Limestone.label>
+<DankPyon_Floor_RuinedStoneTile_Limestone.description>Des dalles de pierre en ruine. Elles sont jolies à regarder, mais leur pose prend beaucoup de temps.</DankPyon_Floor_RuinedStoneTile_Limestone.description>
+
+<DankPyon_Floor_RuinedStoneTile_Slate.label>dalle de ruine en ardoise</DankPyon_Floor_RuinedStoneTile_Slate.label>
+<DankPyon_Floor_RuinedStoneTile_Slate.description>Des dalles de pierre en ruine. Elles sont jolies à regarder, mais leur pose prend beaucoup de temps.</DankPyon_Floor_RuinedStoneTile_Slate.description>
+
+<DankPyon_Floor_RuinedStoneTile_Marble.label>dalle de ruine en marbre</DankPyon_Floor_RuinedStoneTile_Marble.label>
+<DankPyon_Floor_RuinedStoneTile_Marble.description>Des dalles de pierre en ruine. Elles sont jolies à regarder, mais leur pose prend beaucoup de temps.</DankPyon_Floor_RuinedStoneTile_Marble.description>
+
+<DankPyon_Floor_RusticWoodFloor_Wood.label>plancher rustique en bois</DankPyon_Floor_RusticWoodFloor_Wood.label>
+<DankPyon_Floor_RusticWoodFloor_Wood.description>Le parquet en bois pour une sensation de chaleur et d'intimité. Rapide à poser, il est cependant très inflammable.</DankPyon_Floor_RusticWoodFloor_Wood.description>
+
+<DankPyon_Floor_RusticWoodFloor_DarkWood.label>plancher rustique en bois sombre</DankPyon_Floor_RusticWoodFloor_DarkWood.label>
+<DankPyon_Floor_RusticWoodFloor_DarkWood.description>Le parquet en bois pour une sensation de chaleur et d'intimité. Rapide à poser, il est cependant très inflammable.</DankPyon_Floor_RusticWoodFloor_DarkWood.description>
+
+<DankPyon_EarthenFloor.label>sol en terre battue</DankPyon_EarthenFloor.label>
+<DankPyon_EarthenFloor.description>Le sol en terre battue, fabriqué à partir d'argile et de paille. Lissé à la main, il offre un charme rustique et une assise fiable pour la vie quotidienne dans les maisons comme dans les châteaux.</DankPyon_EarthenFloor.description>
+
+</LanguageData>

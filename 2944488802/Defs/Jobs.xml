@@ -1,0 +1,90 @@
+
+<Defs>
+
+  <JobDef>
+    <defName>AM_InAnimation</defName>
+    <driverClass>AM.Jobs.JobDriver_DoAnimation</driverClass>
+    <reportString>en animation</reportString>
+    <casualInterruptible>false</casualInterruptible>
+    <playerInterruptible>false</playerInterruptible>
+    <allowOpportunisticPrefix>false</allowOpportunisticPrefix>
+    <dropThingBeforeJob>false</dropThingBeforeJob>
+    <suspendable>false</suspendable>
+    <neverShowWeapon>true</neverShowWeapon>
+    <isIdle>false</isIdle>
+  </JobDef>
+
+  <JobDef>
+    <defName>AM_ChannelAnimation</defName>
+    <driverClass>AM.Jobs.JobDriver_ChannelAnimation</driverClass>
+    <reportString>appelle une animation</reportString>
+    <casualInterruptible>false</casualInterruptible>
+    <playerInterruptible>false</playerInterruptible>
+    <allowOpportunisticPrefix>false</allowOpportunisticPrefix>
+    <dropThingBeforeJob>false</dropThingBeforeJob>
+    <suspendable>false</suspendable>
+    <neverShowWeapon>true</neverShowWeapon>
+    <isIdle>false</isIdle>
+  </JobDef>
+
+  <JobDef>
+    <defName>AM_WalkToExecution</defName>
+    <driverClass>AM.Jobs.JobDriver_GoToExecutionSpot</driverClass>
+    <reportString>se déplace vers TargetA pour un exécution.</reportString>
+    <casualInterruptible>false</casualInterruptible>
+    <playerInterruptible>true</playerInterruptible>
+    <allowOpportunisticPrefix>false</allowOpportunisticPrefix>
+    <dropThingBeforeJob>false</dropThingBeforeJob>
+    <suspendable>false</suspendable>
+    <neverShowWeapon>false</neverShowWeapon>
+    <isIdle>false</isIdle>
+  </JobDef>
+
+  <JobDef>
+    <defName>AM_DoFriendlyDuel</defName>
+    <driverClass>AM.Jobs.JobDriver_DoFriendlyDuel</driverClass>
+    <reportString>engage un duel amical avec TargetA</reportString>
+    <casualInterruptible>false</casualInterruptible>
+    <playerInterruptible>true</playerInterruptible>
+    <allowOpportunisticPrefix>false</allowOpportunisticPrefix>
+    <dropThingBeforeJob>true</dropThingBeforeJob>
+    <suspendable>false</suspendable>
+    <neverShowWeapon>true</neverShowWeapon>
+    <isIdle>false</isIdle>
+    <alwaysShowWeapon>false</alwaysShowWeapon>
+    <joySkill>Melee</joySkill>
+    <joyXpPerTick>0.003</joyXpPerTick>
+    <joyKind>AM_FriendlyDuelJoyKind</joyKind>
+  </JobDef>
+
+  <JobDef>
+    <defName>AM_SpectateFriendlyDuel</defName>
+    <driverClass>AM.Jobs.JobDriver_SpectateDuel</driverClass>
+    <reportString>assiste à un duel: supporte TargetC</reportString>
+    <casualInterruptible>true</casualInterruptible>
+    <playerInterruptible>true</playerInterruptible>
+    <allowOpportunisticPrefix>true</allowOpportunisticPrefix>
+    <dropThingBeforeJob>false</dropThingBeforeJob>
+    <suspendable>false</suspendable>
+    <neverShowWeapon>false</neverShowWeapon>
+    <isIdle>false</isIdle>
+    <alwaysShowWeapon>false</alwaysShowWeapon>
+    <joySkill>Melee</joySkill>
+    <joyXpPerTick>0.003</joyXpPerTick>
+    <joyKind>AM_FriendlyDuelJoyKind</joyKind>
+  </JobDef>
+
+  <JobDef>
+    <defName>AM_GrapplePawn</defName>
+    <driverClass>AM.Grappling.JobDriver_GrapplePawn</driverClass>
+    <reportString>attrape au lasso</reportString>
+    <casualInterruptible>false</casualInterruptible>
+    <playerInterruptible>false</playerInterruptible>
+    <allowOpportunisticPrefix>false</allowOpportunisticPrefix>
+    <dropThingBeforeJob>false</dropThingBeforeJob>
+    <suspendable>false</suspendable>
+    <neverShowWeapon>true</neverShowWeapon>
+    <isIdle>false</isIdle>
+  </JobDef>
+
+</Defs>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+
+<!-- EN: Dual wielding penalties -->
+<DW_Penalties.label>Pénalités de double maniement</DW_Penalties.label>
+<!-- EN: Dual wielding doesn't come without penalties. Both the cooldown time (time a pawn can't do anything after taking a shot), and the shooting accuracy get a penalty that is configurable in the mod settings. This penalty depends heavily on the skill (melee for melee weapons, and shooting for ranged weapons) of the pawn. Letting you lvl 1 shooting skill pawn dual wield guns might not be such a good idea! -->
+<DW_Penalties.helpText>Le double maniement n'est pas sans pénalités. Le temps de refroidissement (temps pendant lequel un pion ne peut rien faire après avoir tiré) et la précision de tir sont pénalisés, ce qui est configurable dans les paramètres du mod. Cette pénalité dépend fortement de la compétence (mêlée pour les armes de mêlée, et tir pour les armes à distance) du pion. Laisser votre pion de niveau 1 en compétence de tir manier deux armes à feu n'est peut-être pas une si bonne idée !</DW_Penalties.helpText>
+
+<!-- EN: Dual Wield mod settings -->
+<DW_Settings.label>Paramètres du mod Double Maniement</DW_Settings.label>
+<!-- EN: Don't forget to check out the mod settings for dual wielding. If there's something you don't like about the mod, you'll likely find a setting there that solves your issue. -->
+<DW_Settings.helpText>N'oubliez pas de consulter les paramètres du mod pour le double maniement. Si quelque chose ne vous plaît pas dans le mod, vous trouverez probablement un paramètre qui résout votre problème.</DW_Settings.helpText>
+
+</LanguageData>

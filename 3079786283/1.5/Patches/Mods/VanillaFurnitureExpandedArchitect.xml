@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+     <xpath>Defs/ThingDef[defName="VFEArch_SingleDoor" or defName="VFEArch_SingleDoor_Flipped" or defName="VFEArch_AnimalGate" or defName="VFEArch_LogWall" or defName="VFEArch_PicketFence" or defName="VFEArch_LowFence" or defName="VFEArch_HedgeWall"]/researchPrerequisites</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName="VFEArch_SingleDoor" or defName="VFEArch_SingleDoor_Flipped" or defName="VFEArch_AnimalGate" or defName="VFEArch_LogWall" or defName="VFEArch_PicketFence" or defName="VFEArch_LowFence" or defName="VFEArch_HedgeWall"]</xpath>
+               <value>
+                  <researchPrerequisites>
+                     <li>VFET_Construction</li>
+					<li>VFE_Res_Wood</li>
+                  </researchPrerequisites>
+               </value>
+		</nomatch>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName="VFEArch_SingleDoor" or defName="VFEArch_SingleDoor_Flipped" or defName="VFEArch_AnimalGate" or defName="VFEArch_LogWall" or defName="VFEArch_PicketFence" or defName="VFEArch_LowFence" or defName="VFEArch_HedgeWall"]/researchPrerequisites</xpath>
+				<value>
+                     <li>VFET_Construction</li>
+					<li>VFE_Res_Wood</li>
+				</value>    
+		</match>
+  </Operation>	  
+   <Operation Class="PatchOperationConditional">
+     <xpath>Defs/TerrainDef[defName="VFEArch_Grass" or defName="VFEArch_LawnPlot" or @Name="VFEArch_WoodenParquetBase" or @Name="CobblestoneBase" or defName="VFEArch_BridgeSteel" or defName="VFEArch_WoodPlankFloorWalnut" or defName="VFEArch_WoodPlankFloorBirch" or defName="VFEArch_WoodPlankFloorMahogany" or defName="VFEArch_FineWoodenFloor" or defName="VFEArch_FineWoodenFloorWalnut" or defName="VFEArch_FineWoodenFloorBirch" or defName="VFEArch_FineWoodenFloorMahogany" or defName="VFEArch_PicketFence" or defName="VFEArch_FineWall" or defName="VFEArch_WoodenParquetBirch" or defName="VFEArch_WoodenParquetMahogany" or defName="VFEArch_FineWoodenFloor" or defName="VFEArch_WoodenParquetWalnut" ]/researchPrerequisites</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/TerrainDef[defName="VFEArch_Grass" or defName="VFEArch_LawnPlot" or @Name="VFEArch_WoodenParquetBase" or @Name="CobblestoneBase" or defName="VFEArch_BridgeSteel" or defName="VFEArch_WoodPlankFloorWalnut" or defName="VFEArch_WoodPlankFloorBirch" or defName="VFEArch_WoodPlankFloorMahogany" or defName="VFEArch_FineWoodenFloor" or defName="VFEArch_FineWoodenFloorWalnut" or defName="VFEArch_FineWoodenFloorBirch" or defName="VFEArch_FineWoodenFloorMahogany" or defName="VFEArch_PicketFence" or defName="VFEArch_FineWall" or defName="VFEArch_WoodenParquetBirch" or defName="VFEArch_WoodenParquetMahogany" or defName="VFEArch_FineWoodenFloor" or defName="VFEArch_WoodenParquetWalnut" ]</xpath>
+               <value>
+                  <researchPrerequisites>
+					<li>DankPyon_Lumber</li>
+                  </researchPrerequisites>
+               </value>
+		</nomatch>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/TerrainDef[defName="VFEArch_Grass" or defName="VFEArch_LawnPlot" or @Name="VFEArch_WoodenParquetBase" or @Name="CobblestoneBase" or defName="VFEArch_BridgeSteel" or defName="VFEArch_WoodPlankFloorWalnut" or defName="VFEArch_WoodPlankFloorBirch" or defName="VFEArch_WoodPlankFloorMahogany" or defName="VFEArch_FineWoodenFloor" or defName="VFEArch_FineWoodenFloorWalnut" or defName="VFEArch_FineWoodenFloorBirch" or defName="VFEArch_FineWoodenFloorMahogany" or defName="VFEArch_PicketFence" or defName="VFEArch_FineWall" or defName="VFEArch_WoodenParquetBirch" or defName="VFEArch_WoodenParquetMahogany" or defName="VFEArch_FineWoodenFloor" or defName="VFEArch_WoodenParquetWalnut" ]/researchPrerequisites</xpath>
+				<value>
+				<li>DankPyon_Lumber</li>
+				</value>    
+		</match>
+  </Operation>	 
+     <Operation Class="PatchOperationConditional">
+     <xpath>Defs/TerrainDef[defName="VFEArch_CobblestoneFloorMarble" or defName="VFEArch_CobblestoneFloorConcrete" or defName="VFEArch_CobblestoneFloorSlate" or defName="CobblestoneBase" or defName="VFEArch_CobblestoneFloorGranite" or defName="VFEArch_CobblestoneFloorSandstone" or defName="VFEArch_FineWoodenFloorBirch" or defName="VFEArch_FineWoodenFloorMahogany" or defName="VFEArch_PicketFence" or defName="VFEArch_FineWall"]/researchPrerequisites</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName="VFEArch_SingleDoor" or defName="VFEArch_SingleDoor_Flipped" or defName="VFEArch_AnimalGate" or defName="VFEArch_LogWall" or defName="VFEArch_PicketFence" or defName="VFEArch_LowFence" or defName="VFEArch_HedgeWall"]</xpath>
+				<value>
+					<researchPrerequisites>                    
+					<li>Stonecutting</li>
+					</researchPrerequisites>
+				</value>    
+		</nomatch>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/TerrainDef[defName="VFEArch_CobblestoneFloorMarble" or defName="VFEArch_CobblestoneFloorConcrete" or defName="VFEArch_CobblestoneFloorSlate" or defName="CobblestoneBase" or defName="VFEArch_CobblestoneFloorGranite" or defName="VFEArch_CobblestoneFloorSandstone" or defName="VFEArch_FineWoodenFloorBirch" or defName="VFEArch_FineWoodenFloorMahogany" or defName="VFEArch_PicketFence" or defName="VFEArch_FineWall"]/researchPrerequisites</xpath>
+				<value>
+				<li>Stonecutting</li>
+				</value>    
+      </match>
+   </Operation>
+</Patch>
+

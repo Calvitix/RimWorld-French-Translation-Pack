@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: crafting workbench -->
+  <CraftingWorkBench.label>établi d'artisanat</CraftingWorkBench.label>
+  <!-- EN: A simple table with some basic metalworking and carpentry tools and supplies for crafting convenience. -->
+  <CraftingWorkBench.description>Une table simple avec quelques outils de base pour le travail des métaux et la menuiserie, ainsi que des fournitures pour faciliter l'artisanat.</CraftingWorkBench.description>
+  
+</LanguageData>

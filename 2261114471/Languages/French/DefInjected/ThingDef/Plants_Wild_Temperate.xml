@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cibarius -->
+  <RG_Cibarius.label>cibarius</RG_Cibarius.label>
+  <!-- EN: A tiny yellow and very tasty mushroom growing in small clusters. It can be found exclusively in temperate biomes. -->
+  <RG_Cibarius.description>Un minuscule champignon jaune et très savoureux qui pousse en petits amas. On le trouve exclusivement dans les biomes tempérés.</RG_Cibarius.description>
+  
+  <!-- EN: dandelions -->
+  <RG_Plant_BlueDandelion.label>pissenlit</RG_Plant_BlueDandelion.label>
+  <!-- EN: A tiny blue flower which grows in large clusters. Though it is often considered a weed, dandelions in bloom are quite beautiful. -->
+  <RG_Plant_BlueDandelion.description>Une minuscule fleur bleue qui pousse sur de grand parterre. Bien qu'il soit souvent considéré comme une mauvaise herbe, le pissenlit fleuri est très beau.</RG_Plant_BlueDandelion.description>
+  
+  <!-- EN: cathedralis -->
+  <RG_Plant_Cathedralis.label>cathedralis</RG_Plant_Cathedralis.label>
+  <!-- EN: A large purple beautiful wildflower that grows in warmer climates. -->
+  <RG_Plant_Cathedralis.description>Une belle et grande fleur sauvage pourpre qui pousse dans les climats plus chauds.</RG_Plant_Cathedralis.description>
+  
+  <!-- EN: tall grass -->
+  <RG_Plant_GrasslandTallGrass.label>herbe haute</RG_Plant_GrasslandTallGrass.label>
+  <!-- EN: Wild tall grass. Slows down anyone moving over it. -->
+  <RG_Plant_GrasslandTallGrass.description>Herbes hautes et sauvages. Ralentit toute personne se déplaçant dessus.</RG_Plant_GrasslandTallGrass.description>
+  
+  <!-- EN: dandelions -->
+  <RG_Plant_RedDandelion.label>pissenlit</RG_Plant_RedDandelion.label>
+  <!-- EN: A tiny red flower which grows in large clusters. Though it is often considered a weed, dandelions in bloom are quite beautiful. -->
+  <RG_Plant_RedDandelion.description>Une minuscule fleur rouge qui pousse sur de grand parterre. Bien qu'il soit souvent considéré comme une mauvaise herbe, le pissenlit fleuri est très beau.</RG_Plant_RedDandelion.description>
+  
+  <!-- EN: fern -->
+  <RG_Plant_TemperateFern.label>fougère</RG_Plant_TemperateFern.label>
+  <!-- EN: A short shrub with long, fine leaves. Grows in warm forests areas -->
+  <RG_Plant_TemperateFern.description>Un petit arbuste avec des feuilles longues et fines. Il pousse dans les forêts chaudes.</RG_Plant_TemperateFern.description>
+  
+  <!-- EN: ivy -->
+  <RG_Plant_TemperateIvy.label>lierre</RG_Plant_TemperateIvy.label>
+  <!-- EN: Wild ivy with leafs that grows in patches of leaves in areas of warm temperatures. Takes a long time to grow, but is very frost-resistant. -->
+  <RG_Plant_TemperateIvy.description>Lierre sauvage à feuilles qui pousse en groupes de feuilles dans les régions chaudes. Sa croissance est longue, mais il est très résistant au gel.</RG_Plant_TemperateIvy.description>
+  
+  <!-- EN: cornish tree -->
+  <RG_Plant_TreeCornish.label>cornouiller</RG_Plant_TreeCornish.label>
+  <!-- EN: A large mediterranean conifer covered with tiny pine cones. It grows exclusively in temperate biomes. -->
+  <RG_Plant_TreeCornish.description>Un grand conifère méditerranéen couvert de petites pommes de pin. Il pousse exclusivement dans les biomes tempérés.</RG_Plant_TreeCornish.description>
+  
+  <!-- EN: waxcap -->
+  <RG_Waxcap.label>waxcap</RG_Waxcap.label>
+  <!-- EN: A pink bright mushroom growing in clusters. It grows exclusively in grassland biomes. -->
+  <RG_Waxcap.description>Un champignon rose vif qui pousse en amas. Il pousse exclusivement dans les biomes de prairie.</RG_Waxcap.description>
+  
+</LanguageData>

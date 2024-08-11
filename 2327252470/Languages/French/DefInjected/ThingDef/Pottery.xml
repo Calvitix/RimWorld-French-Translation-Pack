@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: vase moyen en céramique -->
+  <VBY_PotteryMed.label>vase moyen en céramique</VBY_PotteryMed.label>
+  <!-- EN: Un vase en terre cuite. -->
+  <VBY_PotteryMed.description>Un vase en terre cuite.</VBY_PotteryMed.description>
+  
+  <!-- EN: petit vase en céramique -->
+  <VBY_PotterySmall.label>petit vase en céramique</VBY_PotterySmall.label>
+  <!-- EN: Un vase en terre cuite. -->
+  <VBY_PotterySmall.description>Un vase en terre cuite.</VBY_PotterySmall.description>
+  
+</LanguageData>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Advanced melee weapons -->
+  <AdvancedMeleeWeapons.label>Armes de mêlée avancées</AdvancedMeleeWeapons.label>
+  <!-- EN: Craft improved melee weapons, better suited for fighting armored opponents. -->
+  <AdvancedMeleeWeapons.description>Fabriquez des armes de mêlée améliorées, mieux adaptées pour combattre des adversaires blindés.</AdvancedMeleeWeapons.description>
+
+  <!-- EN: Basic crossbows -->
+  <BasicCrossbows.label>Arbalètes de base</BasicCrossbows.label>
+  <!-- EN: Craft simple crossbows, that have superior armor penetration, but lower reload speed compared to shortbows. -->
+  <BasicCrossbows.description>Fabriquez des arbalètes simples, qui ont une meilleure pénétration d'armure, mais une vitesse de rechargement plus faible par rapport aux arcs courts.</BasicCrossbows.description>
+ 
+  <!-- EN: Basic tool crafting -->
+  <BasicTools.label>Fabrication d'outils de base</BasicTools.label>
+  <!-- EN: Build a crafting workbench, that allows making basic handheld tools and simple mechanical parts. -->
+  <BasicTools.description>Construisez un établi d'artisanat, qui permet de fabriquer des outils portatifs de base et des pièces mécaniques simples.</BasicTools.description>
+
+  <!-- EN: Heavy crossbows -->
+  <HeavyCrossbows.label>Arbalètes lourdes</HeavyCrossbows.label>
+  <!-- EN: Craft long range siege crossbows - sophisticated mechanisms capable of launching heavy projectiles over extreme ranges and piercing through all but heaviest of armors. -->
+  <HeavyCrossbows.description>Fabriquez des arbalètes de siège à longue portée - des mécanismes sophistiqués capables de lancer des projectiles lourds sur des distances extrêmes et de percer tous les armures sauf les plus lourdes.</HeavyCrossbows.description>
+ 
+  <!-- EN: Two-handed melee weapons -->
+  <HeavyWeapons.label>Armes de mêlée à deux mains</HeavyWeapons.label>
+  <!-- EN: Craft devastating two-handed equivalents of most weapons, that require significant physical training and conditioning to be wielded properly. -->
+  <HeavyWeapons.description>Fabriquez des équivalents dévastateurs à deux mains de la plupart des armes, qui nécessitent un entraînement physique important et une condition physique pour être maniés correctement.</HeavyWeapons.description>
+ 
+  <!-- EN: Longbows -->
+  <LongBows.label>Arcs longs</LongBows.label>
+  <!-- EN: Craft composite longbows for precision shooting over extreme distances and causing destruction with incendiary arrows. -->
+  <LongBows.description>Fabriquez des arcs longs composites pour le tir de précision sur de longues distances et provoquez des destructions avec des flèches incendiaires.</LongBows.description>
+
+  <!-- EN: Multishot crossbows -->
+  <MultishotCrossbows.label>Arbalètes à tirs multiples</MultishotCrossbows.label>
+  <!-- EN: A relatively simple upgrade to crossbow firing mechanism allows production of models that can fire several shots in a row before reloading. -->
+  <MultishotCrossbows.description>Une mise à niveau relativement simple du mécanisme de tir de l'arbalète permet de produire des modèles qui peuvent tirer plusieurs coups d'affilée avant de recharger.</MultishotCrossbows.description>
+ 
+  <!-- EN: Throwing weapons -->
+  <ThrowingWeapons.label>Armes de jet</ThrowingWeapons.label>
+  <!-- EN: Craft several well balanced throwing weapons, that can perform effectively both in ranged and melee combat. -->
+  <ThrowingWeapons.description>Fabriquez plusieurs armes de jet bien équilibrées, qui peuvent être efficaces à la fois en combat à distance et en combat rapproché.</ThrowingWeapons.description>
+
+</LanguageData>

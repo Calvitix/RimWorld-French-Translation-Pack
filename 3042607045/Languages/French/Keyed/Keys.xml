@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Leftovers.Settings>Restes</Leftovers.Settings>
+  <Leftovers.Settings.Blacklist.Label>Liste noire générée des restes</Leftovers.Settings.Blacklist.Label>
+  <Leftovers.Settings.Blacklist.SearchBox>Recherche</Leftovers.Settings.Blacklist.SearchBox>
+  <Leftovers.Settings.Blacklist.ShowCorpse>Voir Corps</Leftovers.Settings.Blacklist.ShowCorpse>
+  <Leftovers.Settings.Blacklist.ShowRawFood>Voir nourriture brute</Leftovers.Settings.Blacklist.ShowRawFood>
+  
+</LanguageData>

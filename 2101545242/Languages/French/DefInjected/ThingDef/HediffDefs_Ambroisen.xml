@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: XX Parésienne arm -->
+  <AmbroisenMedArm.label>TODO</AmbroisenMedArm.label>
+  <!-- EN: A Parésian arm. -->
+  <AmbroisenMedArm.description>TODO</AmbroisenMedArm.description>
+  
+  <!-- EN: XX Parésienne ear -->
+  <AmbroisenMedEar.label>TODO</AmbroisenMedEar.label>
+  <!-- EN: A Parésian ear. -->
+  <AmbroisenMedEar.description>TODO</AmbroisenMedEar.description>
+  
+  <!-- EN: XX Parésienne eye -->
+  <AmbroisenMedEye.label>TODO</AmbroisenMedEye.label>
+  <!-- EN: A Parésian eye. -->
+  <AmbroisenMedEye.description>TODO</AmbroisenMedEye.description>
+  
+  <!-- EN: XX Parésienne finger -->
+  <AmbroisenMedFinger.label>TODO</AmbroisenMedFinger.label>
+  <!-- EN: A Parésian finger. -->
+  <AmbroisenMedFinger.description>TODO</AmbroisenMedFinger.description>
+  
+  <!-- EN: XX Parésienne foot -->
+  <AmbroisenMedFoot.label>TODO</AmbroisenMedFoot.label>
+  <!-- EN: A Parésian foot. -->
+  <AmbroisenMedFoot.description>TODO</AmbroisenMedFoot.description>
+  
+  <!-- EN: Main Parésienne hand -->
+  <AmbroisenMedHand.label>TODO</AmbroisenMedHand.label>
+  <!-- EN: A Parésian hand. -->
+  <AmbroisenMedHand.description>TODO</AmbroisenMedHand.description>
+  
+  <!-- EN: XX Parésienne leg -->
+  <AmbroisenMedLeg.label>TODO</AmbroisenMedLeg.label>
+  <!-- EN: A Parésian leg. -->
+  <AmbroisenMedLeg.description>TODO</AmbroisenMedLeg.description>
+  
+  <!-- EN: XX Parésienne nose -->
+  <AmbroisenMedNose.label>TODO</AmbroisenMedNose.label>
+  <!-- EN: A Parésian nose. -->
+  <AmbroisenMedNose.description>TODO</AmbroisenMedNose.description>
+  
+  <!-- EN: XX Parésienne toe -->
+  <AmbroisenMedToe.label>TODO</AmbroisenMedToe.label>
+  <!-- EN: A Parésian toe. -->
+  <AmbroisenMedToe.description>TODO</AmbroisenMedToe.description>
+  
+</LanguageData>

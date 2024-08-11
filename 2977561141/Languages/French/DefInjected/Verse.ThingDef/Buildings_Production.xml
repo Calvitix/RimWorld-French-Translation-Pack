@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+
+  <!-- EN: camp cauldron -->
+  <CCol_CampCauldron.label>Chaudron de camp</CCol_CampCauldron.label>
+  <!-- EN: Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
+  <CCol_CampCauldron.description>Cuit les repas et produit de la chaleur, et s'éteint après quelques jours. Comme toutes les sources de chaleur, il doit être placé à l'intérieur afin d'avoir un espace fermé à chauffer. Rechargeable.</CCol_CampCauldron.description>
+  
+  <!-- EN: chemfuel stove -->
+  <CCol_ChemfuelStove.label>Poêle à combustible chimique</CCol_ChemfuelStove.label>
+  <!-- EN: Smaller than a fueled cooking station and with greater functionality than a campfire, this faux cast-iron stove will help keep your home warm and your bellies full. -->
+  <CCol_ChemfuelStove.description>Plus petite qu'une station de cuisson alimentée en carburant et avec une plus grande fonctionnalité qu'un feu de camp, ce faux poêle en fonte aidera à garder votre maison chaude et vos ventres pleins.</CCol_ChemfuelStove.description>
+  
+  <!-- EN: electric stove -->
+  <CCol_ElectricStove.label>Poêle électrique</CCol_ElectricStove.label>
+  <!-- EN: Smaller than a fueled cooking station and with greater functionality than a campfire, this faux cast-iron stove will help keep your home warm and your bellies full. -->
+  <CCol_ElectricStove.description>Plus petite qu'une station de cuisson alimentée en carburant et avec une plus grande fonctionnalité qu'un feu de camp, ce faux poêle en fonte aidera à garder votre maison chaude et vos ventres pleins.</CCol_ElectricStove.description>
+  
+  <!-- EN: wood stove -->
+  <CCol_WoodStove.label>Poêle à bois</CCol_WoodStove.label>
+  <!-- EN: Smaller than a fueled cooking station and with greater functionality than a campfire, this faux cast-iron stove will help keep your home warm and your bellies full. -->
+  <CCol_WoodStove.description>Plus petite qu'une station de cuisson alimentée en carburant et avec une plus grande fonctionnalité qu'un feu de camp, ce faux poêle en fonte aidera à garder votre maison chaude et vos ventres pleins.</CCol_WoodStove.description>
+
+  
+</LanguageData>

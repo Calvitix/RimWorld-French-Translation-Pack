@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: double lit de paille -->
+  <VBY_DoubleHaybed.label>double lit de paille</VBY_DoubleHaybed.label>
+  <!-- EN: Literie faite de foin. C'est doux... et un peu pokey.. Big enough for two. -->
+  <VBY_DoubleHaybed.description>Literie faite de foin. C'est doux... et un peu piquant.. Assez grand pour deux.</VBY_DoubleHaybed.description>
+  
+  <!-- EN: double lit de cuir -->
+  <VBY_DoubleLeatherbed.label>double lit de cuir</VBY_DoubleLeatherbed.label>
+  <!-- EN: Un lit fait de cuir tendu sur un cadre en bois. C'est mieux que de dormir à même le sol. Big enough for two. -->
+  <VBY_DoubleLeatherbed.description>Un lit fait de cuir tendu sur un cadre en bois. C'est mieux que de dormir à même le sol. Assez grand pour deux.</VBY_DoubleLeatherbed.description>
+  
+  <!-- EN: lit de paille -->
+  <VBY_Haybed.label>lit de paille</VBY_Haybed.label>
+  <!-- EN: Literie faite de foin. C'est doux... et un peu pokey.. -->
+  <VBY_Haybed.description>Literie faite de foin. C'est doux... et un peu piquant..</VBY_Haybed.description>
+  
+  <!-- EN: berceau de foin primitif -->
+  <VBY_HayCrib.label>berceau de foin primitif</VBY_HayCrib.label>
+  <!-- EN: Un berceau en foin. Il est doux... et un peu pokey. La taille parfaite pour un petit bout de chou. -->
+  <VBY_HayCrib.description>Un berceau en foin. Il est doux... et un peu piquant. La taille parfaite pour un petit bout de chou.</VBY_HayCrib.description>
+  
+  <!-- EN: lit de cuir -->
+  <VBY_Leatherbed.label>lit de cuir</VBY_Leatherbed.label>
+  <!-- EN: Un lit fait de cuir tendu sur un cadre en bois. C'est mieux que de dormir à même le sol. -->
+  <VBY_Leatherbed.description>Un lit fait de cuir tendu sur un cadre en bois. C'est mieux que de dormir à même le sol.</VBY_Leatherbed.description>
+
+
+  
+</LanguageData>

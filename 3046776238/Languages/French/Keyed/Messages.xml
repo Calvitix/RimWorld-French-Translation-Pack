@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BGI_InheritSharedArchite>Les gènes Archite sont héréditaires, mais seulement s'ils sont partagés par les deux parents.</BGI_InheritSharedArchite>
+  <BGI_InheritArchite>Les gènes Archite sont héréditaires.</BGI_InheritArchite>
+  <BGI_InheritXeno>Les Xénogènes peuvent être hérités en même temps que les endogènes.</BGI_InheritXeno>
+  <BGInheritance>Une meilleure transmission des gènes</BGInheritance>
+  <BGI_MetabolismLimit>Métabolisme le plus bas autorisé</BGI_MetabolismLimit>
+
+</LanguageData>

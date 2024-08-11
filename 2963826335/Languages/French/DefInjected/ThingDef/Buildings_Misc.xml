@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+<!-- EN: bloodflame sepulchral statue -->
+<DA_BloodflameSepulchralStatue.label>statue sépulcrale à flamme de sang</DA_BloodflameSepulchralStatue.label>
+<!-- EN: A sepulchral statue holding a brazier in its hands to cast a bloodflame upon sacred grounds. Will light the surroundings and create heat. -->
+<DA_BloodflameSepulchralStatue.description>Une statue sépulcrale tenant un brasier dans ses mains pour projeter une flamme de sang sur les terres sacrées. Éclairera les environs et créera de la chaleur.</DA_BloodflameSepulchralStatue.description>
+
+<!-- EN: burial urn -->
+<DA_BurialUrn.label>urne funéraire</DA_BurialUrn.label>
+<!-- EN: A stone urn for containing the remains of the deceased, typically after being immolated. Members of certain cultures use it to honor their dead, especially those who believe fire has a purifying nature. -->
+<DA_BurialUrn.description>Une urne en pierre pour contenir les restes des défunts, généralement après avoir été immolés. Les membres de certaines cultures l'utilisent pour honorer leurs morts, surtout ceux qui croient que le feu a une nature purificatrice.</DA_BurialUrn.description>
+
+<!-- EN: Coffin -->
+<DA_Coffin.label>cercueil</DA_Coffin.label>
+<!-- EN: A cheap and easy to build coffin. It is not the most glorious resting place, but it is leagues above simply rotting in a dirt hole. -->
+<DA_Coffin.description>Un cercueil bon marché et facile à construire. Ce n'est pas le lieu de repos le plus glorieux, mais c'est bien mieux que de simplement pourrir dans un trou de terre.</DA_Coffin.description>
+
+<!-- EN: demon statue -->
+<DA_DemonStatue.label>statue de démon</DA_DemonStatue.label>
+<!-- EN: A large sculpture depicting a demon. Creature of hell sent to torture the miscreants and wrongdoers alike. Although this is but a statue some believe that malicious spirits inhabits them. -->
+<DA_DemonStatue.description>Une grande sculpture représentant un démon. Créature de l'enfer envoyée pour torturer les mécréants et les malfaiteurs. Bien que ce ne soit qu'une statue, certains croient que des esprits malveillants les habitent.</DA_DemonStatue.description>
+
+<!-- EN: gargoyle statue -->
+<DA_GargoyleStatue.label>statue de gargouille</DA_GargoyleStatue.label>
+<!-- EN: A sculpture of a Gargoyle, watchdog of the dead often depicted as bat-winged demons able the breath fire and torment the less fortunate. Now they are used as symbols of fear to scare away  the spirits from sacred grounds. -->
+<DA_GargoyleStatue.description>Une sculpture d'une gargouille, gardienne des morts souvent représentée comme des démons ailés de chauve-souris capables de cracher du feu et de tourmenter les moins fortunés. Aujourd'hui, elles sont utilisées comme symboles de peur pour effrayer les esprits des terres sacrées.</DA_GargoyleStatue.description>
+
+<!-- EN: grand sarcophagus -->
+<DA_GrandSarcophagus.label>grand sarcophage</DA_GrandSarcophagus.label>
+<!-- EN: A large and finely sculpted tomb to house the brave and esteemed in their final resting place. It is said that the grands of this world are buried with their most valuable possessions. -->
+<DA_GrandSarcophagus.description>Un grand tombeau finement sculpté pour abriter les courageux et les estimés dans leur dernier lieu de repos. On dit que les grands de ce monde sont enterrés avec leurs possessions les plus précieuses.</DA_GrandSarcophagus.description>
+
+<!-- EN: heroic memorial -->
+<DA_HeroicMemorial.label>mémorial héroïque</DA_HeroicMemorial.label>
+<!-- EN: A monument  built  to honor the fallen, from the  simple soldiers to the champions of war, each and every soldier that gave their life shall be  remembered. -->
+<DA_HeroicMemorial.description>Un monument construit pour honorer les défunts, des simples soldats aux champions de la guerre, chaque soldat qui a donné sa vie sera rappelé.</DA_HeroicMemorial.description>
+
+<!-- EN: imp statue -->
+<DA_ImpStatue.label>statue d'imp</DA_ImpStatue.label>
+<!-- EN: A grim sculpture depicting a lesser demon perching. Often used to decorate tombs and crypts, it is said to guard the dead and scare away spirits and ghosts. -->
+<DA_ImpStatue.description>Une sculpture sinistre représentant un démon inférieur perché. Souvent utilisée pour décorer les tombes et les cryptes, on dit qu'elle garde les morts et effraie les esprits et les fantômes.</DA_ImpStatue.description>
+
+<!-- EN: sepulchral statue -->
+<DA_SepulchralStatue.label>statue sépulcrale</DA_SepulchralStatue.label>
+<!-- EN: A sepulchral statue holding a brazier in its hands to cast a light upon sacred grounds. Will light the surroundings and create heat. -->
+<DA_SepulchralStatue.description>Une statue sépulcrale tenant un brasier dans ses mains pour projeter une lumière sur les terres sacrées. Éclairera les environs et créera de la chaleur.</DA_SepulchralStatue.description>
+  
+</LanguageData>

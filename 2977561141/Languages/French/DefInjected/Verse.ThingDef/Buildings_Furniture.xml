@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+   <!-- EN: cottage lamp -->
+  <CCol_CottageLamp.label>Lampe de chalet</CCol_CottageLamp.label>
+  <!-- EN: An electrical cottage lamp that lights an area. People need light to move and work at full speed. -->
+  <CCol_CottageLamp.description>Une lampe de chalet électrique qui éclaire une zone. Les gens ont besoin de lumière pour se déplacer et travailler à pleine vitesse.</CCol_CottageLamp.description>
+  
+  <!-- EN: quilted bed -->
+  <CCol_QuiltedBed.label>Lit matelassé</CCol_QuiltedBed.label>
+  <!-- EN: More comfortable and effective a bed compared to a regular one but requires a good proportion of fabric. Apparently sheets are made of fabric, but this is a luxury few can afford starting off. -->
+  <CCol_QuiltedBed.description>Un lit plus confortable et efficace qu'un lit ordinaire mais nécessite une bonne proportion de tissu. Apparemment, les draps sont faits de tissu, mais c'est un luxe que peu de gens peuvent se permettre au début.</CCol_QuiltedBed.description>
+  
+  <!-- EN: quilted double bed -->
+  <CCol_QuiltedDoubleBed.label>Lit double matelassé</CCol_QuiltedDoubleBed.label>
+  <!-- EN: More comfortable and effective a double bed compared to a regular one but requires a good proportion of fabric. Are those extra sheets necessary? Who cares, feel how soft they are. -->
+  <CCol_QuiltedDoubleBed.description>Un lit double plus confortable et efficace qu'un lit ordinaire mais nécessite une bonne proportion de tissu. Ces draps supplémentaires sont-ils nécessaires ? Peu importe, sentez comme ils sont doux.</CCol_QuiltedDoubleBed.description>
+  
+  <!-- EN: cottage basket -->
+  <CCot_Basket.label>Panier de chalet</CCot_Basket.label>
+  <!-- EN: A basket for storing miscellaneous items. Cheaper and faster to build than a shelf but less convenient due to required materials. Items stored in this will not affect room beauty and they won’t deteriorate, even if outside. -->
+  <CCot_Basket.description>Un panier pour stocker divers objets. Moins cher et plus rapide à construire qu'une étagère mais moins pratique en raison des matériaux nécessaires. Les objets stockés dans ce panier n'affecteront pas la beauté de la pièce et ne se détérioreront pas, même s'ils sont à l'extérieur.</CCot_Basket.description>
+  
+  <!-- EN: cottage armchair -->
+  <CCot_CottageArmchair.label>Fauteuil de chalet</CCot_CottageArmchair.label>
+  <!-- EN: A large, soft, comfy seat that’s prettier to look at because someone included more buttons. Great for relaxation. Can be used at tables, work stations, and elsewhere. -->
+  <CCot_CottageArmchair.description>Un grand siège doux et confortable qui est plus joli à regarder parce que quelqu'un a inclus plus de boutons. Idéal pour la détente. Peut être utilisé aux tables, aux postes de travail et ailleurs.</CCot_CottageArmchair.description>
+  
+  <!-- EN: cottage dining chair -->
+  <CCot_CottageDiningChair.label>Chaise de salle à manger de chalet</CCot_CottageDiningChair.label>
+  <!-- EN: A comfortable and attractive chair, improved with the addition of a seat cushion made of fabric. Can be used at tables, work stations, and elsewhere. -->
+  <CCot_CottageDiningChair.description>Une chaise confortable et attrayante, améliorée par l'ajout d'un coussin de siège en tissu. Peut être utilisée aux tables, aux postes de travail et ailleurs.</CCot_CottageDiningChair.description>
+  
+  <!-- EN: cottage dresser -->
+  <CCot_CottageDresser.label>Commode de chalet</CCot_CottageDresser.label>
+  <!-- EN: A superior dresser that includes small shelves. Gives an improved comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
+  <CCot_CottageDresser.description>Une commode supérieure qui comprend de petites étagères. Donne un bonus de confort amélioré à tous les lits à proximité. Placer plus d'une commode près du même lit n'a aucun effet.</CCot_CottageDresser.description>
+  
+  <!-- EN: cottage end table -->
+  <CCot_CottageEndTable.label>Table de chevet de chalet</CCot_CottageEndTable.label>
+  <!-- EN: A superior end table with a single, larger drawer. Don’t think about it too much. Gives a better comfort bonus when placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
+  <CCot_CottageEndTable.description>Une table de chevet supérieure avec un seul tiroir plus grand. Ne pensez pas trop à cela. Donne un meilleur bonus de confort lorsqu'elle est placée directement à côté de la tête du lit. Placer plus d'une table de chevet près du même lit n'a aucun effet.</CCot_CottageEndTable.description>
+  
+  <!-- EN: cottage table (1x2) -->
+  <CCot_CottageTable1x2a.label>Table de chalet (1x2)</CCot_CottageTable1x2a.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <CCot_CottageTable1x2a.description>Les gens mangent sur des tables lorsque des chaises sont placées face à eux.</CCot_CottageTable1x2a.description>
+  
+  <!-- EN: cottage table (2x2) -->
+  <CCot_CottageTable2x2a.label>Table de chalet (2x2)</CCot_CottageTable2x2a.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <CCot_CottageTable2x2a.description>Les gens mangent sur des tables lorsque des chaises sont placées face à eux.</CCot_CottageTable2x2a.description>
+  
+  <!-- EN: cottage table (2x4) -->
+  <CCot_CottageTable2x4c.label>Table de chalet (2x4)</CCot_CottageTable2x4c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <CCot_CottageTable2x4c.description>Les gens mangent sur des tables lorsque des chaises sont placées face à eux.</CCot_CottageTable2x4c.description>
+  
+  <!-- EN: cottage table with a blanket (2x2) -->
+  <CCot_CottageTableBlanket2x2a.label>Table de chalet avec une couverture (2x2)</CCot_CottageTableBlanket2x2a.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <CCot_CottageTableBlanket2x2a.description>Les gens mangent sur des tables lorsque des chaises sont placées face à eux.</CCot_CottageTableBlanket2x2a.description>
+  
+  <!-- EN: cottage fireplace -->
+  <CCot_Fireplace.label>Cheminée de chalet</CCot_Fireplace.label>
+  <!-- EN: Large, refuelable cottage fireplace that produces heat and burns out after several days. More efficient and burns hotter compared to an open campfire. As with all heat sources, it must be placed indoors so it has a closed space to heat. -->
+  <CCot_Fireplace.description>Grande cheminée de chalet rechargeable qui produit de la chaleur et s'éteint après plusieurs jours. Plus efficace et brûle plus chaudement par rapport à un feu de camp ouvert. Comme toutes les sources de chaleur, elle doit être placée à l'intérieur afin d'avoir un espace fermé à chauffer.</CCot_Fireplace.description>
+  
+  <!-- EN: cottage fireplace (electric) -->
+  <CCot_FireplaceElectric.label>Cheminée de chalet (électrique)</CCot_FireplaceElectric.label>
+  <!-- EN: Large, refuelable cottage fireplace that produces heat and burns out after several days. More efficient and burns hotter compared to an open campfire. As with all heat sources, it must be placed indoors so it has a closed space to heat.\n\nVariant that functions using electricity instead of fuel. -->
+  <CCot_FireplaceElectric.description>Grande cheminée de chalet rechargeable qui produit de la chaleur et s'éteint après plusieurs jours. Plus efficace et brûle plus chaudement par rapport à un feu de camp ouvert. Comme toutes les sources de chaleur, elle doit être placée à l'intérieur afin d'avoir un espace fermé à chauffer.\n\nVariante qui fonctionne à l'électricité au lieu du carburant.</CCot_FireplaceElectric.description>
+  
+  <!-- EN: cottage small bookshelf -->
+  <CCot_SmallBookshelf.label>Petite bibliothèque de chalet</CCot_SmallBookshelf.label>
+  <!-- EN: A small, aesthetic bookshelf. Makes you seem smarter as long as no one realizes they’re painted wood. -->
+  <CCot_SmallBookshelf.description>Une petite bibliothèque esthétique. Vous donne l'air plus intelligent tant que personne ne réalise qu'ils sont en bois peint.</CCot_SmallBookshelf.description>
+    
+ 
+</LanguageData>

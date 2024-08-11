@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="XSD_FILE_PATH">
+	
+
+	<!-- EN: Standalone Settlement Preference -->
+  <StandaloneSettlementPreference_ModName>Standalone Settlement Preference </StandaloneSettlementPreference_ModName>
+	<!-- EN: Reset Settings -->
+  <StandaloneSettlementPreference_ResetSettings>Réinitialiser les paramètres</StandaloneSettlementPreference_ResetSettings>
+
+	<!-- EN: Enable log messages for settlement preference -->
+  <StandaloneSettlementPreference_Logging>Activer les messages du journal pour Settlement Preference</StandaloneSettlementPreference_Logging>
+	<!-- EN: Enables a few log messages for the settlement preference Harmony patch. These will appear during world creation, when factions are settling the world, and can help diagnose any issues that may be occuring. -->
+  <StandaloneSettlementPreference_LoggingTooltip>Activer certains messages de journal pour le patch de Settlement Preference Harmony. Ces messages apparaîtront pendant la création du monde, lorsque les factions s'installent dans le monde, et peuvent aider à diagnostiquer les problèmes qui peuvent survenir.</StandaloneSettlementPreference_LoggingTooltip>
+	<!-- EN: Enable additional log messages for settlement preference -->
+  <StandaloneSettlementPreference_LoggingExtended>Activer les messages du journal supplémentaires pour Settlement Preference</StandaloneSettlementPreference_LoggingExtended>
+	<!-- EN: Enables additional log messages for the settlement preference Harmony patch. These will appear during world creation, when factions are settling the world, and can help diagnose any issues that may be occuring.\n\nThese messages will quickly fill up the log. It is recommended that only a single faction is enabled at a time when using this. -->
+  <StandaloneSettlementPreference_LoggingExtendedTooltip>Activer les messages du journal supplémentaires pour le patch Settlement Preference Harmony. Ces messages apparaîtront pendant la création du monde, lorsque les factions s'installent dans le monde, et peuvent aider à diagnostiquer les problèmes qui peuvent survenir.\n\nCes messages vont rapidement remplir le journal. Il est recommandé de n'activer qu'une seule faction à la fois lorsque vous utilisez cette fonction.</StandaloneSettlementPreference_LoggingExtendedTooltip>
+	<!-- EN: Enable the settlement preference Harmony patch -->
+  <StandaloneSettlementPreference_EnableSettlementPreference>Activer le patch Settlement Preference Harmony</StandaloneSettlementPreference_EnableSettlementPreference>
+	<!-- EN: If enabled, factions that have the settlement preference mod extension will be more likely to settle in specific locations.\n\nThis can be toggled at any time, but will obviously require a new world to take effect.\n\nThis affects: -->
+  <StandaloneSettlementPreference_EnableSettlementPreferenceTooltip>Si activé, les factions qui ont l'extension mod Settlement Preference seront plus susceptibles de s'installer dans des endroits spécifiques.\n\nCette option peut être activée à tout moment, mais nécessitera évidemment un nouveau monde pour prendre effet.\n\nMod concerne :</StandaloneSettlementPreference_EnableSettlementPreferenceTooltip>
+	<!-- EN: Maximum number of iterations for settlement preference -->
+  <StandaloneSettlementPreference_Iterations>Nombre max. d'itérations pour Settlement Preference</StandaloneSettlementPreference_Iterations>
+	<!-- EN: If settlement preference is unable to find a desirable tile within this number of iterations, it will revert control to RimWorld.\n\nDecreasing this may improve world generation times, while increasing it may allow for more desirable settlement locations. -->
+  <StandaloneSettlementPreference_IterationsTooltip>Si Settlement Preference est incapable de trouver une case souhaitable dans ce nombre d'itérations, il reprendra le contrôle de RimWorld.\n\nDiminuer ce nombre peut améliorer les temps de génération du monde, tandis que l'augmenter peut permettre de trouver des emplacements de colonies plus souhaitables.</StandaloneSettlementPreference_IterationsTooltip>
+
+</LanguageData>

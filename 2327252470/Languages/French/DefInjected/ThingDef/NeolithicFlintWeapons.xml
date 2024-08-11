@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Gourdin à crocs -->
+  <VBY_FangClub.label>Gourdin à crocs</VBY_FangClub.label>
+  <!-- EN: Dents de carnivore attachées à un manche en bois. Frappez d'un côté, poignardez de l'autre.. -->
+  <VBY_FangClub.description>Dents de carnivore attachées à un manche en bois. Frappez d'un côté, poignardez de l'autre..</VBY_FangClub.description>
+  <!-- EN: handle -->
+  <VBY_FangClub.tools.handle.label>manche</VBY_FangClub.tools.handle.label>
+  <!-- EN: back side -->
+  <VBY_FangClub.tools.back_side.label>côté arrière</VBY_FangClub.tools.back_side.label>
+  <!-- EN: teeth side -->
+  <VBY_FangClub.tools.teeth_side.label>côté dents</VBY_FangClub.tools.teeth_side.label>
+  
+  <!-- EN: couteau de silex -->
+  <VBY_FlintKnife.label>couteau de silex</VBY_FlintKnife.label>
+  <!-- EN: Une longue tige de silex ébréché fixée à un solide morceau de bois. Elle est tranchante et efficace. -->
+  <VBY_FlintKnife.description>Une longue tige de silex ébréché fixée à un solide morceau de bois. Elle est tranchante et efficace.</VBY_FlintKnife.description>
+  <!-- EN: handle -->
+  <VBY_FlintKnife.tools.handle.label>manche</VBY_FlintKnife.tools.handle.label>
+  <!-- EN: blade -->
+  <VBY_FlintKnife.tools.blade.label>lame</VBY_FlintKnife.tools.blade.label>
+  <!-- EN: point -->
+  <VBY_FlintKnife.tools.point.label>pointe</VBY_FlintKnife.tools.point.label>
+  
+  <!-- EN: lance à silex -->
+  <VBY_FlintSpear.label>lance à silex</VBY_FlintSpear.label>
+  <!-- EN: A solid piece of wood with a fragment of flint attached at the end. Perfect for hunting game or defending the colony. -->
+  <VBY_FlintSpear.description>Un morceau de bois solide avec un fragment de silex attaché à l'extrémité. Parfait pour chasser le gibier ou défendre la colonie.</VBY_FlintSpear.description>
+  <!-- EN: shaft -->
+  <VBY_FlintSpear.tools.shaft.label>tige</VBY_FlintSpear.tools.shaft.label>
+  <!-- EN: point -->
+  <VBY_FlintSpear.tools.point.label>pointe</VBY_FlintSpear.tools.point.label>
+  
+  <!-- EN: bâton affûté -->
+  <VBY_SharpStick.label>bâton affûté</VBY_SharpStick.label>
+  <!-- EN: Un morceau de bois solide dont l'une des extrémités a été aiguisée pour en faire une arme grossière.. -->
+  <VBY_SharpStick.description>Un morceau de bois solide dont l'une des extrémités a été aiguisée pour en faire une arme grossière..</VBY_SharpStick.description>
+  <!-- EN: shaft -->
+  <VBY_SharpStick.tools.shaft.label>tige</VBY_SharpStick.tools.shaft.label>
+  <!-- EN: point -->
+  <VBY_SharpStick.tools.point.label>pointe</VBY_SharpStick.tools.point.label>
+  
+  <!-- EN: sugliine -->
+  <VBY_Sugliin.label>sugliine</VBY_Sugliin.label>
+  <!-- EN: L'infâme sugliin a été créé par les tribus primitives davantage pour semer la terreur dans le cœur de leurs ennemis que pour constituer une arme efficace. Cette arme massive est composée de plusieurs jeux de bois aiguisés fixés à un long manche en bois. On attaque avec le sugliin comme s'il s'agissait d'une hache ou d'une faux massive, en taillant et en tranchant les cibles avec de grands arcs de cercle. Cette arme est lente, peu maniable et lourde. -->
+  <VBY_Sugliin.description>L'infâme sugliin a été créé par les tribus primitives davantage pour semer la terreur dans le cœur de leurs ennemis que pour constituer une arme efficace. Cette arme massive est composée de plusieurs jeux de bois aiguisés fixés à un long manche en bois. On attaque avec le sugliin comme s'il s'agissait d'une hache ou d'une faux massive, en taillant et en tranchant les cibles avec de grands arcs de cercle. Cette arme est lente, peu maniable et lourde.</VBY_Sugliin.description>
+  <!-- EN: edge -->
+  <VBY_Sugliin.tools.edge.label>bord</VBY_Sugliin.tools.edge.label>
+  
+  <!-- EN: hacheur de thrumbo -->
+  <VBY_ThrumboChopper.label>hacheur de thrumbo</VBY_ThrumboChopper.label>
+  <!-- EN: The large horn from a thrumbo firmly attached to a long piece of solid wood to create a two-handed long axe. -->
+  <VBY_ThrumboChopper.description>Le grand cor d'un thrumbo fermement attaché à un long morceau de bois solide pour créer une longue hache à deux mains.</VBY_ThrumboChopper.description>
+  <!-- EN: handle -->
+  <VBY_ThrumboChopper.tools.handle.label>manche</VBY_ThrumboChopper.tools.handle.label>
+  <!-- EN: head -->
+  <VBY_ThrumboChopper.tools.head.label>tête</VBY_ThrumboChopper.tools.head.label>
+  
+  <!-- EN: hache des crocs -->
+  <VBY_ToothAxe.label>hache des crocs</VBY_ToothAxe.label>
+  <!-- EN: Des dents de carnivore attachées à un manche en bois en forme de dents de scie. Bon pour couper le bois et fendre les crânes. -->
+  <VBY_ToothAxe.description>Des dents de carnivore attachées à un manche en bois en forme de dents de scie. Bon pour couper le bois et fendre les crânes.</VBY_ToothAxe.description>
+  <!-- EN: handle -->
+  <VBY_ToothAxe.tools.handle.label>manche</VBY_ToothAxe.tools.handle.label>
+  <!-- EN: serrated edge -->
+  <VBY_ToothAxe.tools.serrated_edge.label>bord dentelé</VBY_ToothAxe.tools.serrated_edge.label>
+  
+  <!-- EN: Gourdin à dents -->
+  <VBY_ToothClub.label>Gourdin à dents</VBY_ToothClub.label>
+  <!-- EN: Des dents de carnivore attachées à l'extrémité la plus large et la plus lourde d'un morceau de bois effilé. La forme conique permet à l'arme de produire une force émoussée en plus des dommages pénétrants et tranchants causés par les dents.. -->
+  <VBY_ToothClub.description>Des dents de carnivore attachées à l'extrémité la plus large et la plus lourde d'un morceau de bois effilé. La forme conique permet à l'arme de produire une force émoussée en plus des dommages pénétrants et tranchants causés par les dents..</VBY_ToothClub.description>
+  <!-- EN: handle -->
+  <VBY_ToothClub.tools.handle.label>manche</VBY_ToothClub.tools.handle.label>
+  <!-- EN: head -->
+  <VBY_ToothClub.tools.head.label>tête</VBY_ToothClub.tools.head.label>
+  
+</LanguageData>

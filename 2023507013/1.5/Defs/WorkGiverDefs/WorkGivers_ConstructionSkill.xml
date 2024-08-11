@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	
+	<WorkGiverDef Name="VEF_ArtWorkGiverBase" Abstract="True">
+		<workType>Art</workType>
+		<verb>travailler sur</verb>
+		<gerund>travaille sur</gerund>
+		<requiredCapacities>
+			<li>Manipulation</li>
+		</requiredCapacities>
+		<prioritizeSustains>true</prioritizeSustains>
+	</WorkGiverDef>
+
+	<WorkGiverDef ParentName="VEF_ArtWorkGiverBase">
+		<defName>VEF_Art_ConstructFinishFrames</defName>
+		<label>construit les cadres</label>
+		<giverClass>VFECore.WorkGiver_ConstructionSkill_FinishFrames</giverClass>
+		<priorityInType>80</priorityInType>
+	</WorkGiverDef>
+
+	<WorkGiverDef ParentName="VEF_ArtWorkGiverBase">
+		<defName>VEF_Art_ConstructDeliverResourcesToFrames</defName>
+		<label>apporte les ressources pour le cadre</label>
+		<giverClass>VFECore.WorkGiver_ConstructionSkill_DeliverResourcesToFrames</giverClass>
+		<priorityInType>70</priorityInType>
+	</WorkGiverDef>
+
+	<WorkGiverDef ParentName="VEF_ArtWorkGiverBase">
+		<defName>VEF_Art_ConstructDeliverResourcesToBlueprints</defName>
+		<label>apporte les ressources pour les plans</label>
+		<giverClass>VFECore.WorkGiver_ConstructionSkill_DeliverResourcesToBlueprints</giverClass>
+		<priorityInType>60</priorityInType>
+	</WorkGiverDef>
+	
+</Defs>

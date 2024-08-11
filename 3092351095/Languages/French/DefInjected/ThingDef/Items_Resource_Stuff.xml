@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: clay brick -->
+  <DV_Clay.label>motte d'argile</DV_Clay.label>
+  <!-- EN: Clay that has been shaped and hardened into rectangular blocks. Easy and light to build with, but is awful for any kind of weapon. -->
+  <DV_Clay.description>Terre fine et rigide qui peut être moulée et façonnée sous diverses formes. Les ancêtres des humains ont découvert les propriétés utiles de l'argile il y a de nombreuses années, et depuis lors, elle est encore largement utilisée dans toute la galaxie à des fins décoratives et religieuses, tant par les nobles riches que par les tribus néolithiques.</DV_Clay.description>
+
+  <!-- EN: clay brick -->
+  <DV_ClayBricks.label>brique d'argile</DV_ClayBricks.label>
+  <!-- EN: Clay that has been shaped and hardened into rectangular blocks. Easy and light to build with, but is awful for any kind of weapon. -->
+  <DV_ClayBricks.description>Argile façonnée et durcie en blocs rectangulaires. Facile et léger à construire, il n'est pas adapté à la fabrication d'armes.</DV_ClayBricks.description>
+  
+</LanguageData>

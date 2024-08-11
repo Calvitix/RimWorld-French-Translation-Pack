@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+ 
+ <ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">   <!-- come back  -->
+    <defName>VBY_FlintKnife</defName>
+    <label>couteau de silex</label>
+    <description>Une longue tige de silex ébréché fixée à un solide morceau de bois. Elle est tranchante et efficace.</description>
+	<techLevel>Neolithic</techLevel>	
+    <smeltable>false</smeltable>	
+    <graphicData>
+      <texPath>Things/Item/Equipment/WeaponMelee/HDM_FlintKnife</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <uiIconScale>1.6</uiIconScale>
+	<thingSetMakerTags Inherit="False"/>
+	<recipeMaker>
+	  <!--<researchPrerequisite Inherit="False"/>-->
+	  <recipeUsers Inherit="False">
+        <li>VBY_PrimitiveMeleeWeaponTable</li>
+		<li>VBY_PrimitiveCraftingTable</li>
+		<li>CraftingSpot</li>
+      </recipeUsers>
+	</recipeMaker>  
+    <weaponTags>
+      <li>NeolithicMeleeBasic</li>
+    </weaponTags>
+    <weaponClasses>
+      <li>Neolithic</li>
+    </weaponClasses>
+	<descriptionHyperlinks>
+	  <StatDef>CookSpeed</StatDef>
+	  <StatDef>FoodPoisonChance</StatDef>
+	</descriptionHyperlinks>
+    <costList>
+	  <VBY_PrimitiveFlint>10</VBY_PrimitiveFlint>
+	  <WoodLog>20</WoodLog>
+    </costList>
+    <statBases>
+      <WorkToMake>1550</WorkToMake>
+      <Mass>0.55</Mass>	  
+    </statBases>
+	<equippedStatOffsets>
+	   <CookSpeed>0.15</CookSpeed>
+	   <FoodPoisonChance>-0.10</FoodPoisonChance>
+	   <SharpDamageMultiplier>0.10</SharpDamageMultiplier>
+	</equippedStatOffsets>
+    <tools>
+      <li>
+        <label>handle</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>7</power>
+        <cooldownTime>2</cooldownTime>
+      </li>
+      <li>
+        <label>blade</label>
+        <capacities>
+          <li>Cut</li>
+        </capacities>
+        <power>14</power>
+        <cooldownTime>1.5</cooldownTime>
+      </li>
+      <li>
+        <label>point</label>
+        <capacities>
+          <li>Stab</li>
+        </capacities>
+        <power>12</power>
+        <cooldownTime>2</cooldownTime>
+      </li>
+    </tools>
+  </ThingDef>
+ 
+ <ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">
+    <defName>VBY_FlintSpear</defName>
+    <label>lance à silex</label>
+    <description>A solid piece of wood with a fragment of flint attached at the end. Perfect for hunting game or defending the colony.</description>
+    <graphicData>
+      <texPath>Things/Item/Equipment/WeaponMelee/KAZ_FlintSpear</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>		
+    <smeltable>false</smeltable>
+    <techLevel>Neolithic</techLevel>
+    <weaponTags>
+      <li>NeolithicMeleeDecent</li>
+    </weaponTags>
+    <weaponClasses>
+      <li>Neolithic</li>
+    </weaponClasses>
+    <thingSetMakerTags>
+	  <li>RewardStandardQualitySuper</li>
+	</thingSetMakerTags>
+	<costList>
+		<VBY_PrimitiveFlint>15</VBY_PrimitiveFlint>
+		<WoodLog>50</WoodLog>
+	 </costList>
+    <statBases>
+      <WorkToMake>10200</WorkToMake>
+      <Mass>2</Mass>
+    </statBases>
+    <equippedAngleOffset>-25</equippedAngleOffset>
+    <tools>
+      <li>
+        <label>shaft</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>11</power>
+        <cooldownTime>2.5</cooldownTime>
+      </li>
+      <li>
+        <label>point</label>
+        <capacities>
+          <li>Stab</li>
+        </capacities>
+        <power>21</power>
+        <armorPenetration>0.35</armorPenetration>
+        <cooldownTime>2.7</cooldownTime>
+      </li>
+    </tools>
+    <recipeMaker>
+	  <recipeUsers Inherit="False">
+        <li>CraftingSpot</li>		
+		<li>VBY_PrimitiveCraftingTable</li>
+		<li>VBY_PrimitiveMeleeWeaponTable</li>
+      </recipeUsers>
+      <skillRequirements>
+        <Crafting>4</Crafting>
+      </skillRequirements>
+	  <researchPrerequisite>VBY_PrimitiveTools</researchPrerequisite>
+    </recipeMaker>
+  </ThingDef> 
+ 
+ 
+  <ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">
+    <defName>VBY_SharpStick</defName>
+    <label>bâton affûté</label>
+    <description>Un morceau de bois solide dont l'une des extrémités a été aiguisée pour en faire une arme grossière..</description>
+    <graphicData>
+      <texPath>Things/Item/Equipment/WeaponMelee/KAZ_Sharpstick</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <techLevel>Neolithic</techLevel>
+    <weaponTags>
+      <li>NeolithicMeleeBasic</li>
+    </weaponTags>
+    <weaponClasses>
+      <li>Neolithic</li>
+    </weaponClasses>
+	<costList>
+		<WoodLog>30</WoodLog>
+	 </costList>
+    <statBases>
+      <WorkToMake>2000</WorkToMake>
+      <Mass>1.7</Mass>
+    </statBases>
+    <equippedAngleOffset>-75</equippedAngleOffset>
+    <tools>
+      <li>
+        <label>shaft</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>2.3</cooldownTime>
+      </li>
+      <li>
+        <label>point</label>
+        <capacities>
+          <li>Stab</li>
+        </capacities>
+        <power>19</power>
+        <armorPenetration>0.20</armorPenetration>
+        <cooldownTime>2.4</cooldownTime>
+      </li>
+    </tools>
+    <recipeMaker>
+	  <!--<researchPrerequisite Inherit="False"/>-->
+	  <recipeUsers Inherit="False">
+        <li>CraftingSpot</li>		
+		<li>VBY_PrimitiveCraftingTable</li>
+		<li>VBY_PrimitiveMeleeWeaponTable</li>
+      </recipeUsers>
+    </recipeMaker>
+  </ThingDef>
+
+<!-- ===============  New Items Bone Items moved to Bone Folder =============== -->
+
+ <ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality" MayRequire="dismarzero.VGP.VGPVegetableGarden">
+    <defName>VBY_BambooFlintSpear</defName>
+    <label>lance à silex en bambou</label>
+    <description>Un solide morceau de bambou avec un fragment de silex attaché à l'extrémité. Parfait pour chasser le gibier ou défendre la colonie.</description>
+    <graphicData>
+      <texPath>Things/Item/Equipment/WeaponMelee/HDM_BambooFlintSpear</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>		
+    <smeltable>false</smeltable>
+    <techLevel>Neolithic</techLevel>
+    <weaponTags>
+      <li>NeolithicMeleeDecent</li>
+    </weaponTags>
+    <weaponClasses>
+      <li>Neolithic</li>
+    </weaponClasses>
+    <thingSetMakerTags>
+	  <li>RewardStandardQualitySuper</li>
+	</thingSetMakerTags>
+	<costList>
+		<VBY_PrimitiveFlint>15</VBY_PrimitiveFlint>
+		<Bamboo>50</Bamboo>
+	 </costList>
+    <statBases>
+      <WorkToMake>10200</WorkToMake>
+      <Mass>2</Mass>
+    </statBases>
+    <equippedAngleOffset>-25</equippedAngleOffset>
+    <tools>
+      <li>
+        <label>shaft</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>11</power>
+        <cooldownTime>2.5</cooldownTime>
+      </li>
+      <li>
+        <label>point</label>
+        <capacities>
+          <li>Stab</li>
+        </capacities>
+        <power>21</power>
+        <armorPenetration>0.35</armorPenetration>
+        <cooldownTime>2.7</cooldownTime>
+      </li>
+    </tools>
+    <recipeMaker>
+	  <recipeUsers Inherit="False">
+        <li>CraftingSpot</li>		
+		<li>VBY_PrimitiveCraftingTable</li>
+		<li>VBY_PrimitiveMeleeWeaponTable</li>
+      </recipeUsers>
+      <skillRequirements>
+        <Crafting>4</Crafting>
+      </skillRequirements>
+	  <researchPrerequisite>VBY_PrimitiveTools</researchPrerequisite>
+    </recipeMaker>
+  </ThingDef>
+
+  <ThingDef MayRequire="Luneyl.Bamboo" ParentName="BaseMeleeWeapon_Sharp_Quality">
+	<defName>VBY_BambooFlintSpear</defName>
+	<label>lance à silex en bambou</label>
+	<description>Un solide morceau de bambou avec un fragment de silex attaché à l'extrémité. Parfait pour chasser le gibier ou défendre la colonie.</description>
+	<graphicData>
+	  <texPath>Things/Item/Equipment/WeaponMelee/HDM_BambooFlintSpear</texPath>
+	  <graphicClass>Graphic_Single</graphicClass>
+	</graphicData>		
+	<smeltable>false</smeltable>
+	<techLevel>Neolithic</techLevel>
+	<weaponTags>
+	  <li>NeolithicMeleeDecent</li>
+	</weaponTags>
+	<weaponClasses>
+	  <li>Neolithic</li>
+	</weaponClasses>
+	<thingSetMakerTags>
+	  <li>RewardStandardQualitySuper</li>
+	</thingSetMakerTags>
+	<costList>
+		<VBY_PrimitiveFlint>15</VBY_PrimitiveFlint>
+		<Bamboo>50</Bamboo>
+	 </costList>
+	<statBases>
+	  <WorkToMake>10200</WorkToMake>
+	  <Mass>2</Mass>
+	</statBases>
+	<equippedAngleOffset>-25</equippedAngleOffset>
+	<tools>
+	  <li>
+		<label>shaft</label>
+		<capacities>
+		  <li>Blunt</li>
+		  <li>Poke</li>
+		</capacities>
+		<power>11</power>
+		<cooldownTime>2.5</cooldownTime>
+	  </li>
+	  <li>
+		<label>point</label>
+		<capacities>
+		  <li>Stab</li>
+		</capacities>
+		<power>21</power>
+		<armorPenetration>0.35</armorPenetration>
+		<cooldownTime>2.7</cooldownTime>
+	  </li>
+	</tools>
+	<recipeMaker>
+	  <recipeUsers Inherit="False">
+		<li>CraftingSpot</li>		
+		<li>VBY_PrimitiveCraftingTable</li>
+		<li>VBY_PrimitiveMeleeWeaponTable</li>
+	  </recipeUsers>
+	  <skillRequirements>
+		<Crafting>4</Crafting>
+	  </skillRequirements>
+	  <researchPrerequisite>VBY_PrimitiveTools</researchPrerequisite>
+	</recipeMaker>
+  </ThingDef>
+
+  <ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">
+    <defName>VBY_FangClub</defName>
+    <label>Gourdin à crocs</label>
+    <description>Dents de carnivore attachées à un manche en bois. Frappez d'un côté, poignardez de l'autre..</description>
+    <graphicData>
+      <texPath>Things/Item/Equipment/WeaponMelee/HDM_Fangclub</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <uiIconScale>1.25</uiIconScale>
+    <techLevel>Neolithic</techLevel>
+    <weaponTags>
+      <li>NeolithicMeleeAdvanced</li>
+    </weaponTags>
+    <weaponClasses>
+      <li>Neolithic</li>
+    </weaponClasses>
+    <costList>
+      <WoodLog>15</WoodLog>
+	  <VBY_CarnivoreTeeth>35</VBY_CarnivoreTeeth>
+    </costList>
+    <statBases>
+      <WorkToMake>6000</WorkToMake>
+      <Mass>2.2</Mass>
+    </statBases>
+    <tools>
+      <li>
+        <label>handle</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>2</cooldownTime>
+      </li>
+      <li>
+        <label>back side</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>13</power>
+        <cooldownTime>2</cooldownTime>
+      </li>
+      <li>
+        <label>teeth side</label>
+        <capacities>
+          <li>Stab</li>
+        </capacities>
+        <power>14</power>
+        <cooldownTime>2</cooldownTime>
+      </li>
+    </tools>
+    <recipeMaker>
+      <researchPrerequisite>VBY_PrimitiveTools</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>6</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+  </ThingDef>
+  
+  <ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">
+    <defName>VBY_ToothAxe</defName>
+    <label>hache des crocs</label>
+    <description>Des dents de carnivore attachées à un manche en bois en forme de dents de scie. Bon pour couper le bois et fendre les crânes.</description>
+    <graphicData>
+      <texPath>Things/Item/Equipment/WeaponMelee/KAZ_Sharktooth_axe</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <uiIconScale>1.25</uiIconScale>
+    <techLevel>Neolithic</techLevel>
+    <weaponTags>
+      <li>NeolithicMeleeAdvanced</li>
+    </weaponTags>
+    <weaponClasses>
+      <li>Neolithic</li>
+    </weaponClasses>
+    <costList>
+      <WoodLog>15</WoodLog>
+	  <VBY_CarnivoreTeeth>20</VBY_CarnivoreTeeth>
+    </costList>
+    <statBases>
+      <WorkToMake>3800</WorkToMake>
+      <Mass>2.2</Mass>
+    </statBases>
+	<equippedStatOffsets>
+	   <VBY_TreeChopWorkSpeed MayRequire="TreeChoppingSpeed.velcroboy333">0.16</VBY_TreeChopWorkSpeed>
+	</equippedStatOffsets>
+    <equippedAngleOffset>-65</equippedAngleOffset>
+    <tools>
+      <li>
+        <label>handle</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>2</cooldownTime>
+      </li>
+      <li>
+        <label>serrated edge</label>
+        <capacities>
+          <li>Cut</li>
+          <li>Scratch</li>
+        </capacities>
+        <power>12</power>
+        <cooldownTime>1.8</cooldownTime>
+      </li>
+    </tools>
+    <recipeMaker>
+      <researchPrerequisite>VBY_PrimitiveTools</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>6</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+  </ThingDef>
+  
+  <ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">
+    <defName>VBY_ToothClub</defName>
+    <label>Gourdin à dents</label>
+    <description>Des dents de carnivore attachées à l'extrémité la plus large et la plus lourde d'un morceau de bois effilé. La forme conique permet à l'arme de produire une force émoussée en plus des dommages pénétrants et tranchants causés par les dents..</description>
+    <graphicData>
+      <texPath>Things/Item/Equipment/WeaponMelee/KAZ_Sharktooth_club</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <uiIconScale>1.25</uiIconScale>
+    <techLevel>Neolithic</techLevel>
+    <weaponTags>
+      <li>NeolithicMeleeDecent</li>
+    </weaponTags>
+    <weaponClasses>
+      <li>Neolithic</li>
+    </weaponClasses>
+    <costList>
+      <WoodLog>15</WoodLog>
+	  <VBY_CarnivoreTeeth>20</VBY_CarnivoreTeeth>
+    </costList>
+    <statBases>
+      <WorkToMake>3800</WorkToMake>
+      <Mass>2.4</Mass>
+    </statBases>
+    <equippedAngleOffset>-65</equippedAngleOffset>
+    <tools>
+      <li>
+        <label>handle</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>2</cooldownTime>
+      </li>
+      <li>
+        <label>head</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>12</power>
+        <cooldownTime>2</cooldownTime>
+		<armorPenetration>0.28</armorPenetration> <!-- increased from .18 -->
+        <extraMeleeDamages>
+          <li>
+            <def>Stun</def>
+            <amount>5</amount>
+            <chance>0.25</chance>
+          </li>
+          <li>
+            <def>Cut</def>
+            <amount>5</amount>
+            <chance>0.5</chance>
+          </li>
+        </extraMeleeDamages>
+      </li>
+    </tools>
+    <recipeMaker>
+      <researchPrerequisite>VBY_PrimitiveTools</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>6</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+  </ThingDef>
+  
+  <ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">
+    <defName>VBY_ThrumboChopper</defName>
+    <label>hacheur de thrumbo</label>
+    <description>The large horn from a thrumbo firmly attached to a long piece of solid wood to create a two-handed long axe.</description>
+    <graphicData>
+      <texPath>Things/Item/Equipment/WeaponMelee/VBY_ThrumboChopper</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+	  <drawSize>(1.65, 1.65)</drawSize>
+	  <drawOffset>(-0.35, 0, 0.45)</drawOffset>
+	  <drawOffsetEast>(-0.15, 0, 0.45)</drawOffsetEast>
+	  <drawOffsetWest>(0.15, 0, 0.45)</drawOffsetWest>
+    </graphicData>
+    <uiIconScale>1.25</uiIconScale>
+    <techLevel>Neolithic</techLevel>
+    <weaponTags>
+      <li>NeolithicMeleeAdvanced</li>
+    </weaponTags>
+    <weaponClasses>
+      <li>Neolithic</li>
+    </weaponClasses>
+    <costList>
+      <WoodLog>45</WoodLog>
+	  <ThrumboHorn>1</ThrumboHorn>
+    </costList>
+    <statBases>
+      <WorkToMake>4200</WorkToMake>
+      <Mass>5.8</Mass>
+    </statBases>
+	<equippedStatOffsets>
+	   <VBY_TreeChopWorkSpeed MayRequire="TreeChoppingSpeed.velcroboy333">0.16</VBY_TreeChopWorkSpeed>
+	   <SocialImpact>0.05</SocialImpact>
+	   <SlaveSuppressionOffset MayRequire="Ludeon.RimWorld.Ideology">-0.05</SlaveSuppressionOffset>
+	</equippedStatOffsets>
+    <equippedAngleOffset>-130</equippedAngleOffset>
+    <tools>
+      <li>
+        <label>handle</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>2.2</cooldownTime>
+      </li>
+      <li>
+        <label>head</label>
+        <capacities>
+          <li>Cut</li>
+          <li>Scratch</li>
+          <li>Stab</li>
+        </capacities>
+        <power>35</power>
+        <cooldownTime>3.6</cooldownTime>
+      </li>
+    </tools>
+    <recipeMaker>
+      <researchPrerequisite>VBY_PrimitiveTools</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>12</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+  </ThingDef>
+   
+  <ThingDef ParentName="BaseWeapon">
+	<defName>VBY_Sugliin</defName>
+	<label>sugliine</label>
+	<description>L'infâme sugliin a été créé par les tribus primitives davantage pour semer la terreur dans le cœur de leurs ennemis que pour constituer une arme efficace. Cette arme massive est composée de plusieurs jeux de bois aiguisés fixés à un long manche en bois. On attaque avec le sugliin comme s'il s'agissait d'une hache ou d'une faux massive, en taillant et en tranchant les cibles avec de grands arcs de cercle. Cette arme est lente, peu maniable et lourde.</description>
+	<graphicData>
+	  <texPath>Things/Item/Equipment/WeaponMelee/HDM_Sugliin</texPath>
+	  <graphicClass>Graphic_Single</graphicClass>
+	  <drawSize>(1.85, 1.85)</drawSize>
+	  <drawOffset>(-0.25, 0, 0.65)</drawOffset>
+	  <drawOffsetEast>(0.25, 0, 0.65)</drawOffsetEast>
+	</graphicData>
+	<techLevel>Neolithic</techLevel>
+    <smeltable>false</smeltable>
+    <burnableByRecipe>true</burnableByRecipe>
+    <thingCategories>
+      <li>WeaponsMelee</li>
+    </thingCategories>
+	<weaponTags>
+	  <li>NeolithicMeleeAdvanced</li>
+	</weaponTags>
+	<weaponClasses>
+      <li>Melee</li>
+      <li>MeleePiercer</li>
+	  <li>Neolithic</li>
+	</weaponClasses>
+	<statBases>
+	  <WorkToMake>4200</WorkToMake>
+	  <Mass>48</Mass>
+	</statBases>
+	<equippedAngleOffset>-90</equippedAngleOffset>
+	<equippedStatOffsets>
+	  <SocialImpact>0.15</SocialImpact>
+	  <SlaveSuppressionOffset MayRequire="Ludeon.RimWorld.Ideology">-0.10</SlaveSuppressionOffset>
+	</equippedStatOffsets>
+	<relicChance>3</relicChance>
+	<tools>
+	  <li>
+		<label>edge</label>
+		<capacities>
+		  <li>Stab</li>
+		  <li>Cut</li>
+		  <li>Blunt</li>
+		  <li>Scratch</li>
+		  <li>Poke</li>
+		</capacities>
+	<power>39</power>
+		<cooldownTime>7.8</cooldownTime>
+	  </li>
+	</tools>
+    <inspectorTabs>
+      <li>ITab_Art</li>
+    </inspectorTabs>
+    <comps>
+      <li>
+        <compClass>CompQuality</compClass>
+      </li>
+      <li Class="CompProperties_Art">
+        <nameMaker>NamerArtWeaponMelee</nameMaker>
+        <descriptionMaker>ArtDescription_WeaponMelee</descriptionMaker>
+        <minQualityForArtistic>Excellent</minQualityForArtistic>
+      </li>
+    </comps>
+  </ThingDef>
+
+</Defs>

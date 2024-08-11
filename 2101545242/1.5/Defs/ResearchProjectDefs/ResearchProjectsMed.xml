@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+	<ResearchProjectDef>
+		<defName>CrudeLimbs</defName>
+		<label>Membres grossiers</label>
+		<description>Basiques, inconfortables et inefficaces, mais c'est mieux que rien. Il est désormais possible de fabriquer des membres de remplacement de mauvaise qualité dans un lieu d'assemblage.</description>
+		<baseCost>1500</baseCost>
+		<techLevel>Neolithic</techLevel>
+		<tags>
+			<li>ClassicStart</li>
+		</tags>
+		<tab>MedPros</tab>
+		<researchViewX>0</researchViewX>
+		<researchViewY>0</researchViewY>
+	</ResearchProjectDef>
+	
+	<ResearchProjectDef>
+		<defName>ArtificialLimbs</defName>
+		<label>Membres Artificiels</label>
+		<description>Ils ne sont pas encore très raffinés, mais ils sont meilleurs que les membres de mauvaise qualité qui les ont précédés. Les membres artificiels peuvent désormais être fabriqués dans un lieu d'assemblage.</description>
+		<baseCost>2500</baseCost>
+		<techLevel>Medieval</techLevel>
+		<prerequisites>
+			<li>CrudeLimbs</li>
+			<li>DankPyon_Lumber</li>
+		</prerequisites>
+		<tags>
+			<li>ClassicStart</li>
+		</tags>
+		<tab>MedPros</tab>
+		<researchViewX>2</researchViewX>
+		<researchViewY>0</researchViewY>
+	</ResearchProjectDef>
+	
+	<ResearchProjectDef>
+		<defName>MechanicalLimbs</defName>
+		<label>Prothèses Mécaniques</label>
+		<description>Des membres fabriqués de manière complexe, avec de nombreuses poulies et engrenages. Bien qu'il s'agisse d'une grande amélioration, la mécanique du corps humain est difficile à reproduire. Les membres mécaniques peuvent être fabriqués dans une forge alimentée.</description>
+		<baseCost>4000</baseCost>
+		<techLevel>Medieval</techLevel>
+		<prerequisites>
+			<li>Smithing</li>
+			<li>ArtificialLimbs</li>
+		</prerequisites>
+		<tags>
+			<li>ClassicStart</li>
+		</tags>
+		<tab>MedPros</tab>
+		<researchViewX>3</researchViewX>
+		<researchViewY>0</researchViewY>
+	</ResearchProjectDef>
+	
+	<ResearchProjectDef>
+		<defName>AmbroisenLimbs</defName>
+		<label>Membres parésiens</label>
+		<description>L'ingénierie et l'artisanat incroyables utilisés dans la tangente ont permis de créer des membres élégants qui sont à la hauteur des membres naturels. Ces membres coûtent cher en temps et en ressources. Les membres parésiens peuvent être fabriqués dans une forge alimentée.</description>
+		<baseCost>5500</baseCost>
+		<techLevel>Medieval</techLevel>
+		<prerequisites>
+			<li>Smithing</li>
+			<li>MechanicalLimbs</li>
+		</prerequisites>
+		<tags>
+			<li>ClassicStart</li>
+		</tags>
+		<tab>MedPros</tab>
+		<researchViewX>4</researchViewX>
+		<researchViewY>0</researchViewY>
+	</ResearchProjectDef>
+	
+</Defs>

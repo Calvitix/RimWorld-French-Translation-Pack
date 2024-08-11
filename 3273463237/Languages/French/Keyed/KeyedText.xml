@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- Mod Settings -->
+<!-- EN: Basic Settings -->
+<StorageRefillHysteresis.BasicSettings>Paramètres de base</StorageRefillHysteresis.BasicSettings>
+<!-- EN: Default hysteresis range min -->
+<StorageRefillHysteresis.DefaultHysteresisRangeMin>Plage d'hystérésis minimale par défaut</StorageRefillHysteresis.DefaultHysteresisRangeMin>
+<!-- EN: When we turn on Smart Refill on a new storage, this will be set as the "Target min". -->
+<StorageRefillHysteresis.DefaultHysteresisRangeMinTooltips>Lorsque nous activons la recharge intelligente sur un nouveau stockage, cela sera défini comme la "Cible min".</StorageRefillHysteresis.DefaultHysteresisRangeMinTooltips>
+<!-- EN: Default hysteresis range max -->
+<StorageRefillHysteresis.DefaultHysteresisRangeMax>Plage d'hystérésis maximale par défaut</StorageRefillHysteresis.DefaultHysteresisRangeMax>
+<!-- EN: When we turn on Smart Refill on a new storage, this will be set as the "Target max". -->
+<StorageRefillHysteresis.DefaultHysteresisRangeMaxTooltips>Lorsque nous activons la recharge intelligente sur un nouveau stockage, cela sera défini comme la "Cible max".</StorageRefillHysteresis.DefaultHysteresisRangeMaxTooltips>
+<!-- EN: Advanced Settings -->
+<StorageRefillHysteresis.AdvancedSettings>Paramètres avancés</StorageRefillHysteresis.AdvancedSettings>
+<!-- EN: Statistics update interval. -->
+<StorageRefillHysteresis.StatsUpdateInterval>Intervalle de mise à jour des statistiques.</StorageRefillHysteresis.StatsUpdateInterval>
+<!-- EN: How many ticks to wait until next statistics update.
+Avoid to use a value too small as it might impact performance.
+
+Large values, on the other hand, can cause the smart refill functionality to switch on/off slower. -->
+<StorageRefillHysteresis.StatsUpdateIntervalTooltips>Combien de ticks attendre jusqu'à la prochaine mise à jour des statistiques.
+Évitez d'utiliser une valeur trop petite car cela pourrait impacter les performances.
+
+Des valeurs élevées, en revanche, peuvent ralentir la fonctionnalité de recharge intelligente.</StorageRefillHysteresis.StatsUpdateIntervalTooltips>
+<!-- EN: Log debug messages -->
+<StorageRefillHysteresis.DebugLog>Journaliser les messages de débogage</StorageRefillHysteresis.DebugLog>
+<!-- EN: Turn on debug log. Do not use this on normal game play as it's very spammy. -->
+<StorageRefillHysteresis.DebugLogTooltips>Activer le journal de débogage. Ne pas utiliser cela en jeu normal car c'est très envahissant.</StorageRefillHysteresis.DebugLogTooltips>
+  
+  <!-- Game UI -->
+<!-- EN: Smart Refill -->
+<StorageRefillHysteresis.SmartRefill>Recharge intelligente</StorageRefillHysteresis.SmartRefill>
+<!-- EN: Whether Smart Refill is enabled for this storage. -->
+<StorageRefillHysteresis.SmartRefillTooltips>Indique si la recharge intelligente est activée pour ce stockage.</StorageRefillHysteresis.SmartRefillTooltips>
+<!-- EN: Usage -->
+<StorageRefillHysteresis.UI.Usage>Utilisation</StorageRefillHysteresis.UI.Usage>
+<!-- EN: Current usage in stacks. -->
+<StorageRefillHysteresis.UI.UsageTooltips>Utilisation actuelle en piles.</StorageRefillHysteresis.UI.UsageTooltips>
+<!-- EN: Target -->
+<StorageRefillHysteresis.UI.Target>Cible</StorageRefillHysteresis.UI.Target>
+<!-- EN: Target [min, max) usage in stacks.
+
+This is the hysteresis range. -->
+<StorageRefillHysteresis.UI.TargetTooltips>Cible [min, max) d'utilisation en piles.
+
+Il s'agit de la plage d'hystérésis.</StorageRefillHysteresis.UI.TargetTooltips>
+<!-- EN: Stack -->
+<StorageRefillHysteresis.UI.Stack>Pile</StorageRefillHysteresis.UI.Stack>
+<!-- EN: Refill -->
+<StorageRefillHysteresis.UI.Refill>Recharge</StorageRefillHysteresis.UI.Refill>
+<!-- EN: On -->
+<StorageRefillHysteresis.UI.On>Activé</StorageRefillHysteresis.UI.On>
+<!-- EN: Off -->
+<StorageRefillHysteresis.UI.Off>Désactivé</StorageRefillHysteresis.UI.Off>
+<!-- EN: Click to manually toggle refill. -->
+<StorageRefillHysteresis.UI.ToggleButtonEffect>Cliquez pour basculer manuellement la recharge.</StorageRefillHysteresis.UI.ToggleButtonEffect>
+<!-- EN: Cannot manually toggle refill:
+ -->
+<!-- EN: Usage not in hysteresis range -->
+<!-- EN: . -->
+<StorageRefillHysteresis.UI.ToggleButtonCannotWork>Impossible de basculer manuellement la recharge :
+L'utilisation n'est pas dans la plage d'hystérésis.</StorageRefillHysteresis.UI.ToggleButtonCannotWork>
+<!-- EN: Set the max usage target.
+
+Refill will automatically turn off if usage reaches this percentage. -->
+<StorageRefillHysteresis.UI.MaxTargetTooltips>Définir la cible d'utilisation maximale.
+
+La recharge s'éteindra automatiquement si l'utilisation atteint ce pourcentage.</StorageRefillHysteresis.UI.MaxTargetTooltips>
+<!-- EN: The current usage percentage. -->
+<StorageRefillHysteresis.UI.UsagePercentageTooltips>Le pourcentage d'utilisation actuel.</StorageRefillHysteresis.UI.UsagePercentageTooltips>
+<!-- EN: Set the min usage target.
+
+Refill will automatically turn on if usage drops below this percentage. -->
+<StorageRefillHysteresis.UI.MinTargetTooltips>Définir la cible d'utilisation minimale.
+
+La recharge s'activera automatiquement si l'utilisation tombe en dessous de ce pourcentage.</StorageRefillHysteresis.UI.MinTargetTooltips>
+</LanguageData>

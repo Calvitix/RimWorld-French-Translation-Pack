@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>2</xPos>
+		<yPos>3</yPos>
+		<validationOrder>100</validationOrder>
+		<defName>ItemSlotShield</defName>
+		<label>Bouclier</label>
+		<apparelLayers>
+			<li>Shield</li>
+		</apparelLayers>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>3</xPos>
+		<yPos>2</yPos>
+		<validationOrder>200</validationOrder>
+		<defName>ItemSlotTorsoOnSkin</defName>
+		<label>Torse interne</label>
+		<apparelLayers>
+			<li>OnSkin</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Torso</li>
+		</bodyPartGroups>
+		<Default>True</Default>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>4</xPos>
+		<yPos>2</yPos>
+		<validationOrder>300</validationOrder>
+		<defName>ItemSlotTorsoShell</defName>
+		<label>Torse externe</label>
+		<apparelLayers>
+			<li>Shell</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Torso</li>
+		</bodyPartGroups>
+		<Default>True</Default>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>1</xPos>
+		<yPos>2</yPos>
+		<validationOrder>400</validationOrder>
+		<defName>ItemSlotTorsoBelt</defName>
+		<label>Torse ceinture</label>
+		<apparelLayers>
+			<li>Belt</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Torso</li>
+		</bodyPartGroups>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>0</xPos>
+		<yPos>2</yPos>
+		<validationOrder>500</validationOrder>
+		<defName>ItemSlotTorsoUnderwearTop</defName>
+		<label>Torse sous-couche haute</label>
+		<apparelLayers>
+			<li>UnderwearTop</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Torso</li>
+		</bodyPartGroups>
+		<anchor>Left</anchor>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>2</xPos>
+		<yPos>2</yPos>
+		<validationOrder>600</validationOrder>
+		<defName>ItemSlotTorsoMiddle</defName>
+		<label>Torse milieu</label>
+		<apparelLayers>
+			<li>Middle</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Torso</li>
+		</bodyPartGroups>
+		<Default>True</Default>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>3</xPos>
+		<yPos>0</yPos>
+		<validationOrder>700</validationOrder>
+		<defName>ItemSlotHead</defName>
+		<label>Couvre-chef</label>
+		<apparelLayers>
+			<li>Overhead</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>UpperHead</li>
+			<li>FullHead</li>
+		</bodyPartGroups>
+		<Default>True</Default>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>4</xPos>
+		<yPos>0</yPos>
+		<validationOrder>800</validationOrder>
+		<defName>ItemSlotHeadEyes</defName>
+		<label>Couvre-oeil</label>
+		<apparelLayers>
+			<li>Overhead</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Eyes</li>
+		</bodyPartGroups>
+		<anchor>Left</anchor>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>6</xPos>
+		<yPos>0</yPos>
+		<validationOrder>850</validationOrder>
+		<defName>ItemSlotEyeCover</defName>
+		<label>Yeux</label>
+		<apparelLayers>
+			<li>EyeCover</li>
+		</apparelLayers>
+		<anchor>Left</anchor>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>2</xPos>
+		<yPos>0</yPos>
+		<validationOrder>900</validationOrder>
+		<defName>ItemSlotHeadTeeth</defName>
+		<label>Dents</label>
+		<apparelLayers>
+			<li>Overhead</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Teeth</li>
+		</bodyPartGroups>
+		<anchor>Left</anchor>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>1</xPos>
+		<yPos>0</yPos>
+		<validationOrder>1000</validationOrder>
+		<defName>ItemSlotEarsAccessories</defName>
+		<label>Accessoires d'oreille</label>
+		<apparelLayers>
+			<li>Accessories</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Ears</li>
+		</bodyPartGroups>
+		<anchor>Left</anchor>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>4</xPos>
+		<yPos>1</yPos>
+		<validationOrder>1100</validationOrder>
+		<defName>ItemSlotNeckShell</defName>
+		<label>Nuque externe</label>
+		<apparelLayers>
+			<li>Shell</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Neck</li>
+		</bodyPartGroups>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+	
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>0</xPos>
+		<yPos>1</yPos>
+		<validationOrder>1200</validationOrder>
+		<defName>ItemSlotNeckAccessories</defName>
+		<label>Accessoire Cou</label>
+		<apparelLayers>
+			<li>Accessories</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Neck</li>
+		</bodyPartGroups>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>3</xPos>
+		<yPos>1</yPos>
+		<validationOrder>1300</validationOrder>
+		<defName>ItemSlotNeckOverhead</defName>
+		<label>Cou supérieur</label>
+		<apparelLayers>
+			<li>Overhead</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Neck</li>
+		</bodyPartGroups>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>4</xPos>
+		<yPos>3</yPos>
+		<validationOrder>1400</validationOrder>
+		<defName>ItemSlotWaistShell</defName>
+		<label>Taille externe</label>
+		<apparelLayers>
+			<li>Overhead</li>
+			<li>Shell</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Waist</li>
+		</bodyPartGroups>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>3</xPos>
+		<yPos>3</yPos>
+		<validationOrder>1500</validationOrder>
+		<defName>ItemSlotWaistBelt</defName>
+		<label>Ceinture</label>
+		<apparelLayers>
+			<li>Belt</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Waist</li>
+		</bodyPartGroups>
+		<Default>True</Default>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+	
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>0</xPos>
+		<yPos>3</yPos>
+		<validationOrder>1600</validationOrder>
+		<defName>ItemSlotWaistUnderwear</defName>
+		<label>Taille interne</label>
+		<apparelLayers>
+			<li>Underwear</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Waist</li>
+		</bodyPartGroups>
+		<anchor>Left</anchor>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+	
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>3</xPos>
+		<yPos>4</yPos>
+		<validationOrder>1700</validationOrder>
+		<defName>ItemSlotLegsSkin</defName>
+		<label>Jambes interne</label>
+		<apparelLayers>
+			<li>OnSkin</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Legs</li>
+		</bodyPartGroups>
+		<Default>True</Default>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+	
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>4</xPos>
+		<yPos>4</yPos>
+		<validationOrder>1800</validationOrder>
+		<defName>ItemSlotLegsShell</defName>
+		<label>Jambes externe</label>
+		<apparelLayers>
+			<li>Overhead</li>
+			<li>Shell</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Legs</li>
+		</bodyPartGroups>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+	
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>0</xPos>
+		<yPos>4</yPos>
+		<validationOrder>1900</validationOrder>
+		<defName>ItemSlotLegsUnderwear</defName>
+		<label>Jambe sous-couche</label>
+		<apparelLayers>
+			<li>Underwear</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Legs</li>
+		</bodyPartGroups>
+		<anchor>Left</anchor>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>2</xPos>
+		<yPos>4</yPos>
+		<validationOrder>2000</validationOrder>
+		<defName>ItemSlotLegsMiddle</defName>
+		<label>Jambes milieu</label>
+		<apparelLayers>
+			<li>Middle</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Legs</li>
+		</bodyPartGroups>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>2</xPos>
+		<yPos>5</yPos>
+		<validationOrder>2100</validationOrder>
+		<defName>ItemSlotFeetOnSkin</defName>
+		<label>Pied interne</label>
+		<apparelLayers>
+			<li>OnSkin</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Feet</li>
+		</bodyPartGroups>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+	
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>4</xPos>
+		<yPos>5</yPos>
+		<validationOrder>2200</validationOrder>
+		<defName>ItemSlotFeetShell</defName>
+		<label>Pied externe</label>
+		<apparelLayers>
+			<li>Shell</li>
+			<li>Overhead</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Feet</li>
+		</bodyPartGroups>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+	
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>3</xPos>
+		<yPos>5</yPos>
+		<validationOrder>2300</validationOrder>
+		<defName>ItemSlotFeetMiddle</defName>
+		<label>Pied milieu</label>
+		<apparelLayers>
+			<li>Middle</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Feet</li>
+		</bodyPartGroups>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+	
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>6</xPos>
+		<yPos>1</yPos>
+		<validationOrder>2400</validationOrder>
+		<defName>ItemSlotHandsOnSkin</defName>
+		<label>Mains interne</label>
+		<apparelLayers>
+			<li>OnSkin</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Hands</li>
+		</bodyPartGroups>
+		<anchor>BottomRight</anchor>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+	
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>6</xPos>
+		<yPos>3</yPos>
+		<validationOrder>2500</validationOrder>
+		<defName>ItemSlotHandsShell</defName>
+		<label>Mains externe</label>
+		<apparelLayers>
+			<li>Shell</li>
+			<li>Overhead</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Hands</li>
+		</bodyPartGroups>
+		<anchor>BottomRight</anchor>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>6</xPos>
+		<yPos>2</yPos>
+		<validationOrder>2600</validationOrder>
+		<defName>ItemSlotHandsMiddle</defName>
+		<label>Mains milieu</label>
+		<apparelLayers>
+			<li>Middle</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Hands</li>
+		</bodyPartGroups>
+		<anchor>BottomRight</anchor>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>5</xPos>
+		<yPos>3</yPos>
+		<validationOrder>2700</validationOrder>
+		<defName>ItemSlotRightHandAccessories</defName>
+		<label>Accessoire main droite</label>
+		<apparelLayers>
+			<li>Accessories</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>RightHand</li>
+		</bodyPartGroups>
+		<anchor>BottomRight</anchor>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+	
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>5</xPos>
+		<yPos>5</yPos>
+		<validationOrder>2800</validationOrder>
+		<defName>ItemSlotRightHandShell</defName>
+		<label>Main droite externe</label>
+		<apparelLayers>
+			<li>Shell</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>RightHand</li>
+		</bodyPartGroups>
+		<anchor>BottomRight</anchor>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+	
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>1</xPos>
+		<yPos>3</yPos>
+		<validationOrder>2900</validationOrder>
+		<defName>ItemSlotLeftHandAccessories</defName>
+		<label>Main gauche accessoire</label>
+		<apparelLayers>
+			<li>Accessories</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>LeftHand</li>
+		</bodyPartGroups>
+		<anchor>BottomLeft</anchor>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+	
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>0</xPos>
+		<yPos>0</yPos>
+		<validationOrder>3000</validationOrder>
+		<defName>ItemSlotLeftHandVFECOuterShell</defName>
+		<label>Main gauche externe special</label>
+		<apparelLayers>
+			<li>VFEC_OuterShell</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>LeftHand</li>
+		</bodyPartGroups>
+		<anchor>Left</anchor>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+	
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>1</xPos>
+		<yPos>5</yPos>
+		<validationOrder>3100</validationOrder>
+		<defName>ItemSlotLeftHandShell</defName>
+		<label>Main gauche externe</label>
+		<apparelLayers>
+			<li>Shell</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>LeftHand</li>
+		</bodyPartGroups>
+		<anchor>BottomLeft</anchor>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+	
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>5</xPos>
+		<yPos>2</yPos>
+		<validationOrder>3200</validationOrder>
+		<defName>ItemSlotShouldersShell</defName>
+		<label>Epaules</label>
+		<apparelLayers>
+			<li>Shell</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Shoulders</li>
+		</bodyPartGroups>
+		<anchor>Left</anchor>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+	
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>5</xPos>
+		<yPos>1</yPos>
+		<defName>ItemSlotNeckTMCloak_PH</defName>
+		<label>Cape</label>
+		<placeholder>true</placeholder>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+	
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>1</xPos>
+		<yPos>1</yPos>
+		<defName>ItemSlotNeckTMArtifact_PH</defName>
+		<label>Artéfact cou</label>
+		<placeholder>true</placeholder>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+	
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>6</xPos>
+		<yPos>4</yPos>
+		<defName>ItemSlotArmsTMArtifact_PH</defName>
+		<label>Artéfact bras</label>
+		<placeholder>true</placeholder>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+	
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>6</xPos>
+		<yPos>5</yPos>
+		<defName>ItemSlotRightHandTMArtifact_PH</defName>
+		<label>Artéfact main droite</label>
+		<placeholder>true</placeholder>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+	
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>0</xPos>
+		<yPos>5</yPos>
+		<defName>ItemSlotLeftHandTMArtifact_PH</defName>
+		<label>Artéfact main gauche</label>
+		<placeholder>true</placeholder>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>1</xPos>
+		<yPos>4</yPos>
+		<defName>ItemSlotShouldersCEWebbing_PH</defName>
+		<label>Sangle</label>
+		<placeholder>true</placeholder>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+	
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>5</xPos>
+		<yPos>4</yPos>
+		<defName>ItemSlotShouldersCEBackpack_PH</defName>
+		<label>Sac à dos</label>
+		<placeholder>true</placeholder>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+	
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>5</xPos>
+		<yPos>0</yPos>
+		<defName>ItemSlotCEStrappedHead_PH</defName>
+		<label>Face</label>
+		<placeholder>true</placeholder>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>2</xPos>
+		<yPos>1</yPos>
+		<validationOrder>1050</validationOrder>
+		<defName>ItemSlotJaw</defName>
+		<label>Mâchoire</label>
+		<apparelLayers>
+			<li>Overhead</li>
+		</apparelLayers>
+		<bodyPartGroups>
+			<li>Mouth</li>
+		</bodyPartGroups>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+</Defs>

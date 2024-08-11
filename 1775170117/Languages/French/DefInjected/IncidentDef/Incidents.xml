@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: assassination quest -->
+  <Quest_City_Assassinate.label>quête d'assassinat</Quest_City_Assassinate.label>
+  <!-- EN: Assassination request -->
+  <Quest_City_Assassinate.letterLabel>demande d'assassinat</Quest_City_Assassinate.letterLabel>
+  <!-- EN: A mysterious figure has contacted your colony, requesting the assassination of {0}. {1} is a highly influential {2} citizen, and currently lives at the city of {3}. \n\nA creative, indirect assasination will prevent diplomatic repercussions. -->
+  <Quest_City_Assassinate.letterText>Une figure mystérieuse a contacté votre colonie, demandant l'assassinat de {0}. {1} est un citoyen {2} très influent et vit actuellement dans la ville de {3}. \n\nUn assassinat créatif et indirect évitera des répercussions diplomatiques.</Quest_City_Assassinate.letterText>
+  <!-- EN: Target assassinated -->
+  <Quest_City_Assassinate.questParts.1.letter>Cible assassinée</Quest_City_Assassinate.questParts.1.letter>
+  <!-- EN: {0} has been successfully assassinated. -->
+  <Quest_City_Assassinate.questParts.1.message>{0} a été assassiné avec succès.</Quest_City_Assassinate.questParts.1.message>
+  <!-- EN: Target escaped -->
+  <Quest_City_Assassinate.questParts.2.letter>Cible échappée</Quest_City_Assassinate.questParts.2.letter>
+  <!-- EN: {0} has left the area. -->
+  <Quest_City_Assassinate.questParts.2.message>{0} a quitté la zone.</Quest_City_Assassinate.questParts.2.message>
+  
+  <!-- EN: combined assault quest -->
+  <Quest_City_Assault.label>quête d'assaut combiné</Quest_City_Assault.label>
+  <!-- EN: Combined assault -->
+  <Quest_City_Assault.letterLabel>assaut combiné</Quest_City_Assault.letterLabel>
+  <!-- EN: {0} is preparing to attack {2}, a settlement of {1}. \n\nIf you choose to join, {0} will claim the conquered city. -->
+  <Quest_City_Assault.letterText>{0} se prépare à attaquer {2}, une colonie de {1}. \n\nSi vous choisissez de vous joindre à eux, {0} revendiquera la ville conquise.</Quest_City_Assault.letterText>
+  
+  <!-- EN: city defense quest -->
+  <Quest_City_Defend.label>quête de défense de la ville</Quest_City_Defend.label>
+  <!-- EN: Defend City -->
+  <Quest_City_Defend.EnterCityLabel>Défendre la ville</Quest_City_Defend.EnterCityLabel>
+  <!-- EN: City under attack -->
+  <Quest_City_Defend.letterLabel>Ville sous attaque</Quest_City_Defend.letterLabel>
+  <!-- EN: {2} is under heavy siege by {0} and desperately needs reinforcements. \n\nIf you successfully defend {2}, the city will reward you handsomely. -->
+  <Quest_City_Defend.letterText>{2} est sous un siège lourd par {0} et a désespérément besoin de renforts. \n\nSi vous défendez avec succès {2}, la ville vous récompensera généreusement.</Quest_City_Defend.letterText>
+  <!-- EN: Attackers leaving -->
+  <Quest_City_Defend.questParts.1.letter>Attaquants partant</Quest_City_Defend.questParts.1.letter>
+  <!-- EN: {0} are packing up and leaving. {2} has been successfully defended. -->
+  <Quest_City_Defend.questParts.1.message>{0} font leurs bagages et partent. {2} a été défendu avec succès.</Quest_City_Defend.questParts.1.message>
+  <!-- EN: City captured -->
+  <Quest_City_Defend.questParts.2.letter>Ville capturée</Quest_City_Defend.questParts.2.letter>
+  <!-- EN: {2} has been captured by {0}. -->
+  <Quest_City_Defend.questParts.2.message>{2} a été capturé par {0}.</Quest_City_Defend.questParts.2.message>
+  
+  <!-- EN: prison break quest -->
+  <Quest_City_PrisonBreak.label>quête d'évasion de prison</Quest_City_PrisonBreak.label>
+  <!-- EN: Prison Break -->
+  <Quest_City_PrisonBreak.EnterCityLabel>Évasion de prison</Quest_City_PrisonBreak.EnterCityLabel>
+  <!-- EN: Prison plot -->
+  <Quest_City_PrisonBreak.letterLabel>Complot de prison</Quest_City_PrisonBreak.letterLabel>
+  <!-- EN: Prisoners at {1} are devising an escape plan. If you choose to help, they will join your faction upon being released. \n\nUnfortunately, their captors have been tipped off and are preparing for your arrival. If you enter {1} before the prisoners escape, expect a hostile reaction from {0}. -->
+  <Quest_City_PrisonBreak.letterText>Les prisonniers à {1} élaborent un plan d'évasion. Si vous choisissez d'aider, ils rejoindront votre faction après avoir été libérés. \n\nMalheureusement, leurs ravisseurs ont été prévenus et se préparent à votre arrivée. Si vous entrez dans {1} avant que les prisonniers ne s'échappent, attendez-vous à une réaction hostile de {0}.</Quest_City_PrisonBreak.letterText>
+  <!-- EN: Prisoners escaped -->
+  <Quest_City_PrisonBreak.questParts.0.letter>Prisonniers évadés</Quest_City_PrisonBreak.questParts.0.letter>
+  <!-- EN: The prisoners seem to have already escaped. -->
+  <Quest_City_PrisonBreak.questParts.0.message>Il semble que les prisonniers se soient déjà échappés.</Quest_City_PrisonBreak.questParts.0.message>
+  
+  <!-- EN: city sabotage quest -->
+  <Quest_City_Sabotage.label>quête de sabotage de la ville</Quest_City_Sabotage.label>
+  <!-- EN: Sabotage opportunity -->
+  <Quest_City_Sabotage.letterLabel>Opportunité de sabotage</Quest_City_Sabotage.letterLabel>
+  <!-- EN: A guerrila force intends to attack {1}, a city of {0}. You can choose to help by deconstructing all turret defenses in {1}. \n\nThe attacker's identity will remain a secret until the assault begins. \n\nExpect both factions' opinions toward your colony to change dramatically upon completing this task. -->
+  <Quest_City_Sabotage.letterText>Une force de guérilla a l'intention d'attaquer {1}, une ville de {0}. Vous pouvez choisir d'aider en déconstruisant toutes les défenses de tourelle dans {1}. \n\nL'identité de l'attaquant restera secrète jusqu'à ce que l'assaut commence. \n\nAttendez-vous à ce que l'opinion des deux factions envers votre colonie change radicalement une fois cette tâche accomplie.</Quest_City_Sabotage.letterText>
+
+  
+</LanguageData>

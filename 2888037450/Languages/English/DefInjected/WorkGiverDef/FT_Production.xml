@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 混凝土攪拌機 -->
+
+  <IC_Operate.label>Operate Machine</IC_Operate.label>
+  <IC_Operate.verb>Operate</IC_Operate.verb>
+  <IC_Operate.gerund>Operating at</IC_Operate.gerund>
+
+
+</LanguageData>

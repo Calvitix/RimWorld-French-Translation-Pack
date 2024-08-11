@@ -1,0 +1,476 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bardiche -->
+  <MM_bardiche.label>bardiche</MM_bardiche.label>
+  <!-- EN: Long polearm with a broad axeblade mounted on its end. Lacking halberd's spike or glaive's hook the sole purpose of this poleaxe is to hack opponent to pieces from longer range. -->
+  <MM_bardiche.description>Longue arme d'hast avec une large lame de hache montée à son extrémité. Manquant de pointe de hallebarde ou de crochet de glaive, le seul but de cette hache d'armes est de tailler en pièces l'adversaire à plus longue portée.</MM_bardiche.description>
+  <!-- EN: handle -->
+  <MM_bardiche.tools.handle.label>manche</MM_bardiche.tools.handle.label>
+  <!-- EN: axeblade -->
+  <MM_bardiche.tools.axeblade.label>lame de hache</MM_bardiche.tools.axeblade.label>
+  <!-- EN: point -->
+  <MM_bardiche.tools.point.label>pointe</MM_bardiche.tools.point.label>
+  
+  <!-- EN: bastard sword -->
+  <MM_bastardsword.label>épée bâtarde</MM_bastardsword.label>
+  <!-- EN: Noticeably heavier than a longsword, yet lighter than a full two-hander, bastard sword is hybrid blade, that can be used with both one and two hands to great effect. Wielding it with a single hand requires significant strength and stamina. -->
+  <MM_bastardsword.description>Nettement plus lourde qu'une épée longue, mais plus légère qu'une épée à deux mains complète, l'épée bâtarde est une lame hybride, qui peut être utilisée avec une ou deux mains avec un grand effet. La manier d'une seule main nécessite une force et une endurance significatives.</MM_bastardsword.description>
+  <!-- EN: handle -->
+  <MM_bastardsword.tools.handle.label>manche</MM_bastardsword.tools.handle.label>
+  <!-- EN: point -->
+  <MM_bastardsword.tools.point.label>pointe</MM_bastardsword.tools.point.label>
+  <!-- EN: edge -->
+  <MM_bastardsword.tools.edge.label>bord</MM_bastardsword.tools.edge.label>
+  
+  <!-- EN: billhook -->
+  <MM_billhook.label>serpe</MM_billhook.label>
+  <!-- EN: Weighted long polearm with a sharp tip for piercing medium armor and a big hook for pulling riders down from their mounts. Very effective against beasts and enemy cavalry. Its length is both its advantage and disadvantage, as it provides ample reach, but makes it hard to utilise in tight spaces. -->
+  <MM_billhook.description>Arme d'hast longue et pondérée avec une pointe tranchante pour percer l'armure moyenne et un grand crochet pour faire descendre les cavaliers de leurs montures. Très efficace contre les bêtes et la cavalerie ennemie. Sa longueur est à la fois son avantage et son inconvénient, car elle offre une portée ample, mais la rend difficile à utiliser dans les espaces restreints.</MM_billhook.description>
+  <!-- EN: shaft -->
+  <MM_billhook.tools.shaft.label>tige</MM_billhook.tools.shaft.label>
+  <!-- EN: point -->
+  <MM_billhook.tools.point.label>pointe</MM_billhook.tools.point.label>
+  <!-- EN: hook -->
+  <MM_billhook.tools.hook.label>crochet</MM_billhook.tools.hook.label>
+  
+  <!-- EN: bludgeon -->
+  <MM_bludgeon.label>massue</MM_bludgeon.label>
+  <!-- EN: A heavy club with several spiked rings on its head for added weight and damage. -->
+  <MM_bludgeon.description>Un club lourd avec plusieurs anneaux à pointes sur sa tête pour ajouter du poids et des dégâts.</MM_bludgeon.description>
+  <!-- EN: handle -->
+  <MM_bludgeon.tools.handle.label>manche</MM_bludgeon.tools.handle.label>
+  <!-- EN: head -->
+  <MM_bludgeon.tools.head.label>tête</MM_bludgeon.tools.head.label>
+  <!-- EN: shaft -->
+  <MM_bludgeon.tools.shaft.label>tige</MM_bludgeon.tools.shaft.label>
+  
+  <!-- EN: meat cleaver -->
+  <MM_cleaver.label>couperet à viande</MM_cleaver.label>
+  <!-- EN: A large knife on a short handle with wide cutting edge for chopping meat and hacking through bones. -->
+  <MM_cleaver.description>Un grand couteau sur un manche court avec une large arête de coupe pour hacher la viande et trancher à travers les os.</MM_cleaver.description>
+  <!-- EN: handle -->
+  <MM_cleaver.tools.handle.label>manche</MM_cleaver.tools.handle.label>
+  <!-- EN: blade -->
+  <MM_cleaver.tools.blade.label>lame</MM_cleaver.tools.blade.label>
+  <!-- EN: edge -->
+  <MM_cleaver.tools.edge.label>bord</MM_cleaver.tools.edge.label>
+  
+  <!-- EN: cutlass -->
+  <MM_cutlass.label>sabre d'abordage</MM_cutlass.label>
+  <!-- EN: A medium sized slightly curved sword with a broad blade designed for heavy slashing attacks. Has an exquisite basket-like handguard. Commonly used by medieval and post-medieval ship crew. -->
+  <MM_cutlass.description>Une épée de taille moyenne légèrement courbée avec une large lame conçue pour des attaques de taille lourdes. Possède une garde pour la main exquise en forme de panier. Communément utilisé par l'équipage de navire médiéval et post-médiéval.</MM_cutlass.description>
+  <!-- EN: handle -->
+  <MM_cutlass.tools.handle.label>manche</MM_cutlass.tools.handle.label>
+  <!-- EN: edge -->
+  <MM_cutlass.tools.edge-0.label>bord</MM_cutlass.tools.edge-0.label>
+  <!-- EN: edge -->
+  <MM_cutlass.tools.edge-1.label>bord</MM_cutlass.tools.edge-1.label>
+  
+  <!-- EN: dagger -->
+  <MM_dagger.label>dague</MM_dagger.label>
+  <!-- EN: Slightly curved short sharp weapon, beloved by thugs and cutthroats on every planet. Somewhat longer than a knife, which means couple more inches of steel in someone's stomach. -->
+  <MM_dagger.description>Arme courte et légèrement courbée, appréciée des voyous et des coupe-gorges sur chaque planète. Un peu plus longue qu'un couteau, ce qui signifie quelques centimètres de plus d'acier dans l'estomac de quelqu'un.</MM_dagger.description>
+  <!-- EN: handle -->
+  <MM_dagger.tools.handle.label>manche</MM_dagger.tools.handle.label>
+  <!-- EN: point -->
+  <MM_dagger.tools.point.label>pointe</MM_dagger.tools.point.label>
+  <!-- EN: blade -->
+  <MM_dagger.tools.blade.label>lame</MM_dagger.tools.blade.label>
+  
+  <!-- EN: doubleblade -->
+  <MM_doubleblade.label>double lame</MM_doubleblade.label>
+  <!-- EN: Melee weapon of exotic design, it has two blades mounted on a single handle. Requires serious training to be wielded properly, but the who one who masters it, becomes a whirlwind of death and suffering on the battlefield. -->
+  <MM_doubleblade.description>Arme de mêlée de conception exotique, elle a deux lames montées sur un seul manche. Nécessite une formation sérieuse pour être maniée correctement, mais celui qui la maîtrise, devient un tourbillon de mort et de souffrance sur le champ de bataille.</MM_doubleblade.description>
+  <!-- EN: handle -->
+  <MM_doubleblade.tools.handle.label>manche</MM_doubleblade.tools.handle.label>
+  <!-- EN: blade -->
+  <MM_doubleblade.tools.blade-0.label>lame</MM_doubleblade.tools.blade-0.label>
+  <!-- EN: blade -->
+  <MM_doubleblade.tools.blade-1.label>lame</MM_doubleblade.tools.blade-1.label>
+  
+  <!-- EN: fencing sword -->
+  <MM_fencingsword.label>épée d'escrime</MM_fencingsword.label>
+  <!-- EN: Light double-edged sword of exotic design, it has a long delicate and yet sturdy blade, fit for both piercing and slashing strikes. Inspires respect and admiration for its wielder. -->
+  <MM_fencingsword.description>Épée légère à double tranchant de conception exotique, elle a une lame longue, délicate et pourtant robuste, adaptée à la fois pour les frappes de percement et de taille. Inspire le respect et l'admiration pour son porteur.</MM_fencingsword.description>
+  <!-- EN: handle -->
+  <MM_fencingsword.tools.handle.label>manche</MM_fencingsword.tools.handle.label>
+  <!-- EN: point -->
+  <MM_fencingsword.tools.point.label>pointe</MM_fencingsword.tools.point.label>
+  <!-- EN: blade -->
+  <MM_fencingsword.tools.blade.label>lame</MM_fencingsword.tools.blade.label>
+  
+  <!-- EN: flail -->
+  <MM_flail.label>fléau</MM_flail.label>
+  <!-- EN: Heavy spiked ball chained to a short handle. Weighty ball provides enough force to deal damage even through medium armor, while chain grants it flexibility to strike over shields. -->
+  <MM_flail.description>Balle lourde à pointes attachée à un manche court. La balle lourde fournit assez de force pour infliger des dégâts même à travers une armure moyenne, tandis que la chaîne lui confère une flexibilité pour frapper par-dessus les boucliers.</MM_flail.description>
+  <!-- EN: handle -->
+  <MM_flail.tools.handle.label>manche</MM_flail.tools.handle.label>
+  <!-- EN: flail head -->
+  <MM_flail.tools.flail_head-0.label>tête de fléau</MM_flail.tools.flail_head-0.label>
+  <!-- EN: flail head -->
+  <MM_flail.tools.flail_head-1.label>tête de fléau</MM_flail.tools.flail_head-1.label>
+  
+  <!-- EN: heavy flail -->
+  <MM_flail_heavy.label>fléau lourd</MM_flail_heavy.label>
+  <!-- EN: Intimidating heavy spiked head chained to a big handle designed for two-handed use. Due to its massive size and mass it is hard to wield without proper training, but in capable hands it can inflict devastating damage. -->
+  <MM_flail_heavy.description>Tête lourde et intimidante à pointes attachée à un grand manche conçu pour une utilisation à deux mains. En raison de sa taille et de sa masse massives, il est difficile à manier sans une formation appropriée, mais entre des mains capables, il peut infliger des dégâts dévastateurs.</MM_flail_heavy.description>
+  <!-- EN: handle -->
+  <MM_flail_heavy.tools.handle.label>manche</MM_flail_heavy.tools.handle.label>
+  <!-- EN: head -->
+  <MM_flail_heavy.tools.head-0.label>tête</MM_flail_heavy.tools.head-0.label>
+  <!-- EN: head -->
+  <MM_flail_heavy.tools.head-1.label>tête</MM_flail_heavy.tools.head-1.label>
+  
+  <!-- EN: flamberge -->
+  <MM_flamberge.label>flamberge</MM_flamberge.label>
+  <!-- EN: Flamberge or flamebladed sword, called so for its unusual wave-like blade, is a greatsword of ancient exotic design. Like other greatswords its length easily reaches height of an average person. Requires a proficient and trained swordsman to be effective, due to its mass. -->
+  <MM_flamberge.description>Flamberge ou épée à lame de flamme, ainsi appelée pour sa lame inhabituelle en forme de vague, est une grande épée de conception exotique ancienne. Comme les autres grandes épées, sa longueur atteint facilement la taille d'une personne moyenne. Nécessite un épéiste compétent et formé pour être efficace, en raison de sa masse.</MM_flamberge.description>
+  <!-- EN: handle -->
+  <MM_flamberge.tools.handle.label>manche</MM_flamberge.tools.handle.label>
+  <!-- EN: edge -->
+  <MM_flamberge.tools.edge-0.label>bord</MM_flamberge.tools.edge-0.label>
+  <!-- EN: edge -->
+  <MM_flamberge.tools.edge-1.label>bord</MM_flamberge.tools.edge-1.label>
+
+  
+  <!-- EN: flanged mace -->
+  <MM_flangedmace.label>masse à ailettes</MM_flangedmace.label>
+  <!-- EN: Heavier version of common infantry mace with weighted wings on its head for additional blunt damage. -->
+  <MM_flangedmace.description>Version plus lourde de la masse d'infanterie commune avec des ailettes lestées sur sa tête pour des dégâts contondants supplémentaires.</MM_flangedmace.description>
+  <!-- EN: handle -->
+  <MM_flangedmace.tools.handle.label>manche</MM_flangedmace.tools.handle.label>
+  <!-- EN: head -->
+  <MM_flangedmace.tools.head-0.label>tête</MM_flangedmace.tools.head-0.label>
+  <!-- EN: head -->
+  <MM_flangedmace.tools.head-1.label>tête</MM_flangedmace.tools.head-1.label>
+  
+  <!-- EN: glaive -->
+  <MM_glaive.label>glaive</MM_glaive.label>
+  <!-- EN: A versatile two-handed weapon, that consist of a long single-edged blade mounted on a long pole. Perfect for cutting down agile lightly armored opponets and cavalry. -->
+  <MM_glaive.description>Une arme polyvalente à deux mains, qui consiste en une longue lame à un seul tranchant montée sur une longue hampe. Parfait pour abattre des adversaires agiles légèrement armés et la cavalerie.</MM_glaive.description>
+  <!-- EN: shaft -->
+  <MM_glaive.tools.shaft.label>hampe</MM_glaive.tools.shaft.label>
+  <!-- EN: blade -->
+  <MM_glaive.tools.blade.label>lame</MM_glaive.tools.blade.label>
+  <!-- EN: point -->
+  <MM_glaive.tools.point.label>pointe</MM_glaive.tools.point.label>
+  
+  <!-- EN: greataxe -->
+  <MM_greataxe.label>grande hache</MM_greataxe.label>
+  <!-- EN: A gigantic double-bearded fighting axe. Its weight allows it to crush anything it can't cut apart. Unfortunately even strongest person wouldn't be able to attack fast with such weapon, leaving ample opportunities for faster opponents to counterattack. -->
+  <MM_greataxe.description>Une gigantesque hache de combat à double barbe. Son poids lui permet d'écraser tout ce qu'elle ne peut pas couper. Malheureusement, même la personne la plus forte ne serait pas capable d'attaquer rapidement avec une telle arme, laissant de nombreuses occasions aux adversaires plus rapides de contre-attaquer.</MM_greataxe.description>
+  <!-- EN: shaft -->
+  <MM_greataxe.tools.shaft.label>manche</MM_greataxe.tools.shaft.label>
+  <!-- EN: edge -->
+  <MM_greataxe.tools.edge-0.label>tranchant</MM_greataxe.tools.edge-0.label>
+  <!-- EN: edge -->
+  <MM_greataxe.tools.edge-1.label>tranchant</MM_greataxe.tools.edge-1.label>
+  
+  <!-- EN: greatsword -->
+  <MM_greatsword.label>grande épée</MM_greatsword.label>
+  <!-- EN: A heavy variant of a longsword crafted for two-handed use only. A fearsome weapon capable of cutting fully armored fighter in half with a single well placed blow. Its weight and lenght however often leave its wielder defenseless between swings. -->
+  <MM_greatsword.description>Une variante lourde de l'épée longue conçue uniquement pour une utilisation à deux mains. Une arme redoutable capable de couper en deux un combattant entièrement armé avec un seul coup bien placé. Cependant, son poids et sa longueur laissent souvent son porteur sans défense entre les balancements.</MM_greatsword.description>
+  <!-- EN: handle -->
+  <MM_greatsword.tools.handle.label>manche</MM_greatsword.tools.handle.label>
+  <!-- EN: point -->
+  <MM_greatsword.tools.point.label>pointe</MM_greatsword.tools.point.label>
+  <!-- EN: edge -->
+  <MM_greatsword.tools.edge.label>tranchant</MM_greatsword.tools.edge.label>
+  
+  <!-- EN: halberd -->
+  <MM_halberd.label>hallebarde</MM_halberd.label>
+  <!-- EN: Heavy two-handed polearm weapon with an axe blade mounted on a long shaft and topped with a sharp spike. Suitable for both chopping and stabbing. Its weight and pointy tip make it a dangerous weapon even for a heavily armored opponent. -->
+  <MM_halberd.description>Arme d'hast lourde à deux mains avec une lame de hache montée sur un long manche et surmontée d'une pointe aiguisée. Convient à la fois pour hacher et poignarder. Son poids et sa pointe pointue en font une arme dangereuse même pour un adversaire lourdement armé.</MM_halberd.description>
+  <!-- EN: shaft -->
+  <MM_halberd.tools.shaft.label>manche</MM_halberd.tools.shaft.label>
+  <!-- EN: axeblade -->
+  <MM_halberd.tools.axeblade.label>lame de hache</MM_halberd.tools.axeblade.label>
+  <!-- EN: point -->
+  <MM_halberd.tools.point.label>pointe</MM_halberd.tools.point.label>
+  
+  <!-- EN: hatchet -->
+  <MM_hatchet.label>hachette</MM_hatchet.label>
+  <!-- EN: An axe light enough to be used with one hand. Commonly used for splitting wood, but can serve as convenient and effective melee weapon. -->
+  <MM_hatchet.description>Une hache assez légère pour être utilisée d'une seule main. Communément utilisée pour fendre du bois, mais peut servir d'arme de mêlée pratique et efficace.</MM_hatchet.description>
+  <!-- EN: handle -->
+  <MM_hatchet.tools.handle.label>manche</MM_hatchet.tools.handle.label>
+  <!-- EN: edge -->
+  <MM_hatchet.tools.edge.label>tranchant</MM_hatchet.tools.edge.label>
+  <!-- EN: head -->
+  <MM_hatchet.tools.head.label>tête</MM_hatchet.tools.head.label>
+  
+  <!-- EN: heavy mace -->
+  <MM_heavymace.label>masse lourde</MM_heavymace.label>
+  <!-- EN: An oversized mace designed for devastating blunt attacks, capable of maiming or killing even most tough and armored fighters in a single well landed hit. Very slow and heavy. -->
+  <MM_heavymace.description>Une masse surdimensionnée conçue pour des attaques contondantes dévastatrices, capable de mutiler ou de tuer même les combattants les plus robustes et armés en un seul coup bien placé. Très lente et lourde.</MM_heavymace.description>
+  <!-- EN: handle -->
+  <MM_heavymace.tools.handle.label>manche</MM_heavymace.tools.handle.label>
+  <!-- EN: head -->
+  <MM_heavymace.tools.head-0.label>tête</MM_heavymace.tools.head-0.label>
+  <!-- EN: head -->
+  <MM_heavymace.tools.head-1.label>tête</MM_heavymace.tools.head-1.label>
+  
+  <!-- EN: khopesh -->
+  <MM_khopesh.label>khopesh</MM_khopesh.label>
+  <!-- EN: Medium sized curved sword of exotic design. Its tip is blunted and can be effectively used both as a hook or a bludgeon. Typically found in ancient tombs and ruins of lost cities. -->
+  <MM_khopesh.description>Épée courbée de taille moyenne au design exotique. Sa pointe est émoussée et peut être utilisée efficacement comme un crochet ou une massue. On la trouve généralement dans les tombes anciennes et les ruines de villes perdues.</MM_khopesh.description>
+  <!-- EN: handle -->
+  <MM_khopesh.tools.handle.label>manche</MM_khopesh.tools.handle.label>
+  <!-- EN: tip -->
+  <MM_khopesh.tools.tip.label>pointe</MM_khopesh.tools.tip.label>
+  <!-- EN: blade -->
+  <MM_khopesh.tools.blade.label>lame</MM_khopesh.tools.blade.label>
+  
+  <!-- EN: Wooden mallet -->
+  <MM_mallet.label>maillet en bois</MM_mallet.label>
+  <!-- EN: Two handed wooden mallet, heavy, slow and simple. Can often be seen in hands of bandits, militia and other simple folk. Despite its simplicity, hits quite hard. Can be helpful in construction jobs. -->
+  <MM_mallet.description>Maillet en bois à deux mains, lourd, lent et simple. On le voit souvent entre les mains de bandits, de miliciens et d'autres gens simples. Malgré sa simplicité, il frappe assez fort. Peut être utile pour les travaux de construction.</MM_mallet.description>
+  <!-- EN: handle -->
+  <MM_mallet.tools.handle.label>manche</MM_mallet.tools.handle.label>
+  <!-- EN: hammerhead -->
+  <MM_mallet.tools.hammerhead.label>tête de marteau</MM_mallet.tools.hammerhead.label>
+  <!-- EN: shaft -->
+  <MM_mallet.tools.shaft.label>manche</MM_mallet.tools.shaft.label>
+  
+  <!-- EN: heavy maul -->
+  <MM_maul.label>masse lourde</MM_maul.label>
+  <!-- EN: Gigantic two-handed hammer with horrifying destructive potential, maul is knight's worst nightmare. While its incredibly slow due to its mass, a single hit can flatten a warrior in full plate armor. Best way to handle someone wielding this weapon is to never let him get close enough for a swing. -->
+  <MM_maul.description>Un marteau gigantesque à deux mains avec un potentiel de destruction terrifiant, la masse est le pire cauchemar d'un chevalier. Bien qu'elle soit incroyablement lente en raison de sa masse, un seul coup peut aplatir un guerrier en armure complète. La meilleure façon de gérer quelqu'un qui manie cette arme est de ne jamais le laisser s'approcher assez pour un coup.</MM_maul.description>
+  <!-- EN: shaft -->
+  <MM_maul.tools.shaft.label>manche</MM_maul.tools.shaft.label>
+  <!-- EN: hammerhead -->
+  <MM_maul.tools.hammerhead-0.label>tête de marteau</MM_maul.tools.hammerhead-0.label>
+  <!-- EN: hammerhead -->
+  <MM_maul.tools.hammerhead-1.label>tête de marteau</MM_maul.tools.hammerhead-1.label>
+  
+  <!-- EN: morning star -->
+  <MM_morningstar.label>étoile du matin</MM_morningstar.label>
+  <!-- EN: Blunt weapon that consists of spiked ball on a long handle. Heavy enough to do some damage even through medium armor, yet light enough to wield with one hand. -->
+  <MM_morningstar.description>Arme contondante qui consiste en une boule à pointes sur un long manche. Assez lourde pour faire des dégâts même à travers une armure moyenne, mais assez légère pour être maniée d'une seule main.</MM_morningstar.description>
+  <!-- EN: handle -->
+  <MM_morningstar.tools.handle.label>manche</MM_morningstar.tools.handle.label>
+  <!-- EN: head -->
+  <MM_morningstar.tools.head-0.label>tête</MM_morningstar.tools.head-0.label>
+  <!-- EN: head -->
+  <MM_morningstar.tools.head-1.label>tête</MM_morningstar.tools.head-1.label>
+  
+  <!-- EN: military pick -->
+  <MM_mpick.label>pioche militaire</MM_mpick.label>
+  <!-- EN: Military pick is a type of short warhammer, that has heavy metal head with a curved pointy spike for piercing through thick armors. The form of the spike makes it look somewhat similar to a miner's pickaxe. -->
+  <MM_mpick.description>La pioche militaire est un type de marteau de guerre court, qui a une tête en métal lourd avec une pointe courbée et pointue pour percer les armures épaisses. La forme de la pointe la fait ressembler à une pioche de mineur.</MM_mpick.description>
+  <!-- EN: handle -->
+  <MM_mpick.tools.handle.label>manche</MM_mpick.tools.handle.label>
+  <!-- EN: spike -->
+  <MM_mpick.tools.spike.label>pointe</MM_mpick.tools.spike.label>
+  <!-- EN: head -->
+  <MM_mpick.tools.head.label>tête</MM_mpick.tools.head.label>
+  
+  <!-- EN: pickaxe -->
+  <MM_pickaxe.label>pioche</MM_pickaxe.label>
+  <!-- EN: A T-shaped hand tool with a heavy sharp head typically used for prying stones apart and mining ores. -->
+  <MM_pickaxe.description>Un outil à main en forme de T avec une tête lourde et tranchante généralement utilisée pour séparer les pierres et extraire les minerais.</MM_pickaxe.description>
+  <!-- EN: handle -->
+  <MM_pickaxe.tools.handle.label>manche</MM_pickaxe.tools.handle.label>
+  <!-- EN: head -->
+  <MM_pickaxe.tools.head.label>tête</MM_pickaxe.tools.head.label>
+  
+  <!-- EN: pike -->
+  <MM_pike.label>pic</MM_pike.label>
+  <!-- EN: Weighted long polearm with a sharp tip for piercing medium armor. Very effective against beasts and enemy cavarly. Its longer than a normal spear and can't be used with one hand. -->
+  <MM_pike.description>Arme d'hast longue et pondérée avec une pointe tranchante pour percer l'armure moyenne. Très efficace contre les bêtes et la cavalerie ennemie. Elle est plus longue qu'une lance normale et ne peut pas être utilisée d'une seule main.</MM_pike.description>
+  <!-- EN: shaft -->
+  <MM_pike.tools.shaft.label>manche</MM_pike.tools.shaft.label>
+  <!-- EN: point -->
+  <MM_pike.tools.point-0.label>pointe</MM_pike.tools.point-0.label>
+  <!-- EN: point -->
+  <MM_pike.tools.point-1.label>pointe</MM_pike.tools.point-1.label>
+  
+  <!-- EN: pitchfork -->
+  <MM_Pitchfork.label>fourche</MM_Pitchfork.label>
+  <!-- EN: A simple tool used in agriculture, has a long handle and several pointed tynes used to lift and pitch or throw loose material, such as hay, straw or leaves. Or people. Thus can be somewhat effectively used as a weapon in a pinch. -->
+  <MM_Pitchfork.description>Un outil simple utilisé en agriculture, a un long manche et plusieurs dents pointues utilisées pour soulever et lancer ou jeter du matériel lâche, comme du foin, de la paille ou des feuilles. Ou des gens. Peut donc être utilisé de manière assez efficace comme une arme en cas de besoin.</MM_Pitchfork.description>
+  <!-- EN: tynes -->
+  <MM_Pitchfork.tools.tynes.label>dents</MM_Pitchfork.tools.tynes.label>
+  <!-- EN: handle -->
+  <MM_Pitchfork.tools.handle.label>manche</MM_Pitchfork.tools.handle.label>
+  
+  <!-- EN: polehammer -->
+  <MM_polehammer.label>marteau de pôle</MM_polehammer.label>
+  <!-- EN: A polearm version of warhammer - hammerhead is mounted on a long wooden shaft for extended reach. Has a spike on its end, for stabbing in case there is no space for a full swing. Its increased range is an advantage in open field, but becomes a problem in tight quarters. -->
+  <MM_polehammer.description>Une version d'arme d'hast du marteau de guerre - la tête du marteau est montée sur un long manche en bois pour une portée étendue. A une pointe à son extrémité, pour poignarder au cas où il n'y aurait pas d'espace pour un swing complet. Sa portée accrue est un avantage en terrain ouvert, mais devient un problème dans les espaces restreints.</MM_polehammer.description>
+  <!-- EN: shaft -->
+  <MM_polehammer.tools.shaft.label>manche</MM_polehammer.tools.shaft.label>
+  <!-- EN: hammerhead -->
+  <MM_polehammer.tools.hammerhead.label>tête de marteau</MM_polehammer.tools.hammerhead.label>
+  <!-- EN: spike -->
+  <MM_polehammer.tools.spike.label>pointe</MM_polehammer.tools.spike.label>
+  
+  <!-- EN: rapier -->
+  <MM_rapier.label>rapière</MM_rapier.label>
+  <!-- EN: Long thin blade mainly used in dueling - occupation beloved by those of noble birth. Extremely light and fast, this weapon is made for stabbing and finding gaps in opponent's defense. Has a noble feel to it. -->
+  <MM_rapier.description>Lame longue et mince principalement utilisée en duel - occupation chérie par ceux de noble naissance. Extrêmement légère et rapide, cette arme est faite pour poignarder et trouver des failles dans la défense de l'adversaire. A une sensation noble.</MM_rapier.description>
+  <!-- EN: handle -->
+  <MM_rapier.tools.handle.label>manche</MM_rapier.tools.handle.label>
+  <!-- EN: point -->
+  <MM_rapier.tools.point-0.label>pointe</MM_rapier.tools.point-0.label>
+  <!-- EN: point -->
+  <MM_rapier.tools.point-1.label>pointe</MM_rapier.tools.point-1.label>
+  
+  <!-- EN: sagaris -->
+  <MM_sagaris.label>sagaris</MM_sagaris.label>
+  <!-- EN: A medium weight battle axe of exotic design. Unlike double bearded axes, its axeblade is smithed into a single half-circle blade. Its design seems to have came from civilization long forgotten. -->
+  <MM_sagaris.description>Une hache de bataille de poids moyen au design exotique. Contrairement aux haches à double barbe, sa lame de hache est forgée en une seule lame en demi-cercle. Son design semble provenir d'une civilisation depuis longtemps oubliée.</MM_sagaris.description>
+  <!-- EN: shaft -->
+  <MM_sagaris.tools.shaft.label>manche</MM_sagaris.tools.shaft.label>
+  <!-- EN: axeblade -->
+  <MM_sagaris.tools.axeblade-0.label>lame de hache</MM_sagaris.tools.axeblade-0.label>
+  <!-- EN: axeblade -->
+  <MM_sagaris.tools.axeblade-1.label>lame de hache</MM_sagaris.tools.axeblade-1.label>
+  
+  <!-- EN: scramasax -->
+  <MM_scramasax.label>scramasax</MM_scramasax.label>
+  <!-- EN: A medium sized sword with a blade, that becomes wider and heavier from its handle to its sharp tip. Can both cut and stab in a fight. Due to structure of its blade can also be used to hack your way through thick vegetation. -->
+  <MM_scramasax.description>Une épée de taille moyenne avec une lame, qui devient plus large et plus lourde de son manche à sa pointe tranchante. Peut à la fois couper et poignarder lors d'un combat. En raison de la structure de sa lame, elle peut également être utilisée pour se frayer un chemin à travers une végétation épaisse.</MM_scramasax.description>
+  <!-- EN: handle -->
+  <MM_scramasax.tools.handle.label>manche</MM_scramasax.tools.handle.label>
+  <!-- EN: point -->
+  <MM_scramasax.tools.point.label>pointe</MM_scramasax.tools.point.label>
+  <!-- EN: edge -->
+  <MM_scramasax.tools.edge.label>tranchant</MM_scramasax.tools.edge.label>
+  
+  <!-- EN: scythe -->
+  <MM_scythe.label>faux</MM_scythe.label>
+  <!-- EN: A handheld tool typically used for mowing grass and harvesting crops such as wheats. -->
+  <MM_scythe.description>Un outil à main généralement utilisé pour faucher l'herbe et récolter des cultures comme le blé.</MM_scythe.description>
+  <!-- EN: handle -->
+  <MM_scythe.tools.handle.label>manche</MM_scythe.tools.handle.label>
+  <!-- EN: blade -->
+  <MM_scythe.tools.blade.label>lame</MM_scythe.tools.blade.label>
+  
+  <!-- EN: hammer -->
+  <MM_SHammer.label>marteau</MM_SHammer.label>
+  <!-- EN: Heavy hammerhead on a short handle. Commonly used in both construction and blacksmithing. Can be used as a melee weapon in a pinch. -->
+  <MM_SHammer.description>Tête de marteau lourde sur un manche court. Couramment utilisé à la fois dans la construction et la forge. Peut être utilisé comme une arme de mêlée en cas de besoin.</MM_SHammer.description>
+  <!-- EN: handle -->
+  <MM_SHammer.tools.handle.label>manche</MM_SHammer.tools.handle.label>
+  <!-- EN: hammerhead -->
+  <MM_SHammer.tools.hammerhead.label>tête de marteau</MM_SHammer.tools.hammerhead.label>
+  
+  <!-- EN: shortsword -->
+  <MM_shortsword.label>épée courte</MM_shortsword.label>
+  <!-- EN: A light short sword, perfect for fighting in tight spaces. Doesn't have enough mass to pierce armor, but really dangerous against unarmored opponents. -->
+  <MM_shortsword.description>Une épée courte légère, parfaite pour se battre dans des espaces restreints. N'a pas assez de masse pour percer l'armure, mais vraiment dangereuse contre des adversaires non armés.</MM_shortsword.description>
+  <!-- EN: handle -->
+  <MM_shortsword.tools.handle.label>manche</MM_shortsword.tools.handle.label>
+  <!-- EN: point -->
+  <MM_shortsword.tools.point.label>pointe</MM_shortsword.tools.point.label>
+  <!-- EN: edge -->
+  <MM_shortsword.tools.edge.label>tranchant</MM_shortsword.tools.edge.label>
+  
+  <!-- EN: shovel -->
+  <MM_shovel.label>pelle</MM_shovel.label>
+  <!-- EN: A handheld tool for digging and moving soil, ores, sand and other materials. Consists of a broad blade on a medium length handle. Useful for both construction and plantwork. -->
+  <MM_shovel.description>Un outil à main pour creuser et déplacer la terre, les minerais, le sable et d'autres matériaux. Composé d'une large lame sur un manche de longueur moyenne. Utile à la fois pour la construction et le travail des plantes.</MM_shovel.description>
+  <!-- EN: handle -->
+  <MM_shovel.tools.handle.label>manche</MM_shovel.tools.handle.label>
+  <!-- EN: blade -->
+  <MM_shovel.tools.blade.label>lame</MM_shovel.tools.blade.label>
+  
+  <!-- EN: Sickle -->
+  <MM_Sickle.label>faucille</MM_Sickle.label>
+  <!-- EN: A handheld agricultural tool with a curved blade, designed for reaping and harvesting hay and various other soft plants. -->
+  <MM_Sickle.description>Un outil agricole à main avec une lame courbée, conçu pour faucher et récolter le foin et diverses autres plantes douces.</MM_Sickle.description>
+  <!-- EN: handle -->
+  <MM_Sickle.tools.handle.label>manche</MM_Sickle.tools.handle.label>
+  <!-- EN: edge -->
+  <MM_Sickle.tools.edge.label>tranchant</MM_Sickle.tools.edge.label>
+  
+  <!-- EN: trident -->
+  <MM_trident.label>trident</MM_trident.label>
+  <!-- EN: A long three-pronged polearm often used in melee combat and sometimes for spear fishing. Associated with gods of oceans and sees on some planets. -->
+  <MM_trident.description>Une longue arme d'hast à trois pointes souvent utilisée dans le combat rapproché et parfois pour la pêche à la lance. Associé aux dieux des océans et des mers sur certaines planètes.</MM_trident.description>
+  <!-- EN: handle -->
+  <MM_trident.tools.handle.label>manche</MM_trident.tools.handle.label>
+  <!-- EN: tips -->
+  <MM_trident.tools.tips.label>pointes</MM_trident.tools.tips.label>
+  <!-- EN: point -->
+  <MM_trident.tools.point.label>pointe</MM_trident.tools.point.label>
+  
+  <!-- EN: battle axe -->
+  <MM_waraxe.label>hache de bataille</MM_waraxe.label>
+  <!-- EN: One-handed axe designed for fighting armored opponents. It lacks the speed and sharpness of swords, but compensates for it with its mass and damage it can inflict even through a decent suit of armor. -->
+  <MM_waraxe.description>Une hache à une main conçue pour combattre des adversaires armés. Elle manque de vitesse et de tranchant par rapport aux épées, mais elle compense cela par sa masse et les dégâts qu'elle peut infliger même à travers une armure décente.</MM_waraxe.description>
+  <!-- EN: handle -->
+  <MM_waraxe.tools.handle.label>manche</MM_waraxe.tools.handle.label>
+  <!-- EN: edge -->
+  <MM_waraxe.tools.edge-0.label>tranchant</MM_waraxe.tools.edge-0.label>
+  <!-- EN: edge -->
+  <MM_waraxe.tools.edge-1.label>tranchant</MM_waraxe.tools.edge-1.label>
+  
+  <!-- EN: warhammer -->
+  <MM_warhammer.label>marteau de guerre</MM_warhammer.label>
+  <!-- EN: One-handed hammer designed to be used against heavily armored opponents, can break bones and cripple a man in one blow even through a thick steel plate. -->
+  <MM_warhammer.description>Un marteau à une main conçu pour être utilisé contre des adversaires lourdement armés, peut briser des os et handicaper un homme en un seul coup même à travers une épaisse plaque d'acier.</MM_warhammer.description>
+  <!-- EN: handle -->
+  <MM_warhammer.tools.handle.label>manche</MM_warhammer.tools.handle.label>
+  <!-- EN: hammerhead -->
+  <MM_warhammer.tools.hammerhead-0.label>tête de marteau</MM_warhammer.tools.hammerhead-0.label>
+  <!-- EN: hammerhead -->
+  <MM_warhammer.tools.hammerhead-1.label>tête de marteau</MM_warhammer.tools.hammerhead-1.label>
+
+  
+  <!-- EN: war scythe -->
+  <MM_warscythe.label>faux de guerre</MM_warscythe.label>
+  <!-- EN: Polearm with a long curved menacing looking blade, that looks somewhat similar to a common scythe. While this particular design is more fit for ceremonial purposes, its quite dangerous in capable hands. -->
+  <MM_warscythe.description>Arme d'hast avec une longue lame courbée menaçante, qui ressemble un peu à une faux commune. Bien que ce design particulier soit plus adapté à des fins cérémoniales, il est assez dangereux entre des mains capables.</MM_warscythe.description>
+  <!-- EN: shaft -->
+  <MM_warscythe.tools.shaft.label>tige</MM_warscythe.tools.shaft.label>
+  <!-- EN: blade -->
+  <MM_warscythe.tools.blade-0.label>lame</MM_warscythe.tools.blade-0.label>
+  <!-- EN: blade -->
+  <MM_warscythe.tools.blade-1.label>lame</MM_warscythe.tools.blade-1.label>
+  
+  <!-- EN: war sickle -->
+  <MM_warsickle.label>faucille de guerre</MM_warsickle.label>
+  <!-- EN: Decorated light ceremonial weapon of exotic design incrusted with precious metals. Its form seems similar to a common sickle, but the blade if much more curved for rending flesh and catching enemy weapons. -->
+  <MM_warsickle.description>Arme cérémonielle légère décorée d'un design exotique incrusté de métaux précieux. Sa forme semble similaire à une faucille commune, mais la lame est beaucoup plus courbée pour déchirer la chair et attraper les armes ennemies.</MM_warsickle.description>
+  <!-- EN: handle -->
+  <MM_warsickle.tools.handle.label>manche</MM_warsickle.tools.handle.label>
+  <!-- EN: blade -->
+  <MM_warsickle.tools.blade-0.label>lame</MM_warsickle.tools.blade-0.label>
+  <!-- EN: blade -->
+  <MM_warsickle.tools.blade-1.label>lame</MM_warsickle.tools.blade-1.label>
+  
+  <!-- EN: war spear -->
+  <MM_warspear.label>lance de guerre</MM_warspear.label>
+  <!-- EN: Reinforced long fighting spear with winged barbed tip that prevents lodging it too deep into opponents flesh and getting stuck. Long spear tip allows for slashing attacks. -->
+  <MM_warspear.description>Lance de combat longue renforcée avec une pointe barbelée ailée qui empêche de la loger trop profondément dans la chair des adversaires et de rester coincée. La longue pointe de la lance permet des attaques tranchantes.</MM_warspear.description>
+  <!-- EN: handle -->
+  <MM_warspear.tools.handle.label>manche</MM_warspear.tools.handle.label>
+  <!-- EN: blade -->
+  <MM_warspear.tools.blade.label>lame</MM_warspear.tools.blade.label>
+  <!-- EN: point -->
+  <MM_warspear.tools.point.label>pointe</MM_warspear.tools.point.label>
+  
+  <!-- EN: woodcutter's axe -->
+  <MM_Woodcutteraxe.label>hache de bûcheron</MM_Woodcutteraxe.label>
+  <!-- EN: A simple tool for cutting down trees, has a long wooden handle and heavy metallic head with sharpened edge. Somewhat effective as a melee weapon due to its mass, but slow. -->
+  <MM_Woodcutteraxe.description>Un outil simple pour abattre les arbres, a un long manche en bois et une tête métallique lourde avec un tranchant affûté. Assez efficace comme arme de mêlée en raison de sa masse, mais lent.</MM_Woodcutteraxe.description>
+  <!-- EN: handle -->
+  <MM_Woodcutteraxe.tools.handle.label>manche</MM_Woodcutteraxe.tools.handle.label>
+  <!-- EN: head -->
+  <MM_Woodcutteraxe.tools.head.label>tête</MM_Woodcutteraxe.tools.head.label>
+  
+  <!-- EN: zweihander -->
+  <MM_zweihander.label>zweihander</MM_zweihander.label>
+  <!-- EN: Zweihander is a greatsword of ancient exotic design. Like other greatswords its length easily reaches height of an average person. While its mass and size make it slow, its massive damage output more than compensates for it. -->
+  <MM_zweihander.description>Le Zweihander est une grande épée d'un design exotique ancien. Comme les autres grandes épées, sa longueur atteint facilement la taille d'une personne moyenne. Bien que sa masse et sa taille le rendent lent, sa capacité de dégâts massive compense largement cela.</MM_zweihander.description>
+  <!-- EN: handle -->
+  <MM_zweihander.tools.handle.label>manche</MM_zweihander.tools.handle.label>
+  <!-- EN: edge -->
+  <MM_zweihander.tools.edge-0.label>tranchant</MM_zweihander.tools.edge-0.label>
+  <!-- EN: edge -->
+  <MM_zweihander.tools.edge-1.label>tranchant</MM_zweihander.tools.edge-1.label>
+  
+</LanguageData>

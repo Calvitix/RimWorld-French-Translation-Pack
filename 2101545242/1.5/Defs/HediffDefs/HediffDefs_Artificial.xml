@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+   
+	<HediffDef Name="AddedPartMedArtificial" ParentName="AddedBodyPartBase" Abstract="True">
+		<defaultLabelColor>(12,82,13)</defaultLabelColor>
+	</HediffDef>
+   
+	<ThingDef Name="BodyPartMedArtificialBase" ParentName="BodyPartBase" Abstract="True">
+		<techLevel>Medieval</techLevel>
+		<thingCategories>
+			<li>BodyPartsSimple</li>
+		</thingCategories>
+		<graphicData>
+			<texPath>Things/Item/BodyPart/BasicProsthesis</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>0.80</drawSize>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+		<statBases>
+			<DeteriorationRate>2</DeteriorationRate>
+			<WorkToMake>60000</WorkToMake>
+		</statBases>
+		<recipeMaker>
+			<workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+			<workSkill>Crafting</workSkill>
+			<effectWorking>Smith</effectWorking>
+			<recipeUsers>
+				<li>CraftingSpot</li>
+				<li>FueledSmithy</li>
+			</recipeUsers>
+			<unfinishedThingDef>UnfinishedProsthesis</unfinishedThingDef>
+			<researchPrerequisite>ArtificialLimbs</researchPrerequisite>
+		</recipeMaker>
+		<techHediffsTags>
+			<li>Simple</li>
+		</techHediffsTags>
+	</ThingDef>
+   
+	<RecipeDef Name="SurgeryMedArtificial" ParentName="SurgeryInstallBodyPartArtificialBase" Abstract="True">
+		<dontShowIfAnyIngredientMissing>true</dontShowIfAnyIngredientMissing>
+		<skillRequirements>
+			<Medicine>4</Medicine>
+		</skillRequirements>
+	</RecipeDef>
+	
+	
+   
+	<!-- Artificial Hand -->
+   
+	<HediffDef ParentName="AddedPartMedArtificial">
+		<defName>ArtificialMedHand</defName>
+		<label>artificial hand</label>
+		<labelNoun>an artificial hand</labelNoun>
+		<description>An installed artificial hand.</description>
+		<descriptionHyperlinks><ThingDef>ArtificialMedHand</ThingDef></descriptionHyperlinks>
+		<comps><li Class="HediffCompProperties_VerbGiver"><tools>
+			<li>
+				<label>artificial hand</label>
+				<capacities>
+					<li>Blunt</li>
+				</capacities>
+				<power>10</power>
+				<cooldownTime>1.8</cooldownTime>
+			</li>
+		</tools></li></comps>
+		<spawnThingOnRemoved>ArtificialMedHand</spawnThingOnRemoved>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>0.75</partEfficiency>
+		</addedPartProps>
+	</HediffDef>
+   
+	<ThingDef ParentName="BodyPartMedArtificialBase">
+		<defName>ArtificialMedHand</defName>
+		<label>artificial hand</label>
+		<description>An artificial hand.</description>
+		<descriptionHyperlinks><RecipeDef>InstallArtificialMedHand</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Steel>55</Steel>
+			<WoodLog>10</WoodLog>
+		</costList>
+		<statBases>
+			<Mass>2</Mass>
+		</statBases>
+	</ThingDef>
+   
+   <RecipeDef ParentName="SurgeryMedArtificial">
+		<defName>InstallArtificialMedHand</defName>
+		<label>install artificial hand</label>
+		<description>Installs artificial hand.</description>
+		<descriptionHyperlinks>
+			<ThingDef>ArtificialMedHand</ThingDef>
+			<HediffDef>ArtificialMedHand</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing artificial hand.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ArtificialMedHand</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>ArtificialMedHand</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Hand</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>ArtificialMedHand</addsHediff>
+	</RecipeDef>
+	
+	
+	<!-- Artificial Arm -->
+	
+    <HediffDef ParentName="AddedPartMedArtificial">
+      <defName>ArtificialMedArm</defName>
+      <label>artificial arm</label>
+	  <labelNoun>an artificial arm</labelNoun>
+	  <description>An installed artificial arm.</description>
+      <descriptionHyperlinks><ThingDef>ArtificialMedArm</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>ArtificialMedArm</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.40</partEfficiency>
+      </addedPartProps>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>artificial arm</label>
+                  <capacities>
+                     <li>Blunt</li>
+                  </capacities>
+                  <power>10</power>
+                  <cooldownTime>1.8</cooldownTime>
+               </li>
+            </tools>
+         </li>
+      </comps>
+   </HediffDef>
+
+	<ThingDef ParentName="BodyPartMedArtificialBase">
+		<defName>ArtificialMedArm</defName>
+		<label>artificial arm</label>
+		<description>An artificial arm.</description>
+		<costList>
+			<Steel>100</Steel>
+			<WoodLog>25</WoodLog>
+		</costList>
+		<statBases>
+			<Mass>6</Mass>
+		</statBases>
+	</ThingDef>
+   
+   	<RecipeDef ParentName="SurgeryMedArtificial">
+		<defName>InstallArtificialMedArm</defName>
+		<label>install artificial arm</label>
+		<description>Installs artificial arm.</description>
+		<descriptionHyperlinks>
+			<ThingDef>ArtificialMedArm</ThingDef>
+			<HediffDef>ArtificialMedArm</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing artificial arm.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ArtificialMedArm</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>ArtificialMedArm</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Shoulder</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>ArtificialMedArm</addsHediff>
+	</RecipeDef>
+	
+	
+	<!-- Artificial Leg -->
+	
+   <HediffDef ParentName="AddedPartMedArtificial">
+      <defName>ArtificialMedLeg</defName>
+      <label>artificial leg</label>
+	  <labelNoun>an artificial leg</labelNoun>
+	  <description>An installed artificial leg.</description>
+      <descriptionHyperlinks><ThingDef>ArtificialMedLeg</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>ArtificialMedLeg</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.75</partEfficiency>
+      </addedPartProps>
+	</HediffDef>
+	
+	<ThingDef ParentName="BodyPartMedArtificialBase">
+		<defName>ArtificialMedLeg</defName>
+		<label>artificial leg</label>
+		<description>An artificial leg.</description>
+		<descriptionHyperlinks><RecipeDef>InstallArtificialMedLeg</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Steel>100</Steel>
+			<WoodLog>25</WoodLog>
+		</costList>
+		<statBases>
+			<Mass>8</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<RecipeDef ParentName="SurgeryMedArtificial">
+		<defName>InstallArtificialMedLeg</defName>
+		<label>install artificial leg</label>
+		<description>Installs artificial leg.</description>
+		<descriptionHyperlinks>
+			<ThingDef>ArtificialMedLeg</ThingDef>
+			<HediffDef>ArtificialMedLeg</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing artificial leg.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ArtificialMedLeg</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>ArtificialMedLeg</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Leg</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>ArtificialMedLeg</addsHediff>
+	</RecipeDef>
+	
+	
+	<!-- Artificial Foot -->
+	
+	<HediffDef ParentName="AddedPartMedArtificial">
+      <defName>ArtificialMedFoot</defName>
+      <label>artificial foot</label>
+	  <labelNoun>a artificial foot</labelNoun>
+	  <description>An installed artificial foot.</description>
+      <descriptionHyperlinks><ThingDef>ArtificialMedFoot</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>ArtificialMedFoot</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.85</partEfficiency>
+      </addedPartProps>
+	</HediffDef>
+	
+	<ThingDef ParentName="BodyPartMedArtificialBase">
+		<defName>ArtificialMedFoot</defName>
+		<label>artificial foot</label>
+		<description>An artificial foot.</description>
+		<descriptionHyperlinks><RecipeDef>InstallArtificialMedFoot</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Steel>55</Steel>
+			<WoodLog>10</WoodLog>
+		</costList>
+		<statBases>
+			<Mass>2</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<RecipeDef ParentName="SurgeryMedArtificial">
+		<defName>InstallArtificialMedFoot</defName>
+		<label>install artificial foot</label>
+		<description>Installs artificial foot.</description>
+		<descriptionHyperlinks>
+			<ThingDef>ArtificialMedFoot</ThingDef>
+			<HediffDef>ArtificialMedFoot</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing artificial foot.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ArtificialMedFoot</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>ArtificialMedFoot</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Foot</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>ArtificialMedFoot</addsHediff>
+	</RecipeDef>
+	
+	
+	<!-- Artificial Toe -->
+	
+    <HediffDef ParentName="AddedPartMedArtificial">
+      <defName>ArtificialMedToe</defName>
+      <label>artificial toe</label>
+	  <labelNoun>an artificial toe</labelNoun>
+	  <description>An installed artificial toe.</description>
+      <descriptionHyperlinks><ThingDef>ArtificialMedToe</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>ArtificialMedToe</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.75</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   
+   <ThingDef ParentName="BodyPartMedArtificialBase">
+		<defName>ArtificialMedToe</defName>
+		<label>artificial toe</label>
+		<description>An artificial toe.</description>
+		<descriptionHyperlinks><RecipeDef>InstallArtificialMedToe</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Steel>15</Steel>
+			<WoodLog>5</WoodLog>
+		</costList>
+		<statBases>
+			<Mass>0.2</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<RecipeDef ParentName="SurgeryMedArtificial">
+		<defName>InstallArtificialMedToe</defName>
+		<label>install artificial toe</label>
+		<description>Installs artificial toe.</description>
+		<descriptionHyperlinks>
+			<ThingDef>ArtificialMedToe</ThingDef>
+			<HediffDef>ArtificialMedToe</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing artificial toe.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ArtificialMedToe</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>ArtificialMedToe</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Toe</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>ArtificialMedToe</addsHediff>
+	</RecipeDef>
+	
+   
+	<!-- Artificial Finger -->
+	
+    <HediffDef ParentName="AddedPartMedArtificial">
+      <defName>ArtificialMedFinger</defName>
+      <label>artificial finger</label>
+	  <labelNoun>an artificial finger</labelNoun>
+	  <description>An installed artificial finger.</description>
+      <descriptionHyperlinks><ThingDef>ArtificialMedFinger</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>ArtificialMedFinger</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.75</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+
+	<ThingDef ParentName="BodyPartMedArtificialBase">
+		<defName>ArtificialMedFinger</defName>
+		<label>artificial finger</label>
+		<description>An artificial finger.</description>
+		<descriptionHyperlinks><RecipeDef>InstallArtificialMedFinger</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<Steel>15</Steel>
+			<WoodLog>5</WoodLog>
+		</costList>
+		<statBases>
+			<Mass>0.2</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<RecipeDef ParentName="SurgeryMedArtificial">
+		<defName>InstallArtificialMedFinger</defName>
+		<label>install artificial finger</label>
+		<description>Installs artificial finger.</description>
+		<descriptionHyperlinks>
+			<ThingDef>ArtificialMedFinger</ThingDef>
+			<HediffDef>ArtificialMedFinger</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing artificial finger.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ArtificialMedFinger</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>ArtificialMedFinger</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Finger</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>ArtificialMedFinger</addsHediff>
+	</RecipeDef>
+	
+
+	<!-- Artificial Nose -->
+	
+    <HediffDef ParentName="AddedPartMedArtificial">
+      <defName>ArtificialMedNose</defName>
+      <label>artificial nose</label>
+	  <labelNoun>an artificial nose</labelNoun>
+	  <description>An installed artificial nose.</description>
+      <descriptionHyperlinks><ThingDef>ArtificialMedNose</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>ArtificialMedNose</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0</partEfficiency>
+      </addedPartProps>
+	  <stages>
+		<li>
+         <statOffsets>
+               <SocialImpact>+0.05</SocialImpact>
+         </statOffsets>
+		</li>	 
+      </stages>
+   </HediffDef>
+
+	<ThingDef ParentName="BodyPartMedArtificialBase">
+		<defName>ArtificialMedNose</defName>
+		<label>artificial nose</label>
+		<description>An artificial nose.</description>
+		<descriptionHyperlinks><RecipeDef>InstallArtificialMedNose</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<WoodLog>15</WoodLog>
+		</costList>
+		<statBases>
+			<Mass>0.2</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<RecipeDef ParentName="SurgeryMedArtificial">
+		<defName>InstallArtificialMedNose</defName>
+		<label>install artificial nose</label>
+		<description>Installs artificial nose.</description>
+		<descriptionHyperlinks>
+			<ThingDef>ArtificialMedNose</ThingDef>
+			<HediffDef>ArtificialMedNose</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing artificial nose.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ArtificialMedNose</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>ArtificialMedNose</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Nose</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>ArtificialMedNose</addsHediff>
+	</RecipeDef>
+	
+
+	<!-- Artificial Eye -->
+	
+    <HediffDef ParentName="AddedPartMedArtificial">
+      <defName>ArtificialMedEye</defName>
+      <label>artificial eye</label>
+	  <labelNoun>an artificial eye</labelNoun>
+	  <description>An installed artificial eye.</description>
+      <descriptionHyperlinks><ThingDef>ArtificialMedEye</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>ArtificialMedEye</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0</partEfficiency>
+      </addedPartProps>
+	  <stages>
+		<li>
+         <statOffsets>
+               <SocialImpact>+0.05</SocialImpact>
+         </statOffsets>
+		</li>	 
+      </stages>
+   </HediffDef>   
+
+	<ThingDef ParentName="BodyPartMedArtificialBase">
+		<defName>ArtificialMedEye</defName>
+		<label>artificial eye</label>
+		<description>An artificial eye.</description>
+		<descriptionHyperlinks><RecipeDef>InstallArtificialMedEye</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<WoodLog>15</WoodLog>
+		</costList>
+		<statBases>
+			<Mass>0.2</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<RecipeDef ParentName="SurgeryMedArtificial">
+		<defName>InstallArtificialMedEye</defName>
+		<label>install artificial eye</label>
+		<description>Installs artificial eye.</description>
+		<descriptionHyperlinks>
+			<ThingDef>ArtificialMedEye</ThingDef>
+			<HediffDef>ArtificialMedEye</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing artificial eye.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ArtificialMedEye</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>ArtificialMedEye</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Eye</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>ArtificialMedEye</addsHediff>
+	</RecipeDef>
+
+
+	<!-- Artificial Ear -->
+	
+    <HediffDef ParentName="AddedPartMedArtificial">
+      <defName>ArtificialMedEar</defName>
+      <label>artificial ear</label>
+	  <labelNoun>an artificial ear</labelNoun>
+	  <description>An installed artificial ear.</description>
+      <descriptionHyperlinks><ThingDef>ArtificialMedEar</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>ArtificialMedEar</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0</partEfficiency>
+      </addedPartProps>
+	  <stages>
+		<li>
+         <statOffsets>
+               <SocialImpact>+0.05</SocialImpact>
+         </statOffsets>
+		</li>	 
+      </stages>
+   </HediffDef>
+
+	<ThingDef ParentName="BodyPartMedArtificialBase">
+		<defName>ArtificialMedEar</defName>
+		<label>artificial ear</label>
+		<description>An artificial ear.</description>
+		<descriptionHyperlinks><RecipeDef>InstallArtificialMedEar</RecipeDef></descriptionHyperlinks>
+		<costList>
+			<WoodLog>15</WoodLog>
+		</costList>
+		<statBases>
+			<Mass>0.2</Mass>
+		</statBases>
+	</ThingDef> 
+	
+	<RecipeDef ParentName="SurgeryMedArtificial">
+		<defName>InstallArtificialMedEar</defName>
+		<label>install artificial ear</label>
+		<description>Installs artificial ear.</description>
+		<descriptionHyperlinks>
+			<ThingDef>ArtificialMedEar</ThingDef>
+			<HediffDef>ArtificialMedEar</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing artificial ear.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ArtificialMedEar</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>ArtificialMedEar</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Ear</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>ArtificialMedEar</addsHediff>
+	</RecipeDef>
+   
+</Defs>

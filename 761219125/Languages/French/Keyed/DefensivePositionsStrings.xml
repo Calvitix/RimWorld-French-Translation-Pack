@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- Position défensive -->
+<DefPos_basic_label>Position de base</DefPos_basic_label>
+<!-- Envoyer un colon à sa position défensive.
+Cliquez avec le bouton droit pour définir la position et d'autres options. -->
+<DefPos_basic_desc>Envoyer un colon à sa position défensive. Cliquez avec le bouton droit pour définir la position et d'autres options.</DefPos_basic_desc>
+<!-- Positions avancées -->
+<DefPos_advanced_label>Positions avancées</DefPos_advanced_label>
+<!-- Envoyer un colon à la position défensive {0}.
+Cliquez avec le bouton droit pour définir la position et d'autres options. -->
+<DefPos_advanced_desc>Envoyer un colon à la position défensive {0}. Cliquez avec le bouton droit pour définir la position et d'autres options.</DefPos_advanced_desc>
+
+<!-- Menu contextuel -->
+<!-- Enregistrer la position défensive {0} -->
+<DefPos_context_assignPosition>Enregistrer la position défensive {0}</DefPos_context_assignPosition>
+<!-- Effacer la position enregistrée {0} -->
+<DefPos_context_clearPosition>Effacer la position enregistrée {0}</DefPos_context_clearPosition>
+<!-- (emplacement {0}) -->
+<DefPos_context_slotSuffix>(emplacement {0})</DefPos_context_slotSuffix>
+<!-- Basculer en mode avancé -->
+<DefPos_context_toggleAdvanced>Basculer en mode avancé</DefPos_context_toggleAdvanced>
+
+<!-- Messages des boutons -->
+<!-- Aucune position défensive définie. Cliquez avec le bouton droit pour la définir. -->
+<DefPos_msg_noposition>Aucune position défensive définie. Cliquez avec le bouton droit pour la définir.</DefPos_msg_noposition>
+<!-- Colonnes sans position défensive : {0} -->
+<DefPos_msg_noposition_partial>Colonnes sans position défensive : {0}</DefPos_msg_noposition_partial>
+<!-- La position défensive a été définie pour {0} colons. -->
+<DefPos_msg_basicSet>La position défensive a été définie pour {0} colons.</DefPos_msg_basicSet>
+<!-- La position défensive {0} a été définie pour {1} colons. -->
+<DefPos_msg_advancedSet>La position défensive {0} a été définie pour {1} colons.</DefPos_msg_advancedSet>
+<!-- La position défensive a été effacée pour {0} colons. -->
+<DefPos_msg_basicCleared>La position défensive a été effacée pour {0} colons.</DefPos_msg_basicCleared>
+<!-- La position défensive {0} a été effacée pour {1} colons. -->
+<DefPos_msg_advancedCleared>La position défensive {0} a été effacée pour {1} colons.</DefPos_msg_advancedCleared>
+<!-- Aucun des colons sélectionnés n'avait de position défensive à effacer. -->
+<DefPos_msg_clearFailed>Aucun des colons sélectionnés n'avait de position défensive à effacer.</DefPos_msg_clearFailed>
+
+<!-- Messages des raccourcis clavier -->
+<!-- Aucun membre assigné à l'escouade {0}. Maintenez la touche Contrôle enfoncée et appuyez à nouveau pour l'assigner. -->
+<DefPos_msg_squadEmpty>Aucun membre assigné à l'escouade {0}. Maintenez la touche Contrôle enfoncée et appuyez à nouveau pour l'assigner.</DefPos_msg_squadEmpty>
+<!-- Aucun membre d'escouade sélectionné. L'escouade {0} a été effacée. -->
+<DefPos_msg_squadCleared>Aucun membre d'escouade sélectionné. L'escouade {0} a été effacée.</DefPos_msg_squadCleared>
+<!-- {0} membres assignés à l'escouade {1}. -->
+<DefPos_msg_squadAssigned>{0} membres assignés à l'escouade {1}.</DefPos_msg_squadAssigned>
+<!-- Tous les colons sélectionnés. -->
+<DefPos_msg_selectedAll>Tous les colons sélectionnés.</DefPos_msg_selectedAll>
+<!-- {0} colons envoyés à la position défensive {1}. -->
+<DefPos_msg_sentAllSlot>{0} colons envoyés à la position défensive {1}.</DefPos_msg_sentAllSlot>
+
+<!-- Aucun des colons n'a de position défensive définie dans l'emplacement {0}. -->
+<DefPos_msg_nopositionAllSlot>Aucun des colons n'a de position défensive définie dans l'emplacement {0}.</DefPos_msg_nopositionAllSlot>
+<!-- {0} colons non enrôlés. -->
+<DefPos_msg_undraftedAll>{0} colons non enrôlés.</DefPos_msg_undraftedAll>
+<!-- Tous les colons sont déjà non enrôlés. -->
+<DefPos_msg_nooneDrafted>Tous les colons sont déjà non enrôlés.</DefPos_msg_nooneDrafted>
+
+<!-- Mode de raccourci clavier -->
+<setting_slotHotkeyMode_label>Mode de raccourci clavier</setting_slotHotkeyMode_label>
+<!-- Définit le comportement des raccourcis clavier pour le mode avancé :
+<b>Uniquement le premier emplacement :</b> active toujours le premier emplacement.
+<b>Dernier emplacement utilisé :</b> active le dernier emplacement cliqué.
+<b>Multi-pression :</b> appuyez sur la touche 1 à 4 fois de suite pour activer l'emplacement correspondant. -->
+<setting_slotHotkeyMode_desc>Définit le comportement des raccourcis clavier pour le mode avancé :
+<b>Uniquement le premier emplacement :</b> active toujours le premier emplacement.
+<b>Dernier emplacement utilisé :</b> active le dernier emplacement cliqué.
+<b>Multi-pression :</b> appuyez sur la touche 1 à 4 fois de suite pour activer l'emplacement correspondant.</setting_slotHotkeyMode_desc>
+<!-- Uniquement le premier emplacement -->
+<setting_slotHotkeyMode_FirstSlotOnly>Uniquement le premier emplacement</setting_slotHotkeyMode_FirstSlotOnly>
+<!-- Dernier emplacement utilisé -->
+<setting_slotHotkeyMode_LastUsedSlot>Dernier emplacement utilisé</setting_slotHotkeyMode_LastUsedSlot>
+<!-- Multi-pression -->
+<setting_slotHotkeyMode_MultiPress>Multi-pression</setting_slotHotkeyMode_MultiPress>
+
+<!-- Mode de la touche Maj -->
+<setting_shiftKeyMode_label>Mode de la touche Maj</setting_shiftKeyMode_label>
+<!-- Définit ce que fait la touche Maj en combinaison avec le clic sur un emplacement ou l'appui sur la touche de raccourci. Lorsque la touche Maj est réglée pour mettre en file d'attente les ordres, les positions des colons peuvent être assignées via le menu contextuel de l'emplacement. -->
+<setting_shiftKeyMode_desc>Définit ce que fait la touche Maj en combinaison avec le clic sur un emplacement ou l'appui sur la touche de raccourci. Lorsque la touche Maj est réglée pour mettre en file d'attente les ordres, les positions des colons peuvent être assignées via le menu contextuel de l'emplacement.</setting_shiftKeyMode_desc>
+<!-- Assigner la position de l'emplacement -->
+<setting_shiftKeyMode_AssignSlot>Assigner la position de l'emplacement</setting_shiftKeyMode_AssignSlot>
+<!-- Mettre en file d'attente l'ordre de déplacement -->
+<setting_shiftKeyMode_QueueOrder>Mettre en file d'attente l'ordre de déplacement</setting_shiftKeyMode_QueueOrder>
+
+<!-- Distance minimale de saut -->
+<settings_sameGroupDistance_label>Distance minimale de saut</settings_sameGroupDistance_label>
+<!-- Distance minimale entre les colons pour être considérés comme faisant partie du même groupe. Utilisé lors des sauts entre les emplacements d'escouade en appuyant plusieurs fois sur la touche d'escouade.
+Réglez cette valeur sur un nombre faible (0+) pour sauter entre les membres de l'escouade individuellement.
+Réglez cette valeur sur un nombre élevé comme 1000 pour sauter uniquement entre les cartes occupées par des membres de la même escouade. -->
+<settings_sameGroupDistance_desc>Distance minimale entre les colons pour être considérés comme faisant partie du même groupe. Utilisé lors des sauts entre les emplacements d'escouade en appuyant plusieurs fois sur la touche d'escouade.
+Réglez cette valeur sur un nombre faible (0+) pour sauter entre les membres de l'escouade individuellement.
+Réglez cette valeur sur un nombre élevé comme 1000 pour sauter uniquement entre cartes occupées par les membres d'une même escouade</settings_sameGroupDistance_desc>
+
+	<!-- EN: Jumping selects only nearby members -->
+  <settings_jumpingSelectsNearby_label>Le saut sélectionne uniquement les membres proches</settings_jumpingSelectsNearby_label>
+	<!-- EN: Affects what gets selected when jumping between members of a squad. Used when jumping between squad locations by pressing the squad key multiple times.\nWhen enabled, only other members close to the focused location are selected. Otherwise, always selects all squad members on the current map. -->
+  <settings_jumpingSelectsNearby_desc>Affecte ce qui est sélectionné lorsque l'on saute entre les membres d'une escouade. Utilisé pour sauter entre les emplacements de l'escouade en appuyant plusieurs fois sur la touche d'escouade.\NLorsque cette option est activée, seuls les autres membres proches de l'emplacement ciblé sont sélectionnés. Sinon, tous les membres de l'escouade sur la carte actuelle sont toujours sélectionnés.</settings_jumpingSelectsNearby_desc>
+  
+</LanguageData>

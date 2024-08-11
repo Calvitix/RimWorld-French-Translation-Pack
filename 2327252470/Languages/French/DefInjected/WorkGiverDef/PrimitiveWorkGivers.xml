@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: tisser au métier à tisser -->
+  <DoBillsPrimitiveLoom.label>tisser au métier à tisser</DoBillsPrimitiveLoom.label>
+  <!-- EN: making cloth -->
+  <DoBillsPrimitiveLoom.gerund>faire du tissu</DoBillsPrimitiveLoom.gerund>
+  <!-- EN: make cloth -->
+  <DoBillsPrimitiveLoom.verb>faire du tissu</DoBillsPrimitiveLoom.verb>
+  
+  <!-- EN: Infusion de thé à la table de l'herboriste -->
+  <VBY_DoBillsBrewTea.label>Infusion de thé à la table de l'herboriste</VBY_DoBillsBrewTea.label>
+  <!-- EN: brewing at -->
+  <VBY_DoBillsBrewTea.gerund>infusion à</VBY_DoBillsBrewTea.gerund>
+  <!-- EN: brew -->
+  <VBY_DoBillsBrewTea.verb>infuser</VBY_DoBillsBrewTea.verb>
+  
+  <!-- EN: faire des armes de mêlée -->
+  <VBY_DoBillsMakeMeleeWeapons.label>faire des armes de mêlée</VBY_DoBillsMakeMeleeWeapons.label>
+  <!-- EN: assembling at -->
+  <VBY_DoBillsMakeMeleeWeapons.gerund>assemblage à</VBY_DoBillsMakeMeleeWeapons.gerund>
+  <!-- EN: assemble -->
+  <VBY_DoBillsMakeMeleeWeapons.verb>assembler</VBY_DoBillsMakeMeleeWeapons.verb>
+  
+  <!-- EN: faire des armes à distance -->
+  <VBY_DoBillsMakeRangedWeapons.label>faire des armes à distance</VBY_DoBillsMakeRangedWeapons.label>
+  <!-- EN: assembling at -->
+  <VBY_DoBillsMakeRangedWeapons.gerund>assemblage à</VBY_DoBillsMakeRangedWeapons.gerund>
+  <!-- EN: assemble -->
+  <VBY_DoBillsMakeRangedWeapons.verb>assembler</VBY_DoBillsMakeRangedWeapons.verb>
+  
+  <!-- EN: faire de la poterie séchée -->
+  <VBY_DoBillsPottery.label>faire de la poterie séchée</VBY_DoBillsPottery.label>
+  <!-- EN: making pottery at -->
+  <VBY_DoBillsPottery.gerund>faire de la poterie à</VBY_DoBillsPottery.gerund>
+  <!-- EN: make pottery -->
+  <VBY_DoBillsPottery.verb>faire de la poterie</VBY_DoBillsPottery.verb>
+  
+  <!-- EN: fabriquer des objets à la table d'artisanat -->
+  <VBY_DoBillsUseCraftingTable.label>fabriquer des objets à la table d'artisanat</VBY_DoBillsUseCraftingTable.label>
+  <!-- EN: crafting at -->
+  <VBY_DoBillsUseCraftingTable.gerund>artisanat à</VBY_DoBillsUseCraftingTable.gerund>
+  <!-- EN: craft -->
+  <VBY_DoBillsUseCraftingTable.verb>fabriquer</VBY_DoBillsUseCraftingTable.verb>
+
+  
+</LanguageData>

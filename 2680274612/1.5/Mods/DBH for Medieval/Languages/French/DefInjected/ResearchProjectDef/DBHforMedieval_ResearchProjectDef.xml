@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ES_HygienicConcept.label>concept d'hygiène</ES_HygienicConcept.label>
+<ES_HygienicConcept.description>Apprenez que l'insalubrité entraîne des maladies. Cela permettra de mener des recherches sur des installations plus hygiéniques.</ES_HygienicConcept.description>
+
+<ES_MedievalFixtures.label>accessoires de salle de bains médiévale</ES_MedievalFixtures.label>
+<ES_MedievalFixtures.description>Construisez des équipements de salle de bain de type médiéval, comme des toilettes et des douches.</ES_MedievalFixtures.description>
+
+<ES_ManualPumps.label>pompes manuelles</ES_ManualPumps.label>
+<ES_ManualPumps.description>Construisez des pompes manuelles.</ES_ManualPumps.description>
+
+<ES_WindPumps.label>pompes à vent</ES_WindPumps.label>
+<ES_WindPumps.description>Construisez des pompes à vent.</ES_WindPumps.description>
+
+<ES_AnimalSupplies.label>fournitures pour animaux</ES_AnimalSupplies.label>
+<ES_AnimalSupplies.description>Fabriquez des fournitures pour animaux.</ES_AnimalSupplies.description>
+
+<ES_BasicIrrigation.label>irrigation de base</ES_BasicIrrigation.label>
+<ES_BasicIrrigation.description>Il sera possible de désigner des zones d'irrigation en découvrant le fait que l'humidité du sol est bénéfique à la croissance des cultures.</ES_BasicIrrigation.description>
+
+<ES_IntermediateIrrigation.label>irrigation intermédiaire (WIP)</ES_IntermediateIrrigation.label>
+<ES_IntermediateIrrigation.description>L'irrigation entre les rangs et les canaux permettront une irrigation plus efficace.</ES_IntermediateIrrigation.description>
+
+<ES_BoilWater.label>bouillir de l'eau</ES_BoilWater.label>
+<ES_BoilWater.description>Vous pourrez installer la marmite sur votre feu de camp ou votre poêle. Plus cette sensation de froid lorsque vous vous lavez le corps.</ES_BoilWater.description>
+
+
+</LanguageData>

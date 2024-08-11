@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+<!-- FR: <color=#9f40ff>Talent : Aventurier</color> -->
+<RT_TalentAdventurer.degreeDatas.color9f40ffTalent_Adventurercolor.label><color=#9f40ff>Talent : Aventurier</color></RT_TalentAdventurer.degreeDatas.color9f40ffTalent_Adventurercolor.label>
+<!-- FR: [PAWN_nameDef] est un combattant expérimenté. [PAWN_pronoun] a réalisé qu'[PAWN_pronoun] pouvait protéger ses amis et satisfaire sa curiosité en même temps. -->
+<RT_TalentAdventurer.degreeDatas.color9f40ffTalent_Adventurercolor.description>[PAWN_nameDef] est un combattant expérimenté. [PAWN_pronoun] a réalisé qu'[PAWN_pronoun] pouvait protéger ses amis et satisfaire sa curiosité en même temps.</RT_TalentAdventurer.degreeDatas.color9f40ffTalent_Adventurercolor.description>
+
+<!-- FR: <color=#9f40ff>Talent : Architecte</color> -->
+<RT_TalentArchitect.degreeDatas.color9f40ffTalent_Architectcolor.label><color=#9f40ff>Talent : Architecte</color></RT_TalentArchitect.degreeDatas.color9f40ffTalent_Architectcolor.label>
+<!-- FR: [PAWN_nameDef] est un architecte. [PAWN_pronoun] comprend qu'il n'est pas nécessaire d'être dans le Bon Endroit pour construire le Bon Endroit. -->
+<RT_TalentArchitect.degreeDatas.color9f40ffTalent_Architectcolor.description>[PAWN_nameDef] est un architecte. [PAWN_pronoun] comprend qu'il n'est pas nécessaire d'être dans le Bon Endroit pour construire le Bon Endroit.</RT_TalentArchitect.degreeDatas.color9f40ffTalent_Architectcolor.description>
+
+<!-- FR: <color=#9f40ff>Talent : Chef</color> -->
+<RT_TalentChef.degreeDatas.color9f40ffTalent_Chefcolor.label><color=#9f40ff>Talent : Chef</color></RT_TalentChef.degreeDatas.color9f40ffTalent_Chefcolor.label>
+<!-- FR: La cuisine est un art, du moins selon [PAWN_nameDef]. -->
+<RT_TalentChef.degreeDatas.color9f40ffTalent_Chefcolor.description>La cuisine est un art, du moins selon [PAWN_nameDef].</RT_TalentChef.degreeDatas.color9f40ffTalent_Chefcolor.description>
+
+<!-- FR: <color=#9f40ff>Talent : Philosophe</color> -->
+<RT_TalentPhilosopher.degreeDatas.color9f40ffTalent_Philosophercolor.label><color=#9f40ff>Talent : Philosophe</color></RT_TalentPhilosopher.degreeDatas.color9f40ffTalent_Philosophercolor.label>
+<!-- FR: Tout le monde déteste les professeurs de philosophie morale, mais [PAWN_nameDef] n'en est certainement pas un. -->
+<RT_TalentPhilosopher.degreeDatas.color9f40ffTalent_Philosophercolor.description>Tout le monde déteste les professeurs de philosophie morale, mais [PAWN_nameDef] n'en est certainement pas un.</RT_TalentPhilosopher.degreeDatas.color9f40ffTalent_Philosophercolor.description>
+
+<!-- FR: <color=#9f40ff>Talent : Chirurgien</color> -->
+<RT_TalentSurgeon.degreeDatas.color9f40ffTalent_Surgeoncolor.label><color=#9f40ff>Talent : Chirurgien</color></RT_TalentSurgeon.degreeDatas.color9f40ffTalent_Surgeoncolor.label>
+<!-- FR: [PAWN_nameDef] a franchi une étape supplémentaire, réalisant qu'[PAWN_pronoun] pouvait être payé pour toucher les corps nus des gens. -->
+<RT_TalentSurgeon.degreeDatas.color9f40ffTalent_Surgeoncolor.description>[PAWN_nameDef] a franchi une étape supplémentaire, réalisant qu'[PAWN_pronoun] pouvait être payé pour toucher les corps nus des gens.</RT_TalentSurgeon.degreeDatas.color9f40ffTalent_Surgeoncolor.description>
+
+</LanguageData>

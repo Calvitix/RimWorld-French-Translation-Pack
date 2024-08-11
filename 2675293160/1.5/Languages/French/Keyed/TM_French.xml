@@ -1,0 +1,2301 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- Notification messages  -->
+<TM_NotEnoughMana>{0} a besoin de plus de mana pour lancer ce sort.</TM_NotEnoughMana>
+<TM_NotEnoughBlood>{0} n'a pas sacrifié assez de sang pour lancer ce sort.</TM_NotEnoughBlood>
+<TM_NotEnoughMaxMana>{0} n'a pas les réserves de mana pour maintenir {1}</TM_NotEnoughMaxMana>
+<TM_NotEnoughStamina>{0} n'a pas assez d'endurance pour exécuter cette capacité.</TM_NotEnoughStamina>
+<TM_NotEnoughPsionicEnergy>{0} n'a pas assez d'énergie psionique pour {1}.</TM_NotEnoughPsionicEnergy>
+<TM_NotEnoughChi>{0} n'a pas assez de ch'i pour exécuter cette capacité.</TM_NotEnoughChi>
+<TM_NotEnoughEnergy>{0} n'a pas assez de {1} pour utiliser cette capacité.</TM_NotEnoughEnergy>
+<TM_NoRequiredNeed>{0} ne possède pas {1} besoin requis pour exécuter cette capacité.</TM_NoRequiredNeed>
+<TM_NoRequiredHediff>{0} n'a pas l'effet de santé {1} requis pour exécuter cette capacité.</TM_NoRequiredHediff>
+<TM_NoRequiredInspiration>{0} n'a pas l'inspiration {1} nécessaire pour exécuter cette capacité.</TM_NoRequiredInspiration>
+<TM_NotInspired>{0} n'est pas inspiré.</TM_NotInspired>
+<MentalStateByPsyker>{0} surmonté par un assaut psychique.</MentalStateByPsyker>
+
+<TM_InvalidTarget>{0} n'a pas trouvé de cible valide pour la capacité {1}.</TM_InvalidTarget>
+<InvalidPortal>Emplacement du portail non valide - la position de la cible et toutes les positions adjacentes, doivent être valides et libre de tout débris.</InvalidPortal>
+<InvalidMine>Emplacement de la mine invoquée invalide - la position de la cible doit être valide et libre de tout débris.</InvalidMine>
+<InvalidSummon>Tentative d'invocation à un endroit non valide - la position cible doit être valide et libre de tout débris.</InvalidSummon>
+<PylonDeSpawn>Le mana qui maintenait le pylône défensif a expiré et le pylône s'est dissous.</PylonDeSpawn>
+<MineDeSpawn>Le mana qui maintenait la mine s'est détérioré et elle s'est dissoute en toute sécurité.</MineDeSpawn>
+<MinionFled>L'un de vos serviteurs a fui vers son plan d'existence.</MinionFled>
+<NotArcaneBook>Le type de livre n'est pas reconnu comme une écriture arcane !</NotArcaneBook>
+<NotGiftedPawn>{0} ne possède pas le trait de caractère "Doué en magie" et ne peut pas utiliser cet objet.</NotGiftedPawn>
+<NotCombatBook>Le type de livre n'est pas reconnu comme une forme de combat !</NotCombatBook>
+<NotPhyAdeptPawn>Le colon ne possède pas le trait Physically Adept et ne peut pas apprendre cette forme de combat.</NotPhyAdeptPawn>
+<CannotLearnSpell>Le sort ne peut pas être appliqué à ce colon.</CannotLearnSpell>
+<CannotLearnSkill>Le sort ne peut pas être appliqué à ce colon.</CannotLearnSkill>
+<NotMageToLearnSpell>Le colon n'est pas en accord avec les forces arcaniques et ne peut pas apprendre le contenu de ce parchemin.</NotMageToLearnSpell>
+<NotFighterToLearnSkill>Le colon n'est pas entraîné à une forme de combat et ne peut pas appliquer les techniques de ce parchemin.</NotFighterToLearnSkill>
+<InvalidBattery>Le sort a échoué, il n'a pas pu détecter un terrain commun avec le bâtiment (pas une batterie).</InvalidBattery>
+<NotABuilding>Échec du sort : la cible n'était pas un bâtiment.</NotABuilding>
+<NotRightTerrainType>Impossible de transformer ce type de terrain.</NotRightTerrainType>
+<TerraformFailed>Impossible de transformer la terre.</TerraformFailed>
+<TerraformNotSandOrGravel>Impossible de transformer le terrain, il doit s'agir de sable ou de gravier.</TerraformNotSandOrGravel>
+<PortalCollapseFinal>Le portail s'est effondré !</PortalCollapseFinal>
+<PortalCollapseIn>Le portail s'effondre dans {0} seconde{0_multiple ? s : }.</PortalCollapseIn>
+<InvalidTargetLocation>Emplacement de la cible non valide.</InvalidTargetLocation>
+<MustHaveRangedWeapon>{0} n'a pas d'arme à distance valide équipée. {0} doit équiper une arme à distance pour utiliser cette compétence.</MustHaveRangedWeapon>
+<MustBeUnarmed>{0} doit être désarmé pour exécuter {1}</MustBeUnarmed>
+<MustHaveGunpowderWeapon>{0} n'est pas équipé d'une arme à distance valide. {0} doit équiper une arme plus avancée pour utiliser cette compétence.</MustHaveGunpowderWeapon>
+<MustHaveMeleeWeapon>{0} n'a pas d'arme de mêlée valide équipée. {0} doit équiper une arme de mêlée pour utiliser cette compétence.</MustHaveMeleeWeapon>
+<TM_ShieldBlockingPowers>{0} doit déséquiper {1} pour utiliser cette capacité.</TM_ShieldBlockingPowers>
+<TM_OutOfRange>La cible est hors de portée.</TM_OutOfRange>
+<TM_OutOfLOS>La capacité a échoué, la cible n'était pas visible pour {0}.</TM_OutOfLOS>
+<TM_NothingToRegenerate>Aucune cible valide trouvée pour la Régénération.</TM_NothingToRegenerate> 
+<TM_CureDiseaseTypeFail>Impossible de guérir ce type de maladie.</TM_CureDiseaseTypeFail>
+<TM_CantSummonSelf>Impossible d'invoquer soi-même.</TM_CantSummonSelf>
+<TM_UndeadCollapsed>{0} n'a pas assez de mana pour maintenir {1}. {1} s'est désintégré en mana pour reconstituer {0}.</TM_UndeadCollapsed>
+<TM_ResistedSpell>Résisté !</TM_ResistedSpell>
+<TM_CannotUseOnLiving>Ce sort ne peut pas être utilisé sur des vivants.</TM_CannotUseOnLiving>
+<TM_CannontConsumeCorpseType>Impossible de consommer ce type de cadavre.</TM_CannontConsumeCorpseType>
+<TM_InvalidCorpseType>Le type de cadavre n'est pas valide pour Consommer cadavre.</TM_InvalidCorpseType>
+<TM_Learn>Prendre</TM_Learn>
+<TM_GatewayBeyondMaximumRange>La case ciblée est hors de portée de la Porte.</TM_GatewayBeyondMaximumRange>
+<TM_InvalidGatewaySelection>Case ciblée non valide pour la Gateway.</TM_InvalidGatewaySelection>
+<TM_InvalidGatewayNotOccupied>La Porte ne peut être utilisée que sur des cases de carte occupées par des colons.</TM_InvalidGatewayNotOccupied>
+<TM_Exception>Une exception a été produite par {0} alors qu'il essayait de lancer {1} - restauration du mana et abandon de la tentative de la capacité.</TM_Exception>
+<TM_ExceptionClose>Une exception a été produite en essayant de fermer {0} - fin de la capacité.</TM_ExceptionClose>
+<TM_ExceptionTick>Une exception a été produite pendant {0} - la capacité se termine immédiatement.</TM_ExceptionTick>
+<TM_InvalidResurrection>{0} n'a pas pu trouver de cible valide pour Résurrection.</TM_InvalidResurrection>
+<TM_ResurrectionTargetExpired>Résurrection ne peut pas restaurer ce corps, il s’est décomposé et ne peut plus contenir de vie.</TM_ResurrectionTargetExpired>
+<MustHaveBow>{0} est armé {1}, {0} doit utiliser un arc pour utiliser cette capacité.</MustHaveBow>
+<TM_BondedAnimalRelease>Le lien entre {0} et {1} a pris fin et {0} a disparu dans la nature.</TM_BondedAnimalRelease>
+<TM_BondedAnimalReleaseToColony>Le lien entre {0} et {1} est terminé mais {0} a choisi de rester dans la colonie.</TM_BondedAnimalReleaseToColony>
+<TM_AnimalIncapableOfBond>{0} n'a pas l'intelligence de former un lien avec {1}.</TM_AnimalIncapableOfBond>
+<TM_AnimalAlreadyHasBond>{0} a déjà formé un lien avec un autre rôdeur.</TM_AnimalAlreadyHasBond>
+<TM_FailedRangerBond>{1} n'a pas réussi à se lier avec {0} - {2}&#37; chance</TM_FailedRangerBond>
+<TM_RangerNotExperienced>{1} est incapable d'établir un lien avec {0}. {0} has a wildness of {2}&#37; et {1} ne peut se lier qu'avec une créature de {3}&#37; ou moins. Elle peut être augmentée en investissant des points dans "Empathie animale".</TM_RangerNotExperienced>
+<TM_TooManyTraps>{0} est limité à {1} pièges, supprimant le plus ancien.</TM_TooManyTraps>
+<TM_SummonedCreatureLimitExceeded>{0} a dépassé le nombre maximal de créatures invoquées, annulant l'invocation la plus ancienne.</TM_SummonedCreatureLimitExceeded>
+<TM_NoMinionToDismiss>{0} n'a pas de serviteurs invoqués.</TM_NoMinionToDismiss>
+<TM_NoGuardianSpiritToDismiss>{0} n'a pas d'Esprit gardien à renvoyer.</TM_NoGuardianSpiritToDismiss>
+<TM_NoValidUndeadToDismiss>La cible n'est pas une cible valide pour renvoyer les morts-vivants.</TM_NoValidUndeadToDismiss>
+<TM_CannotUseGemOfInsight>{0} possède déjà un trait magique, et un combattant ou est mort-vivant et ne peut pas utiliser cette gemme.</TM_CannotUseGemOfInsight>
+<TM_ItemUseFailed>Échec de tentative d’utilisation d’un objet, raison : {0}</TM_ItemUseFailed>
+<TM_SunlightCollapse>Une lumière solaire s'est effondrée, {0} n'a pas pu la soutenir.</TM_SunlightCollapse>
+<TM_DamageAbsorbedAll>Absorbé</TM_DamageAbsorbedAll>
+<TM_DamageAbsorbed>Absorbé ({0} - {1})</TM_DamageAbsorbed>
+<TM_NotSocialCapable>{0} est incapable d'avoir une activité sociale et ne peut devenir un barde.</TM_NotSocialCapable>
+<TM_CleaveChance>Chance d'Enchaînement {0}&#37;</TM_CleaveChance>
+<TM_WhirlwindDamage>Dégâts du Tourbillon par coup : {0}</TM_WhirlwindDamage>
+<TM_WeaponDamage>{0} dégâts : {1}</TM_WeaponDamage>
+<TM_CritChance>{0} coup critique : {1}</TM_CritChance>
+<TM_AntiArmorDamage>{0} dégâts : {1}; dégâts supplémentaires aux mécanoïdes : {2}</TM_AntiArmorDamage>
+<TM_ArrowStormDamage>{0} dégâts : {1}; précision : {2}&#37;</TM_ArrowStormDamage>
+<TM_LastManaGainPct>Gain en mana : {0}/5s</TM_LastManaGainPct>
+<TM_LastStaminaGainPct>Gain d'endurance : {0}/5s</TM_LastStaminaGainPct>
+<TM_AssaultPending>Les élémentaires arrivent par la brèche !</TM_AssaultPending>
+<TM_MimicFailed>{0} est incapable de copier une capacité de cette cible.</TM_MimicFailed>
+<TM_CannotPossess>Il est impossible que {0} possède un {1}.</TM_CannotPossess>
+<TM_CannotPossessNow>Il n'est pas possible pour {0} de posséder {1} dans son état actuel.</TM_CannotPossessNow>
+<TM_PossessedCaughtStealing>{0} vous reproche d'avoir essayé de voler {1} !\n\nIls ont condamné votre infâme manigance et votre vol et sont désormais hostiles à votre faction.</TM_PossessedCaughtStealing>
+<TM_LetterLabelPossessedCaughtStealing>Attrapé en train de voler !</TM_LetterLabelPossessedCaughtStealing>
+<TM_CannotSoulBondUndead>{0} ne peut pas créer un lien d'âme avec un mort-vivant.</TM_CannotSoulBondUndead>
+<TM_CannotSoulBondThing>Impossible de créer un lien d'âme avec la cible. {0} ne peut bénéficier d'un lien d'âme qu'avec un colon vivant possédant une âme familière.</TM_CannotSoulBondThing>
+<TM_NothingToDominate>Aucune cible valide trouvée pour Dominer.</TM_NothingToDominate>
+<TM_CannotSoulBondUnwilling>Impossible de créer un lien d'âme avec {1}. {0} ne peut former un lien d'âme qu'avec un colon consentant (de la même faction).</TM_CannotSoulBondUnwilling>
+<TM_CannotSoulBondAnother>{0} ne peut pas créer un lien d'âme avec {1}. {1} entretient déjà ce type de lien avec un autre.</TM_CannotSoulBondAnother>
+<TM_PsychicSensitivity>Sensibilité psychique : {0}</TM_PsychicSensitivity>
+<TM_WarlockEmpathyDesc>Je peux ressentir les émotions de ceux qui m'entourent.</TM_WarlockEmpathyDesc>
+<TM_WarlockEmpathyOverwhelmed>Les émotions de ceux qui m'entourent sont écrasantes, je dois m'éloigner de tous ces gens ou trouver un moyen de mettre ces émotions en sourdine.</TM_WarlockEmpathyOverwhelmed>
+<TM_Icon_Undead>Mort-vivant animé</TM_Icon_Undead>
+<TM_Icon_Mage>Classe magique</TM_Icon_Mage>
+<TM_Icon_Fighter>Classe de combat</TM_Icon_Fighter>
+<TM_Icon_Custom>Classe personnalisée</TM_Icon_Custom>
+<TM_NotPsychicSensitive>{0} a tenté de devenir psionique mais ne semble pas avoir la sensibilité psychique requise pour manifester un pouvoir psionique.</TM_NotPsychicSensitive>
+<TM_TooManyStoneskins>{0} peut seulement soutenir des défenses en peau de pierre sur {1} colons. {0} défend actuellement {2} avec une peau de pierre.</TM_TooManyStoneskins>
+<TM_NoSpritesToDismiss>{0} n'a pas de lutin de terre détectés - réinitialisation des paramètres de capacité.</TM_NoSpritesToDismiss>
+<TM_SentinelDeSpawn>{0} est réduit en poussière car pas de mana pour le soutenir.</TM_SentinelDeSpawn>
+<TM_TooManySentinels>{0} est limit{0_gender ? é : ée } à {1} sentinelle{1_multiple ? s : }, supprime la sentinelle la plus ancienne.</TM_TooManySentinels>
+<TM_NoSpawnSentinelOnBuilding>{0} ne peut pas créer une sentinelle sur un bâtiment existant.</TM_NoSpawnSentinelOnBuilding>
+<TM_SentinelCannotReturn>La sentinelle appartenant à {0} n'a pas pu retourner à sa position désignée, elle n'est plus accessible. La sentinelle s'est dissipée en poussière.</TM_SentinelCannotReturn>
+<TM_AugmentationsToggleDesc>Activer ou Désactiver l'utilisation automatique des augmentations. Si désactivé, le psionique n'utilisera jamais les compétences d'augmentation.</TM_AugmentationsToggleDesc>
+<TM_AugmentationsEnabled>Augmentation activée</TM_AugmentationsEnabled>
+<TM_AugmentationsDisabled>Augmentation désactivée</TM_AugmentationsDisabled>
+<TM_MindAttackToggleDesc>Activer ou Désactiver l'utilisation automatique des attaques mentales.</TM_MindAttackToggleDesc>
+<TM_MindAttackEnabled>Attaque mentale activée</TM_MindAttackEnabled>
+<TM_MindAttackDisabled>Attaque mentale désactivée</TM_MindAttackDisabled>
+<TM_CleaveToggleDesc>Activer ou Désactiver l'utilisation automatique de Enchaînement du Gladiateur ; cette capacité ne se déclenche qu'en combat de mêlée.</TM_CleaveToggleDesc>
+<TM_CleaveEnabled>Enchaînement activé</TM_CleaveEnabled>
+<TM_CleaveDisabled>Enchaînement désactivé</TM_CleaveDisabled>
+<TM_CQCToggleDesc>Activer ou Désactiver l'utilisation automatique du Combat rapproché ; cette capacité ne se déclenche qu'en combat de mêlée.</TM_CQCToggleDesc>
+<TM_CQCEnabled>Combat rapproché activé</TM_CQCEnabled>
+<TM_CQCDisabled>Combat rapproché désactivé</TM_CQCDisabled>
+<TM_CanNotTeachMagic>{0} est incapable de mentorer {1} en magie puisque {1} n'est pas un mage.</TM_CanNotTeachMagic>
+<TM_CanNotTeachCombat>{0} ne peut pas entraîner {1} au combat puisque {1} n'est pas un combattant.</TM_CanNotTeachCombat>
+<TM_CanNotTeachMagicDislike>{0} refuse de mentorer {1} en magie en raison de l'opinion que {0} a de {1}.</TM_CanNotTeachMagicDislike>
+<TM_CanNotTeachCombatDislike>{0} refuse d'entraîner {1} au combat en raison de l'opinion que {0} a de {1}.</TM_CanNotTeachCombatDislike>
+<TM_TechnoBitToggleDesc>Activer ou Désactiver le techno-bit. Lorsqu'il est désactivé, le techno-bit n'effectue aucune action.</TM_TechnoBitToggleDesc>
+<TM_TechnoBitEnabled>Techno-Bit activé</TM_TechnoBitEnabled>
+<TM_TechnoBitDisabled>Techno-Bit désactivé</TM_TechnoBitDisabled>
+<TM_ElementalShotToggleDesc>Activer ou Désactiver le tir élémentaire. Lorsqu'il est activé, les projectiles d'armes auront occasionnellement des propriétés élémentaires attachées au projectile. Les tirs élémentaires consomment de petites quantités de mana.</TM_ElementalShotToggleDesc>
+<TM_AnimalHasAllegience>Cet animal est déjà engagé dans une autre cause.</TM_AnimalHasAllegience>
+<TM_TechnoBitRepair>Réparation</TM_TechnoBitRepair>
+<TM_TechnoBitRepairDesc>Activer la fonction de réparation du techno-bit.</TM_TechnoBitRepairDesc>
+<TM_FoundNoReplicateTarget>Impossible de définir un objet valide à répliquer.</TM_FoundNoReplicateTarget>
+<TM_FoundNoReplicateRecipe>Impossible de définir un design ou une recette pour {0}.</TM_FoundNoReplicateRecipe>
+<TM_NotEnoughHate>{0} n'a pas assez de Haine pour utiliser {1}.</TM_NotEnoughHate>
+<TM_ReplicatedUnrecognizedIngredient>{0} contient un ingrédient non spécifié et ne peut être dupliqué.</TM_ReplicatedUnrecognizedIngredient>
+<TM_NoExternalBodyPartsCanBleed>{0} n'a pas de partie du corps où prélever du sang.</TM_NoExternalBodyPartsCanBleed>
+<TM_NoThingToTransmutate>{0} n'a trouvé aucune ressource à transmuter à l'endroit ciblé.</TM_NoThingToTransmutate>
+<TM_UnableToTransmutate>{0} est incapable de transmuter {1}.</TM_UnableToTransmutate>
+<TM_TransmutationLostCohesion>La matière de {0} a perdu sa cohésion pendant la transmutation et s'est désintégrée.</TM_TransmutationLostCohesion>
+<TM_CancelPolymorph>Annuler Changeforme</TM_CancelPolymorph>
+<TM_CancelPolymorphDesc>Le lanceur de sorts retrouve sa forme initiale avant le changement de forme.</TM_CancelPolymorphDesc>
+<TM_NoMeleeWeaponToEnchant>Aucune arme de mêlée trouvée sur {0} à enchanter.</TM_NoMeleeWeaponToEnchant>
+<TM_CannotEnchantArtifact>{0} est incapable d'enchanter {1}, cet objet ne peut plus être enchanté.</TM_CannotEnchantArtifact>
+<TM_BrokenOutOfMentalState>{0} a échappé à l'état mental {1} avec l'aide d`une protection mentale.</TM_BrokenOutOfMentalState>
+<TM_InsufficientMaterialForArtifact>Pas assez de {0} pour créer une pierre d'enchantement.</TM_InsufficientMaterialForArtifact>
+<TM_CannotCreateStone>{0} n'est pas encore capable de créer un artefact à partir de {1}.</TM_CannotCreateStone>
+<TM_CannotMimicBloodMage>Les capacités des mages de sang ne peuvent pas être copiées.</TM_CannotMimicBloodMage>
+<TM_ViolentCannotEquip>{0} est capable de violence et ne peut pas équiper {1}</TM_ViolentCannotEquip>
+<TM_TraitorOrbRecruit>{0} a réussi à convaincre {1} de rejoindre votre cause en utilisant l`Orbe du Traître.\n\nL'utilisation d'une vile magie contre {2} a provoqué la colère de {3} et a diminué votre réputation auprès d'eux de {4} à {5}.</TM_TraitorOrbRecruit>
+<TM_InsufficientManaForJob>Pas assez de mana pour commencer le travail : besoin de 50, en a {0}</TM_InsufficientManaForJob>
+<TM_NoTraitsApplied>Ne pouvant appliquer aucun trait à {0}, l'Orbe des Âmes ne peut appliquer que des traits qui n'entrent pas en conflit avec des traits préexistants.</TM_NoTraitsApplied>
+<TM_NothingEnchanted>{0} n'a pas pu améliorer les enchantements sur {1} en utilisant {2}</TM_NothingEnchanted>
+<TM_Taunting>Provoquer !</TM_Taunting>
+<TM_CeaseToExist>{0} a cessé d'exister...</TM_CeaseToExist>
+<TM_EndingGameCondition>{0} a terminé avec succès {1}.</TM_EndingGameCondition>
+<TM_GameConditionChanged>{0} a changé par inadvertance {1} en {2} !</TM_GameConditionChanged>
+<TM_GameConditionMadePermanent>Le {0} est devenu permanent.</TM_GameConditionMadePermanent>
+<TM_GameConditionAdded>{0} a provoqué {1} en tentant de modifier {2}.</TM_GameConditionAdded> 
+<TM_AlterGameConditionFailed>{0} n'a pas réussi à modifier {1}.</TM_AlterGameConditionFailed>
+<TM_PredictionFeelsConfident>{0} est convaincu que {1} a évité {2}.</TM_PredictionFeelsConfident>
+<TM_PredictionFeelsUnsure>{0} n'est pas sûr que {1} ait eu un effet sur la prédiction de {2}.</TM_PredictionFeelsUnsure>
+<TM_PredictionUnease>{0} se sent mal à l'aise face aux {1} changements apportés à la {2} prédiction, peut-être que quelque chose a mal tourné...</TM_PredictionUnease>
+<TM_PredictionTerrified>{0} est terrifié, {1} est sûr que quelque chose de désastreux va se produire...</TM_PredictionTerrified>
+<TM_StatsReport_Undead>Mort-vivant : Pas de valeur</TM_StatsReport_Undead>
+<TM_IncompatibleWeapon>Arme incompatible avec cette capacité.</TM_IncompatibleWeapon>
+<TM_BondedPawnNotSpawned>Impossible de relier au colon lié {0}, âme en transition.</TM_BondedPawnNotSpawned>
+<TM_WildSurge>Afflux sauvage : {0} !</TM_WildSurge>
+<TM_CasterMute>{0} ne peut pas lancer de sorts lorsqu'il est muet.</TM_CasterMute>
+<TM_IgnoredOrder>Ordre ignoré</TM_IgnoredOrder>
+<TM_MustHaveWeaponType>{0} est armé d'un {1}, {0} doit équiper un {2} pour utiliser cette capacité.</TM_MustHaveWeaponType>
+<TM_SuppressingFireCount>Coups de feu : {0}</TM_SuppressingFireCount>
+<TM_BuckshotFireCount>Balles de chevrotine : {0}</TM_BuckshotFireCount>
+<TM_LendColonist_UndeadFail>Vous nous envoyez des cadavres - C'est une plaisanterie !?</TM_LendColonist_UndeadFail>
+<TM_AlreadyLearnedAbility>{0} a déjà appris {1}.</TM_AlreadyLearnedAbility>
+<TM_NotEnoughManaToSustain>{0} n'a pas assez de mana pour maintenir {1}.</TM_NotEnoughManaToSustain>
+<TM_CannotCastUnderRoof>{0} ne peut pas utiliser {1} sous un toit.</TM_CannotCastUnderRoof>
+<TM_UnableToTravel>Impossible de se rendre à cette destination.</TM_UnableToTravel>
+<TM_SelectTargetOnMap>{0}: choisir la cible sur la carte...</TM_SelectTargetOnMap>
+<TM_AbandoningMap>Vos colons abandonnent {0}, voulez-vous le retirer de la carte ?</TM_AbandoningMap>
+<TM_IncompatibleWeaponType>{0} ne peut pas utiliser {1} - arme incompatible.</TM_IncompatibleWeaponType>
+<TM_SpiritAnimalChange>L'esprit animal de {0} est passé de {1} à {2}.</TM_SpiritAnimalChange>
+<TM_InvalidAction>{0} ne peut pas utiliser {1} - paramètres invalides.</TM_InvalidAction>
+<TM_InvalidAbility>{0} n'a pas pu utiliser {1}.</TM_InvalidAbility>
+<TM_SlaveRefuses>{0} refuse d'effectuer cette action.</TM_SlaveRefuses>
+<TM_SlaveScribeFail>Le {0} a été détruit par le {1} pendant le processus de marquage.</TM_SlaveScribeFail>
+<TM_MessageRitualRoleMustBeColonistOrPrisoner>{0} doit être un colon ou un prisonnier.</TM_MessageRitualRoleMustBeColonistOrPrisoner>
+<TM_MessageRitualRoleMustBeColonist>{0} doit être un colon.</TM_MessageRitualRoleMustBeColonist>
+<TM_MessageRitualRoleMustBeVoidseeker>{0} doit être un chercheur du vide.</TM_MessageRitualRoleMustBeVoidseeker>
+<TM_MessageRitualRoleMustBeMage>{0} doit être un mage.</TM_MessageRitualRoleMustBeMage>
+<TM_MessageRitualRoleMustNotBeMage>Impossible, {0} est déjà un Mage.</TM_MessageRitualRoleMustNotBeMage>
+<TM_MessageRitualRoleMustNotBeFighter>Impossible, {0} est déjà un Combattant.</TM_MessageRitualRoleMustNotBeFighter>
+<TM_MessageRitualRoleCannotHaveTrait>{0} possède déjà le trait {1}.</TM_MessageRitualRoleCannotHaveTrait>
+<TM_MessageRitualRoleMustHaveTrait>{0} doit posséder le trait {1}.</TM_MessageRitualRoleMustHaveTrait>
+<TM_DoesNotHaveArcanePathwayInspiration>{0} n'a plus l'inspiration.</TM_DoesNotHaveArcanePathwayInspiration>
+<TM_MessageRitualRoleMustBeInspiredWith>{0} n'est pas inspiré par {1}.</TM_MessageRitualRoleMustBeInspiredWith>
+<TM_MessageRitualRoleCannotBeUndead>{0} ne peut pas être mort-vivant.</TM_MessageRitualRoleCannotBeUndead>
+<TM_RuneCarving>gravure runique</TM_RuneCarving>
+<TM_ArcaneTatoo>tatouage magique</TM_ArcaneTatoo>
+<TM_MaxGolemUpgradeReached>L’amélioration maximum {0} a déjà été atteinte ; les ressources ont été restituées.</TM_MaxGolemUpgradeReached>
+<TM_NoGolemPartToRestore>Il n'y avait pas de pièces manquantes à remplacer pour {0} ; les ressources ont été restituées.</TM_NoGolemPartToRestore>
+<TM_GolemBillUnsuccessful>Impossible d'achever la recette du golem {0} ; les ressources ont été restituées.</TM_GolemBillUnsuccessful>
+<TM_GolemCannotReturn>Le golem n'a pas pu retourner à l'endroit prévu, il n'est pas accessible ou est occupé.</TM_GolemCannotReturn>
+<TM_GolemPartReplaced>L'amélioration {0} a remplacé l'amélioration {1} ; une seule amélioration de ce type peut occuper le {2}.</TM_GolemPartReplaced>
+<TM_UnfinishedThingNoProduct>Inachevé {0}</TM_UnfinishedThingNoProduct>
+<TM_NoPassionsToTransfer>Aucune passion valable n'a été trouvée pour être transférée de {0} à {1}.</TM_NoPassionsToTransfer>
+<TM_MustHaveInspiration>{0} doit avoir une inspiration pour utiliser {1}.</TM_MustHaveInspiration>
+<TM_BonusDamage>dégâts bonus : {0}</TM_BonusDamage>
+<TM_NoRangedAttack>aucune attaque à distance</TM_NoRangedAttack>
+<TM_GolemLight>Lumière</TM_GolemLight>
+<TM_GolemLightDesc>Activer / Désactiver</TM_GolemLightDesc>
+<TM_GolemMinimumToActivate>Énergie insuffisante pour l'activer : {0} sur {1}</TM_GolemMinimumToActivate>
+<TM_GolemChargesRemaining>{0} actions restantes</TM_GolemChargesRemaining>
+<TM_AlreadyHasSymbiote>{0} possède déjà un symbiote.</TM_AlreadyHasSymbiote>
+<TM_CannotAlterWeatherType>Impossible de créer un type de temps alternatif à partir de {0}</TM_CannotAlterWeatherType>
+<TM_UnableToLearnAdvancedClass>{0} n'a pas pu appliquer {1} car {2}</TM_UnableToLearnAdvancedClass>
+<TM_LearnFail_NotClass>aucune classe de base trouvée</TM_LearnFail_NotClass>
+<TM_LearnFail_NoRequiredTrait>aucun trait requis trouvé</TM_LearnFail_NoRequiredTrait>
+<TM_LearnFail_DisallowedTrait>d'un trait contradictoire</TM_LearnFail_DisallowedTrait>
+
+<!-- Spirit Backstories -->
+<TM_SpiritVerbatum>Esprit</TM_SpiritVerbatum>
+<TM_AncientSpiritVerbatum>Esprit ancien</TM_AncientSpiritVerbatum>
+<TM_VengefulSpiritVerbatum>Esprit vengeur</TM_VengefulSpiritVerbatum>
+<TM_LostSpiritVerbatum>Esprit perdu</TM_LostSpiritVerbatum>
+<TM_RegretSpiritVerbatum>Esprit de regret</TM_RegretSpiritVerbatum>
+
+<TM_BaseSpiritDesc>Un esprit errant, ancré dans ce royaume par une force inconnue. Les événements entourant les origines de cet esprit sont inconnus, mais suffisamment puissants pour que l'esprit cherche des réponses, la justice ou la rédemption auprès des vivants.</TM_BaseSpiritDesc>
+<TM_AncientSpiritDesc>Cet esprit a existé pendant d'innombrables âges et il ne se souvient plus de son but. Les esprits anciens poursuivent leurs propres fins et sont devenus des maîtres dans le contrôle de l'énergie spirituelle. L'énergie spirituelle maximum est augmentée de 50.</TM_AncientSpiritDesc>
+<TM_VengefulSpiritDesc>Les esprits vengeurs sont pleins de rancune et de haine, ne souhaitant qu'infliger leur misère aux vivants. Les esprits vengeurs sont capables d'exercer plus de puissance pendant la distorsion et la tempête d'esprits, mais il est plus difficile de s'harmoniser avec eux lorsqu'ils possèdent un corps vivant. Augmente le taux d'attaque de tempête d'esprits de 25% et le bonus de dégâts de distorsion d'esprit de 6%. Réduit la compatibilité de 1.</TM_VengefulSpiritDesc>
+<TM_LostSpiritDesc>Les esprits perdus errent dans le royaume dans un état constant d'angoisse existentielle, incapables de percevoir leur but. Les esprits perdus s'attachent facilement à la cause d'autrui et s'harmonisent plus facilement avec les esprits apparentés. Ils sont également capables de renforcer la puissance de la capacité de Rassemblement d'esprits. Augmente la durée, le rayon, les cibles maximum et les bonus de Rassemblement d'esprits de 10%. Augmente la compatibilité de 2.</TM_LostSpiritDesc>
+<TM_RegretSpiritDesc>Les esprits de regret sont encore capables de se souvenir de leur but en tant qu'esprit, mais ils n'ont pas pu réparer leurs erreurs avant qu'il ne soit trop tard. Ils errent maintenant dans le monde en tant qu'esprit, pleins de tristesse et de regret, cherchant toujours un moyen de remplir leur mission. Les esprits de regret améliorent la capacité de drain d'esprit de 20%.</TM_RegretSpiritDesc>
+
+<!-- Surgery Failed letters -->
+<LetterLabelRegrowthSurgeryFail>Échec de chirurgie</LetterLabelRegrowthSurgeryFail>
+<LetterRegrowthSurgeryFail>{0} vient d'essayer d'effectuer {1} sur {2} mais a échoué car {4} {3}.\n\nPour réussir cette opération, les conditions suivantes doivent être remplies :\n\n1. Le chirurgien doit être un Druide.\n2. Le druide doit avoir appris le sort Rétablissement.\n3. Vous devez avoir une graine de vie comme ingrédient pour effectuer la chirurgie.\n4. Le druide doit avoir 90 de mana ou plus au moment de l'opération.\n5. Une fois toutes ces conditions remplies, le druide doit encore réussir l'opération, ce qui dépend de sa compétence en Médecine.\n\nBonne chance, mage !</LetterRegrowthSurgeryFail>
+<TM_NotMagicUser>n'est pas un utilisateur de magie</TM_NotMagicUser>
+<TM_NoRegrowthSpell>n'a pas appris le sort Rétablissement</TM_NoRegrowthSpell>
+<TM_InsufficientManaForSurgery>n'avait pas assez de mana pour terminer l'opération - 90 ou plus est requis</TM_InsufficientManaForSurgery>
+
+<LetterLabelRuneCarvingFail>Échec de gravure de rune</LetterLabelRuneCarvingFail>
+<LetterRuneCarvingFail>{0} vient de tenter d'effectuer {1} sur {2} mais a échoué car {4} {3}.\n\nPour réussir à graver une rune, les conditions suivantes doivent être remplies :\n\n1. Le chirurgien doit être un Mage.\n2. Le mage doit avoir appris la capacité Gravure de rune.\n3. Vous devez avoir au moins {5} de mana pour terminer la gravure de rune.\n4. Le mage doit être capable de faire de l'art et de l'artisanat.\n5. Une fois toutes ces conditions remplies, le mage doit encore réussir la gravure - les chances de réussite de la gravure de runes commencent à 70% et augmentent en fonction de la compétence en Artisanat, Artiste et de la capacité de Gravure de rune.</LetterRuneCarvingFail>
+<TM_NoRuneCarvingSpell>est incapable de graver des runes</TM_NoRuneCarvingSpell>
+<TM_InsufficientManaForCarving>n'avait pas assez de mana pour terminer la gravure de rune - {0} nécessite {1} ou plus.</TM_InsufficientManaForCarving>
+<TM_RuneCarvingFailed>{0} n'a pas réussi à graver une rune pour {1}'s {2} - les chances de réussite étaient de {3}&#37;</TM_RuneCarvingFailed>
+<TM_CarvingFailedChance>Échec de la gravure de rune.</TM_CarvingFailedChance>
+
+<!-- Caravan Request letters -->
+<LetterLabelArcaneScriptCaravan>Demande de caravane</LetterLabelArcaneScriptCaravan>
+<LetterArcaneScriptCaravan>Une colonie voisine, {0}, vous contacte avec une demande commerciale spéciale. Ils aimeraient acheter :\n\n  {1}\n\nEn retour, ils offrent :\n\n  {2}\n\nCette demande expire dans : {3}\n\nSi vous voulez faire l'échange, envoyez une caravane avec les fournitures demandées. Vous pouvez consulter cette offre en sélectionnant {0} sur la carte du monde.</LetterArcaneScriptCaravan>
+
+<!-- Magic circle failed letters -->
+<LetterLabelRitualFail>Rituel échoué</LetterLabelRitualFail>
+<LetterRitualFail>Vos mages n'ont pas réussi à activer le rituel de groupe {0}. Ce rituel avait {1}&#37; de chances de succès. Toutes les ressources ont été perdues.</LetterRitualFail>
+<LetterRitualFailDamage>Vos mages n'ont pas réussi à activer le rituel de groupe {0} et ont subi un contrecoup de magie pour un maximum de {2} de dégâts. Ce rituel avait {1}&#37; de chances de réussite. Toutes les ressources ont été perdues.</LetterRitualFailDamage>
+
+<!-- Prediction letters -->
+<TM_PredictionLetter>Prédiction : {0}</TM_PredictionLetter>
+<TM_PredictionText>{0} a prédit qu'un {1} se produira dans les {2} prochaines heures.</TM_PredictionText>
+
+<!-- Mod Settings -->
+<XPMultiplier>Multiplicateur de gain d'XP des mages : </XPMultiplier>
+<NeedMultiplier>Multiplicateur de gain de mana : </NeedMultiplier>
+<AICanCast>L'IA utilise les sorts</AICanCast>
+<AIHardMode>IA en mode difficile</AIHardMode>
+<DeathRadius>IA rayon des représailles de la mort d'un Mage</DeathRadius>
+<AIMarking>L'IA marque les mages</AIMarking>
+<AIFighterMarking>L'IA marque les combattants</AIFighterMarking>
+<AIFriendlyMarking>Colons contrôlés par la marque</AIFriendlyMarking>
+<baseMageChance>Mage commun précurseur : </baseMageChance>
+<baseFighterChance>Combattant commun précurseur : </baseFighterChance>
+<advMageChance>Mage commun : </advMageChance>
+<advFighterChance>Combattant commun : </advFighterChance>
+<DeathExplosionMin>dégât minimum</DeathExplosionMin>
+<DeathExplosionMax>dégât maximum</DeathExplosionMax>
+<DeathExplosionField>{0}</DeathExplosionField>
+<MagicyteChance>Chance de trouver du magicite : </MagicyteChance>
+<showAbilitiesOnMultiSelect>Afficher les capacités lors de la sélection de plusieurs colons</showAbilitiesOnMultiSelect>
+<showMagicGizmo>Afficher mana/endurance/psi comme gadget</showMagicGizmo>
+<TM_enableAutocast>Activer "lancer-auto" (autocast)</TM_enableAutocast>
+<TM_queueAutocast>File d'attente pour lancer-auto</TM_queueAutocast>
+<TM_queueAutocastDesc>Les travaux de diffusion automatique non violents et non rédigés seront mis en file d'attente comme le prochain travail à effectuer au lieu d'interrompre le travail en cours. Les capacités mises en file d'attente peuvent devenir invalides ou sous-optimales, en fonction de la durée du délai. Certaines capacités, comme Transfert, Frappe de phase, ou les tâches basées sur des zones, sont exemptées.</TM_queueAutocastDesc>
+<TM_autocastUndraftedThreshold>Énergie minimum pour lancer-auto (non mobiliser) : </TM_autocastUndraftedThreshold>
+<TM_autocastDraftedThreshold>Énergie maximum pour lancer-auto (mobiliser) : </TM_autocastDraftedThreshold>
+<TM_autocastEvaluationFrequency>Fréquence d'évaluation pour lancer-auto : </TM_autocastEvaluationFrequency>
+<showLevelUpMessage>Afficher un message pour le gain de niveau</showLevelUpMessage>
+<showUndeadPawnChange>Changer l'apparence des colons morts-vivants</showUndeadPawnChange>
+<showUndeadAnimalChange>Changer l'apparence des animaux morts-vivants</showUndeadAnimalChange>
+<unrestrictedBloodTypesForBloodMagic>Groupes sanguins ignoré par la magie du sang</unrestrictedBloodTypesForBloodMagic>
+<showClassIconOnColonistBar>Afficher icône de classe dans la barre des colons</showClassIconOnColonistBar>
+<classIconSize>Taille de l'icône de classe : </classIconSize>
+<TM_AggressiveAICasting>L'IA est agressive sur les sorts</TM_AggressiveAICasting>
+<TM_ParacyteSoftCap>Calcul soft-cap : </TM_ParacyteSoftCap>
+<TM_ParacyteMagesCount>Les mages sont comptés dans le soft-cap (2ea)</TM_ParacyteMagesCount>
+<TM_UndeadUpkeepMultiplier>Coût en entretien des morts-vivants : </TM_UndeadUpkeepMultiplier>
+<TM_autocastAnimals>Le lancer-auto cible les animaux</TM_autocastAnimals>
+<TM_UnrestrictedWeaponCopy>Armes technologiques non restreintes</TM_UnrestrictedWeaponCopy>
+<TM_DeathRetaliationIsLethal>Représailles toujours mortelles</TM_DeathRetaliationIsLethal>
+<TM_DeathRetaliationChance>Chance de représailles en cas de mort : </TM_DeathRetaliationChance>
+<TM_DeathRetaliationDelay>Facteur de délais des représailles en cas de mort : </TM_DeathRetaliationDelay>
+<TM_shrinkIcons>Réduire les icônes</TM_shrinkIcons>
+<TM_CameraSnap>Centrer la caméra après une Téléportation</TM_CameraSnap>
+
+<!-- Mod Settings Class options -->
+<supportTraitChance>Favoriser les traits communs</supportTraitChance>
+<TM_ClassWarning>**Modification des paramètres de classe uniquement au début d'une nouvelle partie**</TM_ClassWarning>
+<TM_RequiresRestart>**Tout changement nécessite un redémarrage du jeu**</TM_RequiresRestart>
+<TM_ClassOptions>Classes activées</TM_ClassOptions>
+<TM_EnabledMages>Mages</TM_EnabledMages>
+<TM_EnabledFighters>Combattants</TM_EnabledFighters>
+<TM_Arcanist>Arcaniste</TM_Arcanist>
+<TM_FireMage>Mage de feu</TM_FireMage>
+<TM_IceMage>Mage de glace</TM_IceMage>
+<TM_LitMage>Mage de foudre</TM_LitMage>
+<TM_Geomancer>Géomancien</TM_Geomancer>
+<TM_Druid>Druide</TM_Druid>
+<TM_Paladin>Paladin</TM_Paladin>
+<TM_Priest>Prêtre</TM_Priest>
+<TM_Bard>Barde</TM_Bard>
+<TM_Summoner>Invocateur</TM_Summoner>
+<TM_Necromancer>Nécromancien</TM_Necromancer>
+<TM_Demonkin>Démonoïde</TM_Demonkin>
+<TM_Gladiator>Gladiateur</TM_Gladiator>
+<TM_Bladedancer>Danseur de lames</TM_Bladedancer>
+<TM_Sniper>Tireur d'élite</TM_Sniper>
+<TM_Ranger>Rôdeur</TM_Ranger>
+<TM_Faceless>Sans visage</TM_Faceless>
+<TM_Psionic>Psionique</TM_Psionic>
+<TM_Technomancer>Technomancien</TM_Technomancer>
+<TM_DeathKnight>Chevalier de la mort</TM_DeathKnight>
+<TM_BloodMage>Mage de sang</TM_BloodMage>
+<TM_Enchanter>Enchanteur</TM_Enchanter>
+<TM_Chronomancer>Chronomancien</TM_Chronomancer>
+<TM_Monk>Moine</TM_Monk>
+<TM_Wanderer>Vagabond</TM_Wanderer>
+<TM_Wayfarer>Voyageur</TM_Wayfarer>
+<TM_ChaosMage>Mage du chaos</TM_ChaosMage>
+<TM_Commander>Commandant</TM_Commander>
+<TM_SuperSoldier>Super-Soldat</TM_SuperSoldier>
+<TM_ArcaneConduit>Conduit magique</TM_ArcaneConduit>
+<TM_ManaWell>Puits de mana</TM_ManaWell>
+<TM_Boundless>Sans limite</TM_Boundless>
+<TM_Brightmage>Mage de lumière</TM_Brightmage>
+<TM_Shaman>Chaman</TM_Shaman>
+<TM_Shadow>Ombre</TM_Shadow>
+<TM_Golemancer>Golemancien</TM_Golemancer>
+<TM_Apothecary>Apothicaire</TM_Apothecary>
+<TM_Empath>Empathe</TM_Empath>
+<TM_Enlightened>Éclairé</TM_Enlightened>
+<TM_Cursed>Maudit</TM_Cursed>
+<TM_FaeBlood>Sang fae</TM_FaeBlood>
+<TM_GiantsBlood>Sang de géant</TM_GiantsBlood>
+<TM_CustomClasses>Classes personnalisées</TM_CustomClasses>
+
+<!-- Mod Settings event options -->
+<TM_EventOptions>Options d'événements</TM_EventOptions>
+<riftChallenge>Faille élémentaire difficulté :</riftChallenge>
+<lichChallenge>Liche errante difficulté :</lichChallenge>
+<demonChallenge>Assaut de démons difficulté :</demonChallenge>
+
+<!-- Mod settings Golem options -->
+<TM_GolemOptions>Options du Golem</TM_GolemOptions>
+<TM_GolemShowDormantFrameWhileActive>Position de sommeil</TM_GolemShowDormantFrameWhileActive>
+<TM_GolemShowDormantFrameWhileActiveDesc>Afficher le cadre d'un golem à sa position de sommeil alors que celui-ci est actif.</TM_GolemShowDormantFrameWhileActiveDesc>
+<TM_GolemShowColonistBar>Afficher les golems sur la barre des colons</TM_GolemShowColonistBar>
+<TM_GolemShowColonistBarDesc>Si activé, les golems apparaîtront sur la barre des colons avec les autres colons. S'applique à tous les types de golems.</TM_GolemShowColonistBarDesc>
+
+<!-- Mod setings faction options -->
+<TM_FactionOptions>Options de faction</TM_FactionOptions>
+<!-- Mod Settings extra options -->
+<TM_ExtraOptions>Options supplémentaires</TM_ExtraOptions>
+
+<!-- Magic Ability Point Descriptions -->
+<TM_global_regen_pwr>   Clarté</TM_global_regen_pwr>
+<TM_global_regen_pwr_desc>Augmente le taux de régénération du mana de 5% par niveau.</TM_global_regen_pwr_desc>
+<TM_global_eff_pwr>   Focalisation</TM_global_eff_pwr>
+<TM_global_eff_pwr_desc>Diminue le coût en mana de toutes les capacités de 2,5% par niveau.</TM_global_eff_pwr_desc>
+<TM_global_spirit_pwr>   Esprit</TM_global_spirit_pwr>
+<TM_global_spirit_pwr_desc>Augmente le mana maximum de 4 par niveau de compétence.</TM_global_spirit_pwr_desc>
+
+<TM_global_refresh_pwr>   Fitness</TM_global_refresh_pwr>
+<TM_global_refresh_pwr_desc>Augmente le taux de récupération de l'endurance de 5% par niveau.</TM_global_refresh_pwr_desc>
+<TM_global_seff_pwr>   Coordination</TM_global_seff_pwr>
+<TM_global_seff_pwr_desc>Diminue le coût en endurance de toutes les capacités de 3% par niveau.</TM_global_seff_pwr_desc>
+<TM_global_strength_pwr>   Force</TM_global_strength_pwr>
+<TM_global_strength_pwr_desc>Augmente les dégâts des capacités de combat de 5% par niveau.</TM_global_strength_pwr_desc>
+<TM_global_endurance_pwr>   Endurance</TM_global_endurance_pwr>
+<TM_global_endurance_pwr_desc>Augmente l'endurance maximale de 4 par niveau.</TM_global_endurance_pwr_desc>
+
+<TM_WandererCraft_pwr_desc>Chaque point de compétence :
+Puissance des capacités : +1%
+Résistance aux capacités : +2%</TM_WandererCraft_pwr_desc>
+<TM_WandererCraft_eff_desc>Chaque point de compétence :
+Coût des capacités : -1%
+Gain d'XP : +2%</TM_WandererCraft_eff_desc>
+<TM_WandererCraft_ver_desc>Chaque point de compétence :
+Temps de recharge des capacités : -1%
+Régénération du mana : +1%
+Mana max : +2%</TM_WandererCraft_ver_desc>
+<TM_Cantrips_pwr_desc>Ajoute au sortilège une capacité supplémentaire :
+Niveau 1 : Le nuage de fumée rend les ennemis aveugles
+Niveau 2 : Le nombre minimum de tirs d'Éclair des arcanes a été augmenté à 2
+Niveau 3 : Le Dirt Devil se déplace 33% plus vite
+Niveau 4 : Éteindre cause des dégâts aux élémentaires et des dégâts élevés aux démons
+Niveau 5 : Téléportation, Guérison, et Invocation de Serviteur gagnent des améliorations de classe de niveau 1.
+Niveau 6 : Transfert de mana et Siphon de mana appliquent toujours les buffs/debuffs. 
+Niveau 7 : Le nombre minimum de tirs d'Éclair des arcanes a été augmenté à 3
+Niveau 8 : La vitesse de réparation des sorts est augmentée de 25%
+Niveau 9 : L'effet du piège de foudre dure plus longtemps et crée une couche de neige
+Niveau 10 : Téléportation, Guérison, et Invocation de Serviteur gagnent des améliorations de classe de niveau 2
+Niveau 11 : Chaleur magique crache du feu sur les ennemis
+Niveau 12 : Fraîcheur magique ralentit le mouvement des ennemis proches
+Niveau 13 : Énergie magique choque les ennemis proches
+Niveau 14 : La pluie provoque un violent orage (au lieu de la pluie) où les éclairs se concentrent sur les ennemis
+Niveau 15 : Téléportation, Guérison, et Invocation de Serviteur gagnent des améliorations de classe de niveau 3</TM_Cantrips_pwr_desc>
+<TM_Cantrips_eff_desc>Diminue les coûts d'entretien des PM max de 3% et les pénalités de régénération d'énergie de 3% par point de compétence.
+Niveau 15 : Le vagabond gagne de l'endurance et peut apprendre les capacités sans classe de Puissance</TM_Cantrips_eff_desc>
+<TM_Cantrips_ver_desc>Ajoute au sortilège une capacité utilitaire ou une polyvalence supplémentaire :
+Niveau 1 : Transfert étourdit les ennemis autour de la zone cible
+Niveau 2 : Le rayon du nuage de fumée est élargi de 2 cases
+Niveau 3 : Augmente l'efficacité du bouclier de mana de 25%
+Niveau 4 : La durée de vie de Dirt Devil augmente de 25%
+Niveau 5 : Téléportation, Guérison et Invocation de Serviteur gagnent des améliorations de classe polyvalentes de niveau 1
+Niveau 6 : Fraîcheur magique, Chaleur magique, et Énergie magique appliquent des buffs mineurs
+Niveau 7 : Augmente l'efficacité du bouclier de mana de 40%
+Niveau 8 : La réparation des sorts n'applique plus d'affaiblissement à la cible
+Niveau 9 : Fraîcheur magique, Chaleur magique, et Énergie magique appliquent des améliorations supplémentaires
+Niveau 10 : Téléportation, Guérison et Invocation de Serviteur gagnent des améliorations de classe polyvalentes de niveau 2
+Niveau 11 : Les chances d'échapper au flou passent de 20% à 30%
+Niveau 12 : La durée de l'invisibilité est augmentée de 25% et un soin est appliqué lorsqu'il est activé
+Niveau 13 : Le Mage de lumière envoie un éclair sur les ennemis dans un rayon de 24 cases toutes les 7 à 13 secondes
+Niveau 14 : IEM a 40% de chances de tenter un sabotage sur les robots et les mécanoïdes
+Niveau 15 : Téléportation, Guérison et Invocation de Serviteur gagnent des améliorations de classe polyvalentes de niveau 3</TM_Cantrips_ver_desc>
+
+<TM_WandererCraft_pwr>   Expérimentation</TM_WandererCraft_pwr>
+<TM_WandererCraft_eff>   Prodige</TM_WandererCraft_eff>
+<TM_WandererCraft_ver>   Esprit élargi</TM_WandererCraft_ver>
+<TM_Cantrips_pwr>   Puissance des sortilèges</TM_Cantrips_pwr>
+<TM_Cantrips_eff>   Efficacité des sortilèges</TM_Cantrips_eff>
+<TM_Cantrips_ver>   Polyvalence des sortilèges</TM_Cantrips_ver>
+
+<TM_RayofHope_eff>   Efficacité du feu intérieur</TM_RayofHope_eff>
+<TM_RayofHope_eff_desc>Diminue le coût d'entretien en mana de Feu intérieur de 8% par niveau.</TM_RayofHope_eff_desc>
+<TM_Firebolt_pwr_desc>Augmente les dégâts de Éclair de feu de 5 par niveau.</TM_Firebolt_pwr_desc>
+<TM_Firebolt_eff_desc>Diminue le coût en mana de Eclair de feu de 10% par niveau.</TM_Firebolt_eff_desc>
+<TM_Fireclaw_pwr_desc>Augmente les dégâts infligés pour chaque sillage de Serre de feu de 4 par niveau de compétence.
+Niveau 1: 4
+Niveau 2: 8
+Niveau 3: 12</TM_Fireclaw_pwr_desc>
+<TM_Fireclaw_eff_desc>Diminue le coût en mana de 10% par niveau.</TM_Fireclaw_eff_desc>
+<TM_Fireclaw_ver_desc>Ajoute des griffes supplémentaires aux niveaux 1 et 2, étend le rayon de frappe des griffes au niveau 3.</TM_Fireclaw_ver_desc>
+<TM_Fireball_pwr_desc>Augmente le nombre d'explosions secondaires de 3 par niveau.</TM_Fireball_pwr_desc>
+<TM_Fireball_eff_desc>Diminue le coût en mana de 8% par niveau.</TM_Fireball_eff_desc>
+<TM_Fireball_ver_desc>La Boule de feu provoque Terreur de niveau 1 ; les niveaux 2 et 3 augmentent la puissance de Terreur. La terreur diminue la capacité des ennemis à se battre efficacement et peut les faire fuir dans la panique.</TM_Fireball_ver_desc>
+<TM_Firestorm_pwr_desc>Augmente la fréquence de tous les types de météores
+Augmente le rayon de la Tempête de feu de 0,25 par niveau de compétence.</TM_Firestorm_pwr_desc>
+<TM_Firestorm_eff_desc>Diminue le coût en mana de 5% par niveau.</TM_Firestorm_eff_desc>
+<TM_Firestorm_ver_desc>Augmente la durée de la Tempête de feu de 1 seconde par niveau de compétence.
+Augmente le rayon de la Tempête de feu de 0,25 par niveau de compétence.
+Augmente la quantité de fragments créés par les impacts des météores.</TM_Firestorm_ver_desc>
+
+<TM_Firebolt_pwr>   Puissance Éclair de feu</TM_Firebolt_pwr>
+<TM_Firebolt_eff>   Efficacité Éclair de feu</TM_Firebolt_eff>
+<TM_Fireclaw_pwr>   Puissance Griffe de feu</TM_Fireclaw_pwr>
+<TM_Fireclaw_eff>   Efficacité Griffe de feu</TM_Fireclaw_eff>
+<TM_Fireclaw_ver>   Polyvalence Griffe de feu</TM_Fireclaw_ver>
+<TM_Fireball_pwr>   Puissance Boule de feu</TM_Fireball_pwr>
+<TM_Fireball_eff>   Efficacité Boule de feu</TM_Fireball_eff>
+<TM_Fireball_ver>   Polyvalence Boule de feu</TM_Fireball_ver>
+<TM_Firestorm_pwr>   Puissance Tempête de feu</TM_Firestorm_pwr>
+<TM_Firestorm_eff>   Efficacité Tempête de feu</TM_Firestorm_eff>
+<TM_Firestorm_ver>   Polyvalence Tempête de feu</TM_Firestorm_ver>
+
+<TM_Soothe_eff_desc>Diminue le coût d'entretien en mana d'Apaisement de 8% par niveau.</TM_Soothe_eff_desc>
+<TM_Rainmaker_eff_desc>Diminue le coût en mana de Faiseur de pluie de 15% par niveau de coût en mana de base.</TM_Rainmaker_eff_desc>
+<TM_Icebolt_pwr_desc>Augmente la létalité de l'éclair de glace en le fragmentant en éclats tranchants comme des rasoirs.
+Niveau 0 : 2 à 5 dégâts par éclat
+Niveau 1 : 4 à 9 dégâts par éclat
+Niveau 2 : 6 à 13 dégâts par éclat
+Niveau 3 : 8 à 17 dégâts par éclat</TM_Icebolt_pwr_desc>
+<TM_Icebolt_eff_desc>Diminue le coût en mana de Éclair de glace de 8% par niveau de coût en mana de base.</TM_Icebolt_eff_desc>
+<TM_Icebolt_ver_desc>Augmente la compression et la taille de Éclair de glace, chaque niveau de compétence augmente le nombre d'éclats de glace à l'impact.
+Niveau 0 : 2 à 3 éclats
+Niveau 1 : 3 à 8 éclats
+Niveau 2 : 4 à 14 éclats
+Niveau 3 : 5 à 20 éclats</TM_Icebolt_ver_desc>
+<TM_FrostRay_eff_desc>Diminue le coût en mana de Rayon de givre de 8% par niveau de coût en mana de base.</TM_FrostRay_eff_desc>
+<TM_Snowball_pwr_desc>Augmente la taille de Orbe gelé, entraînant une augmentation de la zone d'impact de 0,7 case par niveau et augmente les dégâts de 3 par niveau.</TM_Snowball_pwr_desc>
+<TM_Snowball_eff_desc>Diminue le coût en mana de Orbe gelé de 8% par niveau de coût en mana de base.</TM_Snowball_eff_desc>
+<TM_Snowball_ver_desc>Augmente la compression de Orbe gelé qui amplifie le nombre et la force des fragments secondaires qui sont projetés à proximité du point d'impact.
+Niveau 0 : Aucun
+Niveau 1 : 4 fragments
+Niveau 2 : 8 fragments
+Niveau 3 : 12 fragments</TM_Snowball_ver_desc>
+<TM_Blizzard_pwr_desc>Augmente la fréquence des éclats de glace et des boules de neige.
+Augmente le rayon du Blizzard de 0,5 par niveau de compétence.</TM_Blizzard_pwr_desc>
+<TM_Blizzard_eff_desc>Diminue le coût en mana de Blizzard de 8% par niveau de coût en mana de base.</TM_Blizzard_eff_desc>
+<TM_Blizzard_ver_desc>Augmente la durée du Blizzard de 1,5 seconde par niveau.
+Augmente le rayon du Blizzard de 0,5 par niveau de compétence.</TM_Blizzard_ver_desc>
+
+<TM_Soothe_eff>   Efficacité Apaiser</TM_Soothe_eff>
+<TM_Rainmaker_eff>   Efficacité Faiseur de pluie</TM_Rainmaker_eff>
+<TM_Icebolt_eff>   Efficacité Éclair de glace</TM_Icebolt_eff>
+<TM_Icebolt_pwr>   Puissance Éclair de glace</TM_Icebolt_pwr>
+<TM_Icebolt_ver>   Polyvalence Éclair de glace</TM_Icebolt_ver>
+<TM_FrostRay_eff>   Efficacité Rayon de givre</TM_FrostRay_eff>
+<TM_Snowball_eff>   Efficacité Orbe gelé</TM_Snowball_eff>
+<TM_Snowball_pwr>   Puissance Orbe gelé</TM_Snowball_pwr>
+<TM_Snowball_ver>   Polyvalence Orbe gelé</TM_Snowball_ver>
+<TM_Blizzard_eff>   Efficacité Blizzard</TM_Blizzard_eff>
+<TM_Blizzard_pwr>   Puissance Blizzard</TM_Blizzard_pwr>
+<TM_Blizzard_ver>   Polyvalence Blizzard</TM_Blizzard_ver>
+
+<TM_AMP_eff_desc>Diminue le coût en mana IEM de 8% par niveau de coût en mana de base.</TM_AMP_eff_desc>
+<TM_LightningBolt_pwr_desc>Augmente les dégâts de Éclair de 6 par niveau.</TM_LightningBolt_pwr_desc>
+<TM_LightningBolt_eff_desc>Diminue le coût en mana de Éclair de 8% du coût en mana de base.</TM_LightningBolt_eff_desc>
+<TM_LightningBolt_ver_desc>Augmente les possibilités de foudre secondaire de 1 à 4 par niveau.</TM_LightningBolt_ver_desc>
+<TM_LightningCloud_eff_desc>Diminue le coût en mana de Nuage d'éclairs de 6% du coût en mana de base.</TM_LightningCloud_eff_desc>
+<TM_LightningCloud_pwr_desc>Augmente les dégâts de Nuage d'éclairs de 1 par niveau.</TM_LightningCloud_pwr_desc>
+<TM_LightningCloud_ver_desc>Augmente la durée du Nuage d'éclairs de 2 secondes par niveau.</TM_LightningCloud_ver_desc>
+<TM_LightningStorm_eff_desc>Diminue le coût en mana de Tempête de foudre de 6% du coût en mana de base.</TM_LightningStorm_eff_desc>
+<TM_LightningStorm_pwr_desc>Augmente la fréquence des éclairs de 20% par niveau et augmente légèrement les dégâts de chaque coup.</TM_LightningStorm_pwr_desc>
+<TM_LightningStorm_ver_desc>Augmente la durée de Tempête de foudre de 1s par niveau et élargit la zone d'effet.</TM_LightningStorm_ver_desc>
+<TM_EyeOfTheStorm_eff_desc>Utilise l'énergie de l'atmosphère pour alimenter la création de la tempête. Réduit le coût en mana de 5% par niveau de compétence.</TM_EyeOfTheStorm_eff_desc>
+<TM_EyeOfTheStorm_pwr_desc>Augmente la fréquence des éclairs de l'œil de 20% par niveau et augmente les dégâts de chaque éclair de 20%.</TM_EyeOfTheStorm_pwr_desc>
+<TM_EyeOfTheStorm_ver_desc>Augmente le rayon d’impact de 1 pour chaque niveau de compétence. Le rayon de base est de 5.</TM_EyeOfTheStorm_ver_desc>
+
+
+<TM_AMP_eff>   Efficacité IEM</TM_AMP_eff>
+<TM_LightningBolt_eff>   Efficacité Éclair</TM_LightningBolt_eff>
+<TM_LightningBolt_pwr>   Puissance Éclair</TM_LightningBolt_pwr>
+<TM_LightningBolt_ver>   Polyvalence Éclair</TM_LightningBolt_ver>
+<TM_LightningCloud_eff>   Efficacité Nuage d'éclairs</TM_LightningCloud_eff>
+<TM_LightningCloud_pwr>   Puissance Nuage d'éclairs</TM_LightningCloud_pwr>
+<TM_LightningCloud_ver>   Polyvalence Nuage d'éclairs</TM_LightningCloud_ver>
+<TM_LightningStorm_eff>   Efficacité Tempête de foudre</TM_LightningStorm_eff>
+<TM_LightningStorm_pwr>   Puissance Tempête de foudre</TM_LightningStorm_pwr>
+<TM_LightningStorm_ver>   Polyvalence Tempête de foudre</TM_LightningStorm_ver>
+<TM_EyeOfTheStorm_eff>   Drainer l'atmosphère</TM_EyeOfTheStorm_eff>
+<TM_EyeOfTheStorm_pwr>   Rendre la terre</TM_EyeOfTheStorm_pwr>
+<TM_EyeOfTheStorm_ver>   Tempête parfaite</TM_EyeOfTheStorm_ver>
+
+<TM_Shadow_eff_desc>Diminue le coût d'entretien en mana de Ombre de 8% par niveau.</TM_Shadow_eff_desc>
+<TM_Blink_eff_desc>Diminue le coût en mana de Transfert de 10% par niveau de coût en mana de base.</TM_Blink_eff_desc>
+<TM_Summon_eff_desc>Diminue le coût en mana d'Invocation de 10% par niveau de coût en mana de base.</TM_Summon_eff_desc>
+<TM_MagicMissile_eff_desc>Diminue le coût en mana du Missile magique de 8% du coût en mana de base.</TM_MagicMissile_eff_desc>
+<TM_Teleport_eff_desc>Diminue le coût en mana de Téléportation de 10% par niveau du coût en mana de base.</TM_Teleport_eff_desc>
+<TM_Teleport_pwr_desc>Attire davantage d'énergie dans le téléporteur, ce qui permet de parcourir 33 % de distance supplémentaire par niveau.
+Permet de maintenir le portail ouvert 20 secondes de plus par niveau.</TM_Teleport_pwr_desc>
+<TM_Teleport_ver_desc>Affine le processus de transport, en ajoutant 400 capacités de transport par niveau de compétence, 600 au niveau 3.  
+Permet de maintenir le portail ouvert 20 secondes de plus par niveau.</TM_Teleport_ver_desc>
+<TM_FoldReality_eff_desc>Diminue le coût en mana de Plier la réalité de 6% par niveau de compétence.</TM_FoldReality_eff_desc>
+
+<TM_Shadow_eff>   Efficacité Ombre</TM_Shadow_eff>
+<TM_MagicMissile_eff>   Efficacité Missile magique</TM_MagicMissile_eff>
+<TM_Blink_eff>   Efficacité Transfert</TM_Blink_eff>
+<TM_Summon_eff>   Efficacité Invocation</TM_Summon_eff>
+<TM_Teleport_eff>   Efficacité Téléportation</TM_Teleport_eff>
+<TM_Teleport_pwr>   Puissance Téléportation</TM_Teleport_pwr>
+<TM_Teleport_ver>   Polyvalence Téléportation</TM_Teleport_ver>
+<TM_FoldReality_eff>   Efficacité Plier la réalité</TM_FoldReality_eff>
+
+<TM_P_RayofHope_eff_desc>Diminue le coût d'entretien en mana de Lueur d’espoir de 8% par niveau.</TM_P_RayofHope_eff_desc>
+<TM_Heal_eff_desc>Diminue le coût en mana de Soins de 7% du coût en mana de base.</TM_Heal_eff_desc>
+<TM_Heal_pwr_desc>Augmente le taux de guérison de chaque blessure de 2 points par niveau.</TM_Heal_pwr_desc>
+<TM_Heal_ver_desc>Augmente le nombre maximum de blessures pouvant être soignées par sort de 1 par niveau.</TM_Heal_ver_desc>
+<TM_Shield_eff_desc>Diminue le coût en mana du Bouclier de 8% du coût en mana de base.</TM_Shield_eff_desc>
+<TM_ValiantCharge_eff_desc>Diminue le coût en mana de Charge vaillante de 8% du coût en mana de base.</TM_ValiantCharge_eff_desc>
+<TM_ValiantCharge_pwr_desc>Augmente les dégâts de Charge vaillante de 1 à 4 par niveau.</TM_ValiantCharge_pwr_desc>
+<TM_ValiantCharge_ver_desc>Augmenter la force de l'impact, la taille de l'impact et la quantité de débris.
+Peut étourdir au niveau 2.</TM_ValiantCharge_ver_desc>
+<TM_Overwhelm_eff_desc>Diminue le coût en mana de Accabler de 10% du coût en mana de base.</TM_Overwhelm_eff_desc>
+<TM_Overwhelm_pwr_desc>Augmente les dégâts potentiels de Accabler.</TM_Overwhelm_pwr_desc>
+<TM_Overwhelm_ver_desc>Invoque des symboles plus puissants aux niveaux 1 et 3.
+Accabler peut étourdir au niveau 2 et il est amélioré au niveau 3.</TM_Overwhelm_ver_desc>
+<TM_HolyWrath_eff_desc>Diminue le coût en mana de Colère divine de 5% du coût en mana de base.</TM_HolyWrath_eff_desc>
+<TM_HolyWrath_pwr_desc>Requiert 2 points d'aptitude par niveau de compétence. Augmente le nombre de frappes de 1 par niveau de compétence. Le nombre de base de frappes est de 5.</TM_HolyWrath_pwr_desc>
+<TM_HolyWrath_ver_desc>Nécessite 2 points d'aptitude par niveau de compétence.
+Niveau 1 : les alliés se trouvant dans la zone de Colère divine deviennent temporairement invulnérables
+Niveau 2 : les alliés sont soignés pour une petite quantité
+Niveau 3 : Colère divine confère de la puissance à tous les alliés se trouvant dans la zone d'effet</TM_HolyWrath_ver_desc>
+
+
+<TM_P_RayofHope_eff>   Efficacité Lueur d’espoir</TM_P_RayofHope_eff>
+<TM_Heal_eff>   Efficacité Soins</TM_Heal_eff>
+<TM_Heal_pwr>   Puissance Soins</TM_Heal_pwr>
+<TM_Heal_ver>   Polyvalence Soins</TM_Heal_ver>
+<TM_Shield_eff>   Efficacité Bouclier</TM_Shield_eff>
+<TM_ValiantCharge_eff>   Efficacité Charge vaillante</TM_ValiantCharge_eff>
+<TM_ValiantCharge_pwr>   Puissance Charge vaillante</TM_ValiantCharge_pwr>
+<TM_ValiantCharge_ver>   Polyvalence Charge vaillante</TM_ValiantCharge_ver>
+<TM_Overwhelm_eff>   Efficacité Accabler</TM_Overwhelm_eff>
+<TM_Overwhelm_pwr>   Puissance Accabler</TM_Overwhelm_pwr>
+<TM_Overwhelm_ver>   Polyvalence Accabler</TM_Overwhelm_ver>
+<TM_HolyWrath_eff>   Pureté du cœur</TM_HolyWrath_eff>
+<TM_HolyWrath_pwr>   Vengeance sacrée</TM_HolyWrath_pwr>
+<TM_HolyWrath_ver>   Rédemption</TM_HolyWrath_ver>
+
+<TM_SummonMinion_eff_desc>Diminue le coût en mana pour invoquer des serviteurs de 10% du coût en mana de base. Réduit également le coût d'entretien de 10%.</TM_SummonMinion_eff_desc>
+<TM_SummonMinion_pwr_desc>Augmente le nombre ou la puissance des serviteurs invoqués.
+Niveau 0 : invoque 1 serviteur
+Niveau 1 : invoque 2 serviteurs
+Niveau 2 : invoque 1 serviteur supérieur
+Niveau 3 : invoque 2 serviteurs supérieurs</TM_SummonMinion_pwr_desc>
+<TM_SummonMinion_ver_desc>Augmente la durée de l'invocation de 10min par point de compétence. La durée de base est de 20min.</TM_SummonMinion_ver_desc>
+<TM_SummonPylon_eff_desc>Diminue le coût en mana pour invoquer un pylône défensif de 8% du coût en mana de base.</TM_SummonPylon_eff_desc>
+<TM_SummonPylon_pwr_desc>Augmente la portée et la puissance du pylône défensif créé.</TM_SummonPylon_pwr_desc>
+<TM_SummonPylon_ver_desc>Augmente la durée de l'invocation de 2min par point de compétence. La durée de base est de 4min.</TM_SummonPylon_ver_desc>
+<TM_SummonExplosive_eff_desc>Diminue le coût en mana pour créer une mine de mana de 8% par niveau de compétence.</TM_SummonExplosive_eff_desc>
+<TM_SummonExplosive_pwr_desc>Augmente la puissance de la mine de 20% par niveau de compétence.
+Augmente le rayon d'explosion de 20% par niveau de compétence.</TM_SummonExplosive_pwr_desc>
+<TM_SummonExplosive_ver_desc>Augmente la durée de stabilité de la mine de mana de 2min par point de compétence. La durée de base est de 4min. La mine de mana se dissout de manière anodine si le délai expire.</TM_SummonExplosive_ver_desc>
+<TM_SummonElemental_eff_desc>Diminue le coût en mana pour invoquer un élémentaire de 6% du coût en mana de base.</TM_SummonElemental_eff_desc>
+<TM_SummonElemental_pwr_desc>Augmente la puissance de l'élémentaire invoqué.
+Au niveau 3 : invoque deux élémentaires inférieurs pour accompagner votre invocation principale.</TM_SummonElemental_pwr_desc>
+<TM_SummonElemental_ver_desc>Augmente la durée de l'invocation de 15s par point de compétence. La durée de base est de 30s.</TM_SummonElemental_ver_desc>
+<TM_SummonPoppi_eff_desc>Diminue le coût en mana pour invoquer une bande de poppi de 5% par point de compétence, mais vraiment, qui peut mettre un prix sur le bonheur ?</TM_SummonPoppi_eff_desc>
+<TM_SummonPoppi_pwr_desc>Encore plus de poppi, des câlins pour tout le monde.</TM_SummonPoppi_pwr_desc>
+<TM_SummonPoppi_ver_desc>Traîner avec ces poppi est encore plus amusant.</TM_SummonPoppi_ver_desc>
+
+<TM_SummonMinion_eff>   Contrainte</TM_SummonMinion_eff>
+<TM_SummonMinion_pwr>   Offre séduisante</TM_SummonMinion_pwr>
+<TM_SummonMinion_ver>   Maître d'œuvre</TM_SummonMinion_ver>
+<TM_SummonPylon_eff>   Moulage magique</TM_SummonPylon_eff>
+<TM_SummonPylon_pwr>   Pylônes améliorés</TM_SummonPylon_pwr>
+<TM_SummonPylon_ver>   Pylônes durables</TM_SummonPylon_ver>
+<TM_SummonExplosive_eff>   Création experte</TM_SummonExplosive_eff>
+<TM_SummonExplosive_pwr>   Réacteur amélioré</TM_SummonExplosive_pwr>
+<TM_SummonExplosive_ver>   Mines durables</TM_SummonExplosive_ver>
+<TM_SummonElemental_eff>   Affinité élémentaire</TM_SummonElemental_eff>
+<TM_SummonElemental_pwr>   Marcheur des plans</TM_SummonElemental_pwr>
+<TM_SummonElemental_ver>   Mots de liaison</TM_SummonElemental_ver>
+<TM_SummonPoppi_eff>   Passionné de Poppi</TM_SummonPoppi_eff>
+<TM_SummonPoppi_pwr>   Attrapez-les tous</TM_SummonPoppi_pwr>
+<TM_SummonPoppi_ver>   Catalyseur de câlins</TM_SummonPoppi_ver>
+
+<TM_Poison_eff_desc>Réduit le coût du Poison de 10% par niveau de compétence.</TM_Poison_eff_desc>
+<TM_Poison_pwr_desc>Augmente la puissance du poison, infligeant 25% de plus par niveau de compétence pour chaque case de déplacement de la victime.</TM_Poison_pwr_desc>
+<TM_Poison_ver_desc>Augmente les niveaux minimum et maximum de gravité du poison. Les niveaux de gravité entraînent une réduction des capacités de combat et de déplacement. Augmente également la durée du poison de 10% par niveau.
+Niveau 0 : (10%-40%), Durée 45s
+Niveau 1 : (20%-60%), Durée 49.5s
+Niveau 2 : (30%-80%), Durée 54s
+Niveau 3 : (40%-80%), Durée 58.5s</TM_Poison_ver_desc>
+<TM_SootheAnimal_eff_desc>Réduit le coût de Duperie animal de 10% par niveau de compétence.</TM_SootheAnimal_eff_desc>
+<TM_SootheAnimal_pwr_desc>Les animaux reçoivent des buffs magiques lorsqu'ils sont enragés, et des debuffs magiques lorsqu'ils sont pacifiés. Le niveau de compétence détermine la force de ces modificateurs, aucun modificateur ne se produit au niveau de compétence 0.</TM_SootheAnimal_pwr_desc>
+<TM_Regenerate_eff_desc>Réduit le coût de la Régénération de 7% par niveau de compétence.</TM_Regenerate_eff_desc>
+<TM_Regenerate_pwr_desc>Augmente la quantité de soins de régénération à chaque tic de 0,5 santé par niveau. La régénération de base est de 4 points de vie.</TM_Regenerate_pwr_desc>
+<TM_Regenerate_ver_desc>Augmente la durée de la régénération par niveau de compétence, la durée est aléatoire entre les valeurs indiquées :
+Niveau 0 : 16s - 50s
+Niveau 1 : 33s - 100s
+Niveau 2 : 50s - 150s
+Niveau 3 : 67s - 200s</TM_Regenerate_ver_desc>
+<TM_CureDisease_eff_desc>Réduit le coût de Guérison des maladies de 10% par niveau de compétence.</TM_CureDisease_eff_desc>
+<TM_CureDisease_pwr_desc>Améliore l'efficacité de Guérison des maladies. Plus le niveau de compétence est élevé, plus le sort a de chances de guérir la maladie au lieu de la réduire.
+Niveau 0 : 75% de chances de réussir
+Niveau 1 : 100% de chances de réussir à comprendre les maladies (Connaissance des maladies)
+Niveau 2 : Augmente l'immunité de la cible contre les maladies de 15% pendant 3 jours
+Niveau 3 : Augmente l'immunité de la cible contre les maladies de 25% pendant 5 jours</TM_CureDisease_pwr_desc>
+<TM_CureDisease_ver_desc>L'étude des maladies permet au druide de soigner des maladies plus avancées.
+Niveau 0 : Grippe et infections des plaies
+Niveau 1 : Vers intestinaux, intoxication alimentaire et paludisme
+Niveau 2 : La maladie du sommeil, les parasites musculaires et le paludisme
+Niveau 3 : La peste et la gangrène</TM_CureDisease_ver_desc>
+<TM_RegrowLimb_eff_desc>Réduit le mana nécessaire à la repousse des membres (chirurgie) de 6% par niveau de compétence. La repousse n'est pas affectée par les réductions globales du coût du mana.</TM_RegrowLimb_eff_desc>
+
+<TM_Poison_eff>   Méthodes d'extraction</TM_Poison_eff>
+<TM_Poison_pwr>   Potentiel du poison</TM_Poison_pwr>
+<TM_Poison_ver>   Membres affaiblis</TM_Poison_ver>
+<TM_SootheAnimal_eff>   Nature fascinante</TM_SootheAnimal_eff>
+<TM_SootheAnimal_pwr>   Contrôle accru</TM_SootheAnimal_pwr>
+<TM_Regenerate_eff>   Efficacité Régénération</TM_Regenerate_eff>
+<TM_Regenerate_pwr>   Intensifié Régénération</TM_Regenerate_pwr>
+<TM_Regenerate_ver>   Persistant Régénération</TM_Regenerate_ver>
+<TM_CureDisease_eff>   Guérison naturelle</TM_CureDisease_eff>
+<TM_CureDisease_pwr>   Traitement efficace</TM_CureDisease_pwr>
+<TM_CureDisease_ver>   Connaissance des maladies</TM_CureDisease_ver>
+<TM_RegrowLimb_eff>   Maîtrise de la repousse</TM_RegrowLimb_eff>
+
+<TM_RaiseUndead_eff_desc>Réduit le coût en mana de Ranimer un mort-vivant de 5% par niveau de compétence. Réduit le coût d'entretien des morts-vivants de 10% par niveau de compétence.</TM_RaiseUndead_eff_desc>
+<TM_RaiseUndead_pwr_desc>Augmente le nombre de morts-vivants qui peuvent être créés avec chaque sort de 1 par niveau de compétence et augmente leurs compétences acquises de 10% par point de compétence.
+Niveau 0 : 2
+Niveau 1 : 3
+Niveau 2 : 4
+Niveau 3 : 5</TM_RaiseUndead_pwr_desc>
+<TM_RaiseUndead_ver_desc>La vitesse de déplacement et d'action des morts-vivants augmente de 5% par niveau de compétence.</TM_RaiseUndead_ver_desc>
+<TM_DeathMark_ver_desc>Marque de mort peut provoquer des afflictions de terreur et de folie furieuse. Chaque point de compétence augmente de 10% les chances d'appliquer une affliction supplémentaire.</TM_DeathMark_ver_desc>
+<TM_DeathMark_eff_desc>Réduit le coût en mana de Marque de mort de 8% par niveau de compétence.</TM_DeathMark_eff_desc>
+<TM_DeathMark_pwr_desc>Augmente la gravité de Marque de mort de 50% par niveau de compétence.</TM_DeathMark_pwr_desc>
+<TM_FogOfTorment_eff_desc>Réduit le coût en mana de Brouillard du tourment de 8% par niveau de compétence.</TM_FogOfTorment_eff_desc>
+<TM_FogOfTorment_pwr_desc>Augmente les dégâts et les pénalités causés par Brouillard du tourment de 33% par niveau de compétence. Augmente également le nombre de morts-vivants soignés de 50% par niveau de compétence.
+Niveau 0 : 2-4 dégâts, 2 soins 
+Niveau 1 : 3-5 dégâts, 3 soins
+Niveau 2 : 4-6 dégâts, 4 soins
+Niveau 3 : 5-7 dégâts, 5 soins</TM_FogOfTorment_pwr_desc>
+<TM_FogOfTorment_ver_desc>Augmente la durée, réduit le temps entre les effets et étend le rayon de Brouillard du tourment.
+Niveau 0 : rayon 6, effet/2.0s, durée 24s
+Niveau 1 : rayon 7, effet/1.7s, durée 27s
+Niveau 2 : rayon 8, effet/1.4s, durée 30s
+Niveau 3 : rayon 9, effet/1.1s, durée 33s</TM_FogOfTorment_ver_desc>
+<TM_ConsumeCorpse_eff_desc>Augmente le mana restauré de Festin macabre de 7% par niveau de compétence.</TM_ConsumeCorpse_eff_desc>
+<TM_ConsumeCorpse_ver_desc>Festin macabre soigne également les blessures physiques du lanceur de sorts.
+La quantité de santé varie en fonction du type (humain ou animal) et de la fraîcheur du cadavre ou du mort-vivant consommé.</TM_ConsumeCorpse_ver_desc>
+<TM_CorpseExplosion_pwr_desc>Augmente les dégâts de Explosion morbide de 5 par niveau de compétence. Augmente également le rayon de l'explosion de 10%.
+Niveau 0 : 18-30
+Niveau 1 : 23-35
+Niveau 2 : 28-40
+Niveau 3 : 32-45</TM_CorpseExplosion_pwr_desc>
+<TM_CorpseExplosion_eff_desc>Réduit le coût en mana de Explosion morbide de 8% par niveau de compétence.</TM_CorpseExplosion_eff_desc>
+<TM_CorpseExplosion_ver_desc>Réduit le délai d'explosion de 1s par point de compétence. Augmente également le rayon de l'explosion de 10%.</TM_CorpseExplosion_ver_desc>
+<TM_DeathBolt_pwr_desc>Augmente les dégâts de Trait de mort de 5 par niveau de compétence et de Ténèbres galopantes de 3 par niveau de compétence.
+Niveau 0 : 18-35 ; Ténèbres galopantes : 12-24
+Niveau 1 : 23-40 ; Ténèbres galopantes : 15-27
+Niveau 2 : 28-45 ; Ténèbres galopantes : 18-30
+Niveau 3 : 33-50 ; Ténèbres galopantes : 21-33</TM_DeathBolt_pwr_desc>
+<TM_DeathBolt_eff_desc>Réduit le coût en mana de Trait de mort de 6% par niveau de compétence.</TM_DeathBolt_eff_desc>
+<TM_DeathBolt_ver_desc>Ténèbres galopantes se propage plus loin du point d'impact.</TM_DeathBolt_ver_desc>
+
+<TM_RaiseUndead_eff>   Tromper la mort</TM_RaiseUndead_eff>
+<TM_RaiseUndead_pwr>   Création assistée</TM_RaiseUndead_pwr>
+<TM_RaiseUndead_ver>   Mort-vivant accéléré</TM_RaiseUndead_ver>
+<TM_DeathMark_ver>   Malédiction flétrissante</TM_DeathMark_ver>
+<TM_DeathMark_eff>   Marque efficace</TM_DeathMark_eff>
+<TM_DeathMark_pwr>   Marque accablante</TM_DeathMark_pwr>
+<TM_FogOfTorment_eff>   Vent non naturel</TM_FogOfTorment_eff>
+<TM_FogOfTorment_pwr>   Tourments mortels</TM_FogOfTorment_pwr>
+<TM_FogOfTorment_ver>   Brouillard persistant</TM_FogOfTorment_ver>
+<TM_ConsumeCorpse_eff>   Consommation gourmande</TM_ConsumeCorpse_eff>
+<TM_ConsumeCorpse_ver>   Consommation guérissante</TM_ConsumeCorpse_ver>
+<TM_CorpseExplosion_pwr>   Explosion violente</TM_CorpseExplosion_pwr>
+<TM_CorpseExplosion_eff>   Maîtrise des cadavres</TM_CorpseExplosion_eff>
+<TM_CorpseExplosion_ver>   Toxines volatiles</TM_CorpseExplosion_ver>
+<TM_DeathBolt_pwr>   Pouvoirs impies</TM_DeathBolt_pwr>
+<TM_DeathBolt_eff>   Apprentissage éternel</TM_DeathBolt_eff>
+<TM_DeathBolt_ver>   Ténèbres galopantes</TM_DeathBolt_ver>
+
+<TM_AdvancedHeal_eff_desc>Réduit le coût en mana de Soins avancés de 8% par niveau.</TM_AdvancedHeal_eff_desc>
+<TM_AdvancedHeal_ver_desc>Augmente le nombre maximum de blessures soignées de 1 par niveau.</TM_AdvancedHeal_ver_desc>
+<TM_AdvancedHeal_pwr_desc>Augmente le taux de guérison de chaque blessure de 3 points par niveau.</TM_AdvancedHeal_pwr_desc>
+<TM_Purify_eff_desc>Réduit le coût en mana de Purifier de 6% par niveau.</TM_Purify_eff_desc>
+<TM_Purify_ver_desc>Augmente le nombre de maladies qui peuvent être soignées par utilisation. L'augmentation de la compétence élargit les types de maladies qui peuvent être purifiées :
+Niveau 0 :
+Physique - Cataractes, Perte d'audition, Accumulation toxique
+Dépendances aux drogues - Feuilles de tabac, alcool
+
+Niveau 1 :
+Physique - Cécité, Asthme, Cirrhose, Lésions chimiques modérées
+Dépendances aux drogues - Go-Juice, WakeUp
+
+Niveau 2 :
+Physique - Fragilité, Mal de dos, Carcinome, Dégâts chimiques graves 
+Drogue - Psychite
+
+Niveau 3 :
+Physique - Troubles cérébraux, cardiaques et paralysie
+Drogue - Toute dépendance, y compris le Luciferium</TM_Purify_ver_desc>
+<TM_Purify_pwr_desc>Augmente l'efficacité de Purifier.
+Les cicatrices sont soignées de 2 points + 2x le niveau de compétence ; les lésions cérébrales requièrent un niveau de compétence de 1 ou plus et soignent 1 point par niveau de compétence.
+
+Les conditions physiques telles que la cécité ou le carcinome sont guéries ou réduites, selon le niveau de compétence. Si le pouvoir de purification n'est pas suffisant pour guérir l'affection en question, de multiples utilisations de purification peuvent être utilisées pour réduire, puis guérir l'affection.
+
+Chaque point de compétence augmente l'efficacité pour vaincre une dépendance aux drogues ; plusieurs utilisations peuvent être nécessaires pour vaincre complètement une dépendance.</TM_Purify_pwr_desc>
+<TM_HealingCircle_eff_desc>Réduit le coût en mana du Cercle de guérison de 7% par point de compétence.</TM_HealingCircle_eff_desc>
+<TM_HealingCircle_ver_desc>Augmente le nombre de blessures qui peuvent être soignées par vague. Augmente également la durée du Cercle de guérison de 3s par point de compétence.
+Niveau 0 : 1 blessure
+Niveau 1 : 2 blessures
+Niveau 2 : 3 blessures
+Niveau 3 : 4 blessures</TM_HealingCircle_ver_desc>
+<TM_HealingCircle_pwr_desc>Augmente le montant de la guérison de chaque blessure. Augmente également la durée du Cercle de guérison de 3s par point de compétence.
+Niveau 0 : 10 santé
+Niveau 1 : 12 santé
+Niveau 2 : 14 santé
+Niveau 3 : 16 santé
+Niveau 4 : 18 santé</TM_HealingCircle_pwr_desc>
+<TM_BestowMight_eff_desc>Réduit le coût en mana de Infusion de puissance de 8% par point de compétence.</TM_BestowMight_eff_desc>
+<TM_Resurrection_eff_desc>Réduit le coût en mana de Résurrection de 5% par niveau de compétence et réduit la quantité d'expérience perdue de 2% par niveau de compétence.</TM_Resurrection_eff_desc>
+<TM_Resurrection_ver_desc>Augmente de 10 % les chances d'éviter les effets secondaires de la résurrection et réduit la perte de compétence de 10 % par niveau de compétence.</TM_Resurrection_ver_desc>
+
+<TM_AdvancedHeal_eff>   Guérison efficace</TM_AdvancedHeal_eff>
+<TM_AdvancedHeal_ver>   Guérison profonde</TM_AdvancedHeal_ver>
+<TM_AdvancedHeal_pwr>   Puissance de guérison</TM_AdvancedHeal_pwr>
+<TM_Purify_eff>   Pureté incontestée</TM_Purify_eff>
+<TM_Purify_ver>   Pureté globale</TM_Purify_ver>
+<TM_Purify_pwr>   Pureté ardente</TM_Purify_pwr>
+<TM_HealingCircle_eff>   Cercle efficace</TM_HealingCircle_eff>
+<TM_HealingCircle_ver>   Marée haute</TM_HealingCircle_ver>
+<TM_HealingCircle_pwr>   Vagues apaisantes</TM_HealingCircle_pwr>
+<TM_BestowMight_eff>   Bénédiction pratiquée</TM_BestowMight_eff>
+<TM_Resurrection_ver>   Résurrection gracieuse</TM_Resurrection_ver>
+<TM_Resurrection_eff>   Guide de lumière</TM_Resurrection_eff>
+
+
+<TM_BardTraining_pwr_desc>Fait passer le trait de Barde au niveau suivant. Amuseur -> Interprète -> Ménestrel -> Barde. Nécessite 2 points pour être formé.</TM_BardTraining_pwr_desc>
+<TM_Entertain_ver_desc>Augmente les chances d'avoir des conversations favorables avec les autres colons.</TM_Entertain_ver_desc>
+<TM_Entertain_pwr_desc>Augmente la fréquence à laquelle le barde est prêt à avoir des interactions sociales.</TM_Entertain_pwr_desc>
+<TM_Inspire_ver_desc>Le barde apprend de nouvelles façons d'inspirer les colons.
+Niveau 0 : peut provoquer des inspirations communes
+Niveau 1 : peut provoquer des inspirations de frénésie de ressources
+Niveau 2 : peut provoquer des inspirations sociales et d'apprentissage
+Niveau 3 : peut provoquer des inspirations héroïques pour les classes de magie ou de combat</TM_Inspire_ver_desc>
+<TM_Inspire_pwr_desc>Augmente la fréquence à laquelle le barde tentera d'inspirer les autres colons.</TM_Inspire_pwr_desc>
+<TM_Lullaby_eff_desc>Réduit le coût en mana de Berceuse de 8% par point de compétence.</TM_Lullaby_eff_desc>
+<TM_Lullaby_pwr_desc>Augmente les chances que la berceuse soit efficace de 10% par point de compétence.
+Niveau 0 : 40%
+Niveau 1 : 50%
+Niveau 2 : 60%
+Niveau 3 : 70%</TM_Lullaby_pwr_desc>
+<TM_Lullaby_ver_desc>Berceuse réduit la conscience des colons affectés - fonctionne même si la berceuse a été résistée.
+Niveau 0 : aucun
+Niveau 1 : -10% de conscience
+Niveau 2 : -15% de conscience
+Niveau 3 : -20% de conscience</TM_Lullaby_ver_desc>
+<TM_BattleHymn_eff_desc>Réduit le coût en mana pour utiliser et maintenir l'Hymne de bataille de 6% par niveau de compétence.</TM_BattleHymn_eff_desc>
+<TM_BattleHymn_ver_desc>Augmente la portée de l'hymne de bataille de 3m par point de compétence (base 17m). Augmente également le rythme de l'hymne de bataille de 0,5s (base 5s).</TM_BattleHymn_ver_desc>
+<TM_BattleHymn_pwr_desc>Augmente les effets de l'hymne de bataille de 12% par point de compétence pour chaque vers (itération) où il reste actif et augmente les chances de provoquer une inspiration de 1%.</TM_BattleHymn_pwr_desc>
+
+<TM_BardTraining_pwr>   Formation de barde</TM_BardTraining_pwr>
+<TM_Entertain_ver>   Rire abondant</TM_Entertain_ver>
+<TM_Entertain_pwr>   Improvisation</TM_Entertain_pwr>
+<TM_Inspire_ver>   Dramaturge</TM_Inspire_ver>
+<TM_Inspire_pwr>   Charisme</TM_Inspire_pwr>
+<TM_Lullaby_eff>   Mains habiles</TM_Lullaby_eff>
+<TM_Lullaby_pwr>   Vers de l'oreille</TM_Lullaby_pwr>
+<TM_Lullaby_ver>   Résonance</TM_Lullaby_ver>
+<TM_BattleHymn_ver>   Note persistante</TM_BattleHymn_ver>
+<TM_BattleHymn_eff>   Vocalisme</TM_BattleHymn_eff>
+<TM_BattleHymn_pwr>   Chœur héroïque</TM_BattleHymn_pwr>
+
+<TM_SoulBond_pwr_desc>Augmente le bénéfice de Lien de l'âme pour le démonoïde.</TM_SoulBond_pwr_desc>
+<TM_SoulBond_eff_desc>Diminue le coût en mana pour utiliser Pas de l’ombre et Appel de l'ombre de 10% par point de compétence.</TM_SoulBond_eff_desc>
+<TM_SoulBond_ver_desc>Diminue la charge du lien d'âme sur l'hôte.</TM_SoulBond_ver_desc>
+<TM_ShadowBolt_ver_desc>Augmente les dégâts de proximité et le rayon de Trait de l'ombre.</TM_ShadowBolt_ver_desc>
+<TM_ShadowBolt_pwr_desc>Augmente les dégâts directs de Trait de l'ombre de 10% et la taille et les dégâts de la réplique d'ombre de 25% par niveau de compétence.</TM_ShadowBolt_pwr_desc>
+<TM_ShadowBolt_eff_desc>Diminue le coût en mana de Trait de l'ombre de 8% par niveau de compétence.</TM_ShadowBolt_eff_desc>
+<TM_Dominate_ver_desc>Approfondit l'ombre de domination, augmentant la durée de Dominer et le rayon d'infection.
+Niveau 0 : 15-30s, rayon 3 cases
+Niveau 1 : 25-40s, rayon 4 cases
+Niveau 2 : 35-50s, rayon 5 cases
+Niveau 3 : 45-60s, rayon 6 cases</TM_Dominate_ver_desc>
+<TM_Dominate_pwr_desc>Augmente la puissance de Dominer et augmente la fréquence à laquelle elle se propage. Les succubes diminuent les capacités physiques et de combat ; les sorciers augmentent le type et la fréquence des pauses mentales et réduisent le niveau de conscience.</TM_Dominate_pwr_desc>
+<TM_Dominate_eff_desc>Diminue le coût en mana de Dominer de 6% et réduit le coût de gravité pour propager dominer à un autre hôte de 20%.</TM_Dominate_eff_desc>
+<TM_Attraction_eff_desc>Réduit le coût en mana de Attraction de 8% par point de compétence.</TM_Attraction_eff_desc>
+<TM_Attraction_pwr_desc>Augmente le rayon de Attraction de 1,5 case par niveau de compétence.</TM_Attraction_pwr_desc>
+<TM_Attraction_ver_desc>Augmente la durée de Attraction de 2s et sa durée de ralentissement de 25% par niveau de compétence.</TM_Attraction_ver_desc>
+<TM_Repulsion_eff_desc>Réduit le coût en mana de Répulsion de 8% par point de compétence.</TM_Repulsion_eff_desc>
+<TM_Repulsion_pwr_desc>Augmente la force de Répulsion de 20% par niveau de compétence. La quantité de force appliquée à un colon est proportionnelle à la distance qui le sépare du centre.</TM_Repulsion_pwr_desc>
+<TM_Repulsion_ver_desc>Applique des dégâts basés sur la quantité de force agissant sur le colon. Ces dégâts ne sont appliqués qu'aux ennemis.
+Niveau 0 : 0%
+Niveau 1 : 20%
+Niveau 2 : 40%
+Niveau 3 : 60%</TM_Repulsion_ver_desc>
+<TM_Scorn_eff_desc>Réduit le coût en mana de Dédain de 6% par point de compétence.</TM_Scorn_eff_desc>
+<TM_Scorn_ver_desc>Augmente le rayon d'impact de Dédain de 1 case par point de compétence. Rayon de base de 7 cases.
+Augmente également la puissance de la transformation démoniaque partielle.</TM_Scorn_ver_desc>
+<TM_Scorn_pwr_desc>Augmente les dégâts de Dédain de 15% par niveau de compétence.
+Augmente également la puissance du bouclier de dégâts démoniaques de 25%. Le bouclier de base absorbe 60 points de dégâts.</TM_Scorn_pwr_desc>
+<TM_PsychicShock_eff_desc>Réduit le coût en mana du Choc psychique de 6% par point de compétence.</TM_PsychicShock_eff_desc>
+<TM_PsychicShock_ver_desc>Augmente le rayon du Choc psychique et les impulsions secondaires de 1 case. Le rayon de base est de 6.</TM_PsychicShock_ver_desc>
+<TM_PsychicShock_pwr_desc>Augmente les dégâts des assauts psychiques de 1 point par niveau de compétence.</TM_PsychicShock_pwr_desc>
+
+<TM_SoulBond_pwr>   Lien amplifié</TM_SoulBond_pwr>
+<TM_SoulBond_eff>   Lien d'âme</TM_SoulBond_eff>
+<TM_SoulBond_ver>   Buffer d'âme</TM_SoulBond_ver>
+<TM_ShadowBolt_ver>   L'expansion des ténèbres</TM_ShadowBolt_ver>
+<TM_ShadowBolt_pwr>   Ombre vorace</TM_ShadowBolt_pwr>
+<TM_ShadowBolt_eff>   Cœur des ténèbres</TM_ShadowBolt_eff>
+<TM_Dominate_ver>   Désastre imminent</TM_Dominate_ver>
+<TM_Dominate_pwr>   Alerte noire</TM_Dominate_pwr>
+<TM_Dominate_eff>   Maîtrise de l'ombre</TM_Dominate_eff>
+<TM_Attraction_eff>   L'ombre qui attire</TM_Attraction_eff>
+<TM_Attraction_pwr>   Ouvrir l'abîme</TM_Attraction_pwr>
+<TM_Attraction_ver>   Griffes de l'ombre</TM_Attraction_ver>
+<TM_Repulsion_eff>   Esprit vif</TM_Repulsion_eff>
+<TM_Repulsion_pwr>   Volonté</TM_Repulsion_pwr>
+<TM_Repulsion_ver>   Dispersion violente</TM_Repulsion_ver>
+<TM_Scorn_ver>   Malveillance</TM_Scorn_ver>
+<TM_Scorn_eff>   Sang de démon</TM_Scorn_eff>
+<TM_Scorn_pwr>   Furie</TM_Scorn_pwr>
+<TM_PsychicShock_ver>   Insanité</TM_PsychicShock_ver>
+<TM_PsychicShock_eff>   Mentaliste</TM_PsychicShock_eff>
+<TM_PsychicShock_pwr>   Volonté dominante</TM_PsychicShock_pwr>
+
+<TM_Stoneskin_pwr_desc>Augmente le nombre d'attaques que Peau de pierre atténue avant de se dissiper.
+Niveau 0 : 4 attaques
+Niveau 1 : 5 attaques
+Niveau 2 : 6 attaques
+Niveau 3 : 7 attaques</TM_Stoneskin_pwr_desc>
+<TM_Stoneskin_eff_desc>Réduit de 2 le coût d'entretien en mana de chaque exemplaire de Peau de pierre.
+Niveau 0 : -15 mana max
+Niveau 1 : -13 mana max
+Niveau 2 : -11 mana max
+Niveau 3 : - 9 mana max</TM_Stoneskin_eff_desc>
+<TM_Stoneskin_ver_desc>Augmente le nombre maximum d'exemplaire de Peau de pierre que le Géomancien peut maintenir. Le géomancien doit également disposer de réserves de mana suffisantes pour maintenir chaque sort.
+Niveau 0 : 2
+Niveau 1 : 3
+Niveau 2 : 4
+Niveau 3 : 5</TM_Stoneskin_ver_desc>
+<TM_Encase_pwr_desc>Utilise des types de pierres plus robustes, ce qui les rend plus difficiles à percer.</TM_Encase_pwr_desc>
+<TM_Encase_eff_desc>Réduit le coût en endurance nécessaire pour utiliser Figer de 8% par niveau de compétence.</TM_Encase_eff_desc>
+<TM_Encase_ver_desc>Augmente la durée de Figer de 4s par niveau de compétence.
+Niveau 0 : 30s
+Niveau 1 : 34s
+Niveau 2 : 38s
+Niveau 3 : 42s</TM_Encase_ver_desc>
+<TM_EarthSprites_pwr_desc>Augmente la vitesse de travail des Lutins de terre de 20% par niveau de compétence. Cette compétence peut être portée au niveau 5.</TM_EarthSprites_pwr_desc>
+<TM_EarthSprites_eff_desc>Réduit de 6% par niveau de compétence le mana initial nécessaire pour lancer des Lutins de terre.</TM_EarthSprites_eff_desc>
+<TM_EarthSprites_ver_desc>Réduit la régénération du mana drainé par les lutins de terre de 7% par niveau de compétence.
+Niveau 0 : -60% de régénération du mana
+Niveau 1 : -53% de régénération du mana
+Niveau 2 : -46% de régénération du mana
+Niveau 3 : -39% de régénération du mana</TM_EarthSprites_ver_desc>
+<TM_EarthernHammer_pwr_desc>Augmente la quantité de poids que le géomancien est capable de manipuler. Tirer des pierres souterraines nécessite 3 poids ; lancer des pierres de surface proches nécessite 1 poids.
+Niveau 0 :  8 poids
+Niveau 1 : 10 poids
+Niveau 2 : 12 poids
+Niveau 3 : 14 poids</TM_EarthernHammer_pwr_desc>
+<TM_EarthernHammer_eff_desc>Diminue le coût en mana du Marteau terrestre de 6% par niveau de compétence.</TM_EarthernHammer_eff_desc>
+<TM_EarthernHammer_ver_desc>Réduit le temps entre chaque lancer et réduit la durée de l'étourdissement appliqué au lanceur.</TM_EarthernHammer_ver_desc>
+<TM_Sentinel_pwr_desc>Augmente la puissance de combat d'un sentinelle. Nécessite 2 points d'aptitude par niveau.
+Niveau 0 (sentinelle inférieure) : Puissance 12, Armure 45%, Vitesse 3.2c/s, Santé 75%.
+Niveau 1 (sentinelle) : Puissance 14, Armure 51%, Vitesse 4c/s, Santé 100%.
+Niveau 2 (sentinelle supérieure) : Puissance 16, Armure 55%, Vitesse 4.8c/s, Santé 125%.</TM_Sentinel_pwr_desc>
+<TM_Sentinel_eff_desc>Diminue le coût d'entretien de chaque sentinelle.
+Niveau 0 : -20 mana max
+Niveau 1 : -18 mana max
+Niveau 2 : -16 mana max
+Niveau 3 : -15 mana max</TM_Sentinel_eff_desc>
+<TM_Sentinel_ver_desc>Augmente le nombre maximum de sentinelles qu'un Géomancien peut maintenir à un moment donné. Le Géomancien doit également disposer de réserves de mana suffisantes pour maintenir chaque sentinelle.
+Niveau 0 : 2
+Niveau 1 : 3
+Niveau 2 : 4
+Niveau 3 : 5</TM_Sentinel_ver_desc>
+<TM_Meteor_eff_desc>Diminue le coût en mana de Météore de 5% du coût de base par niveau de compétence.</TM_Meteor_eff_desc>
+<TM_Meteor_ver_desc>Augmente les chances que les cases adjacentes au noyau de la météorite contiennent également des minéraux précieux.
+Niveau 0 :  0%
+Niveau 1 : 15%
+Niveau 2 : 30%
+Niveau 3 : 45%</TM_Meteor_ver_desc>
+
+<TM_Stoneskin_pwr>   Défense multicouche</TM_Stoneskin_pwr>
+<TM_Stoneskin_eff>   Peau familière</TM_Stoneskin_eff>
+<TM_Stoneskin_ver>   Peau commune</TM_Stoneskin_ver>
+<TM_Encase_pwr>   Pierre inflexible</TM_Encase_pwr>
+<TM_Encase_eff>   Fabricant de moulage</TM_Encase_eff>
+<TM_Encase_ver>   Pierre durable</TM_Encase_ver>
+<TM_EarthSprites_pwr>   Puissant Spriggan</TM_EarthSprites_pwr>
+<TM_EarthSprites_eff>   Fickle Fey</TM_EarthSprites_eff>
+<TM_EarthSprites_ver>   Déviant de Mana</TM_EarthSprites_ver>
+<TM_EarthernHammer_pwr>   Métal lourd</TM_EarthernHammer_pwr>
+<TM_EarthernHammer_eff>   Sol meuble</TM_EarthernHammer_eff>
+<TM_EarthernHammer_ver>   Gravité altérée</TM_EarthernHammer_ver>
+<TM_Sentinel_pwr>   Maître artisan</TM_Sentinel_pwr>
+<TM_Sentinel_eff>   Cœur de pierre</TM_Sentinel_eff>
+<TM_Sentinel_ver>   État de droit</TM_Sentinel_ver>
+<TM_Meteor_eff>   Secouer la terre</TM_Meteor_eff>
+<TM_Meteor_ver>   Coeur d'or</TM_Meteor_ver>
+
+<TM_TechnoBit_pwr_desc>Le Techno-bit convertit le mana du technomancien en rafales de micro lasers sur sa cible. Chaque niveau de compétence augmente la portée et diminue le délai de tir et le coût en mana par attaque.
+Niveau  0 : 25 portée, 3 tirs toutes les 3.00s, 6.0 mana
+Niveau  5 : 30 portée, 4 tirs toutes les 2.75s, 5.5 mana
+Niveau 10 : 35 portée, 5 tirs toutes les 2.50s, 5.0 mana
+Niveau 15 : 40 portée, 6 tirs toutes les 2.25s, 4.5 mana</TM_TechnoBit_pwr_desc>
+<TM_TechnoBit_eff_desc>Augmente le nombre, la fréquence et le rayon de recherche des réparations tout en diminuant le coût en mana pour effectuer les réparations.
+
+La fréquence des réparations est augmentée pendant la mobilisation.</TM_TechnoBit_eff_desc>
+<TM_TechnoBit_ver_desc>Améliore l'interface utilisateur du techno-bit, ce qui lui permet d'accroître l'aide apportée au technomancien lors des tâches de construction, d'artisanat et d'exploitation minière, tout en réduisant le coût en mana.
+
+Efficacité augmentée de 10% par point de compétence. Diminue le coût en mana de 2% par point de compétence.</TM_TechnoBit_ver_desc>
+<TM_TechnoTurret_pwr_desc>Augmente le nombre de tirs en rafale de 0,4 par niveau.
+Diminue le temps d'échauffement de 2% par niveau.
+Augmente la précision dans toutes les catégories de portée de 1% par niveau.</TM_TechnoTurret_pwr_desc>
+<TM_TechnoTurret_eff_desc>Augmente les points de vie de Mark-IV de 10 par niveau.
+Réduit le coût en mana des roquettes et des mortiers de 3% par niveau.
+Réduit la quantité de rétroaction neuronale causée lorsqu'il est désactivé grâce à son dispositif de sécurité.</TM_TechnoTurret_eff_desc>
+<TM_TechnoTurret_ver_desc>Ajoute et améliore les systèmes d'armes pour la tourelle Mark-IV.
+Augmente la portée de tir des canons automatiques de la tourelle de 1 par niveau.
+Niveau  5 : Ajoute un lance-roquettes ; les niveaux supplémentaires augmentent la cadence de tir.
+Niveau 10 : Tire 2 roquettes ; ajoute un petit système de mortier ; les niveaux supplémentaires augmentent la portée et la cadence de tir du mortier.
+Niveau 15 : Tire 3 roquettes</TM_TechnoTurret_ver_desc>
+<TM_TechnoWeapon_pwr_desc>Améliore tous les aspects du système d'arme pour chaque niveau de compétence : dégâts, portée, temps d'échauffement et temps de recharge améliorés de 2 %, toutes les précisions améliorées de 1 %, et augmente le nombre de tirs par rafale de 2 % (arrondi à l'entier le plus proche).</TM_TechnoWeapon_pwr_desc>
+<TM_TechnoWeapon_eff_desc>Améliore tous les aspects du nano-stimulant.</TM_TechnoWeapon_eff_desc>
+<TM_TechnoWeapon_ver_desc>Augmente les chances de générer un tir élémentaire de 1% (base 20%) et réduit la consommation de mana par tir de 4% par niveau de compétence. Cette compétence peut être basculée.
+
+Tir de feu : génère une explosion ininflammable (2 mana)
+
+Tir de glace : toute partie du corps touchée perd de son efficacité (1,5 mana).
+
+Tir de foudre : étourdit la cible (1 mana)</TM_TechnoWeapon_ver_desc>
+<TM_TechnoShield_pwr_desc>Ajoute des condensateurs qui se déclenchent lors de la déviation des projectiles entrants ; augmente la quantité d'énergie pouvant être déviée.</TM_TechnoShield_pwr_desc>
+<TM_TechnoShield_eff_desc>Diminue le coût en mana pour générer un Champ cinétique de 6% par point de compétence.</TM_TechnoShield_eff_desc>
+<TM_TechnoShield_ver_desc>Augmente la quantité d'énergie disponible pour le bouclier cinétique de 30pts par niveau de compétence. Base 110pts.</TM_TechnoShield_ver_desc>
+<TM_Sabotage_pwr_desc>Augmente l'effet du sabotage.</TM_Sabotage_pwr_desc>
+<TM_Sabotage_eff_desc>Diminue le coût en mana du sabotage de 6% par niveau de compétence.</TM_Sabotage_eff_desc>
+<TM_Sabotage_ver_desc>Augmente la probabilité que le sabotage réussisse de 10%. Base 50%.</TM_Sabotage_ver_desc>
+<TM_Overdrive_pwr_desc>Augmente l'effet et la durée de Surmultiplicateur.</TM_Overdrive_pwr_desc>
+<TM_Overdrive_eff_desc>Diminue le coût en mana de Surmultiplicateur de 8% du coût de base par niveau de compétence.</TM_Overdrive_eff_desc>
+<TM_Overdrive_ver_desc>Réduit la fréquence et les dégâts causés aux sous-systèmes et augmente la durée de Surmultiplicateur.</TM_Overdrive_ver_desc>
+<TM_OrbitalStrike_pwr_desc>Augmente les dégâts d'explosion de 20% par niveau de compétence. Dégâts de base 25.</TM_OrbitalStrike_pwr_desc>
+<TM_OrbitalStrike_eff_desc>Diminue le coût en mana de Frappe orbitale de 5% du coût de base par niveau de compétence.</TM_OrbitalStrike_eff_desc>
+<TM_OrbitalStrike_ver_desc>Réduit le temps nécessaire aux systèmes de bombardement orbital pour s'aligner sur les coordonnées de la cible.</TM_OrbitalStrike_ver_desc>
+
+<TM_TechnoBit_pwr>   Protocole offensif</TM_TechnoBit_pwr>
+<TM_TechnoBit_eff>   Protocole de réparation</TM_TechnoBit_eff>
+<TM_TechnoBit_ver>   Interface neuronale</TM_TechnoBit_ver>
+<TM_TechnoTurret_pwr>   Puissance de feu</TM_TechnoTurret_pwr>
+<TM_TechnoTurret_eff>   Durabilité</TM_TechnoTurret_eff>
+<TM_TechnoTurret_ver>   Armement</TM_TechnoTurret_ver>
+<TM_TechnoWeapon_pwr>   Armement amélioré</TM_TechnoWeapon_pwr>
+<TM_TechnoWeapon_eff>   Injection de nanites</TM_TechnoWeapon_eff>
+<TM_TechnoWeapon_ver>   Tir élémentaire</TM_TechnoWeapon_ver>
+<TM_TechnoShield_pwr>   Condensateurs cinétiques</TM_TechnoShield_pwr>
+<TM_TechnoShield_eff>   Cyclone de puissance</TM_TechnoShield_eff>
+<TM_TechnoShield_ver>   Champs alternatifs</TM_TechnoShield_ver>
+<TM_Sabotage_pwr>   Routine de piratage</TM_Sabotage_pwr>
+<TM_Sabotage_eff>   Connexions redondantes</TM_Sabotage_eff>
+<TM_Sabotage_ver>   Gourou du codage</TM_Sabotage_ver>
+<TM_Overdrive_pwr>   Overclock</TM_Overdrive_pwr>
+<TM_Overdrive_eff>   Puissance pure</TM_Overdrive_eff>
+<TM_Overdrive_ver>   Contrôle des dégâts</TM_Overdrive_ver>
+<TM_OrbitalStrike_pwr>   Outrance meurtrière</TM_OrbitalStrike_pwr>
+<TM_OrbitalStrike_eff>   Calcul de l'alignement</TM_OrbitalStrike_eff>
+<TM_OrbitalStrike_ver>   Contournement d'autorisation</TM_OrbitalStrike_ver>
+
+<TM_BloodGift_pwr_desc>Augmente les dégâts de toute la magie du sang de 10% par point de compétence.</TM_BloodGift_pwr_desc>
+<TM_BloodGift_eff_desc>Réduit le coût en mana des sacrifices de sang de 6% par point de compétence et réduit le coût en sang de toute magie du sang de 3% par point de compétence.</TM_BloodGift_eff_desc>
+<TM_BloodGift_ver_desc>Augmente de 10 % la quantité de magie du sang obtenue lors d'un sacrifice de sang ou d'une hémorragie. L'augmentation du niveau de compétence permet au mage de sang de prélever du sang frais sur le sol :
+Niveau 0 : aucun
+Niveau 1 : rayon de 1 case.
+Niveau 2 : rayon de 3 cases
+Niveau 3 : rayon de 5 cases</TM_BloodGift_ver_desc>
+<TM_IgniteBlood_pwr_desc>Augmente les dégâts de Embrasement du sang de 12% par niveau de compétence.</TM_IgniteBlood_pwr_desc>
+<TM_IgniteBlood_eff_desc>Réduit le coût de la magie du sang nécessaire pour utiliser Embrasement du sang de 6% par niveau de compétence.</TM_IgniteBlood_eff_desc>
+<TM_IgniteBlood_ver_desc>Augmente la vitesse de combustion de Embrasement du sang de 15% par point de compétence. Cela affecte la vitesse à laquelle les flammes se propagent et la vitesse à laquelle les flammes tic.</TM_IgniteBlood_ver_desc>
+<TM_BloodForBlood_pwr_desc>Augmente la durée de Sang pour sang de 10%.</TM_BloodForBlood_pwr_desc>
+<TM_BloodForBlood_eff_desc>Réduit le coût de la magie du sang nécessaire pour utiliser Sang pour sang de 6% par niveau de compétence.</TM_BloodForBlood_eff_desc>
+<TM_BloodForBlood_ver_desc>Augmente le montant des soins prodigués par Sang pour sang de 0,35 pts à chaque niveau de compétence. Base 1 pt.
+
+Chaque tic de Sang pour sang peut émettre une vague de guérison générée par le lanceur de sorts qui soignera tous les colons amis à proximité. Chaque niveau de compétence augmente également le rayon de l'impulsion de guérison :
+Niveau 0 : aucun
+Niveau 1 : rayon de 1 case
+Niveau 2 : rayon de 2 cases
+Niveau 3 : rayon de 3 cases</TM_BloodForBlood_ver_desc>
+<TM_BloodShield_pwr_desc>Augmente la force du Bouclier de sang de 10% par point de compétence.</TM_BloodShield_pwr_desc>
+<TM_BloodShield_eff_desc>Diminue le coût de la magie du sang nécessaire pour utiliser le Bouclier de sang de 6% par niveau de compétence.</TM_BloodShield_eff_desc>
+<TM_BloodShield_ver_desc>Augmente la quantité de soins générés par le Bouclier de sang de 15% par niveau de compétence.</TM_BloodShield_ver_desc>
+<TM_Rend_pwr_desc>Augmente les dégâts de Pourfendre de 15% par point de compétence.</TM_Rend_pwr_desc>
+<TM_Rend_eff_desc>Diminue le coût de la magie du sang nécessaire pour utiliser Pourfendre de 5% par niveau de compétence.</TM_Rend_eff_desc>
+<TM_Rend_ver_desc>Augmente la durée de Pourfendre de 20% par niveau de compétence et augmente la quantité de sang créé.</TM_Rend_ver_desc>
+<TM_BloodMoon_pwr_desc>pprofondissez la nuit et appelez des terreurs sanguinaires plus puissantes, augmentant leur taille et leurs dégâts de 15% par niveau de compétence.</TM_BloodMoon_pwr_desc>
+<TM_BloodMoon_eff_desc>Les terreurs sanguinaires attendent impatiemment votre appel, diminuant la magie du sang nécessaire pour utiliser Lune de sang de 4% par point de compétence et augmentant la fréquence d'attaque des terreurs sanguinaires de 5%.</TM_BloodMoon_eff_desc>
+<TM_BloodMoon_ver_desc>Prolonge la durée de Lune de sang de 10% par point de compétence.</TM_BloodMoon_ver_desc>
+
+<TM_BloodGift_pwr>   Le sang est Puissant</TM_BloodGift_pwr>
+<TM_BloodGift_eff>   Sacrifice du sang</TM_BloodGift_eff>
+<TM_BloodGift_ver>   Sang pur</TM_BloodGift_ver>
+<TM_IgniteBlood_pwr>   Hémorragie</TM_IgniteBlood_pwr>
+<TM_IgniteBlood_eff>   Éclat de sang</TM_IgniteBlood_eff>
+<TM_IgniteBlood_ver>   Incendie</TM_IgniteBlood_ver>
+<TM_BloodForBlood_pwr>   Hémophilie</TM_BloodForBlood_pwr>
+<TM_BloodForBlood_eff>   Liens du sang</TM_BloodForBlood_eff>
+<TM_BloodForBlood_ver>   Pulsion de vie</TM_BloodForBlood_ver>
+<TM_BloodShield_pwr>   Sang épaissi</TM_BloodShield_pwr>
+<TM_BloodShield_eff>   Ruée de sang</TM_BloodShield_eff>
+<TM_BloodShield_ver>   Coagulation des blessures</TM_BloodShield_ver>
+<TM_Rend_pwr>   Bord dentelé</TM_Rend_pwr>
+<TM_Rend_eff>   Griffe mystique</TM_Rend_eff>
+<TM_Rend_ver>   Mille coupures</TM_Rend_ver>
+<TM_BloodMoon_pwr>   Pleine Lune</TM_BloodMoon_pwr>
+<TM_BloodMoon_eff>   Faim</TM_BloodMoon_eff>
+<TM_BloodMoon_ver>   Nuit sans fin</TM_BloodMoon_ver>
+
+<TM_EnchantedBody_pwr_desc>Augmente la puissance du Corps enchanté et de Aura enchantée de ~33% par niveau de compétence.</TM_EnchantedBody_pwr_desc>
+<TM_EnchantedBody_eff_desc>Réduit le coût d'entretien en mana de Corps enchanté et Aura enchantée de 20% par niveau de compétence.</TM_EnchantedBody_eff_desc>
+<TM_EnchantedBody_ver_desc>Réduit la pénalité de régénération de mana de Corps enchanté et Aura enchantée de 20% par niveau de compétence.</TM_EnchantedBody_ver_desc>
+<TM_Transmutate_pwr_desc>Diminue la quantité de valeur perdue de 5% par niveau de compétence lors d'une transmutation. La valeur de conversion de base est de 70%.
+La transmutation de l'équipement dégrade l'équipement :
+Niveau 0 : -20% PV
+Niveau 1 : -10% PV
+Niveau 2 : aucune dégradation
+Niveau 3 : +10% PV
+
+L'équipement se désintègre s'il se dégrade en dessous de 0 de durabilité. Les transmutations d'équipement supprimeront toujours la mention " contaminé ".</TM_Transmutate_pwr_desc>
+<TM_Transmutate_eff_desc>Réduit le coût en mana nécessaire pour utiliser Transmutation de 12% par niveau de compétence.</TM_Transmutate_eff_desc>
+<TM_Transmutate_ver_desc>La transmutation peut être effectuée sur des matériaux plus complexes.
+Niveau 0 : Ressources brutes (pierre, acier, argent, etc.)
+Niveau 1 : Nourriture (viande, riz, repas) se transforme toujours en pemmican ou en pâte nutritive
+Niveau 2 : Cadavres - se transforment toujours en pâte nutritive
+Niveau 3 : Equipement - s'applique à l'équipement fabriqué à partir d'objets ; se transforme aléatoirement en objets de la même catégorie
+L'équipement fabriqué uniquement à partir d'un matériau fixe sera réparé à hauteur de 30% + 10% * niveau de compétence du taux de conversion. L'utilisation de la transmutation lors d'une inspiration créative améliore la qualité d'un objet mais met fin à l'inspiration.</TM_Transmutate_ver_desc> 
+<TM_EnchanterStone_eff_desc>Réduit de 10 % le mana nécessaire pour lancer la Pierre d’enchantement et réduit de 2 le coût en mana max par niveau de compétence.</TM_EnchanterStone_eff_desc>
+<TM_EnchanterStone_ver_desc>Permet à l'enchanteur de créer des artefacts à partir de plus de types de ressources. Cette compétence nécessite 2 points d'aptitude pour être maîtrisée.
+Niveau 0 : gravats (ardoise, grès, calcaire, marbre, granite)
+Niveau 1 : acier, argent, *fer
+Niveau 2 : herbes médicinales, jade, bois
+Niveau 3 : or, magicite</TM_EnchanterStone_ver_desc>
+<TM_EnchantWeapon_pwr_desc>Augmente la puissance de l'enchantement de l'arme.
+Feu :   +33% de dégâts moyens
+Glace : +25% de dégâts moyens
+Stun :  +25% de durée d'étourdissement
+Ombre : +10% de chances d'application</TM_EnchantWeapon_pwr_desc>
+<TM_EnchantWeapon_eff_desc>Diminue le coût en mana de l'enchantement d'arme de 10% par niveau de compétence.</TM_EnchantWeapon_eff_desc>
+<TM_Polymorph_pwr_desc>Réduit les chances de résistance de la cible. La résistance est affectée par la résistance magique et la sensibilité psychique de la cible. Peut faire enrager (fou furieux) les ennemis.
+
+Chance de résistance avant les modificateurs :
+Niveau 0 : Colon 50%, Mécanoïde 0%
+Niveau 1 : Colon 60%, Mécanoïde 20%, Enragé 20%
+Niveau 2 : Colon 70%, Mécanoïde 40%, Enragé 40%
+Niveau 3 : Colon 80%, Mécanoïde 60%, Enragé 50%</TM_Polymorph_pwr_desc>
+<TM_Polymorph_eff_desc>Diminue le coût pour lancer Métamorphose de 6% par niveau de compétence.</TM_Polymorph_eff_desc>
+<TM_Polymorph_ver_desc>Augmente la durée de Métamorphose et applique plus de contrôle sur les pouvoirs de combat de la créature pour les ennemis et les alliés. Cette compétence nécessite 2 points d'aptitude pour être maîtrisée.
+Niveau 0 : Durée 30s
+ennemi 100 / allié  60
+Niveau 1 : Durée 40s
+ennemi  80 / allié 100
+Niveau 2 : Durée 50s
+ennemi  60 / allié 160
+Niveau 3 : Permanent
+ennemi  60 / allié 200</TM_Polymorph_ver_desc>
+<TM_Shapeshift_pwr_desc>L'enchanteur prend quelques libertés pour améliorer les traits physiques de la créature en laquelle il se Changeforme. Apprenez à améliorer encore la puissance physique pendant le Changeforme. Cette compétence nécessite 2 points d'aptitude pour être apprise.
+Niveau 0 : physique +25%
+vitesse d'attaque +10%, armure +10%
+Niveau 1 : physique +35%
+vitesse d'attaque +10%, armure +15%
+Niveau 2 : physique +40%
+vitesse d'attaque +15%, armure +15%
+Niveau 3 : physique +50%
+vitesse d'attaque +15%, armure +20%
+</TM_Shapeshift_pwr_desc>
+<TM_Shapeshift_eff_desc>Diminue le coût en mana de Changeforme de 5% du coût de base par niveau de compétence. Augmente la durée de 20%. Cette compétence nécessite 2 points d'aptitude pour être maîtrisée.
+Niveau 3 : Changeforme est permanente jusqu'à ce qu'il soit annulé.</TM_Shapeshift_eff_desc>
+<TM_Shapeshift_ver_desc>Changeforme en créatures ayant une puissance de combat supérieure. Les valeurs Min/Max sont multipliées par la puissance magique. Cette compétence nécessite 2 points d'aptitude pour être maîtrisée.
+Niveau 0 : min  80, max 250
+Niveau 1 : min 120, max 320
+Niveau 2 : min 150, max 420
+Niveau 3 : min 200, max 500 ; débloque Changeforme : Loup redoutable</TM_Shapeshift_ver_desc>
+
+<TM_EnchantedBody_pwr>   L'esprit et le corps</TM_EnchantedBody_pwr>
+<TM_EnchantedBody_eff>   Forme conforme</TM_EnchantedBody_eff>
+<TM_EnchantedBody_ver>   Adaptation</TM_EnchantedBody_ver>
+<TM_Transmutate_pwr>   Taux de conversion</TM_Transmutate_pwr>
+<TM_Transmutate_eff>   Coût de transformation</TM_Transmutate_eff>
+<TM_Transmutate_ver>   Application des matériaux</TM_Transmutate_ver>
+<TM_EnchanterStone_eff>   Contrôle subatomique</TM_EnchanterStone_eff>
+<TM_EnchanterStone_ver>   Matières premières</TM_EnchanterStone_ver>
+<TM_EnchantWeapon_pwr>   Tranchant élémentaire</TM_EnchantWeapon_pwr>
+<TM_EnchantWeapon_eff>   Tissage élémentaire</TM_EnchantWeapon_eff>
+<TM_Polymorph_pwr>   Réduire les résistances</TM_Polymorph_pwr>
+<TM_Polymorph_eff>   Sans couture</TM_Polymorph_eff> 
+<TM_Polymorph_ver>   Bouts de ficelle</TM_Polymorph_ver>
+<TM_Shapeshift_pwr>   Forme améliorée</TM_Shapeshift_pwr>
+<TM_Shapeshift_eff>   Transformation durable</TM_Shapeshift_eff>
+<TM_Shapeshift_ver>   Sélection naturelle</TM_Shapeshift_ver>
+
+<TM_Prediction_pwr_desc>Applique le pouvoir de prédiction pour protéger le chronomancier.
+Cette compétence réduit la quantité de concentration mentale nécessaire pour conserver un état précognitif tout en augmentant la vitesse de réaction aux futurs dangers.
+
+Niveau 0 : -24% de conscience, -10% de délai de visée, +3% de seuil de rupture mentale, +5% de chances d'esquive en mêlée, 5% de chances de prévoir et d'éviter les attaques physiques.
+
+Niveau 5 : -10% de conscience, -20% de délai de visée, +6% de seuil de rupture mentale, +15% de chances d'esquive en mêlée, 55% de chances de prévoir et d'éviter les attaques physiques.</TM_Prediction_pwr_desc>
+<TM_Prediction_eff_desc>Réduit la quantité de régénération de mana nécessaire pour maintenir la Prédiction.
+
+Niveau 0 : -50% de régénération de mana
+Niveau 1 : -45% de régénération de mana
+Niveau 2 : -40% de régénération de mana
+Niveau 3 : -35% de régénération de mana</TM_Prediction_eff_desc>
+<TM_Prediction_ver_desc>Augmente les chances de prédire un événement de 5% par niveau de compétence. Chaque chronomancier ne peut prédire qu'un seul événement à la fois.
+
+Niveau 0 : 25%
+Niveau 1 : 30%
+Niveau 2 : 35%
+Niveau 3 : 40%</TM_Prediction_ver_desc>
+<TM_AlterFate_pwr_desc>Augmente les chances d'obtenir des résultats favorables lorsque vous utilisez Altérer du destin. L'objectif premier de l'Altérer du destin est d'empêcher la prédiction ; au niveau 3, il est possible d'annuler les conditions environnementales (vague de chaleur, tempête éclair, etc.) pendant une courte période après leur apparition.
+
+Niveau 0 : 25% de chances de prévention
+Niveau 1 : 30% de chances de prévention
+Niveau 2 : 35% de chances de prévention
+Niveau 3 : 40% de chances de prévention ; modification des conditions environnementales</TM_AlterFate_pwr_desc>
+<TM_AlterFate_eff_desc>Réduit le coût en mana nécessaire pour utiliser Altérer du destin de 10% par niveau de compétence.</TM_AlterFate_eff_desc>
+<TM_AccelerateTime_eff_desc>Réduit le mana nécessaire pour lancer Accélération du temps de 8% par niveau de compétence.</TM_AccelerateTime_eff_desc>
+<TM_AccelerateTime_ver_desc>Augmente le potentiel d'accélération du temps en augmentant le nombre maximum de cibles ennemies, en réduisant les chances de résistance et en augmentant la durée du champ temporel.
+
+Niveau 0 : 2 cibles, taux de réussite de 50%, durée de 100%
+Niveau 1 : 3 cibles, taux de réussite de 60%, durée de 110%
+Niveau 2 : 4 cibles, taux de réussite de 70%, durée de 120%
+Niveau 3 : 5 cibles, taux de réussite de 80%, durée de 130%</TM_AccelerateTime_ver_desc>
+<TM_AccelerateTime_pwr_desc>Augmente la puissance de Accélération du temps.
+
+Les colons vieillissent 10 % plus vite, les colons ennemis commencent à souffrir de maladies liées à l'âge à un âge plus jeune, et les autres conditions affectant la santé sont accélérées. L'équipement se détériore également de 100 points de durabilité supplémentaires.</TM_AccelerateTime_pwr_desc>
+<TM_ReverseTime_pwr_desc>Augmente la puissance de Inverser le temps.
+Augmente la quantité de dégradation, de pourriture ou d'équipement qui est inversée, augmente le taux d'inversion des conditions de santé, et augmente l'efficacité du champ d'inversion entourant du colon.</TM_ReverseTime_pwr_desc>
+<TM_ReverseTime_eff_desc>Diminue le coût en mana de Inverser le temps de 8% par niveau de compétence.</TM_ReverseTime_eff_desc>
+<TM_ReverseTime_ver_desc>Augmente les chances de réussite et la durée de Inverser le temps de 10% par niveau de compétence.
+
+Au niveau 3 de compétence, peut être utilisé sur un colon récemment décédé (~2 heures de jeu) pour tenter d'inverser les conditions physiques qui ont causé la mort.</TM_ReverseTime_ver_desc>
+<TM_ChronostaticField_pwr_desc>Augmente la durée du Champ chronostatique de 20% par niveau de compétence. Durée de base 26s.</TM_ChronostaticField_pwr_desc>
+<TM_ChronostaticField_eff_desc>Diminue le coût de Champ chronostatique de 6% par niveau de compétence.</TM_ChronostaticField_eff_desc>
+<TM_ChronostaticField_ver_desc>Diminue les chances de résistance à Champ chronostatique de 10% par niveau de compétence. Les chances de résistance sont modifiées par la puissance du sort du lanceur et les résistances de la cible.
+
+Niveau 0 : 60%
+Niveau 1 : 70%
+Niveau 2 : 80%
+Niveau 3 : 90%</TM_ChronostaticField_ver_desc>
+<TM_Recall_pwr_desc>Automatiser le rappel.
+
+Niveau 0 : activation manuelle uniquement
+Niveau 1 : 50% de chances de se déclencher à la mort
+Niveau 2 : 50% de chances de se déclencher en cas de choc
+Niveau 3 : 100% de chances de se déclencher en cas de mort ou de choc</TM_Recall_pwr_desc>
+<TM_Recall_eff_desc>Réduit le coût de l'entretien de 8% par niveau de compétence.
+
+Niveau 0 : mana max -40,0, régén. mana -30.0%
+Niveau 1 : mana max -36.8, régén. mana -27.6%
+Niveau 2 : mana max -33,2, régén. mana -25,2%
+Niveau 3 : mana max -30,4, régén. mana -22,8%</TM_Recall_eff_desc>
+<TM_Recall_ver_desc>Augmente la durée pendant laquelle Marque du temps reste active de 4 heures de jeu par niveau de compétence.
+
+Niveau 0 : 20 heures
+Niveau 1 : 24 heures
+Niveau 2 : 28 heures
+Niveau 3 : 32 heures</TM_Recall_ver_desc>
+
+<TM_Prediction_pwr>   Cognition primaire</TM_Prediction_pwr>
+<TM_Prediction_eff>   Rivière du temps</TM_Prediction_eff>
+<TM_Prediction_ver>   Troisième œil</TM_Prediction_ver>
+<TM_AlterFate_pwr>   Devin</TM_AlterFate_pwr>
+<TM_AlterFate_eff>   Subtilité</TM_AlterFate_eff>
+<TM_AccelerateTime_pwr>   Relativité</TM_AccelerateTime_pwr>
+<TM_AccelerateTime_eff>   Manipulateur avant</TM_AccelerateTime_eff>
+<TM_AccelerateTime_ver>   Mutabilité</TM_AccelerateTime_ver>
+<TM_ReverseTime_pwr>   Réécrire l'histoire</TM_ReverseTime_pwr>
+<TM_ReverseTime_eff>   Manipulateur inversé</TM_ReverseTime_eff>
+<TM_ReverseTime_ver>   Déni</TM_ReverseTime_ver>
+<TM_ChronostaticField_pwr>   Boucle temporelle</TM_ChronostaticField_pwr>
+<TM_ChronostaticField_eff>   Bon timing</TM_ChronostaticField_eff> 
+<TM_ChronostaticField_ver>   Capture du temps</TM_ChronostaticField_ver>
+<TM_Recall_pwr>   Assurance</TM_Recall_pwr>
+<TM_Recall_eff>   Rappel parfait</TM_Recall_eff>
+<TM_Recall_ver>   Impression</TM_Recall_ver>
+
+<TM_ChaosTradition_pwr_desc>Augmente les chances que la magie sauvage ait un effet bénéfique et diminue les chances de retour de flamme. Ne change pas les événements neutres qui sont toujours de 3%. Nécessite 2 points de compétence pour être maîtrisée.
+
+Niveau 0 : (+)2% : (-)5%
+Niveau 1 : (+)3% : (-)4%
+Niveau 2 : (+)4% : (-)3%
+Niveau 3 : (+)5% : (-)2%</TM_ChaosTradition_pwr_desc>
+<TM_ChaosTradition_eff_desc>Les Mages du Chaos se nourrissent du changement - chaque niveau de compétence apporte des avantages supplémentaires lorsque Tradition du Chaos est utilisée. Il faut 2 points de compétence pour être maîtrisée.
+
+Niveau 0 : change toutes les capacités apprises
+Niveau 1 : gagne un boost d'humeur de +8 pendant 24 heures
+Niveau 2 : gagne 25 de mana
+Niveau 3 : applique un buff empilable qui augmente les stats</TM_ChaosTradition_eff_desc>
+<TM_ChaosTradition_ver_desc>Augmente le nombre de capacités que le Mage du Chaos est capable d'apprendre par Tradition du Chaos. La Tradition du Chaos n'est jamais supprimée. Nécessite 2 points de compétence pour s'entraîner.
+
+Niveau 0 : 2 capacités
+Niveau 1 : 3 capacités
+Niveau 2 : 4 capacités
+Niveau 3 : 5 capacités</TM_ChaosTradition_ver_desc>
+
+<TM_ChaosTradition_pwr>   Flux du Chaos</TM_ChaosTradition_pwr>
+<TM_ChaosTradition_eff>   Mercure</TM_ChaosTradition_eff>
+<TM_ChaosTradition_ver>   Protean</TM_ChaosTradition_ver>  
+
+<TM_LightLance_pwr_desc>Augmente la durée de Javelot de lumière de 8% et les dégâts de 15% par niveau de compétence.</TM_LightLance_pwr_desc>
+<TM_LightLance_eff_desc>Réduit le coût en mana de Javelot de lumière de 8% par niveau de compétence.</TM_LightLance_eff_desc>
+<TM_LightLance_ver_desc>Augmente le rayon de Javelot de lumière de 15% par niveau de compétence.</TM_LightLance_ver_desc>
+<TM_Sunfire_pwr_desc>Augmente les dégâts de Éclat solaire de 25% et la pénétration d'armure de 10% par niveau de compétence.</TM_Sunfire_pwr_desc>
+<TM_Sunfire_eff_desc>Réduit le coût en mana de Éclat solaire de 6% par niveau de compétence.</TM_Sunfire_eff_desc>
+<TM_Sunfire_ver_desc>Augmente le nombre de faisceaux produits de 4 par niveau de compétence et prolonge la durée moyenne des faisceaux de 10%.</TM_Sunfire_ver_desc>
+<TM_LightBurst_pwr_desc>Chaque niveau de compétence augmente la densité de la lumière, ce qui entraîne une amélioration de 15 % du rayon effectif, des dégâts sensoriels et de la désorientation provoqués par chaque éclat de lumière.</TM_LightBurst_pwr_desc>
+<TM_LightBurst_eff_desc>Réduit le coût en mana de 8% par point de compétence.</TM_LightBurst_eff_desc>
+<TM_LightBurst_ver_desc>Augmente le nombre d'Explosion lumineuse et modifie la puissance pour qu'elle affecte les capteurs mécanoïdes.
+Niveau 0 : 2 explosion lumineuse
+Niveau 1 : 3 explosion lumineuse
+Niveau 2 : 3 explosion lumineuse, affecte les mécanoïdes
+Niveau 3 : 4 explosion lumineuse, affecte les mécanoïdes</TM_LightBurst_ver_desc>
+<TM_LightSkip_pwr_desc>Ajoute des capacités supplémentaires avec une application étendue. Coûte 2 points par niveau.
+Niveau 0 : Saut de lumière - même carte, soi-même uniquement
+Niveau 1 : Saut de lumière de masse - même carte, zone autour du lanceur
+Niveau 2 : Saut de lumière monde - monde, zone autour du lanceur</TM_LightSkip_pwr_desc>
+<TM_LightSkip_eff_desc>Réduit le coût en énergie du Saut de lumière de 8% par niveau de compétence.</TM_LightSkip_eff_desc>
+<TM_Refraction_pwr_desc>Augmente la précision des projectiles réfléchis de 20% et diminue la précision des projectiles réfractés de 15%.</TM_Refraction_pwr_desc>
+<TM_Refraction_eff_desc>Diminue le coût en énergie de la Réfraction de 6% par niveau de compétence.</TM_Refraction_eff_desc>
+<TM_Refraction_ver_desc>Augmente la durée du mur de réfraction de 10% (2,5s) par niveau de compétence.</TM_Refraction_ver_desc>
+<TM_SpiritOfLight_pwr_desc>Esprit de lumière : augmente les dégâts de 3 % et la portée maximale des attaques de 1 par niveau de compétence.</TM_SpiritOfLight_pwr_desc>
+<TM_SpiritOfLight_eff_desc>Invocateur : Réduit les coûts d'entretien de 2% par niveau de compétence.
+Esprit de lumière : réduit les coûts d'énergie de Esprit de lumière de 1% par niveau de compétence.</TM_SpiritOfLight_eff_desc>
+<TM_SpiritOfLight_ver_desc>Esprit de lumière : augmente l'énergie lumineuse maximum de 4 par niveau de compétence et l'absorption d'énergie lumineuse de 3 % par niveau de compétence.</TM_SpiritOfLight_ver_desc>
+
+<TM_LightLance_pwr>   Lumière perçante</TM_LightLance_pwr>
+<TM_LightLance_eff>   Agrandissement</TM_LightLance_eff>
+<TM_LightLance_ver>   Rayonnement brûlant</TM_LightLance_ver>
+<TM_Sunfire_pwr>   Brûlure profonde</TM_Sunfire_pwr>
+<TM_Sunfire_eff>   Alimentation solaire</TM_Sunfire_eff>
+<TM_Sunfire_ver>   Brûlure continue</TM_Sunfire_ver>
+<TM_LightBurst_pwr>   Lux</TM_LightBurst_pwr>
+<TM_LightBurst_eff>   Objectif</TM_LightBurst_eff>
+<TM_LightBurst_ver>   Lumen</TM_LightBurst_ver>
+<TM_LightSkip_pwr>   Relativité</TM_LightSkip_pwr>
+<TM_LightSkip_eff>   Surfer sur la vague</TM_LightSkip_eff>
+<TM_Refraction_pwr>   Coefficient de réfraction</TM_Refraction_pwr>
+<TM_Refraction_eff>   LED de pulvérisation</TM_Refraction_eff> 
+<TM_Refraction_ver>   Lumière mourante</TM_Refraction_ver>
+<TM_SpiritOfLight_pwr>   Émission</TM_SpiritOfLight_pwr>
+<TM_SpiritOfLight_eff>   Soutien</TM_SpiritOfLight_eff>
+<TM_SpiritOfLight_ver>   Absorption</TM_SpiritOfLight_ver>
+
+<TM_Totems_pwr_desc>Augmente la puissance des totems de 3%.
+Totem de foudre : Augmente la portée et les dégâts
+Totem de terre : Augmente la fréquence et la durée de blocage
+Totem de soins : Augmente la portée et le montant des soins</TM_Totems_pwr_desc>
+<TM_Totems_eff_desc>Réduit le coût en mana pour créer un totem de 2% par niveau de compétence.</TM_Totems_eff_desc>
+<TM_Totems_ver_desc>Augmente la durée des totems de 5% par niveau de compétence ; la durée de base est de 1 heure de jeu.</TM_Totems_ver_desc>
+<TM_ChainLightning_pwr_desc>Augmente les dégâts de Chaîne d’éclairs de 10% par niveau de compétence.</TM_ChainLightning_pwr_desc>
+<TM_ChainLightning_eff_desc>Réduit le coût du mana de 6% par niveau de compétence.</TM_ChainLightning_eff_desc>
+<TM_ChainLightning_ver_desc>Augmente le nombre de fois que Chaîne d’éclairs bifurque ou rebondit de 1 par niveau de compétence.</TM_ChainLightning_ver_desc>
+<TM_Enrage_pwr_desc>Augmente la sévérité de Enrager de 0,05 par niveau de compétence. La sévérité de base est de 0,25, la sévérité maximum est de 0,5.</TM_Enrage_pwr_desc>
+<TM_Enrage_eff_desc>Réduit le coût en mana d'Enrager de 6% par niveau de compétence.</TM_Enrage_eff_desc>
+<TM_Enrage_ver_desc>Réduit la quantité d'émotions consommées par Enrager. Au niveau 3, Enrager peut également consommer de la joie (récréation) pour augmenter considérablement sa durée.</TM_Enrage_ver_desc>
+<TM_Hex_pwr_desc>Augmente les chances d'appliquer un Maléfice de 10%, base 40% de chances.</TM_Hex_pwr_desc>
+<TM_Hex_eff_desc>Réduit le coût en mana de Maléfice de 6% par niveau de compétence.</TM_Hex_eff_desc>
+<TM_Hex_ver_desc>Augmente la puissance des effets appliqués aux cibles affectées par Maléfice.</TM_Hex_ver_desc>
+<TM_SpiritWolves_pwr_desc>Les esprits du loup gagnent de la rage quand ils sont invoqués. Chaque niveau de compétence augmente les effets de l'enragement.</TM_SpiritWolves_pwr_desc>
+<TM_SpiritWolves_eff_desc>Réduit le coût en mana pour manifester les esprits du loup de 6% et augmente la durée de 2s par niveau de compétence.</TM_SpiritWolves_eff_desc>
+<TM_SpiritWolves_ver_desc>Augmente le nombre de loups invoqués de 1 par niveau de compétence.</TM_SpiritWolves_ver_desc>
+<TM_GuardianSpirit_pwr_desc>Augmente la puissance des capacités de l'Esprit Gardien :
+Esprit de l'ours : Augmente le nombre de cible de provocation (4 -> 9), les chances de provocation (60% -> 78%) et de la portée de provocation (15 -> 21) ; augmentation de l'atténuation des dégâts (4 -> 7)
+
+Esprit de la Mangouste : Augmente les dégâts de l'attaque de l'ombre (11 -> 16) et les chances de critiques (40% -> 65%) ; augmente la durée de l'invisibilité (1,5s -> 2,5s) et la hâte (2s -> 3s) après une attaque de l'ombre
+
+Esprit du corbeau : Augmente les chances d'obtenir maléfice (50% -> 75%) ; augmente l'efficacité de l'amélioration mentale "Perspicacité du corbeau" Sensibilité psychique et vitesse de recherche (20% -> 30%)
+</TM_GuardianSpirit_pwr_desc>
+<TM_GuardianSpirit_eff_desc>Réduit le coût d'incantation, le coût d'entretien en mana maximum et le coût de régén. mana de l'Esprit Gardien de 6% par niveau de compétence.</TM_GuardianSpirit_eff_desc>
+<TM_GuardianSpirit_ver_desc>Augmente l'efficacité de l'Esprit Gardien pour augmenter le mouvement, la manipulation, le taux de guérison, la résistance à la douleur et le taux d'esquive de 10% par niveau de compétence.</TM_GuardianSpirit_ver_desc>
+
+<TM_Totems_pwr>   Maître de totem</TM_Totems_pwr>
+<TM_Totems_eff>   Porteur de totem</TM_Totems_eff>
+<TM_Totems_ver>   Durabilité</TM_Totems_ver>
+<TM_ChainLightning_pwr>   Père Tempête</TM_ChainLightning_pwr>
+<TM_ChainLightning_eff>   Atmosphère électrique</TM_ChainLightning_eff>
+<TM_ChainLightning_ver>   Foudre en dents de scie</TM_ChainLightning_ver>
+<TM_Enrage_pwr>   Rage inarrêtable</TM_Enrage_pwr>
+<TM_Enrage_eff>   Provocateur</TM_Enrage_eff>
+<TM_Enrage_ver>   Colère froide</TM_Enrage_ver>
+<TM_Hex_pwr>   Maléfice</TM_Hex_pwr>
+<TM_Hex_eff>   Incantations</TM_Hex_eff>
+<TM_Hex_ver>   Manifestation</TM_Hex_ver>
+<TM_SpiritWolves_pwr>   Hantise du Nord</TM_SpiritWolves_pwr>
+<TM_SpiritWolves_eff>   Hurlement d'esprit</TM_SpiritWolves_eff> 
+<TM_SpiritWolves_ver>   Chef de meute</TM_SpiritWolves_ver>
+<TM_GuardianSpirit_pwr>   Manifestation du gardien</TM_GuardianSpirit_pwr>
+<TM_GuardianSpirit_eff>   Lien d'esprit</TM_GuardianSpirit_eff>
+<TM_GuardianSpirit_ver>   Lien spirituel</TM_GuardianSpirit_ver>
+
+<TM_Golemancy_pwr_desc>Augmente la vitesse de déplacement et la réduction des dégâts du golem.
+Mouvement : +[10, 15, 19, 23, 26]%
+Réduction dégât : [5, 9, 13, 17, 20]%.</TM_Golemancy_pwr_desc>
+<TM_Golemancy_eff_desc>Augmente la conscience générale du golem.
+Conscience : +[10, 15, 19, 23, 26]%</TM_Golemancy_eff_desc>
+<TM_Golemancy_ver_desc>Augmente le rendement de la productivité du golemancien.
+Vitesse de travail : +[10, 15, 19, 23, 26]%
+Vitesse de recherche : +[10, 15, 19, 23, 26]%
+Récupération de blessures : +[50, 60, 70, 80, 90]%</TM_Golemancy_ver_desc>
+<TM_RuneCarving_pwr_desc>Augmente le bonus d'efficacité des pièces, mais augmente aussi la difficulté. Il faut 2 points de compétence pour être maitrisé.
+Niveau 0 : 20% d'efficacité
+Niveau 1 : 22% d'efficacité,  -5% de chances de succès
+Niveau 2 : 24% d'efficacité, -10% de chances de succès
+Niveau 3 : 25% d'efficacité, -15% de chances de succès</TM_RuneCarving_pwr_desc>
+<TM_RuneCarving_eff_desc>10% de mana par niveau de compétence est restitué après avoir effectué une gravure de runes.</TM_RuneCarving_eff_desc>
+<TM_RuneCarving_ver_desc>Augmente les chances de réussite de la gravure de runes de 10% par niveau de compétence.</TM_RuneCarving_ver_desc>
+<TM_Branding_pwr_desc>Augmente le pouvoir de chaque marquage.</TM_Branding_pwr_desc>
+<TM_Branding_eff_desc>Réduit la pénalité de régénération du mana de 10% par niveau de compétence.</TM_Branding_eff_desc>
+<TM_SigilSurge_pwr_desc>Augmente le plafond que Sigil Surge peut atteindre lorsqu'il est actif.</TM_SigilSurge_pwr_desc>
+<TM_SigilSurge_eff_desc>Réduit le coût d'entretien du mana de Sigil Surge de 10% par niveau de compétence.</TM_SigilSurge_eff_desc>
+<TM_SigilSurge_ver_desc>Réduit la quantité de douleur subie par le lanceur de sorts lorsqu'il est en train d'utiliser un sceau.</TM_SigilSurge_ver_desc>
+<TM_SigilDrain_pwr_desc>Augmente la quantité d'énergie de marque absorbée par le lanceur de sorts pour chaque marque appliquée lors du drainage de sceau.</TM_SigilDrain_pwr_desc>
+<TM_SigilDrain_eff_desc>Réduit le coût d'entretien du mana de Sigil Drain de 20% par niveau de compétence.</TM_SigilDrain_eff_desc>
+<TM_SigilDrain_ver_desc>Réduit la quantité de douleur subie par chaque colon marqué lorsque le drainage de sceau est actif.</TM_SigilDrain_ver_desc>
+<TM_LivingWall_pwr_desc>Augmente les dégâts et la portée du mécanisme d'attaque principal du mur vivant.</TM_LivingWall_pwr_desc>
+<TM_LivingWall_eff_desc>Réduit le coût maximum d'entretien du mana de 15% par niveau de compétence.</TM_LivingWall_eff_desc>
+<TM_LivingWall_ver_desc>Chaque point de compétence augmente la vitesse de déplacement et la vitesse d'attaque.</TM_LivingWall_ver_desc>
+
+<TM_Golemancy_pwr>   Amélioration du cadre</TM_Golemancy_pwr>
+<TM_Golemancy_eff>   Contrôleur</TM_Golemancy_eff>
+<TM_Golemancy_ver>   Amélioration de l'esprit</TM_Golemancy_ver>
+<TM_RuneCarving_pwr>   Marque profonde</TM_RuneCarving_pwr>
+<TM_RuneCarving_eff>   Maître des Runes</TM_RuneCarving_eff>
+<TM_RuneCarving_ver>   Mains libres</TM_RuneCarving_ver>
+<TM_Branding_pwr>   Intensité</TM_Branding_pwr>
+<TM_Branding_eff>   Maître des marques</TM_Branding_eff>
+<TM_SigilSurge_pwr>   Puissance de surcharge</TM_SigilSurge_pwr>
+<TM_SigilSurge_eff>   Maître de surcharge</TM_SigilSurge_eff>
+<TM_SigilSurge_ver>   Réduction de la rétroaction</TM_SigilSurge_ver>
+<TM_SigilDrain_pwr>   Drain Puissance</TM_SigilDrain_pwr>
+<TM_SigilDrain_eff>   Drain Master</TM_SigilDrain_eff> 
+<TM_SigilDrain_ver>   Filtre à rétroaction</TM_SigilDrain_ver>
+<TM_LivingWall_pwr>   Inarrêtable</TM_LivingWall_pwr>
+<TM_LivingWall_eff>   Impitoyable</TM_LivingWall_eff>
+<TM_LivingWall_ver>   Incassable</TM_LivingWall_ver>
+
+<TM_Empathy_pwr_desc>Augmente la volonté de l’empathie, diminuant la susceptibilité de succomber à ses émotions et augmentant les chances de transférer des émotions positives.
+Résistance état mental : [0,5,9,12,13,15]%
+Chance émotions positives : [5,10,15,20,25]%</TM_Empathy_pwr_desc>
+<TM_Empathy_eff_desc>Augmente la portée de Empathie de 3c et la fréquence des vibrations émotionnelles de 2s par niveau de compétence. La fréquence par défaut est de 1 toutes les 21s.</TM_Empathy_eff_desc>
+<TM_Empathy_ver_desc>Augmente la pénétration des sorts pour toutes les capacités de 5% par niveau de compétence.</TM_Empathy_ver_desc>
+<TM_MindKiller_pwr_desc>Augmente les cibles maximum de 2 et la force globale des effets de 20% par niveau de compétence. Aux rangs 2+, les colons amis ne seront pas affectés. La cible maximum de base est de 8.</TM_MindKiller_pwr_desc>
+<TM_MindKiller_eff_desc>Réduit la quantité d'humeur consommée pour l'activation de 5% par niveau de compétence.</TM_MindKiller_eff_desc>
+<TM_MindKiller_ver_desc>Augmente le rayon de l'effet et les chances de réussite :
+Rayon : [15,17,19,21]c
+Chance : [50,60,70,80]%</TM_MindKiller_ver_desc>
+<TM_SuppressiveAura_pwr_desc>Augmente la durée de la suppression des émotions de 20% et les chances d'autoriser les émotions positives de 10% par niveau de compétence.</TM_SuppressiveAura_pwr_desc>
+<TM_SuppressiveAura_eff_desc>Augmente le rayon de l'aura de suppression de 15% par niveau de compétence ; au niveau 3, les effets s'appliquent à tous les membres d'une caravane.</TM_SuppressiveAura_eff_desc>
+<TM_SuppressiveAura_ver_desc>Imite les sentiments de joie et de confort pour les transférer aux colons visés ; chaque niveau de compétence augmente la quantité de joie et de confort transférée.</TM_SuppressiveAura_ver_desc>
+<TM_HarvestPassion_pwr_desc>Augmente les chances de récolter une passion de 6% une fois que la joie de la cible est épuisée. La chance de base est de 30% toutes les 1s. La tentative prend fin lorsque la joie du lanceur est épuisée.</TM_HarvestPassion_pwr_desc>
+<TM_HarvestPassion_eff_desc>Diminue la quantité de joie du lanceur de sorts qui est drainée par itération de 20% par niveau de compétence.</TM_HarvestPassion_eff_desc>
+<TM_HarvestPassion_ver_desc>Augmente la quantité de joie de la cible qui est drainée par itération de 15% par niveau de compétence.</TM_HarvestPassion_ver_desc>
+<TM_Symbiosis_pwr_desc>Augmente la conscience du colon hôte pour chaque niveau de compétence.
+Niveau 0: +60%
+Niveau 1: +90%
+Niveau 2: +110%
+Niveau 3: +125%</TM_Symbiosis_pwr_desc>
+<TM_Symbiosis_eff_desc>Diminue le coût de l'humeur pour commencer la symbiose de 35%.</TM_Symbiosis_eff_desc>
+<TM_Symbiosis_ver_desc>Augmente l'enveloppe protectrice entourant l'hôte et diminue le pourcentage de dégâts absorbés qui sont conférés au corps du symbiote.
+Niveau 0: 20% absorbé, 100% transféré
+Niveau 1: 25% absorbé, 80% transféré
+Niveau 2: 30% absorbé, 60% transféré
+Niveau 3: 35% absorbé, 50% transféré</TM_Symbiosis_ver_desc>
+
+<TM_Empathy_pwr>   Pensée positive</TM_Empathy_pwr>
+<TM_Empathy_eff>   Thérapie de groupe</TM_Empathy_eff>
+<TM_Empathy_ver>   Livre ouvert</TM_Empathy_ver>
+<TM_MindKiller_pwr>   Suffocation</TM_MindKiller_pwr>
+<TM_MindKiller_eff>   Regard d'acier</TM_MindKiller_eff>
+<TM_MindKiller_ver>   Contrôle de tempête</TM_MindKiller_ver>
+<TM_SuppressiveAura_pwr>   Suppression persistante</TM_SuppressiveAura_pwr>
+<TM_SuppressiveAura_eff>   Aura immense</TM_SuppressiveAura_eff>
+<TM_SuppressiveAura_ver>   Mensonge béat</TM_SuppressiveAura_ver>
+<TM_HarvestPassion_pwr>   Chasseur de passion</TM_HarvestPassion_pwr>
+<TM_HarvestPassion_eff>   Intimider</TM_HarvestPassion_eff>
+<TM_HarvestPassion_ver>   Désespoir</TM_HarvestPassion_ver>
+<TM_Symbiosis_pwr>   Conscience</TM_Symbiosis_pwr>
+<TM_Symbiosis_eff>   Commune</TM_Symbiosis_eff>
+<TM_Symbiosis_ver>   Enveloppe</TM_Symbiosis_ver>
+
+<TM_SpiritPossession_pwr_desc>Augmente la sensibilité et la conscience psychiques lorsque l'on est en forme d'esprit et augmente la quantité d'énergie gagnée par la Connexion spirituelle de 10% par niveau :
+Sensibilité : +[40%, 65%, 85%, 100%]
+Conscience : +[0%, 15%, 25%, 40%]</TM_SpiritPossession_pwr_desc>
+<TM_SpiritPossession_eff_desc>Réduit le coût de la possession d'esprit de 15% par niveau de compétence, augmente la compatibilité lors de la possession d'un corps occupé.</TM_SpiritPossession_eff_desc>
+<TM_SpiritPossession_ver_desc>Réduit les chances de résister à la possession d'esprit de 20% et l'esprit maximum de 15 par niveau de compétence.</TM_SpiritPossession_ver_desc>
+<TM_SpiritDrain_pwr_desc>Augmente le montant du drain d'esprit appliqué aux ennemis tout en réduisant le montant appliqué aux alliés de 15% par niveau de compétence.</TM_SpiritDrain_pwr_desc>
+<TM_SpiritDrain_eff_desc>Augmente la quantité d'énergie spirituelle obtenue de n'importe quelle source de 10% par niveau de compétence.</TM_SpiritDrain_eff_desc>
+<TM_SpiritDrain_ver_desc>Diminue la durée du drain d'esprit de 15% par niveau de compétence ; la quantité de drain d'esprit appliquée et d'énergie spirituelle absorbée reste la même.</TM_SpiritDrain_ver_desc>
+<TM_DistortSpirit_pwr_desc>Augmente la quantité de dégâts subis par un colon déformé de 5% par niveau de compétence.</TM_DistortSpirit_pwr_desc>
+<TM_DistortSpirit_eff_desc>Réduit de 10% l'énergie spirituelle nécessaire pour lancer le sort Déformer l'esprit et augmente le nombre maximum de cibles affectées de 1 par niveau de compétence. Le maximum de base est de 5 cibles.</TM_DistortSpirit_eff_desc>
+<TM_DistortSpirit_ver_desc>Déformer l'esprit applique également une petite quantité de drain d'esprit au niveau de compétence 1. Aux niveaux 2 et 3, le montant du drain d'esprit augmente et le lanceur de sorts absorbe l'énergie spirituelle. Cette compétence coûte 2 points pour l'apprendre.</TM_DistortSpirit_ver_desc>
+<TM_SummonSpiritAnimalMass_pwr_desc>Les esprits d'animaux invoqués bénéficient d'améliorations accrues pour chaque niveau de compétence.</TM_SummonSpiritAnimalMass_pwr_desc>
+<TM_SummonSpiritAnimalMass_eff_desc>Réduit l'énergie spirituelle requise de 10% par niveau de compétence.</TM_SummonSpiritAnimalMass_eff_desc>
+<TM_SummonSpiritAnimalMass_ver_desc>Augmente la durée des esprits animaux de 5s par niveau de compétence. Durée de base 20s.</TM_SummonSpiritAnimalMass_ver_desc>
+<TM_SpiritRally_pwr_desc>Augmente le nombre maximum d'alliés spirituels invoqués de 2 par niveau de compétence et réduit les pénalités d'invocation. Maximum de base 7.</TM_SpiritRally_pwr_desc>
+<TM_SpiritRally_eff_desc>Réduit le coût de l'énergie spirituelle de 12% par niveau de compétence.</TM_SpiritRally_eff_desc>
+<TM_SpiritRally_ver_desc>Augmente le rayon et la durée du Rassemblement d'esprits :
+Niveau 0: 8c, 15s
+Niveau 1: 10c, 18s
+Niveau 2: 12c, 21s
+Niveau 3: 14c, 24s</TM_SpiritRally_ver_desc>
+<TM_SpiritStorm_pwr_desc>Augmente les dégâts infligés par la tempête d'esprits de 12% par niveau de compétence.</TM_SpiritStorm_pwr_desc>
+<TM_SpiritStorm_eff_desc>Réduit le coût de l'énergie spirituelle pour créer une tempête d'esprits de 10% par niveau de compétence.</TM_SpiritStorm_eff_desc>
+<TM_SpiritStorm_ver_desc>Augmente le rayon de la tempête d'esprits de 1c par niveau de compétence. Rayon de base 4c.</TM_SpiritStorm_ver_desc>
+
+<TM_SpiritPossession_pwr>   Pouvoir des esprits</TM_SpiritPossession_pwr>
+<TM_SpiritPossession_eff>   Contrôle des esprits</TM_SpiritPossession_eff>
+<TM_SpiritPossession_ver>   Manipulation des esprits</TM_SpiritPossession_ver>
+<TM_SpiritDrain_pwr>   Contrôle des dégâts</TM_SpiritDrain_pwr>
+<TM_SpiritDrain_eff>   Énergie propre</TM_SpiritDrain_eff>
+<TM_SpiritDrain_ver>   Absorption rapide</TM_SpiritDrain_ver>
+<TM_DistortSpirit_pwr>   Intensité</TM_DistortSpirit_pwr>
+<TM_DistortSpirit_eff>   Administration</TM_DistortSpirit_eff>
+<TM_DistortSpirit_ver>   Lacérations d'esprits</TM_DistortSpirit_ver>
+<TM_SummonSpiritAnimalMass_pwr>   Manifestation</TM_SummonSpiritAnimalMass_pwr>
+<TM_SummonSpiritAnimalMass_eff>   Parenté</TM_SummonSpiritAnimalMass_eff>
+<TM_SummonSpiritAnimalMass_ver>   Harmonie</TM_SummonSpiritAnimalMass_ver>
+<TM_SpiritRally_pwr>   Armée d'esprit</TM_SpiritRally_pwr>
+<TM_SpiritRally_eff>   Collectif</TM_SpiritRally_eff>
+<TM_SpiritRally_ver>   Influence</TM_SpiritRally_ver>
+<TM_SpiritStorm_pwr>   Frénésie d'esprit</TM_SpiritStorm_pwr>
+<TM_SpiritStorm_eff>   Empathie</TM_SpiritStorm_eff>
+<TM_SpiritStorm_ver>   Mer de chagrin</TM_SpiritStorm_ver>
+
+<!-- Might Ability Point Descriptions -->
+
+<TM_WayfarerCraft_pwr_desc>Chaque point de compétence :
+Puissance de la capacité : +1%
+Résistance à la capacité : +2%</TM_WayfarerCraft_pwr_desc>
+<TM_WayfarerCraft_eff_desc>Chaque point de compétence :
+Coût de la capacité : -1%
+Gain d'XP : +2%</TM_WayfarerCraft_eff_desc>
+<TM_WayfarerCraft_ver_desc>Chaque point de compétence :
+Temps de recharge des capacités : -1%
+Régénération de l'endurance : +1%
+Endurance Max : +2%</TM_WayfarerCraft_ver_desc>
+<TM_FieldTraining_pwr_desc>Ajoute une capacité supplémentaire aux aptitudes de combat :
+Niveau 1 : Coup puissant augmente les dégâts de 25%
+Niveau 2 : Frappe pommeau double la probabilité de mettre un ennemi à terre (non létal)
+Niveau 3 : Couteau de lancer applique un sédatif instantané aux prisonniers ou un poison aux colons hostiles
+Niveau 4 : L'intensité de Fureur ardente est augmentée de 50%
+Niveau 5 : Sprint augmente les mouvements de 40%
+Niveau 6 : Coup puissant augmente les dégâts de 27,5%
+Niveau 7 : Focalisation du combattant a 20% de chances de désarmer une cible lors d'une attaque de mêlée réussie
+Niveau 8 : Éclair de tempête bénéficie d'un bonus de 20% aux dégâts
+Niveau 9 : Augmente la puissance de Légion au niveau 1
+Niveau 10 : Sprint augmente les mouvements de 50%
+Niveau 11 : Coup puissant augmente les dégâts de 30%
+Niveau 12 : Couteau de lancer permet de lancer 3 couteaux au lieu d'un seul
+Niveau 13 : Augmente la puissance de Légion au niveau 2
+Niveau 14 : L'intensité de Fureur ardente est augmentée de 100%
+Niveau 15 : Le sprint augmente les mouvements de 60%</TM_FieldTraining_pwr_desc>
+<TM_FieldTraining_eff_desc>Diminue les coûts d'entretien en endurance max de 3% et les pénalités de régénération d'énergie de 3% par point de compétence.
+Niveau 15 : Le voyageur gagne du mana et peut apprendre des sorts de mage.</TM_FieldTraining_eff_desc>
+<TM_FieldTraining_ver_desc>Ajoute une capacité supplémentaire d'utilité ou de polyvalence aux aptitudes de combat :
+Niveau 1 : Focalisation du combattant réduit la perte de repos de 20%
+Niveau 2 : Peau dure augmente les résistances de 12%
+Niveau 3 : Dos solide augmente la vitesse d'extraction de 20%
+Niveau 4 : Le taux de récupération de la guérison intérieure augmente de 65%
+Niveau 5 : La réparation de l'équipement permet d'éliminer les éléments contaminés de l'équipement entièrement réparé
+Niveau 6 : Accès à la capacité Légion
+Niveau 7 : Peau dure augmente les résistances de 14%
+Niveau 8 : Dos solide augmente la vitesse de construction de 20%
+Niveau 9 : Augmente la polyvalence de Légion au niveau 1
+Niveau 10 : Lorsque la réparation de l'équipement est active, le voyageur peut réparer l'équipement des autres colons lors d'interactions occasionnelles
+Niveau 11 : La guérison intérieure soigne lentement les cicatrices et autres blessures permanentes
+Niveau 12 : Peau dure augmente les résistances de 15% et fait pousser des pointes qui peuvent blesser un attaquant au corps à corps
+Niveau 13 : La polyvalence de Légion passe au niveau 2
+Niveau 14 : la consommation d'endurance de Burning Fury est réduite de 35%
+Niveau 15 : L'attaque de tempête consomme 25% d'endurance en moins par attaque</TM_FieldTraining_ver_desc>
+
+<TM_WayfarerCraft_pwr>   Amélioration</TM_WayfarerCraft_pwr>
+<TM_WayfarerCraft_eff>   Mastermind</TM_WayfarerCraft_eff>
+<TM_WayfarerCraft_ver>   Endurance</TM_WayfarerCraft_ver>
+<TM_FieldTraining_pwr>   Létalité</TM_FieldTraining_pwr>
+<TM_FieldTraining_eff>   Équilibre</TM_FieldTraining_eff>
+<TM_FieldTraining_ver>   Survie</TM_FieldTraining_ver>
+
+<TM_Sprint_eff_desc>Réduit le coût d'endurance nécessaire pour maintenir le sprint de 4,5 par niveau de compétence.</TM_Sprint_eff_desc>
+<TM_Sprint_pwr_desc>Augmente la vitesse du sprint mais augmente aussi la fatigue physique.
+Niveau 0 : vitesse +30%, fatigue +40%
+Niveau 1 : vitesse +40%, fatigue +45%
+Niveau 2 : vitesse +50%, fatigue +50%
+Niveau 3 : vitesse +60%, fatigue +55%</TM_Sprint_pwr_desc>
+<TM_Fortitude_pwr_desc>Augmente le montant de l'atténuation des dégâts de 1 par niveau de compétence.</TM_Fortitude_pwr_desc>
+<TM_Fortitude_ver_desc>Augmente la conversion des dégâts en endurance de 0,5 par dégât pour chaque niveau.
+La conversion a lieu avant l'atténuation.
+Le taux de conversion de base est de 1 gain d'endurance pour 1 dégât subi.</TM_Fortitude_ver_desc>
+<TM_Grapple_eff_desc>Diminue le coût en endurance de Grappin de 10% par niveau de coût en endurance de base.</TM_Grapple_eff_desc>
+<TM_Cleave_eff_desc>Diminue l'endurance que Enchaînement consomme lorsqu'il se déclenche de 10% du coût de base en endurance.</TM_Cleave_eff_desc>
+<TM_Cleave_pwr_desc>Enchaînement frappe les ennemis proches de la cible en fonction d'un pourcentage des dégâts initiaux infligés à la cible.
+Niveau 0 : 35%
+Niveau 1 : 40%
+Niveau 2 : 45%
+Niveau 3 : 50%</TM_Cleave_pwr_desc>
+<TM_Cleave_ver_desc>Augmente de 15% par niveau les chances que Enchaînement donne un double coup.
+Chance de base est de 0%.</TM_Cleave_ver_desc>
+<TM_Whirlwind_pwr_desc>Augmente les dégâts du Tourbillon de 10% par niveau de compétence.</TM_Whirlwind_pwr_desc>
+<TM_Whirlwind_eff_desc>Diminue le coût en endurance du Tourbillon de 15% du coût de base par niveau de compétence.</TM_Whirlwind_eff_desc>
+<TM_Whirlwind_ver_desc>Ajoute une chance d'assommer les ennemis de 5% (par coup) pour chaque niveau de compétence.
+Chance de base est de 0%.</TM_Whirlwind_ver_desc>
+
+<TM_Sprint_eff>   Efficacité Sprint</TM_Sprint_eff>
+<TM_Sprint_pwr>   Puissance Sprint</TM_Sprint_pwr>
+<TM_Fortitude_pwr>   Puissance Robustesse</TM_Fortitude_pwr>
+<TM_Fortitude_ver>   Polyvalence Robustesse</TM_Fortitude_ver>
+<TM_Grapple_eff>   Efficacité Grappin</TM_Grapple_eff>
+<TM_Cleave_pwr>   Puissance Enchaînement</TM_Cleave_pwr>
+<TM_Cleave_eff>   Efficacité Enchaînement</TM_Cleave_eff>
+<TM_Cleave_ver>   Polyvalence Enchaînement</TM_Cleave_ver>
+<TM_Whirlwind_pwr>   Puissance Tourbillon</TM_Whirlwind_pwr>
+<TM_Whirlwind_eff>   Efficacité Tourbillon</TM_Whirlwind_eff>
+<TM_Whirlwind_ver>   Polyvalence Tourbillon</TM_Whirlwind_ver>
+
+<TM_SniperFocus_pwr_desc>Avance dans la formation de tireur d'élite. Chaque niveau nécessite 2 points de compétence pour s'entraîner.
+Niveau 0 : Précision  +3, Temps de visée -10%, Mouvement +10%
+Niveau 1 : Précision  +7, Temps de visée -15%, Mouvement +15%
+Niveau 2 : Précision +11, Temps de visée -22%, Mouvement +20%
+Niveau 3 : Précision +15, Temps de visée -30%, Mouvement +25%</TM_SniperFocus_pwr_desc>
+<TM_DisablingShot_eff_desc>Diminue le coût en endurance du Tir incapacitant de 10% par niveau de compétence.</TM_DisablingShot_eff_desc>
+<TM_DisablingShot_ver_desc>Les balles incapacitantes font maintenant office de tranquillisants en incluant des sédatifs à action rapide qui ralentissent considérablement la vitesse de déplacement de la cible après qu'elle se soit remise du tir. Grâce à des essais, des erreurs et des recherches (surtout des essais et des erreurs), le tireur d'élite connaît la bonne dose pour ce sédatif.
+Niveau 0 : Pas de sédatif
+Niveau 1 : 10-15s (faible)
+Niveau 2 : 20-25s (moyen)
+Niveau 3 : 30-45s (fort)</TM_DisablingShot_ver_desc>
+<TM_Headshot_pwr_desc>Les munitions améliorées augmentent la vélocité des balles, ce qui augmente la probabilité de détruire un organe vital. En pleine tête gagne 10% de dégâts par niveau de compétence.</TM_Headshot_pwr_desc>
+<TM_Headshot_eff_desc>Diminue le coût en endurance de En pleine tête de 10% du coût de base par niveau de compétence.</TM_Headshot_eff_desc>
+<TM_Headshot_ver_desc>Le tireur d'élite gagne une poussée d'adrénaline qui lui redonne un peu d'endurance chaque fois qu'il tue une cible.
+Niveau 0 : Aucun
+Niveau 1 : 10% d'endurance restaurée
+Niveau 2 : 20% d'endurance restaurée
+Niveau 3 : 30% d'endurance restaurée</TM_Headshot_ver_desc>
+<TM_AntiArmor_pwr_desc>Améliore les nanites utilisées dans les tirs Anti-blindage, augmentant les dégâts aux cibles blindées de 50% supplémentaires par niveau de compétence.</TM_AntiArmor_pwr_desc>
+<TM_AntiArmor_eff_desc>Diminue le coût en endurance de Anti-blindage de 10% du coût de base par niveau de compétence.</TM_AntiArmor_eff_desc>
+<TM_AntiArmor_ver_desc>Augmente le nombre et la puissance des fragments provoqués par les munitions explosives. Les munitions n'explosent pas si la cible n'est pas blindée.</TM_AntiArmor_ver_desc>
+<TM_ShadowSlayer_pwr_desc>Augmente les dégâts de chaque tir de 2 par niveau de compétence lorsque l'invisibilité est active.</TM_ShadowSlayer_pwr_desc>
+<TM_ShadowSlayer_eff_desc>Diminue le coût en endurance pour activer la cape de tueur d'ombre de 6% par niveau de compétence.</TM_ShadowSlayer_eff_desc>
+<TM_ShadowSlayer_ver_desc>Augmente la durée de cape de tueur d'ombre de 3 secondes par niveau de compétence. Durée par défaut de 40 secondes.</TM_ShadowSlayer_ver_desc>
+
+<TM_SniperFocus_pwr>   Formation de tireur d'élite</TM_SniperFocus_pwr>
+<TM_DisablingShot_eff>   Coût d'endurance</TM_DisablingShot_eff>
+<TM_DisablingShot_ver>   Potentiel sédatif</TM_DisablingShot_ver>
+<TM_Headshot_pwr>   Munitions améliorées</TM_Headshot_pwr>
+<TM_Headshot_eff>   Coût d'endurance</TM_Headshot_eff>
+<TM_Headshot_ver>   Adrénaline</TM_Headshot_ver>
+<TM_AntiArmor_pwr>   Nanites</TM_AntiArmor_pwr>
+<TM_AntiArmor_eff>   Coût d'endurance</TM_AntiArmor_eff>
+<TM_AntiArmor_ver>   Cartouches explosives</TM_AntiArmor_ver>
+<TM_ShadowSlayer_pwr>   Avantage furtif</TM_ShadowSlayer_pwr>
+<TM_ShadowSlayer_eff>   Cache de prédiction</TM_ShadowSlayer_eff>
+<TM_ShadowSlayer_ver>   Mise à jour du logiciel</TM_ShadowSlayer_ver>
+
+<TM_BladeFocus_pwr_desc>Entraînement avancé en tant que Danseur de lames. Chaque niveau nécessite 2 points de compétence pour s'entraîner et améliore le trait de classe.
+Niveau 0 : Chance de toucher en mêlée  +3, Mouvement +0.15, Seuil de crise de nerfs -3%
+Niveau 1 : Chance de toucher en mêlée  +6, Mouvement +0.20, Seuil de crise de nerfs -5%
+Niveau 2 : Chance de toucher en mêlée +10, Mouvement +0.30, Seuil de crise de nerfs -8%, Seuil à la douleur +5%
+Niveau 3 : Chance de toucher en mêlée +15, Mouvement +0.40, Seuil de crise de nerfs -10%, Seuil à la douleur +10%</TM_BladeFocus_pwr_desc>
+<TM_BladeArt_pwr_desc>Améliore la maîtrise du corps. Chaque niveau nécessite 2 points de compétence pour s'entraîner.
+Niveau 0 : Mouvement +10%, Manipulation +10%
+Niveau 1 : Mouvement +15%, Manipulation +15%
+Niveau 2 : Mouvement +20%, Manipulation +20%, Respiration +10%
+Niveau 3 : Mouvement +25%, Manipulation +25%, Respiration +15%, Circulation du sang +10%</TM_BladeArt_pwr_desc>
+<TM_SeismicSlash_pwr_desc>Augmente les dégâts de Seismic Slash de 10% par niveau.</TM_SeismicSlash_pwr_desc>
+<TM_SeismicSlash_eff_desc>Diminue le coût en endurance de Seismic Slash de 10% par niveau de compétence.</TM_SeismicSlash_eff_desc>
+<TM_SeismicSlash_ver_desc>Augmente le nombre de frappes adjacentes à la ligne de frappe de 2 par niveau. Le niveau de base vérifie 2 cases adjacentes, le niveau maximum vérifiera les 8 cases adjacentes.
+Si rien n'occupe la case, le coup adjacent ne lui rapporte rien.</TM_SeismicSlash_ver_desc>
+<TM_BladeSpin_pwr_desc>Augmente le nombre de frappes de 1 par niveau de compétence. Le nombre de base est de 2.
+Augmente les chances de réussite de Lame tournoyante de 4% par niveau. La base est de 50%.</TM_BladeSpin_pwr_desc>
+<TM_BladeSpin_eff_desc>Diminue le coût en endurance de Lame tournoyante de 10% par niveau de compétence.</TM_BladeSpin_eff_desc>
+<TM_BladeSpin_ver_desc>Augmente le rayon de Lame tournoyante de 0,5 case par niveau de compétence. Le rayon de base est de 2 cases.
+Augmente les chances de réussite de Lame tournoyante de 4% par niveau. La base est de 50%.</TM_BladeSpin_ver_desc>
+<TM_PhaseStrike_pwr_desc>Augmente les chances d'obtenir un coup critique de 15% par niveau de compétence. La chance de base est de 10%. Les coups critiques infligent 3x les dégâts.</TM_PhaseStrike_pwr_desc>
+<TM_PhaseStrike_eff_desc>Diminue le coût en endurance de Phase Strike de 8% par niveau de compétence.</TM_PhaseStrike_eff_desc>
+<TM_PhaseStrike_ver_desc>Augmente le rayon de Phase Strike de 0,5 case par niveau de compétence.</TM_PhaseStrike_ver_desc>
+
+<TM_BladeFocus_pwr>   Maîtrise des lames</TM_BladeFocus_pwr>
+<TM_BladeArt_pwr>   Maîtrise du corps</TM_BladeArt_pwr>
+<TM_SeismicSlash_pwr>   Vague de force</TM_SeismicSlash_pwr>
+<TM_SeismicSlash_eff>   Mouvements sans faille</TM_SeismicSlash_eff>
+<TM_SeismicSlash_ver>   Vague expansive</TM_SeismicSlash_ver>
+<TM_BladeSpin_pwr>   Lame affûtée</TM_BladeSpin_pwr>
+<TM_BladeSpin_eff>   Frappe sans effort</TM_BladeSpin_eff>
+<TM_BladeSpin_ver>   Améliorer la portée</TM_BladeSpin_ver>
+<TM_PhaseStrike_pwr>   Phase critique</TM_PhaseStrike_pwr>
+<TM_PhaseStrike_eff>   Lame de dimension</TM_PhaseStrike_eff>
+<TM_PhaseStrike_ver>   Portée progressive</TM_PhaseStrike_ver>
+
+<TM_RangerTraining_pwr_desc>Entraînement avancé en tant que rôdeur. Chaque niveau nécessite 2 points de compétence pour s'entraîner et améliore le trait de classe.
+Niveau 0 : Vitesse de déplacement +0.2c/s, Immunité +20%, Confort thermique +-10, Temps de visée -15%
+Niveau 1 : Vitesse de déplacement +0.3c/s, Immunité +30%, Confort thermique +-15, Temps de visée -20%
+Niveau 2 : Vitesse de déplacement +0.4c/s, Immunité +40%, Confort thermique +-20, Temps de visée -30%
+Niveau 3 : Vitesse de déplacement +0.5c/s, Immunité +50%, Confort thermique +-25, Temps de visée -40%</TM_RangerTraining_pwr_desc>
+<TM_BowTraining_pwr_desc>Augmente la compétence en matière d'arcs. Chaque niveau nécessite 2 points de compétence pour s'entraîner.
+Niveau 0 : +20% dégâts des arcs, +20% à la vue, +20% à l'ouïe
+Niveau 1 : +40% dégâts des arcs, +40% à la vue, +40% à l'ouïe
+Niveau 2 : +60% dégâts des arcs, +60% à la vue, +60% à l'ouïe, +15% à la respiration
+Niveau 3 : +80% dégâts des arcs, +80% à la vue, +80% à l'ouïe, +25% à la respiration, +10% de filtration du sang</TM_BowTraining_pwr_desc>
+<TM_PoisonTrap_ver_desc>Augmente le nombre de pièges actifs que le rôdeur peut avoir de 1 par niveau. Le maximum de base est de 2.</TM_PoisonTrap_ver_desc>
+<TM_AnimalFriend_pwr_desc>Le rôdeur ne peut se lier à un animal que s'il a un niveau d'empathie qui dépasse la sauvagerie de l'animal. L'empathie augmente également les chances de se lier avec un animal et diminue les chances que l'animal devienne un chasseur d'hommes.
+Niveau 0 : jusqu'à 70% de sauvagerie, 40% de chasseurs d'hommes
+Niveau 1 : jusqu'à 80% de sauvagerie, 35% de chasseurs d'hommes
+Niveau 2 : jusqu'à 90% de sauvagerie, 30% de chasseurs d'hommes
+Niveau 3 : jusqu'à 100% de sauvagerie, 25% de chasseurs d'hommes</TM_AnimalFriend_pwr_desc>
+<TM_AnimalFriend_eff_desc>Diminue le coût en endurance pour utiliser et maintenir le lien animal de 15% par niveau de compétence.</TM_AnimalFriend_eff_desc>
+<TM_AnimalFriend_ver_desc>Augmente la puissance du lien entre le rôdeur et les animaux de sa famille.
+Niveau 0 : Déplacement +20%, Manipulation +20%, Chance d'esquive +15%
+Niveau 1 : Déplacement +30%, Manipulation +30%, Pompage du sang +20%, Chance d'esquive +20%
+Niveau 2 : Déplacement +40%, Manipulation +40%, Pompage du sang +30%, Chance d'esquive +27%
+Niveau 3 : Déplacement +50%, Manipulation +50%, Pompage du sang +40%, Chance d'esquive +35%</TM_AnimalFriend_ver_desc>
+<TM_ArrowStorm_pwr_desc>Augmente les dégâts de chaque flèche de 10% par niveau de compétence.</TM_ArrowStorm_pwr_desc>
+<TM_ArrowStorm_eff_desc>Diminue le coût en endurance de Tempête de flèches de 8% par niveau de compétence.</TM_ArrowStorm_eff_desc>
+<TM_ArrowStorm_ver_desc>Augmente la précision de Tempête de flèches de 5% par niveau de compétence. Ceci est cumulatif, donc si la précision est de 60%, 2 niveaux de compétence augmenteront la précision à 70%. La précision est calculée à partir de la précision de l'arc équipé.</TM_ArrowStorm_ver_desc>
+
+<TM_RangerTraining_pwr>   Formation de Rôdeur</TM_RangerTraining_pwr>
+<TM_BowTraining_pwr>   Maîtrise de l'arc</TM_BowTraining_pwr>
+<TM_PoisonTrap_ver>   Plus de pièges</TM_PoisonTrap_ver>
+<TM_AnimalFriend_pwr>   Empathie animale</TM_AnimalFriend_pwr>
+<TM_AnimalFriend_eff>   Murmure apaisant</TM_AnimalFriend_eff>
+<TM_AnimalFriend_ver>   Lien augmenté</TM_AnimalFriend_ver>
+<TM_ArrowStorm_pwr>   Flèches crantées</TM_ArrowStorm_pwr>
+<TM_ArrowStorm_eff>   Dessin en douceur</TM_ArrowStorm_eff>
+<TM_ArrowStorm_ver>   Focalisation inébranlable</TM_ArrowStorm_ver>
+
+<TM_Disguise_eff_desc>Réduit le coût en endurance nécessaire pour appliquer Tromperie de 10% par niveau de compétence.</TM_Disguise_eff_desc>
+<TM_Disguise_pwr_desc>Réduit la pénalité de mouvement lors d'une tromperie visuelle :
+Niveau 0 : -40% de mouvement
+Niveau 1 : -20% de mouvement
+Niveau 2 :   0% de mouvement
+Niveau 3 : +20% de mouvement</TM_Disguise_pwr_desc>
+<TM_Disguise_ver_desc>Augmente la durée de la Tromperie de 8s par niveau de compétence. Tromperie dure 30s par défaut.</TM_Disguise_ver_desc>
+<TM_Mimic_pwr_desc>Ce niveau de puissance est appliqué à toute capacité que le sans-visage imite.</TM_Mimic_pwr_desc>
+<TM_Mimic_eff_desc>Réduit le coût en endurance nécessaire pour Imitation de 8% par niveau de compétence.</TM_Mimic_eff_desc>
+<TM_Mimic_ver_desc>Ce niveau de polyvalence est appliqué à toute capacité que le sans-visage imite.</TM_Mimic_ver_desc>
+<TM_Transpose_eff_desc>Diminue le coût en endurance de Transposition de 8% par niveau de coût en endurance de base.</TM_Transpose_eff_desc>
+<TM_Transpose_ver_desc>Niveau 1 : le sans-visage n'est plus désorienté suite à une transposition. Le sans-visage gagne 3s de Revers
+Niveau 2 : les cibles amies ne sont plus désorientées suite à une transposition. Le sans-visage gagne 4s de Revers
+Niveau 3 : la transposition ne nécessite plus que la cible soit visible pour le sans-visage. Le sans-visage gagne 5s de Revers</TM_Transpose_ver_desc>
+<TM_Reversal_eff_desc>Diminue le coût en endurance de Revers de 10% par niveau de compétence.</TM_Reversal_eff_desc>
+<TM_Reversal_pwr_desc>Augmente la durée de Revers de 2 secondes par niveau de compétence. Revers dure 8 secondes par défaut.</TM_Reversal_pwr_desc>
+<TM_Reversal_ver_desc>Revers siphonne une partie de l'énergie cinétique pour restaurer l'endurance et la vie de l'utilisateur.</TM_Reversal_ver_desc>
+<TM_Possess_pwr_desc>Augmente la durée de Possession de 5s par niveau de compétence. Possession dure 20s par défaut.</TM_Possess_pwr_desc>
+<TM_Possess_eff_desc>Diminue le coût en endurance de Possession de 6% du coût de base par niveau de compétence.</TM_Possess_eff_desc>
+<TM_Possess_ver_desc>Réduit les pénalités lors de Possession d'un colon ennemi ou augmente les bonus lors de Possession d'un colon ami.</TM_Possess_ver_desc>
+
+<TM_Disguise_eff>   Cape en patchwork</TM_Disguise_eff>
+<TM_Disguise_ver>   Masque de tromperie</TM_Disguise_ver>
+<TM_Disguise_pwr>   Miroir du corps</TM_Disguise_pwr>
+<TM_Mimic_pwr>   Mimétisme motorisé</TM_Mimic_pwr>
+<TM_Mimic_eff>   Esprit agile</TM_Mimic_eff>
+<TM_Mimic_ver>   Mimétisme polyvalent</TM_Mimic_ver>
+<TM_Transpose_eff>   Point commun</TM_Transpose_eff>
+<TM_Transpose_ver>   Extrapolation</TM_Transpose_ver>
+<TM_Reversal_pwr>   Inversion soutenue</TM_Reversal_pwr>
+<TM_Reversal_eff>   Momentum appliqué</TM_Reversal_eff>
+<TM_Reversal_ver>   Absorption cinétique</TM_Reversal_ver>
+<TM_Possess_pwr>   Labyrinthe mental</TM_Possess_pwr>
+<TM_Possess_eff>   Volonté dominante</TM_Possess_eff>
+<TM_Possess_ver>   Synchronisation</TM_Possess_ver>
+
+
+<TM_PsionicAugmentation_eff_desc>En injectant de l'énergie psionique dans ses jambes et son cœur, un psionique est capable d'accélérer rapidement ses mouvements pendant une courte période.
+
+En combat, cette augmentation permet au psionique de se propulser rapidement sur de courtes distances et de transférer cette énergie sous forme d'attaque à l'endroit de l'impact. Les psioniques sont protégés par une barrière lorsqu'ils effectuent ce saut psionique.
+Cette attaque ne se produit que si le psionique est mobilisé et non armé.
+L'entraînement à cette compétence améliore la distance du saut et la force de l'impact.
+
+En dehors du combat, le psionique insufflera de l'énergie mentale dans sa foulée, augmentant ainsi considérablement sa vitesse de déplacement pendant une courte période. Cette capacité ne se produit que lorsque le psionique est proche du maximum d'énergie psionique et a une cible de travail à une distance suffisante. Elle n'interrompt pas les tâches en cours.
+L'entraînement à cette compétence améliore la durée et la vitesse de déplacement.
+
+Les deux augmentations se produisent automatiquement. Cette compétence nécessite 2 points d'aptitude pour être mise à niveau.</TM_PsionicAugmentation_eff_desc>
+<TM_PsionicAugmentation_pwr_desc>En renforçant la force physique avec la puissance psionique, un psionique est capable d'augmenter la vitesse et la force de ses actions.
+
+En combat, cette capacité renforce les attaques de mêlée avec de l'énergie psionique, donnant au psionique la possibilité de délivrer un coup massif qui peut faire reculer ou étourdir un adversaire. 
+Cette attaque ne se produit qu'en mêlée lorsque le psionique n'est pas armé.
+L'entraînement à cette compétence augmente les dégâts et la rapidité des coups qui peuvent renverser ou étourdir.
+
+En dehors du combat, le psionique accélère considérablement le mouvement de ses mains, ce qui augmente considérablement la manipulation. Cette capacité ne se produit que si le psionique est proche du maximum d'énergie psionique et effectue un travail qui bénéficie de la manipulation. Elle n'interrompt pas les tâches en cours.
+L'entraînement à cette compétence améliore la durée et la quantité de manipulation.
+
+Les deux augmentations se produisent automatiquement. Cette compétence nécessite 2 points d'aptitude pour être mise à niveau.</TM_PsionicAugmentation_pwr_desc>
+<TM_PsionicAugmentation_ver_desc>Le psionique concentre son énergie psionique pour écraser un adversaire avec une puissance brute. Cela ne se produit qu'en combat, mais peut être utilisé en cohésion avec d'autres capacités de combat.
+Cette capacité a une portée minimum de 5 cases.
+L'entraînement à cette compétence améliore la portée maximum, les dégâts, et réduit l'énergie psionique nécessaire pour effectuer l'attaque.
+
+Cette augmentation se produit automatiquement mais doit être entraînée au moins une fois pour devenir active. Cette compétence nécessite 2 points d'aptitude pour être mise à niveau.</TM_PsionicAugmentation_ver_desc>
+<TM_PsionicBarrier_pwr_desc>Les projectiles déviés par la barrière ont une chance de drainer de l'endurance au lieu de l'énergie psionique. Chaque niveau améliore cette chance de 15%.
+Niveau 0 :  0%.
+Niveau 1 : 15%
+Niveau 2 : 30%
+Niveau 3 : 45%</TM_PsionicBarrier_pwr_desc>
+<TM_PsionicBarrier_eff_desc>Réduit la quantité d'énergie psionique drainée lors de la déviation d'un projectile de 10% par niveau de compétence.</TM_PsionicBarrier_eff_desc>
+<TM_PsionicBarrier_ver_desc>Augmente le rayon de la barrière de 3/4 de case par niveau de compétence. Le rayon par défaut est de 2,5 cases.</TM_PsionicBarrier_ver_desc>
+<TM_PsionicBlast_pwr_desc>Augmentation du souffle psi, chaque niveau augmente les dégâts de 15%.</TM_PsionicBlast_pwr_desc>
+<TM_PsionicBlast_eff_desc>Diminue le coût en endurance du Souffle psionique de 8% par niveau de coût en endurance de base.</TM_PsionicBlast_eff_desc>
+<TM_PsionicBlast_ver_desc>Augmente les chances de projeter plusieurs souffles de 4% par niveau et réduit l'énergie psionique drainée pour chaque souffle supplémentaire de 1.</TM_PsionicBlast_ver_desc>
+<TM_PsionicDash_eff_desc>Diminue le coût en endurance de Célérité psionique de 10% et réduit le coût en énergie psionique de 1 par niveau de compétence.</TM_PsionicDash_eff_desc>
+<TM_PsionicDash_pwr_desc>Augmente tous les dégâts infligés par Célérité psionique de 10% par niveau de compétence.</TM_PsionicDash_pwr_desc>
+<TM_PsionicDash_ver_desc>Augmente le nombre de pas effectués lors de Célérité psionique de 1 par niveau de compétence.</TM_PsionicDash_ver_desc>
+<TM_PsionicStorm_pwr_desc>Augmente les dégâts de chaque souffle psionique utilisé pendant la tempête psionique de 10% par niveau de compétence.</TM_PsionicStorm_pwr_desc>
+<TM_PsionicStorm_eff_desc>Réduit l'énergie psionique minimum requise pour utiliser la tempête psionique de 5 par niveau de compétence.
+Niveau 0 : 65
+Niveau 1 : 60
+Niveau 2 : 55
+Niveau 3 : 50</TM_PsionicStorm_eff_desc>
+<TM_PsionicStorm_ver_desc>Augmente la cadence de tir de 10% par niveau de compétence.</TM_PsionicStorm_ver_desc>
+
+<TM_PsionicAugmentation_eff>   Augmenter le mouvement</TM_PsionicAugmentation_eff>
+<TM_PsionicAugmentation_ver>   Augmenter l'esprit</TM_PsionicAugmentation_ver>
+<TM_PsionicAugmentation_pwr>   Augmenter la manipulation</TM_PsionicAugmentation_pwr>
+<TM_PsionicBarrier_pwr>   Symbiose de l'énergie</TM_PsionicBarrier_pwr>
+<TM_PsionicBarrier_eff>   Conservation de l'énergie</TM_PsionicBarrier_eff>
+<TM_PsionicBarrier_ver>   Taille de la barrière</TM_PsionicBarrier_ver>
+<TM_PsionicBlast_pwr>   Psi-a Wreck-en</TM_PsionicBlast_pwr>
+<TM_PsionicBlast_eff>   Corps et esprit</TM_PsionicBlast_eff>
+<TM_PsionicBlast_ver>   Inondation d'énergie</TM_PsionicBlast_ver>
+<TM_PsionicDash_pwr>   Super Psionique</TM_PsionicDash_pwr>
+<TM_PsionicDash_eff>   Sprinter</TM_PsionicDash_eff>
+<TM_PsionicDash_ver>   Célérité</TM_PsionicDash_ver>
+<TM_PsionicStorm_pwr>   Volonté destructrice</TM_PsionicStorm_pwr>
+<TM_PsionicStorm_eff>   Réserve mentale</TM_PsionicStorm_eff>
+<TM_PsionicStorm_ver>   Tempête implacable</TM_PsionicStorm_ver>
+
+<TM_Shroud_pwr_desc>Augmente les bonus défensifs et les dégâts de représailles de Voile des ténèbres d'environ 20% par niveau de compétence. (le montant réel varie en fonction du niveau de haine)</TM_Shroud_pwr_desc>
+<TM_Shroud_eff_desc>Augmente de 10% la quantité de haine générée lorsque le chevalier de la mort est blessé.  
+
+Réduit de 25% la quantité de haine consommée lorsque Voile des ténèbres annule un projectile ou riposte contre un attaquant en mêlée, de 12%.</TM_Shroud_eff_desc>
+<TM_Shroud_ver_desc>Augmente les chances de Voile des ténèbres de riposter de 10% par niveau de compétence, ou d'annuler un projectile de 6% par niveau de compétence.
+Chances de riposte de base : 0%
+Chances d'annulation de base : 30%</TM_Shroud_ver_desc>
+<TM_WaveOfFear_pwr_desc>Les colons affectés sont assaillis par une peur invalidante qui augmente le temps de visée et diminue les mouvements et l'armure contre les attaques sombres et lumineuses. L'entraînement à cette compétence augmente l'effet et la durée de cet affaiblissement.</TM_WaveOfFear_pwr_desc>
+<TM_WaveOfFear_eff_desc>Réduit les coûts d'endurance et de haine de Vague de peur de 10% par niveau de compétence.</TM_WaveOfFear_eff_desc>
+<TM_WaveOfFear_ver_desc>Augmente le rayon de l'effet de Vague de peur de 0,8 case par niveau de compétence. Le rayon par défaut est de 4 cases. 
+
+Le rayon est encore augmenté de 0,7 case par tranche de 10% de Haine.</TM_WaveOfFear_ver_desc>
+<TM_Spite_pwr_desc>Augmente les dégâts de Rancune de 10% par niveau de compétence.</TM_Spite_pwr_desc>
+<TM_Spite_eff_desc>Diminue le coût en endurance de Rancune de 10% par niveau de compétence.</TM_Spite_eff_desc>
+<TM_Spite_ver_desc>Augmente les chances que Rancune submerge les émotions de la cible, l'étourdissant pendant un bref moment.
+Niveau 0 :  0%
+Niveau 1 : 15%
+Niveau 2 : 30%
+Niveau 3 : 45%</TM_Spite_ver_desc>
+<TM_LifeSteal_pwr_desc>Les attaques de mêlée volent 15 % de vie des dégâts infligés ; chaque niveau de compétence augmente ce chiffre de 2 %.</TM_LifeSteal_pwr_desc>
+<TM_LifeSteal_eff_desc>Vole l'endurance et génère une haine proportionnelle aux dégâts infligés.
+Niveau 0 :  0%
+Niveau 1 :  5%
+Niveau 2 : 10%
+Niveau 3 : 15%</TM_LifeSteal_eff_desc>
+<TM_LifeSteal_ver_desc>Chaque coup peut guérir un allié proche (dans un rayon de 3 cases) d'un % des dégâts infligés par niveau de compétence.
+Niveau 0 :  0%
+Niveau 1 : 11%
+Niveau 2 : 12%
+Niveau 3 : 13%</TM_LifeSteal_ver_desc>
+<TM_GraveBlade_pwr_desc>Augmente les dégâts de chaque Lame runique de 12% par niveau de compétence.</TM_GraveBlade_pwr_desc>
+<TM_GraveBlade_eff_desc>Réduit le coût en endurance de Lame runique de 8% par niveau de compétence.</TM_GraveBlade_eff_desc>
+<TM_GraveBlade_ver_desc>Chaque coup a 10% de chances par niveau de compétence de guérir le lanceur de la moitié des dégâts infligés et/ou d'induire la peur chez la cible.</TM_GraveBlade_ver_desc>
+
+<TM_Shroud_pwr>   Chevalier des ténèbres</TM_Shroud_pwr>
+<TM_Shroud_eff>   La haine qui s'installe</TM_Shroud_eff>
+<TM_Shroud_ver>   Ténèbres accrochées</TM_Shroud_ver>
+<TM_WaveOfFear_pwr>   Inciter la terreur</TM_WaveOfFear_pwr>
+<TM_WaveOfFear_eff>   Haine glaciale</TM_WaveOfFear_eff>
+<TM_WaveOfFear_ver>   Contagion</TM_WaveOfFear_ver>
+<TM_Spite_pwr>   Intensité</TM_Spite_pwr>
+<TM_Spite_eff>   Implacable</TM_Spite_eff>
+<TM_Spite_ver>   Stupéfiant</TM_Spite_ver>
+<TM_LifeSteal_pwr>   Haine insatiable</TM_LifeSteal_pwr>
+<TM_LifeSteal_eff>   Double tape</TM_LifeSteal_eff>
+<TM_LifeSteal_ver>   Soin de proximité</TM_LifeSteal_ver>
+<TM_GraveBlade_pwr>   Au seuil de la mort</TM_GraveBlade_pwr>
+<TM_GraveBlade_eff>   Passeur</TM_GraveBlade_eff>
+<TM_GraveBlade_ver>   Sang et esprit</TM_GraveBlade_ver>
+
+<TM_Chi_pwr_desc>Augmente la quantité maximale d'énergie brûlée de 20%. Le maximum de base est de 50 énergies.
+Les colons affectés subissent 0,4 point de dégâts par énergie brûlée et sont étourdis.</TM_Chi_pwr_desc>
+<TM_Chi_eff_desc>Réduit la quantité de ch'i nécessaire pour utiliser les capacités ch'i de 6% par niveau de compétence.</TM_Chi_eff_desc>
+<TM_Chi_ver_desc>Diminue la perte de ch'i de 20% par niveau de compétence.</TM_Chi_ver_desc>
+<TM_MindOverBody_pwr_desc>Applique une pile supplémentaire de l'amélioration passive du moine (Esprit et Corps) par niveau de compétence.</TM_MindOverBody_pwr_desc>
+<TM_MindOverBody_ver_desc>Augmente l'atténuation maximale des dégâts de 2 par niveau de compétence. L'atténuation des dégâts est réduite de 1 pour chaque kg de poids de vêtement.
+Niveau 0 :  7 dégâts
+Niveau 1 :  9 dégâts
+Niveau 2 : 11 dégâts
+Niveau 3 : 13 dégâts</TM_MindOverBody_ver_desc>
+<TM_Meditate_pwr_desc>Augmente les taux de régénération des blessures, des maladies et des addictions de 10% par niveau de compétence.</TM_Meditate_pwr_desc>
+<TM_Meditate_eff_desc>Augmente le ch'i acquis pendant la méditation de 10% par niveau de compétence.</TM_Meditate_eff_desc>
+<TM_Meditate_ver_desc>Augmente de 10 % le gain de bonus de repos, de joie et d'humeur pendant la méditation.</TM_Meditate_ver_desc>
+<TM_TigerStrike_pwr_desc>Augmente les dégâts de Frappes du tigre de 15 % par niveau de compétence et augmente les chances passives de frapper plusieurs fois de 5 % (base 30 %).</TM_TigerStrike_pwr_desc>
+<TM_TigerStrike_eff_desc>Diminue le coût en ch'i et en endurance de Frappes du tigre de 10%.</TM_TigerStrike_eff_desc>
+<TM_TigerStrike_ver_desc>Chaque niveau de compétence ajoute 1 attaque supplémentaire à Frappes du tigre. Chaque niveau de compétence ajoute également une chance d'appliquer des attaques bonus.
+Niveau 0 : Physique uniquement
+Niveau 1 : Étourdissement (10% par coup)
+Niveau 2 : Drainage (40% par coup)
+Niveau 3 : Toucher mortel (10% par coup)
+
+Les attaques de drainage absorbent l'énergie (mana, endurance) et la convertissent en ch'i.
+Toucher mortel cible une partie vitale du corps et la frappe avec une attaque précise qui inflige 40% de dégâts supplémentaires.</TM_TigerStrike_ver_desc>
+<TM_DragonStrike_pwr_desc>Augmente les dégâts de Frappe du dragon de 10% par niveau de compétence.</TM_DragonStrike_pwr_desc>
+<TM_DragonStrike_eff_desc>Réduit le coût en endurance et en ch'i de Frappe du dragon de 10% par niveau de compétence.</TM_DragonStrike_eff_desc>
+<TM_DragonStrike_ver_desc>Augmente les chances passives de déclencher Frappe du dragon de 5% par niveau de compétence. Base 30%. Ne se déclenche que lorsque vous êtes confronté à plusieurs adversaires. Augmente également la distance à laquelle Frappe du dragon renverse une cible proche de 15% par niveau de compétence.</TM_DragonStrike_ver_desc>
+<TM_ThunderStrike_pwr_desc>Augmente les dégâts de Coup de tonnerre de 12% par niveau de compétence.</TM_ThunderStrike_pwr_desc>
+<TM_ThunderStrike_eff_desc>Réduit le coût en ch'i de Coup de tonnerre de 10% par niveau de compétence.</TM_ThunderStrike_eff_desc>
+<TM_ThunderStrike_ver_desc>L'augmentation de la charge crée des éclairs supplémentaires qui s'éloignent du Moine en forme de cône.</TM_ThunderStrike_ver_desc>
+
+<TM_Chi_pwr>   Rafale perturbatrice</TM_Chi_pwr>
+<TM_Chi_eff>   Tamis de vie</TM_Chi_eff>
+<TM_Chi_ver>   Condensateur d'esprit</TM_Chi_ver>
+<TM_MindOverBody_pwr>   Arts martiaux</TM_MindOverBody_pwr>
+<TM_MindOverBody_ver>   Ignorer les dégâts</TM_MindOverBody_ver>
+<TM_Meditate_pwr>   Méditation purificatrice</TM_Meditate_pwr>
+<TM_Meditate_eff>   Méditation profonde</TM_Meditate_eff>
+<TM_Meditate_ver>   Méditation rénovatrice</TM_Meditate_ver>
+<TM_TigerStrike_pwr>   Furie du tigre</TM_TigerStrike_pwr>
+<TM_TigerStrike_eff>   Posture fluide</TM_TigerStrike_eff>
+<TM_TigerStrike_ver>   Ruse du tigre</TM_TigerStrike_ver>
+<TM_DragonStrike_pwr>   Furie du Dragon</TM_DragonStrike_pwr>
+<TM_DragonStrike_eff>   Dragon furtif</TM_DragonStrike_eff>
+<TM_DragonStrike_ver>   Pieds ailés</TM_DragonStrike_ver>
+<TM_ThunderStrike_pwr>   Furie du tonnerre</TM_ThunderStrike_pwr>
+<TM_ThunderStrike_eff>   Esprit électrique</TM_ThunderStrike_eff>
+<TM_ThunderStrike_ver>   Éclats</TM_ThunderStrike_ver>
+
+<TM_ProvisionerAura_pwr_desc>Augmente l'efficacité de tous les domaines des prestations du commandant.</TM_ProvisionerAura_pwr_desc>
+<TM_ProvisionerAura_eff_desc>Réduit le coût d'activation en énergie et le coût d'entretien de 12,5% par niveau de compétence.</TM_ProvisionerAura_eff_desc>
+<TM_ProvisionerAura_ver_desc>Élargit la portée des prestations.
+Niveau 0 : réduit le repos et la diminution de la nourriture
+Niveau 1 : maintient les armes et l'équipement équipés
+Niveau 2 : améliore la régénération naturelle de la santé
+Niveau 3 : augmente de 15% la régénération de l'endurance et du mana</TM_ProvisionerAura_ver_desc>
+<TM_TaskMasterAura_pwr_desc>Augmente l'efficacité du travail des colons sous l'autorité d'un Maître de Tâche.</TM_TaskMasterAura_pwr_desc>
+<TM_TaskMasterAura_eff_desc>Réduit le coût d'activation en énergie et le coût d'entretien de 11% par niveau de compétence.</TM_TaskMasterAura_eff_desc>
+<TM_TaskMasterAura_ver_desc>Augmente la portée de l'Aura du Maître de Tâche de 2 cases par niveau de compétence ; la portée de base est de 15 cases. Augmente la fréquence d'application de l'effet de 5%.</TM_TaskMasterAura_ver_desc>
+<TM_CommanderAura_pwr_desc>Améliore l'effet de l'Aura du Commandant et réduit de 10% le temps entre les discours de motivation.</TM_CommanderAura_pwr_desc>
+<TM_CommanderAura_eff_desc>Réduit le coût d'activation de l'énergie et le coût d'entretien de 10% par niveau de compétence.</TM_CommanderAura_eff_desc>
+<TM_CommanderAura_ver_desc>Augmente la portée de l'Aura du Commandant de 2 cases par niveau de compétence ; la portée de base est de 15 cases. Augmente la durée de l'effet de l'aura sur les colons de 10% par niveau de compétence ; la durée de base est de 0,5 heure (temps de jeu).</TM_CommanderAura_ver_desc>
+<TM_StayAlert_pwr_desc>Augmente la quantité de repos gagnée par chaque colon affecté de 10% par niveau de compétence et prolonge la durée pendant laquelle les colons restent en alerte. Il s'agit d'un bonus fixe, qui n'est pas affecté par le nombre de colons recevant l'ordre.</TM_StayAlert_pwr_desc>
+<TM_StayAlert_eff_desc>Réduit l'endurance nécessaire pour ordonner "Rester vigilant !" de 10% par niveau de compétence.</TM_StayAlert_eff_desc>
+<TM_MoveOut_pwr_desc>Augmente le bonus de mouvement de 10% par niveau de compétence. Il s'agit d'un bonus fixe, non affecté par le nombre de colons recevant l'ordre.</TM_MoveOut_pwr_desc>
+<TM_MoveOut_eff_desc>Réduit l'endurance nécessaire pour ordonner "Dégagez !" de 10% par niveau de compétence.</TM_MoveOut_eff_desc>
+<TM_HoldTheLine_pwr_desc>Augmente l'efficacité de Tenir la ligne et augmente la quantité de bouclier de chaque colon affecté. Il s'agit d'un bonus fixe, qui n'est pas affecté par le nombre de colons recevant l'ordre.</TM_HoldTheLine_pwr_desc>
+<TM_HoldTheLine_eff_desc>Réduit l'endurance nécessaire pour ordonner "Tenez la ligne !" de 10% par niveau de compétence.</TM_HoldTheLine_eff_desc>
+
+<TM_ProvisionerAura_pwr>   Comptabilité adroite</TM_ProvisionerAura_pwr>
+<TM_ProvisionerAura_eff>   Gestionnaire efficace</TM_ProvisionerAura_eff>
+<TM_ProvisionerAura_ver>   Courtier en fournitures</TM_ProvisionerAura_ver>
+<TM_TaskMasterAura_pwr>   Maître foreur</TM_TaskMasterAura_pwr>
+<TM_TaskMasterAura_eff>   Plus grand bien</TM_TaskMasterAura_eff>
+<TM_TaskMasterAura_ver>   Projection vocale</TM_TaskMasterAura_ver>
+<TM_CommanderAura_pwr>   Chef visionnaire</TM_CommanderAura_pwr>
+<TM_CommanderAura_eff>   Masque du commandant</TM_CommanderAura_eff>
+<TM_CommanderAura_ver>   Personnalité motivante</TM_CommanderAura_ver>
+<TM_StayAlert_pwr>   Autorité du commandant</TM_StayAlert_pwr>
+<TM_StayAlert_eff>   Présence du commandant</TM_StayAlert_eff>
+<TM_MoveOut_pwr>   Autorité du commandant</TM_MoveOut_pwr>
+<TM_MoveOut_eff>   Présence du commandant</TM_MoveOut_eff>
+<TM_HoldTheLine_pwr>   Autorité du commandant</TM_HoldTheLine_pwr>
+<TM_HoldTheLine_eff>   Présence du commandant</TM_HoldTheLine_eff>
+
+<TM_PistolSpec_pwr_desc>Les pistolets équipés bénéficient des améliorations suivantes pour chaque niveau de compétence :
+Dégâts		 : +3.0%
+Nombre de tirs	 : +2.0%
+Refroidissement	 : -2.5%
+Échauffement	 : -2.5%
+Temps de visée	 : -3.0%
+Portée		 : +1.0%
+Préci. Courte	 : +1.5%
+Préci. Moyenne	 : +0.5%</TM_PistolSpec_pwr_desc>
+<TM_PistolSpec_eff_desc>Augmente les chances d'ignorer le temps de recharge après chaque rafale de tir au pistolet.
+Niveau 0 : 25%
+Niveau 1 : 30%
+Niveau 2 : 35%
+Niveau 3 : 40%</TM_PistolSpec_eff_desc>
+<TM_PistolSpec_ver_desc>Améliore la capacité de coup de crosse du pistolet.
+Niveau 0 : (Etourdir)  6-9 de dégâts, (Contondant)  6-8 de dégâts, 35% de chance désarmer
+Niveau 1 : (Etourdir) 7-10 de dégâts, (Contondant)  7-9 de dégâts, 40% de chance désarmer, -10% coût en énergie
+Niveau 2 : (Etourdir) 8-11 de dégâts, (Contondant) 8-10 de dégâts, 45% de chance désarmer, -20% coût en énergie
+Niveau 3 : (Etourdir) 9-12 de dégâts, (Contondant) 9-11 de dégâts, 50% de chance désarmer, -30% coût en énergie</TM_PistolSpec_ver_desc>
+<TM_RifleSpec_pwr_desc>Les fusils équipés bénéficient des améliorations suivantes pour chaque niveau de compétence :
+Dégâts		 : +1%
+Nombre de tirs	 : +3%
+Refroidissement	 : -1%
+Échauffement	 : -1%
+Cadence de tir	 : -2%
+Portée		 : +2%
+Préci. Courte	 : +1%
+Préci. Moyenne	 : +1%
+Préci. Longue	 : +1%</TM_RifleSpec_pwr_desc>
+<TM_RifleSpec_eff_desc>Augmente le nombre de tir de suppression de 12,5% et réduit son coût de 8% par niveau de compétence.</TM_RifleSpec_eff_desc>
+<TM_RifleSpec_ver_desc>Augmente les dégâts d'explosion du Mk203 Lance-Grenades de 1,5 et réduit son coût de 8% par niveau de compétence.</TM_RifleSpec_ver_desc>
+<TM_ShotgunSpec_pwr_desc>Les fusils à pompe équipés bénéficient des améliorations suivantes pour chaque niveau de compétence :
+Dégâts		 : +2.0%
+Refroidissement	 : -3.0%
+Échauffement	 : -3.0%
+Cadence de tir	 : -2.0%
+Portée		 : +1.0%
+Préci. CàC		 : +1.0%
+Préci. Courte	 : +1.5%
+Préci. Moyenne	 : +0.5%</TM_ShotgunSpec_pwr_desc>
+<TM_ShotgunSpec_eff_desc>Augmente le nombre de plombs de chevrotine de 3 et réduit son coût de 8% par niveau de compétence.</TM_ShotgunSpec_eff_desc>
+<TM_ShotgunSpec_ver_desc>Augmente les dégâts de Charge explosive de 15% et réduit son coût de 8% par niveau de compétence.</TM_ShotgunSpec_ver_desc>
+<TM_CQC_pwr_desc>Augmente les dégâts de l'attaque Combat rapproché de 2 par niveau de compétence. Dégâts de base 10-14.</TM_CQC_pwr_desc>
+<TM_CQC_eff_desc>Réduit le coût en énergie pour utiliser Combat rapproché de 10% par niveau de compétence.</TM_CQC_eff_desc>
+<TM_CQC_ver_desc>Augmente les chances d'effectuer une attaque en Combat rapproché :
+Niveau 0 : 20%
+Niveau 1 : 25%
+Niveau 2 : 28%
+Niveau 3 : 30%</TM_CQC_ver_desc>
+<TM_FirstAid_pwr_desc>Augmente le nombre de blessures soignées de 1 par niveau de compétence. De base 2 blessures soignées.</TM_FirstAid_pwr_desc>
+<TM_FirstAid_eff_desc>Réduit le coût en énergie pour utiliser l'auto-assistance de 10% par niveau de compétence.</TM_FirstAid_eff_desc>
+<TM_FirstAid_ver_desc>Améliore la qualité générale de l'auto-assistance
+Niveau 0 : 00-40%
+Niveau 1 : 10-50%
+Niveau 2 : 20-60%
+Niveau 3 : 30-70%</TM_FirstAid_ver_desc>
+<TM_60mmMortar_pwr_desc>Augmente les dégâts et le rayon de l'explosion.
+Niveau 0 : 14-20 dégâts, rayon 2.00 cases
+Niveau 1 : 15-22 dégâts, rayon 2.35 cases
+Niveau 2 : 16-24 dégâts, rayon 2.70 cases
+Niveau 3 : 17-26 dégâts, rayon 3.05 cases</TM_60mmMortar_pwr_desc>
+<TM_60mmMortar_eff_desc>Réduit de 8% le coût en énergie pour déployer un système de mortier de 60 mm et augmente la précision de 10% par niveau de compétence.</TM_60mmMortar_eff_desc>
+<TM_60mmMortar_ver_desc>Augmente la portée maximum et réduit le délai entre les tirs. Le rang 3 augmente le nombre de tirs à 4.</TM_60mmMortar_ver_desc>
+
+<TM_PistolSpec_pwr>   Spécialisation Pistolet</TM_PistolSpec_pwr>
+<TM_PistolSpec_eff>   Double tape</TM_PistolSpec_eff>
+<TM_PistolSpec_ver>   Coup de crosse</TM_PistolSpec_ver>
+<TM_RifleSpec_pwr>   Spécialisation Fusil</TM_RifleSpec_pwr>
+<TM_RifleSpec_eff>   Tempête de balles</TM_RifleSpec_eff>
+<TM_RifleSpec_ver>   Lance grenades</TM_RifleSpec_ver>
+<TM_ShotgunSpec_pwr>   Spécialisation Fusil à pompe</TM_ShotgunSpec_pwr>
+<TM_ShotgunSpec_eff>   Impact des obus</TM_ShotgunSpec_eff>
+<TM_ShotgunSpec_ver>   Charge de forme</TM_ShotgunSpec_ver>
+<TM_CQC_pwr>   Force</TM_CQC_pwr>
+<TM_CQC_eff>   Rapidité</TM_CQC_eff>
+<TM_CQC_ver>   Équilibre</TM_CQC_ver>
+<TM_FirstAid_pwr>   Sang de troll</TM_FirstAid_pwr>
+<TM_FirstAid_eff>   Tendance naturelle</TM_FirstAid_eff>
+<TM_FirstAid_ver>   Deuxième peau</TM_FirstAid_ver>
+<TM_60mmMortar_pwr>   Explosif puissant</TM_60mmMortar_pwr>
+<TM_60mmMortar_eff>   Expert en mortier</TM_60mmMortar_eff>
+<TM_60mmMortar_ver>   Obus de qualité</TM_60mmMortar_ver>
+
+<TM_ShadowWalk_pwr_desc>Applique une invisibilité de courte durée au lanceur de sorts après avoir effectué Marche des ténèbres.
+Niveau 0 : -
+Niveau 1 : 2s invisible
+Niveau 2 : 3s invisible
+Niveau 3 : 4s invisible</TM_ShadowWalk_pwr_desc>
+<TM_ShadowWalk_eff_desc>Réduit la quantité de mana nécessaire pour utiliser Marche des ténèbres de 8% par niveau de compétence.</TM_ShadowWalk_eff_desc>
+<TM_ShadowWalk_ver_desc>Crée un excès d'ombre pour la restauration et la protection du lanceur de sorts et des colons ciblés amis.
+Niveau 0 : -
+Niveau 1 : soigne le lanceur de sorts
+Niveau 2 : soigne la cible
+Niveau 3 : occulte brièvement la cible</TM_ShadowWalk_ver_desc>
+<TM_ShadowStrike_pwr_desc>Augmente les dégâts de Frappe de l'ombre de 5% par niveau de compétence.</TM_ShadowStrike_pwr_desc>
+<TM_ShadowStrike_eff_desc>Réduit le coût en endurance de 4% par niveau de compétence.</TM_ShadowStrike_eff_desc>
+<TM_ShadowStrike_ver_desc>Ajoute la survivabilité et la létalité à la frappe de l'ombre :
+Niveau 0 : -
+Niveau 1 : gagne 2s d'invisibilité
+Niveau 2 : invisibilité +1s
+Niveau 3 : déclenche la frappe de l'ombre avec une éclaboussure de belladone qui applique une toxine de belladone à tous les ennemis situés à 2 m autour de la cible.
+Niveau 4 : augmente la gravité de la toxine
+Niveau 5 : rayon de l'éclaboussure +1m</TM_ShadowStrike_ver_desc>
+<TM_Nightshade_pwr_desc>Augmente la gravité toxique de chaque attaque de 20% par niveau de compétence.</TM_Nightshade_pwr_desc>
+<TM_Nightshade_eff_desc>Réduit le coût d'entretien de la belladone de 6% par niveau de compétence.</TM_Nightshade_eff_desc>
+<TM_Nightshade_ver_desc>Augmente la quantité maximale de doses de toxine de belladone de 20% par niveau de compétence.</TM_Nightshade_ver_desc>
+<TM_VeilOfShadows_pwr_desc>Augmente la durée de l'invisibilité et du Brouillard d'ombre de 1s par niveau de compétence. Accorde 10s d'invisibilité par défaut.</TM_VeilOfShadows_pwr_desc>
+<TM_VeilOfShadows_eff_desc>Réduit le coût en endurance de Voile des ombres de 6% par niveau de compétence.</TM_VeilOfShadows_eff_desc>
+<TM_VeilOfShadows_ver_desc>Augmente le rayon du Brouillard d'ombre de 10% par niveau de compétence et la cape d'ombre applique également des bonus de mouvement et de manipulation de 20% par niveau de compétence.</TM_VeilOfShadows_ver_desc>
+
+<TM_ShadowWalk_pwr>   Ombre persistante</TM_ShadowWalk_pwr>
+<TM_ShadowWalk_eff>   Contraste</TM_ShadowWalk_eff>
+<TM_ShadowWalk_ver>   Caresse de l'ombre</TM_ShadowWalk_ver>
+<TM_ShadowStrike_pwr>   Frappes vicieuses</TM_ShadowStrike_pwr>
+<TM_ShadowStrike_eff>   Approche invisible</TM_ShadowStrike_eff>
+<TM_ShadowStrike_ver>   Ombre toxique</TM_ShadowStrike_ver>
+<TM_Nightshade_pwr>   Puissance toxique</TM_Nightshade_pwr>
+<TM_Nightshade_eff>   Forager</TM_Nightshade_eff>
+<TM_Nightshade_ver>   Réserves toxiques</TM_Nightshade_ver>
+<TM_VeilOfShadows_pwr>   Ombre agrippante</TM_VeilOfShadows_pwr>
+<TM_VeilOfShadows_eff>   Saint des ombres</TM_VeilOfShadows_eff>
+<TM_VeilOfShadows_ver>   Obscurité accablante</TM_VeilOfShadows_ver>
+
+<TM_Herbalist_pwr_desc>Augmente la capacité de charge en plantes de l'apothicaire de 10 par niveau de compétence.</TM_Herbalist_pwr_desc>
+<TM_Herbalist_eff_desc>Réduit le taux d'expiration des ingrédients de 10% par niveau de compétence.</TM_Herbalist_eff_desc>
+<TM_Herbalist_ver_desc>Augmente le nombre d'ingrédients utiles trouvés lors de la récolte de 10% par niveau de compétence.</TM_Herbalist_ver_desc>
+<TM_PoisonFlask_pwr_desc>Augmente la durée du brouillard de la fiole de poison de 1s par niveau de compétence. De base 6s.</TM_PoisonFlask_pwr_desc>
+<TM_PoisonFlask_eff_desc>Réduit la quantité d'ingrédients nécessaires pour créer une fiole de poison de 8% par niveau de compétence.</TM_PoisonFlask_eff_desc>
+<TM_PoisonFlask_ver_desc>Augmente le rayon du brouillard de la fiole de poison de 0,8c par niveau de compétence, de base 4c.</TM_PoisonFlask_ver_desc>
+<TM_Elixir_pwr_desc>Augmente la durée de I'Élixir de puissant de 2,4 heures.</TM_Elixir_pwr_desc>
+<TM_Elixir_eff_desc>Réduit les ingrédients pour produire un Elixir de 8% par niveau de compétence.</TM_Elixir_eff_desc>
+<TM_Elixir_ver_desc>Les avantages de l'élixir aux herbes peuvent être étendus avec les bons ingrédients :
+Niveau 0 : réduit la dégradation du repos et augmente la régénération de la santé pendant l'activité.
+Niveau 1 : combat activement les infections
+Niveau 2 : combat activement les maladies
+Niveau 3 : guérit lentement les blessures permanentes</TM_Elixir_ver_desc>
+<TM_SoothingBalm_pwr_desc>Augmente la qualité de traitement des blessures traitées de 10% par niveau de compétence. De base 50-70%.</TM_SoothingBalm_pwr_desc>
+<TM_SoothingBalm_eff_desc>Réduit la quantité d'ingrédients utilisés pour créer un baume apaisant de 8% par niveau de compétence.</TM_SoothingBalm_eff_desc>
+<TM_SoothingBalm_ver_desc>Augmente le nombre de blessures soignées par le baume apaisant.</TM_SoothingBalm_ver_desc>
+<TM_FireSuppressionFlask_eff_desc>Réduit la quantité d'ingrédients nécessaires pour créer une fiole de poison de 15% par niveau de compétence.</TM_FireSuppressionFlask_eff_desc>
+
+<TM_Herbalist_pwr>   Sac d'herboriste</TM_Herbalist_pwr>
+<TM_Herbalist_eff>   Préservation</TM_Herbalist_eff>
+<TM_Herbalist_ver>   Fourrageur</TM_Herbalist_ver>
+<TM_PoisonFlask_pwr>   Nuage persistant</TM_PoisonFlask_pwr>
+<TM_PoisonFlask_eff>   Efficacité des ingrédients</TM_PoisonFlask_eff>
+<TM_PoisonFlask_ver>   Expansion du nuage</TM_PoisonFlask_ver>
+<TM_Elixir_pwr>   Puissance</TM_Elixir_pwr>
+<TM_Elixir_eff>   Efficacité des ingrédients</TM_Elixir_eff>
+<TM_Elixir_ver>   Chimie</TM_Elixir_ver>
+<TM_SoothingBalm_pwr>   Baume de soin</TM_SoothingBalm_pwr>
+<TM_SoothingBalm_eff>   Efficacité des ingrédients</TM_SoothingBalm_eff>
+<TM_SoothingBalm_ver>   Anesthésique</TM_SoothingBalm_ver>
+<TM_FireSuppressionFlask_eff>   Efficacité des ingrédients</TM_FireSuppressionFlask_eff>
+
+<TM_ApothecaryHerbsGizmoLabel>Herbes</TM_ApothecaryHerbsGizmoLabel>
+
+<TM_Taunt_pwr>   Compétiteur</TM_Taunt_pwr>
+<TM_Taunt_eff>   Livre d'insultes</TM_Taunt_eff>
+<TM_Taunt_ver>   Rugissement</TM_Taunt_ver>
+<TM_Taunt_pwr_desc>Augmente les chances de réussite de Provocation et le nombre maximum de cibles.
+Niveau 0 : 60%, 5 cibles max
+Niveau 1 : 65%, 6 cibles max
+Niveau 2 : 70%, 7 cibles max
+Niveau 3 : 75%, 8 cibles max</TM_Taunt_pwr_desc>
+<TM_Taunt_eff_desc>Réduit le coût en énergie de 10% par niveau de compétence.</TM_Taunt_eff_desc>
+<TM_Taunt_ver_desc>Augmente le rayon de Provocation de 2 cases ; la valeur par défaut est de 15 cases.</TM_Taunt_ver_desc>
+
+<TM_Explosion_pwr>   Destruction</TM_Explosion_pwr>
+<TM_Explosion_eff>   Chant</TM_Explosion_eff>
+<TM_Explosion_ver>   Raffinement oculaire</TM_Explosion_ver>
+<TM_Explosion_pwr_desc>Augmente les dégâts de Explosion de 2% par niveau de compétence.</TM_Explosion_pwr_desc>
+<TM_Explosion_eff_desc>Réduit le coût en énergie de Explosion de 1% par niveau de compétence.</TM_Explosion_eff_desc>
+<TM_Explosion_ver_desc>Réduit le temps d'activation de Explosion de 1% et augmente le rayon de Explosion de 1 case aux niveaux 10/20/30 ; par défaut, il est de 12 cases.</TM_Explosion_ver_desc>
+
+<TM_MedicalSupply_ver>   Capacité</TM_MedicalSupply_ver>
+<TM_MedicalSupply_ver_desc>Augmente la quantité maximum de fournitures médicales transportées de 10 par niveau de compétence.</TM_MedicalSupply_ver_desc>
+<TM_Medigel_eff>   Médecin de combat</TM_Medigel_eff>
+<TM_Medigel_eff_desc>Réduit le coût en énergie du Gel médical de 5% par niveau de compétence.</TM_Medigel_eff_desc>
+<TM_CombatDrugs_pwr>   Puissance</TM_CombatDrugs_pwr>
+<TM_CombatDrugs_pwr_desc>Augmente le nombre d'effets appliqués :
+Niveau 0 : 1 effet
+Niveau 1 : 2 effets
+Niveau 2 : 3 effets
+Niveau 3 : les 4 effets</TM_CombatDrugs_pwr_desc>
+<TM_CombatDrugs_ver>   Stabilisation</TM_CombatDrugs_ver>
+<TM_CombatDrugs_ver_desc>Dure 120s plus 20s par niveau de compétence.</TM_CombatDrugs_ver_desc>
+
+<!-- UI -->
+<TM_TabMagic>Magie</TM_TabMagic>
+<TM_TabMight>Pouvoir</TM_TabMight>
+<TM_TabCustom>Classe</TM_TabCustom>
+<TM_Header>magie</TM_Header>
+<TM_HeaderMight>pouvoir</TM_HeaderMight>
+<TM_Level>niveau</TM_Level>
+<TM_Spells>sorts magiques</TM_Spells>
+<TM_Skills>compétences</TM_Skills>
+<TM_PointsAvail>Point disponible</TM_PointsAvail>
+<TM_MagicXPDesc>L'XP magique est gagné lorsque les personnages utilisent des sorts. Le gain d'XP est équivalent à la difficulté du sort. Les personnages gagnent également de l'XP lentement s'ils sont au maximum de leur mana.</TM_MagicXPDesc>
+<TM_MightXPDesc>L'XP de combat est gagné lorsque les personnages utilisent des compétences de combat. Le gain d'XP est équivalent à la difficulté de la compétence. Les personnages gagnent également de l'XP lentement s'ils sont complètement reposés.</TM_MightXPDesc>
+
+<TM_CheckPointsForMoreInfo>Survoler avec la souris les attributs des compétences pour plus d'informations sur les améliorations.</TM_CheckPointsForMoreInfo>
+<TM_MagicLevelUp>{0} a acquis une meilleure compréhension de la magie et peut développer une nouvelle compétence magique.</TM_MagicLevelUp>
+<TM_MightLevelUp>{0} est devenu plus fort et est prêt à développer une compétence de combat.</TM_MightLevelUp>
+<TM_NotEnoughAbilityPoints>Requiert {1} points de capacité. Le colon a {0}.</TM_NotEnoughAbilityPoints>
+
+<TM_Power>   Puissance Tempête de foudre</TM_Power>
+<TM_Efficiency>   Efficacité Tempête de foudre</TM_Efficiency>
+<TM_Versatility>   Polyvalence Tempête de foudre</TM_Versatility>
+
+<TM_TechnomancerPathWarning>   **Une seule voie de technomancie peut être choisie ; toutes les autres voies seront inaccessibles.**</TM_TechnomancerPathWarning>
+<TM_SuperSoldierPathWarning>   **Une seule spécialisation d'arme peut être choisie ; toutes les autres voies seront inaccessibles.**</TM_SuperSoldierPathWarning>
+<TM_SpellLocked>Verrouillé : utiliser un parchemin pour apprendre &lt;b&gt;{0}&lt;/b&gt;.</TM_SpellLocked>
+<TM_MasterSpellLocked>Verrouillé : utiliser un parchemin de maître pour apprendre &lt;b&gt;{0}&lt;/b&gt;.</TM_MasterSpellLocked>
+
+<!-- ========== Button Tooltips ========== -->
+<Poppi_fuelGrowth>Extraction chimique</Poppi_fuelGrowth>
+<TM_ArmorHarmony>Vertu</TM_ArmorHarmony>
+
+<!-- ========== Button Tooltips ========== -->
+
+<TM_AbilityDescBaseManaCost>Coût en Mana : {0} </TM_AbilityDescBaseManaCost>
+<TM_AbilityDescAdjustedManaCost>Coût ajusté : {0} </TM_AbilityDescAdjustedManaCost>
+<TM_AbilityDescBaseStaminaCost>Coût en Endurance : {0} </TM_AbilityDescBaseStaminaCost>
+<TM_AbilityDescAdjustedStaminaCost>Coût ajusté : {0} </TM_AbilityDescAdjustedStaminaCost>
+<TM_AbilityDescBaseBloodCost>Coût en Sang : {0} </TM_AbilityDescBaseBloodCost>
+<TM_AbilityDescAdjustedBloodCost>Coût ajusté : {0} </TM_AbilityDescAdjustedBloodCost>
+<TM_AbilityDescBaseResourceCost>Coût en {0} : {1}</TM_AbilityDescBaseResourceCost>
+<TM_AbilityDescAdjustedResourceCost>Coût ajusté en {0} : {1} </TM_AbilityDescAdjustedResourceCost>
+<TM_AbilityDescBaseChiCost>Coût en Chi : {0} </TM_AbilityDescBaseChiCost>
+<TM_AbilityDescAdjustedChiCost>Coût ajusté : {0} </TM_AbilityDescAdjustedChiCost>
+<TM_AbilityDescPortalTime>Effondrement du portail dans {0} secondes</TM_AbilityDescPortalTime>
+<TM_AbilityDescSummonDuration>Durée de l'invocation : {0} secondes</TM_AbilityDescSummonDuration>
+<TM_AdjustedCooldown>Temps de recharge ajusté : {0} secondes</TM_AdjustedCooldown>
+<TM_PsionicInitialCost>Coût en Énergie psionique : {0}</TM_PsionicInitialCost>
+<TM_PsionicBlastAddCost>Coût ajusté : {0}</TM_PsionicBlastAddCost>
+<TM_RequiresHateAmount>Haine requise : {0}</TM_RequiresHateAmount>
+<TM_PsionicBarrierMaintenanceCost></TM_PsionicBarrierMaintenanceCost>
+<TM_PsionicBarrierConversionRate></TM_PsionicBarrierConversionRate>
+<TM_Replicate>Scanner pour réplication</TM_Replicate>
+<TM_ReplicateDesc>La Forge magique est capable de scanner un objet unique et d'en reproduire le design. En cas de succès, la forge stocke les plans de conception de l'objet scanné et l'objet peut alors être fabriqué à la forge.\n\nLes objets reproduits nécessitent les mêmes matériaux que l'objet standard, mais les exigences en matière de recherche ou de compétences d'artisanat sont ignorées. Tous les objets répliqués nécessitent une intelligence élevée pour être reproduits et la forge ne peut être utilisée que par un mage.\n\n*Note de l'administrateur : la forge peut effectuer des scans sans frais, mais le design actif est remplacé par la recette par défaut si le jeu est rechargé.\n\nLa réplication n'a pas de limite d'utilisation, mais elle est plus avantageuse lorsqu'elle est utilisée pour créer des objets dont vous n'avez pas la recherche pour les créer, pour modifier les exigences d'artisanat, pour profiter de la vitesse d'artisanat considérablement accrue de la forge magique ou pour bénéficier du bonus de qualité lorsqu'elle est utilisée par un mage de haut niveau.</TM_ReplicateDesc>
+<TM_ReplicateDisabled>Réplication désactivée</TM_ReplicateDisabled>
+<TM_ReplicateDisabledDesc>Effacer les taches liées à la réplication et autoriser une nouvelle réplication.</TM_ReplicateDisabledDesc>
+<TM_PromoteWanderer>Promouvoir le vagabond</TM_PromoteWanderer>
+<TM_PromoteWandererDesc>Promouvoir le colon Doué à la classe Vagabond. Le vagabond n'a pas de capacités de classe mais peut apprendre toutes les capacités autonomes sans classe (Sortilèges) à l'aide de parchemins, et peut améliorer les sortilèges au-delà de leur potentiel normal.
+
+*Pour devenir une classe de mage, le colon doit lire une écriture magique ou un tome magique déchiré.*
+
+**Une fois promu, le colon ne peut pas devenir une autre classe de mage, la décision est permanente et ne peut pas être annulée - cela inclut la classe des vagabonds.**</TM_PromoteWandererDesc>
+<TM_PromoteWayfarer>Promouvoir le Voyageur</TM_PromoteWayfarer>
+<TM_PromoteWayfarerDesc>Promouvoir le colon Doué à la classe Voyageur. Le Voyageur n'a pas de capacités de classe mais peut apprendre toutes les capacités autonomes sans classe à l'aide de parchemins, et peut améliorer les capacités de combat au-delà de leur potentiel normal.
+
+*Pour devenir une classe de combat, le colon doit lire un livre enseignant une forme de combat.*
+
+**Une fois promu, le colon ne peut pas devenir une autre classe de combattant, la décision est permanente et ne peut pas être inversée - cela inclut la classe des Voyageurs.**</TM_PromoteWayfarerDesc>
+
+<TM_ActivateGolem>Activer</TM_ActivateGolem>
+<TM_ActivateGolemDesc>Lance le processus d'activation du golem - après l'activation, le golem se déplacera comme un colon normal. Toute amélioration ou réparation effectuée pendant l'état de dormance sera annulée. Nécessite un minimum de {0} d'énergie pour être activé.</TM_ActivateGolemDesc>
+<TM_DeActivateGolem>Désactiver</TM_DeActivateGolem>
+<TM_DeActivateGolemDesc>Ordonne au golem de devenir dormant. Le golem tente de retourner à l'endroit où il a été mis en sommeil. Si cet emplacement est inaccessible, le golem se désactivera à son emplacement actuel. Si l'emplacement est disponible, le fait d'émettre cette commande une seconde fois annulera la commande de retour et désactivera immédiatement le golem à sa position actuelle.</TM_DeActivateGolemDesc>
+<TM_ActivateGolemDisabled>Désactivé - énergie insuffisante</TM_ActivateGolemDisabled>
+<TM_AssignGolemRestPosition>Position de sommeil</TM_AssignGolemRestPosition>
+<TM_AssignGolemRestPositionDesc>Attribue l'emplacement où le golem doit se désactiver.</TM_AssignGolemRestPositionDesc>
+<TM_DormantPositionUnreachable>La position sélectionnée est inaccessible ou occupée - annulation</TM_DormantPositionUnreachable>
+<TM_GolemStationaryDefenseToggle>protocole de défense</TM_GolemStationaryDefenseToggle>
+<TM_GolemStationaryDefenseToggleDesc>Bascule les défenses stationnaires. Le golem reste dans un état de sommeil lorsqu'il utilise des défenses stationnaires.</TM_GolemStationaryDefenseToggleDesc>
+<TM_GolemActiveDefenseToggle>protocole d'engagement</TM_GolemActiveDefenseToggle>
+<TM_GolemActiveDefenseToggleDesc>Active les défenses. Le golem s'activera si un ennemi entre dans sa portée de menace. La portée de menace d'un golem peut être ajustée en sélectionnant le golem en sommeil et en ouvrant l'onglet golem.</TM_GolemActiveDefenseToggleDesc>
+
+<TM_UpgradesVerbatum>Améliorations</TM_UpgradesVerbatum>
+<TM_GolemThreatRange>Portée de la menace : </TM_GolemThreatRange>
+<TM_GolemThreatRangeDesc>Détermine la distance à laquelle le golem détectera et s'activera pour engager une cible hostile ; cette valeur détermine également la distance à laquelle un golem actif engagera une menace. En mettant cette valeur à 0, on empêche un golem en sommeil de s'activer à partir d'une menace proche.</TM_GolemThreatRangeDesc>
+<TM_GolemAbilityMinimum>Seuil d'aptitude : </TM_GolemAbilityMinimum>
+<TM_GolemAbilityMinimumDesc>Détermine le pourcentage d'énergie minimum requis pour utiliser les capacités qui coûtent de l'énergie ; le golem n'utilisera pas les capacités qui demandent de l'énergie si le pourcentage d'énergie est inférieur à cette valeur. Si vous fixez cette valeur à 100%, l'utilisation des capacités sera désactivée.</TM_GolemAbilityMinimumDesc>
+<TM_GolemRestMinimum>Seuil de repos : </TM_GolemRestMinimum>
+<TM_GolemRestMinimumDesc>Le pourcentage d'énergie que le golem utilisera pour retourner à sa position de sommeil afin de se désactiver et de recharger son énergie ; le golem se désactivera à 0%.</TM_GolemRestMinimumDesc>
+<TM_GolemAwakenMinimum>Seuil d'activation : </TM_GolemAwakenMinimum>
+<TM_GolemAwakenMinimumDesc>Pourcentage d'énergie à partir duquel le golem s'activera pour effectuer des tâches. Réglez-le sur 0 % pour désactiver l'activation automatique.</TM_GolemAwakenMinimumDesc>
+<TM_GolemMasterDesc>Assigne un golemancien comme maître de ce golem ; l'assignation d'un maître permet au golem un comportement amélioré pour protéger le golemancien assigné.</TM_GolemMasterDesc>
+<TM_GolemFollowsMaster>Suivre le maître</TM_GolemFollowsMaster>
+<TM_GolemFollowsMasterDesc>Lorsqu'il est activé, le golem donne la priorité au suivi et à la protection de son maître avant toute autre tâche liée au travail.</TM_GolemFollowsMasterDesc>
+<TM_GolemDraftedFollow>Mobiliser uniquement</TM_GolemDraftedFollow>
+<TM_GolemDraftedFollowDesc>Donne la priorité à la protection du maître qui lui a été assigné avant toute autre action lorsque celui-ci est mobilisé ; le maître peut diriger le golem au combat comme le ferait un animal libéré.</TM_GolemDraftedFollowDesc>
+<TM_GolemDormantWhenUpgrading>Rester en sommeil lors de l'amélioration</TM_GolemDormantWhenUpgrading>
+<TM_GolemDormantWhenUpgradingDesc>Lorsqu'il est activé, le golem reste en sommeil si des tâches sont en attente. Le golem reste toujours en sommeil lorsqu'une tâche est en cours (amélioration inachevée).</TM_GolemDormantWhenUpgradingDesc>
+<TM_GolemUseAbilitiesWhileDormant>Utiliser les capacités en sommeil</TM_GolemUseAbilitiesWhileDormant>
+<TM_GolemDoScreenShake>Secousse d'écran Golem</TM_GolemDoScreenShake>
+<TM_GolemDoScreenShakeDesc>Si désactivé, les golems ne font pas trembler l'écran lorsqu'ils s'activent ou se désactivent.</TM_GolemDoScreenShakeDesc>
+<TM_EndSymbiosis>Terminer la symbiose</TM_EndSymbiosis>
+<TM_EndSymbiosisDesc>L'empathe détache sa volonté de l'hôte et retourne dans son corps. Cette option n'est disponible que si l'hôte se trouve à proximité du symbiote.</TM_EndSymbiosisDesc>
+<TM_GolemUseAbilitiesWhileDormantDesc>Lorsqu'il est désactivé, un golem en sommeil n'utilisera jamais ses capacités.</TM_GolemUseAbilitiesWhileDormantDesc>
+<TM_GolemRestrictedAggression>Agressivité restreinte</TM_GolemRestrictedAggression>
+<TM_GolemRestrictedAggressionDesc>Si activé, le golem ne s'activera pas et ne poursuivra pas ses cibles à travers les portes ou au-delà de sa zone autorisée.</TM_GolemRestrictedAggressionDesc>
+<TM_GolemName>Nom du Golem</TM_GolemName>
+<TM_GolemNameDesc>Changer le nom du golem</TM_GolemNameDesc>
+<TM_GolemMasterLabel>Golemancien</TM_GolemMasterLabel>
+<TM_ActivatesGolem_Time>Activer le golem - cela prend généralement un peu de temps. Le golem ne pourra pas être activé s'il est en cours d'amélioration.</TM_ActivatesGolem_Time>
+<TM_DeActivatesGolem_Time>Désactiver le golem - cela renverra le golem à sa position de sommeil et peut prendre un certain temps.</TM_DeActivatesGolem_Time>
+<TM_GolemAssignAreaDesc>Autoriser la zone</TM_GolemAssignAreaDesc>
+<TM_RemovePossession>Quitter le corps</TM_RemovePossession>
+<TM_RemovePossessionDesc>L'esprit quitte le corps de son plein gré et les caractéristiques du colon reviennent à leur état antérieur à la possession.</TM_RemovePossessionDesc>
+<TM_GolemAssignArea>Restreint le golem à cette zone.</TM_GolemAssignArea>
+<!-- ========== Building Menu's ========== -->
+
+<TM_SelectPortalDestination>Activer le portail</TM_SelectPortalDestination>
+<TM_UsePortal>Utiliser le portail</TM_UsePortal>
+<TM_DeactivatePortal>Désactiver le portail</TM_DeactivatePortal>
+<TM_ChargePortal>Portail chargé : {0}&#37;</TM_ChargePortal>
+<TM_CommandMakePortalStockpileDesc>Crée une zone de stockage autour du portail. Lorsqu'il transporte des objets, le portail déplace tous les objets contenus dans cette réserve.</TM_CommandMakePortalStockpileDesc>
+<TM_CommandMakePortalStockpileLabel>Stockage du portail</TM_CommandMakePortalStockpileLabel>
+<TM_PortalStockpile>Transport des objets</TM_PortalStockpile>
+<TM_PortalFailed>{0} a échoué lors de la tentative d'utilisation du portail - si cela persiste, essayez de désactiver le portail et de réinitialiser l'emplacement ciblé.</TM_PortalFailed>
+<TM_PortalDestinationInvalid>Case de destination non valide - la destination doit être une case connue, visible et occupée par un joueur.</TM_PortalDestinationInvalid>
+<TM_NoValidPortalDestination>Aucune destination valide du portail n'a été sélectionnée, sortie sans assignation.</TM_NoValidPortalDestination>
+<TM_PortalNoGatewayLearned>{0} n'a pas maîtrisé le sort de la Porte</TM_PortalNoGatewayLearned>
+<TM_NeedManaToActivatePortal>Activer : {0} pour 0,70 mana</TM_NeedManaToActivatePortal>
+<TM_ChargeManaStorage>Charger : {0}&#37;</TM_ChargeManaStorage>
+
+<!-- ============ Enchanting Menu's =============-->
+<TabEnchantment>Enchanté</TabEnchantment>
+<TM_DropGem>Lâcher {0}</TM_DropGem>
+<TM_PickupGem>Equipé {0} pour l'enchantement</TM_PickupGem>
+<TM_CannotReach>Impossible à atteindre</TM_CannotReach>
+<TM_EnchantItem>Enchantement {0}</TM_EnchantItem>
+<TM_CannotDrop>Impossible de lâcher {0}</TM_CannotDrop>
+<TM_NeedManaForEnchant>Enchantement : {0} pour 0,50 mana</TM_NeedManaForEnchant>
+
+<!-- ============ Golem Menu's ===================-->
+<TabGolem>Golem</TabGolem>
+<TM_GolemAbilities>Capacités du {0}</TM_GolemAbilities>
+<TM_GolemAbilitiesButton>Capacités</TM_GolemAbilitiesButton>
+<TM_GolemAbilityEnabledDesc>Active l'utilisation de {0} : {1}</TM_GolemAbilityEnabledDesc>
+<TM_GolemWorkTypeEnabledDesc>Active l'utilisation de {0}</TM_GolemWorkTypeEnabledDesc>
+<TM_GolemShowDormant>Position de sommeil</TM_GolemShowDormant>
+<TM_GolemShowDormantDesc>Afficher la position de sommeil de ce golem. Utiliser le menu des options du mod pour activer cette option pour tous les golems.</TM_GolemShowDormantDesc>
+
+
+<!-- ============ Enchantment Labels =============-->
+<TM_MaxMPLabel>Augmente l’énergie maximum : {0}&#37;</TM_MaxMPLabel>
+<TM_MPRegenRateLabel>Augmente la régén d'énergie : {0}&#37;</TM_MPRegenRateLabel>
+<TM_CoolDownLabel>Réduit le temps de recharge : {0}&#37;</TM_CoolDownLabel>
+<TM_MPCostLabel>Réduit le coût de capacité : {0}&#37;</TM_MPCostLabel>
+<TM_XPGainLabel>Augmente le gain d'XP : {0}&#37;</TM_XPGainLabel>
+<TM_ArcaneResLabel>Résistance magique : {0}&#37;</TM_ArcaneResLabel>
+<TM_ArcaneDmgLabel>Bonus de capacité : {0}&#37;</TM_ArcaneDmgLabel>
+<TM_ArcaneSpectre>Spectre magique</TM_ArcaneSpectre>
+<TM_PhantomShift>Transfert fantôme</TM_PhantomShift>
+<TM_ArcalleumCooldown>Arcalleum Temps de recharge : {0}&#37;</TM_ArcalleumCooldown>
+<TM_EA_Hediff>{0}: {1} {2}&#37; quand touché</TM_EA_Hediff>
+<TM_EA_Damage>{0}: {1}-{2} {3} dégâts {4}&#37; quand touché</TM_EA_Damage>
+
+<!-- ============ Floating Text =============-->
+<TM_Enchanted>Enchanté !</TM_Enchanted>
+
+<!-- ============ Magic Card info =============-->
+<TM_MCU_BaseMana>Gain de mana de base : {0}</TM_MCU_BaseMana>
+<TM_MCU_BaseRegen>Bonus de régén. de mana : {0}</TM_MCU_BaseRegen>
+<TM_MCU_ManaSurge>Éruption de mana : +{0}</TM_MCU_ManaSurge>
+<TM_MCU_Syrrium>Boost du syrrium : +{0}</TM_MCU_Syrrium>
+<TM_MCU_EnergyDrainBonus>Gain de mana modifié : {0}</TM_MCU_EnergyDrainBonus>
+<TM_MCU_RegenBonus>Bonus de régén. d'énergie : +{0}</TM_MCU_RegenBonus>
+<TM_MCU_ManaWeakness>Faiblesse de mana : -{0}</TM_MCU_ManaWeakness>
+<TM_MCU_Minion>Coût des serviteurs : -{0}</TM_MCU_Minion>
+<TM_MCU_Sprite>Coût des lutins : -{0}</TM_MCU_Sprite>
+<TM_MCU_Undead>Coût des morts-vivants : -{0}</TM_MCU_Undead>
+<TM_MCU_ManaDrain>Drain de mana : -{0}</TM_MCU_ManaDrain>
+<TM_MCU_ManaSickness>Maladie du mana : -{0}</TM_MCU_ManaSickness>
+<TM_MCU_Paracyte>Drain paracytique : -{0}</TM_MCU_Paracyte>
+<TM_MCU_ManaNet>Mana total à maintenir : {0}</TM_MCU_ManaNet>
+
+<TM_MCU_CurrentLevel>Niveau actuel :</TM_MCU_CurrentLevel>
+<TM_MCU_NextLevel>Niveau suivant :</TM_MCU_NextLevel>
+
+<TM_MCU_PointsToLearn>{0} points to </TM_MCU_PointsToLearn><!-- TODO -->
+
+
+</LanguageData>

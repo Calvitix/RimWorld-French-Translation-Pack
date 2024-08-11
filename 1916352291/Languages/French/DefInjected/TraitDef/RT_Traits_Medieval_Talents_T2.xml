@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+<!-- FR: <color=#2C82FF>Talent : Armurier</color> -->
+<RT_TalentArmourer.degreeDatas.color2C82FFTalent_Armourercolor.label><color=#2C82FF>Talent : Armurier</color></RT_TalentArmourer.degreeDatas.color2C82FFTalent_Armourercolor.label>
+<!-- FR: [PAWN_nameDef] considère qu'il est de son devoir sacré de produire les armes et vêtements de la plus haute qualité possible pour contribuer à la défense de sa patrie. -->
+<RT_TalentArmourer.degreeDatas.color2C82FFTalent_Armourercolor.description>[PAWN_nameDef] considère qu'il est de son devoir sacré de produire les armes et vêtements de la plus haute qualité possible pour contribuer à la défense de sa patrie.</RT_TalentArmourer.degreeDatas.color2C82FFTalent_Armourercolor.description>
+
+<!-- FR: <color=#2C82FF>Talent : Cuisinier</color> -->
+<RT_TalentCook.degreeDatas.color2C82FFTalent_Cookcolor.label><color=#2C82FF>Talent : Cuisinier</color></RT_TalentCook.degreeDatas.color2C82FFTalent_Cookcolor.label>
+<!-- FR: [PAWN_nameDef] adore préparer de la nourriture. Mmmmm... -->
+<RT_TalentCook.degreeDatas.color2C82FFTalent_Cookcolor.description>[PAWN_nameDef] adore préparer de la nourriture. Mmmmm...</RT_TalentCook.degreeDatas.color2C82FFTalent_Cookcolor.description>
+
+<!-- FR: <color=#2C82FF>Talent : Ingénieur</color> -->
+<RT_TalentEngineer.degreeDatas.color2C82FFTalent_Engineercolor.label><color=#2C82FF>Talent : Ingénieur</color></RT_TalentEngineer.degreeDatas.color2C82FFTalent_Engineercolor.label>
+<!-- FR: [PAWN_nameDef] est un expert en construction. Très peu de travaux de construction sont un défi pour lui. -->
+<RT_TalentEngineer.degreeDatas.color2C82FFTalent_Engineercolor.description>[PAWN_nameDef] est un expert en construction. Très peu de travaux de construction sont un défi pour lui.</RT_TalentEngineer.degreeDatas.color2C82FFTalent_Engineercolor.description>
+
+<!-- FR: <color=#2C82FF>Talent : Fabricant de flèches</color> -->
+<RT_TalentFletcher.degreeDatas.color2C82FFTalent_Fletchercolor.label><color=#2C82FF>Talent : Fabricant de flèches</color></RT_TalentFletcher.degreeDatas.color2C82FFTalent_Fletchercolor.label>
+<!-- FR: [PAWN_nameDef] est habile au tir à l'arc, mais contrairement à beaucoup d'autres, il est également relativement compétent en artisanat. -->
+<RT_TalentFletcher.degreeDatas.color2C82FFTalent_Fletchercolor.description>[PAWN_nameDef] est habile au tir à l'arc, mais contrairement à beaucoup d'autres, il est également relativement compétent en artisanat.</RT_TalentFletcher.degreeDatas.color2C82FFTalent_Fletchercolor.description>
+
+<!-- FR: <color=#2C82FF>Talent : Herboriste</color> -->
+<RT_TalentHerbalist.degreeDatas.color2C82FFTalent_Herbalistcolor.label><color=#2C82FF>Talent : Herboriste</color></RT_TalentHerbalist.degreeDatas.color2C82FFTalent_Herbalistcolor.label>
+<!-- FR: [PAWN_nameDef] a une vaste connaissance botanique et des compétences médicales décentes. -->
+<RT_TalentHerbalist.degreeDatas.color2C82FFTalent_Herbalistcolor.description>[PAWN_nameDef] a une vaste connaissance botanique et des compétences médicales décentes.</RT_TalentHerbalist.degreeDatas.color2C82FFTalent_Herbalistcolor.description>
+
+<!-- FR: <color=#2C82FF>Talent : Chasseur</color> -->
+<RT_TalentHunter.degreeDatas.color2C82FFTalent_Huntercolor.label><color=#2C82FF>Talent : Chasseur</color></RT_TalentHunter.degreeDatas.color2C82FFTalent_Huntercolor.label>
+<!-- FR: [PAWN_nameDef] est habile à interagir avec et à chasser les animaux. Bien qu'il ne soit pas formé pour le combat, il pourrait bien se défendre si nécessaire. -->
+<RT_TalentHunter.degreeDatas.color2C82FFTalent_Huntercolor.description>[PAWN_nameDef] est habile à interagir avec et à chasser les animaux. Bien qu'il ne soit pas formé pour le combat, il pourrait bien se défendre si nécessaire.</RT_TalentHunter.degreeDatas.color2C82FFTalent_Huntercolor.description>
+
+<!-- FR: <color=#2C82FF>Talent : Vétérinaire</color> -->
+<RT_TalentVeterinarian.degreeDatas.color2C82FFTalent_Veterinariancolor.label><color=#2C82FF>Talent : Vétérinaire</color></RT_TalentVeterinarian.degreeDatas.color2C82FFTalent_Veterinariancolor.label>
+<!-- FR: [PAWN_nameDef] adore travailler avec et soigner les animaux, il ne pourrait jamais laisser un animal blessé mourir. -->
+<RT_TalentVeterinarian.degreeDatas.color2C82FFTalent_Veterinariancolor.description>[PAWN_nameDef] adore travailler avec et soigner les animaux, il ne pourrait jamais laisser un animal blessé mourir.</RT_TalentVeterinarian.degreeDatas.color2C82FFTalent_Veterinariancolor.description>
+
+<!-- FR: <color=#2C82FF>Talent : Maître d'armes</color> -->
+<RT_TalentWeaponsMaster.degreeDatas.color2C82FFTalent_Weapons_Mastercolor.label><color=#2C82FF>Talent : Maître d'armes</color></RT_TalentWeaponsMaster.degreeDatas.color2C82FFTalent_Weapons_Mastercolor.label>
+<!-- FR: [PAWN_nameDef] excelle à manier toutes les armes. Il pourrait même tuer en utilisant son petit doigt. -->
+<RT_TalentWeaponsMaster.degreeDatas.color2C82FFTalent_Weapons_Mastercolor.description>[PAWN_nameDef] excelle à manier toutes les armes. Il pourrait même tuer en utilisant son petit doigt.</RT_TalentWeaponsMaster.degreeDatas.color2C82FFTalent_Weapons_Mastercolor.description>  
+</LanguageData>

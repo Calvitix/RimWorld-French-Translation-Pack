@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+<!-- EN: blood candles -->
+<DA_BloodCandles.label>bougies de sang</DA_BloodCandles.label>
+<!-- EN: Specifically treated candles producing a dim red light over a small area. The sanguine glow is particularly pleasing to individuals with the bloodfeeder gene. Often used to illuminate sacred places such as musoleums and crypts. -->
+<DA_BloodCandles.description>Des bougies spécialement traitées produisant une faible lumière rouge sur une petite zone. La lueur sanguine est particulièrement agréable pour les individus porteurs du gène de la succion de sang. Souvent utilisées pour éclairer des lieux sacrés tels que les musées et les cryptes.</DA_BloodCandles.description>
+
+<!-- EN: bloodflame sepulchral brazier -->
+<DA_BloodflameSepulchralBrazier.label>brazier sépulcral à flamme de sang</DA_BloodflameSepulchralBrazier.label>
+<!-- EN: A specifically treated sepulchral brazier used to illuminate sacred grounds with a red flame.The sanguine glow is particularly pleasing to individuals with the bloodfeeder gene. Will light the surroundings and create heat. -->
+<DA_BloodflameSepulchralBrazier.description>Un brazier sépulcral spécialement traité utilisé pour éclairer les terres sacrées avec une flamme rouge. La lueur sanguine est particulièrement agréable pour les individus porteurs du gène de la succion de sang. Éclairera les environs et créera de la chaleur.</DA_BloodflameSepulchralBrazier.description>
+
+<!-- EN: blood grand candelabra -->
+<DA_BloodGrandCandelabra.label>grand candélabre de sang</DA_BloodGrandCandelabra.label>
+<!-- EN: A tall candelabra holding severeal candles producing a dim red light.The sanguine glow is particularly pleasing to individuals with the bloodfeeder gene. Often used to illuminate sacred places such as musoleums and crypts. -->
+<DA_BloodGrandCandelabra.description>Un grand candélabre tenant plusieurs bougies produisant une faible lumière rouge. La lueur sanguine est particulièrement agréable pour les individus porteurs du gène de la succion de sang. Souvent utilisé pour éclairer des lieux sacrés tels que les musées et les cryptes.</DA_BloodGrandCandelabra.description>
+
+<!-- EN: candles -->
+<DA_Candles.label>bougies</DA_Candles.label>
+<!-- EN: Candles producing a dim light over a small area. Often used to illuminate sacred places such as musoleums and crypts. -->
+<DA_Candles.description>Des bougies produisant une faible lumière sur une petite zone. Souvent utilisées pour éclairer des lieux sacrés tels que les musées et les cryptes.</DA_Candles.description>
+
+<!-- EN: grand candelabra -->
+<DA_GrandCandelabra.label>grand candélabre</DA_GrandCandelabra.label>
+<!-- EN: A tall candelabra holding severeal candles producing a dim light. Often used to illuminate sacred places such as musoleums and crypts. -->
+<DA_GrandCandelabra.description>Un grand candélabre tenant plusieurs bougies produisant une faible lumière. Souvent utilisé pour éclairer des lieux sacrés tels que les musées et les cryptes.</DA_GrandCandelabra.description>
+
+<!-- EN: sepulchral brazier -->
+<DA_SepulchralBrazier.label>brasier sépulcral</DA_SepulchralBrazier.label>
+<!-- EN: A sepulchral brazier used to illuminate sacred grounds. Will light the surroundings and create heat. -->
+<DA_SepulchralBrazier.description>Un brasier sépulcral utilisé pour éclairer les terres sacrées. Éclairera les environs et créera de la chaleur.</DA_SepulchralBrazier.description>
+
+  
+</LanguageData>

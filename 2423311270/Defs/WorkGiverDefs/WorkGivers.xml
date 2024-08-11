@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <WorkGiverDef>
+		<defName>WorkGiver_DestroyItem</defName>
+		<label>Détruire l'objet</label>
+		<verb>détruire</verb>
+		<gerund>détruit</gerund>
+		<giverClass>DestroyItem.WorkGiver_DestroyItem</giverClass>
+		<scanThings>true</scanThings>
+		<scanCells>false</scanCells>
+		<workType>Hauling</workType>
+		<priorityInType>50</priorityInType>
+		<requiredCapacities>
+			<li>Manipulation</li>
+		</requiredCapacities>
+    </WorkGiverDef>
+</Defs>

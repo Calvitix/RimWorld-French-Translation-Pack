@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: clay flagstone -->
+  <DV_FlagstoneClay.label>dalle d’argile</DV_FlagstoneClay.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <DV_FlagstoneClay.description>Des dalles de pierre grossièrement coupées. Elles ne sont pas belles, mais elles constituent de bonnes surfaces pour les routes et les chemins extérieurs. La déconstruction des dalles ne produit aucune ressource.</DV_FlagstoneClay.description>
+  
+  <!-- EN: clay tile -->
+  <DV_TileClay.label>tuile d’argile</DV_TileClay.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <DV_TileClay.description>Des tuiles de pierre soigneusement coupées et ajustées pour une sensation de château. Elles sont jolies à regarder, mais elles prennent beaucoup de temps à poser.</DV_TileClay.description>
+  
+</LanguageData>

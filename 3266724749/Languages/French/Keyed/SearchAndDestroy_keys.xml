@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<SD_Reason_Downed>Impossible d'activer 'recherche et destruction' d'un colon à terre.</SD_Reason_Downed>
+	<SD_Gizmo_Melee_Label>Rech. et Dest. au Corps à corps</SD_Gizmo_Melee_Label>
+	<SD_Gizmo_Melee_Description>Activer 'recherche et destruction' en mêlée.</SD_Gizmo_Melee_Description>
+	<SD_Gizmo_Ranged_Label>Rech. et Dest. à distance</SD_Gizmo_Ranged_Label>
+	<SD_Gizmo_Ranged_Description>Activer 'recherche et destruction' au tir à distance.</SD_Gizmo_Ranged_Description>
+
+	<SD_EnableSearchAndDestroy_Title>Module Activer 'recherche et destruction'</SD_EnableSearchAndDestroy_Title>
+	<SD_EnableSearchAndDestroy_Description>S'il est désactivé, vos colons n'auront plus la fonction de recherche et de destruction.</SD_EnableSearchAndDestroy_Description>
+</LanguageData>

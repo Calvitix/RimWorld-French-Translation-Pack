@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+
+  <!-- EN: corbeille à déchets en pierre -->
+  <VBY_Clay_Pot_TwoWaste.label>corbeille à déchets en pierre</VBY_Clay_Pot_TwoWaste.label>
+  <!-- EN: Un pot en pierre pour l'élimination des déchets. Leur fabrication demande moins de travail que celle d'un pot de stockage et n'a pas de composante artistique. -->
+  <VBY_Clay_Pot_TwoWaste.description>Un pot en pierre pour l'élimination des déchets. Leur fabrication demande moins de travail que celle d'un pot de stockage et n'a pas de composante artistique.</VBY_Clay_Pot_TwoWaste.description>
+  
+  <!-- EN: corbeille à déchets tressée -->
+  <VBY_Woven_BasketWaste.label>corbeille à déchets tressée</VBY_Woven_BasketWaste.label>
+  <!-- EN: Une corbeille tressée pour l'élimination des déchets. Leur fabrication demande moins de travail que celle d'une corbeille de rangement et n'a pas de composante artistique. -->
+  <VBY_Woven_BasketWaste.description>Une corbeille tressée pour l'élimination des déchets. Leur fabrication demande moins de travail que celle d'une corbeille de rangement et n'a pas de composante artistique.</VBY_Woven_BasketWaste.description>
+
+  
+</LanguageData>

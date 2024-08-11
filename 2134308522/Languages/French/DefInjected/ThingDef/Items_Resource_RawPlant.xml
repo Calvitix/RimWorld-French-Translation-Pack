@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chioggia beets -->
+  <VCE_RawBeets.label>betterave</VCE_RawBeets.label>
+  <!-- EN: An herb-like vegetable widely cultivated for humans and livestock alike. Though these look like ordinary beets from the outside, on the inside they have distinct red-and-white-striped flesh. These are highest on the sweetness scale. -->
+  <VCE_RawBeets.description>Un légume ressemblant à une herbe, largement cultivé pour les humains et le bétail, particulièrement nutritif et historiquement utilisé dans la fabrication de teintures.</VCE_RawBeets.description>
+  
+  <!-- EN: cauliflowers -->
+  <VCE_RawCabbage.label>choux</VCE_RawCabbage.label>
+  <!-- EN: A large round vegetable that has a hard white centre surrounded by green leaves, naturally high in fiber and B-vitamins. -->
+  <VCE_RawCabbage.description>Légume vert à feuilles, plutôt rustique, souvent haché et ensuite fermenté ou en ragoût.</VCE_RawCabbage.description>
+  
+  <!-- EN: eggplants -->
+  <VCE_RawEggplant.label>aubergine</VCE_RawEggplant.label>
+  <!-- EN: A bulbous purple fruit of the nightshade family. Eggplant is rarely served as a side, generally filling the role of the main component of the dish. -->
+  <VCE_RawEggplant.description>Un fruit violet bulbeux de la famille des morelles. L'aubergine est rarement servie en accompagnement, remplissant généralement le rôle de composant principal du plat.</VCE_RawEggplant.description>
+  
+  <!-- EN: white onions -->
+  <VCE_RawOnion.label>oignon</VCE_RawOnion.label>
+  <!-- EN: A strong and pungent variety of onions, perfect for flavourful salads or for general cooking applications when strong flavours are desired. -->
+  <VCE_RawOnion.description>Un bulbe comestible au goût et à l'odeur piquants et savoureux, avec presque autant de variétés que d'applications culinaires.</VCE_RawOnion.description>
+  
+  <!-- EN: peas -->
+  <VCE_RawPeas.label>petit pois</VCE_RawPeas.label>
+  <!-- EN: Spherical green seeds tucked safely away in a fleshy pod. Peas are notable for having potentially long shelf-lives when dried properly. -->
+  <VCE_RawPeas.description>Les graines vertes sphériques sont bien cachées dans une gousse charnue. Les petits pois ont la particularité d'avoir une durée de conservation potentiellement longue lorsqu'ils sont séchés correctement.</VCE_RawPeas.description>
+  
+  <!-- EN: peppers -->
+  <VCE_RawPepper.label>piment</VCE_RawPepper.label>
+  <!-- EN: Tiny, spicy, crimson pods often used in sauces, relishes, or powders. While the flavor itself is mild the capsaicin contained inside means humans find them oddly addicting, if painful when consumed in mass. Animals are known to avoid eating the plant entirely. -->
+  <VCE_RawPepper.description>De minuscules gousses cramoisies, épicées, souvent utilisées dans les sauces, les condiments ou les poudres. Si la saveur en elle-même est douce, la capsaïcine qu'elles contiennent fait que les humains les trouvent étrangement addictives, voire douloureuses lorsqu'elles sont consommées en quantité. Les animaux sont connus pour leur refus de manger cette plante.</VCE_RawPepper.description>
+  
+  <!-- EN: mammoth gold pumpkins -->
+  <VCE_RawPumpkin.label>citrouille</VCE_RawPumpkin.label>
+  <!-- EN: One of the biggest varieties of pumpkin, the mammoth gold can grow to between 25 and 50 Kg of weight. Technically a giant berry, pumpkins are renowned for being trivial to both sow and harvest. -->
+  <VCE_RawPumpkin.description>Techniquement une baie géante, les citrouilles sont réputées pour être banales à semer et à récolter.</VCE_RawPumpkin.description>
+  
+</LanguageData>

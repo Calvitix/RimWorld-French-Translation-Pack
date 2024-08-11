@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<TM_PlantCultivation.label>culture de plantes magiques</TM_PlantCultivation.label>
+<TM_PlantCultivation.description>Vous permet de comprendre comment cultiver des plantes aux propriétés intéressantes pour la magie et utiliser leurs ressources pour compléter ou alimenter les arts magiques.</TM_PlantCultivation.description>
+
+<TM_ArcaneConstruction.label>installations magiques</TM_ArcaneConstruction.label>
+<TM_ArcaneConstruction.description>Vous permet de fabriquer des installations et établis qui permettent la création d'objets et d'effets magiques uniques.</TM_ArcaneConstruction.description>
+
+<TM_ArcaneFundamentals.label>principes fondamentaux de la magie</TM_ArcaneFundamentals.label>
+<TM_ArcaneFundamentals.description>Vous permet de rechercher les bases sur la façon dont le pouvoir magique est lié au monde physique et aux mages.</TM_ArcaneFundamentals.description>
+
+<TM_MagicCircle.label>cercle magique</TM_MagicCircle.label>
+<TM_MagicCircle.description>Vous permet de comprendre la géométrie et la symétrie des lignes de Ley qui permet aux utilisateurs de magie de combiner leur énergie pour créer des effets incroyables.</TM_MagicCircle.description>
+
+<TM_Portals.label>portail</TM_Portals.label>
+<TM_Portals.description>Vous permet la construction d'un portail - un artefact puissant qui permet de voyager instantanément entre les colonies. Nécessite un mage des arcanes formé aux portails pour l'activer.</TM_Portals.description>
+
+<TM_ManaStorage.label>stockage du mana</TM_ManaStorage.label>
+<TM_ManaStorage.description>Vous permet de développer des moyens de stocker le mana.</TM_ManaStorage.description>
+
+<TM_ArcaneForging.label>forge magique</TM_ArcaneForging.label>
+<TM_ArcaneForging.description>Vous permet de développer les moyens d'utiliser le pouvoir magique pour fabriquer divers objets et équipements. L'achèvement de cette recherche révélera également comment fabriquer le tisse-mana, un matériau unique qui renforce le pouvoir magique.</TM_ArcaneForging.description>
+
+<TM_ForgeReplication.label>forge réplication</TM_ForgeReplication.label>
+<TM_ForgeReplication.description>Vous permet d’améliorer la forge magique avec une technique qui lui permet d'extraire le design de n'importe quel objet artisanal et de le dupliquer à la forge.</TM_ForgeReplication.description>
+
+<TM_ArcaneCrafting.label>artisanat magique</TM_ArcaneCrafting.label>
+<TM_ArcaneCrafting.description>Vous permet d’apprendre la première étape dans la compréhension du lien entre la magie et le physique. Permet de construire de puissantes gemmes et des équipements magiques.</TM_ArcaneCrafting.description>
+
+<TM_ArcaneApparel.label>équipement magique</TM_ArcaneApparel.label>
+<TM_ArcaneApparel.description>Vous permet d’appliquer les connaissances de l'artisanat magique et des enchantements pour apprendre à recréer des équipements aux propriétés magiques plus puissantes.</TM_ArcaneApparel.description>
+
+<TM_ArcaneArtifacts.label>artefacts magiques</TM_ArcaneArtifacts.label>
+<TM_ArcaneArtifacts.description>Vous permet de recréer des artefacts magiques grâce à des recherches approfondies combinant la connaissance des enchantements, des dessins anciens, des runes et des rituels.</TM_ArcaneArtifacts.description>
+
+<TM_MagicyteRefining.label>raffinage du magicite</TM_MagicyteRefining.label>
+<TM_MagicyteRefining.description>Vous permet d’identifier les moyens d'utiliser la magicite pour créer des objets magiques. Élabore des recettes pour créer des potions de mana au fourneau ou à la table d’orfèvrerie.</TM_MagicyteRefining.description>
+
+<TM_MagicScribing.label>scribe</TM_MagicScribing.label>
+<TM_MagicScribing.description>Vous permet de développer les connaissances nécessaires pour mélanger l'encre avec de la poudre de magicite et l'appliquer sur une presse spécialement conçue pour reproduire des parchemins et des livres pouvant contenir le pouvoir de la compréhension magique.</TM_MagicScribing.description>
+
+<TM_AdvancedScribing.label>scribe avancé</TM_AdvancedScribing.label>
+<TM_AdvancedScribing.description>Vous permet d'utiliser des matériaux de meilleure qualité pour élaborer des livres et des parchemins plus puissants.</TM_AdvancedScribing.description>
+
+<TM_MasterScribing.label>maître scribe</TM_MasterScribing.label>
+<TM_MasterScribing.description>Vous permet de rédiger des sorts de maître.</TM_MasterScribing.description>
+
+<TM_Enchanting.label>enchantement</TM_Enchanting.label>
+<TM_Enchanting.description>Vous permet la construction de la table d’orfèvrerie et de fabriquer des gemmes enchantées de niveau I.</TM_Enchanting.description>
+
+<TM_AdvancedEnchanting.label>enchantement avancé</TM_AdvancedEnchanting.label>
+<TM_AdvancedEnchanting.description>Vous permet de fabriquer des gemmes enchantées de niveau II.</TM_AdvancedEnchanting.description>
+
+<TM_ExpertEnchanting.label>enchantement expert</TM_ExpertEnchanting.label>
+<TM_ExpertEnchanting.description>Vous permet de fabriquer des gemmes enchantées de niveau III.</TM_ExpertEnchanting.description>
+
+<TM_GolemCraftRD.label>théorie du golem</TM_GolemCraftRD.label>
+<TM_GolemCraftRD.description>Vous permet la création de golem qui est une forme d'enchantement qui s'écarte des améliorations passives et étudie les théories de manipulation des enchantements magiques à des fins actives. Cette recherche développera des concepts sur la façon d'appliquer des améliorations actives pour créer des créatures magiques.</TM_GolemCraftRD.description>
+
+<TM_MechaGolemRD.label>mecha-golem</TM_MechaGolemRD.label>
+<TM_MechaGolemRD.description>Vous permet de combiner l'ingénierie électrique et mécanique avec la création de golem pour créer un golem mécanique. Un établi d'assemblage devrait être nécessaire pour fabriquer les composants du mecha-golem.</TM_MechaGolemRD.description>
+
+<TM_MechaGolemEquipmentRD.label>fixations mecha</TM_MechaGolemEquipmentRD.label>
+<TM_MechaGolemEquipmentRD.description>Vous permet la fabrication d'accessoires et d'armures pour améliorer le mecha-golem.</TM_MechaGolemEquipmentRD.description>
+
+<TM_FleshGolemRD.label>golem de chair</TM_FleshGolemRD.label>
+<TM_FleshGolemRD.description>Vous permet d’apprendre une approche biologique des golems qui étudie comment mouler la chair et les os d'organismes morts en une construction animée et bipède. Une simple table de boucher devrait suffire pour la fabrication d'un golem de chair.</TM_FleshGolemRD.description>
+
+<TM_FleshGolemEquipmentRD.label>fixations de chair</TM_FleshGolemEquipmentRD.label>
+<TM_FleshGolemEquipmentRD.description>Vous permet de fabriquer des armes et des armures qui peuvent être attachées à un golem de chair pour une amélioration ou des capacités supplémentaires.</TM_FleshGolemEquipmentRD.description>
+
+<TM_HollowGolemRD.label>armure animée</TM_HollowGolemRD.label>
+<TM_HollowGolemRD.description>Vous permet une approche magique de l'artisanat des golems qui étudie comment animer l'énergie brute. La fabrication de ce type de golem nécessite une forge magique.</TM_HollowGolemRD.description>
+
+<TM_HollowGolemEquipmentRD.label>équipement d'armure animée</TM_HollowGolemEquipmentRD.label>
+<TM_HollowGolemEquipmentRD.description>Vous permet de rechercher des armes et des armures qui peuvent être attachées à l'armure animée pour l'améliorer ou la rendre plus performante.</TM_HollowGolemEquipmentRD.description>
+
+<TM_HollowGolemArtifactsRD.label>artefacts d'armure animée</TM_HollowGolemArtifactsRD.label>
+<TM_HollowGolemArtifactsRD.description>Vous permet de rechercher l'union des artefacts magiques avec le comportement du golem permettant à l'armure animée d'alimenter les artefacts avec sa propre énergie magique.</TM_HollowGolemArtifactsRD.description>
+
+
+</LanguageData>

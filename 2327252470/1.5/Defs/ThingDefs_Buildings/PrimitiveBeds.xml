@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+<!--break this into bases next time -->
+  <ThingDef ParentName="ArtableBedBase">
+    <defName>VBY_Haybed</defName>
+    <label>lit de paille</label>
+    <description>Literie faite de foin. C'est doux... et un peu pokey..</description>
+    <graphicData>
+      <texPath>Things/Building/Furniture/Bed/HDM_BedHay</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+	  <drawSize>(1.25,2.25)</drawSize>
+      <damageData>
+        <rect>(0,0.05,1,1.95)</rect>
+      </damageData>
+    </graphicData>
+    <comps>
+      <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>EndTable</li>
+          <li>Dresser</li>
+          <li MayRequire="VanillaExpanded.VFECore">Table_RoyalDresser</li>
+          <li MayRequire="VanillaExpanded.VFECore">Table_RoyalEndTable</li>
+          <li MayRequire="VanillaExpanded.VFECore">Table_Wardrobe</li>
+          <li MayRequire="VanillaExpanded.VFECore">Table_LightEndTable</li>
+          <li MayRequire="VanillaExpanded.VFESpacer">Table_IlluminatedEndTable</li>
+          <li MayRequire="VanillaExpanded.VFESpacer">Table_IlluminatedDresser</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2Dresser</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2EndTable</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2RoyalEndTable</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2EndTableLight</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2RoyalEndTableLight</li>
+          <li MayRequire="Solaris.FurnitureBase">RGK_Dresser</li>
+          <li MayRequire="Solaris.FurnitureBase">RGK_EndTable</li>
+          <li MayRequire="Solaris.FurnitureBase">RGK_EndTableWithLamp</li>
+          <li MayRequire="Solaris.FurnitureBase">RGK_EndTableWithLampE</li>
+          <li MayRequire="Solaris.FurnitureBase">WardrobeA</li>
+          <li MayRequire="Solaris.FurnitureBase">WardrobeB</li>
+          <li MayRequire="Solaris.FurnitureBase">GL_Teddy</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureAA</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureBA</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureAB</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureBB</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureAC</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureBC</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeAA</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeAB</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeAF</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeAC</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeBA</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeBB</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeBF</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeBC</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCA</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCB</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCF</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCC</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCD</li>
+          <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_Andon</li>
+          <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_ElectricAndon</li>
+          <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_ConfectionerySaucer</li>
+          <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_MedicineBox</li>
+        </linkableFacilities>
+      </li>
+    </comps>
+    <statBases>
+      <MaxHitPoints>80</MaxHitPoints>
+      <Flammability>3.0</Flammability>
+      <WorkToBuild>400</WorkToBuild>
+      <Mass>15</Mass>
+      <BedRestEffectiveness>0.96</BedRestEffectiveness>
+      <Comfort>0.72</Comfort>
+      <ImmunityGainSpeedFactor>1.05</ImmunityGainSpeedFactor>
+      <SurgerySuccessChanceFactor>0.95</SurgerySuccessChanceFactor>
+    </statBases>
+    <size>(1,2)</size>
+    <costList>
+	  <WoodLog>3</WoodLog> 	
+	  <VBY_Haycloth>10</VBY_Haycloth>
+	  <Hay>30</Hay>
+    </costList>
+    <building>
+      <bed_showSleeperBody>true</bed_showSleeperBody>
+      <bed_healPerDay>3</bed_healPerDay>
+    </building>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>42</pathCost>
+    <staticSunShadowHeight>0.17</staticSunShadowHeight>
+    <castEdgeShadows>True</castEdgeShadows>
+    <designationHotKey>Misc2</designationHotKey>
+    <techLevel>Neolithic</techLevel>
+    <researchPrerequisites>
+      <li>VBY_PrimitiveProduction</li>
+    </researchPrerequisites>
+    <uiIconScale>0.90</uiIconScale>
+  </ThingDef>
+  
+   <ThingDef ParentName="ArtableBedBase">
+    <defName>VBY_Leatherbed</defName>
+    <label>lit de cuir</label>
+    <description>Un lit fait de cuir tendu sur un cadre en bois. C'est mieux que de dormir à même le sol.</description>
+    <graphicData>
+      <texPath>Things/Building/Furniture/Bed/HDM_BedHide</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawSize>(1.25,2.25)</drawSize>
+      <damageData>
+        <rect>(0,0.05,1,1.95)</rect>
+      </damageData>
+    </graphicData>
+    <comps>
+      <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>EndTable</li>
+          <li>Dresser</li>
+          <li MayRequire="VanillaExpanded.VFECore">Table_RoyalDresser</li>
+          <li MayRequire="VanillaExpanded.VFECore">Table_RoyalEndTable</li>
+          <li MayRequire="VanillaExpanded.VFECore">Table_Wardrobe</li>
+          <li MayRequire="VanillaExpanded.VFECore">Table_LightEndTable</li>
+          <li MayRequire="VanillaExpanded.VFESpacer">Table_IlluminatedEndTable</li>
+          <li MayRequire="VanillaExpanded.VFESpacer">Table_IlluminatedDresser</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2Dresser</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2EndTable</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2RoyalEndTable</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2EndTableLight</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2RoyalEndTableLight</li>
+          <li MayRequire="Solaris.FurnitureBase">RGK_Dresser</li>
+          <li MayRequire="Solaris.FurnitureBase">RGK_EndTable</li>
+          <li MayRequire="Solaris.FurnitureBase">RGK_EndTableWithLamp</li>
+          <li MayRequire="Solaris.FurnitureBase">RGK_EndTableWithLampE</li>
+          <li MayRequire="Solaris.FurnitureBase">WardrobeA</li>
+          <li MayRequire="Solaris.FurnitureBase">WardrobeB</li>
+          <li MayRequire="Solaris.FurnitureBase">GL_Teddy</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureAA</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureBA</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureAB</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureBB</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureAC</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureBC</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeAA</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeAB</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeAF</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeAC</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeBA</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeBB</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeBF</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeBC</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCA</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCB</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCF</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCC</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCD</li>
+          <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_Andon</li>
+          <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_ElectricAndon</li>
+          <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_ConfectionerySaucer</li>
+          <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_MedicineBox</li>
+        </linkableFacilities>
+      </li>
+    </comps>
+    <statBases>
+      <MaxHitPoints>90</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <WorkToBuild>400</WorkToBuild>
+      <Mass>15</Mass>
+      <BedRestEffectiveness>0.96</BedRestEffectiveness>
+      <Comfort>0.72</Comfort>
+      <ImmunityGainSpeedFactor>1.05</ImmunityGainSpeedFactor>
+      <SurgerySuccessChanceFactor>0.95</SurgerySuccessChanceFactor>
+    </statBases>
+    <size>(1,2)</size>
+    <costList>
+	  <WoodLog>3</WoodLog>
+    </costList>
+	<stuffCategories>
+      <li>Leathery</li>
+      <li>Fabric</li>
+    </stuffCategories>
+    <costStuffCount>40</costStuffCount>
+    <building>
+      <bed_showSleeperBody>true</bed_showSleeperBody>
+      <bed_healPerDay>3</bed_healPerDay>
+    </building>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>42</pathCost>
+    <staticSunShadowHeight>0.17</staticSunShadowHeight>
+    <castEdgeShadows>True</castEdgeShadows>
+    <designationHotKey>Misc2</designationHotKey>
+    <techLevel>Neolithic</techLevel>
+    <researchPrerequisites>
+      <li>VBY_PrimitiveProduction</li>
+    </researchPrerequisites>
+    <uiIconScale>0.90</uiIconScale>
+  </ThingDef>
+  
+    <ThingDef ParentName="ArtableBedBase">
+    <defName>VBY_DoubleHaybed</defName>
+    <label>double lit de paille</label>
+    <description>Literie faite de foin. C'est doux... et un peu pokey.. Big enough for two.</description>
+    <graphicData>
+      <texPath>Things/Building/Furniture/Bed/HDM_DoubleHay</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawSize>(2.25,2.25)</drawSize>
+      <damageData>
+        <rect>(0,0.05,1,1.95)</rect>
+      </damageData>
+    </graphicData>
+    <comps>
+      <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>EndTable</li>
+          <li>Dresser</li>
+          <li MayRequire="VanillaExpanded.VFECore">Table_RoyalDresser</li>
+          <li MayRequire="VanillaExpanded.VFECore">Table_RoyalEndTable</li>
+          <li MayRequire="VanillaExpanded.VFECore">Table_Wardrobe</li>
+          <li MayRequire="VanillaExpanded.VFECore">Table_LightEndTable</li>
+          <li MayRequire="VanillaExpanded.VFESpacer">Table_IlluminatedEndTable</li>
+          <li MayRequire="VanillaExpanded.VFESpacer">Table_IlluminatedDresser</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2Dresser</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2EndTable</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2RoyalEndTable</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2EndTableLight</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2RoyalEndTableLight</li>
+          <li MayRequire="Solaris.FurnitureBase">RGK_Dresser</li>
+          <li MayRequire="Solaris.FurnitureBase">RGK_EndTable</li>
+          <li MayRequire="Solaris.FurnitureBase">RGK_EndTableWithLamp</li>
+          <li MayRequire="Solaris.FurnitureBase">RGK_EndTableWithLampE</li>
+          <li MayRequire="Solaris.FurnitureBase">WardrobeA</li>
+          <li MayRequire="Solaris.FurnitureBase">WardrobeB</li>
+          <li MayRequire="Solaris.FurnitureBase">GL_Teddy</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureAA</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureBA</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureAB</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureBB</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureAC</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureBC</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeAA</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeAB</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeAF</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeAC</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeBA</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeBB</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeBF</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeBC</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCA</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCB</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCF</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCC</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCD</li>
+          <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_Andon</li>
+          <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_ElectricAndon</li>
+          <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_ConfectionerySaucer</li>
+          <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_MedicineBox</li>
+        </linkableFacilities>
+      </li>
+    </comps>
+    <statBases>
+      <MaxHitPoints>120</MaxHitPoints>
+      <Flammability>3.0</Flammability>
+      <WorkToBuild>700</WorkToBuild>
+      <Mass>25</Mass>
+      <BedRestEffectiveness>0.96</BedRestEffectiveness>
+      <Comfort>0.72</Comfort>
+      <ImmunityGainSpeedFactor>1.05</ImmunityGainSpeedFactor>
+      <SurgerySuccessChanceFactor>0.95</SurgerySuccessChanceFactor>
+    </statBases>
+    <size>(2,2)</size>
+    <costList>
+	  <WoodLog>5</WoodLog> 	
+	  <VBY_Haycloth>18</VBY_Haycloth>
+	  <Hay>50</Hay>
+    </costList>
+    <building>
+      <bed_showSleeperBody>true</bed_showSleeperBody>
+      <bed_healPerDay>3</bed_healPerDay>
+    </building>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>42</pathCost>
+    <staticSunShadowHeight>0.17</staticSunShadowHeight>
+    <castEdgeShadows>True</castEdgeShadows>
+    <designationHotKey>Misc2</designationHotKey>
+    <techLevel>Neolithic</techLevel>
+	<leaveResourcesWhenKilled>True</leaveResourcesWhenKilled>
+    <researchPrerequisites>
+      <li>VBY_PrimitiveProduction</li>
+    </researchPrerequisites>
+    <uiIconScale>0.90</uiIconScale>
+  </ThingDef>
+  
+   <ThingDef ParentName="ArtableBedBase">
+    <defName>VBY_DoubleLeatherbed</defName>
+    <label>double lit de cuir</label>
+    <description>Un lit fait de cuir tendu sur un cadre en bois. C'est mieux que de dormir à même le sol. Big enough for two.</description>
+    <graphicData>
+      <texPath>Things/Building/Furniture/Bed/HDM_DoubleLeatherBed</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawSize>(2.25,2.25)</drawSize>
+      <damageData>
+        <rect>(0,0.05,1,1.95)</rect>
+      </damageData>
+    </graphicData>
+    <comps>
+      <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>EndTable</li>
+          <li>Dresser</li>
+          <li MayRequire="VanillaExpanded.VFECore">Table_RoyalDresser</li>
+          <li MayRequire="VanillaExpanded.VFECore">Table_RoyalEndTable</li>
+          <li MayRequire="VanillaExpanded.VFECore">Table_Wardrobe</li>
+          <li MayRequire="VanillaExpanded.VFECore">Table_LightEndTable</li>
+          <li MayRequire="VanillaExpanded.VFESpacer">Table_IlluminatedEndTable</li>
+          <li MayRequire="VanillaExpanded.VFESpacer">Table_IlluminatedDresser</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2Dresser</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2EndTable</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2RoyalEndTable</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2EndTableLight</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2RoyalEndTableLight</li>
+          <li MayRequire="Solaris.FurnitureBase">RGK_Dresser</li>
+          <li MayRequire="Solaris.FurnitureBase">RGK_EndTable</li>
+          <li MayRequire="Solaris.FurnitureBase">RGK_EndTableWithLamp</li>
+          <li MayRequire="Solaris.FurnitureBase">RGK_EndTableWithLampE</li>
+          <li MayRequire="Solaris.FurnitureBase">WardrobeA</li>
+          <li MayRequire="Solaris.FurnitureBase">WardrobeB</li>
+          <li MayRequire="Solaris.FurnitureBase">GL_Teddy</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureAA</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureBA</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureAB</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureBB</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureAC</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureBC</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeAA</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeAB</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeAF</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeAC</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeBA</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeBB</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeBF</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeBC</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCA</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCB</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCF</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCC</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCD</li>
+          <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_Andon</li>
+          <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_ElectricAndon</li>
+          <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_ConfectionerySaucer</li>
+          <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_MedicineBox</li>
+        </linkableFacilities>
+      </li>
+    </comps>
+    <statBases>
+      <MaxHitPoints>140</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <WorkToBuild>700</WorkToBuild>
+      <Mass>25</Mass>
+      <BedRestEffectiveness>0.96</BedRestEffectiveness>
+      <Comfort>0.72</Comfort>
+      <ImmunityGainSpeedFactor>1.05</ImmunityGainSpeedFactor>
+      <SurgerySuccessChanceFactor>0.95</SurgerySuccessChanceFactor>
+    </statBases>
+    <size>(2,2)</size>
+    <costList>
+	  <WoodLog>5</WoodLog>
+    </costList>
+	<stuffCategories>
+      <li>Leathery</li>
+      <li>Fabric</li>
+    </stuffCategories>
+    <costStuffCount>65</costStuffCount>
+    <building>
+      <bed_showSleeperBody>true</bed_showSleeperBody>
+      <bed_healPerDay>3</bed_healPerDay>
+    </building>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>42</pathCost>
+    <staticSunShadowHeight>0.17</staticSunShadowHeight>
+    <castEdgeShadows>True</castEdgeShadows>
+    <designationHotKey>Misc2</designationHotKey>
+    <techLevel>Neolithic</techLevel>
+	<leaveResourcesWhenKilled>True</leaveResourcesWhenKilled>
+    <researchPrerequisites>
+      <li>VBY_PrimitiveProduction</li>
+    </researchPrerequisites>
+    <uiIconScale>0.90</uiIconScale>
+  </ThingDef>
+  
+  <!--  Poly Beds  -->
+  
+  <ThingDef ParentName="ArtableBedBase">
+    <defName>VBY_TripleHayBed</defName>
+    <label>lit de paille pour 3-personnes</label>
+    <description>Literie faite de foin. C'est doux... et un peu pokey.. Big enough for three.</description>
+    <graphicData>
+      <texPath>Things/Building/Furniture/Bed/HDM_BedHay3</texPath>  <!--  ??  -->
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawSize>(3.25,2.25)</drawSize>  <!--  ??  -->
+      <damageData>
+        <rect>(0,0.05,1,1.95)</rect>  <!--  ??  -->
+      </damageData> 
+    </graphicData>
+    <comps>
+      <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>EndTable</li>
+          <li>Dresser</li>
+          <li MayRequire="VanillaExpanded.VFECore">Table_RoyalDresser</li>
+          <li MayRequire="VanillaExpanded.VFECore">Table_RoyalEndTable</li>
+          <li MayRequire="VanillaExpanded.VFECore">Table_Wardrobe</li>
+          <li MayRequire="VanillaExpanded.VFECore">Table_LightEndTable</li>
+          <li MayRequire="VanillaExpanded.VFESpacer">Table_IlluminatedEndTable</li>
+          <li MayRequire="VanillaExpanded.VFESpacer">Table_IlluminatedDresser</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2Dresser</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2EndTable</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2RoyalEndTable</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2EndTableLight</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2RoyalEndTableLight</li>
+          <li MayRequire="Solaris.FurnitureBase">RGK_Dresser</li>
+          <li MayRequire="Solaris.FurnitureBase">RGK_EndTable</li>
+          <li MayRequire="Solaris.FurnitureBase">RGK_EndTableWithLamp</li>
+          <li MayRequire="Solaris.FurnitureBase">RGK_EndTableWithLampE</li>
+          <li MayRequire="Solaris.FurnitureBase">WardrobeA</li>
+          <li MayRequire="Solaris.FurnitureBase">WardrobeB</li>
+          <li MayRequire="Solaris.FurnitureBase">GL_Teddy</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureAA</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureBA</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureAB</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureBB</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureAC</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureBC</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeAA</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeAB</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeAF</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeAC</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeBA</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeBB</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeBF</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeBC</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCA</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCB</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCF</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCC</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCD</li>
+          <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_Andon</li>
+          <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_ElectricAndon</li>
+          <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_ConfectionerySaucer</li>
+          <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_MedicineBox</li>
+        </linkableFacilities>
+      </li>
+    </comps>
+    <statBases>
+      <MaxHitPoints>180</MaxHitPoints>
+      <Flammability>3.0</Flammability>
+      <WorkToBuild>850</WorkToBuild>
+      <Mass>40</Mass>
+      <BedRestEffectiveness>0.96</BedRestEffectiveness>
+      <Comfort>0.72</Comfort>
+      <ImmunityGainSpeedFactor>1.05</ImmunityGainSpeedFactor>
+      <SurgerySuccessChanceFactor>0.95</SurgerySuccessChanceFactor>
+    </statBases>
+    <size>(3,2)</size>  <!--  ??  -->
+    <costList>
+	  <WoodLog>8</WoodLog> 	
+	  <VBY_Haycloth>27</VBY_Haycloth>
+	  <Hay>75</Hay>
+    </costList>
+    <building>
+      <bed_showSleeperBody>true</bed_showSleeperBody>
+      <bed_healPerDay>3</bed_healPerDay>
+    </building>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>42</pathCost>
+    <staticSunShadowHeight>0.17</staticSunShadowHeight>
+    <castEdgeShadows>True</castEdgeShadows>
+    <designationHotKey>Misc2</designationHotKey>
+    <techLevel>Neolithic</techLevel>
+	<leaveResourcesWhenKilled>True</leaveResourcesWhenKilled>
+    <researchPrerequisites>
+      <li>VBY_PrimitiveProduction</li>
+    </researchPrerequisites>
+    <uiIconScale>0.90</uiIconScale>
+  </ThingDef>
+  
+  <ThingDef ParentName="ArtableBedBase">
+    <defName>VBY_TripleLeatherBed</defName>
+    <label>lit de cuir pour 3-personnes</label>
+    <description>Un lit fait de cuir tendu sur un cadre en bois. C'est mieux que de dormir à même le sol. Big enough for three.</description>
+    <graphicData>
+      <texPath>Things/Building/Furniture/Bed/HDM_LeatherBed3</texPath>  <!--  ??  -->
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawSize>(3.25,2.25)</drawSize>  <!--  ??  -->
+      <damageData>
+        <rect>(0,0.05,1,1.95)</rect>  <!--  ??  -->
+      </damageData> 
+    </graphicData>
+    <comps>
+      <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>EndTable</li>
+          <li>Dresser</li>
+          <li MayRequire="VanillaExpanded.VFECore">Table_RoyalDresser</li>
+          <li MayRequire="VanillaExpanded.VFECore">Table_RoyalEndTable</li>
+          <li MayRequire="VanillaExpanded.VFECore">Table_Wardrobe</li>
+          <li MayRequire="VanillaExpanded.VFECore">Table_LightEndTable</li>
+          <li MayRequire="VanillaExpanded.VFESpacer">Table_IlluminatedEndTable</li>
+          <li MayRequire="VanillaExpanded.VFESpacer">Table_IlluminatedDresser</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2Dresser</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2EndTable</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2RoyalEndTable</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2EndTableLight</li>
+          <li MayRequire="Mlie.MoreFurniture">Anon2RoyalEndTableLight</li>
+          <li MayRequire="Solaris.FurnitureBase">RGK_Dresser</li>
+          <li MayRequire="Solaris.FurnitureBase">RGK_EndTable</li>
+          <li MayRequire="Solaris.FurnitureBase">RGK_EndTableWithLamp</li>
+          <li MayRequire="Solaris.FurnitureBase">RGK_EndTableWithLampE</li>
+          <li MayRequire="Solaris.FurnitureBase">WardrobeA</li>
+          <li MayRequire="Solaris.FurnitureBase">WardrobeB</li>
+          <li MayRequire="Solaris.FurnitureBase">GL_Teddy</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureAA</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureBA</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureAB</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureBB</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureAC</li>
+          <li MayRequire="Mlie.UNFurniture">SadjuukFurnitureBC</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeAA</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeAB</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeAF</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeAC</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeBA</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeBB</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeBF</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeBC</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCA</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCB</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCF</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCC</li>
+          <li MayRequire="Mlie.UNColonyVanilla">SadjuukBedroomUpgradeCD</li>
+          <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_Andon</li>
+          <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_ElectricAndon</li>
+          <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_ConfectionerySaucer</li>
+          <li MayRequire="tosenbo.Ricecultivatingcivilization">ZP_MedicineBox</li>
+        </linkableFacilities>
+      </li>
+    </comps>
+    <statBases>
+      <MaxHitPoints>200</MaxHitPoints>
+      <Flammability>3.0</Flammability>
+      <WorkToBuild>850</WorkToBuild>
+      <Mass>40</Mass>
+      <BedRestEffectiveness>0.96</BedRestEffectiveness>
+      <Comfort>0.72</Comfort>
+      <ImmunityGainSpeedFactor>1.05</ImmunityGainSpeedFactor>
+      <SurgerySuccessChanceFactor>0.95</SurgerySuccessChanceFactor>
+    </statBases>
+    <size>(3,2)</size>  <!--  ??  -->
+    <costList>
+	  <WoodLog>8</WoodLog>
+    </costList>
+	<stuffCategories>
+      <li>Leathery</li>
+      <li>Fabric</li>
+    </stuffCategories>
+    <costStuffCount>95</costStuffCount>
+    <building>
+      <bed_showSleeperBody>true</bed_showSleeperBody>
+      <bed_healPerDay>3</bed_healPerDay>
+    </building>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>42</pathCost>
+    <staticSunShadowHeight>0.17</staticSunShadowHeight>
+    <castEdgeShadows>True</castEdgeShadows>
+    <designationHotKey>Misc2</designationHotKey>
+    <techLevel>Neolithic</techLevel>
+	<leaveResourcesWhenKilled>True</leaveResourcesWhenKilled>
+    <researchPrerequisites>
+      <li>VBY_PrimitiveProduction</li>
+    </researchPrerequisites>
+    <uiIconScale>0.90</uiIconScale>
+  </ThingDef>
+  
+  <!--  Hay Crib  -->
+  <ThingDef ParentName="ArtableFurnitureBase">
+    <defName>VBY_HayCrib</defName>
+    <label>berceau de foin primitif</label>
+    <description>Un berceau en foin. Il est doux... et un peu pokey. La taille parfaite pour un petit bout de chou.</description>
+    <graphicData> 
+      <texPath>Things/Building/Furniture/Bed/VBY_HayCribAlt</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+	  <shadowData>
+		<volume>(0.7, 1.0, 0.6)</volume>
+	  </shadowData>
+      <drawSize>(2,2)</drawSize>
+      <damageData>
+        <rect>(0,0.05,1,1.95)</rect>
+      </damageData>
+    </graphicData>
+     <statBases>	 
+      <MaxHitPoints>60</MaxHitPoints>
+      <Flammability>3.0</Flammability>
+      <WorkToBuild>400</WorkToBuild>
+      <Mass>15</Mass>
+      <BedRestEffectiveness>0.90</BedRestEffectiveness>
+      <Comfort>0.60</Comfort>
+      <ImmunityGainSpeedFactor>1.05</ImmunityGainSpeedFactor>
+      <SurgerySuccessChanceFactor>0.95</SurgerySuccessChanceFactor>
+      <BirthRitualQualityOffset MayRequire="Ludeon.RimWorld.Biotech">0</BirthRitualQualityOffset>
+    </statBases>
+    <costList>
+	  <WoodLog>2</WoodLog> 	
+	  <VBY_Haycloth>5</VBY_Haycloth>
+	  <Hay>15</Hay>
+    </costList>
+    <size>(1,2)</size>
+    <building>
+      <bed_showSleeperBody>true</bed_showSleeperBody>
+      <bed_healPerDay>3</bed_healPerDay>
+      <bed_maxBodySize>0.25</bed_maxBodySize>
+      <bed_emptyCountsForBarracks>false</bed_emptyCountsForBarracks>
+      <bed_crib>True</bed_crib>
+      <bed_DisplayOwnerType>false</bed_DisplayOwnerType>
+	  <buildingTags>
+        <li>Bed</li>
+      </buildingTags>
+    </building>
+    <comps>
+      <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li MayRequire="Ludeon.RimWorld.Ideology">SleepAccelerator</li>
+        </linkableFacilities>
+      </li>
+      <li Class="CompProperties_AssignableToPawn">
+        <drawAssignmentOverlay>false</drawAssignmentOverlay>
+        <compClass>CompAssignableToPawn_Bed</compClass>
+      </li>
+    </comps>
+    <fillPercent>0.35</fillPercent>
+    <pathCost>35</pathCost>
+    <staticSunShadowHeight>0</staticSunShadowHeight>
+    <castEdgeShadows>False</castEdgeShadows>
+	<interactionCellOffset>(1,0,0)</interactionCellOffset>
+    <designationHotKey>Misc2</designationHotKey>
+    <passability>PassThroughOnly</passability>
+	<defaultPlacingRot>South</defaultPlacingRot>
+    <drawGUIOverlay>True</drawGUIOverlay>	
+    <researchPrerequisites>
+      <li>VBY_PrimitiveProduction</li>
+    </researchPrerequisites>
+	<uiIconScale>0.6</uiIconScale>
+  </ThingDef>
+  
+  
+</Defs>  

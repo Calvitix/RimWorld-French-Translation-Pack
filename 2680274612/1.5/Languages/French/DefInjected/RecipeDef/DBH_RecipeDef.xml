@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<InstallBionicBladder.label>installer une vessie bionique</InstallBionicBladder.label>
+<InstallBionicBladder.description>Installer une vessie bionique.</InstallBionicBladder.description>
+<InstallBionicBladder.jobString>installe la vessie bionique.</InstallBionicBladder.jobString>
+
+<InstallHygieneEnhancer.label>installer une amélioration d'hygiène</InstallHygieneEnhancer.label>
+<InstallHygieneEnhancer.description>Installer une amélioration d'hygiène.</InstallHygieneEnhancer.description>
+<InstallHygieneEnhancer.jobString>installe l'amélioration d'hygiène.</InstallHygieneEnhancer.jobString>
+
+<Make_ChemfuelFromFecalSludge.label>fabriquer du carburant chimique à partir des boues fécales</Make_ChemfuelFromFecalSludge.label>
+<Make_ChemfuelFromFecalSludge.description>Utiliser des boues fécales dans le but de fabriquer du carburant.</Make_ChemfuelFromFecalSludge.description>
+<Make_ChemfuelFromFecalSludge.jobString>raffinage de carburant chimiquement à partir de boues fécales.</Make_ChemfuelFromFecalSludge.jobString>
+
+
+</LanguageData>

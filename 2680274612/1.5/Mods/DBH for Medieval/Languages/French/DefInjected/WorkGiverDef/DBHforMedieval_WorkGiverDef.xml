@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ES_PumpWorkGiver.label>pomper de l'eau </ES_PumpWorkGiver.label>
+<ES_PumpWorkGiver.gerund>pompage</ES_PumpWorkGiver.gerund>
+<ES_PumpWorkGiver.verb>pomper</ES_PumpWorkGiver.verb>
+
+<ES_EmptyExcretionPit.gerund>vidange</ES_EmptyExcretionPit.gerund>
+<ES_EmptyExcretionPit.verb>vidanger</ES_EmptyExcretionPit.verb>
+
+<ES_IrrigationBasicGiver.label>travail d'irrigation</ES_IrrigationBasicGiver.label>
+<ES_IrrigationBasicGiver.gerund>irrigation</ES_IrrigationBasicGiver.gerund>
+<ES_IrrigationBasicGiver.verb>irriguer</ES_IrrigationBasicGiver.verb>
+
+<ES_RefillHotWaterGiver.label>remplir d'eau chaude</ES_RefillHotWaterGiver.label>
+<ES_RefillHotWaterGiver.gerund>remplissage</ES_RefillHotWaterGiver.gerund>
+<ES_RefillHotWaterGiver.verb>remplir</ES_RefillHotWaterGiver.verb>
+
+<ES_IrrigationIntermediateGiver.label>actionner la vanne d'écluse</ES_IrrigationIntermediateGiver.label>
+<ES_IrrigationIntermediateGiver.gerund>la</ES_IrrigationIntermediateGiver.gerund>
+<ES_IrrigationIntermediateGiver.verb>actionner</ES_IrrigationIntermediateGiver.verb>
+
+
+</LanguageData>

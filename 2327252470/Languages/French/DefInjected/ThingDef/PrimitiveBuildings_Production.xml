@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: poste d'herboristerie et de fabrication de spiritueux -->
+  <VBY_PrimitiveBrewery_HerbalistBench.label>poste d'herboristerie et de fabrication de spiritueux</VBY_PrimitiveBrewery_HerbalistBench.label>
+  <!-- EN: Une table pour concocter des alcools et des médicaments. -->
+  <VBY_PrimitiveBrewery_HerbalistBench.description>Une table pour concocter des alcools et des médicaments.</VBY_PrimitiveBrewery_HerbalistBench.description>
+  
+  <!-- EN: poste de boucher en pierre -->
+  <VBY_PrimitiveButcherTable.label>poste de boucher en pierre</VBY_PrimitiveButcherTable.label>
+  <!-- EN: Une dalle de pierre pour dépecer les animaux. Avec quelques outils simples, ce banc est plus efficace qu'un terrain plat. -->
+  <VBY_PrimitiveButcherTable.description>Une dalle de pierre pour dépecer les animaux. Avec quelques outils simples, ce banc est plus efficace qu'un terrain plat.</VBY_PrimitiveButcherTable.description>
+  
+  <!-- EN: Poste de fabrication primitif -->
+  <VBY_PrimitiveCraftingTable.label>Poste de fabrication primitif</VBY_PrimitiveCraftingTable.label>
+  <!-- EN: Un banc de pierre pour fabriquer des objets simples comme des couteaux ou des arcs. Avec quelques outils simples, ce banc est plus efficace qu'un terrain plat. -->
+  <VBY_PrimitiveCraftingTable.description>Un banc de pierre pour fabriquer des objets simples comme des couteaux ou des arcs. Avec quelques outils simples, ce banc est plus efficace qu'un terrain plat.</VBY_PrimitiveCraftingTable.description>
+  
+  <!-- EN: séchoir en pierre(H) -->
+  <VBY_PrimitiveKiln.label>séchoir en pierre(H)</VBY_PrimitiveKiln.label>
+  <!-- EN: Un séchoir en pierre pour la production de poterie, de céramique et d'adobe. -->
+  <VBY_PrimitiveKiln.description>Un séchoir en pierre pour la production de poterie, de céramique et d'adobe.</VBY_PrimitiveKiln.description>
+  
+  <!-- EN: métier à tisser primitif -->
+  <VBY_PrimitiveLoom.label>métier à tisser primitif</VBY_PrimitiveLoom.label>
+  <!-- EN: Structure en bois utilisée pour produire des tissus. -->
+  <VBY_PrimitiveLoom.description>Structure en bois utilisée pour produire des tissus.</VBY_PrimitiveLoom.description>
+  
+  <!-- EN: banc d'armes de mêlée -->
+  <VBY_PrimitiveMeleeWeaponTable.label>banc d'armes de mêlée</VBY_PrimitiveMeleeWeaponTable.label>
+  <!-- EN: Une table pour forger des armes et des outils de base. -->
+  <VBY_PrimitiveMeleeWeaponTable.description>Une table pour forger des armes et des outils de base.</VBY_PrimitiveMeleeWeaponTable.description>
+  
+  <!-- EN: banc d'armes à distance -->
+  <VBY_PrimitiveRangedWeaponTable.label>banc d'armes à distance</VBY_PrimitiveRangedWeaponTable.label>
+  <!-- EN: Une table pour la fabrication d'armes à distance. -->
+  <VBY_PrimitiveRangedWeaponTable.description>Une table pour la fabrication d'armes à distance.</VBY_PrimitiveRangedWeaponTable.description>
+  
+  <!-- EN: poste de recherche primitive -->
+  <VBY_PrimitiveResearchSpot.label>poste de recherche primitive</VBY_PrimitiveResearchSpot.label>
+  <!-- EN: Un lieu pour réfléchir au fonctionnement du monde. -->
+  <VBY_PrimitiveResearchSpot.description>Un lieu pour réfléchir au fonctionnement du monde.</VBY_PrimitiveResearchSpot.description>
+  
+  <!-- EN: poste de recherche primitif -->
+  <VBY_PrimitiveResearchTable.label>poste de recherche primitif</VBY_PrimitiveResearchTable.label>
+  <!-- EN: A slab of rock and a collection of interesting things to study and observe. -->
+  <VBY_PrimitiveResearchTable.description>Une dalle de roche et une collection de choses intéressantes à étudier et à observer.</VBY_PrimitiveResearchTable.description>
+  
+  <!-- EN: Poste de travail des métaux -->
+  <VBY_PrimitiveSmithingTable.label>Poste de travail des métaux</VBY_PrimitiveSmithingTable.label>
+  <!-- EN: Un banc de pierre et un foyer pour chauffer le métal au-delà de son point de fusion afin de le marteler, de le former et de le mouler pour en faire des outils et des armes. -->
+  <VBY_PrimitiveSmithingTable.description>Un banc de pierre et un foyer pour chauffer le métal au-delà de son point de fusion afin de le marteler, de le former et de le mouler pour en faire des outils et des armes.</VBY_PrimitiveSmithingTable.description>
+  
+  <!-- EN: table de maçonnerie -->
+  <VBY_PrimitiveStoneCuttingTable.label>table de maçonnerie</VBY_PrimitiveStoneCuttingTable.label>
+  <!-- EN: Une table avec des outils primitifs pour casser des roches en blocs. -->
+  <VBY_PrimitiveStoneCuttingTable.description>Une table avec des outils primitifs pour casser des roches en blocs.</VBY_PrimitiveStoneCuttingTable.description>
+  
+  <!-- EN: poste de tablettes primitif -->
+  <VBY_PrimitiveTabletTable.label>poste de tablettes primitif</VBY_PrimitiveTabletTable.label>
+  <!-- EN: Augmente la vitesse de recherche lorsqu'il est placé près d'un banc ou d'une table de recherche primitive. Chaque banc ou point de recherche ne peut utiliser qu'une seule tablette. -->
+  <VBY_PrimitiveTabletTable.description>Augmente la vitesse de recherche lorsqu'il est placé près d'un banc ou d'une table de recherche primitive. Chaque banc ou point de recherche ne peut utiliser qu'une seule tablette.</VBY_PrimitiveTabletTable.description>
+  
+  <!-- EN: poste de couture primitif -->
+  <VBY_PrimitiveTailoringTable.label>poste de couture primitif</VBY_PrimitiveTailoringTable.label>
+  <!-- EN: Une dalle de pierre avec des outils primitifs pour tisser des vêtements primitifs. -->
+  <VBY_PrimitiveTailoringTable.description>Une dalle de pierre avec des outils primitifs pour tisser des vêtements primitifs.</VBY_PrimitiveTailoringTable.description>
+  
+  <!-- EN: poste d'outils primitifs -->
+  <VBY_PrimitiveToolBench.label>poste d'outils primitifs</VBY_PrimitiveToolBench.label>
+  <!-- EN: Augmente la vitesse de travail lorsqu'il est placé à proximité d'un établi. Un établi peut utiliser jusqu'à deux tables à outils.. -->
+  <VBY_PrimitiveToolBench.description>Augmente la vitesse de travail lorsqu'il est placé à proximité d'un établi. Un établi peut utiliser jusqu'à deux tables à outils.</VBY_PrimitiveToolBench.description>
+  
+</LanguageData>

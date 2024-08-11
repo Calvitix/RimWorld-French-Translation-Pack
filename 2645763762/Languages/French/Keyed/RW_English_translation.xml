@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<RW_RimWar>Rim War</RW_RimWar>
+<!-- ============ Dev Actions =============-->
+<RW_dev_createTrader>Dev : Create Trader</RW_dev_createTrader>
+<!-- ============ WarObject =============-->
+<!-- ============ World Objects =============-->
+<RW_EstimatedTimeToDestination>Durée estimée pour la destination : {0} jours</RW_EstimatedTimeToDestination>
+<RW_WarObjectInspectString>{0} {1} {2}</RW_WarObjectInspectString>
+<RW_SettlerInspectString>{0} {1}</RW_SettlerInspectString>
+<RW_SettlementPoints>Puiss. d'installation Max : {0}</RW_SettlementPoints>
+<RW_SettlementPointsDamaged>Puiss. d'installation Act.: {0} ({1})</RW_SettlementPointsDamaged>
+<RW_WarbandName>Armée de {0}</RW_WarbandName>
+<RW_ScoutName>Éclaireurs de {0}</RW_ScoutName>
+<RW_TraderName>Caravane commerciale de {0}</RW_TraderName>
+<RW_SettlerName>Colons de {0}</RW_SettlerName>
+<RW_DiplomatName>Diplomate de {0}</RW_DiplomatName>
+<RW_CombatPower>Puiss. de combat Max : {0}</RW_CombatPower>
+<RW_CombatPowerDamaged>Puiss. de combat Act.: {0} ({1})</RW_CombatPowerDamaged>
+<RW_Capitol>Capitale de Faction</RW_Capitol>
+<RW_AggressionDefense>Min. montant pour l&apos;agression IA : {0}</RW_AggressionDefense>
+<RW_AggressionPoints>Montant de l&apos;agression : {0}</RW_AggressionPoints>
+<RW_Waiting>Attente : {0} heures</RW_Waiting>
+<!-- ============ Faction Menu =============-->
+<RW_FactionPower>Pouvoir de faction : {0}</RW_FactionPower>
+<RW_FactionBehavior>Type de comportement : {0}</RW_FactionBehavior>
+<RW_SettlementCount>Établissements : {0}</RW_SettlementCount>
+<RW_WarObjectCount>Agents itinérants : {0}</RW_WarObjectCount>
+<RW_AttributeDisplay>Combat ({0}) Mouvement ({1}) Croissance ({2})</RW_AttributeDisplay>
+<RW_RivalFaction>* * Rival * *</RW_RivalFaction>
+<!-- ============ MainTabWindow =============-->
+<RW_Relations>
+</RW_Relations>
+<RW_Events>
+</RW_Events>
+<RW_Performance>
+</RW_Performance>
+<RW_NoEvents>Aucun événement</RW_NoEvents>
+<RW_AllyTo>Allié de {0}</RW_AllyTo>
+<RW_NeutralTo>Neutre à {0}</RW_NeutralTo>
+<!-- ============ Settings =============-->
+<RW_threadingEnabled>Filetage activé</RW_threadingEnabled>
+<RW_threadingEnabledInfo>Bascule threading réalisé par RimWar. Désactivez cette option si d&apos;autres fonctions de threading sont utilisées. * * Ne basculez pas en jouant - ne basculez que cette option dans le menu principal du jeu ! * *</RW_threadingEnabledInfo>
+<RW_randomizeFactionBehavior>Comportement aléatoire des factions</RW_randomizeFactionBehavior>
+<RW_randomizeFactionBehaviorInfo>Les principales factions de jeu ont un comportement prédéfini - par exemple Outlander Civil aura toujours un comportement prudent, Rough Tribes sera toujours plus chaud etc ; ceci est défini dans le fichier RimWarDef.xml. Activer ce paramétrage randomise tous les comportements de faction indépendamment de ce qui est défini dans le fichier RimWarDef.xml. * * S&apos;applique seulement au début d&apos;un nouveau jeu * *</RW_randomizeFactionBehaviorInfo>
+<RW_storytellerBasedDifficulty>RimWar difficulté utilise la difficulté de jeu</RW_storytellerBasedDifficulty>
+<RW_storytellerBasedDifficultyInfo>Cette option associe la difficulté RimWar à la difficulté du jeu. Plus de difficulté augmente le taux de croissance des colonies d&apos;IA, l&apos;agression d&apos;IA, et la puissance de combat des unités envoyées pour attaquer le joueur. Désactiver cela rend le défi Rim War unités présentent plus ou moins sévère que la difficulté de jeu.</RW_storytellerBasedDifficultyInfo>
+<RW_maxFactionSettlements>Nombre Max de Colonies de Faction</RW_maxFactionSettlements>
+<RW_maxFactionSettlementsInfo>Les factions ne créeront plus de colons si elles ont plus de colonies que cette limite ; cela n&apos;empêche pas une faction de capturer des colonies ennemies. Augmenter cela augmentera la population globale et l&apos;activité mondiale et favorisera le comportement des factions expansionnistes ; peut diminuer les performances.</RW_maxFactionSettlementsInfo>
+<RW_rimwarDifficulty>Difficulté RimWar </RW_rimwarDifficulty>
+<RW_eventFrequency>Fréquence des manifestations mondiales</RW_eventFrequency>
+<RW_eventFrequencyInfo>Modifie la fréquence à laquelle le gestionnaire RimWar tente une action (créer une unité, mettre à jour les statistiques, etc.). Augmente l&apos;activité mondiale et rendra le monde plus « vivant ». Cela ne change rien à la fréquence à laquelle les colonies tentent des actions. Diminuer cela réduira la difficulté globale du jeu et améliorera la performance.</RW_eventFrequencyInfo>
+<RW_maxScanRange>Gamme Max Settlement Scan</RW_maxScanRange>
+<RW_maxScanRangeInfo>La portée d&apos;activité maximale d&apos;un établissement. Une telle augmentation diversifiera les mesures de règlement, car elles auront davantage d&apos;options. En diminuant cela peut améliorer les performances, mais en diminuant cela de façon excessive, on peut empêcher les règlements d&apos;effectuer une action si aucun autre règlement ou unité n&apos;est dans la fourchette.</RW_maxScanRangeInfo>
+<RW_scanRange>Portée d&apos;analyse d'installation(ajustée en fonction de la Puissance d'installation).</RW_scanRange>
+<RW_scanRangeInfo>Modifie la gamme d&apos;activités d&apos;un règlement ; la portée effective est déterminée par ce réglage et la puissance de peuplement et a une limite supérieure déterminée par la gamme Max Scan. Ce réglage devrait être raisonnablement lié à la plage de numérisation max pour les meilleurs résultats.</RW_scanRangeInfo>
+<RW_createDiplomats>Diplomates habilités</RW_createDiplomats>
+<RW_settlementEventFrequency>Fréquence des événements d'installation (heures de jeu) :</RW_settlementEventFrequency>
+<RW_settlementEventFrequencyInfo>Détermine combien de fois une installation unique peut effectuer une action. Réduire les heures de jeu entre les événements potentiels augmentera l&apos;activité globale de Rim War. Augmenter cela peut également augmenter la difficulté de jeu et réduire les performances. Les capitoles de faction peuvent générer des événements 50 % plus souvent qu&apos;un règlement normal.</RW_settlementEventFrequencyInfo>
+<RW_settlementScanFrequency>Fréquence de mise à jour de l&apos;analyse de règlement (heures de jeu) :</RW_settlementScanFrequency>
+<RW_settlementScanFrequencyInfo>Détermine combien de fois un règlement évalue d&apos;autres objets du monde dans la gamme. Cela n&apos;a jamais besoin d&apos;être inférieur à la fréquence des événements de règlement. Augmenter le nombre d&apos;heures de jeu entre les scans peut améliorer les performances, mais peut également introduire un comportement étrange ou inconscient de l&apos;IA.</RW_settlementScanFrequencyInfo>
+<RW_settlementGrowthRate>Taux de croissance du règlement {0}</RW_settlementGrowthRate>
+<RW_settlementGrowthRateInfo>Modifie la rapidité avec laquelle un règlement accumule des points.</RW_settlementGrowthRateInfo>
+<RW_warobjectActionFrequency>Mobile Object Action Frequency (secondes) :</RW_warobjectActionFrequency>
+<RW_warobjectActionFrequencyInfo>Détermine la fréquence à laquelle les unités Rim War fouillent les carreaux environnants pour trouver d&apos;autres unités ou colonies. Les scouts et les Warbands peuvent attaquer des unités ou des caravanes à proximité sur la base de ce scanner ; les commerçants peuvent effectuer des transactions. La diminution du temps entre les balayages rendra les unités plus conscientes de leur environnement, mais rendra aussi les déplacements en caravane plus dangereux. Des analyses plus fréquentes diminueront les performances.</RW_warobjectActionFrequencyInfo>
+<RW_maxScanObjects>Objets Max numérisés par événement</RW_maxScanObjects>
+<RW_forceRandomObject>Remplacer les scans par une sélection aléatoire</RW_forceRandomObject>
+<RW_forceRandomObjectInfo>Lorsque cette option est désactivée, les règlements ne prendront des mesures que dans un certain rayon. Lorsque cette option est activée, les mesures prises peuvent être contre tout autre objet sur la carte. Les performances peuvent augmenter lorsque la sélection aléatoire est activée, puisqu&apos;il n&apos;y a pas de filtrage supplémentaire de la distance, mais il peut en résulter que des caravanes ou des parties de guerre voyagent sur toute la carte. Cette option n&apos;est recommandée que si les factions sont regroupées ou séparées par de grandes distances (généralement en raison du contrôle modulé des factions).</RW_forceRandomObjectInfo>
+<RW_maxFactionObjects>Objets de faction Max</RW_maxFactionObjects>
+<RW_objectMovementMultiplier>Vitesse de déplacement de l&apos;objet mobile</RW_objectMovementMultiplier>
+<RW_objectMovementMultiplierInfo>Change la vitesse à laquelle les unités Rim War voyageront sur la carte. Une telle augmentation pourrait améliorer les performances puisque les unités n&apos;existeront pas aussi longtemps. Ne s&apos;applique pas à la caravane du joueur.</RW_objectMovementMultiplierInfo>
+<RW_rwdUpdateFrequency>Fréquence de croissance du règlement (heures de jeu) :</RW_rwdUpdateFrequency>
+<RW_rwdUpdateFrequencyInfo>Affecte directement la rapidité de la croissance des colonies ; fréquence de croissance. Cela influencera la vitesse à laquelle le monde mûrit (puissance de combat) et peut rendre le jeu plus difficile si les voisins de l&apos;IA sont hostiles.</RW_rwdUpdateFrequencyInfo>
+<RW_alertRange>Rayon d&apos;alerte du joueur :</RW_alertRange>
+<RW_alertRangeInfo>Affiche une alerte chaque fois qu&apos;une entité liée à Rim War est à portée des règlements des joueurs. La mise à 0 du rayon désactivera cette alerte. La diminution de ce contexte améliorera les performances.</RW_alertRangeInfo>
+<RW_alertVassal>Notifications de règlement Vassal</RW_alertVassal>
+<RW_alertVassalInfo>Les lettres d&apos;avertissement sont générées pour les colonies vassales, lorsqu&apos;elles sont activées. Le rayon d&apos;alerte est le même que la plage de notification du lecteur.</RW_alertVassalInfo>
+<RW_letterNotificationRange>Portée de notification des lettres :</RW_letterNotificationRange>
+<RW_letterNotificationRangeInfo>Générer une lettre d&apos;avertissement chaque fois qu&apos;une force hostile approche et cible le règlement des joueurs. Définir le rayon à 0 désactive les notifications de lettre.</RW_letterNotificationRangeInfo>
+<RW_restrictEvents>Restreindre les événements</RW_restrictEvents>
+<RW_restrictEventsInfo>Restreint les actions de Rim War de se produire au hasard. Lorsqu&apos;il est désactivé, le conteur continuera à générer des raids aléatoires, des caravanes et tout autre événement associé aux objets mondiaux Rim War.</RW_restrictEventsInfo>
+<RW_heatOffset>Compensation pour agression</RW_heatOffset>
+<RW_heatOffsetInfo>Contrôle combien de points d&apos;agression sont générés lors de l&apos;attaque du joueur. Les calculs d&apos;agression sont basés sur le jeu (ou RimWar) difficulté. Abaisser ce paramètre permet à l&apos;IA d&apos;attaquer le joueur plus souvent, tout en augmentant cette valeur diminuera la fréquence des attaques. Ce paramètre est appliqué * par règlement IA * et ne limitera pas le nombre de fois où le joueur peut être attaqué ; la proximité des colonies ennemies et la force relative de ces colonies demeurent le principal facteur déterminant.</RW_heatOffsetInfo>
+<RW_heatFrequency>Réduction de l&apos;agression toutes les {0} heures de jeu</RW_heatFrequency>
+<RW_heatFrequencyInfo>Contrôle la rapidité avec laquelle les points d&apos;agression sont réduits. Abaisser ce paramètre permet à l&apos;IA d&apos;attaquer le joueur plus souvent, tout en augmentant cette valeur diminuera la fréquence des attaques. Ce paramètre est appliqué * par règlement IA * et ne limitera pas le nombre de fois où le joueur peut être attaqué ; la proximité des colonies ennemies et la force relative de ces colonies demeurent le principal facteur déterminant.</RW_heatFrequencyInfo>
+<RW_randomRival>Rival aléatoire</RW_randomRival>
+<RW_randomRivalInfo>Randomise complètement la faction rivale du joueur, ce qui peut entraîner le rival est une faction amicale. Lorsqu&apos;elle est désactivée, la faction rivale sera toujours une faction en permanence hostile au joueur.</RW_randomRivalInfo>
+<RW_allowDropPodRaids>Autoriser les raids de Pod Drop</RW_allowDropPodRaids>
+<RW_allowDropPodRaidsInfo>Les unités voyageant dans une gousse de goutte entreront normalement dans une carte à l&apos;aide de gousses de goutte. En cas de désactivation, les unités peuvent toujours traverser la carte mondiale en gousses de chute, mais entreront toujours dans la carte en marchant sur la carte.</RW_allowDropPodRaidsInfo>
+<!-- ============ Game Start Settings =============-->
+<RW_playerVSworld>Joueur vs Tous</RW_playerVSworld>
+<RW_playerVSworldInfo>(Hard) Le choix de cette option de démarrage réduira les relations avec toutes les autres factions et toute faction avec -80 ou inférieur entrera immédiatement en guerre avec le joueur.</RW_playerVSworldInfo>
+<RW_randomizeFactionRelations>Randomize Faction Relations</RW_randomizeFactionRelations>
+<RW_randomizeFactionRelationsInfo>Randomise les relations entre toutes les factions. Aucune valeur par défaut n&apos;est utilisée. Les factions en permanence hostiles au joueur resteront hostiles. Les factions invisibles ne sont pas touchées. Les relations entre factions sont randomisées après le début du jeu.</RW_randomizeFactionRelationsInfo>
+<RW_useRimWarVictory>Ajouter Rim Rim War Rival et condition de victoire</RW_useRimWarVictory>
+<RW_useRimWarVictoryInfo>Ajoute une nouvelle condition de victoire pour détruire une faction ennemie. La faction est actuellement sélectionnée au hasard parmi les factions hostiles en permanence. * * Ne s&apos;applique qu&apos;au début d&apos;un nouveau jeu * *</RW_useRimWarVictoryInfo>
+<RW_randomizeFactionAttributes>Randomiser les attributs des factions</RW_randomizeFactionAttributes>
+<RW_randomizeFactionAttributesInfo>Les factions ont des attributs aléatoires qui augmentent ou diminuent leur puissance de combat, leur vitesse de déplacement et leur vitesse de croissance.</RW_randomizeFactionAttributesInfo>
+<RW_noPermanentEnemies>Pas d&apos;ennemis permanents</RW_noPermanentEnemies>
+<RW_noPermanentEnemiesInfo>Enlève l&apos;étiquette ennemie permanente de toutes les factions defs. Nécessite un redémarrage RimWorld avant de lancer un nouveau jeu.</RW_noPermanentEnemiesInfo>
+<!-- ============ Diplomacy Requests =============-->
+<RW_SendTrader>Envoyer Trader</RW_SendTrader>
+<RW_SendTraderDesc>Demande à une ville alliée d&apos;envoyer un commerçant dans une autre colonie. Coûte {0} et génère un trader avec {1} points de combat.</RW_SendTraderDesc>
+<RW_NotEnoughPointsToSendUnit>Pas assez de points pour envoyer {2} {0 }/{ 1}</RW_NotEnoughPointsToSendUnit>
+<RW_SendWarband>Envoyer Armée</RW_SendWarband>
+<RW_SendWarbandDesc>Demande à une ville alliée de mobiliser une Armée. Les bandes de guerre peuvent cibler des colonies ou d&apos;autres unités. Coûte {0} et génère une Armée avec {1} points de combat.</RW_SendWarbandDesc>
+<RW_SendScout>Envoyer Scout</RW_SendScout>
+<RW_SendScoutDesc>Demande à une ville alliée de mobiliser un groupe de scouts. Les scouts peuvent cibler des colonies ou d&apos;autres unités. Coûte {0} et génère un scout avec {1} points de combat.</RW_SendScoutDesc>
+<RW_LaunchWarband>Lancement Armée</RW_LaunchWarband>
+<RW_LaunchWarbandDesc>Demande à une ville alliée de lancer une Armée. Les bandes de guerre peuvent cibler des colonies ou d&apos;autres unités. Coûte {0} et génère une bande de combat avec {1} points de combat.</RW_LaunchWarbandDesc>
+<RW_SendCannotReach>Au-delà de la fourchette</RW_SendCannotReach>
+<RW_DestinationSettlementOnly>La destination doit être le règlement</RW_DestinationSettlementOnly>
+<RW_DestinationHostile>La destination est hostile</RW_DestinationHostile>
+<RW_FactionIncapableOfTech>{0} n&apos;a pas la technologie</RW_FactionIncapableOfTech>
+<RW_InvalidTarget>Cible invalide</RW_InvalidTarget>
+<RW_UnitCreationNotReady>Nouvelle unité disponible en {0} jours</RW_UnitCreationNotReady>
+<!-- ============ Diplomacy Requests - comms console =============-->
+<RW_InvalidRWD>Faction de guerre de Rim invalide</RW_InvalidRWD>
+<RW_NoTownForRequest>Impossibilité de fournir une assistance militaire faute de ressources suffisantes</RW_NoTownForRequest>
+<RW_RequestAddition>Partira de {0} et arrivera en ~ {1} jours</RW_RequestAddition>
+<RW_RequestScout>Demande Renforts scouts (- {0} coût des relations} Partiront de {1} avec {3} puissance de combat et arriveront en ~ {2} jours</RW_RequestScout>
+<RW_RequestWarband>Demander des renforts armés (- {0} coût des relations) Partira de {1} avec {3} puissance de combat et arrivera en ~ {2} jours</RW_RequestWarband>
+<RW_RequestLaunchedWarband>Demander une Armée aéroportée pour une assistance immédiate (- {0} coût des relations) Partira de {1} avec {3} puissance de combat et arrivera en ~ {2} jours</RW_RequestLaunchedWarband>
+<!-- ============ Diplomacy Actions =============-->
+<RW_DeclareWarWarning>Déclarer la guerre à une faction a les effets suivants : - la faction adverse sera fixée à l&apos;hostilité maximale et ne pourra être réduite pendant la guerre - la faction adverse sera plus susceptible d&apos;agir agressivement envers votre faction - toutes les factions alliées agiront plus agressivement à l&apos;égard de cette faction La guerre peut prendre fin par une déclaration de paix, mais cette option ne sera possible que si la faction du PCN est disposée à s&apos;engager dans la diplomatie.</RW_DeclareWarWarning>
+<RW_DeclarePeaceInfo>La paix devient possible lorsque la faction debout est de -75 ou plus. Position debout actuelle : {0}</RW_DeclarePeaceInfo>
+<RW_DeclarePeaceWarning>Déclarer la paix mettra fin à la guerre avec cette faction. - les armées ennemies marchant sur vos colonies ou les colonies alliées retourneront à la base - les factions alliées mettront fin aux actions agressives contre cette faction</RW_DeclarePeaceWarning>
+<RW_DeclareAllianceInfo>Une alliance formelle peut être conclue avec une faction lorsque la faction est un allié, et la faction ne peut être hostile à aucune autre faction alliée. Cette option est actuellement indisponible pour les raisons suivantes : {0}</RW_DeclareAllianceInfo>
+<RW_DeclareAllianceWarning>Déclarer une alliance formelle avec une faction a les effets suivants : - le joueur paie {0} en hommage ; cela sera automatiquement déduit si une alliance est déclarée - établit des relations maximales entre vous et toute autre faction alliée - les factions alliées enverront de plus en plus de caravanes commerciales, à moins que... - Les factions alliées concentreront leurs ressources sur la destruction des factions que vous êtes en guerre avec Une alliance formelle sera terminée par toute action hostile qui réduit les relations avec cette faction ci-dessous Allié</RW_DeclareAllianceWarning>
+<RW_Reason_NotAlly>Pas un allié</RW_Reason_NotAlly>
+<RW_Reason_NotEnoughTribute>Pas assez d&apos;argent pour l&apos;hommage : {0 }/{ 1}</RW_Reason_NotEnoughTribute>
+<RW_Reason_HostileTo>Hostile à {0}</RW_Reason_HostileTo>
+<RW_Reason_AlreadyAllied>Déjà allié</RW_Reason_AlreadyAllied>
+<!-- ============ Alerts =============-->
+<RW_NearbyWarObjects>Activité à proximité</RW_NearbyWarObjects>
+<RW_NearbyWarObjectsDesc>Une activité de faction a été observée près de votre établissement : {0}</RW_NearbyWarObjectsDesc>
+<!-- ============ Actions =============-->
+<RW_Attacking>
+</RW_Attacking>
+<RW_Scouting>
+</RW_Scouting>
+<RW_ReturningTo>retour à</RW_ReturningTo>
+<RW_Trading>commerce avec</RW_Trading>
+<RW_Diplomacy>s&apos;engager dans la diplomatie avec</RW_Diplomacy>
+<RW_EstablishingSettlement>établir un nouveau règlement</RW_EstablishingSettlement>
+<RW_AttackWarObject>Attaque {0}</RW_AttackWarObject>
+<RW_EngageWarObject>Interagir avec {0}</RW_EngageWarObject>
+<RW_engagingWarObject>Interaction avec {0}</RW_engagingWarObject>
+<RW_LetterBattle>Bataille sur le terrain</RW_LetterBattle>
+<RW_LetterBattleFailText>Une bataille impliquant {0} a entraîné la destruction mutuelle - tous les survivants restants ont abandonné leur faction.</RW_LetterBattleFailText>
+<RW_LetterBattleText>{0} avec une puissance de combat de {1} {2} {3} avec une puissance de combat de {4}.</RW_LetterBattleText>
+<RW_LetterSettlementBattle>Agression par règlement</RW_LetterSettlementBattle>
+<RW_LetterSettlementBattleText>{0} avec une puissance de combat de {1} {4} {2} avec une puissance de combat de {3}.</RW_LetterSettlementBattleText>
+<RW_LetterTradeEvent>Manifestation commerciale</RW_LetterTradeEvent>
+<RW_LetterTradeEventText>{0} avec une puissance commerciale de {1} {2} {3} avec une puissance commerciale de {4}.</RW_LetterTradeEventText>
+<RW_LetterSettlementEvent>Établissement</RW_LetterSettlementEvent>
+<RW_LetterSettlementEventText>{0} a établi un nouveau règlement avec {1} points.</RW_LetterSettlementEventText>
+<RW_LetterApproachingThreatEvent>Force hostile repérée</RW_LetterApproachingThreatEvent>
+<RW_LetterApproachingThreatEventText>Une puissance de combat hostile {0} avec {1} marche vers {2} {3}.</RW_LetterApproachingThreatEventText>
+<RW_LetterPlayerSettlementBattle>Assaut contre Player Colony</RW_LetterPlayerSettlementBattle>
+<RW_LetterSettlementDefense>Défendre le règlement</RW_LetterSettlementDefense>
+<RW_CaravanAmbush>{0} embuscade</RW_CaravanAmbush>
+<RW_CaravanAmbushedText>{0} a été embusqué par {1} avec {2} puissance de combat.</RW_CaravanAmbushedText>
+<RW_CaravanAttackedUnit>{0} a attaqué une unité {2} de {1}.</RW_CaravanAttackedUnit>
+<RW_RaidedPlayer>{0} a attaqué le règlement du joueur {1} avec une puissance de combat de {2}.</RW_RaidedPlayer>
+<RW_ReinforcedSettlement>Les guerriers voisins de {0} se rassemblent pour défendre {1}.</RW_ReinforcedSettlement>
+<RW_LetterPlayerSettlementReinforcement>Assaut contre Player Colony</RW_LetterPlayerSettlementReinforcement>
+<RW_ReinforcedPlayer>{0} a renforcé le règlement du joueur {1} avec une force de combat de {2} puissance.</RW_ReinforcedPlayer>
+<RW_CaravanTrade>Caravane Commerce</RW_CaravanTrade>
+<RW_CaravanTradeText>{0} échangé avec {1}</RW_CaravanTradeText>
+<RW_SettlementTrade>Commerce de règlement</RW_SettlementTrade>
+<RW_SettlementTradeText>{0} échangé avec {1}</RW_SettlementTradeText>
+<RW_SettlementUnderAttackText>Forces d&apos;attaque : {0}</RW_SettlementUnderAttackText>
+<RW_CaravanMeeting_TradeUnwilling>{0} vous voit avec une hostilité ouverte et n&apos;est pas disposé à commercer.</RW_CaravanMeeting_TradeUnwilling>
+<RW_CaravanMeeting_FactionIncapableOfTrade>Il n&apos;y a pas de traders définis pour cette faction - le trading est désactivé administrativement pour prévenir les erreurs.</RW_CaravanMeeting_FactionIncapableOfTrade>
+<RW_CaravanDemand_Friendly>{0} caravane a rencontré un groupe de {1} {2} de {3}. Ils sont en mission et attendent impatiemment votre demande.</RW_CaravanDemand_Friendly>
+<RW_CaravanDemand_GiveDisabled>{0}</RW_CaravanDemand_GiveDisabled>
+<RW_Attack_Verbatum>
+</RW_Attack_Verbatum>
+<RW_TilesAway_Verbatum> tuiles loin</RW_TilesAway_Verbatum>
+<RW_UnitCamped>Campé (repos)</RW_UnitCamped>
+<RW_CaravanDemand_DefendColony>Demande : défendre la colonie ; coût {0} argent</RW_CaravanDemand_DefendColony>
+<RW_CaravanDemand_DefendColonyDisabledDistance>trop loin</RW_CaravanDemand_DefendColonyDisabledDistance>
+<RW_CaravanDemand_DefendColonyDisabled>ne peut se permettre ({0})</RW_CaravanDemand_DefendColonyDisabled>
+<RW_CaravanDemand_AttackSettlement>Demande : règlement d&apos;attaque {1} coût {0} argent</RW_CaravanDemand_AttackSettlement>
+<RW_CaravanDemand_AttackSettlementNone>aucune colonie ennemie à proximité</RW_CaravanDemand_AttackSettlementNone>
+<RW_CaravanDemand_AttackSettlementDisabled>ne peut se permettre ({0})</RW_CaravanDemand_AttackSettlementDisabled>
+<RW_CaravanMeeting_TradeWithColony>Demande : commerce avec la colonie ; coût {0} argent</RW_CaravanMeeting_TradeWithColony>
+<RW_CaravanMeeting_TradeWithColonyDisabledDistance>trop loin</RW_CaravanMeeting_TradeWithColonyDisabledDistance>
+<RW_CaravanMeeting_TradeWithColonyDisabled>ne peut se permettre ({0})</RW_CaravanMeeting_TradeWithColonyDisabled>
+<RW_JoinBattle>Rejoignez la bataille</RW_JoinBattle>
+<RW_CaravanJoiningBattle>Rejoindre la bataille</RW_CaravanJoiningBattle>
+<RW_LetterLabelAttackBattleSite>La bataille de campagne s&apos;est jointe.</RW_LetterLabelAttackBattleSite>
+<RW_LetterAttackBattleSite>{0} est entré dans une bataille contre les forces suivantes : {1}.</RW_LetterAttackBattleSite>
+<RW_LetterDropOnBattleSite>Gousses de chute ont atterri sur une bataille avec {0}</RW_LetterDropOnBattleSite>
+<RW_CommandAttackBattleSite>Rejoignez la bataille</RW_CommandAttackBattleSite>
+<RW_CommandAttackBattleSiteDesc>Joignez-vous à une bataille libre pour tous entre les forces de lutte en terrain ouvert</RW_CommandAttackBattleSiteDesc>
+<RW_ReinforceSite>
+</RW_ReinforceSite>
+<RW_ReinforceShuttle>Renforcer {0} : Navette</RW_ReinforceShuttle>
+<RW_ReinforceAndDropAtEdge>Renforcer {0} : Tomber au bord</RW_ReinforceAndDropAtEdge>
+<RW_ReinforceAndDropInCenter>Renforcer {0} : Chute au centre</RW_ReinforceAndDropInCenter>
+<RW_ReinforceSiteDesc>Envoie des renforts sur une carte. Ne déclenche pas d&apos;hostilités. Disponible uniquement lorsqu&apos;un site amical ou neutre est attaqué par une faction hostile au joueur. Soyez prudent avec les dommages collatéraux, les factions amicales peuvent rapidement devenir hostiles dans une bataille chaotique.</RW_ReinforceSiteDesc>
+<RW_GiveSuppliesViaTransportPods>Donner comme fournitures de combat à {0} ({1})</RW_GiveSuppliesViaTransportPods>
+<RW_ConfirmTradersEnterDangerous>{0} cherche à commercer avec {1} mais s&apos;inquiète des conditions dangereuses : {2 }\n\nQue doivent-ils faire ?</RW_ConfirmTradersEnterDangerous>
+<RW_PermitTrader>Assurer la sécurité.</RW_PermitTrader>
+<RW_DelayTrader4>Attendez 4 heures.</RW_DelayTrader4>
+<RW_DelayTrader12>Attendez 12 heures.</RW_DelayTrader12>
+<RW_RejectTrader>Envoyer trader loin.</RW_RejectTrader>
+<RW_AssignRival>Set as Rival</RW_AssignRival>
+<RW_AssignRivalDesc>Change le rival du joueur à la faction de ce règlement.</RW_AssignRivalDesc>
+<RW_FactionIsRival> est votre rival - détruire toutes les unités et les colonies de cette faction pour obtenir la victoire.</RW_FactionIsRival>
+<RW_LetterReinforcementSuccessfulEvent>Renforcement réussi</RW_LetterReinforcementSuccessfulEvent>
+<RW_LetterReinforcementSuccessfulEventText>Les {0} étendent leur cœur grâce pour les aider à la défense de {1}. Les relations se sont améliorées de {2}.</RW_LetterReinforcementSuccessfulEventText>
+<!-- ============ Custom Letters =============-->
+<RW_VictoryChallengeLabel>Défi de la victoire de RimWar</RW_VictoryChallengeLabel>
+<RW_VictoryChallengeMessage>Votre arrivée sur la Rime a suscité l&apos;ire du {0}. Ils sont une faction impitoyable qui a brisé la solidarité de la planète - il ne peut y avoir de paix durable tant qu&apos;ils subsistent. Votre présence représente une menace pour leurs projets et ils vous chasseront jusqu&apos;à ce qu&apos;un seul d&apos;entre vous reste. Éliminez le {0} en détruisant toutes leurs colonies pour obtenir la victoire.</RW_VictoryChallengeMessage>
+<RW_VictoryAchieved>Victoire ! Les nouvelles ont répandu loin et large de votre victoire sur la vile {0} qui a apporté la paix à la Rive. Votre victoire n&apos;est pas un petit exploit ; le goût et le dévouement manifestés pendant votre Rim War seront à jamais rappelés dans les annales de l&apos;histoire. (Les statistiques de RimWar arrivent bientôt !)</RW_VictoryAchieved>
+<RW_DiplomacyLetter>Action diplomatique : {0}</RW_DiplomacyLetter>
+<RW_DiplomacyLabel_War>
+</RW_DiplomacyLabel_War>
+<RW_DiplomacyLabel_Peace>
+</RW_DiplomacyLabel_Peace>
+<RW_DiplomacyLabel_Alliance>
+</RW_DiplomacyLabel_Alliance>
+<RW_DiplomacyLabel_EndAlliance>Alliance brisée</RW_DiplomacyLabel_EndAlliance>
+<RW_DeclareWar>{0} a déclaré la guerre à {1} et ne reposera qu&apos;après avoir été victorieux.</RW_DeclareWar>
+<RW_DeclarePeace>{0} a mis fin à leur longue guerre avec {1} a établi un traité de paix.</RW_DeclarePeace>
+<RW_DeclareAlliance>{0} a forgé une alliance avec {1}.</RW_DeclareAlliance>
+<RW_DeclareAllianceEnd>{0} a mis fin à leur alliance avec {1}.</RW_DeclareAllianceEnd>
+</LanguageData>

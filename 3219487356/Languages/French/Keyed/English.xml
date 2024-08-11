@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+
+<!-- EN: Hunting Traps -->
+<HAZN_ModName>Pièges de chasse</HAZN_ModName>
+<!-- EN: Traps must be built on soil, dirt or sand -->
+<HAZN_NeedSoil>Les pièges doivent être construits sur du sol, de la terre ou du sable</HAZN_NeedSoil>
+<!-- EN: Hunting traps can not be built within 5 tiles of eachother -->
+<HAZN_NeedDistance>Les pièges de chasse ne peuvent pas être construits à moins de 5 tuiles l'un de l'autre</HAZN_NeedDistance>
+<!-- EN: {0} deconstructed due to terrain change -->
+<HAZN_Deconstructed>{0} déconstruit en raison d'un changement de terrain</HAZN_Deconstructed>
+
+<!--Options -->
+<!-- EN: Enable natural damage to the trap over time -->
+<HAZN_DisableTrapDamageOverTime>Activer les dégâts naturels au piège au fil du temps</HAZN_DisableTrapDamageOverTime>
+<!-- EN: Disable trap damage over time and when an animal is caught -->
+<HAZN_DisableTrapDamageOverTimeDesc>Désactiver les dégâts du piège au fil du temps et lorsqu'un animal est attrapé</HAZN_DisableTrapDamageOverTimeDesc>
+<!-- EN: Small trap -->
+<HAZN_HuntingTrap>Petit piège</HAZN_HuntingTrap>
+<!-- EN: Catch an animal every {0} hour(s) ({1} ticks):  -->
+<HAZN_SpawnInterval>Capture un animal toutes les {0} heure(s) ({1} ticks)</HAZN_SpawnInterval>
+<!-- EN: In game hours. -->
+<HAZN_SpawnIntervalToolTip>En heures de jeu.</HAZN_SpawnIntervalToolTip>
+<!-- EN: Trap may receive damage after {0} hour(s) ({1} ticks):  -->
+<HAZN_DmgInterval>Le piège peut recevoir des dégâts après {0} heure(s) ({1} ticks)</HAZN_DmgInterval>
+<!-- EN: Higher value means longer time between damage. In game hours. -->
+<HAZN_DmgIntervalToolTip>Une valeur plus élevée signifie un temps plus long entre les dégâts. En heures de jeu.</HAZN_DmgIntervalToolTip>
+<!-- EN: Default -->
+<HAZN_Default>Défaut</HAZN_Default>
+<!-- EN: Build radius: {0} cells -->
+<HAZN_BuildRadius>Rayon de construction : {0} cellules</HAZN_BuildRadius>
+<!-- EN: Auto trap rebuild -->
+<HAZN_AutoRebuild>Reconstruction automatique du piège</HAZN_AutoRebuild>
+<!-- EN: Place new blueprints after trap is destroyed -->
+<HAZN_AutoRebuildDesc>Placez de nouveaux plans après la destruction du piège</HAZN_AutoRebuildDesc>
+<!-- EN: Enable spawns -->
+<HAZN_AllowSpawn>Activer les apparitions</HAZN_AllowSpawn>
+<!-- EN: When disabled trap will not catch animals or receving damage over time -->
+<HAZN_AllowSpawnDesc>Lorsqu'il est désactivé, le piège ne capturera pas d'animaux et ne recevra pas de dégâts au fil du temps</HAZN_AllowSpawnDesc>
+<!-- EN: Disabled -->
+<HAZN_Disabled>Désactivé</HAZN_Disabled>
+<!-- EN: Select animals to block -->
+<HAZN_AnimalsToBlock>Sélectionnez les animaux à bloquer</HAZN_AnimalsToBlock>
+<!-- EN: Select animals to unblock -->
+<HAZN_BlockedAnimals>Sélectionnez les animaux à débloquer</HAZN_BlockedAnimals>
+
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Ferret -->
+  <ERN_Ferret.label>TODO</ERN_Ferret.label>
+  <!-- EN: Ferrets -->
+  <ERN_Ferret.labelPlural>TODO</ERN_Ferret.labelPlural>
+  <!-- EN: Ferret kit -->
+  <ERN_Ferret.lifeStages.Ferret_kit.label>TODO</ERN_Ferret.lifeStages.Ferret_kit.label>
+  <!-- EN: Ferret kits -->
+  <ERN_Ferret.lifeStages.Ferret_kit.labelPlural>TODO</ERN_Ferret.lifeStages.Ferret_kit.labelPlural>
+  
+</LanguageData>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <HAZN_ModName>Hunting Traps</HAZN_ModName>
+    <HAZN_NeedSoil>Traps must be built on soil, dirt or sand</HAZN_NeedSoil>
+    <HAZN_NeedDistance>Hunting traps can not be built within 5 tiles of eachother</HAZN_NeedDistance>
+    <HAZN_Deconstructed>{0} deconstructed due to terrain change</HAZN_Deconstructed>
+
+    <!--Options -->
+    <HAZN_DisableTrapDamageOverTime>Enable natural damage to the trap over time</HAZN_DisableTrapDamageOverTime>
+    <HAZN_DisableTrapDamageOverTimeDesc>Disable trap damage over time and when an animal is caught</HAZN_DisableTrapDamageOverTimeDesc>
+    <HAZN_HuntingTrap>Small trap</HAZN_HuntingTrap>
+    <HAZN_SpawnInterval>Catch an animal every {0} hour(s) ({1} ticks): </HAZN_SpawnInterval>
+    <HAZN_SpawnIntervalToolTip>In game hours.</HAZN_SpawnIntervalToolTip>
+    <HAZN_DmgInterval>Trap may receive damage after {0} hour(s) ({1} ticks): </HAZN_DmgInterval>
+    <HAZN_DmgIntervalToolTip>Higher value means longer time between damage. In game hours.</HAZN_DmgIntervalToolTip>
+    <HAZN_Default>Default</HAZN_Default>
+    <HAZN_BuildRadius>Build radius: {0} cells</HAZN_BuildRadius>
+    <HAZN_AutoRebuild>Auto trap rebuild</HAZN_AutoRebuild>
+    <HAZN_AutoRebuildDesc>Place new blueprints after trap is destroyed</HAZN_AutoRebuildDesc>
+    <HAZN_AllowSpawn>Enable spawns</HAZN_AllowSpawn>
+    <HAZN_AllowSpawnDesc>When disabled trap will not catch animals or receving damage over time</HAZN_AllowSpawnDesc>
+    <HAZN_Disabled>Disabled</HAZN_Disabled>
+	<HAZN_AnimalsToBlock>Select animals to block</HAZN_AnimalsToBlock>
+	<HAZN_BlockedAnimals>Select animals to unblock</HAZN_BlockedAnimals>
+</LanguageData>

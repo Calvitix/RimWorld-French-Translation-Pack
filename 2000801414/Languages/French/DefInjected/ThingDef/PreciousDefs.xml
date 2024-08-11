@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: diamond -->
+  <Z_Diamond.label>Diamant</Z_Diamond.label>
+  <!-- EN: A precious gem. Often used for ornaments and decorations. -->
+  <Z_Diamond.description>Une pierre précieuse. Souvent utilisée pour les ornementations et décorations.</Z_Diamond.description>
+  
+  <!-- EN: emerald -->
+  <Z_Emerald.label>Émeraude</Z_Emerald.label>
+  <!-- EN: A precious gem. Often used for ornaments and decorations. -->
+  <Z_Emerald.description>Une pierre précieuse. Souvent utilisée pour les ornementations et décorations.</Z_Emerald.description>
+  
+  <!-- EN: ruby -->
+  <Z_Ruby.label>Rubis</Z_Ruby.label>
+  <!-- EN: A precious gem. Often used for ornaments and decorations. -->
+  <Z_Ruby.description>Une pierre précieuse. Souvent utilisée pour les ornementations et décorations.</Z_Ruby.description>
+  
+  <!-- EN: sapphire -->
+  <Z_Sapphire.label>Saphire</Z_Sapphire.label>
+  <!-- EN: A precious gem. Often used for ornaments and decorations. -->
+  <Z_Sapphire.description>Une pierre précieuse. Souvent utilisée pour les ornementations et décorations.</Z_Sapphire.description>
+  
+</LanguageData>

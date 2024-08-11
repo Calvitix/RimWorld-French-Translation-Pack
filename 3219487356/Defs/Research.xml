@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Defs>
+	<ResearchTabDef>
+		<defName>HAZN_ResearchTab</defName>
+		<label>Hunting Traps</label>
+	</ResearchTabDef>
+  
+  	<ResearchProjectDef>
+		<defName>HAZN_SmallTrap</defName>
+		<label>Small trap</label>
+		<description>Research small hunting trap to passively catch small animals, must be baited with kibble or raw vegetables.</description>
+		<baseCost>100</baseCost>
+		<techLevel>Neolithic</techLevel>
+		<researchViewX>0</researchViewX>
+		<researchViewY>1</researchViewY>
+		<tab>HAZN_ResearchTab</tab>
+      <prerequisites>
+      <li>VFET_Hunting</li>
+    </prerequisites>		
+	</ResearchProjectDef>
+</Defs>

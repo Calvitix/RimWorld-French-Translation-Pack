@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>VBY_CarnivoreTeeth</defName>
+    <label>Dents de carnivore</label>
+    <description>Extraites du crâne de créatures carnivores, ces dents sont grandes et pointues.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/VBY_CarnivoreTeeth/VBY_CarnivoreTeeth</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>2</MarketValue>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.02</Mass>
+      <Flammability>0.01</Flammability>
+      <DeteriorationRate>0.03</DeteriorationRate>
+    </statBases>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>100</stackLimit>
+    <thingCategories>
+      <li>Items</li>
+    </thingCategories>
+    <tradeTags>
+      <li>ExoticMisc</li>
+    </tradeTags>
+  </ThingDef>
+
+</Defs>

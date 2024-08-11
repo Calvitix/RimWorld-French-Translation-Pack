@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<!--=============== Dust Devils ==============-->
+	<IncidentDef>
+		<defName>RG_DevilDusts</defName>
+		<label>tourbillons de poussières</label>
+		<letterLabel>Tourbillons de poussières</letterLabel>
+		<letterText>Un groupe de tourbillons puissants, bien formés et relativement éphémères s'est formé autour de la carte. Ils endommagent les animaux et les personnes qui s'y aventurent.</letterText>
+		<letterDef>NegativeEvent</letterDef>
+		<category>Misc</category>
+		<targetTags>
+			<li>Map_PlayerHome</li>
+		</targetTags>
+		<workerClass>ReGrowthCore.IncidentWorker_DevilDusts</workerClass>
+		<baseChance>0.8</baseChance>
+		<allowedBiomes>
+			<li>AridShrubland</li>
+			<li>Desert</li>
+			<li>ExtremeDesert</li>
+			<li MayRequire="zylle.MoreVanillaBiomes">ZBiome_DesertOasis</li>
+			<li MayRequire="zylle.MoreVanillaBiomes">ZBiome_Sandbar_NoBeach</li>
+			<li MayRequire="zylle.MoreVanillaBiomes">ZBiome_CoastalDunes</li>
+		</allowedBiomes>
+	</IncidentDef>
+</Defs>

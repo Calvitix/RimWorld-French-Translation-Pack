@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- FR: installer un patch auriculaire -->
+<InstallEarPatch.label>installer un patch auriculaire</InstallEarPatch.label>
+<!-- FR: Installe un patch auriculaire. -->
+<InstallEarPatch.description>Installe un patch auriculaire.</InstallEarPatch.description>
+<!-- FR: Installation du patch auriculaire. -->
+<InstallEarPatch.jobString>Installation du patch auriculaire.</InstallEarPatch.jobString>
+
+<!-- FR: installer un cache-œil -->
+<InstallEyePatch.label>installer un cache-œil</InstallEyePatch.label>
+<!-- FR: Installe un cache-œil. -->
+<InstallEyePatch.description>Installe un cache-œil.</InstallEyePatch.description>
+<!-- FR: Installation du cache-œil. -->
+<InstallEyePatch.jobString>Installation du cache-œil.</InstallEyePatch.jobString>
+
+<!-- FR: installer un bras en bois -->
+<InstallWoodenArm.label>installer un bras en bois</InstallWoodenArm.label>
+<!-- FR: Installe un bras en bois. -->
+<InstallWoodenArm.description>Installe un bras en bois.</InstallWoodenArm.description>
+<!-- FR: Installation du bras en bois. -->
+<InstallWoodenArm.jobString>Installation du bras en bois.</InstallWoodenArm.jobString>
+
+<!-- FR: installer un doigt en bois -->
+<InstallWoodenFinger.label>installer un doigt en bois</InstallWoodenFinger.label>
+<!-- FR: Installe un doigt en bois. -->
+<InstallWoodenFinger.description>Installe un doigt en bois.</InstallWoodenFinger.description>
+<!-- FR: Installation du doigt en bois. -->
+<InstallWoodenFinger.jobString>Installation du doigt en bois.</InstallWoodenFinger.jobString>
+
+<!-- FR: installer un nez en bois -->
+<InstallWoodenNose.label>installer un nez en bois</InstallWoodenNose.label>
+<!-- FR: Installe un nez en bois. -->
+<InstallWoodenNose.description>Installe un nez en bois.</InstallWoodenNose.description>
+<!-- FR: Installation du nez en bois. -->
+<InstallWoodenNose.jobString>Installation du nez en bois.</InstallWoodenNose.jobString>
+
+<!-- FR: installer un orteil en bois -->
+<InstallWoodenToe.label>installer un orteil en bois</InstallWoodenToe.label>
+<!-- FR: Installe un orteil en bois. -->
+<InstallWoodenToe.description>Installe un orteil en bois.</InstallWoodenToe.description>
+<!-- FR: Installation de l'orteil en bois. -->
+<InstallWoodenToe.jobString>Installation de l'orteil en bois.</InstallWoodenToe.jobString>
+  
+</LanguageData>

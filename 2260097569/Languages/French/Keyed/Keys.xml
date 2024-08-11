@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<RG.SpawnAutumnLeaves>Activer l'apparition de saletés de feuilles d'automne.</RG.SpawnAutumnLeaves>
+<RG.SpawnLeaves>Activer l'apparition de feuilles de tremble.</RG.SpawnLeaves>
+<RG.ColdFog>Brouillard froid</RG.ColdFog>
+<RG.IceLayer>Couche de glace</RG.IceLayer>
+<RG.RainWaterPuddles>Flaques d'eau de pluie</RG.RainWaterPuddles>
+<RG.RainCleanWaterPuddles>Flaques d'eau propre</RG.RainCleanWaterPuddles>
+<RG.FogVelocity>Vitesse du brouillard</RG.FogVelocity>
+<RG.FogTemp>Température du brouillard</RG.FogTemp>
+<RG.PuddleChance>Probabilité d'apparition de flaques</RG.PuddleChance>
+<RG.SpawnFogOnHotSprings>Apparition de brouillards sur les sources chaudes</RG.SpawnFogOnHotSprings>
+<RG.SandDevilLeftTheMap>Le diable de sable a quitté la carte.</RG.SandDevilLeftTheMap>
+<RG.SandDevilDissipated>Le diable de sable s'est dissipé.</RG.SandDevilDissipated>
+<RG.DisableHailDamage>Désactiver les dégâts de grêle</RG.DisableHailDamage>
+<RG.BatheZone>Zone de baignade</RG.BatheZone>
+<RG.DesignatorBatheZoneDesc>Créer une zone où vos colons sont autorisés à se baigner dans l'eau.</RG.DesignatorBatheZoneDesc>
+<RG.StoppedBathingMessage>{PAWN_nameDef} a arrêté de se baigner. Raison : {1}.</RG.StoppedBathingMessage>
+<RG.TooCold>Température trop basse.</RG.TooCold>
+<RG.TooHot>Température trop élevée.</RG.TooHot>
+<RG.BathingIsNotPossible>La baignade n'est pas possible : {0}</RG.BathingIsNotPossible>
+<RG.BathingSeasonIsHere>La saison de baignade est arrivée !</RG.BathingSeasonIsHere>
+<RG.BathingZoneRemoved>La zone de baignade est supprimée.</RG.BathingZoneRemoved>
+<RG.BathingPeriod>Période de baignade : {0}/{1} jours ({2} - {3})</RG.BathingPeriod>
+<RG.MessagePlantDiedOfHeat>{0} est mort à cause de la chaleur.</RG.MessagePlantDiedOfHeat>
+<PerspectiveOres.Settings.Header>Tout élément coché ici sera modifié.</PerspectiveOres.Settings.Header>
+<RG.EnableMakeCamp>Activer la fonctionnalité "Faire un camp"</RG.EnableMakeCamp>
+<RG.EnableMakeCampDesc>Activez cette option pour permettre aux caravanes de joueurs de créer des camps temporaires sur la carte du monde.</RG.EnableMakeCampDesc>
+<RG.MakeCamp>Faire un camp</RG.MakeCamp>
+<RG.MakeCampDesc>Créer un camp temporaire dans cette zone. Vos colons entreront dans cette zone et vous pourrez chercher de la nourriture, construire des structures simples, préparer une attaque ou planifier votre prochaine action.</RG.MakeCampDesc>
+<RG.PreserveSavedCamps>Période de préservation de la carte du camp</RG.PreserveSavedCamps>
+<RG.PreserveSavedCampsDesc>Après avoir quitté votre camp, la carte locale est sauvegardée pendant un certain temps. Cela vous permet de revenir si vous avez oublié quelque chose et empêche la triche. Ajustez la période de préservation après laquelle les cartes sauvegardées doivent être générées à nouveau.</RG.PreserveSavedCampsDesc>
+</LanguageData>

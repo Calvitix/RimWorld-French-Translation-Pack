@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Deep salt water -->
+  <SaltWaterDeep.label>Eaux salées profondes</SaltWaterDeep.label>
+  <!-- EN: Shallow salt water -->
+  <SaltWaterShallow.label>Eaux salées peu profondes</SaltWaterShallow.label>
+  <!-- EN: Moderate salt water -->
+  <SaltWaterModerate.label>Eaux salées modérées</SaltWaterModerate.label>
+</LanguageData>

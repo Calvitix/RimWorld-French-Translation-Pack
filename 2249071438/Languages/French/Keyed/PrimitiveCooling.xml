@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<PrimitiveCooling.InternalTemperature>Température cible interne</PrimitiveCooling.InternalTemperature>
+	<PrimitiveCooling.CurrentTemperature>Température interne de stockage</PrimitiveCooling.CurrentTemperature>
+	<CannotDigTooClose>Impossible de creuser ici.\nTrop proche d'autres sites de stockage souterrain.</CannotDigTooClose>
+</LanguageData>

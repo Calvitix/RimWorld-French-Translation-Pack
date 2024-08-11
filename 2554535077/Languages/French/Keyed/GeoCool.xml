@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Restore Default Settings -->
+  <GeoCool.RestoreDefaults>TODO</GeoCool.RestoreDefaults>
+	<!-- EN: Any changes to settings requires a game restart to take effect. -->
+  <GeoCool.SettingsRequireRestart>TODO</GeoCool.SettingsRequireRestart>
+	<!-- EN: Geothermal Cooler -->
+  <GeoCool.CoolerHeader>TODO</GeoCool.CoolerHeader>
+	<!-- EN: Geothermal Freezer -->
+  <GeoCool.FreezerHeader>TODO</GeoCool.FreezerHeader>
+	<!-- EN: Heat Per Second: {0} -->
+  <GeoCool.HeatPerSecond>TODO</GeoCool.HeatPerSecond>
+	<!-- EN: Minimum Temperature: {0} -->
+  <GeoCool.MinTemperature>TODO</GeoCool.MinTemperature>
+	<!-- EN: Fuel Enabled -->
+  <GeoCool.FuelEnabled>TODO</GeoCool.FuelEnabled>
+	<!-- EN: Fuel Consumption Rate: {0} -->
+  <GeoCool.FuelConsumptionRate>TODO</GeoCool.FuelConsumptionRate>
+</LanguageData>

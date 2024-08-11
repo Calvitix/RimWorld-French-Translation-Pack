@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deep vein mining -->
+  <MODeepMining.label>exploitation minière en profondeur</MODeepMining.label>
+  <!-- EN: Learn to dig deeper, and prospect the land for likely dig sites. You'll need to bring a bird to test for poisonous underground gasses. -->
+  <MODeepMining.description>Apprenez à creuser plus profondément et à prospecter le terrain pour trouver des sites de fouille probables. Vous devrez apporter un oiseau pour tester les gaz souterrains toxiques.</MODeepMining.description>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: potter's wheel -->
+  <DV_ClayTurningTable.label>roue de potier</DV_ClayTurningTable.label>
+  <!-- EN: A work station equipped with a flat spinning wheel for making clay pottery. -->
+  <DV_ClayTurningTable.description>Poste de travail équipé d'un rouet plat pour la fabrication de poteries en argile.</DV_ClayTurningTable.description>
+  
+  <!-- EN: clay-turning table -->
+  <DV_IndustrialClayTurningTable.label>table de tournage d'argile</DV_IndustrialClayTurningTable.label>
+  <!-- EN: An electric work station equipped with a flat spinning wheel for making clay pottery. -->
+  <DV_IndustrialClayTurningTable.description>Poste de travail électrique équipé d'un rouet plat pour la fabrication de poteries en argile.</DV_IndustrialClayTurningTable.description>
+  
+</LanguageData>

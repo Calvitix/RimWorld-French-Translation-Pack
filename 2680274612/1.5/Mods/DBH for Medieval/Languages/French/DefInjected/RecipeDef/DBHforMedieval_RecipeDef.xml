@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ES_PumpWater.label>pomper de l'eau</ES_PumpWater.label>
+<ES_PumpWater.description>L'eau est stockée du puits au réservoir raccordé uniquement pendant le temps de travail.\n\n(L'efficacité du pompage dépend de la manipulation et représente environ 7 à 8 litres par tâche).</ES_PumpWater.description>
+<ES_PumpWater.jobString>Pompe de l'eau.</ES_PumpWater.jobString>
+
+<ES_MakeFilter.label>fabriquer un filtre</ES_MakeFilter.label>
+<ES_MakeFilter.description>Fabriquer un filtre pour le dispositif de filtration.</ES_MakeFilter.description>
+<ES_MakeFilter.ingredients.0.filter.customSummary>tissu</ES_MakeFilter.ingredients.0.filter.customSummary>
+<ES_MakeFilter.jobString>Fabrique le filtre.</ES_MakeFilter.jobString>
+
+<ES_MakeFilter_Bulk.label>fabriquer des filtres x4</ES_MakeFilter_Bulk.label>
+<ES_MakeFilter_Bulk.description>Fabriquer 4 filtres pour le dispositif de filtration.</ES_MakeFilter_Bulk.description>
+<ES_MakeFilter_Bulk.ingredients.0.filter.customSummary>tissu</ES_MakeFilter_Bulk.ingredients.0.filter.customSummary>
+<ES_MakeFilter_Bulk.jobString>Fabrique les filtres.</ES_MakeFilter_Bulk.jobString>
+
+
+</LanguageData>

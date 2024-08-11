@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: rescue prisoners -->
+  <RescuePrisoners.label>TODO</RescuePrisoners.label>
+  
+  <!-- EN: start with allies -->
+  <StartAllies.label>TODO</StartAllies.label>
+  
+  <!-- EN: start near a citadel (RimCities) -->
+  <StartCitadel.label>TODO</StartCitadel.label>
+  
+  <!-- EN: start in a city (RimCities) -->
+  <StartCity.label>TODO</StartCity.label>
+  
+  <!-- EN: elite colonists -->
+  <StartElite.label>TODO</StartElite.label>
+  
+  <!-- EN: give each pawn -->
+  <StartEquipment.label>TODO</StartEquipment.label>
+  
+</LanguageData>

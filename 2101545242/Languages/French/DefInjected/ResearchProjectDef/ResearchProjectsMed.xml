@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Membres parésiens -->
+  <AmbroisenLimbs.label>Membres parésiens</AmbroisenLimbs.label>
+  <!-- EN: L'ingénierie et l'artisanat incroyables utilisés dans la tangente ont permis de créer des membres élégants qui sont à la hauteur des membres naturels. Ces membres coûtent cher en temps et en ressources. Les membres parésiens peuvent être fabriqués dans une forge alimentée. -->
+  <AmbroisenLimbs.description>L'ingénierie et l'artisanat incroyables utilisés dans la tangente ont permis de créer des membres élégants qui sont à la hauteur des membres naturels. Ces membres coûtent cher en temps et en ressources. Les membres parésiens peuvent être fabriqués dans une forge alimentée.</AmbroisenLimbs.description>
+  
+  <!-- EN: Membres Artificiels -->
+  <ArtificialLimbs.label>Membres artificiels</ArtificialLimbs.label>
+  <!-- EN: Ils ne sont pas encore très raffinés, mais ils sont meilleurs que les membres de mauvaise qualité qui les ont précédés. Les membres artificiels peuvent désormais être fabriqués dans un lieu d'assemblage. -->
+  <ArtificialLimbs.description>Ils ne sont pas encore très raffinés, mais ils sont meilleurs que les membres de mauvaise qualité qui les ont précédés. Les membres artificiels peuvent désormais être fabriqués dans un lieu d'assemblage.</ArtificialLimbs.description>
+  
+  <!-- EN: Membres grossiers -->
+  <CrudeLimbs.label>Membres grossiers de remplacement</CrudeLimbs.label>
+  <!-- EN: Basiques, inconfortables et inefficaces, mais c'est mieux que rien. Il est désormais possible de fabriquer des membres de remplacement de mauvaise qualité dans un lieu d'assemblage. -->
+  <CrudeLimbs.description>Basiques, inconfortables et inefficaces, mais c'est mieux que rien. Il est désormais possible de fabriquer des membres de remplacement de mauvaise qualité dans un lieu d'assemblage.</CrudeLimbs.description>
+  
+  <!-- EN: Prothèses Mécaniques -->
+  <MechanicalLimbs.label>Prothèses Mécaniques</MechanicalLimbs.label>
+  <!-- EN: Des membres fabriqués de manière complexe, avec de nombreuses poulies et engrenages. Bien qu'il s'agisse d'une grande amélioration, la mécanique du corps humain est difficile à reproduire. Les membres mécaniques peuvent être fabriqués dans une forge alimentée. -->
+  <MechanicalLimbs.description>Des membres fabriqués de manière complexe, avec de nombreuses poulies et engrenages. Bien qu'il s'agisse d'une grande amélioration, la mécanique du corps humain est difficile à reproduire. Les membres mécaniques peuvent être fabriqués dans une forge alimentée.</MechanicalLimbs.description>
+  
+</LanguageData>

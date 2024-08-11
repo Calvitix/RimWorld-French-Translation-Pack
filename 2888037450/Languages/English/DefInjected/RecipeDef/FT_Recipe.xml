@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 混凝土攪拌機 -->
+
+  <FT_Make_ConcreteByChunk.label>make Concrete from chunk</FT_Make_ConcreteByChunk.label>
+  <FT_Make_ConcreteByChunk.description>crush chunks and made into Concrete.</FT_Make_ConcreteByChunk.description>
+  <FT_Make_ConcreteByChunk.jobString>making Concrete from material</FT_Make_ConcreteByChunk.jobString>
+
+  <FT_Make_ConcreteByBlock.label>make Concrete</FT_Make_ConcreteByBlock.label>
+  <FT_Make_ConcreteByBlock.description>crush blocks and made into concrete.</FT_Make_ConcreteByBlock.description>
+  <FT_Make_ConcreteByBlock.jobString>making Concrete from material</FT_Make_ConcreteByBlock.jobString>
+
+
+</LanguageData>

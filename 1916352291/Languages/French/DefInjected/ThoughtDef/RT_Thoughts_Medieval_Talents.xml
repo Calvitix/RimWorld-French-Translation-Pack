@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+<!-- FR: Talent : Aventurier -->
+<MoodOffsetAdventurer.stages.Talent_Adventurer.label>Talent : Aventurier</MoodOffsetAdventurer.stages.Talent_Adventurer.label>
+<!-- FR: Bonus naturel du trait 'Aventurier'. -->
+<MoodOffsetAdventurer.stages.Talent_Adventurer.description>Bonus naturel du trait 'Aventurier'.</MoodOffsetAdventurer.stages.Talent_Adventurer.description>
+
+<!-- FR: Talent : Architecte -->
+<MoodOffsetArchitect.stages.Talent_Architect.label>Talent : Architecte</MoodOffsetArchitect.stages.Talent_Architect.label>
+<!-- FR: Bonus naturel du trait 'Architecte'. -->
+<MoodOffsetArchitect.stages.Talent_Architect.description>Bonus naturel du trait 'Architecte'.</MoodOffsetArchitect.stages.Talent_Architect.description>
+
+<!-- FR: Talent : Armurier -->
+<MoodOffsetArmourer.stages.Talent_Armourer.label>Talent : Armurier</MoodOffsetArmourer.stages.Talent_Armourer.label>
+<!-- FR: Bonus naturel du trait 'Armurier'. -->
+<MoodOffsetArmourer.stages.Talent_Armourer.description>Bonus naturel du trait 'Armurier'.</MoodOffsetArmourer.stages.Talent_Armourer.description>
+
+<!-- FR: Talent : Artiste -->
+<MoodOffsetArtist.stages.Talent_Artist.label>Talent : Artiste</MoodOffsetArtist.stages.Talent_Artist.label>
+<!-- FR: Bonus naturel du trait 'Artiste'. -->
+<MoodOffsetArtist.stages.Talent_Artist.description>Bonus naturel du trait 'Artiste'.</MoodOffsetArtist.stages.Talent_Artist.description>
+
+<!-- FR: Talent : Archer -->
+<MoodOffsetBowman.stages.Talent_Bowman.label>Talent : Archer</MoodOffsetBowman.stages.Talent_Bowman.label>
+<!-- FR: Bonus naturel du trait 'Archer'. -->
+<MoodOffsetBowman.stages.Talent_Bowman.description>Bonus naturel du trait 'Archer'.</MoodOffsetBowman.stages.Talent_Bowman.description>
+
+<!-- FR: Talent : Constructeur -->
+<MoodOffsetBuilder.stages.Talent_Builder.label>Talent : Constructeur</MoodOffsetBuilder.stages.Talent_Builder.label>
+<!-- FR: Bonus naturel du trait 'Constructeur'. -->
+<MoodOffsetBuilder.stages.Talent_Builder.description>Bonus naturel du trait 'Constructeur'.</MoodOffsetBuilder.stages.Talent_Builder.description>
+
+<!-- FR: Talent : Boucher -->
+<MoodOffsetButcher.stages.Talent_Butcher.label>Talent : Boucher</MoodOffsetButcher.stages.Talent_Butcher.label>
+<!-- FR: Bonus naturel du trait 'Boucher'. -->
+<MoodOffsetButcher.stages.Talent_Butcher.description>Bonus naturel du trait 'Boucher'.</MoodOffsetButcher.stages.Talent_Butcher.description>
+
+<!-- FR: Talent : Chef -->
+<MoodOffsetChef.stages.Talent_Chef.label>Talent : Chef</MoodOffsetChef.stages.Talent_Chef.label>
+<!-- FR: Bonus naturel du trait 'Chef'. -->
+<MoodOffsetChef.stages.Talent_Chef.description>Bonus naturel du trait 'Chef'.</MoodOffsetChef.stages.Talent_Chef.description>
+
+<!-- FR: Talent : Cuisinier -->
+<MoodOffsetCook.stages.Talent_Cook.label>Talent : Cuisinier</MoodOffsetCook.stages.Talent_Cook.label>
+<!-- FR: Bonus naturel du trait 'Cuisinier'. -->
+<MoodOffsetCook.stages.Talent_Cook.description>Bonus naturel du trait 'Cuisinier'.</MoodOffsetCook.stages.Talent_Cook.description>
+
+<!-- FR: Talent : Imitateur -->
+<MoodOffsetCopycat.stages.Talent_Copycat.label>Talent : Imitateur</MoodOffsetCopycat.stages.Talent_Copycat.label>
+<!-- FR: Bonus naturel du trait 'Imitateur'. -->
+<MoodOffsetCopycat.stages.Talent_Copycat.description>Bonus naturel du trait 'Imitateur'.</MoodOffsetCopycat.stages.Talent_Copycat.description>
+
+<!-- FR: Talent : Ingénieur -->
+<MoodOffsetEngineer.stages.Talent_Engineer.label>Talent : Ingénieur</MoodOffsetEngineer.stages.Talent_Engineer.label>
+<!-- FR: Bonus naturel du trait 'Ingénieur'. -->
+<MoodOffsetEngineer.stages.Talent_Engineer.description>Bonus naturel du trait 'Ingénieur'.</MoodOffsetEngineer.stages.Talent_Engineer.description>
+
+<!-- FR: Talent : Fermier -->
+<MoodOffsetFarmer.stages.Talent_Farmer.label>Talent : Fermier</MoodOffsetFarmer.stages.Talent_Farmer.label>
+<!-- FR: Bonus naturel du trait 'Fermier'. -->
+<MoodOffsetFarmer.stages.Talent_Farmer.description>Bonus naturel du trait 'Fermier'.</MoodOffsetFarmer.stages.Talent_Farmer.description>
+
+<!-- FR: Talent : Fabricant de flèches -->
+<MoodOffsetFletcher.stages.Talent_Fletcher.label>Talent : Fabricant de flèches</MoodOffsetFletcher.stages.Talent_Fletcher.label>
+<!-- FR: Bonus naturel du trait 'Fabricant de flèches'. -->
+<MoodOffsetFletcher.stages.Talent_Fletcher.description>Bonus naturel du trait 'Fabricant de flèches'.</MoodOffsetFletcher.stages.Talent_Fletcher.description>
+
+<!-- FR: Talent : Jardinier -->
+<MoodOffsetGroundskeeper.stages.Talent_Groundskeeper.label>Talent : Jardinier</MoodOffsetGroundskeeper.stages.Talent_Groundskeeper.label>
+<!-- FR: Bonus naturel du trait 'Jardinier'. -->
+<MoodOffsetGroundskeeper.stages.Talent_Groundskeeper.description>Bonus naturel du trait 'Jardinier'.</MoodOffsetGroundskeeper.stages.Talent_Groundskeeper.description>
+
+<!-- FR: Talent : Héraut -->
+<MoodOffsetHerald.stages.Talent_Herald.label>Talent : Héraut</MoodOffsetHerald.stages.Talent_Herald.label>
+<!-- FR: Bonus naturel du trait 'Héraut'. -->
+<MoodOffsetHerald.stages.Talent_Herald.description>Bonus naturel du trait 'Héraut'.</MoodOffsetHerald.stages.Talent_Herald.description>
+
+<!-- FR: Talent : Herboriste -->
+<MoodOffsetHerbalist.stages.Talent_Herbalist.label>Talent : Herboriste</MoodOffsetHerbalist.stages.Talent_Herbalist.label>
+<!-- FR: Bonus naturel du trait 'Herboriste'. -->
+<MoodOffsetHerbalist.stages.Talent_Herbalist.description>Bonus naturel du trait 'Herboriste'.</MoodOffsetHerbalist.stages.Talent_Herbalist.description>
+
+<!-- FR: Talent : Berger -->
+<MoodOffsetHerder.stages.Talent_Herder.label>Talent : Berger</MoodOffsetHerder.stages.Talent_Herder.label>
+<!-- FR: Bonus naturel du trait 'Berger'. -->
+<MoodOffsetHerder.stages.Talent_Herder.description>Bonus naturel du trait 'Berger'.</MoodOffsetHerder.stages.Talent_Herder.description>
+
+<!-- FR: Talent : Héros -->
+<MoodOffsetHero.stages.Talent_Hero.label>Talent : Héros</MoodOffsetHero.stages.Talent_Hero.label>
+<!-- FR: Bonus naturel du trait 'Héros'. -->
+<MoodOffsetHero.stages.Talent_Hero.description>Bonus naturel du trait 'Héros'.</MoodOffsetHero.stages.Talent_Hero.description>
+
+<!-- FR: Talent : Chasseur -->
+<MoodOffsetHunter.stages.Talent_Hunter.label>Talent : Chasseur</MoodOffsetHunter.stages.Talent_Hunter.label>
+<!-- FR: Bonus naturel du trait 'Chasseur'. -->
+<MoodOffsetHunter.stages.Talent_Hunter.description>Bonus naturel du trait 'Chasseur'.</MoodOffsetHunter.stages.Talent_Hunter.description>
+
+<!-- FR: Talent : Touche-à-tout -->
+<MoodOffsetJackOfAllTrades.stages.Talent_Jackofalltrades.label>Talent : Touche-à-tout</MoodOffsetJackOfAllTrades.stages.Talent_Jackofalltrades.label>
+<!-- FR: Bonus naturel du trait 'Touche-à-tout'. -->
+<MoodOffsetJackOfAllTrades.stages.Talent_Jackofalltrades.description>Bonus naturel du trait 'Touche-à-tout'.</MoodOffsetJackOfAllTrades.stages.Talent_Jackofalltrades.description>
+
+<!-- FR: Talent : Aide-cuisinier -->
+<MoodOffsetKitchenhand.stages.Talent_Kitchenhand.label>Talent : Aide-cuisinier</MoodOffsetKitchenhand.stages.Talent_Kitchenhand.label>
+<!-- FR: Bonus naturel du trait 'Aide-cuisinier'. -->
+<MoodOffsetKitchenhand.stages.Talent_Kitchenhand.description>Bonus naturel du trait 'Aide-cuisinier'.</MoodOffsetKitchenhand.stages.Talent_Kitchenhand.description>
+
+<!-- FR: Talent : Mineur -->
+<MoodOffsetMiner.stages.Talent_Miner.label>Talent : Mineur</MoodOffsetMiner.stages.Talent_Miner.label>
+<!-- FR: Bonus naturel du trait 'Mineur'. -->
+<MoodOffsetMiner.stages.Talent_Miner.description>Bonus naturel du trait 'Mineur'.</MoodOffsetMiner.stages.Talent_Miner.description>
+
+<!-- FR: Pas de talent -->
+<MoodOffsetNoTalent.stages.No_Talent.label>Pas de talent</MoodOffsetNoTalent.stages.No_Talent.label>
+<!-- FR: Bonus naturel du trait 'Pas de talent'. -->
+<MoodOffsetNoTalent.stages.No_Talent.description>Bonus naturel du trait 'Pas de talent'.</MoodOffsetNoTalent.stages.No_Talent.description>
+
+<!-- FR: Talent : Philosophe -->
+<MoodOffsetPhilosopher.stages.Talent_Philosopher.label>Talent : Philosophe</MoodOffsetPhilosopher.stages.Talent_Philosopher.label>
+<!-- FR: Bonus naturel du trait 'Philosophe'. -->
+<MoodOffsetPhilosopher.stages.Talent_Philosopher.description>Bonus naturel du trait 'Philosophe'.</MoodOffsetPhilosopher.stages.Talent_Philosopher.description>
+
+<!-- FR: Talent : Médecin -->
+<MoodOffsetPhysician.stages.Talent_Physician.label>Talent : Médecin</MoodOffsetPhysician.stages.Talent_Physician.label>
+<!-- FR: Bonus naturel du trait 'Médecin'. -->
+<MoodOffsetPhysician.stages.Talent_Physician.description>Bonus naturel du trait 'Médecin'.</MoodOffsetPhysician.stages.Talent_Physician.description>
+
+<!-- FR: Talent : Recruteur -->
+<MoodOffsetRecruiter.stages.Talent_Recruiter.label>Talent : Recruteur</MoodOffsetRecruiter.stages.Talent_Recruiter.label>
+<!-- FR: Bonus naturel du trait 'Recruteur'. -->
+<MoodOffsetRecruiter.stages.Talent_Recruiter.description>Bonus naturel du trait 'Recruteur'.</MoodOffsetRecruiter.stages.Talent_Recruiter.description>
+
+<!-- FR: Talent : Savant -->
+<MoodOffsetScholar.stages.Talent_Scholar.label>Talent : Savant</MoodOffsetScholar.stages.Talent_Scholar.label>
+<!-- FR: Bonus naturel du trait 'Savant'. -->
+<MoodOffsetScholar.stages.Talent_Scholar.description>Bonus naturel du trait 'Savant'.</MoodOffsetScholar.stages.Talent_Scholar.description>
+
+<!-- FR: Talent : Éclaireur -->
+<MoodOffsetScout.stages.Talent_Scout.label>Talent : Éclaireur</MoodOffsetScout.stages.Talent_Scout.label>
+<!-- FR: Bonus naturel du trait 'Éclaireur'. -->
+<MoodOffsetScout.stages.Talent_Scout.description>Bonus naturel du trait 'Éclaireur'.</MoodOffsetScout.stages.Talent_Scout.description>
+
+<!-- FR: Talent : Forgeron -->
+<MoodOffsetSmith.stages.Talent_Smith.label>Talent : Forgeron</MoodOffsetSmith.stages.Talent_Smith.label>
+<!-- FR: Bonus naturel du trait 'Forgeron'. -->
+<MoodOffsetSmith.stages.Talent_Smith.description>Bonus naturel du trait 'Forgeron'.</MoodOffsetSmith.stages.Talent_Smith.description>
+
+<!-- FR: Talent : Chirurgien -->
+<MoodOffsetSurgeon.stages.Talent_Surgeon.label>Talent : Chirurgien</MoodOffsetSurgeon.stages.Talent_Surgeon.label>
+<!-- FR: Bonus naturel du trait 'Chirurgien'. -->
+<MoodOffsetSurgeon.stages.Talent_Surgeon.description>Bonus naturel du trait 'Chirurgien'.</MoodOffsetSurgeon.stages.Talent_Surgeon.description>
+
+<!-- FR: Talent : Épéiste -->
+<MoodOffsetSwordsman.stages.Talent_Swordsman.label>Talent : Épéiste</MoodOffsetSwordsman.stages.Talent_Swordsman.label>
+<!-- FR: Bonus naturel du trait 'Épéiste'. -->
+<MoodOffsetSwordsman.stages.Talent_Swordsman.description>Bonus naturel du trait 'Épéiste'.</MoodOffsetSwordsman.stages.Talent_Swordsman.description>
+
+<!-- FR: Talent : Tailleur -->
+<MoodOffsetTailor.stages.Talent_Tailor.label>Talent : Tailleur</MoodOffsetTailor.stages.Talent_Tailor.label>
+<!-- FR: Bonus naturel du trait 'Tailleur'. -->
+<MoodOffsetTailor.stages.Talent_Tailor.description>Bonus naturel du trait 'Tailleur'.</MoodOffsetTailor.stages.Talent_Tailor.description>
+
+<!-- FR: Talent : Marchand -->
+<MoodOffsetTrader.stages.Talent_Trader.label>Talent : Marchand</MoodOffsetTrader.stages.Talent_Trader.label>
+<!-- FR: Bonus naturel du trait 'Marchand'. -->
+<MoodOffsetTrader.stages.Talent_Trader.description>Bonus naturel du trait 'Marchand'.</MoodOffsetTrader.stages.Talent_Trader.description>
+
+<!-- FR: Talent : Vétérinaire -->
+<MoodOffsetVeterinarian.stages.Talent_Veterinarian.label>Talent : Vétérinaire</MoodOffsetVeterinarian.stages.Talent_Veterinarian.label>
+<!-- FR: Bonus naturel du trait 'Vétérinaire'. -->
+<MoodOffsetVeterinarian.stages.Talent_Veterinarian.description>Bonus naturel du trait 'Vétérinaire'.</MoodOffsetVeterinarian.stages.Talent_Veterinarian.description>
+
+<!-- FR: Talent : Maître d'armes -->
+<MoodOffsetWeaponsMaster.stages.Talent_Weapons_Master.label>Talent : Maître d'armes</MoodOffsetWeaponsMaster.stages.Talent_Weapons_Master.label>
+<!-- FR: Bonus naturel du trait 'Maître d'armes'. -->
+<MoodOffsetWeaponsMaster.stages.Talent_Weapons_Master.description>Bonus naturel du trait 'Maître d'armes'.</MoodOffsetWeaponsMaster.stages.Talent_Weapons_Master.description>
+
+</LanguageData>

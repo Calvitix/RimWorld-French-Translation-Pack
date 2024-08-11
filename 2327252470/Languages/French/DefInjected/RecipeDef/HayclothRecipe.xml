@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: tresser 5 toiles de foin -->
+  <VBY_HayclothRecipe.label>tresser 5 toiles de foin</VBY_HayclothRecipe.label>
+  <!-- EN: tresser des toiles de foin à partir du foin. \n\nFait 5 toiles. -->
+  <VBY_HayclothRecipe.description>tresser des toiles de foin à partir du foin. \n\nFait 5 toiles.</VBY_HayclothRecipe.description>
+  <!-- EN: tressage de foin -->
+  <VBY_HayclothRecipe.jobString>tressage de foin</VBY_HayclothRecipe.jobString>
+  
+  <!-- EN: tresser 20 toiles de foin -->
+  <VBY_HayclothRecipeBulk.label>tresser 20 toiles de foin</VBY_HayclothRecipeBulk.label>
+  <!-- EN: weave haycloth from hay. \n\nMakes 20 haycloth. -->
+  <VBY_HayclothRecipeBulk.description>tresser des toiles de foin à partir du foin. \n\nFait 20 toiles.</VBY_HayclothRecipeBulk.description>
+  <!-- EN: tressage de foin -->
+  <VBY_HayclothRecipeBulk.jobString>tressage de foin</VBY_HayclothRecipeBulk.jobString>
+  
+</LanguageData>

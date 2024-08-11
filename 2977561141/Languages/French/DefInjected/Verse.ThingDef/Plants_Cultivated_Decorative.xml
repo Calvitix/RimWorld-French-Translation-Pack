@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+Voici le texte XML avec les traductions en français :
+
+```xml
+  <!-- EN: daffodil -->
+  <ERN_Daffodil.label>Jonquille</ERN_Daffodil.label>
+  <!-- EN: Daffodils, also known as narcissus and jonquil, are beautiful wild flowers that bloom in spring, often associated with festivals celebrating the end of winter.\n\n<i><color=#66E0E4FF>Erin's Cottage Collection</color></i> -->
+  <ERN_Daffodil.description>Les jonquilles, également connues sous le nom de narcisses et de jonquilles, sont de belles fleurs sauvages qui fleurissent au printemps, souvent associées à des festivals célébrant la fin de l'hiver.</ERN_Daffodil.description>
+  
+  <!-- EN: hollyhock -->
+  <ERN_Hollyhock.label>Rose trémière</ERN_Hollyhock.label>
+  <!-- EN: The hollyhock is a popular garden ornamental plant which attracts numerous birds and insects. Usually sowed in large numbers for a prettier, natural-looking garden.\n\n<i><color=#66E0E4FF>Erin's Cottage Collection</color></i> -->
+  <ERN_Hollyhock.description>La rose trémière est une plante ornementale de jardin populaire qui attire de nombreux oiseaux et insectes. Habituellement semée en grand nombre pour un jardin plus joli et naturel.</ERN_Hollyhock.description>
+  
+  <!-- EN: rose bush -->
+  <ERN_Rosebush.label>Buisson de roses</ERN_Rosebush.label>
+  <!-- EN: A beautiful cultivated flower, the rose has been a symbol of love since Earth's ancient era. These roses have been clumped together to form a bush of beauty and dirty jokes.\n\n<i><color=#66E0E4FF>Erin's Cottage Collection</color></i> -->
+  <ERN_Rosebush.description>Une belle fleur cultivée, la rose est un symbole d'amour depuis l'époque ancienne de la Terre. Ces roses ont été regroupées pour former un buisson de beauté et de blagues salaces.</ERN_Rosebush.description>
+  
+  <!-- EN: tulip -->
+  <ERN_Tulip.label>Tulipe</ERN_Tulip.label>
+  <!-- EN: Tulips are a charming spring flower that bloom wildly in steppes and mountainous areas with temperate climates. They have been cultivated for a large variety of dazzling colours.\n\n<i><color=#66E0E4FF>Erin's Cottage Collection</color></i> -->
+  <ERN_Tulip.description>Les tulipes sont une charmante fleur de printemps qui fleurit à l'état sauvage dans les steppes et les régions montagneuses aux climats tempérés. Elles ont été cultivées pour une grande variété de couleurs éblouissantes.</ERN_Tulip.description>
+```
+  
+</LanguageData>

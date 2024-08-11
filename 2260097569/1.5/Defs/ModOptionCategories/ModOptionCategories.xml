@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<ModSettingsFramework.ModOptionCategoryDef Name="RG_ModOptionsBase" Abstract="True">
+		<modSettingsName>ReGrowth</modSettingsName>
+		<modPackageSettingsID>ReGrowth.BOTR.Core</modPackageSettingsID>
+	</ModSettingsFramework.ModOptionCategoryDef>
+	<ModSettingsFramework.ModOptionCategoryDef ParentName="RG_ModOptionsBase">
+		<defName>RG_Core</defName>
+		<label>General</label>
+		<order>0</order>
+	</ModSettingsFramework.ModOptionCategoryDef>
+	<ModSettingsFramework.ModOptionCategoryDef ParentName="RG_ModOptionsBase">
+		<defName>RG_MakeCamp</defName>
+		<label>Make camp options</label>
+		<order>997</order>
+	</ModSettingsFramework.ModOptionCategoryDef>
+	<ModSettingsFramework.ModOptionCategoryDef ParentName="RG_ModOptionsBase">
+		<defName>RG_PerspectiveOres</defName>
+		<label>Perspective ores toggles</label>
+		<order>998</order>
+	</ModSettingsFramework.ModOptionCategoryDef>
+	<ModSettingsFramework.ModOptionCategoryDef ParentName="RG_ModOptionsBase">
+		<defName>RG_WeatherToggles</defName>
+		<label>New Weather toggles</label>
+		<order>999</order>
+	</ModSettingsFramework.ModOptionCategoryDef>
+</Defs>

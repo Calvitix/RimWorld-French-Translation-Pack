@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make Concrete -->
+  <FT_Make_ConcreteByBlock.label>Faire du béton</FT_Make_ConcreteByBlock.label>
+  <!-- EN: crush blocks and made into concrete. -->
+  <FT_Make_ConcreteByBlock.description>Écraser des blocs et les transformer en béton.</FT_Make_ConcreteByBlock.description>
+  <!-- EN: making Concrete from material -->
+  <FT_Make_ConcreteByBlock.jobString>Fabrication de béton à partir de matériaux</FT_Make_ConcreteByBlock.jobString>
+  
+  <!-- EN: make Concrete from chunk -->
+  <FT_Make_ConcreteByChunk.label>Faire du béton à partir de morceaux</FT_Make_ConcreteByChunk.label>
+  <!-- EN: crush chunks and made into Concrete. -->
+  <FT_Make_ConcreteByChunk.description>Écraser des morceaux et les transformer en béton.</FT_Make_ConcreteByChunk.description>
+  <!-- EN: making Concrete from material -->
+  <FT_Make_ConcreteByChunk.jobString>Fabrication de béton à partir de matériaux</FT_Make_ConcreteByChunk.jobString>
+
+  
+</LanguageData>

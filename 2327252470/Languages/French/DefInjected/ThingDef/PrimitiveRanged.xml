@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: atlatl -->
+  <VBY_Atlatl.label>atlatl</VBY_Atlatl.label>
+  <!-- EN: Un morceau de bois sculpté pour accueillir une flèche non encochée. La flèche est ensuite lancée avec une force et un effet de levier supplémentaires. -->
+  <VBY_Atlatl.description>Un morceau de bois sculpté pour accueillir une flèche non encochée. La flèche est ensuite lancée avec une force et un effet de levier supplémentaires.</VBY_Atlatl.description>
+  <!-- EN: handle -->
+  <VBY_Atlatl.tools.handle.label>poignée</VBY_Atlatl.tools.handle.label>
+  <!-- EN: lancer projectile -->
+  <VBY_Atlatl.verbs.lancer_projectile.label>lancer projectile</VBY_Atlatl.verbs.lancer_projectile.label>
+  
+  <!-- EN: flèche -->
+  <VBY_AtlatlArrowProjectile.label>flèche</VBY_AtlatlArrowProjectile.label>
+  
+  <!-- EN: boomerang -->
+  <VBY_Boomerang.label>boomerang</VBY_Boomerang.label>
+  <!-- EN: Un morceau de bois façonné pour voler dans l'air aussi droit que possible lorsqu'il est lancé. Il est conçu pour être lancé avec une grande force dans le but d'assommer des animaux ou des ennemis à distance.. -->
+  <VBY_Boomerang.description>Un morceau de bois façonné pour voler dans l'air aussi droit que possible lorsqu'il est lancé. Il est conçu pour être lancé avec une grande force dans le but d'assommer des animaux ou des ennemis à distance..</VBY_Boomerang.description>
+  <!-- EN: boomerang -->
+  <VBY_Boomerang.tools.boomerang.label>boomerang</VBY_Boomerang.tools.boomerang.label>
+  <!-- EN: lancer boomerang -->
+  <VBY_Boomerang.verbs.lancer_boomerang.label>lancer boomerang</VBY_Boomerang.verbs.lancer_boomerang.label>
+  
+  <!-- EN: boomerang -->
+  <VBY_BoomerangProjectile.label>boomerang</VBY_BoomerangProjectile.label>
+  
+  <!-- EN: bâton de lapin -->
+  <VBY_RabbitStick.label>bâton de lapin</VBY_RabbitStick.label>
+  <!-- EN: Autre variante du bâton de jet, le bâton de lapin est conçu pour être lancé dans les airs avec une trajectoire droite et énergique dans le but d'assommer des animaux ou des ennemis à distance.. -->
+  <VBY_RabbitStick.description>Autre variante du bâton de jet, le bâton de lapin est conçu pour être lancé dans les airs avec une trajectoire droite et énergique dans le but d'assommer des animaux ou des ennemis à distance..</VBY_RabbitStick.description>
+  <!-- EN: boomerang -->
+  <VBY_RabbitStick.tools.boomerang.label>boomerang</VBY_RabbitStick.tools.boomerang.label>
+  <!-- EN: lancer boomerang -->
+  <VBY_RabbitStick.verbs.lancer_boomerang.label>lancer boomerang</VBY_RabbitStick.verbs.lancer_boomerang.label>
+  
+  <!-- EN: bâton de lapin -->
+  <VBY_RabbitStick_Projectile.label>bâton de lapin</VBY_RabbitStick_Projectile.label>
+  
+  <!-- EN: pierres de lancer -->
+  <VBY_ThrowingRocks.label>pierres de lancer</VBY_ThrowingRocks.label>
+  <!-- EN: Une collection de pierres d'un poids et d'une taille agréables pour le lancer.. -->
+  <VBY_ThrowingRocks.description>Une collection de pierres d'un poids et d'une taille agréables pour le lancer..</VBY_ThrowingRocks.description>
+  <!-- EN: rock -->
+  <VBY_ThrowingRocks.tools.rock.label>pierre</VBY_ThrowingRocks.tools.rock.label>
+  <!-- EN: lancer pierres -->
+  <VBY_ThrowingRocks.verbs.lancer_pierres.label>lancer pierres</VBY_ThrowingRocks.verbs.lancer_pierres.label>
+  
+  <!-- EN: pierres -->
+  <VBY_ThrownRockProjectile.label>pierres</VBY_ThrownRockProjectile.label>
+  
+</LanguageData>

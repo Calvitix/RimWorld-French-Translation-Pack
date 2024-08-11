@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abandoned city -->
+  <City_Abandoned.label>TODO</City_Abandoned.label>
+  <!-- EN: The ruins of a once-great civilization.\n\n<i><color=#66E0E4FF>RimCities</color></i> -->
+  <City_Abandoned.description>TODO</City_Abandoned.description>
+  
+  <!-- EN: citadel -->
+  <City_Citadel.label>TODO</City_Citadel.label>
+  <!-- EN: The shining capital city of this planet.\n\n<i><color=#66E0E4FF>RimCities</color></i> -->
+  <City_Citadel.description>TODO</City_Citadel.description>
+  
+  <!-- EN: compromised city -->
+  <City_Compromised.label>TODO</City_Compromised.label>
+  <!-- EN: A dangerous, lawless, gang-controlled city.\n\n<i><color=#66E0E4FF>RimCities</color></i> -->
+  <City_Compromised.description>TODO</City_Compromised.description>
+  
+  <!-- EN: city -->
+  <City_Faction.label>TODO</City_Faction.label>
+  <!-- EN: A large-scale, highly advanced settlement.\n\n<i><color=#66E0E4FF>RimCities</color></i> -->
+  <City_Faction.description>TODO</City_Faction.description>
+  
+  <!-- EN: ghost city -->
+  <City_Ghost.label>TODO</City_Ghost.label>
+  <!-- EN: A mysteriously empty settlement.\n\n<i><color=#66E0E4FF>RimCities</color></i> -->
+  <City_Ghost.description>TODO</City_Ghost.description>
+  
+</LanguageData>

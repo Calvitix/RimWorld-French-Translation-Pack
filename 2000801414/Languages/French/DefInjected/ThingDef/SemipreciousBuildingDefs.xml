@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Amethyst -->
+  <Z_MineableAmethyst.label>Améthyste</Z_MineableAmethyst.label>
+  <!-- EN: Rock containing bits of amethyst. -->
+  <Z_MineableAmethyst.description>Rocher contenant des morceaux d'améthyste.</Z_MineableAmethyst.description>
+  
+  <!-- EN: Chalcedony -->
+  <Z_MineableChalcedony.label>Calcédoine</Z_MineableChalcedony.label>
+  <!-- EN: Rock containing bits of chalcedony. -->
+  <Z_MineableChalcedony.description>Rocher contenant des morceaux de calcédoine.</Z_MineableChalcedony.description>
+  
+  <!-- EN: Citrine -->
+  <Z_MineableCitrine.label>Citrine</Z_MineableCitrine.label>
+  <!-- EN: Rock containing bits of citrine. -->
+  <Z_MineableCitrine.description>Rocher contenant des morceaux de citrine.</Z_MineableCitrine.description>
+  
+  <!-- EN: Garnet -->
+  <Z_MineableGarnet.label>Grenat</Z_MineableGarnet.label>
+  <!-- EN: Rock containing bits of garnet. -->
+  <Z_MineableGarnet.description>Rocher contenant des morceaux de grenat.</Z_MineableGarnet.description>
+  
+  <!-- EN: Lapis -->
+  <Z_MineableLapis.label>Lapis</Z_MineableLapis.label>
+  <!-- EN: Rock containing bits of Lapis. -->
+  <Z_MineableLapis.description>Rocher contenant des morceaux de lapis.</Z_MineableLapis.description>
+  
+  <!-- EN: Quartz -->
+  <Z_MineableQuartz.label>Quartz</Z_MineableQuartz.label>
+  <!-- EN: Rock containing bits of quartz. -->
+  <Z_MineableQuartz.description>Rocher contenant des morceaux de quartz.</Z_MineableQuartz.description>
+  
+  <!-- EN: Serpentine -->
+  <Z_MineableSerpentine.label>Serpentine</Z_MineableSerpentine.label>
+  <!-- EN: Rock containing bits of serpentine. -->
+  <Z_MineableSerpentine.description>Rocher contenant des morceaux de serpentine.</Z_MineableSerpentine.description>
+  
+  <!-- EN: Turquoise -->
+  <Z_MineableTurquoise.label>Turquoise</Z_MineableTurquoise.label>
+  <!-- EN: Rock containing bits of turquoise. -->
+  <Z_MineableTurquoise.description>Rocher contenant des morceaux de turquoise.</Z_MineableTurquoise.description>
+
+  
+</LanguageData>

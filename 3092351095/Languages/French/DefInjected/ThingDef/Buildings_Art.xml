@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: big pot -->
+  <DV_BigPot.label>grande poterie</DV_BigPot.label>
+  <!-- EN: A large decorative clay pot, pretty to look at but fragile and time-consuming to make. -->
+  <DV_BigPot.description>Un grand pot décoratif en argile, joli à regarder mais fragile et long à fabriquer.</DV_BigPot.description>
+  
+  <!-- EN: pots -->
+  <DV_Pots.label>poteries</DV_Pots.label>
+  <!-- EN: A set of small decorative clay pots, pretty but fragile. -->
+  <DV_Pots.description>Un ensemble de petits pots décoratifs en terre cuite, jolis mais fragiles.</DV_Pots.description>
+  
+</LanguageData>

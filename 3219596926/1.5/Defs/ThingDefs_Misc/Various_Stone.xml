@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+	<!-- Clay -->
+	<ThingDef ParentName="UglyRockBase" Name="DankPyon_ClayBase">
+		<defName>DankPyon_NaturalWall_Clay</defName>
+		<label>argile</label>
+		<description>Une roche sédimentaire composée de particules d'argile comprimées ensemble.</description>
+		<graphicData>
+			<color>(132, 99, 81)</color>
+		</graphicData>
+		<statBases>
+			<MaxHitPoints>350</MaxHitPoints>
+		</statBases>
+		<building>
+			<mineableThing>DankPyon_ChunkClay</mineableThing>
+			<mineableDropChance>0.55</mineableDropChance>
+			<smoothedThing>DankPyon_SmoothedClay</smoothedThing>
+		</building>
+	</ThingDef>
+
+	<ThingDef ParentName="DankPyon_ClayBase">
+		<defName>DankPyon_SmoothedClay</defName>
+		<label>argile lissé</label>
+		<description>Roche sédimentaire composée de particules d'argile comprimées ensemble. Les couches d'argile ont été polies pour obtenir une surface plane et lisse.</description>
+		<uiIconPath>Things/Building/Linked/WallSmooth_MenuIcon</uiIconPath>
+		<graphicData>
+			<texPath>Things/Building/Linked/RockSmooth_Atlas</texPath>
+		</graphicData>
+		<statBases>
+			<Beauty>1</Beauty>
+			<MarketValue>7</MarketValue>
+		</statBases>
+		<building>
+			<isNaturalRock>false</isNaturalRock>
+			<canBuildNonEdificesUnder>true</canBuildNonEdificesUnder>
+			<artificialForMeditationPurposes>false</artificialForMeditationPurposes>
+			<paintable>true</paintable>
+			<smoothedThing />
+		</building>
+		<saveCompressible>false</saveCompressible>
+		<repairEffect>Repair</repairEffect>
+	</ThingDef>
+  
+	<ThingDef ParentName="ChunkRockBase">
+		<defName>DankPyon_ChunkClay</defName>
+		<label>gravats d'argile</label>
+		<description>De gros morceaux d'argile solide. L'argile est une roche relativement tendre qui s'écaille facilement.</description>
+		<graphicData>
+			<color>(132, 99, 81)</color>
+		</graphicData>
+		<statBases>
+			<Mass>20</Mass>
+		</statBases>
+		<soundDrop>ChunkRock_Drop</soundDrop>
+		<butcherProducts>
+			<DankPyon_BlocksClay>20</DankPyon_BlocksClay>
+		</butcherProducts>
+	</ThingDef>
+
+	<ThingDef ParentName="StoneBlocksBase">
+		<defName>DankPyon_BlocksClay</defName>
+		<label>briques d'argile</label>
+		<description>Blocs d'argile solide. L'argile est une roche relativement tendre qui s'écaille facilement.</description>
+		<graphicData>
+			<color>(132, 99, 81)</color>
+		</graphicData>
+		<statBases>
+			<Mass>1</Mass>
+			<SharpDamageMultiplier>0.5</SharpDamageMultiplier>
+			<BluntDamageMultiplier>0.5</BluntDamageMultiplier>
+		</statBases>
+		<stuffProps>
+			<color>(132, 99, 81)</color>
+			<soundImpactBullet>BulletImpact_Ground</soundImpactBullet>
+			<soundMeleeHitSharp>MeleeHit_Stone</soundMeleeHitSharp>
+			<soundMeleeHitBlunt>MeleeHit_Stone</soundMeleeHitBlunt>
+			<soundImpactMelee>Pawn_Melee_Punch_HitBuilding_Stone</soundImpactMelee>
+			<stuffAdjective>argile</stuffAdjective>
+			<statFactors>
+				<Beauty>1.1</Beauty>  
+				<MaxHitPoints>1.2</MaxHitPoints>
+				<WorkToBuild>3.0</WorkToBuild>
+				<WorkToMake>1.1</WorkToMake>
+			</statFactors>
+			<canSuggestUseDefaultStuff>true</canSuggestUseDefaultStuff>
+		</stuffProps>
+	</ThingDef>
+
+</Defs>

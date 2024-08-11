@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+   
+	<HediffDef Name="addedPartBasic" Abstract="True">
+		<hediffClass>Hediff_AddedPart</hediffClass>
+		<priceImpact>true</priceImpact>
+		<isBad>false</isBad>
+		<defaultLabelColor>(148,117,14)</defaultLabelColor>
+		<countsAsAddedPartOrImplant>true</countsAsAddedPartOrImplant>
+		<allowMothballIfLowPriorityWorldPawn>true</allowMothballIfLowPriorityWorldPawn>
+	</HediffDef>
+	
+	
+	<!-- Wooden Toe -->
+	
+	<HediffDef ParentName="addedPartBasic">
+		<defName>WoodenToe</defName>
+		<label>Orteil en bois</label>
+		<labelNoun>a wooden toe</labelNoun>
+		<description>An installed wooden toe.</description>
+		<priceImpact>false</priceImpact>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>0.60</partEfficiency>
+		</addedPartProps>
+	</HediffDef>
+	
+	<RecipeDef ParentName="SurgeryInstallWoodenPartBase">
+		<defName>InstallWoodenToe</defName>
+		<label>install wooden toe</label>
+		<description>Installs wooden toe.</description>
+		<jobString>Installing wooden toe.</jobString>
+		<workAmount>350</workAmount>
+		<appliedOnFixedBodyParts>
+			<li>Toe</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>WoodenToe</addsHediff>
+	</RecipeDef>	
+
+
+	<!-- Wooden Finger -->
+	
+	<HediffDef ParentName="addedPartBasic">
+		<defName>WoodenFinger</defName>
+		<label>wooden finger</label>
+		<labelNoun>a wooden finger</labelNoun>
+		<description>An installed wooden finger.</description>
+		<priceImpact>false</priceImpact>		
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>0.60</partEfficiency>
+		</addedPartProps>
+	</HediffDef>
+
+	<RecipeDef ParentName="SurgeryInstallWoodenPartBase">
+		<defName>InstallWoodenFinger</defName>
+		<label>install wooden finger</label>
+		<description>Installs wooden finger.</description>
+		<jobString>Installing wooden finger.</jobString>
+		<workAmount>350</workAmount>
+		<appliedOnFixedBodyParts>
+			<li>Finger</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>WoodenFinger</addsHediff>
+	</RecipeDef>
+
+
+	<!-- Wooden Nose -->
+
+	<HediffDef ParentName="addedPartBasic">
+		<defName>WoodenNose</defName>
+		<label>wooden nose</label>
+		<labelNoun>a wooden nose</labelNoun>
+		<description>An installed wooden nose.</description>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>0</partEfficiency>
+		</addedPartProps>
+	</HediffDef>
+	
+	<RecipeDef ParentName="SurgeryInstallWoodenPartBase">
+		<defName>InstallWoodenNose</defName>
+		<label>install wooden nose</label>
+		<description>Installs wooden nose.</description>
+		<jobString>Installing wooden nose.</jobString>
+		<workAmount>350</workAmount>
+		<appliedOnFixedBodyParts>
+			<li>Nose</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>WoodenNose</addsHediff>
+	</RecipeDef>
+	
+	
+	<!-- Wooden Arm -->
+	
+	<HediffDef ParentName="addedPartBasic">
+		<defName>WoodenArm</defName>
+		<label>wooden arm</label>
+		<labelNoun>a wooden arm</labelNoun>
+		<description>An installed wooden arm.</description>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>0.20</partEfficiency>
+		</addedPartProps>
+		<spawnThingOnRemoved>WoodLog</spawnThingOnRemoved>
+		<comps>
+			<li Class="HediffCompProperties_VerbGiver">
+				<tools>
+					<li>
+						<label>iron fist</label>
+						<capacities>
+							<li>Blunt</li>
+						</capacities>
+						<power>10</power>
+						<cooldownTime>1.8</cooldownTime>
+					</li>
+				</tools>
+			</li>
+		</comps>
+	</HediffDef> 
+   
+   	<RecipeDef ParentName="SurgeryInstallWoodenPartBase">
+		<defName>InstallWoodenArm</defName>
+		<label>install wooden arm</label>
+		<description>Installs wooden arm.</description>
+		<jobString>Installing wooden arm.</jobString>
+		<workAmount>1500</workAmount>
+		<appliedOnFixedBodyParts>
+			<li>Arm</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>WoodenArm</addsHediff>
+	</RecipeDef>
+	
+	
+	<!-- Eye Patch -->
+	
+	<HediffDef ParentName="addedPartBasic">
+		<defName>EyePatch</defName>
+		<label>eye patch</label>
+		<labelNoun>an eye patch</labelNoun>
+		<description>An installed eye patch.</description>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>0</partEfficiency>
+		</addedPartProps>
+	</HediffDef>
+
+	<RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
+		<defName>InstallEyePatch</defName>
+		<label>install eye patch</label>
+		<description>Installs eye patch.</description>
+		<jobString>Installing eye patch.</jobString>
+		<deathOnFailedSurgeryChance>0</deathOnFailedSurgeryChance>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Cloth</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<appliedOnFixedBodyParts>
+			<li>Eye</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>EyePatch</addsHediff>
+	</RecipeDef>
+	
+	
+	<!-- Ear Patch -->
+	
+	<HediffDef ParentName="addedPartBasic">
+		<defName>EarPatch</defName>
+		<label>ear patch</label>
+		<labelNoun>an ear patch</labelNoun>
+		<description>An installed ear patch.</description>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>0</partEfficiency>
+		</addedPartProps>
+	</HediffDef>
+   
+   	<RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
+		<defName>InstallEarPatch</defName>
+		<label>install ear patch</label>
+		<description>Installs ear patch.</description>
+		<jobString>Installing ear patch.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Cloth</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<appliedOnFixedBodyParts>
+			<li>Ear</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>EarPatch</addsHediff>
+	</RecipeDef>
+</Defs>

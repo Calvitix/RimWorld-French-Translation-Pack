@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<ThingDef ParentName="VBY_TotemPoleBase">
+	  <defName>VBY_BoneTotem</defName>
+		<label>totem d'os</label>
+		<description>Une grande statue artistique faite d'os. Reconnaissez-vous quelqu'un ?</description>
+		<graphicData>
+			<texPath>Things/Building/Art/Totems/HDM_BoneTotem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawRotated>false</drawRotated>
+			<allowFlip>false</allowFlip>	  			
+			<drawSize>(3,4)</drawSize>
+			<drawOffset>(0,0,1.5)</drawOffset>
+			<shadowData>
+				<volume>(0.5, 1, 0.25)</volume>
+				<offset>(0,0,0)</offset>
+			</shadowData>
+		</graphicData>
+		<costStuffCount Inherit ="False"/>
+		<stuffCategories Inherit ="False"/>
+		<costList />
+		<comps>
+		  <li Class="CompProperties_MeditationFocus">
+			<statDef>MeditationFocusStrength</statDef>
+			<focusTypes>
+			  <li>Morbid</li>
+			</focusTypes>
+		  </li>
+		</comps>
+		<uiIconPath>Things/Building/Art/Totems/HDM_BoneTotem</uiIconPath>	        
+	</ThingDef> 
+
+</Defs>

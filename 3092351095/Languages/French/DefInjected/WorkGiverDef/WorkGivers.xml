@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make things at a turning table -->
+  <DoBillsTurn.label>fait des choses avec le tour de potier</DoBillsTurn.label>
+  <!-- EN: turning at -->
+  <DoBillsTurn.gerund>tourne à</DoBillsTurn.gerund>
+  <!-- EN: turn -->
+  <DoBillsTurn.verb>tourner</DoBillsTurn.verb>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: scaled hide -->
+  <ERN_Scaled_Hide.label>peau écaillée</ERN_Scaled_Hide.label>
+  <!-- EN: tbd\n\n<i><color=#66E0E4FF>Erin's Valheim Creatures</color></i> -->
+  <ERN_Scaled_Hide.description>TODO</ERN_Scaled_Hide.description>
+  
+  <!-- EN: lox wool -->
+  <WoolLox.label>laine de lox</WoolLox.label>
+  <!-- EN: Doux comme une plume, léger et très isolant. Les vêtements en laine de Lox peuvent garder le corps au chaud même dans des conditions très froides.\n\n<i><color=#66E0E4FF>Erin's Valheim Creatures</color></i> -->
+  <WoolLox.description>Doux comme une plume, léger et très isolant. Les vêtements en laine de Lox peuvent garder le corps au chaud même dans des conditions très froides.</WoolLox.description>
+  
+</LanguageData>

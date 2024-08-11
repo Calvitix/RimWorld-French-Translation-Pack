@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+  <Operation Class="PatchOperationConditional">
+		<xpath>Defs/ThingDef[defName = "Door" or defName = "WallTorchLamp" or defName = "WallTorchLamp" or defName="TorchLamp" or defName="VFEM_WallTorchLamp" or defName="DankPyon_RusticTorchLamp"]/researchPrerequisites</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "Door" or defName = "WallTorchLamp" or defName = "WallTorchLamp" or defName="TorchLamp" or defName="VFEM_WallTorchLamp" or defName="DankPyon_RusticTorchLamp"]</xpath>
+			<value>
+				<researchPrerequisites>
+					<li>VFE_Res_Wood</li>
+				</researchPrerequisites>
+			</value>    
+		</nomatch>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "Door" or defName = "WallTorchLamp" or defName = "WallTorchLamp" or defName="TorchLamp" or defName="VFEM_WallTorchLamp" or defName="DankPyon_RusticTorchLamp"]/researchPrerequisites</xpath>
+			<value>
+				<li>VFE_Res_Wood</li>
+			</value>    
+		</match>
+	</Operation>
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/ThingDef[defName = "Wall" or defName = "Stool" or defName="Table2x4c" or defName="Table3x3c" or defName="Table2x2c" or defName="Table1x2c" or defName="AYBrazier" or defName="VHE_TableBarber"]/researchPrerequisites</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "Wall" or defName = "Stool" or defName="Table2x4c" or defName="Table3x3c" or defName="Table2x2c" or defName="Table1x2c" or defName="AYBrazier" or defName="VHE_TableBarber"]</xpath>
+				<value>
+					<researchPrerequisites>
+						<li>DankPyon_Lumber</li>
+					</researchPrerequisites>
+				</value>    
+		</nomatch>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "Wall" or defName = "Stool" or defName="Table2x4c" or defName="Table3x3c" or defName="Table2x2c" or defName="Table1x2c" or defName="AYBrazier" or defName="VHE_TableBarber"]/researchPrerequisites</xpath>
+				<value>
+					<li>DankPyon_Lumber</li>
+				</value>    
+		</match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+		<xpath>Defs/ThingDef[defName = "TrapSpike"]/researchPrerequisites</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "TrapSpike"]</xpath>
+				<value>
+					<researchPrerequisites>
+						<li>HAZN_SmallTrap</li>
+					</researchPrerequisites>
+				</value>    
+		</nomatch>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "TrapSpike"]/researchPrerequisites</xpath>
+			<value>
+				<li>HAZN_SmallTrap</li>
+			</value>    
+		</match>
+	</Operation>	
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/ThingDef[defName="VFET_AnimalTrap"]/researchPrerequisites</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName="VFET_AnimalTrap"]</xpath>
+			<value>
+				<researchPrerequisites>
+					<li>HAZN_SmallTrap</li>
+				</researchPrerequisites>
+			</value>    
+		</nomatch>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName="VFET_AnimalTrap"]/researchPrerequisites</xpath>
+				<value>
+					<li>HAZN_SmallTrap</li>
+				</value>    
+		</match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+     <xpath>Defs/ThingDef[defName = "Stone_Campfire"]/researchPrerequisites</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "Stone_Campfire"]</xpath>
+				<value>
+					<researchPrerequisites>
+						<li>VBY_PrimitiveStonecutting</li>
+					</researchPrerequisites>
+				</value>    
+		</nomatch>
+		<match Class="PatchOperationAdd">
+			<xpath>[defName = "Stone_Campfire"]/researchPrerequisites</xpath>
+				<value>
+					<li>VBY_PrimitiveStonecutting</li>
+				</value>    
+		</match>
+  </Operation>
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/RecipeDef[defName = "Make_StoneBlocksAny" or defName = "Make_StoneBlocksAny" or defName = "Make_StoneBlocksSandstone"or defName = "Make_StoneBlocksGranite"or defName = "Make_StoneBlocksLimestone"or defName = "Make_StoneBlocksSlate"or defName = "Make_StoneBlocksMarble"]/researchPrerequisites</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/RecipeDef[defName = "Make_StoneBlocksAny" or defName = "Make_StoneBlocksAny" or defName = "Make_StoneBlocksSandstone"or defName = "Make_StoneBlocksGranite"or defName = "Make_StoneBlocksLimestone"or defName = "Make_StoneBlocksSlate"or defName = "Make_StoneBlocksMarble"]</xpath>
+			<value>
+				<researchPrerequisites>
+					<li>VBY_PrimitiveStonecutting</li>
+				</researchPrerequisites>
+			</value>    
+		</nomatch>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/RecipeDef[defName = "Make_StoneBlocksAny" or defName = "Make_StoneBlocksAny" or defName = "Make_StoneBlocksSandstone"or defName = "Make_StoneBlocksGranite"or defName = "Make_StoneBlocksLimestone"or defName = "Make_StoneBlocksSlate"or defName = "Make_StoneBlocksMarble"]/researchPrerequisites</xpath>
+			<value>
+				<li>VBY_PrimitiveStonecutting</li>
+			</value>    
+		</match>
+	</Operation>
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/RecipeDef[defName = "BrickWall" or defName = "Bridge"]/researchPrerequisites</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/RecipeDef[defName = "BrickWall" or defName = "Bridge"]</xpath>
+			<value>
+				<researchPrerequisites>
+					<li>Stonecutting</li>
+				</researchPrerequisites>
+			</value>    
+		</nomatch>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/RecipeDef[defName = "BrickWall" or defName = "Bridge"]/researchPrerequisites</xpath>
+			<value>
+				<li>Stonecutting</li>
+			</value>    
+		</match>
+	</Operation>	
+
+</Patch>

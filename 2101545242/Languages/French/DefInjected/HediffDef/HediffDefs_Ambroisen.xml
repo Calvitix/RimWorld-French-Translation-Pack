@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+<!-- EN: Bras Pariétale -->
+<AmbroisenMedArm.label>Bras Pariétal</AmbroisenMedArm.label>
+<!-- EN: An installed Parésian arm. -->
+<AmbroisenMedArm.description>Un bras Pariétal installé.</AmbroisenMedArm.description>
+<!-- EN: XX Pariétale arm -->
+<AmbroisenMedArm.comps.HediffComp_VerbGiver.tools.XX_Parsienne_arm.label>XX Pariétale arm</AmbroisenMedArm.comps.HediffComp_VerbGiver.tools.XX_Parsienne_arm.label>
+<!-- EN: a Parésian arm -->
+<AmbroisenMedArm.labelNoun>un bras Pariétal</AmbroisenMedArm.labelNoun>
+
+<!-- EN: XX Pariétale ear -->
+<AmbroisenMedEar.label>Oreille Pariétale</AmbroisenMedEar.label>
+<!-- EN: An installed Parésian ear. -->
+<AmbroisenMedEar.description>Une oreille Pariétale installée.</AmbroisenMedEar.description>
+<!-- EN: a Parésian ear -->
+<AmbroisenMedEar.labelNoun>une oreille Pariétale</AmbroisenMedEar.labelNoun>
+
+<!-- EN: XX Pariétale eye -->
+<AmbroisenMedEye.label>Oeil Pariétal</AmbroisenMedEye.label>
+<!-- EN: An installed Parésian eye. -->
+<AmbroisenMedEye.description>Un œil Pariétal installé.</AmbroisenMedEye.description>
+<!-- EN: a Parésian eye -->
+<AmbroisenMedEye.labelNoun>un œil Pariétal</AmbroisenMedEye.labelNoun>
+
+<!-- EN: XX Pariétale finger -->
+<AmbroisenMedFinger.label>Doigt Pariétal</AmbroisenMedFinger.label>
+<!-- EN: An installed Parésian finger. -->
+<AmbroisenMedFinger.description>Un doigt Pariétal installé.</AmbroisenMedFinger.description>
+<!-- EN: a Parésian finger -->
+<AmbroisenMedFinger.labelNoun>un doigt Pariétale</AmbroisenMedFinger.labelNoun>
+
+<!-- EN: XX Pariétale foot -->
+<AmbroisenMedFoot.label>Pied Pariétal</AmbroisenMedFoot.label>
+<!-- EN: An installed Parésian foot. -->
+<AmbroisenMedFoot.description>Un pied Pariétal installé.</AmbroisenMedFoot.description>
+<!-- EN: a Parésian foot -->
+<AmbroisenMedFoot.labelNoun>un pied Pariétale</AmbroisenMedFoot.labelNoun>
+
+<!-- EN: Main Pariétale hand -->
+<AmbroisenMedHand.label>Main Pariétale</AmbroisenMedHand.label>
+<!-- EN: An installed Parésian hand. -->
+<AmbroisenMedHand.description>Une main Pariétale installée.</AmbroisenMedHand.description>
+<!-- EN: XX Pariétale hand -->
+<AmbroisenMedHand.comps.HediffComp_VerbGiver.tools.XX_Parsienne_hand.label>XX Pariétale hand</AmbroisenMedHand.comps.HediffComp_VerbGiver.tools.XX_Parsienne_hand.label>
+<!-- EN: a Parésian hand -->
+<AmbroisenMedHand.labelNoun>une main Pariétale</AmbroisenMedHand.labelNoun>
+
+<!-- EN: XX Pariétale leg -->
+<AmbroisenMedLeg.label>Jambe Pariétale</AmbroisenMedLeg.label>
+<!-- EN: An installed Parésian leg. -->
+<AmbroisenMedLeg.description>Une jambe Pariétale installée.</AmbroisenMedLeg.description>
+<!-- EN: a Parésian leg -->
+<AmbroisenMedLeg.labelNoun>une jambe Pariétale</AmbroisenMedLeg.labelNoun>
+
+<!-- EN: XX Pariétale nose -->
+<AmbroisenMedNose.label>Nez Pariétal</AmbroisenMedNose.label>
+<!-- EN: An installed Parésian nose. -->
+<AmbroisenMedNose.description>Un nez Pariétal installé.</AmbroisenMedNose.description>
+<!-- EN: a Parésian nose -->
+<AmbroisenMedNose.labelNoun>un nez Pariétale</AmbroisenMedNose.labelNoun>
+
+<!-- EN: XX Pariétale toe -->
+<AmbroisenMedToe.label>Orteil Pariétal</AmbroisenMedToe.label>
+<!-- EN: An installed Parésian toe. -->
+<AmbroisenMedToe.description>Un orteil Pariétal installé.</AmbroisenMedToe.description>
+<!-- EN: a Parésian toe -->
+<AmbroisenMedToe.labelNoun>un orteil Pariétale</AmbroisenMedToe.labelNoun>
+```
+  
+</LanguageData>

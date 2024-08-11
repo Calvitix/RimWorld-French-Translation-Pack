@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<!-- EN: bloodflame sepulchral reliquary -->
+<DA_BloodflameSepulchralReliquaryThoughts.stages.bloodflame_sepulchral_reliquary.label>reliquaire sépulcral de flamme de sang</DA_BloodflameSepulchralReliquaryThoughts.stages.bloodflame_sepulchral_reliquary.label>
+<!-- EN: No flame burns as softly as a blood flame. -->
+<DA_BloodflameSepulchralReliquaryThoughts.stages.bloodflame_sepulchral_reliquary.description>Aucune flamme ne brûle aussi doucement qu'une flamme de sang.</DA_BloodflameSepulchralReliquaryThoughts.stages.bloodflame_sepulchral_reliquary.description>
+
+<!-- EN: bloodflame sepulchral statue -->
+<DA_BloodflameSepulchralStatueThoughts.stages.bloodflame_sepulchral_statue.label>statue sépulcrale de flamme de sang</DA_BloodflameSepulchralStatueThoughts.stages.bloodflame_sepulchral_statue.label>
+<!-- EN: No flame burns as softly as a blood flame. -->
+<DA_BloodflameSepulchralStatueThoughts.stages.bloodflame_sepulchral_statue.description>Aucune flamme ne brûle aussi doucement qu'une flamme de sang.</DA_BloodflameSepulchralStatueThoughts.stages.bloodflame_sepulchral_statue.description>
+
+<!-- EN: bloodflame grand candelabra -->
+<DA_BloodGrandCandelabraThoughts.stages.bloodflame_grand_candelabra.label>grand chandelier de flamme de sang</DA_BloodGrandCandelabraThoughts.stages.bloodflame_grand_candelabra.label>
+<!-- EN: No flame burns as softly as a blood flame. -->
+<DA_BloodGrandCandelabraThoughts.stages.bloodflame_grand_candelabra.description>Aucune flamme ne brûle aussi doucement qu'une flamme de sang.</DA_BloodGrandCandelabraThoughts.stages.bloodflame_grand_candelabra.description>
+
+<!-- EN: bloodflame sepulchral brazier -->
+<DA_BloodSepulchralBrazierThought.stages.bloodflame_sepulchral_brazier.label>brasier sépulcral de flamme de sang</DA_BloodSepulchralBrazierThought.stages.bloodflame_sepulchral_brazier.label>
+<!-- EN: No flame burns as softly as a blood flame. -->
+<DA_BloodSepulchralBrazierThought.stages.bloodflame_sepulchral_brazier.description>Aucune flamme ne brûle aussi doucement qu'une flamme de sang.</DA_BloodSepulchralBrazierThought.stages.bloodflame_sepulchral_brazier.description>
+
+<!-- EN: blood candles -->
+<DA_CandlesThought.stages.blood_candles.label>bougies de sang</DA_CandlesThought.stages.blood_candles.label>
+<!-- EN: No flame burns as softly as a blood flame. -->
+<DA_CandlesThought.stages.blood_candles.description>Aucune flamme ne brûle aussi doucement qu'une flamme de sang.</DA_CandlesThought.stages.blood_candles.description>
+
+</LanguageData>

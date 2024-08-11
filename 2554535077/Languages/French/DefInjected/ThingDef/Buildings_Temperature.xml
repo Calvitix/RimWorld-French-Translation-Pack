@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: geothermal cooler -->
+  <GeoCool_GeothermalCooler.label>TODO</GeoCool_GeothermalCooler.label>
+  <!-- EN: A geothermal cooler is a building that extracts cold air from underground. Hot air is pushed into the ground through one of the pipes, making cold air rise from the other. Steel is occasionally required to fix the relatively weak pipes.\n\n<i><color=#66E0E4FF>Geothermal Coolers</color></i> -->
+  <GeoCool_GeothermalCooler.description>TODO</GeoCool_GeothermalCooler.description>
+  
+  <!-- EN: geothermal freezer -->
+  <GeoCool_GeothermalFreezer.label>TODO</GeoCool_GeothermalFreezer.label>
+  <!-- EN: A geothermal freezer is a building that extracts cold air from underground. Hot air from the geyser is pushed into the ground using the pipes, making cold air rise up and escape through the vents. The power of the geyser allows it to freeze the surrounding area.\n\n<i><color=#66E0E4FF>Geothermal Coolers</color></i> -->
+  <GeoCool_GeothermalFreezer.description>TODO</GeoCool_GeothermalFreezer.description>
+  
+</LanguageData>

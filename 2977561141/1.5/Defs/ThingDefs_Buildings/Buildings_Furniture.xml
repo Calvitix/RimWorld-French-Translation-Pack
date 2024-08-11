@@ -1,0 +1,792 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<ThingDef ParentName="SansComfortBedBase">
+		<defName>CCol_QuiltedBed</defName>
+		<label>quilted bed</label>
+		<description>More comfortable and effective a bed compared to a regular one but requires a good proportion of fabric. Apparently sheets are made of fabric, but this is a luxury few can afford starting off.</description>
+		<graphicData>
+			<texPath>Things/Building/Furniture/QuiltedBed/QuiltedBedSingle</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1,2)</drawSize>
+			<damageData>
+				<rect>(0,0.05,1,1.95)</rect>
+			</damageData>
+		</graphicData>
+		<comps>
+			<li Class="CompProperties_AffectedByFacilities">
+				<linkableFacilities>
+				<li>CCot_CottageEndTable</li>
+				<li>CCot_CottageDresser</li>
+				<li>EndTable</li>
+         		<li>Dresser</li>
+          		<li MayRequire="Ludeon.RimWorld.Ideology">SleepAccelerator</li>
+				</linkableFacilities>
+			</li>
+		</comps>
+		<statBases>
+			<MaxHitPoints>140</MaxHitPoints>
+			<Flammability>1.0</Flammability>
+			<Beauty>1</Beauty>
+			<WorkToBuild>800</WorkToBuild>
+			<Mass>30</Mass>
+			<BedRestEffectiveness>1.1</BedRestEffectiveness>
+			<Comfort>0.85</Comfort>
+			<ImmunityGainSpeedFactor>1.07</ImmunityGainSpeedFactor>
+			<SurgerySuccessChanceFactor>1</SurgerySuccessChanceFactor>
+		</statBases>
+		<size>(1,2)</size>
+		<costStuffCount>45</costStuffCount>
+		<costList>
+			<Cloth>40</Cloth>
+		</costList>
+		<building>
+			<paintable>true</paintable>
+		</building>
+		<designationHotKey>Misc2</designationHotKey>
+		<uiIconScale>0.90</uiIconScale>
+	</ThingDef>
+
+	<ThingDef ParentName="SansComfortBedBase">
+		<defName>CCol_QuiltedDoubleBed</defName>
+		<label>quilted double bed</label>
+		<description>More comfortable and effective a double bed compared to a regular one but requires a good proportion of fabric. Are those extra sheets necessary? Who cares, feel how soft they are.</description>
+		<graphicData>
+			<texPath>Things/Building/Furniture/QuiltedBed/QuiltedBedDouble</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(2.05,2.05)</drawSize>
+			<damageData>
+				<rect>(0,0.05,2,1.95)</rect>
+			</damageData>
+		</graphicData>
+		<comps>
+			<li Class="CompProperties_AffectedByFacilities">
+				<linkableFacilities>
+				<li>CCot_CottageEndTable</li>
+				<li>CCot_CottageDresser</li>
+				<li>EndTable</li>
+         		<li>Dresser</li>
+          		<li MayRequire="Ludeon.RimWorld.Ideology">SleepAccelerator</li>
+				</linkableFacilities>
+			</li>
+		</comps>
+		<thingSetMakerTags>
+			<li>RewardStandardQualitySuper</li>
+		</thingSetMakerTags>
+		<statBases>
+			<MaxHitPoints>200</MaxHitPoints>
+			<Flammability>1.0</Flammability>
+			<WorkToBuild>1500</WorkToBuild>
+			<Mass>50</Mass>
+			<Comfort>0.85</Comfort>
+			<Beauty>2</Beauty>
+			<BedRestEffectiveness>1.1</BedRestEffectiveness>
+			<ImmunityGainSpeedFactor>1.07</ImmunityGainSpeedFactor>
+			<SurgerySuccessChanceFactor>1</SurgerySuccessChanceFactor>
+		</statBases>
+		<size>(2,2)</size>
+		<costStuffCount>85</costStuffCount>
+		<costList>
+			<Cloth>80</Cloth>
+		</costList>
+		<building>
+			<paintable>true</paintable>
+		</building>
+		<terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+		<leaveResourcesWhenKilled>True</leaveResourcesWhenKilled>
+		<designationHotKey>Misc3</designationHotKey>
+		<uiIconScale>0.90</uiIconScale>
+	</ThingDef>
+
+	<ThingDef ParentName="FurnitureWithQualityBase">
+		<defName>CCot_CottageArmchair</defName>
+		<label>cottage armchair</label>
+		<description>A large, soft, comfy seat that’s prettier to look at because someone included more buttons. Great for relaxation. Can be used at tables, work stations, and elsewhere.</description>
+		<graphicData>
+			<texPath>Things/Building/Furniture/CottageArmchair/CottageArmchair</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1.2,1.2)</drawSize>
+			<damageData>
+				<rectN>(0,0,1,0.703125)</rectN>
+				<rectS>(0.09375,0,0.84375,1)</rectS>
+				<rectE>(0,0,0.84375,0.625)</rectE>
+				<rectW>(0.15625,0,0.84375,0.625)</rectW>
+			</damageData>
+			<shadowData>
+				<volume>(0.3, 0.33, 0.3)</volume>
+			</shadowData>
+		</graphicData>
+		<uiIconScale>0.95</uiIconScale>
+		<altitudeLayer>Building</altitudeLayer>
+		<statBases>
+			<MaxHitPoints>120</MaxHitPoints>
+			<WorkToBuild>14000</WorkToBuild>
+			<Mass>18</Mass>
+			<Flammability>1.0</Flammability>
+			<Beauty>7</Beauty>
+			<Comfort>0.8</Comfort>
+		</statBases>
+		<socialPropernessMatters>true</socialPropernessMatters>
+		<stuffCategories>
+			<li>Fabric</li>
+			<li>Leathery</li>
+		</stuffCategories>
+		<researchPrerequisites>
+			<li>ComplexFurniture</li>
+		</researchPrerequisites>
+		<costStuffCount>110</costStuffCount>
+		<pathCost>30</pathCost>
+		<fillPercent>0.40</fillPercent>
+		<defaultPlacingRot>South</defaultPlacingRot>
+		<constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+		<building>
+			<isSittable>true</isSittable>
+			<destroySound>BuildingDestroyed_Soft_Small</destroySound>
+		</building>
+	</ThingDef>
+
+	<ThingDef ParentName="ArtableFurnitureBase">
+		<defName>CCot_CottageDiningChair</defName>
+		<label>cottage dining chair</label>
+		<description>A comfortable and attractive chair, improved with the addition of a seat cushion made of fabric. Can be used at tables, work stations, and elsewhere.</description>
+		<graphicData>
+			<texPath>Things/Building/Furniture/CottageDiningChair/CottageDiningChair</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1.1,1.1)</drawSize>
+			<damageData>
+				<rectN>(0.25,0.234375,0.5,0.28125)</rectN>
+				<rectS>(0.25,0.234375,0.5,0.28125)</rectS>
+				<rectE>(0.28125,0.25,0.453125,0.25)</rectE>
+				<rectW>(0.28125,0.25,0.453125,0.25)</rectW>
+			</damageData>
+			<shadowData>
+				<volume>(0.23, 0.26, 0.23)</volume>
+			</shadowData>
+		</graphicData>
+		<altitudeLayer>Building</altitudeLayer>
+		<statBases>
+			<MaxHitPoints>100</MaxHitPoints>
+			<WorkToBuild>8000</WorkToBuild>
+			<Mass>5</Mass>
+			<Flammability>1.0</Flammability>
+			<Beauty>8</Beauty>
+			<Comfort>0.80</Comfort>
+		</statBases>
+		<socialPropernessMatters>true</socialPropernessMatters>
+		<stuffCategories>
+			<li>Metallic</li>
+			<li>Woody</li>
+		</stuffCategories>
+		<costStuffCount>45</costStuffCount>
+		<costList>
+			<Cloth>25</Cloth>
+		</costList>
+		<pathCost>30</pathCost>
+		<fillPercent>0.35</fillPercent>
+		<defaultPlacingRot>South</defaultPlacingRot>
+		<building>
+			<isSittable>true</isSittable>
+		</building>
+		<constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+		<researchPrerequisites>
+			<li>ComplexFurniture</li>
+		</researchPrerequisites>
+		<comps>
+			<li Class="CompProperties_Styleable" />
+		</comps>
+	</ThingDef>
+
+	<ThingDef ParentName="ArtableFurnitureBase">
+		<defName>CCot_CottageDresser</defName>
+		<label>cottage dresser</label>
+		<description>A superior dresser that includes small shelves. Gives an improved comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect.</description>
+		<graphicData>
+			<texPath>Things/Building/Furniture/CottageDresser/CottageDresser</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(2,1)</drawSize>
+			<damageData>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+			</damageData>
+		</graphicData>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>PassThroughOnly</passability>
+		<fillPercent>0.4</fillPercent>
+		<castEdgeShadows>true</castEdgeShadows>
+		<pathCost>42</pathCost>
+		<stuffCategories>
+			<li>Metallic</li>
+			<li>Woody</li>
+			<li>Stony</li>
+		</stuffCategories>
+		<defaultPlacingRot>South</defaultPlacingRot>
+		<costStuffCount>75</costStuffCount>
+		<statBases>
+			<MaxHitPoints>120</MaxHitPoints>
+			<Mass>15</Mass>
+			<WorkToBuild>2000</WorkToBuild>
+			<Flammability>1.0</Flammability>
+			<Beauty>5</Beauty>
+		</statBases>
+		<size>(2,1)</size>
+		<staticSunShadowHeight>0.5</staticSunShadowHeight>
+		<surfaceType>Item</surfaceType>
+		<canOverlapZones>false</canOverlapZones>
+		<placeWorkers>
+			<li>PlaceWorker_ShowFacilitiesConnections</li>
+		</placeWorkers>
+		<researchPrerequisites>
+			<li>ComplexFurniture</li>
+		</researchPrerequisites>
+		<comps>
+			<li Class="CompProperties_Facility">
+				<statOffsets>
+					<Comfort>0.08</Comfort>
+				</statOffsets>
+				<maxSimultaneous>1</maxSimultaneous>
+				<maxDistance>6</maxDistance>
+			</li>
+		</comps>
+	</ThingDef>
+
+	<ThingDef ParentName="TableBase">
+		<defName>CCot_CottageEndTable</defName>
+		<label>cottage end table</label>
+		<description>A superior end table with a single, larger drawer. Don’t think about it too much. Gives a better comfort bonus when placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect.</description>
+		<surfaceType>Item</surfaceType>
+		<graphicData>
+			<texPath>Things/Building/Furniture/CottageEndTable/CottageEndTable</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shadowData>
+				<volume>(0.3, 0.6, 0.3)</volume>
+			</shadowData>
+		</graphicData>
+		<statBases>
+			<MaxHitPoints>75</MaxHitPoints>
+			<WorkToBuild>1000</WorkToBuild>
+			<Mass>5</Mass>
+			<Flammability>1.0</Flammability>
+			<Beauty>3</Beauty>
+		</statBases>
+		<pathCost>30</pathCost>
+		<defaultPlacingRot>South</defaultPlacingRot>
+		<costStuffCount>45</costStuffCount>
+		<placeWorkers>
+			<li>PlaceWorker_ShowFacilitiesConnections</li>
+		</placeWorkers>
+		<researchPrerequisites>
+			<li>ComplexFurniture</li>
+		</researchPrerequisites>
+		<comps>
+			<li Class="CompProperties_Facility">
+				<statOffsets>
+					<Comfort>0.08</Comfort>
+				</statOffsets>
+				<maxSimultaneous>1</maxSimultaneous>
+				<mustBePlacedAdjacentCardinalToBedHead>true</mustBePlacedAdjacentCardinalToBedHead>
+			</li>
+		</comps>
+		<staticSunShadowHeight>0</staticSunShadowHeight>
+		<castEdgeShadows>false</castEdgeShadows>
+	</ThingDef>
+
+	<ThingDef ParentName="TableGatherSpotBase">
+		<defName>CCot_CottageTable1x2a</defName>
+		<label>cottage table (1x2)</label>
+		<graphicData>
+			<texPath>Things/Building/Furniture/CottageTable1x2/CottageTable1x2</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(2.7,1.4)</drawSize>
+			<damageData>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+			</damageData>
+		</graphicData>
+		<uiIconScale>0.9</uiIconScale>
+		<statBases>
+			<MaxHitPoints>75</MaxHitPoints>
+			<WorkToBuild>750</WorkToBuild>
+			<Mass>5</Mass>
+			<Flammability>1.0</Flammability>
+			<Beauty>0.5</Beauty>
+			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">5</StyleDominance>
+		</statBases>
+		<defaultPlacingRot>South</defaultPlacingRot>
+		<size>(2,1)</size>
+		<costStuffCount>28</costStuffCount>
+					<researchPrerequisites>
+						<li>DankPyon_Lumber</li>
+					</researchPrerequisites>		
+	</ThingDef>
+
+	<ThingDef ParentName="TableGatherSpotBase">
+		<defName>CCot_CottageTable2x2a</defName>
+		<label>cottage table (2x2)</label>
+		<graphicData>
+			<texPath>Things/Building/Furniture/CottageTable2x2/CottageTable2x2</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(2.7,2.7)</drawSize>
+			<damageData>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+			</damageData>
+		</graphicData>
+		<uiIconScale>0.9</uiIconScale>
+		<statBases>
+			<MaxHitPoints>100</MaxHitPoints>
+			<WorkToBuild>1500</WorkToBuild>
+			<Mass>10</Mass>
+			<Flammability>1.0</Flammability>
+			<Beauty>1</Beauty>
+			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">10</StyleDominance>
+		</statBases>
+		<size>(2,2)</size>
+		<defaultPlacingRot>South</defaultPlacingRot>
+		<costStuffCount>50</costStuffCount>
+		<rotatable>false</rotatable>
+							<researchPrerequisites>
+						<li>DankPyon_Lumber</li>
+					</researchPrerequisites>
+	</ThingDef>
+
+	<ThingDef ParentName="TableGatherSpotBase">
+		<defName>CCot_CottageTableBlanket2x2a</defName>
+		<label>cottage table with a blanket (2x2)</label>
+		<graphicData>
+			<texPath>Things/Building/Furniture/CottageTable2x2Blanket/CottageTable2x2Blanket</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(2.7,2.7)</drawSize>
+			<damageData>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+			</damageData>
+		</graphicData>
+		<uiIconScale>0.9</uiIconScale>
+		<statBases>
+			<MaxHitPoints>100</MaxHitPoints>
+			<WorkToBuild>1500</WorkToBuild>
+			<Mass>10</Mass>
+			<Flammability>1.0</Flammability>
+			<Beauty>1</Beauty>
+			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">10</StyleDominance>
+		</statBases>
+		<size>(2,2)</size>
+		<defaultPlacingRot>South</defaultPlacingRot>
+		<costStuffCount>50</costStuffCount>
+		<costList>
+			<Cloth>25</Cloth>
+		</costList>
+		<rotatable>false</rotatable>
+							<researchPrerequisites>
+						<li>DankPyon_Lumber</li>
+					</researchPrerequisites>
+	</ThingDef>
+
+	<ThingDef ParentName="TableGatherSpotBase">
+		<defName>CCot_CottageTable2x4c</defName>
+		<label>cottage table (2x4)</label>
+		<graphicData>
+			<texPath>Things/Building/Furniture/CottageTable2x4/CottageTable2x4</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(2.5,5.2)</drawSize>
+			<damageData>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+			</damageData>
+		</graphicData>
+		<statBases>
+			<MaxHitPoints>150</MaxHitPoints>
+			<WorkToBuild>3000</WorkToBuild>
+			<Mass>20</Mass>
+			<Flammability>1.0</Flammability>
+			<Beauty>2</Beauty>
+			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">20</StyleDominance>
+		</statBases>
+		<size>(2,4)</size>
+		<costStuffCount>95</costStuffCount>
+		<defaultPlacingRot>South</defaultPlacingRot>
+		<building>
+			<buildingSizeCategory>Medium</buildingSizeCategory>
+		</building>
+							<researchPrerequisites>
+						<li>DankPyon_Lumber</li>
+					</researchPrerequisites>
+	</ThingDef>
+
+	<ThingDef Abstract="True" Name="ERNStandingLampBase" ParentName="LampBase">
+    <graphicData>
+      <texPath>Things/Building/Furniture/LampStanding</texPath>
+    </graphicData>
+    <costList>
+      <Steel>20</Steel>
+    </costList>
+    <statBases>
+      <Mass>4</Mass>
+      <StyleDominance MayRequire="Ludeon.RimWorld.Ideology">5</StyleDominance>
+    </statBases>
+    <uiOrder>2990</uiOrder>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>30</basePowerConsumption>
+        <powerUpgrades>
+          <li>
+            <researchProject>ColoredLights</researchProject>
+            <factor>0.5</factor>
+          </li>
+        </powerUpgrades>
+      </li>
+      <li Class="CompProperties_Styleable" />
+    </comps>
+  </ThingDef>
+
+	<ThingDef ParentName="ERNStandingLampBase">
+		<defName>CCol_CottageLamp</defName>
+		<label>cottage lamp</label>
+		<description>An electrical cottage lamp that lights an area. People need light to move and work at full speed.</description>
+		<graphicData>
+			<texPath>Things/Building/Furniture/CottageLamp</texPath>
+		</graphicData>
+		<comps>
+			<li Class="CompProperties_Glower">
+				<glowRadius>12</glowRadius>
+				<glowColor>(252,187,113,0)</glowColor>
+			</li>
+		</comps>
+	</ThingDef>
+
+	<ThingDef ParentName="TableBase">
+		<defName>CCot_SmallBookshelf</defName>
+		<label>cottage small bookshelf</label>
+		<description>A small, aesthetic bookshelf. Makes you seem smarter as long as no one realizes they’re painted wood.</description>
+		<surfaceType>Item</surfaceType>
+		<graphicData>
+			<texPath>Things/Building/Furniture/CottageSmallBookshelf/CottageSmallBookshelf</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1.1,1.1)</drawSize>
+      <drawOffset>(0.0, 0.0, 0.25)</drawOffset>
+			<shadowData>
+				<volume>(0.3, 0.6, 0.3)</volume>
+			</shadowData>
+		</graphicData>
+		<statBases>
+			<MaxHitPoints>75</MaxHitPoints>
+			<WorkToBuild>1000</WorkToBuild>
+			<Mass>5</Mass>
+			<Flammability>1.0</Flammability>
+			<Beauty>3</Beauty>
+		</statBases>
+		<pathCost>30</pathCost>
+		<defaultPlacingRot>South</defaultPlacingRot>
+		<stuffCategories>
+			<li>Woody</li>
+		</stuffCategories>
+		<costStuffCount>10</costStuffCount>
+		<researchPrerequisites>
+			<li>ComplexFurniture</li>
+		</researchPrerequisites>
+		<staticSunShadowHeight>0</staticSunShadowHeight>
+		<castEdgeShadows>false</castEdgeShadows>
+	</ThingDef>
+
+	<ThingDef ParentName="FurnitureWithQualityBase">
+		<defName>CCot_Basket</defName>
+		<label>cottage basket</label>
+		<description>A basket for storing miscellaneous items. Cheaper and faster to build than a shelf but less convenient due to required materials. Items stored in this will not affect room beauty and they won’t deteriorate, even if outside.</description>
+		<thingClass>Building_Storage</thingClass>
+		<graphicData>
+			<texPath>Things/Building/Furniture/CottageBasket/CottageBasket</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1.1,1.1)</drawSize>
+		</graphicData>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>PassThroughOnly</passability>
+		<fillPercent>0.4</fillPercent>
+		<pathCost>50</pathCost>
+		<stuffCategories>
+			<li>Fabric</li>
+			<li>Leathery</li>
+		</stuffCategories>
+		<costStuffCount>10</costStuffCount>
+		<costList>
+			<WoodLog>5</WoodLog>
+		</costList>
+		<statBases>
+			<MaxHitPoints>100</MaxHitPoints>
+			<Mass>8</Mass>
+			<WorkToBuild>200</WorkToBuild>
+			<Flammability>1.0</Flammability>
+			<Beauty>0.5</Beauty>
+		</statBases>
+		<size>(1,1)</size>
+		<defaultPlacingRot>South</defaultPlacingRot>
+		<building>
+			<preventDeteriorationOnTop>true</preventDeteriorationOnTop>
+			<ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
+			<maxItemsInCell>3</maxItemsInCell>
+			<fixedStorageSettings>
+				<filter>
+					<disallowNotEverStorable>true</disallowNotEverStorable>
+					<categories>
+						<li>Root</li>
+					</categories>
+				</filter>
+			</fixedStorageSettings>
+			<defaultStorageSettings>
+				<priority>Important</priority>
+				<filter>
+					<categories>
+						<li>Textiles</li>
+					</categories>
+				</filter>
+			</defaultStorageSettings>
+		</building>
+		<inspectorTabs>
+			<li>ITab_Storage</li>
+		</inspectorTabs>
+		<designationHotKey>Misc12</designationHotKey>
+		<staticSunShadowHeight>0.5</staticSunShadowHeight>
+		<surfaceType>Item</surfaceType>
+		<canOverlapZones>false</canOverlapZones>
+		<researchPrerequisites>
+			<li>ComplexFurniture</li>
+		</researchPrerequisites>
+		<comps>
+			<li Class="CompProperties_Styleable" />
+		</comps>
+	</ThingDef>
+
+	<ThingDef ParentName="BuildingBase">
+		<defName>CCot_Fireplace</defName>
+		<label>cottage fireplace</label>
+		<description>Large, refuelable cottage fireplace that produces heat and burns out after several days. More efficient and burns hotter compared to an open campfire. As with all heat sources, it must be placed indoors so it has a closed space to heat.</description>
+		<thingClass>Building_Heater</thingClass>
+		<category>Building</category>
+		<graphicData>
+			<texPath>Things/Building/Furniture/CottageFireplace/CottageFireplace</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(4.8,4.8)</drawSize>
+			<damageData>
+				<rect>(0.2,0,0.6,0.1)</rect>
+			</damageData>
+		</graphicData>
+		<size>(3,1)</size>
+		<uiIconScale>1.1</uiIconScale>
+		<tickerType>Normal</tickerType>
+		<drawerType>RealtimeOnly</drawerType>
+		<fillPercent>0.20</fillPercent>
+		<defaultPlacingRot>South</defaultPlacingRot>
+		<constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+		<statBases>
+			<Beauty>10</Beauty>
+			<Mass>100</Mass>
+			<MaxHitPoints>280</MaxHitPoints>
+			<WorkToBuild>1200</WorkToBuild>
+			<Flammability>0</Flammability>
+			<WorkTableWorkSpeedFactor>0.5</WorkTableWorkSpeedFactor>
+			<MeditationFocusStrength>0.0</MeditationFocusStrength>
+		</statBases>
+		<selectable>true</selectable>
+		<stuffCategories>
+			<li>Stony</li>
+		</stuffCategories>
+		<costStuffCount>80</costStuffCount>
+		<costList>
+			<WoodLog>10</WoodLog> <!-- just the intial wood -->
+		</costList>
+		<researchPrerequisites>
+			<li>Stonecutting</li>
+		</researchPrerequisites>
+		<soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+		<placeWorkers>
+			<li>PlaceWorker_Heater</li>
+			<li>PlaceWorker_MeditationOffsetBuildingsNear</li>
+		</placeWorkers>
+		<rotatable>true</rotatable>
+		<comps>
+			<li Class="CompProperties_Refuelable">
+				<fuelConsumptionRate>6.0</fuelConsumptionRate>
+				<fuelCapacity>40.0</fuelCapacity>
+				<fuelConsumptionPerTickInRain>0.0006</fuelConsumptionPerTickInRain>
+				<fuelFilter>
+					<thingDefs>
+						<li>WoodLog</li>
+					</thingDefs>
+				</fuelFilter>
+				<initialFuelPercent>1</initialFuelPercent>
+				<showAllowAutoRefuelToggle>true</showAllowAutoRefuelToggle>
+			</li>
+			<li Class="CompProperties_Glower">
+				<glowRadius>10</glowRadius>
+				<glowColor>(252,187,113,0)</glowColor>
+			</li>
+			<li Class="CompProperties_HeatPusher">
+				<compClass>CompHeatPusherPowered</compClass>
+				<heatPerSecond>28</heatPerSecond>
+				<heatPushMaxTemperature>28</heatPushMaxTemperature>
+			</li>
+			<li Class="CottageCore.CompProperties_AdvFireOverlay">
+				<fireSize>0.5</fireSize>
+				<offset>(0,0,0.1)</offset>
+				<showRotations>
+					<li>South</li>
+				</showRotations>
+			</li>
+			<li>
+				<compClass>CompGatherSpot</compClass>
+			</li>
+			<li Class="CompProperties_MeditationFocus">
+				<statDef>MeditationFocusStrength</statDef>
+				<focusTypes>
+					<li>Flame</li>
+				</focusTypes>
+				<offsets>
+					<li Class="FocusStrengthOffset_Lit">
+						<offset>0.12</offset>
+					</li>
+					<li Class="FocusStrengthOffset_BuildingDefsLit">
+						<defs>
+							<li>Campfire</li>
+							<li>TorchLamp</li>
+							<li MayRequire="Ludeon.RimWorld.Royalty">Brazier</li>
+							<li MayRequire="Ludeon.RimWorld.Royalty,Ludeon.RimWorld.Ideology">DarklightBrazier</li>
+							<li MayRequire="Ludeon.RimWorld.Ideology">Darktorch</li>
+							<li MayRequire="Ludeon.RimWorld.Ideology">DarktorchFungus</li>
+						</defs>
+						<offsetPerBuilding>0.02</offsetPerBuilding>
+						<radius>9.9</radius>
+						<maxBuildings>8</maxBuildings>
+						<explanationKey>MeditationFocusPerFlame</explanationKey>
+						<explanationKeyAbstract>MeditationFocusPerFlameAbstract</explanationKeyAbstract>
+					</li>
+				</offsets>
+			</li>
+		</comps>
+		<designationCategory>Temperature</designationCategory>
+		<designationHotKey>Misc1</designationHotKey>
+	</ThingDef>
+
+	<ThingDef ParentName="BuildingBase">
+		<defName>CCot_FireplaceElectric</defName>
+		<label>cottage fireplace (electric)</label>
+		<description>Large, refuelable cottage fireplace that produces heat and burns out after several days. More efficient and burns hotter compared to an open campfire. As with all heat sources, it must be placed indoors so it has a closed space to heat.\n\nVariant that functions using electricity instead of fuel.</description>
+		<thingClass>Building_Heater</thingClass>
+		<category>Building</category>
+		<graphicData>
+			<texPath>Things/Building/Furniture/CottageFireplace/CottageFireplace</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(4.8,4.8)</drawSize>
+			<damageData>
+				<rect>(0.2,0,0.6,0.1)</rect>
+			</damageData>
+		</graphicData>
+		<size>(3,1)</size>
+		<uiIconScale>1.1</uiIconScale>
+		<tickerType>Normal</tickerType>
+		<drawerType>RealtimeOnly</drawerType>
+		<fillPercent>0.20</fillPercent>
+		<constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+		<defaultPlacingRot>South</defaultPlacingRot>
+		<statBases>
+			<Beauty>10</Beauty>
+			<Mass>100</Mass>
+			<MaxHitPoints>280</MaxHitPoints>
+			<WorkToBuild>1200</WorkToBuild>
+			<Flammability>0</Flammability>
+			<WorkTableWorkSpeedFactor>0.5</WorkTableWorkSpeedFactor>
+			<MeditationFocusStrength>0.0</MeditationFocusStrength>
+		</statBases>
+		<selectable>true</selectable>
+		<stuffCategories>
+			<li>Stony</li>
+		</stuffCategories>
+		<costStuffCount>80</costStuffCount>
+		<costList>
+			<WoodLog>10</WoodLog> <!-- just the intial wood -->
+		</costList>
+		<researchPrerequisites>
+			<li>Stonecutting</li>
+		</researchPrerequisites>
+		<soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+		<placeWorkers>
+			<li>PlaceWorker_Heater</li>
+			<li>PlaceWorker_MeditationOffsetBuildingsNear</li>
+		</placeWorkers>
+		<rotatable>true</rotatable>
+		<comps>
+			<li Class="CompProperties_Power">
+				<compClass>CompPowerTrader</compClass>
+				<shortCircuitInRain>true</shortCircuitInRain>
+				<basePowerConsumption>200</basePowerConsumption>
+			</li>
+			<li Class="CompProperties_Flickable" />
+			<li Class="CompProperties_Glower">
+				<glowRadius>10</glowRadius>
+				<glowColor>(252,187,113,0)</glowColor>
+			</li>
+			<li Class="CompProperties_HeatPusher">
+				<compClass>CompHeatPusherPowered</compClass>
+				<heatPerSecond>28</heatPerSecond>
+				<heatPushMaxTemperature>28</heatPushMaxTemperature>
+			</li>
+			<li Class="CottageCore.CompProperties_AdvFireOverlay">
+				<fireSize>0.5</fireSize>
+				<offset>(0,0,0.1)</offset>
+				<showRotations>
+					<li>South</li>
+				</showRotations>
+			</li>
+			<li>
+				<compClass>CompGatherSpot</compClass>
+			</li>
+			<li Class="CompProperties_MeditationFocus">
+				<statDef>MeditationFocusStrength</statDef>
+				<focusTypes>
+					<li>Flame</li>
+				</focusTypes>
+				<offsets>
+					<li Class="FocusStrengthOffset_Lit">
+						<offset>0.12</offset>
+					</li>
+					<li Class="FocusStrengthOffset_BuildingDefsLit">
+						<defs>
+							<li>Campfire</li>
+							<li>TorchLamp</li>
+							<li MayRequire="Ludeon.RimWorld.Royalty">Brazier</li>
+							<li MayRequire="Ludeon.RimWorld.Royalty,Ludeon.RimWorld.Ideology">DarklightBrazier</li>
+							<li MayRequire="Ludeon.RimWorld.Ideology">Darktorch</li>
+							<li MayRequire="Ludeon.RimWorld.Ideology">DarktorchFungus</li>
+						</defs>
+						<offsetPerBuilding>0.02</offsetPerBuilding>
+						<radius>9.9</radius>
+						<maxBuildings>8</maxBuildings>
+						<explanationKey>MeditationFocusPerFlame</explanationKey>
+						<explanationKeyAbstract>MeditationFocusPerFlameAbstract</explanationKeyAbstract>
+					</li>
+				</offsets>
+			</li>
+		</comps>
+		<designationCategory>Temperature</designationCategory>
+		<designationHotKey>Misc1</designationHotKey>
+	</ThingDef>
+
+</Defs>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<TriggerFireSprinkler.reportString>active TargetA.</TriggerFireSprinkler.reportString>
+<emptySeptictank.reportString>vide TargetA.</emptySeptictank.reportString>
+<emptyLatrine.reportString>vide TargetA.</emptyLatrine.reportString>
+
+<LoadWashing.reportString>remplit TargetA.</LoadWashing.reportString>
+<UnloadWashing.reportString>vide TargetA.</UnloadWashing.reportString>
+<LoadComposter.reportString>remplit TargetA.</LoadComposter.reportString>
+<UnloadComposter.reportString>retire le compost de TargetA.</UnloadComposter.reportString>
+<RemoveSewage.reportString>enlève les eaux usées.</RemoveSewage.reportString>
+<WatchWashingMachine.reportString>regarde le cycle d'essorage.</WatchWashingMachine.reportString>
+<UseToilet.reportString>utilise les TargetA.</UseToilet.reportString>
+<haveWildPoo.reportString>défèque à l'air libre.</haveWildPoo.reportString>
+<useWashBucket.reportString>se lave avec TargetA.</useWashBucket.reportString>
+<washAtCell.reportString>se lave</washAtCell.reportString>
+<takeShower.reportString>prend une douche avec TargetA.</takeShower.reportString>
+<takeBath.reportString>prend un bain.</takeBath.reportString>
+<washHands.reportString>se lave les mains.</washHands.reportString>
+<washPatient.reportString>lave TargetA.</washPatient.reportString>
+<RefillTub.reportString>remplit le bac de lavage.</RefillTub.reportString>
+<cleanBedpan.reportString>nettoie le bassin de lit.</cleanBedpan.reportString>
+<clearBlockage.reportString>débouche les TargetA bloqués.</clearBlockage.reportString>
+<TipOverSewage.reportString>actionne TargetA.</TipOverSewage.reportString>
+<DrainWaterTankJob.reportString>vide TargetA.</DrainWaterTankJob.reportString>
+<PlaceFertilizer.reportString>fertilise le sol.</PlaceFertilizer.reportString>
+<RefillWater.reportString>remplit d'eau</RefillWater.reportString>
+
+<DBHGoSwimming.reportString>nage dans la piscine</DBHGoSwimming.reportString>
+<UseHotTub.reportString>se relaxe</UseHotTub.reportString>
+<DBHUseSauna.reportString>utilise le sauna</DBHUseSauna.reportString>
+
+
+<!-- Le "besoin de soif" doit être activé pour éviter les erreurs -->
+<DBHDrinkFromGround.reportString>boit de l'eau.</DBHDrinkFromGround.reportString>
+<DBHDrinkFromBasin.reportString>boit l'eau de TargetA.</DBHDrinkFromBasin.reportString>
+<DBHPackWaterBottle.reportString>remplit l'outre d'eau de TargetA.</DBHPackWaterBottle.reportString>
+<DBHStockpileWaterBottles.reportString>stocke l'eau dans TargetA.</DBHStockpileWaterBottles.reportString>
+<DBHAdministerFluids.reportString>apporte de l'eau à TargetB.</DBHAdministerFluids.reportString>
+
+
+</LanguageData>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	
+  <ThingDef Name="VBY_PrimitiveProductionBase" ParentName="BuildingBase" Abstract="True">
+	<canOverlapZones>false</canOverlapZones>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>	
+	<graphicData>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>	
+    <castEdgeShadows>true</castEdgeShadows>
+    <staticSunShadowHeight>0.20</staticSunShadowHeight>
+	<altitudeLayer>Building</altitudeLayer>
+	<fillPercent>0.5</fillPercent>
+    <useHitPoints>True</useHitPoints>
+	<size>(3,1)</size>
+	<designationCategory>Production</designationCategory>	
+    <designationHotKey>Misc1</designationHotKey>
+    <thingCategories>
+      <li>BuildingsProduction</li>
+    </thingCategories>
+    <statBases>
+      <Mass>80</Mass>
+      <Flammability>0</Flammability>
+    </statBases>	
+    <interactionCellIcon>DiningChair</interactionCellIcon>
+    <comps>
+      <li Class="CompProperties_ReportWorkSpeed">
+        <workSpeedStat>WorkTableWorkSpeedFactor</workSpeedStat>
+      </li>
+    </comps>
+    <placeWorkers>
+      <li>PlaceWorker_ShowFacilitiesConnections</li>
+      <li>PlaceWorker_ReportWorkSpeedPenalties</li>
+      <li>PlaceWorker_PreventInteractionSpotOverlap</li>
+    </placeWorkers>
+    <building>
+	  <artificialForMeditationPurposes>false</artificialForMeditationPurposes>
+      <buildingTags>
+        <li>Production</li>
+      </buildingTags>
+    </building>
+	<passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionCellOffset>(0,0,-1)</interactionCellOffset>
+    <surfaceType>Item</surfaceType>
+  </ThingDef>
+  
+  
+  <ThingDef ParentName="VBY_PrimitiveProductionBase">
+	<defName>VBY_PrimitiveStoneCuttingSpot</defName>
+	<label>poste de taille de pierre primitif</label>
+	<description>Un endroit où l'on peut frapper de gros rochers pour en faire de plus petits..</description>
+	<thingClass>Building_WorkTable</thingClass>
+	<terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+	<graphicData>
+		<texPath>Things/Building/Production/VBY_StoneSpot</texPath>
+		<graphicClass>Graphic_Single</graphicClass>
+		<drawSize>(1,1)</drawSize>
+	</graphicData>
+	<altitudeLayer>FloorEmplacement</altitudeLayer>
+	<statBases>
+		<Mass>0</Mass>
+		<WorkToBuild>0</WorkToBuild>
+		<WorkTableWorkSpeedFactor>0.35</WorkTableWorkSpeedFactor>
+		<WorkTableEfficiencyFactor>0.65</WorkTableEfficiencyFactor>
+		<Cleanliness>-15</Cleanliness>
+	</statBases>
+	<castEdgeShadows Inherit="False"/> 
+	<staticSunShadowHeight Inherit="False"/>
+	<fillPercent>0</fillPercent>
+	<thingCategories Inherit="False"/>
+	<minifiedDef Inherit="False"/>
+	<comps>
+	  <li Class="CompProperties_AffectedByFacilities">
+		<linkableFacilities>
+		  <li>ToolCabinet</li>
+		  <li MayRequire="PrimitiveProduction.velcroboy333">VBY_PrimitiveToolBench</li>
+		</linkableFacilities>
+	  </li>
+	</comps>
+	<scatterableOnMapGen>false</scatterableOnMapGen>
+	<useHitPoints>False</useHitPoints>
+	<size>(1,1)</size>
+	<designationCategory>Production</designationCategory>
+	<passability>Standable</passability>
+	<hasInteractionCell>True</hasInteractionCell>
+	<interactionCellOffset>(0,0,-1)</interactionCellOffset>
+	<surfaceType>Item</surfaceType>
+	<building>
+		<sowTag>SupportPlantsOnly</sowTag>
+		<canPlaceOverImpassablePlant>false</canPlaceOverImpassablePlant>
+		<ai_chillDestination>false</ai_chillDestination>
+		<spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+	</building>
+	<designationHotKey>Misc6</designationHotKey>
+	<inspectorTabs>
+	  <li>ITab_Bills</li>
+	</inspectorTabs>     
+    <recipes />
+<!--
+	  <li MayRequire="Neronix17.Outland.Core">Outland_GrimstoneCrafting</li> 
+    </recipes>-->
+  </ThingDef>
+  
+  
+</Defs>  

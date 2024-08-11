@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  	
+<!--  =========================  Door Mat  ======================================= -->
+
+  <ThingDef ParentName="LT_MatBigBase">
+	<defName>VBY_DoorMatHayCloth</defName>
+	<label>paillasson (toile de foin)</label>
+	<graphicData>
+		<color>(102,102,0)</color>
+	</graphicData>
+	<costList>
+		<VBY_Haycloth>24</VBY_Haycloth>
+	</costList>
+	<researchPrerequisites>
+		<li>VBY_PrimitiveProduction</li>
+	</researchPrerequisites>
+	<designatorDropdown>LT_Doormat_Big</designatorDropdown> 
+  </ThingDef>
+
+  <ThingDef ParentName="LT_MatBase">
+	<defName>VBY_DoorMatHayClothSmall</defName>
+	<label>paillasson (toile de foin)</label>
+	<graphicData>
+		<color>(102,102,0)</color>
+	</graphicData>
+	<costList>
+		<VBY_Haycloth>12</VBY_Haycloth>
+	</costList>
+	<researchPrerequisites>
+		<li>VBY_PrimitiveProduction</li>
+	</researchPrerequisites>
+	<designatorDropdown>LT_Doormat_Small</designatorDropdown> 
+  </ThingDef>
+	
+<!--  =========================  [SYR] Doormats  ======================================= -->
+
+  <ThingDef ParentName="DoorMatBase">
+	<defName>VBY_DoorMatHCS</defName>
+	<label>petit paillasson (toile de foin)</label>
+	<graphicData>
+		<color>(102,102,0)</color>
+	</graphicData>
+	<costList>
+		<VBY_Haycloth>40</VBY_Haycloth>
+	</costList>
+	<researchPrerequisites>
+		<li>VBY_PrimitiveProduction</li>
+	</researchPrerequisites>
+	<designatorDropdown>Doormats_Small</designatorDropdown>
+  </ThingDef>
+
+  <ThingDef ParentName="DoorMatMediumBase">
+	<defName>VBY_DoorMatHCM</defName>
+	<label>paillasson moyen (toile de foin)</label>
+	<graphicData>
+		<color>(102,102,0)</color>
+	</graphicData>
+	<costList>
+		<VBY_Haycloth>80</VBY_Haycloth>
+	</costList>
+	<researchPrerequisites>
+		<li>VBY_PrimitiveProduction</li>
+	</researchPrerequisites>
+	<designatorDropdown>Doormats_Medium</designatorDropdown>
+  </ThingDef>
+
+  <ThingDef ParentName="DoorMatBigBase">
+	<defName>VBY_DoorMatHCL</defName>
+	<label>grand paillasson (toile de foin)</label>
+	<graphicData>
+		<color>(102,102,0)</color>
+	</graphicData>
+	<costList>
+		<VBY_Haycloth>120</VBY_Haycloth>
+	</costList>
+	<researchPrerequisites>
+		<li>VBY_PrimitiveProduction</li>
+	</researchPrerequisites>
+	<designatorDropdown>Doormats_Big</designatorDropdown>
+  </ThingDef>
+
+  <ThingDef ParentName="DoorMatLinkedBase">
+	<defName>VBY_DoorMatRedHCLK</defName>
+	<label>paillasson à liens (toile de foin)</label>
+	<graphicData>
+		<color>(102,102,0)</color>
+	</graphicData>
+	<costList>
+		<VBY_Haycloth>40</VBY_Haycloth>
+	</costList>
+	<researchPrerequisites>
+		<li>VBY_PrimitiveProduction</li>
+	</researchPrerequisites>
+	<designatorDropdown>Doormats_Linked</designatorDropdown>
+  </ThingDef>
+
+
+</Defs>

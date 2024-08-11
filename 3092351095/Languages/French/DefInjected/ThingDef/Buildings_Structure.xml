@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: raw clay wall -->
+  <DV_BasicClayWall.label>mur d’argile</DV_BasicClayWall.label>
+  <!-- EN: An impassable wall made out of just raw clay. Not the most durable, but it takes little effort to build. Capable of holding up a roof. -->
+  <DV_BasicClayWall.description>Un mur infranchissable fait d’un mélange d’argile et de foin. Ensemble, les matériaux créent une structure solide et durable qui peut prendre pas mal de coups. Capable de soutenir un toit.</DV_BasicClayWall.description>
+  
+  <!-- EN: carved clay wall -->
+  <DV_CarvedClayWall.label>mur d’argile sculpté</DV_CarvedClayWall.label>
+  <!-- EN: An impassable wall made out of a mixture of clay and hay. Together, the materials create a strong and durable structure that can take quite the beating. This specific wall is etched with intriguing and unique carving, very nice to look at. Capable of holding up a roof. -->
+  <DV_CarvedClayWall.description>Un mur infranchissable fait d’un mélange d’argile et de foin. Ensemble, les matériaux créent une structure solide et durable qui peut prendre pas mal de coups. Ce mur spécifique est gravé d’une sculpture intrigante et unique, très agréable à regarder. Capable de soutenir un toit.</DV_CarvedClayWall.description>
+  
+  <!-- EN: cobb clay wall -->
+  <DV_CobbClayWall.label>mur d’argile de cobb</DV_CobbClayWall.label>
+  <!-- EN: An impassable wall made out of a mixture of clay and hay. Together, the materials create a strong and durable structure that can take quite the beating. Capable of holding up a roof. -->
+  <DV_CobbClayWall.description>Un mur infranchissable fait d’un mélange d’argile et de foin. Ensemble, les matériaux créent une structure solide et durable qui peut prendre pas mal de coups. Capable de soutenir un toit.</DV_CobbClayWall.description>
+  
+</LanguageData>

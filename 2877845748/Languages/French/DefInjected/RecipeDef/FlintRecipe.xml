@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fabrication de blocs de calcaire avec un sous-produit de silex -->
+  <VBY_MakeLimestoneBlocksPlusFlint.label>Récupération de blocs de calcaire et de silex</VBY_MakeLimestoneBlocksPlusFlint.label>
+  <!-- EN: Une manière moins prudente de tailler les blocs de calcaire qui permet d'obtenir à la fois des blocs et un sous-produit de silex.. -->
+  <VBY_MakeLimestoneBlocksPlusFlint.description>Une manière moins prudente de tailler les blocs de calcaire qui permet d'obtenir à la fois des blocs et un certain nombre de silex.</VBY_MakeLimestoneBlocksPlusFlint.description>
+  <!-- EN: Doing an unknown recipe. -->
+  <VBY_MakeLimestoneBlocksPlusFlint.jobString>Casse des blocs de calcaire pour du silex</VBY_MakeLimestoneBlocksPlusFlint.jobString>
+  
+  <!-- EN: briser des roches calcaires -->
+  <VBY_SmashRocks.label>briser des roches calcaires</VBY_SmashRocks.label>
+  <!-- EN: Frappez deux roches calcaires l'une contre l'autre pour les briser en petits fragments de silex. -->
+  <VBY_SmashRocks.description>Frappe deux roches calcaires l'une contre l'autre pour les briser en petits fragments de silex.</VBY_SmashRocks.description>
+  <!-- EN: smashing rocks. -->
+  <VBY_SmashRocks.jobString>Casse des roches calcaires</VBY_SmashRocks.jobString>
+  
+</LanguageData>

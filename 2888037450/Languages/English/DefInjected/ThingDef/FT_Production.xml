@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 混凝土攪拌機 -->
+
+  <IC_PortableConcrete.label>concrete mixer</IC_PortableConcrete.label>
+  <IC_PortableConcrete.description>A machine that crushes and mixes stony materials into concrete dusts, doesn't requrie power but not very efficient.</IC_PortableConcrete.description>
+
+
+</LanguageData>

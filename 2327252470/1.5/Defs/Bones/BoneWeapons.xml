@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  
+ <ThingDef MayRequire="dismarzero.VGP.VGPVegetableGarden" ParentName="BaseMeleeWeapon_Sharp_Quality">
+    <defName>VBY_BambooBoneSpear</defName>
+    <label>lance en bambou et en os</label>
+    <description>Un solide morceau de bambou avec un fragment d'os attaché à l'extrémité. Parfait pour chasser le gibier ou défendre la colonie.</description>
+    <graphicData>
+      <texPath>Things/Item/Equipment/WeaponMelee/HDM_BambooBoneSpear</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>		
+    <smeltable>false</smeltable>
+    <techLevel>Neolithic</techLevel>
+    <weaponTags>
+      <li>NeolithicMeleeDecent</li>
+    </weaponTags>
+    <weaponClasses>
+      <li>Neolithic</li>
+    </weaponClasses>
+    <thingSetMakerTags>
+	  <li>RewardStandardQualitySuper</li>
+	</thingSetMakerTags>
+	<costList>
+		<Bamboo>50</Bamboo>
+	 </costList>
+    <statBases>
+      <WorkToMake>10200</WorkToMake>
+      <Mass>2</Mass>
+    </statBases>
+    <equippedAngleOffset>-25</equippedAngleOffset>
+    <tools>
+      <li>
+        <label>shaft</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>11</power>
+        <cooldownTime>2.5</cooldownTime>
+      </li>
+      <li>
+        <label>point</label>
+        <capacities>
+          <li>Stab</li>
+        </capacities>
+        <power>21</power>
+        <armorPenetration>0.35</armorPenetration>
+        <cooldownTime>2.7</cooldownTime>
+      </li>
+    </tools>
+    <recipeMaker>
+	  <recipeUsers Inherit="False">
+        <li>CraftingSpot</li>		
+		<li>VBY_PrimitiveCraftingTable</li>
+		<li>VBY_PrimitiveMeleeWeaponTable</li>
+      </recipeUsers>
+      <skillRequirements>
+        <Crafting>4</Crafting>
+      </skillRequirements>
+	  <researchPrerequisite>VBY_PrimitiveTools</researchPrerequisite>
+    </recipeMaker>
+  </ThingDef>
+ 
+  <ThingDef MayRequire="Luneyl.Bamboo" ParentName="BaseMeleeWeapon_Sharp_Quality">
+	<defName>VBY_BambooBoneSpear</defName>
+	<label>lance en os et bambou</label>
+	<description>Un solide morceau de bambou avec un fragment d'os attaché à l'extrémité. Parfait pour chasser le gibier ou défendre la colonie.</description>
+	<graphicData>
+	  <texPath>Things/Item/Equipment/WeaponMelee/HDM_BambooBoneSpear</texPath>
+	  <graphicClass>Graphic_Single</graphicClass>
+	</graphicData>		
+	<smeltable>false</smeltable>
+	<techLevel>Neolithic</techLevel>
+	<weaponTags>
+	  <li>NeolithicMeleeDecent</li>
+	</weaponTags>
+	<weaponClasses>
+	  <li>Neolithic</li>
+	</weaponClasses>
+	<thingSetMakerTags>
+	  <li>RewardStandardQualitySuper</li>
+	</thingSetMakerTags>
+	<costList>
+		<Bamboo>50</Bamboo>
+	 </costList>
+	<statBases>
+	  <WorkToMake>10200</WorkToMake>
+	  <Mass>2</Mass>
+	</statBases>
+	<equippedAngleOffset>-25</equippedAngleOffset>
+	<tools>
+	  <li>
+		<label>shaft</label>
+		<capacities>
+		  <li>Blunt</li>
+		  <li>Poke</li>
+		</capacities>
+		<power>11</power>
+		<cooldownTime>2.5</cooldownTime>
+	  </li>
+	  <li>
+		<label>point</label>
+		<capacities>
+		  <li>Stab</li>
+		</capacities>
+		<power>21</power>
+		<armorPenetration>0.35</armorPenetration>
+		<cooldownTime>2.7</cooldownTime>
+	  </li>
+	</tools>
+	<recipeMaker>
+	  <recipeUsers Inherit="False">
+		<li>CraftingSpot</li>		
+		<li>VBY_PrimitiveCraftingTable</li>
+		<li>VBY_PrimitiveMeleeWeaponTable</li>
+	  </recipeUsers>
+	  <skillRequirements>
+		<Crafting>4</Crafting>
+	  </skillRequirements>
+	  <researchPrerequisite>VBY_PrimitiveTools</researchPrerequisite>
+	</recipeMaker>
+ </ThingDef>
+ 
+ <ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">
+    <defName>VBY_BoneSpear</defName>
+    <label>lance d'os</label>
+    <description>Une pièce de bois solide avec un fragment d'os attaché à l'extrémité. Parfait pour chasser le gibier ou défendre la colonie.</description>
+    <graphicData>
+      <texPath>Things/Item/Equipment/WeaponMelee/HDM_BoneSpear</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>		
+    <smeltable>false</smeltable>
+    <techLevel>Neolithic</techLevel>
+    <weaponTags>
+      <li>NeolithicMeleeDecent</li>
+    </weaponTags>
+    <weaponClasses>
+      <li>Neolithic</li>
+    </weaponClasses>
+    <thingSetMakerTags>
+	  <li>RewardStandardQualitySuper</li>
+	</thingSetMakerTags>
+	<costList>
+		<WoodLog>50</WoodLog>
+	 </costList>
+    <statBases>
+      <WorkToMake>10200</WorkToMake>
+      <Mass>2</Mass>
+    </statBases>
+    <equippedAngleOffset>-25</equippedAngleOffset>
+    <tools>
+      <li>
+        <label>shaft</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>11</power>
+        <cooldownTime>2.5</cooldownTime>
+      </li>
+      <li>
+        <label>point</label>
+        <capacities>
+          <li>Stab</li>
+        </capacities>
+        <power>21</power>
+        <armorPenetration>0.35</armorPenetration>
+        <cooldownTime>2.7</cooldownTime>
+      </li>
+    </tools>
+    <recipeMaker>
+	  <recipeUsers Inherit="False">
+        <li>CraftingSpot</li>		
+		<li>VBY_PrimitiveCraftingTable</li>
+		<li>VBY_PrimitiveMeleeWeaponTable</li>
+      </recipeUsers>
+      <skillRequirements>
+        <Crafting>4</Crafting>
+      </skillRequirements>
+	  <researchPrerequisite>VBY_PrimitiveTools</researchPrerequisite>
+    </recipeMaker>
+  </ThingDef>
+
+</Defs>

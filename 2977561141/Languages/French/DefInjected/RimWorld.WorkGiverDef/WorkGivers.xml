@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cook meals at stove -->
+  <CCot_DoBillsWoodenStove.label>cuisine des repas au fourneau</CCot_DoBillsWoodenStove.label>
+  <!-- EN: cooking at -->
+  <CCot_DoBillsWoodenStove.gerund>cuisine à</CCot_DoBillsWoodenStove.gerund>
+  <!-- EN: cook -->
+  <CCot_DoBillsWoodenStove.verb>cuisiner</CCot_DoBillsWoodenStove.verb>
+  
+</LanguageData>

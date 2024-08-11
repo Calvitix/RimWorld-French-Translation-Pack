@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cottage dress -->
+  <CCot_Apparel_CottageDress.label>Robe de chalet</CCot_Apparel_CottageDress.label>
+  <!-- EN: A dress shirt, corset and skirt combo that keeps the heat in. Made for ladies, but don’t let that stop you. -->
+  <CCot_Apparel_CottageDress.description>Une combinaison de chemise, de corset et de jupe qui conserve la chaleur. Fait pour les dames, mais ne vous laissez pas arrêter par cela.</CCot_Apparel_CottageDress.description>
+  
+  <!-- EN: cottage sweater -->
+  <CCot_Apparel_CottageSweater.label>Pull de chalet</CCot_Apparel_CottageSweater.label>
+  <!-- EN: A chunky knit sweater, ideal for cold weather while still allowing for a jacket. -->
+  <CCot_Apparel_CottageSweater.description>Un pull en tricot épais, idéal pour le temps froid tout en permettant de porter une veste.</CCot_Apparel_CottageSweater.description>
+  
+  <!-- EN: ruffled dress -->
+  <CCot_Apparel_RuffledDress.label>Robe à volants</CCot_Apparel_RuffledDress.label>
+  <!-- EN: A stunning ruffled dress that is sure to impress, while keeping the wearer cool on hot days. The design may stun for different reasons if it can’t be “filled in”. -->
+  <CCot_Apparel_RuffledDress.description>Une superbe robe à volants qui ne manquera pas d'impressionner, tout en gardant le porteur au frais pendant les journées chaudes. Le design peut surprendre pour différentes raisons s'il ne peut pas être "rempli".</CCot_Apparel_RuffledDress.description>
+
+  
+</LanguageData>

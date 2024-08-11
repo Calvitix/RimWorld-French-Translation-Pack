@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+<!-- FR: <color=#00ff00>Talent : Artiste</color> -->
+<RT_TalentArtist.degreeDatas.color00ff00Talent_Artistcolor.label><color=#00ff00>Talent : Artiste</color></RT_TalentArtist.degreeDatas.color00ff00Talent_Artistcolor.label>
+<!-- FR: Peut-être que c'est de l'art, ou peut-être que [PAWN_nameDef] a trébuché sur un seau de peinture. Encore. -->
+<RT_TalentArtist.degreeDatas.color00ff00Talent_Artistcolor.description>Peut-être que c'est de l'art, ou peut-être que [PAWN_nameDef] a trébuché sur un seau de peinture. Encore.</RT_TalentArtist.degreeDatas.color00ff00Talent_Artistcolor.description>
+
+<!-- FR: <color=#00ff00>Talent : Archer</color> -->
+<RT_TalentBowman.degreeDatas.color00ff00Talent_Archercolor.label><color=#00ff00>Talent : Archer</color></RT_TalentBowman.degreeDatas.color00ff00Talent_Archercolor.label>
+<!-- FR: [PAWN_nameDef] est naturellement doué pour tirer de loin. [PAWN_pronoun] peut se battre au corps à corps, mais préfère ne pas le faire. -->
+<RT_TalentBowman.degreeDatas.color00ff00Talent_Archercolor.description>[PAWN_nameDef] est naturellement doué pour tirer de loin. [PAWN_pronoun] peut se battre au corps à corps, mais préfère ne pas le faire.</RT_TalentBowman.degreeDatas.color00ff00Talent_Archercolor.description>
+
+<!-- FR: <color=#00ff00>Talent : Bâtisseur</color> -->
+<RT_TalentBuilder.degreeDatas.color00ff00Talent_btisseurcolor.label><color=#00ff00>Talent : Bâtisseur</color></RT_TalentBuilder.degreeDatas.color00ff00Talent_btisseurcolor.label>
+<!-- FR: [PAWN_nameDef] est un bâtisseur compétent. [PAWN_pronoun] sait construire toutes sortes de bâtiments et de meubles. -->
+<RT_TalentBuilder.degreeDatas.color00ff00Talent_btisseurcolor.description>[PAWN_nameDef] est un bâtisseur compétent. [PAWN_pronoun] sait construire toutes sortes de bâtiments et de meubles.</RT_TalentBuilder.degreeDatas.color00ff00Talent_btisseurcolor.description>
+
+<!-- FR: <color=#00ff00>Talent : Boucher</color> -->
+<RT_TalentButcher.degreeDatas.color00ff00Talent_Butchercolor.label><color=#00ff00>Talent : Boucher</color></RT_TalentButcher.degreeDatas.color00ff00Talent_Butchercolor.label>
+<!-- FR: [PAWN_nameDef] aime découper la viande en morceaux, de préférence de la viande animale... -->
+<RT_TalentButcher.degreeDatas.color00ff00Talent_Butchercolor.description>[PAWN_nameDef] aime découper la viande en morceaux, de préférence de la viande animale...</RT_TalentButcher.degreeDatas.color00ff00Talent_Butchercolor.description>
+
+<!-- FR: <color=#00ff00>Talent : Imitateur</color> -->
+<RT_TalentCopycat.degreeDatas.color00ff00Talent_Copycatcolor.label><color=#00ff00>Talent : Imitateur</color></RT_TalentCopycat.degreeDatas.color00ff00Talent_Copycatcolor.label>
+<!-- FR: [PAWN_nameDef] n'est particulièrement bon en rien, sauf à faire ce que tout le monde fait. -->
+<RT_TalentCopycat.degreeDatas.color00ff00Talent_Copycatcolor.description>[PAWN_nameDef] n'est particulièrement bon en rien, sauf à faire ce que tout le monde fait.</RT_TalentCopycat.degreeDatas.color00ff00Talent_Copycatcolor.description>
+
+<!-- FR: <color=#00ff00>Talent : Fermier</color> -->
+<RT_TalentFarmer.degreeDatas.color00ff00Talent_Farmercolor.label><color=#00ff00>Talent : Fermier</color></RT_TalentFarmer.degreeDatas.color00ff00Talent_Farmercolor.label>
+<!-- FR: [PAWN_nameDef] aime regarder les choses pousser. -->
+<RT_TalentFarmer.degreeDatas.color00ff00Talent_Farmercolor.description>[PAWN_nameDef] aime regarder les choses pousser.</RT_TalentFarmer.degreeDatas.color00ff00Talent_Farmercolor.description>
+
+<!-- FR: <color=#00ff00>Talent : Entretien des espaces verts</color> -->
+<RT_TalentGroundskeeper.degreeDatas.color00ff00Talent_Entretien_des_espaces_vertscolor.label><color=#00ff00>Talent : Entretien des espaces verts</color></RT_TalentGroundskeeper.degreeDatas.color00ff00Talent_Entretien_des_espaces_vertscolor.label>
+<!-- FR: [PAWN_nameDef] passe son temps à tout garder propre et arrangé. -->
+<RT_TalentGroundskeeper.degreeDatas.color00ff00Talent_Entretien_des_espaces_vertscolor.description>[PAWN_nameDef] passe son temps à tout garder propre et arrangé.</RT_TalentGroundskeeper.degreeDatas.color00ff00Talent_Entretien_des_espaces_vertscolor.description>
+
+<!-- FR: <color=#00ff00>Talent : Berger</color> -->
+<RT_TalentHerder.degreeDatas.color00ff00Talent_Herdercolor.label><color=#00ff00>Talent : Berger</color></RT_TalentHerder.degreeDatas.color00ff00Talent_Herdercolor.label>
+<!-- FR: [PAWN_nameDef] aime élever des animaux et être en leur présence. -->
+<RT_TalentHerder.degreeDatas.color00ff00Talent_Herdercolor.description>[PAWN_nameDef] aime élever des animaux et être en leur présence.</RT_TalentHerder.degreeDatas.color00ff00Talent_Herdercolor.description>
+
+<!-- FR: <color=#00ff00>Talent : Aide-cuisinier</color> -->
+<RT_TalentKitchenhand.degreeDatas.color00ff00Talent_Kitchenhandcolor.label><color=#00ff00>Talent : Aide-cuisinier</color></RT_TalentKitchenhand.degreeDatas.color00ff00Talent_Kitchenhandcolor.label>
+<!-- FR: [PAWN_nameDef] aime regarder les autres cuisiner. -->
+<RT_TalentKitchenhand.degreeDatas.color00ff00Talent_Kitchenhandcolor.description>[PAWN_nameDef] aime regarder les autres cuisiner.</RT_TalentKitchenhand.degreeDatas.color00ff00Talent_Kitchenhandcolor.description>
+
+<!-- FR: <color=#00ff00>Talent : Mineur</color> -->
+<RT_TalentMiner.degreeDatas.color00ff00Talent_Minercolor.label><color=#00ff00>Talent : Mineur</color></RT_TalentMiner.degreeDatas.color00ff00Talent_Minercolor.label>
+<!-- FR: [PAWN_nameDef] passe beaucoup de temps à examiner les roches. [PAWN_pronoun] est plutôt bon pour repérer les minéraux précieux. -->
+<RT_TalentMiner.degreeDatas.color00ff00Talent_Minercolor.description>[PAWN_nameDef] passe beaucoup de temps à examiner les roches. [PAWN_pronoun] est plutôt bon pour repérer les minéraux précieux.</RT_TalentMiner.degreeDatas.color00ff00Talent_Minercolor.description>
+
+<!-- FR: <color=#00ff00>Talent : Médecin</color> -->
+<RT_TalentPhysician.degreeDatas.color00ff00Talent_Physiciancolor.label><color=#00ff00>Talent : Médecin</color></RT_TalentPhysician.degreeDatas.color00ff00Talent_Physiciancolor.label>
+<!-- FR: [PAWN_nameDef] a réalisé un jour qu'il pouvait regarder des corps nus avec une excuse valable. -->
+<RT_TalentPhysician.degreeDatas.color00ff00Talent_Physiciancolor.description>[PAWN_nameDef] a réalisé un jour qu'il pouvait regarder des corps nus avec une excuse valable.</RT_TalentPhysician.degreeDatas.color00ff00Talent_Physiciancolor.description>
+
+<!-- FR: <color=#00ff00>Talent : Érudit</color> -->
+<RT_TalentScholar.degreeDatas.color00ff00Talent_Scholarcolor.label><color=#00ff00>Talent : Érudit</color></RT_TalentScholar.degreeDatas.color00ff00Talent_Scholarcolor.label>
+<!-- FR: [PAWN_nameDef] a soif de connaissances. -->
+<RT_TalentScholar.degreeDatas.color00ff00Talent_Scholarcolor.description>[PAWN_nameDef] a soif de connaissances.</RT_TalentScholar.degreeDatas.color00ff00Talent_Scholarcolor.description>
+
+<!-- FR: <color=#00ff00>Talent : Forgeron</color> -->
+<RT_TalentSmith.degreeDatas.color00ff00Talent_Smithcolor.label><color=#00ff00>Talent : Forgeron</color></RT_TalentSmith.degreeDatas.color00ff00Talent_Smithcolor.label>
+<!-- FR: [PAWN_nameDef] aime le son que fait la forge. Ding ! Ding ! Ding ! -->
+<RT_TalentSmith.degreeDatas.color00ff00Talent_Smithcolor.description>[PAWN_nameDef] aime le son que fait la forge. Ding ! Ding ! Ding !</RT_TalentSmith.degreeDatas.color00ff00Talent_Smithcolor.description>
+
+
+<!-- FR: <color=#00ff00>Talent : Épéiste</color> -->
+<RT_TalentSwordsman.degreeDatas.color00ff00Talent_pistecolor.label><color=#00ff00>Talent : Épéiste</color></RT_TalentSwordsman.degreeDatas.color00ff00Talent_pistecolor.label>
+<!-- FR: [PAWN_nameDef] est habile avec une épée. [PAWN_pronoun] sait manier l'arc, mais préfère se battre de près. -->
+<RT_TalentSwordsman.degreeDatas.color00ff00Talent_pistecolor.description>[PAWN_nameDef] est habile avec une épée. [PAWN_pronoun] sait manier l'arc, mais préfère se battre de près.</RT_TalentSwordsman.degreeDatas.color00ff00Talent_pistecolor.description>
+
+<!-- FR: <color=#00ff00>Talent : Tailleur</color> -->
+<RT_TalentTailor.degreeDatas.color00ff00Talent_Tailorcolor.label><color=#00ff00>Talent : Tailleur</color></RT_TalentTailor.degreeDatas.color00ff00Talent_Tailorcolor.label>
+<!-- FR: [PAWN_nameDef] pense qu'il serait bien que tout le monde arrête de courir partout sans vêtements. -->
+<RT_TalentTailor.degreeDatas.color00ff00Talent_Tailorcolor.description>[PAWN_nameDef] pense qu'il serait bien que tout le monde arrête de courir partout sans vêtements.</RT_TalentTailor.degreeDatas.color00ff00Talent_Tailorcolor.description>
+
+<!-- FR: <color=#00ff00>Talent : Négociant</color> -->
+<RT_TalentTrader.degreeDatas.color00ff00Talent_Tradercolor.label><color=#00ff00>Talent : Négociant</color></RT_TalentTrader.degreeDatas.color00ff00Talent_Tradercolor.label>
+<!-- FR: [PAWN_nameDef] est un bon négociateur, tellement bon qu'il commence à en tirer de l'argent. -->
+<RT_TalentTrader.degreeDatas.color00ff00Talent_Tradercolor.description>[PAWN_nameDef] est un bon négociateur, tellement bon qu'il commence à en tirer de l'argent.</RT_TalentTrader.degreeDatas.color00ff00Talent_Tradercolor.description>
+
+</LanguageData>

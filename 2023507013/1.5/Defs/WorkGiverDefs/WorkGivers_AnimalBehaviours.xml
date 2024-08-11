@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+ 
+
+	
+	<WorkGiverDef>
+		<defName>VEF_AnimalResource</defName>
+		<label>récupère une ressource animale</label>
+		<giverClass>AnimalBehaviours.WorkGiver_AnimalResource</giverClass>
+		<workType>Handling</workType>
+		<verb>récupère une ressource animale de</verb>
+		<gerund>récupère une ressource animale de</gerund>
+		<priorityInType>85</priorityInType>
+		<requiredCapacities>
+		  <li>Manipulation</li>
+		</requiredCapacities>
+    </WorkGiverDef>
+	
+	<WorkGiverDef>
+		<defName>VEF_DestroyItems</defName>
+		<label>détruire les objets</label>
+		<giverClass>AnimalBehaviours.WorkGiver_DestroyItem</giverClass>
+		<workType>Hauling</workType>
+		<verb>détruire les objets</verb>
+		<gerund>détruit des objets</gerund>
+		<priorityInType>85</priorityInType>
+		<requiredCapacities>
+		  <li>Manipulation</li>
+		</requiredCapacities>
+    </WorkGiverDef>
+	
+
+
+
+
+</Defs>

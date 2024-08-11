@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: potted plants -->
+  <CCol_PottedPlants.label>plantes en pot</CCol_PottedPlants.label>
+  
+  <!-- EN: stoves -->
+  <CCol_Stoves.label>fourneaux</CCol_Stoves.label>
+  
+  <!-- EN: cobblestone -->
+  <CCot_Floor_Cobblestone.label>pierre de taille</CCot_Floor_Cobblestone.label>
+  
+</LanguageData>

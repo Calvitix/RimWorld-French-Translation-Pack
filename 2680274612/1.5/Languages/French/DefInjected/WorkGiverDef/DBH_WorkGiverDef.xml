@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<PlaceFertilizer.label>fertiliser</PlaceFertilizer.label>
+<PlaceFertilizer.verb>fertiliser</PlaceFertilizer.verb>
+<PlaceFertilizer.gerund>fertilisation</PlaceFertilizer.gerund>
+
+<TipSewage.label>actionner</TipSewage.label>
+<TipSewage.verb>actionner</TipSewage.verb>
+<TipSewage.gerund>actionnement</TipSewage.gerund>
+
+<DrainWaterTank.label>vidanger le château d'eau ou le grand réservoir</DrainWaterTank.label>
+<DrainWaterTank.verb>vidanger</DrainWaterTank.verb>
+<DrainWaterTank.gerund>évacuation de l'eau</DrainWaterTank.gerund>
+
+<ClearBlockage.label>déboucher le siphon</ClearBlockage.label>
+<ClearBlockage.verb>déboucher</ClearBlockage.verb>
+<ClearBlockage.gerund>débouchage</ClearBlockage.gerund>
+
+<washPatient.label>laver les patients</washPatient.label>
+<washPatient.verb>laver</washPatient.verb>
+<washPatient.gerund>lavage</washPatient.gerund>
+
+<DocCleanBedpan.label>bassin de lit propre</DocCleanBedpan.label>
+<DocCleanBedpan.verb>nettoyer</DocCleanBedpan.verb>
+<DocCleanBedpan.gerund>nettoyage</DocCleanBedpan.gerund>
+
+<cleanBedpan.label>bassin de lit propre</cleanBedpan.label>
+<cleanBedpan.verb>nettoyer</cleanBedpan.verb>
+<cleanBedpan.gerund>nettoyage</cleanBedpan.gerund>
+
+<DoBillsBurnPit.label>brûler dans la fosse</DoBillsBurnPit.label>
+<DoBillsBurnPit.verb>brûler</DoBillsBurnPit.verb>
+<DoBillsBurnPit.gerund>incinération</DoBillsBurnPit.gerund>
+
+<RemoveSewage.label>enlever les eaux usées dans des barils</RemoveSewage.label>
+<RemoveSewage.verb>enlever les eaux usées</RemoveSewage.verb>
+<RemoveSewage.gerund>nettoyage des eaux usées</RemoveSewage.gerund>
+
+<UnloadWashing.label>vider la machine à laver</UnloadWashing.label>
+<UnloadWashing.verb>vider</UnloadWashing.verb>
+<UnloadWashing.gerund>enlévement des vêtements</UnloadWashing.gerund>
+
+<LoadWashing.label>remplir la machine à laver</LoadWashing.label>
+<LoadWashing.verb>remplir</LoadWashing.verb>
+<LoadWashing.gerund>remplissage</LoadWashing.gerund>
+
+<UnloadComposter.label>extraire le biosolide du</UnloadComposter.label>
+<UnloadComposter.verb>extraire</UnloadComposter.verb>
+<UnloadComposter.gerund>extraction</UnloadComposter.gerund>
+
+<FillComposter.label>remplir le composteur</FillComposter.label>
+<FillComposter.verb>remplir</FillComposter.verb>
+<FillComposter.gerund>remplissage</FillComposter.gerund>
+
+<emptySepticTank.label>vider fosse septique</emptySepticTank.label>
+<emptySepticTank.verb>vider</emptySepticTank.verb>
+<emptySepticTank.gerund>vidange</emptySepticTank.gerund>
+
+<WardenEmptySepticTank.label>vider fosse septique</WardenEmptySepticTank.label>
+<WardenEmptySepticTank.verb>vider</WardenEmptySepticTank.verb>
+<WardenEmptySepticTank.gerund>vidange</WardenEmptySepticTank.gerund>
+
+<RefillWater.label>remplir d'eau</RefillWater.label>
+<RefillWater.verb>remplir</RefillWater.verb>
+<RefillWater.gerund>remplissage</RefillWater.gerund>
+
+<WardenRefillWater.label>remplir d'eau</WardenRefillWater.label>
+<WardenRefillWater.verb>remplir</WardenRefillWater.verb>
+<WardenRefillWater.gerund>remplissage</WardenRefillWater.gerund>
+
+<CleanFilthIndoors.label>nettoyer la saleté à l'intérieur</CleanFilthIndoors.label>
+<CleanFilthIndoors.verb>nettoyer</CleanFilthIndoors.verb>
+<CleanFilthIndoors.gerund>nettoyage</CleanFilthIndoors.gerund>
+
+<washChild.label>laver les enfants</washChild.label>
+<washChild.gerund>lavage</washChild.gerund>
+<washChild.verb>laver</washChild.verb>
+
+
+<!-- Le "besoin de soif" doit être activé pour éviter les erreurs -->
+<DBHAdministerFluids.label>administrer le liquide</DBHAdministerFluids.label>
+<DBHAdministerFluids.verb>aider à faire boire</DBHAdministerFluids.verb>
+<DBHAdministerFluids.gerund>aide à faire boire</DBHAdministerFluids.gerund>
+
+<DBHAdministerFluidsWarden.label>administrer le liquide</DBHAdministerFluidsWarden.label>
+<DBHAdministerFluidsWarden.gerund>aide à faire boire</DBHAdministerFluidsWarden.gerund>
+<DBHAdministerFluidsWarden.verb>aider à faire boire</DBHAdministerFluidsWarden.verb>
+
+
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mechanical arm -->
+  <MechanicalMedArm.label>TODO</MechanicalMedArm.label>
+  <!-- EN: A mechanical arm. -->
+  <MechanicalMedArm.description>TODO</MechanicalMedArm.description>
+  
+  <!-- EN: intricate ear -->
+  <MechanicalMedEar.label>TODO</MechanicalMedEar.label>
+  <!-- EN: An intricate ear. -->
+  <MechanicalMedEar.description>TODO</MechanicalMedEar.description>
+  
+  <!-- EN: intricate eye -->
+  <MechanicalMedEye.label>TODO</MechanicalMedEye.label>
+  <!-- EN: An intricate eye. -->
+  <MechanicalMedEye.description>TODO</MechanicalMedEye.description>
+  
+  <!-- EN: mechanical finger -->
+  <MechanicalMedFinger.label>TODO</MechanicalMedFinger.label>
+  <!-- EN: A mechanical finger. -->
+  <MechanicalMedFinger.description>TODO</MechanicalMedFinger.description>
+  
+  <!-- EN: mechanical foot -->
+  <MechanicalMedFoot.label>TODO</MechanicalMedFoot.label>
+  <!-- EN: A mechanical foot. -->
+  <MechanicalMedFoot.description>TODO</MechanicalMedFoot.description>
+  
+  <!-- EN: mechanical hand -->
+  <MechanicalMedHand.label>TODO</MechanicalMedHand.label>
+  <!-- EN: A mechanical hand. -->
+  <MechanicalMedHand.description>TODO</MechanicalMedHand.description>
+  
+  <!-- EN: mechanical leg -->
+  <MechanicalMedLeg.label>TODO</MechanicalMedLeg.label>
+  <!-- EN: A mechanical leg. -->
+  <MechanicalMedLeg.description>TODO</MechanicalMedLeg.description>
+  
+  <!-- EN: intricate nose -->
+  <MechanicalMedNose.label>TODO</MechanicalMedNose.label>
+  <!-- EN: An intricate nose. -->
+  <MechanicalMedNose.description>TODO</MechanicalMedNose.description>
+  
+  <!-- EN: mechanical toe -->
+  <MechanicalMedToe.label>TODO</MechanicalMedToe.label>
+  <!-- EN: A mechanical toe. -->
+  <MechanicalMedToe.description>TODO</MechanicalMedToe.description>
+  
+</LanguageData>

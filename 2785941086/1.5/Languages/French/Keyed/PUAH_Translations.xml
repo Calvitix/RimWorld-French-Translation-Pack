@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+<PUAH.allowCorpses>Autoriser de mettre des cadavres dans l'inventaire.</PUAH.allowCorpses>
+<PUAH.allowCorpsesTooltip>Désactivé par défaut. Ne portez que ceux qui sont directement dans les mains à la place.</PUAH.allowCorpsesTooltip>
+<PUAH.allowAnimals>Autoriser les bêtes de somme apprivoisées d'utiliser leur inventaire pour le transport.</PUAH.allowAnimals>
+<PUAH.allowAnimalsTooltip>Activé par défaut. Fonctionne mieux avec les mods qui donnent des sacs à dos à un plus grand nombre d'animaux, comme VFME Caravan Packs.</PUAH.allowAnimalsTooltip>
+<PUAH.allowMechanoids>Autoriser les méchanoïdes piratés à utiliser leur inventaire pour le transport.</PUAH.allowMechanoids>
+<PUAH.allowMechanoidsTooltip>Nécessite What The Hack ou des mods similaires. Activé par défaut.</PUAH.allowMechanoidsTooltip>
+<PUAH.minimumFreeInventorySpace>Espace libre minimum dans l'inventaire pour utiliser l’inventaire pour le transport :</PUAH.minimumFreeInventorySpace>
+<PUAH.minimumFreeInventorySpaceTooltip>Les colons avec moins d'espace d'inventaire libre que celui défini ici utilisent directement le transport Vanilla.\n0% fait qu'ils essaient toujours le transport vers l'inventaire, qu'ils aient de la place pour une pomme de terre de plus ou non.\n100% fait en sorte que PUAH exige que les colons soient complètement nus. Défaut 20</PUAH.minimumFreeInventorySpaceTooltip>
+
+
+</LanguageData>

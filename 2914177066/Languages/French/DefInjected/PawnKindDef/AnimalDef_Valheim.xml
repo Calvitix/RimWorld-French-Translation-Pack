@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: frostwolf -->
+  <ERN_FrostWolf.label>loup du givre</ERN_FrostWolf.label>
+  <!-- EN: frostwolves -->
+  <ERN_FrostWolf.labelPlural>loup du givre</ERN_FrostWolf.labelPlural>
+  <!-- EN: frostwolf cub -->
+  <ERN_FrostWolf.lifeStages.frostwolf_cub.label>louveteau de givre</ERN_FrostWolf.lifeStages.frostwolf_cub.label>
+  <!-- EN: frostwolf cubs -->
+  <ERN_FrostWolf.lifeStages.frostwolf_cub.labelPlural>louveteaux de givre</ERN_FrostWolf.lifeStages.frostwolf_cub.labelPlural>
+  
+  <!-- EN: lox -->
+  <ERN_Lox.label>lox</ERN_Lox.label>
+  <!-- EN: loxen -->
+  <ERN_Lox.labelPlural>lox</ERN_Lox.labelPlural>
+  <!-- EN: lox calf -->
+  <ERN_Lox.lifeStages.lox_calf.label>jeune lox</ERN_Lox.lifeStages.lox_calf.label>
+  <!-- EN: lox calves -->
+  <ERN_Lox.lifeStages.lox_calf.labelPlural>jeunes lox</ERN_Lox.lifeStages.lox_calf.labelPlural>
+  
+  <!-- EN: misthare -->
+  <ERN_Misthare.label>lièvre de brume</ERN_Misthare.label>
+  
+  <!-- EN: neck -->
+  <ERN_Neck.label>cou</ERN_Neck.label>
+  
+  <!-- EN: valboar -->
+  <ERN_Valboar.label>sanglier val</ERN_Valboar.label>
+  
+</LanguageData>

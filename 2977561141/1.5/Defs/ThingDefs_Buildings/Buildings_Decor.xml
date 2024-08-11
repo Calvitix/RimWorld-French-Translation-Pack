@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<ThingDef ParentName="FurnitureWithQualityBase">
+		<defName>CCol_BucketPlantPot</defName>
+		<label>plant bucket</label>
+		<description>A repurposed bucket, built from scratch for some reason, that holds soil to grow decorative flowers. The handle is fixed in place, don’t question it.</description>
+		<thingClass>Building_PlantGrower</thingClass>
+		<graphicData>
+			<texPath>Things/Building/Decor/BucketPlantPot/BucketPlantPot</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shadowData>
+				<volume>(0.55, 0.35, 0.3)</volume>
+				<offset>(0, 0, -0.28)</offset>
+			</shadowData>
+			<damageData>
+				<rect>(0.2,0.2,0.6,0.6)</rect>
+			</damageData>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>PassThroughOnly</passability>
+		<fillPercent>0.20</fillPercent>
+		<statBases>
+			<MaxHitPoints>75</MaxHitPoints>
+			<WorkToBuild>250</WorkToBuild>
+			<Mass>2</Mass>
+			<Flammability>1.0</Flammability>
+		</statBases>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		<costStuffCount>20</costStuffCount>
+		<comps>
+			<li Class="CompProperties_Forbiddable" />
+			<li Class="CompProperties_Styleable" />
+		</comps>
+		<fertility>1.0</fertility>
+		<designationHotKey>Misc9</designationHotKey>
+		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+		<building>
+			<defaultPlantToGrow>Plant_Daylily</defaultPlantToGrow>
+			<sowTag>Decorative</sowTag>
+		</building>
+		<rotatable>false</rotatable>
+		<uiIconOffset>(0, -0.05)</uiIconOffset>
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
+	</ThingDef>
+
+	<ThingDef ParentName="FurnitureWithQualityBase">
+		<defName>CCol_Grinder</defName>
+		<label>grinder</label>
+		<description>A grinder, unlike the app this will not bring the boys to your yard.</description>
+		<graphicData>
+			<texPath>Things/Building/Decor/Grinder</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1.2, 1.2)</drawSize>
+		</graphicData>
+		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+		<rotatable>false</rotatable>
+		<uiIconOffset>(0, -0.05)</uiIconOffset>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>PassThroughOnly</passability>
+		<fillPercent>0.20</fillPercent>
+		<statBases>
+			<MaxHitPoints>75</MaxHitPoints>
+			<WorkToBuild>250</WorkToBuild>
+			<Mass>2</Mass>
+			<Flammability>1.0</Flammability>
+		</statBases>
+		<costList>
+			<Steel>10</Steel>
+			<WoodLog>10</WoodLog>
+		</costList>
+		<comps>
+			<li Class="CompProperties_Styleable" />
+		</comps>
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
+		
+	</ThingDef>
+
+	<ThingDef ParentName="FurnitureWithQualityBase">
+		<defName>CCol_TeaSet</defName>
+		<label>tea set</label>
+		<description>A nice tea set on a tree stump table, what's that Mr Flibble? We can't possibly do that, who'd clean up the mess?</description>
+		<graphicData>
+			<texPath>Things/Building/Decor/TeaSet</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(0.9, 0.9)</drawSize>
+		</graphicData>
+		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+		<rotatable>false</rotatable>
+		<uiIconOffset>(0, -0.05)</uiIconOffset>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>PassThroughOnly</passability>
+		<fillPercent>0.20</fillPercent>
+		<statBases>
+			<MaxHitPoints>75</MaxHitPoints>
+			<WorkToBuild>250</WorkToBuild>
+			<Mass>2</Mass>
+			<Flammability>1.0</Flammability>
+		</statBases>
+		<costList>
+			<Steel>10</Steel>
+			<WoodLog>10</WoodLog>
+		</costList>
+		<comps>
+			<li Class="CompProperties_Styleable" />
+		</comps>
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
+	</ThingDef>
+
+	<ThingDef ParentName="FurnitureWithQualityBase">
+		<defName>CCol_WheelBarrow</defName>
+		<label>wheel barrow</label>
+		<description>A garden wheel barrow, useful for moving lots of dirt around, or the occasional body.</description>
+		<graphicData>
+			<texPath>Things/Building/Decor/WheelBarrow</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(2, 2)</drawSize>
+		</graphicData>
+		<size>(2, 1)</size>
+		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+		<rotatable>false</rotatable>
+		<uiIconOffset>(0, -0.05)</uiIconOffset>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>PassThroughOnly</passability>
+		<fillPercent>0.20</fillPercent>
+		<statBases>
+			<MaxHitPoints>75</MaxHitPoints>
+			<WorkToBuild>250</WorkToBuild>
+			<Mass>2</Mass>
+			<Flammability>1.0</Flammability>
+		</statBases>
+		<stuffCategories>
+			<li>Woody</li>
+		</stuffCategories>
+		<costStuffCount>20</costStuffCount>
+		<comps>
+			<li Class="CompProperties_Styleable" />
+		</comps>
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
+	</ThingDef>
+
+	<ThingDef ParentName="FurnitureWithQualityBase">
+		<defName>CCol_PottedPlantA</defName>
+		<label>potted plant a</label>
+		<clearBuildingArea>false</clearBuildingArea>
+		<description>A cute potted plant perfect for decorating any room.</description>
+		<graphicData>
+			<texPath>Things/Building/Decor/PottedPlants/PottedPlant_A</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1, 1)</drawSize>
+			<drawOffset>(0.0, 0.0, 0.25)</drawOffset>
+		</graphicData>
+		<size>(1, 1)</size>
+		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+		<rotatable>false</rotatable>
+		<uiIconOffset>(0, -0.05)</uiIconOffset>
+		<altitudeLayer>BuildingOnTop</altitudeLayer>
+		<building>
+			<isEdifice>false</isEdifice>
+			<canPlaceOverWall>true</canPlaceOverWall>
+		</building>
+		<passability>PassThroughOnly</passability>
+		<fillPercent>0.20</fillPercent>
+		<statBases>
+			<MaxHitPoints>5</MaxHitPoints>
+			<WorkToBuild>50</WorkToBuild>
+			<Mass>2</Mass>
+			<Flammability>1.0</Flammability>
+		</statBases>
+		<stuffCategories>
+			<li>Woody</li>
+		</stuffCategories>
+		<costStuffCount>5</costStuffCount>
+		<designatorDropdown>CCol_PottedPlants</designatorDropdown>
+		<comps>
+			<li Class="CompProperties_Styleable" />
+		</comps>
+	    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
+</ThingDef>
+
+	<ThingDef ParentName="FurnitureWithQualityBase">
+		<defName>CCol_PottedPlantB</defName>
+		<label>potted plant b</label>
+		<clearBuildingArea>false</clearBuildingArea>
+		<description>A cute potted plant perfect for decorating any room.</description>
+		<graphicData>
+			<texPath>Things/Building/Decor/PottedPlants/PottedPlant_B</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1, 1)</drawSize>
+			<drawOffset>(0.0, 0.0, 0.45)</drawOffset>
+		</graphicData>
+		<size>(1, 1)</size>
+		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+		<rotatable>false</rotatable>
+		<uiIconOffset>(0, -0.05)</uiIconOffset>
+		<altitudeLayer>BuildingOnTop</altitudeLayer>
+		<building>
+			<isEdifice>false</isEdifice>
+			<canPlaceOverWall>true</canPlaceOverWall>
+		</building>
+		<passability>PassThroughOnly</passability>
+		<fillPercent>0.20</fillPercent>
+		<statBases>
+			<MaxHitPoints>5</MaxHitPoints>
+			<WorkToBuild>50</WorkToBuild>
+			<Mass>2</Mass>
+			<Flammability>1.0</Flammability>
+		</statBases>
+		<stuffCategories>
+			<li>Woody</li>
+		</stuffCategories>
+		<costStuffCount>5</costStuffCount>
+		<designatorDropdown>CCol_PottedPlants</designatorDropdown>
+		<comps>
+			<li Class="CompProperties_Styleable" />
+		</comps>
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
+	</ThingDef>
+
+	<ThingDef ParentName="FurnitureWithQualityBase">
+		<defName>CCol_PottedPlantC</defName>
+		<label>potted plant c</label>
+		<clearBuildingArea>false</clearBuildingArea>
+		<description>A cute potted plant perfect for decorating any room.</description>
+		<graphicData>
+			<texPath>Things/Building/Decor/PottedPlants/PottedPlant_C</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1, 1)</drawSize>
+			<drawOffset>(0.0, 0.0, 0.5)</drawOffset>
+		</graphicData>
+		<size>(1, 1)</size>
+		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+		<rotatable>false</rotatable>
+		<uiIconOffset>(0, -0.05)</uiIconOffset>
+		<altitudeLayer>BuildingOnTop</altitudeLayer>
+		<building>
+			<isEdifice>false</isEdifice>
+			<canPlaceOverWall>true</canPlaceOverWall>
+		</building>
+		<passability>PassThroughOnly</passability>
+		<fillPercent>0.20</fillPercent>
+		<statBases>
+			<MaxHitPoints>5</MaxHitPoints>
+			<WorkToBuild>50</WorkToBuild>
+			<Mass>2</Mass>
+			<Flammability>1.0</Flammability>
+		</statBases>
+		<stuffCategories>
+			<li>Woody</li>
+		</stuffCategories>
+		<costStuffCount>5</costStuffCount>
+		<designatorDropdown>CCol_PottedPlants</designatorDropdown>
+		<comps>
+			<li Class="CompProperties_Styleable" />
+		</comps>
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
+	</ThingDef>
+
+	<ThingDef ParentName="FurnitureWithQualityBase">
+		<defName>CCol_PottedPlantD</defName>
+		<label>potted plant d</label>
+		<clearBuildingArea>false</clearBuildingArea>
+		<description>A cute potted plant perfect for decorating any room.</description>
+		<graphicData>
+			<texPath>Things/Building/Decor/PottedPlants/PottedPlant_D</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1, 1)</drawSize>
+			<drawOffset>(0.0, 0.0, 0.6)</drawOffset>
+		</graphicData>
+		<size>(1, 1)</size>
+		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+		<rotatable>false</rotatable>
+		<uiIconOffset>(0, -0.05)</uiIconOffset>
+		<altitudeLayer>BuildingOnTop</altitudeLayer>
+		<building>
+			<isEdifice>false</isEdifice>
+			<canPlaceOverWall>true</canPlaceOverWall>
+		</building>
+		<passability>PassThroughOnly</passability>
+		<fillPercent>0.20</fillPercent>
+		<statBases>
+			<MaxHitPoints>5</MaxHitPoints>
+			<WorkToBuild>50</WorkToBuild>
+			<Mass>2</Mass>
+			<Flammability>1.0</Flammability>
+		</statBases>
+		<stuffCategories>
+			<li>Woody</li>
+		</stuffCategories>
+		<costStuffCount>5</costStuffCount>
+		<designatorDropdown>CCol_PottedPlants</designatorDropdown>
+		<comps>
+			<li Class="CompProperties_Styleable" />
+		</comps>
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
+	</ThingDef>
+
+</Defs>

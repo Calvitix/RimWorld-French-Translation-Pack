@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	  
+  <WorkGiverDef>
+    <defName>VBY_DoBillsMakeMeleeWeapons</defName>
+    <label>faire des armes de mêlée</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Smithing</workType>
+    <priorityInType>116</priorityInType>
+    <fixedBillGiverDefs>
+      <li>VBY_PrimitiveMeleeWeaponTable</li>
+    </fixedBillGiverDefs>
+    <verb>assemble</verb>
+    <gerund>assembling at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+  
+  <WorkGiverDef>
+    <defName>VBY_DoBillsMakeRangedWeapons</defName>
+    <label>faire des armes à distance</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Smithing</workType>
+    <priorityInType>117</priorityInType>
+    <fixedBillGiverDefs>
+      <li>VBY_PrimitiveRangedWeaponTable</li>
+    </fixedBillGiverDefs>
+    <verb>assemble</verb>
+    <gerund>assembling at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>  
+    
+ <WorkGiverDef>
+    <defName>VBY_DoBillsPottery</defName>
+    <label>faire de la poterie séchée</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Art</workType>
+    <priorityInType>101</priorityInType>
+    <fixedBillGiverDefs>
+      <li>VBY_PrimitiveKiln</li>  
+    </fixedBillGiverDefs>
+    <verb>make pottery</verb>
+    <gerund>making pottery at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+  
+  <WorkGiverDef>
+    <defName>VBY_DoBillsUseCraftingTable</defName>
+    <label>fabriquer des objets à la table d'artisanat</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Crafting</workType>
+    <priorityInType>102</priorityInType>
+    <fixedBillGiverDefs>
+      <li>VBY_PrimitiveCraftingTable</li>
+    </fixedBillGiverDefs>
+    <verb>craft</verb>
+    <gerund>crafting at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+  
+  <WorkGiverDef>
+    <defName>VBY_DoBillsBrewTea</defName>
+    <label>Infusion de thé à la table de l'herboriste</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Cooking</workType>
+    <priorityInType>100</priorityInType>
+    <fixedBillGiverDefs>
+      <li>VBY_PrimitiveBrewery_HerbalistBench</li>
+    </fixedBillGiverDefs>
+    <verb>brew</verb>
+    <gerund>brewing at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+
+  <WorkGiverDef>
+	<defName>DoBillsPrimitiveLoom</defName>
+	<label>tisser au métier à tisser</label>
+	<giverClass>WorkGiver_DoBill</giverClass>
+	<workType>Tailoring</workType>
+	<priorityInType>66</priorityInType>
+	<fixedBillGiverDefs>
+	  <li>VBY_PrimitiveLoom</li>
+	</fixedBillGiverDefs>
+	<verb>make cloth</verb>
+	<gerund>making cloth</gerund>
+	<requiredCapacities>
+		<li>Manipulation</li>
+	</requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+  
+</Defs>  

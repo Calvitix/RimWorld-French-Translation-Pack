@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  
+<!-- EN: mechanical arm -->
+<MechanicalMedArm.label>bras mécanique</MechanicalMedArm.label>
+<!-- EN: An installed mechanical arm. -->
+<MechanicalMedArm.description>Un bras mécanique installé.</MechanicalMedArm.description>
+<!-- EN: mechanical arm -->
+<MechanicalMedArm.comps.HediffComp_VerbGiver.tools.mechanical_arm.label>bras mécanique</MechanicalMedArm.comps.HediffComp_VerbGiver.tools.mechanical_arm.label>
+<!-- EN: a mechanical arm -->
+<MechanicalMedArm.labelNoun>un bras mécanique</MechanicalMedArm.labelNoun>
+
+<!-- EN: mechanical ear -->
+<MechanicalMedEar.label>oreille mécanique</MechanicalMedEar.label>
+<!-- EN: An installed mechanical ear. -->
+<MechanicalMedEar.description>Une oreille mécanique installée.</MechanicalMedEar.description>
+<!-- EN: a mechanical ear -->
+<MechanicalMedEar.labelNoun>une oreille mécanique</MechanicalMedEar.labelNoun>
+
+<!-- EN: mechanical eye -->
+<MechanicalMedEye.label>œil mécanique</MechanicalMedEye.label>
+<!-- EN: An installed mechanical eye. -->
+<MechanicalMedEye.description>Un œil mécanique installé.</MechanicalMedEye.description>
+<!-- EN: a mechanical eye -->
+<MechanicalMedEye.labelNoun>un œil mécanique</MechanicalMedEye.labelNoun>
+
+<!-- EN: mechanical finger -->
+<MechanicalMedFinger.label>doigt mécanique</MechanicalMedFinger.label>
+<!-- EN: An installed mechanical finger. -->
+<MechanicalMedFinger.description>Un doigt mécanique installé.</MechanicalMedFinger.description>
+<!-- EN: a mechanical finger -->
+<MechanicalMedFinger.labelNoun>un doigt mécanique</MechanicalMedFinger.labelNoun>
+
+<!-- EN: mechanical foot -->
+<MechanicalMedFoot.label>pied mécanique</MechanicalMedFoot.label>
+<!-- EN: An installed mechanical foot. -->
+<MechanicalMedFoot.description>Un pied mécanique installé.</MechanicalMedFoot.description>
+<!-- EN: a mechanical foot -->
+<MechanicalMedFoot.labelNoun>un pied mécanique</MechanicalMedFoot.labelNoun>
+
+<!-- EN: mechanical hand -->
+<MechanicalMedHand.label>main mécanique</MechanicalMedHand.label>
+<!-- EN: An installed mechanical hand. -->
+<MechanicalMedHand.description>Une main mécanique installée.</MechanicalMedHand.description>
+<!-- EN: mechanical hand -->
+<MechanicalMedHand.comps.HediffComp_VerbGiver.tools.mechanical_hand.label>main mécanique</MechanicalMedHand.comps.HediffComp_VerbGiver.tools.mechanical_hand.label>
+<!-- EN: a mechanical hand -->
+<MechanicalMedHand.labelNoun>une main mécanique</MechanicalMedHand.labelNoun>
+
+<!-- EN: mechanical leg -->
+<MechanicalMedLeg.label>jambe mécanique</MechanicalMedLeg.label>
+<!-- EN: An installed mechanical leg. -->
+<MechanicalMedLeg.description>Une jambe mécanique installée.</MechanicalMedLeg.description>
+<!-- EN: a mechanical leg -->
+<MechanicalMedLeg.labelNoun>une jambe mécanique</MechanicalMedLeg.labelNoun>
+
+<!-- EN: mechanical nose -->
+<MechanicalMedNose.label>nez mécanique</MechanicalMedNose.label>
+<!-- EN: An installed mechanical nose. -->
+<MechanicalMedNose.description>Un nez mécanique installé.</MechanicalMedNose.description>
+<!-- EN: a mechanical nose -->
+<MechanicalMedNose.labelNoun>un nez mécanique</MechanicalMedNose.labelNoun>
+
+<!-- EN: mechanical toe -->
+<MechanicalMedToe.label>orteil mécanique</MechanicalMedToe.label>
+<!-- EN: An installed mechanical toe. -->
+<MechanicalMedToe.description>Un orteil mécanique installé.</MechanicalMedToe.description>
+<!-- EN: a mechanical toe -->
+<MechanicalMedToe.labelNoun>un orteil mécanique</MechanicalMedToe.labelNoun>
+
+  
+</LanguageData>

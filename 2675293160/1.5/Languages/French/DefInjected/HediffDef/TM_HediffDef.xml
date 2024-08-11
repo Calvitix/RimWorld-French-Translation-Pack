@@ -1,0 +1,1900 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<TM_BullChargeHD.label>charge</TM_BullChargeHD.label>
+<TM_BullChargeHD.description>Charger dans la bataille.</TM_BullChargeHD.description>
+
+<TM_FrailtyCurseHD.label>maudit</TM_FrailtyCurseHD.label>
+<TM_FrailtyCurseHD.description>Le regard d'un mauvais œil a appliqué cette malédiction.</TM_FrailtyCurseHD.description>
+<TM_FrailtyCurseHD.stages.frail.label>fragile</TM_FrailtyCurseHD.stages.frail.label>
+<TM_FrailtyCurseHD.stages.crippled.label>estropié</TM_FrailtyCurseHD.stages.crippled.label>
+
+<TM_FleshGolem_SkullPlateHD.label>plaque de crâne</TM_FleshGolem_SkullPlateHD.label>
+<TM_FleshGolem_SkullPlateHD.description>Améliore l'armure sur le crâne.</TM_FleshGolem_SkullPlateHD.description>
+
+<TM_FleshGolem_ShoulderPlatesHD.label>plaques d'épaule</TM_FleshGolem_ShoulderPlatesHD.label>
+<TM_FleshGolem_ShoulderPlatesHD.description>Améliore l'armure sur les épaules.</TM_FleshGolem_ShoulderPlatesHD.description>
+
+<TM_FleshGolem_ChestCageHD.label>cage thoracique</TM_FleshGolem_ChestCageHD.label>
+<TM_FleshGolem_ChestCageHD.description>Dévie les attaques contre la poitrine et le torse, fonctionne mieux avec les grosses armes.</TM_FleshGolem_ChestCageHD.description>
+
+<TM_FleshGolem_SpineGuardHD.label>protection dorsale</TM_FleshGolem_SpineGuardHD.label>
+<TM_FleshGolem_SpineGuardHD.description>Dévie les attaques dans le dos.</TM_FleshGolem_SpineGuardHD.description>
+
+<TM_FleshGolem_LegPlatesHD.label>plaques de jambe</TM_FleshGolem_LegPlatesHD.label>
+<TM_FleshGolem_LegPlatesHD.description>Améliore l'armure sur les jambes.</TM_FleshGolem_LegPlatesHD.description>
+
+<TM_FleshGolem_BracerGuardHD.label>bracelets de protection</TM_FleshGolem_BracerGuardHD.label>
+<TM_FleshGolem_BracerGuardHD.description>Chance de bloquer les attaques.</TM_FleshGolem_BracerGuardHD.description>
+
+<TM_FleshGolem_HasteHD.label>rapidité</TM_FleshGolem_HasteHD.label>
+<TM_FleshGolem_HasteHD.description>Les ailes donnent de l'agilité aux mouvements.</TM_FleshGolem_HasteHD.description>
+
+<TM_FleshGolem_EyesT1HD.label>vision quadruple</TM_FleshGolem_EyesT1HD.label>
+<TM_FleshGolem_EyesT1HD.description>La vision est améliorée avec quatre yeux.</TM_FleshGolem_EyesT1HD.description>
+
+<TM_GolemHD.label>golem</TM_GolemHD.label>
+<TM_GolemHD.description>Effets de santé appliqués à tous les golems.</TM_GolemHD.description>
+
+<TM_Mecha-Golem_GatlingCannonHD.label>canon gatling</TM_Mecha-Golem_GatlingCannonHD.label>
+<TM_Mecha-Golem_GatlingCannonHD.description>Un canon gatling monté sur l'épaule droite.</TM_Mecha-Golem_GatlingCannonHD.description>
+
+<TM_Mecha-Golem_BallisticPlateHD.label>plaque balistique</TM_Mecha-Golem_BallisticPlateHD.label>
+<TM_Mecha-Golem_BallisticPlateHD.description>Améliore l'armure, mais réduit la vitesse de déplacement.</TM_Mecha-Golem_BallisticPlateHD.description>
+
+<TM_Mecha-Golem_FlameCoreHD.label>noyau de feu</TM_Mecha-Golem_FlameCoreHD.label>
+<TM_Mecha-Golem_FlameCoreHD.description>Les améliorations du noyau de feu augmentent la vitesse de déplacement et réduisent le temps de recharge des attaques et des capacités.</TM_Mecha-Golem_FlameCoreHD.description>
+<TM_Mecha-Golem_FlameCoreHD.stages.Mk1.label>Mk.1</TM_Mecha-Golem_FlameCoreHD.stages.Mk1.label>
+<TM_Mecha-Golem_FlameCoreHD.stages.Mk2.label>Mk.2</TM_Mecha-Golem_FlameCoreHD.stages.Mk2.label>
+<TM_Mecha-Golem_FlameCoreHD.stages.Mk3.label>Mk.3</TM_Mecha-Golem_FlameCoreHD.stages.Mk3.label>
+
+<TM_Mecha-Golem_WaterCoreHD.label>noyau d'eau</TM_Mecha-Golem_WaterCoreHD.label>
+<TM_Mecha-Golem_WaterCoreHD.description>Les améliorations du noyau d'eau augmentent l'armure et la régénération, mais aussi la conservation de l'énergie.</TM_Mecha-Golem_WaterCoreHD.description>
+<TM_Mecha-Golem_WaterCoreHD.stages.Mk1.label>Mk.1</TM_Mecha-Golem_WaterCoreHD.stages.Mk1.label>
+<TM_Mecha-Golem_WaterCoreHD.stages.Mk2.label>Mk.2</TM_Mecha-Golem_WaterCoreHD.stages.Mk2.label>
+<TM_Mecha-Golem_WaterCoreHD.stages.Mk3.label>Mk.3</TM_Mecha-Golem_WaterCoreHD.stages.Mk3.label>
+
+<TM_Mecha-Golem_EarthCoreHD.label>noyau de terre</TM_Mecha-Golem_EarthCoreHD.label>
+<TM_Mecha-Golem_EarthCoreHD.description>Les améliorations du noyau de terre augmentent l'armure et la protection.</TM_Mecha-Golem_EarthCoreHD.description>
+<TM_Mecha-Golem_EarthCoreHD.stages.Mk1.label>Mk.1</TM_Mecha-Golem_EarthCoreHD.stages.Mk1.label>
+<TM_Mecha-Golem_EarthCoreHD.stages.Mk2.label>Mk.2</TM_Mecha-Golem_EarthCoreHD.stages.Mk2.label>
+<TM_Mecha-Golem_EarthCoreHD.stages.Mk3.label>Mk.3</TM_Mecha-Golem_EarthCoreHD.stages.Mk3.label>
+
+<TM_Mecha-Golem_LightningCoreHD.label>noyau de foudre</TM_Mecha-Golem_LightningCoreHD.label>
+<TM_Mecha-Golem_LightningCoreHD.description>Les améliorations du noyau de foudre augmentent la vitesse de mouvement et de traitement.</TM_Mecha-Golem_LightningCoreHD.description>
+<TM_Mecha-Golem_LightningCoreHD.stages.Mk1.label>Mk.1</TM_Mecha-Golem_LightningCoreHD.stages.Mk1.label>
+<TM_Mecha-Golem_LightningCoreHD.stages.Mk2.label>Mk.2</TM_Mecha-Golem_LightningCoreHD.stages.Mk2.label>
+<TM_Mecha-Golem_LightningCoreHD.stages.Mk3.label>Mk.3</TM_Mecha-Golem_LightningCoreHD.stages.Mk3.label>
+
+<TM_StandardRegrowth.label>partie régénérée</TM_StandardRegrowth.label>
+<TM_StandardRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_StandardRegrowth.description>
+<TM_StandardRegrowth.stages.regrown.label>repousse</TM_StandardRegrowth.stages.regrown.label>
+<TM_StandardRegrowth.stages.forming.label>se forme</TM_StandardRegrowth.stages.forming.label>
+<TM_StandardRegrowth.stages.stub.label>moignon</TM_StandardRegrowth.stages.stub.label>
+
+<TM_ArmRegrowth.label>bras régénéré</TM_ArmRegrowth.label>
+<TM_ArmRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_ArmRegrowth.description>
+<TM_ArmRegrowth.comps.HediffComp_VerbGiver.tools.regrown_arm.label>bras régénéré</TM_ArmRegrowth.comps.HediffComp_VerbGiver.tools.regrown_arm.label>
+<TM_ArmRegrowth.stages.stub.label>moignon</TM_ArmRegrowth.stages.stub.label>
+<TM_ArmRegrowth.stages.fledgling.label>balbutiant</TM_ArmRegrowth.stages.fledgling.label>
+<TM_ArmRegrowth.stages.regrown.label>repousse</TM_ArmRegrowth.stages.regrown.label>
+<TM_ArmRegrowth.stages.wild.label>sauvage</TM_ArmRegrowth.stages.wild.label>
+
+<TM_HandRegrowth.label>main régénérée</TM_HandRegrowth.label>
+<TM_HandRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_HandRegrowth.description>
+<TM_HandRegrowth.comps.HediffComp_VerbGiver.tools.regrown_hand.label>main régénérée</TM_HandRegrowth.comps.HediffComp_VerbGiver.tools.regrown_hand.label>
+<TM_HandRegrowth.stages.stub.label>moignon</TM_HandRegrowth.stages.stub.label>
+<TM_HandRegrowth.stages.fledgling.label>balbutiant</TM_HandRegrowth.stages.fledgling.label>
+<TM_HandRegrowth.stages.regrown.label>repousse</TM_HandRegrowth.stages.regrown.label>
+<TM_HandRegrowth.stages.wild.label>sauvage</TM_HandRegrowth.stages.wild.label>
+
+<TM_FingerRegrowth.label>doigt régénéré</TM_FingerRegrowth.label>
+<TM_FingerRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_FingerRegrowth.description>
+<TM_FingerRegrowth.stages.finger_stub.label>bout de doigt</TM_FingerRegrowth.stages.finger_stub.label>
+<TM_FingerRegrowth.stages.regrown.label>repousse</TM_FingerRegrowth.stages.regrown.label>
+
+<TM_ToeRegrowth.label>orteil régénéré</TM_ToeRegrowth.label>
+<TM_ToeRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_ToeRegrowth.description>
+<TM_ToeRegrowth.stages.toe_stub.label>bout d'orteil</TM_ToeRegrowth.stages.toe_stub.label>
+<TM_ToeRegrowth.stages.regrown.label>repousse</TM_ToeRegrowth.stages.regrown.label>
+
+<TM_EyeRegrowth.label>œil régénéré</TM_EyeRegrowth.label>
+<TM_EyeRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cet œil en plusieurs jours.</TM_EyeRegrowth.description>
+<TM_EyeRegrowth.stages.milky.label>laiteux</TM_EyeRegrowth.stages.milky.label>
+<TM_EyeRegrowth.stages.hazy.label>brumeux</TM_EyeRegrowth.stages.hazy.label>
+<TM_EyeRegrowth.stages.regrown.label>repousse</TM_EyeRegrowth.stages.regrown.label>
+<TM_EyeRegrowth.stages.enhanced.label>amélioré</TM_EyeRegrowth.stages.enhanced.label>
+
+<TM_EarRegrowth.label>oreille régénérée</TM_EarRegrowth.label>
+<TM_EarRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_EarRegrowth.description>
+<TM_EarRegrowth.stages.forming.label>se forme</TM_EarRegrowth.stages.forming.label>
+<TM_EarRegrowth.stages.developing.label>se développe</TM_EarRegrowth.stages.developing.label>
+<TM_EarRegrowth.stages.regrown.label>repousse</TM_EarRegrowth.stages.regrown.label>
+<TM_EarRegrowth.stages.enhanced.label>amélioré</TM_EarRegrowth.stages.enhanced.label>
+
+<TM_LegRegrowth.label>jambe régénérée</TM_LegRegrowth.label>
+<TM_LegRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_LegRegrowth.description>
+<TM_LegRegrowth.stages.stub.label>moignon</TM_LegRegrowth.stages.stub.label>
+<TM_LegRegrowth.stages.fledgling.label>balbutiant</TM_LegRegrowth.stages.fledgling.label>
+<TM_LegRegrowth.stages.regrown.label>repousse</TM_LegRegrowth.stages.regrown.label>
+<TM_LegRegrowth.stages.wild.label>sauvage</TM_LegRegrowth.stages.wild.label>
+
+<TM_FootRegrowth.label>pied régénéré</TM_FootRegrowth.label>
+<TM_FootRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_FootRegrowth.description>
+<TM_FootRegrowth.stages.stub.label>moignon</TM_FootRegrowth.stages.stub.label>
+<TM_FootRegrowth.stages.fledgling.label>balbutiant</TM_FootRegrowth.stages.fledgling.label>
+<TM_FootRegrowth.stages.regrown.label>repousse</TM_FootRegrowth.stages.regrown.label>
+<TM_FootRegrowth.stages.wild.label>sauvage</TM_FootRegrowth.stages.wild.label>
+
+<TM_JawRegrowth.label>mâchoire régénérée</TM_JawRegrowth.label>
+<TM_JawRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_JawRegrowth.description>
+<TM_JawRegrowth.stages.forming.label>se forme</TM_JawRegrowth.stages.forming.label>
+<TM_JawRegrowth.stages.developing.label>se développe</TM_JawRegrowth.stages.developing.label>
+<TM_JawRegrowth.stages.regrown.label>repousse</TM_JawRegrowth.stages.regrown.label>
+<TM_JawRegrowth.stages.enhanced.label>amélioré</TM_JawRegrowth.stages.enhanced.label>
+
+<TM_HeartRegrowth.label>cœur de la nature</TM_HeartRegrowth.label>
+<TM_HeartRegrowth.description>La combinaison magique de la nature et de la chair fait repousser ou améliore un cœur pendant plusieurs jours.</TM_HeartRegrowth.description>
+<TM_HeartRegrowth.stages.reforming.label>se reforme</TM_HeartRegrowth.stages.reforming.label>
+<TM_HeartRegrowth.stages.new_development.label>nouvelle évolution</TM_HeartRegrowth.stages.new_development.label>
+<TM_HeartRegrowth.stages.melding.label>fusionne</TM_HeartRegrowth.stages.melding.label>
+<TM_HeartRegrowth.stages.entwined.label>entrelacé</TM_HeartRegrowth.stages.entwined.label>
+<TM_HeartRegrowth.stages.heart_of_the_wild.label>cœur de la nature</TM_HeartRegrowth.stages.heart_of_the_wild.label>
+
+<TM_LungRegrowth.label>poumon régénéré</TM_LungRegrowth.label>
+<TM_LungRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_LungRegrowth.description>
+<TM_LungRegrowth.stages.forming.label>se forme</TM_LungRegrowth.stages.forming.label>
+<TM_LungRegrowth.stages.developing.label>se développe</TM_LungRegrowth.stages.developing.label>
+<TM_LungRegrowth.stages.regrown.label>repousse</TM_LungRegrowth.stages.regrown.label>
+<TM_LungRegrowth.stages.enhanced.label>amélioré</TM_LungRegrowth.stages.enhanced.label>
+
+<TM_KidneyRegrowth.label>rein régénéré</TM_KidneyRegrowth.label>
+<TM_KidneyRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_KidneyRegrowth.description>
+<TM_KidneyRegrowth.stages.forming.label>se forme</TM_KidneyRegrowth.stages.forming.label>
+<TM_KidneyRegrowth.stages.developing.label>se développe</TM_KidneyRegrowth.stages.developing.label>
+<TM_KidneyRegrowth.stages.regrown.label>repousse</TM_KidneyRegrowth.stages.regrown.label>
+<TM_KidneyRegrowth.stages.enhanced.label>amélioré</TM_KidneyRegrowth.stages.enhanced.label>
+
+<TM_LiverRegrowth.label>foie régénéré</TM_LiverRegrowth.label>
+<TM_LiverRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_LiverRegrowth.description>
+<TM_LiverRegrowth.stages.forming.label>se forme</TM_LiverRegrowth.stages.forming.label>
+<TM_LiverRegrowth.stages.developing.label>se développe</TM_LiverRegrowth.stages.developing.label>
+<TM_LiverRegrowth.stages.regrown.label>repousse</TM_LiverRegrowth.stages.regrown.label>
+<TM_LiverRegrowth.stages.enhanced.label>amélioré</TM_LiverRegrowth.stages.enhanced.label>
+
+<TM_StomachRegrowth.label>estomac régénéré</TM_StomachRegrowth.label>
+<TM_StomachRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_StomachRegrowth.description>
+<TM_StomachRegrowth.stages.forming.label>se forme</TM_StomachRegrowth.stages.forming.label>
+<TM_StomachRegrowth.stages.developing.label>se développe</TM_StomachRegrowth.stages.developing.label>
+<TM_StomachRegrowth.stages.regrown.label>repousse</TM_StomachRegrowth.stages.regrown.label>
+
+<TM_SpineRegrowth.label>fusion de l'épine dorsale</TM_SpineRegrowth.label>
+<TM_SpineRegrowth.description>La combinaison magique de la nature et de la chair s'unit pour former une colonne vertébrale puissante dans plusieurs jours.</TM_SpineRegrowth.description>
+<TM_SpineRegrowth.stages.forming.label>se forme</TM_SpineRegrowth.stages.forming.label>
+<TM_SpineRegrowth.stages.new_growth.label>nouvelle croissance</TM_SpineRegrowth.stages.new_growth.label>
+<TM_SpineRegrowth.stages.melding.label>fusionne</TM_SpineRegrowth.stages.melding.label>
+<TM_SpineRegrowth.stages.entwined.label>entrelacé</TM_SpineRegrowth.stages.entwined.label>
+
+<TM_HamstringHD.label>ralenti</TM_HamstringHD.label>
+<TM_HamstringHD.description>Réduit la vitesse de déplacement.</TM_HamstringHD.description>
+<TM_HamstringHD.stages.I.label>I</TM_HamstringHD.stages.I.label>
+<TM_HamstringHD.stages.II.label>II</TM_HamstringHD.stages.II.label>
+<TM_HamstringHD.stages.III.label>III</TM_HamstringHD.stages.III.label>
+
+<TM_Poison_HD.label>poison</TM_Poison_HD.label>
+<TM_Poison_HD.description>Dégâts causés par du poison.</TM_Poison_HD.description>
+<TM_Poison_HD.comps.HediffComp_GetsPermanent.permanentLabel>withered away</TM_Poison_HD.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_Poison_HD.labelNounPretty>une {0} au/à la {1}</TM_Poison_HD.labelNounPretty>
+
+<TM_Poisoned_HD.label>empoisonné</TM_Poisoned_HD.label>
+<TM_Poisoned_HD.description>Les effets secondaires du poison.</TM_Poisoned_HD.description>
+<TM_Poisoned_HD.stages.minor.label>mineur</TM_Poisoned_HD.stages.minor.label>
+<TM_Poisoned_HD.stages.moderate.label>moyen</TM_Poisoned_HD.stages.moderate.label>
+<TM_Poisoned_HD.stages.major.label>sévère</TM_Poisoned_HD.stages.major.label>
+
+<TM_SunderArmorHD.label>fracasser armure</TM_SunderArmorHD.label>
+<TM_SunderArmorHD.description>Réduit le niveau d'armure.</TM_SunderArmorHD.description>
+<TM_SunderArmorHD.stages.I.label>I</TM_SunderArmorHD.stages.I.label>
+<TM_SunderArmorHD.stages.II.label>II</TM_SunderArmorHD.stages.II.label>
+<TM_SunderArmorHD.stages.III.label>III</TM_SunderArmorHD.stages.III.label>
+
+<TM_Tranquilizer_HD.label>sédatif</TM_Tranquilizer_HD.label>
+<TM_Tranquilizer_HD.description>Les effets d'un tranquillisant.</TM_Tranquilizer_HD.description>
+<TM_Tranquilizer_HD.stages.Slowed.label>ralenti</TM_Tranquilizer_HD.stages.Slowed.label>
+<TM_Tranquilizer_HD.stages.Sedated.label>sédation</TM_Tranquilizer_HD.stages.Sedated.label>
+<TM_Tranquilizer_HD.stages.Paralytic.label>paralysé</TM_Tranquilizer_HD.stages.Paralytic.label>
+
+<TM_Slow_HD.label>ralenti</TM_Slow_HD.label>
+<TM_Slow_HD.description>Effets d'une capacité qui réduit l'agilité physique et mentale.</TM_Slow_HD.description>
+<TM_Slow_HD.stages.minor.label>mineur</TM_Slow_HD.stages.minor.label>
+<TM_Slow_HD.stages.major.label>sévère</TM_Slow_HD.stages.major.label>
+<TM_Slow_HD.stages.extreme.label>extrême</TM_Slow_HD.stages.extreme.label>
+
+<TM_Movement.label>vitesse des arcanes</TM_Movement.label>
+<TM_Movement.description>Un pouvoir des arcanes qui augmente la vitesse de déplacement du colon.</TM_Movement.description>
+<TM_Movement.stages.I.label>I</TM_Movement.stages.I.label>
+<TM_Movement.stages.II.label>II</TM_Movement.stages.II.label>
+<TM_Movement.stages.III.label>III</TM_Movement.stages.III.label>
+<TM_Movement.stages.IV.label>IV</TM_Movement.stages.IV.label>
+<TM_Movement.stages.V.label>V</TM_Movement.stages.V.label>
+
+<TM_Manipulation.label>dextérité des arcanes</TM_Manipulation.label>
+<TM_Manipulation.description>Un pouvoir des arcanes qui augmente la dextérité (manipulation).</TM_Manipulation.description>
+<TM_Manipulation.stages.I.label>I</TM_Manipulation.stages.I.label>
+<TM_Manipulation.stages.II.label>II</TM_Manipulation.stages.II.label>
+<TM_Manipulation.stages.III.label>III</TM_Manipulation.stages.III.label>
+<TM_Manipulation.stages.IV.label>IV</TM_Manipulation.stages.IV.label>
+<TM_Manipulation.stages.V.label>V</TM_Manipulation.stages.V.label>
+
+<TM_Breathing.label>oxygène infusé</TM_Breathing.label>
+<TM_Breathing.description>Un pouvoir des arcanes qui améliore l'efficacité et la capacité de la respiration.</TM_Breathing.description>
+<TM_Breathing.stages.I.label>I</TM_Breathing.stages.I.label>
+<TM_Breathing.stages.II.label>II</TM_Breathing.stages.II.label>
+<TM_Breathing.stages.III.label>III</TM_Breathing.stages.III.label>
+<TM_Breathing.stages.IV.label>IV</TM_Breathing.stages.IV.label>
+<TM_Breathing.stages.V.label>V</TM_Breathing.stages.V.label>
+
+<TM_Sight.label>vision ésotérique</TM_Sight.label>
+<TM_Sight.description>Un pouvoir des arcanes qui augmente la vue.</TM_Sight.description>
+<TM_Sight.stages.I.label>I</TM_Sight.stages.I.label>
+<TM_Sight.stages.II.label>II</TM_Sight.stages.II.label>
+<TM_Sight.stages.III.label>III</TM_Sight.stages.III.label>
+<TM_Sight.stages.IV.label>IV</TM_Sight.stages.IV.label>
+<TM_Sight.stages.V.label>V</TM_Sight.stages.V.label>
+
+<TM_AntiMovement.label>lenteur des arcanes</TM_AntiMovement.label>
+<TM_AntiMovement.description>Un pouvoir des arcanes qui réduit le mouvement.</TM_AntiMovement.description>
+<TM_AntiMovement.stages.I.label>I</TM_AntiMovement.stages.I.label>
+<TM_AntiMovement.stages.II.label>II</TM_AntiMovement.stages.II.label>
+<TM_AntiMovement.stages.III.label>III</TM_AntiMovement.stages.III.label>
+<TM_AntiMovement.stages.IV.label>IV</TM_AntiMovement.stages.IV.label>
+<TM_AntiMovement.stages.overwhelmed.label>submergé</TM_AntiMovement.stages.overwhelmed.label>
+
+<TM_AntiManipulation.label>faiblesse des arcanes</TM_AntiManipulation.label>
+<TM_AntiManipulation.description>Un pouvoir des arcanes qui réduit la dextérité (manipulation).</TM_AntiManipulation.description>
+<TM_AntiManipulation.stages.I.label>I</TM_AntiManipulation.stages.I.label>
+<TM_AntiManipulation.stages.II.label>II</TM_AntiManipulation.stages.II.label>
+<TM_AntiManipulation.stages.III.label>III</TM_AntiManipulation.stages.III.label>
+<TM_AntiManipulation.stages.IV.label>IV</TM_AntiManipulation.stages.IV.label>
+<TM_AntiManipulation.stages.overwhelmed.label>submergé</TM_AntiManipulation.stages.overwhelmed.label>
+
+<TM_AntiBreathing.label>asphyxie des arcanes</TM_AntiBreathing.label>
+<TM_AntiBreathing.description>Un pouvoir des arcanes qui diminue la respiration.</TM_AntiBreathing.description>
+<TM_AntiBreathing.stages.I.label>I</TM_AntiBreathing.stages.I.label>
+<TM_AntiBreathing.stages.II.label>II</TM_AntiBreathing.stages.II.label>
+<TM_AntiBreathing.stages.III.label>III</TM_AntiBreathing.stages.III.label>
+<TM_AntiBreathing.stages.IV.label>IV</TM_AntiBreathing.stages.IV.label>
+<TM_AntiBreathing.stages.overwhelmed.label>submergé</TM_AntiBreathing.stages.overwhelmed.label>
+
+<TM_AntiSight.label>aveugle des arcanes</TM_AntiSight.label>
+<TM_AntiSight.description>Un pouvoir des arcanes qui diminue la vue.</TM_AntiSight.description>
+<TM_AntiSight.stages.I.label>I</TM_AntiSight.stages.I.label>
+<TM_AntiSight.stages.II.label>II</TM_AntiSight.stages.II.label>
+<TM_AntiSight.stages.III.label>III</TM_AntiSight.stages.III.label>
+<TM_AntiSight.stages.IV.label>IV</TM_AntiSight.stages.IV.label>
+<TM_AntiSight.stages.overwhelmed.label>submergé</TM_AntiSight.stages.overwhelmed.label>
+
+<TM_MuteHD.label>silence magique</TM_MuteHD.label>
+<TM_MuteHD.description>Une malédiction qui empêche l'utilisation des capacités magiques.</TM_MuteHD.description>
+
+<TM_ArtifactMendingHD.label>réparation</TM_ArtifactMendingHD.label>
+<TM_ArtifactMendingHD.description>Répare les vêtements et les armes équipés.</TM_ArtifactMendingHD.description>
+
+<TM_ArtifactHealthHD.label>santé améliorée</TM_ArtifactHealthHD.label>
+<TM_ArtifactHealthHD.description>Augmente la guérison naturelle.</TM_ArtifactHealthHD.description>
+
+<TM_ArtifactCatEyesHD.label>vision sombre</TM_ArtifactCatEyesHD.label>
+<TM_ArtifactCatEyesHD.description>Améliore la vue et accorde une vision nocturne partielle.</TM_ArtifactCatEyesHD.description>
+
+<TM_ArtifactStrengthHD.label>force de la pierre</TM_ArtifactStrengthHD.label>
+<TM_ArtifactStrengthHD.description>Un enchantement qui augmente la manipulation.</TM_ArtifactStrengthHD.description>
+
+<TM_ArtifactMindHD.label>protection de l'esprit</TM_ArtifactMindHD.label>
+<TM_ArtifactMindHD.description>Un talisman unique qui aide un colon à compartimenter ses émotions pour se remettre rapidement d'un état mental.</TM_ArtifactMindHD.description>
+
+<TM_ArtifactRenewalHD.label>renouveau</TM_ArtifactRenewalHD.label>
+<TM_ArtifactRenewalHD.description>Améliore la qualité du sommeil.</TM_ArtifactRenewalHD.description>
+
+<TM_ArtifactArcaneRecoveryHD.label>récupération des arcanes</TM_ArtifactArcaneRecoveryHD.label>
+<TM_ArtifactArcaneRecoveryHD.description>Augmente le taux de récupération de la faiblesse des arcanes ; ne réduit pas la quantité de faiblesse des arcanes acquise.</TM_ArtifactArcaneRecoveryHD.description>
+
+<TM_ArtifactPathfindingHD.label>science des chemins</TM_ArtifactPathfindingHD.label>
+<TM_ArtifactPathfindingHD.description>Un talisman qui détermine de façon surnaturelle un chemin pour traverser facilement n'importe quel obstacle ; il annule la pénalité de mouvement pour les obstacles et le terrain.</TM_ArtifactPathfindingHD.description>
+
+<TM_ArtifactBlockHD.label>blocage</TM_ArtifactBlockHD.label>
+<TM_ArtifactBlockHD.description>Bloque les attaques physiques ; les attaques bloquées n’infligent pas de dégâts.</TM_ArtifactBlockHD.description>
+
+<TM_ArtifactDeflectHD.label>blocage par déflexion</TM_ArtifactDeflectHD.label>
+<TM_ArtifactDeflectHD.description>Bloque les attaques et peut renvoyer les projectiles vers les ennemis proches ; les attaques déviées n’infligent pas de dégâts.</TM_ArtifactDeflectHD.description>
+
+<TM_Artifact_BloodBoostHD.label>bonus sanguin</TM_Artifact_BloodBoostHD.label>
+<TM_Artifact_BloodBoostHD.description>Augmente le maximum de magie de sang disponible pour un mage de sang.</TM_Artifact_BloodBoostHD.description>
+
+<TM_Artifact_PsionicBoostHD.label>bonus psionique</TM_Artifact_PsionicBoostHD.label>
+<TM_Artifact_PsionicBoostHD.description>Augmente le maximum d'énergie psionique disponible pour un psionique.</TM_Artifact_PsionicBoostHD.description>
+
+<TM_Artifact_HateBoostHD.label>bonus haine</TM_Artifact_HateBoostHD.label>
+<TM_Artifact_HateBoostHD.description>Augmente le maximum de haine disponible pour un chevalier de la mort.</TM_Artifact_HateBoostHD.description>
+
+<TM_TraitInfusionHD.label>infusion de trait</TM_TraitInfusionHD.label>
+<TM_TraitInfusionHD.description>Un colon a acquis des traits par infusion magique ; cela affectera son sentiment personnel.</TM_TraitInfusionHD.description>
+
+<TM_LullabyHD.label>berceuse</TM_LullabyHD.label>
+<TM_LullabyHD.description>Réduit la conscience d'un colon.</TM_LullabyHD.description>
+<TM_LullabyHD.stages.I.label>I</TM_LullabyHD.stages.I.label>
+<TM_LullabyHD.stages.II.label>II</TM_LullabyHD.stages.II.label>
+<TM_LullabyHD.stages.III.label>III</TM_LullabyHD.stages.III.label>
+<TM_LullabyHD.stages.IV.label>IV</TM_LullabyHD.stages.IV.label>
+
+<TM_InspirationalHD.label>inspiration</TM_InspirationalHD.label>
+<TM_InspirationalHD.description>Permet d'inspirer les autres.</TM_InspirationalHD.description>
+<TM_InspirationalHD.stages.Bard.label>barde</TM_InspirationalHD.stages.Bard.label>
+
+<TM_EntertainingHD.label>amuseur</TM_EntertainingHD.label>
+<TM_EntertainingHD.description>Recherche activement d'autres colons pour les égayer et les divertir.</TM_EntertainingHD.description>
+<TM_EntertainingHD.stages.Bard.label>barde</TM_EntertainingHD.stages.Bard.label>
+
+<TM_SingBattleHymnHD.label>chant de bataille</TM_SingBattleHymnHD.label>
+<TM_SingBattleHymnHD.description>Chanter un hymne de bataille retentissant pour pousser les alliés à la victoire.</TM_SingBattleHymnHD.description>
+<TM_SingBattleHymnHD.stages.Bard.label>barde</TM_SingBattleHymnHD.stages.Bard.label>
+
+<TM_BattleHymnHD.label>hymne de bataille</TM_BattleHymnHD.label>
+<TM_BattleHymnHD.description>Inspiré et énergisé par un hymne de bataille.</TM_BattleHymnHD.description>
+<TM_BattleHymnHD.stages.I.label>I</TM_BattleHymnHD.stages.I.label>
+<TM_BattleHymnHD.stages.II.label>II</TM_BattleHymnHD.stages.II.label>
+<TM_BattleHymnHD.stages.III.label>III</TM_BattleHymnHD.stages.III.label>
+<TM_BattleHymnHD.stages.IV.label>IV</TM_BattleHymnHD.stages.IV.label>
+<TM_BattleHymnHD.stages.V.label>V</TM_BattleHymnHD.stages.V.label>
+<TM_BattleHymnHD.stages.VI.label>VI</TM_BattleHymnHD.stages.VI.label>
+<TM_BattleHymnHD.stages.VII.label>VII</TM_BattleHymnHD.stages.VII.label>
+<TM_BattleHymnHD.stages.VIII.label>VIII</TM_BattleHymnHD.stages.VIII.label>
+<TM_BattleHymnHD.stages.IX.label>IX</TM_BattleHymnHD.stages.IX.label>
+<TM_BattleHymnHD.stages.X.label>X</TM_BattleHymnHD.stages.X.label>
+
+<TM_DiscordHD.label>discorde</TM_DiscordHD.label>
+<TM_DiscordHD.description>Sous la contrainte mentale.</TM_DiscordHD.description>
+<TM_DiscordHD.stages.mental_haze.label>brume mentale</TM_DiscordHD.stages.mental_haze.label>
+<TM_DiscordHD.stages.distortion.label>distorsion</TM_DiscordHD.stages.distortion.label>
+<TM_DiscordHD.stages.unstable.label>instable</TM_DiscordHD.stages.unstable.label>
+<TM_DiscordHD.stages.insanity.label>folie</TM_DiscordHD.stages.insanity.label>
+
+<TM_DiscordSafeHD.label>discorde</TM_DiscordSafeHD.label>
+<TM_DiscordSafeHD.description>Sous la contrainte mentale.</TM_DiscordSafeHD.description>
+<TM_DiscordSafeHD.stages.mental_haze.label>brume mentale</TM_DiscordSafeHD.stages.mental_haze.label>
+<TM_DiscordSafeHD.stages.distortion.label>distorsion</TM_DiscordSafeHD.stages.distortion.label>
+<TM_DiscordSafeHD.stages.unstable.label>instable</TM_DiscordSafeHD.stages.unstable.label>
+<TM_DiscordSafeHD.stages.overwhelmed.label>submergé</TM_DiscordSafeHD.stages.overwhelmed.label>
+
+<TM_BloodHD.label>magie du sang</TM_BloodHD.label>
+<TM_BloodHD.description>Représente le pouvoir du sang d'un mage de sang.</TM_BloodHD.description>
+
+<TM_RendHD.label>hémorragie</TM_RendHD.label>
+<TM_RendHD.description>Une blessure horrible causant une grave hémorragie.</TM_RendHD.description>
+
+<TM_BloodForBloodHD.label>drain de sang</TM_BloodForBloodHD.label>
+<TM_BloodForBloodHD.description>Transfère le sang de la cible à un mage de sang. Guérit les blessures dans le processus.</TM_BloodForBloodHD.description>
+
+<TM_BloodShieldHD.label>bouclier de sang</TM_BloodShieldHD.label>
+<TM_BloodShieldHD.description>Enveloppé dans une bulle protectrice d'énergie vitale, l'énergie de chaque coup porté au Bouclier de sang redonne de la santé au colon protégé.</TM_BloodShieldHD.description>
+
+<TM_LightCapacitanceHD.label>pouvoirs de lumière</TM_LightCapacitanceHD.label>
+<TM_LightCapacitanceHD.description>La quantité d'énergie lumineuse stockée disponible pour un mage - agit comme un catalyseur pour la magie de la lumière.</TM_LightCapacitanceHD.description>
+
+<TM_LightBurstHD.label>éclair aveuglant</TM_LightBurstHD.label>
+<TM_LightBurstHD.description>Douleur, aveuglement et désorientation résultant de l'effet de la lumière intense sur les organes sensoriels. Les colons désorientés sont incapables de distinguer les ennemis des amis.</TM_LightBurstHD.description>
+<TM_LightBurstHD.stages.dim_vision.label>vision faible</TM_LightBurstHD.stages.dim_vision.label>
+<TM_LightBurstHD.stages.blinded.label>aveuglé</TM_LightBurstHD.stages.blinded.label>
+<TM_LightBurstHD.stages.disoriented.label>désorienté</TM_LightBurstHD.stages.disoriented.label>
+
+<TM_ChaosTraditionHD.label>flux chaotique</TM_ChaosTraditionHD.label>
+<TM_ChaosTraditionHD.description>Exercer un contrôle sur la réalité par le biais d'une interprétation objective qui aboutit à la mise en avant de la solidité physique et mentale d'un Mage du Chaos.</TM_ChaosTraditionHD.description>
+<TM_ChaosTraditionHD.stages.I.label>I</TM_ChaosTraditionHD.stages.I.label>
+<TM_ChaosTraditionHD.stages.II.label>II</TM_ChaosTraditionHD.stages.II.label>
+<TM_ChaosTraditionHD.stages.III.label>III</TM_ChaosTraditionHD.stages.III.label>
+
+<TM_ChaoticMindHD.label>esprit chaotique</TM_ChaoticMindHD.label>
+<TM_ChaoticMindHD.description>Exercer un contrôle sur la réalité par le biais d'une interprétation objective qui aboutit à la mise en avant de la solidité physique et mentale d'un Mage du Chaos.</TM_ChaoticMindHD.description>
+<TM_ChaoticMindHD.stages.thought.label>pensée</TM_ChaoticMindHD.stages.thought.label>
+
+<TM_ControlledChaosHD.label>chaos contrôlé</TM_ControlledChaosHD.label>
+<TM_ControlledChaosHD.description>Exercer un contrôle sur la réalité par le biais d'une interprétation objective qui aboutit à la mise en avant de la solidité physique et mentale d'un Mage du Chaos.</TM_ControlledChaosHD.description>
+<TM_ControlledChaosHD.stages.CHAOS.label>CHAOS</TM_ControlledChaosHD.stages.CHAOS.label>
+
+<TM_AccelerateTimeHD.label>vieillissement</TM_AccelerateTimeHD.label>
+<TM_AccelerateTimeHD.description>Fait vieillir rapidement un colon. Toute autre condition affectant le colon accélérera également ses tendances naturelles. Au-delà d’un certain âge, les colons contractent souvent des maladies ou de conditions liées à l'âge.</TM_AccelerateTimeHD.description>
+<TM_AccelerateTimeHD.stages.I.label>I</TM_AccelerateTimeHD.stages.I.label>
+<TM_AccelerateTimeHD.stages.II.label>II</TM_AccelerateTimeHD.stages.II.label>
+<TM_AccelerateTimeHD.stages.III.label>III</TM_AccelerateTimeHD.stages.III.label>
+<TM_AccelerateTimeHD.stages.IV.label>IV</TM_AccelerateTimeHD.stages.IV.label>
+
+<TM_ReverseTimeBadHD.label>rajeunissement</TM_ReverseTimeBadHD.label>
+<TM_ReverseTimeBadHD.description>Inverse rapidement l'âge d'un colon. Toute autre condition affectant le colon inversera également ses tendances naturelles. Les conditions inversées au-delà du moment où elles ont été acquises cesseront d'exister. Les colons inversés avant le moment où ils ont été engendrés cesseront également d'exister.</TM_ReverseTimeBadHD.description>
+<TM_ReverseTimeBadHD.stages.I.label>I</TM_ReverseTimeBadHD.stages.I.label>
+<TM_ReverseTimeBadHD.stages.II.label>II</TM_ReverseTimeBadHD.stages.II.label>
+<TM_ReverseTimeBadHD.stages.III.label>III</TM_ReverseTimeBadHD.stages.III.label>
+<TM_ReverseTimeBadHD.stages.IV.label>IV</TM_ReverseTimeBadHD.stages.IV.label>
+
+<TM_ReverseTimeHD.label>rajeunissement</TM_ReverseTimeHD.label>
+<TM_ReverseTimeHD.description>Inverse rapidement l'âge d'un colon. Toute autre condition affectant le colon inversera également ses tendances naturelles. Les conditions inversées au-delà du moment où elles ont été acquises cesseront d'exister. Les colons inversés avant le moment où ils ont été engendrés cesseront également d'exister.</TM_ReverseTimeHD.description>
+<TM_ReverseTimeHD.stages.I.label>I</TM_ReverseTimeHD.stages.I.label>
+<TM_ReverseTimeHD.stages.II.label>II</TM_ReverseTimeHD.stages.II.label>
+<TM_ReverseTimeHD.stages.III.label>III</TM_ReverseTimeHD.stages.III.label>
+<TM_ReverseTimeHD.stages.IV.label>IV</TM_ReverseTimeHD.stages.IV.label>
+
+<TM_PredictionHD.label>prediction</TM_PredictionHD.label>
+<TM_PredictionHD.description>Permet de prédire des événements ou des actions futurs.\n\n   Note de l'administrateur : cette capacité prédit et retarde n'importe quel événement. Certains mods utilisent ces types d'événements comme déclencheurs d'effets ou de résultats, ce qui peut entraîner des erreurs si la situation change et que certains objets, éléments ou conditions ne sont plus valables lorsqu'un événement prédit se produit.</TM_PredictionHD.description>
+<TM_PredictionHD.stages.I.label>I</TM_PredictionHD.stages.I.label>
+<TM_PredictionHD.stages.II.label>II</TM_PredictionHD.stages.II.label>
+<TM_PredictionHD.stages.III.label>III</TM_PredictionHD.stages.III.label>
+<TM_PredictionHD.stages.IV.label>IV</TM_PredictionHD.stages.IV.label>
+<TM_PredictionHD.stages.V.label>V</TM_PredictionHD.stages.V.label>
+<TM_PredictionHD.stages.VI.label>VI</TM_PredictionHD.stages.VI.label>
+
+<TM_TauntHD.label>provocation !</TM_TauntHD.label>
+<TM_TauntHD.description>Ce colon a été provoqué et concentrera ses attaques sur le colon concerné.</TM_TauntHD.description>
+
+<TM_ProvisionerAuraHD.label>aura de Provisions</TM_ProvisionerAuraHD.label>
+<TM_ProvisionerAuraHD.description>Améliore la disponibilité des provisions pour les colons à proximité.</TM_ProvisionerAuraHD.description>
+
+<TM_TaskMasterAuraHD.label>aura de Maître des tâches</TM_TaskMasterAuraHD.label>
+<TM_TaskMasterAuraHD.description>Gère les tâches et les priorités des colons voisins, ce qui augmente la rigueur mais réduit l'humeur.</TM_TaskMasterAuraHD.description>
+
+<TM_CommanderAuraHD.label>aura de Commandant</TM_CommanderAuraHD.label>
+<TM_CommanderAuraHD.description>Inspire les colons proches par son charisme et son aptitude à diriger.</TM_CommanderAuraHD.description>
+
+<TM_StayAlertHD.label>alerte</TM_StayAlertHD.label>
+<TM_StayAlertHD.description>J'ai reçu l'ordre de renforcer le niveau d'alerte.</TM_StayAlertHD.description>
+
+<TM_MoveOutHD.label>doublement</TM_MoveOutHD.label>
+<TM_MoveOutHD.description>J'ai reçu l'ordre de me déplacer rapidement.</TM_MoveOutHD.description>
+<TM_MoveOutHD.stages.Recovering.label>Récupération</TM_MoveOutHD.stages.Recovering.label>
+
+<TM_HoldTheLineHD.label>posture défensive</TM_HoldTheLineHD.label>
+<TM_HoldTheLineHD.description>J'ai reçu l'ordre de tenir la position et de combattre courageusement.</TM_HoldTheLineHD.description>
+
+<TM_HTLShieldHD.label>posture défensive Bouclier</TM_HTLShieldHD.label>
+<TM_HTLShieldHD.description>Une force morale accrue par l'ordre Posture défensive.</TM_HTLShieldHD.description>
+
+<TM_CommanderHD.label>inspiré par l'émotion (I)</TM_CommanderHD.label>
+<TM_CommanderHD.description>Inspiré par un Commandant.</TM_CommanderHD.description>
+<TM_CommanderHD.stages.Commander.label>commander</TM_CommanderHD.stages.Commander.label>
+<TM_CommanderHD_I.label>inspiré par l'émotion (II)</TM_CommanderHD_I.label>
+<TM_CommanderHD_I.description>Inspiré par un Commandant.</TM_CommanderHD_I.description>
+<TM_CommanderHD_II.label>inspiré par l'émotion (III)</TM_CommanderHD_II.label>
+<TM_CommanderHD_II.description>Inspiré par un Commandant.</TM_CommanderHD_II.description>
+<TM_CommanderHD_III.label>inspiré par l'émotion (IV)</TM_CommanderHD_III.label>
+<TM_CommanderHD_III.description>Inspiré par un Commandant.</TM_CommanderHD_III.description>
+
+<TM_ProvisionerHD.label>provisions</TM_ProvisionerHD.label>
+<TM_ProvisionerHD.description>Acquérir des fournitures et des informations auprès d'un Commandant.</TM_ProvisionerHD.description>
+<TM_ProvisionerHD.stages.I.label>I</TM_ProvisionerHD.stages.I.label>
+<TM_ProvisionerHD.stages.II.label>II</TM_ProvisionerHD.stages.II.label>
+<TM_ProvisionerHD.stages.III.label>III</TM_ProvisionerHD.stages.III.label>
+<TM_ProvisionerHD.stages.IV.label>IV</TM_ProvisionerHD.stages.IV.label>
+
+<TM_TaskMasterHD.label>maître des tâches</TM_TaskMasterHD.label>
+<TM_TaskMasterHD.description>Les tâches et les priorités sont dirigées par un Commandant.</TM_TaskMasterHD.description>
+<TM_TaskMasterHD.stages.I.label>I</TM_TaskMasterHD.stages.I.label>
+<TM_TaskMasterHD.stages.II.label>II</TM_TaskMasterHD.stages.II.label>
+<TM_TaskMasterHD.stages.III.label>III</TM_TaskMasterHD.stages.III.label>
+<TM_TaskMasterHD.stages.IV.label>IV</TM_TaskMasterHD.stages.IV.label>
+
+<TM_HateHD.label>haine</TM_HateHD.label>
+<TM_HateHD.description>Cela représente l'énergie du chevalier de la mort pour utiliser ses capacités uniques.</TM_HateHD.description>
+<TM_HateHD_I.label>haine</TM_HateHD_I.label>
+<TM_HateHD_I.description>Cela représente l'énergie du chevalier de la mort pour utiliser ses capacités uniques.</TM_HateHD_I.description>
+<TM_HateHD_II.label>haine</TM_HateHD_II.label>
+<TM_HateHD_II.description>Cela représente l'énergie du chevalier de la mort pour utiliser ses capacités uniques.</TM_HateHD_II.description>
+<TM_HateHD_III.label>haine</TM_HateHD_III.label>
+<TM_HateHD_III.description>Cela représente l'énergie du chevalier de la mort pour utiliser ses capacités uniques.</TM_HateHD_III.description>
+<TM_HateHD_IV.label>haine</TM_HateHD_IV.label>
+<TM_HateHD_IV.description>Cela représente l'énergie du chevalier de la mort pour utiliser ses capacités uniques.</TM_HateHD_IV.description>
+<TM_HateHD_V.label>haine</TM_HateHD_V.label>
+<TM_HateHD_V.description>Cela représente l'énergie du chevalier de la mort pour utiliser ses capacités uniques.</TM_HateHD_V.description>
+
+<TM_WaveOfFearHD.label>vague de peur</TM_WaveOfFearHD.label>
+<TM_WaveOfFearHD.description>Affecté par une peur terrible et incapacitante.</TM_WaveOfFearHD.description>
+<TM_WaveOfFearHD.stages.I.label>I</TM_WaveOfFearHD.stages.I.label>
+<TM_WaveOfFearHD.stages.II.label>II</TM_WaveOfFearHD.stages.II.label>
+<TM_WaveOfFearHD.stages.III.label>III</TM_WaveOfFearHD.stages.III.label>
+<TM_WaveOfFearHD.stages.IV.label>IV</TM_WaveOfFearHD.stages.IV.label>
+
+<TM_ShadowHD.label>ombre</TM_ShadowHD.label>
+<TM_ShadowHD.description>Dégâts d'ombre.</TM_ShadowHD.description>
+<TM_ShadowHD.comps.HediffComp_GetsPermanent.permanentLabel>touché par l'ombre</TM_ShadowHD.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_ShadowHD.labelNounPretty>une {0} au/à la {1}</TM_ShadowHD.labelNounPretty>
+
+<TM_GravitySlowHD.label>puits de gravité</TM_GravitySlowHD.label>
+<TM_GravitySlowHD.description>Ralenti par une attraction gravitationnelle non naturelle.</TM_GravitySlowHD.description>
+<TM_GravitySlowHD.stages.slowed.label>ralentie</TM_GravitySlowHD.stages.slowed.label>
+
+<TM_SoulBondPhysicalHD.label>lien d'âme</TM_SoulBondPhysicalHD.label>
+<TM_SoulBondPhysicalHD.description>Une âme liée à une Succube.</TM_SoulBondPhysicalHD.description>
+<TM_SoulBondPhysicalHD.stages.I.label>I</TM_SoulBondPhysicalHD.stages.I.label>
+<TM_SoulBondPhysicalHD.stages.II.label>II</TM_SoulBondPhysicalHD.stages.II.label>
+<TM_SoulBondPhysicalHD.stages.III.label>III</TM_SoulBondPhysicalHD.stages.III.label>
+<TM_SoulBondPhysicalHD.stages.IV.label>IV</TM_SoulBondPhysicalHD.stages.IV.label>
+
+<TM_SDSoulBondPhysicalHD.label>lien d'âme</TM_SDSoulBondPhysicalHD.label>
+<TM_SDSoulBondPhysicalHD.description>Maintenir un pacte de lien d'âme avec un autre colon.</TM_SDSoulBondPhysicalHD.description>
+<TM_SDSoulBondPhysicalHD.stages.I.label>I</TM_SDSoulBondPhysicalHD.stages.I.label>
+<TM_SDSoulBondPhysicalHD.stages.II.label>II</TM_SDSoulBondPhysicalHD.stages.II.label>
+<TM_SDSoulBondPhysicalHD.stages.III.label>III</TM_SDSoulBondPhysicalHD.stages.III.label>
+<TM_SDSoulBondPhysicalHD.stages.IV.label>IV</TM_SDSoulBondPhysicalHD.stages.IV.label>
+
+<TM_SoulBondMentalHD.label>lien d'âme</TM_SoulBondMentalHD.label>
+<TM_SoulBondMentalHD.description>Une âme liée à un Démoniste.</TM_SoulBondMentalHD.description>
+<TM_SoulBondMentalHD.stages.I.label>I</TM_SoulBondMentalHD.stages.I.label>
+<TM_SoulBondMentalHD.stages.II.label>II</TM_SoulBondMentalHD.stages.II.label>
+<TM_SoulBondMentalHD.stages.III.label>III</TM_SoulBondMentalHD.stages.III.label>
+<TM_SoulBondMentalHD.stages.IV.label>IV</TM_SoulBondMentalHD.stages.IV.label>
+
+<TM_WDSoulBondMentalHD.label>lien d'âme</TM_WDSoulBondMentalHD.label>
+<TM_WDSoulBondMentalHD.description>Maintenir un pacte avec un autre colon pour lier son âme à la mienne.</TM_WDSoulBondMentalHD.description>
+<TM_WDSoulBondMentalHD.stages.I.label>I</TM_WDSoulBondMentalHD.stages.I.label>
+<TM_WDSoulBondMentalHD.stages.II.label>II</TM_WDSoulBondMentalHD.stages.II.label>
+<TM_WDSoulBondMentalHD.stages.III.label>III</TM_WDSoulBondMentalHD.stages.III.label>
+<TM_WDSoulBondMentalHD.stages.IV.label>IV</TM_WDSoulBondMentalHD.stages.IV.label>
+
+<TM_WDDominateHD.label>dominer I</TM_WDDominateHD.label>
+<TM_WDDominateHD.description>Maîtrisé mentalement par un démoniste - réduit l'état mental et peut provoquer diverses ruptures mentales.</TM_WDDominateHD.description>
+<TM_WDDominateHD.stages.fading.label>disparaît</TM_WDDominateHD.stages.fading.label>
+<TM_WDDominateHD.stages.withdrawing.label>en retirant</TM_WDDominateHD.stages.withdrawing.label>
+<TM_WDDominateHD.stages.enveloping.label>enveloppant</TM_WDDominateHD.stages.enveloping.label>
+<TM_WDDominateHD.stages.overwhelming.label>écrasant</TM_WDDominateHD.stages.overwhelming.label>
+
+<TM_WDDominateHD_I.label>dominer II</TM_WDDominateHD_I.label>
+<TM_WDDominateHD_I.description>Maîtrisé mentalement par un démoniste - réduit l'état mental et peut provoquer diverses ruptures mentales.</TM_WDDominateHD_I.description>
+<TM_WDDominateHD_I.stages.fading.label>disparaît</TM_WDDominateHD_I.stages.fading.label>
+<TM_WDDominateHD_I.stages.withdrawing.label>en retirant</TM_WDDominateHD_I.stages.withdrawing.label>
+<TM_WDDominateHD_I.stages.enveloping.label>enveloppant</TM_WDDominateHD_I.stages.enveloping.label>
+<TM_WDDominateHD_I.stages.overwhelming.label>écrasant</TM_WDDominateHD_I.stages.overwhelming.label>
+
+<TM_WDDominateHD_II.label>dominer III</TM_WDDominateHD_II.label>
+<TM_WDDominateHD_II.description>Maîtrisé mentalement par un démoniste - réduit l'état mental et peut provoquer diverses ruptures mentales.</TM_WDDominateHD_II.description>
+<TM_WDDominateHD_II.stages.fading.label>disparaît</TM_WDDominateHD_II.stages.fading.label>
+<TM_WDDominateHD_II.stages.withdrawing.label>en retirant</TM_WDDominateHD_II.stages.withdrawing.label>
+<TM_WDDominateHD_II.stages.enveloping.label>enveloppant</TM_WDDominateHD_II.stages.enveloping.label>
+<TM_WDDominateHD_II.stages.overwhelming.label>écrasant</TM_WDDominateHD_II.stages.overwhelming.label>
+
+<TM_WDDominateHD_III.label>dominer IV</TM_WDDominateHD_III.label>
+<TM_WDDominateHD_III.description>Maîtrisé mentalement par un démoniste - réduit l'état mental et peut provoquer diverses ruptures mentales.</TM_WDDominateHD_III.description>
+<TM_WDDominateHD_III.stages.fading.label>disparaît</TM_WDDominateHD_III.stages.fading.label>
+<TM_WDDominateHD_III.stages.withdrawing.label>en retirant</TM_WDDominateHD_III.stages.withdrawing.label>
+<TM_WDDominateHD_III.stages.enveloping.label>enveloppant</TM_WDDominateHD_III.stages.enveloping.label>
+<TM_WDDominateHD_III.stages.overwhelming.label>écrasant</TM_WDDominateHD_III.stages.overwhelming.label>
+
+<TM_SDDominateHD.label>dominer I</TM_SDDominateHD.label>
+<TM_SDDominateHD.description>Sous les effets d'une dominatrice succube - bloque toutes les actions physiques.</TM_SDDominateHD.description>
+<TM_SDDominateHD.stages.fading.label>disparaît</TM_SDDominateHD.stages.fading.label>
+<TM_SDDominateHD.stages.withdrawing.label>en retirant</TM_SDDominateHD.stages.withdrawing.label>
+<TM_SDDominateHD.stages.enveloping.label>enveloppant</TM_SDDominateHD.stages.enveloping.label>
+<TM_SDDominateHD.stages.overwhelming.label>écrasant</TM_SDDominateHD.stages.overwhelming.label>
+
+<TM_SDDominateHD_I.label>dominer II</TM_SDDominateHD_I.label>
+<TM_SDDominateHD_I.description>Sous les effets d'une dominatrice succube - bloque toutes les actions physiques.</TM_SDDominateHD_I.description>
+<TM_SDDominateHD_I.stages.fading.label>disparaît</TM_SDDominateHD_I.stages.fading.label>
+<TM_SDDominateHD_I.stages.withdrawing.label>en retirant</TM_SDDominateHD_I.stages.withdrawing.label>
+<TM_SDDominateHD_I.stages.enveloping.label>enveloppant</TM_SDDominateHD_I.stages.enveloping.label>
+<TM_SDDominateHD_I.stages.overwhelming.label>écrasant</TM_SDDominateHD_I.stages.overwhelming.label>
+
+<TM_SDDominateHD_II.label>dominer III</TM_SDDominateHD_II.label>
+<TM_SDDominateHD_II.description>Sous les effets d'une dominatrice succube - bloque toutes les actions physiques.</TM_SDDominateHD_II.description>
+<TM_SDDominateHD_II.stages.fading.label>disparaît</TM_SDDominateHD_II.stages.fading.label>
+<TM_SDDominateHD_II.stages.withdrawing.label>en retirant</TM_SDDominateHD_II.stages.withdrawing.label>
+<TM_SDDominateHD_II.stages.enveloping.label>enveloppant</TM_SDDominateHD_II.stages.enveloping.label>
+<TM_SDDominateHD_II.stages.overwhelming.label>écrasant</TM_SDDominateHD_II.stages.overwhelming.label>
+
+<TM_SDDominateHD_III.label>dominer IV</TM_SDDominateHD_III.label>
+<TM_SDDominateHD_III.description>Sous les effets d'une dominatrice succube - bloque toutes les actions physiques.</TM_SDDominateHD_III.description>
+<TM_SDDominateHD_III.stages.fading.label>disparaît</TM_SDDominateHD_III.stages.fading.label>
+<TM_SDDominateHD_III.stages.withdrawing.label>en retirant</TM_SDDominateHD_III.stages.withdrawing.label>
+<TM_SDDominateHD_III.stages.enveloping.label>enveloppant</TM_SDDominateHD_III.stages.enveloping.label>
+<TM_SDDominateHD_III.stages.overwhelming.label>écrasant</TM_SDDominateHD_III.stages.overwhelming.label>
+
+<TM_VitalityDrainHD.label>drain de vitalité</TM_VitalityDrainHD.label>
+<TM_VitalityDrainHD.description>Physiquement épuisé mais mentalement détendu par l'intimité avec une succube.</TM_VitalityDrainHD.description>
+<TM_VitalityDrainHD.stages.Succubus.label>Succube</TM_VitalityDrainHD.stages.Succubus.label>
+
+<TM_VitalityBoostHD.label>boost de vitalité</TM_VitalityBoostHD.label>
+<TM_VitalityBoostHD.description>Renforcement physique acquis en drainant l'énergie d'un colon pendant l'intimité.</TM_VitalityBoostHD.description>
+
+<TM_DemonHD.label>flammes démoniaques</TM_DemonHD.label>
+<TM_DemonHD.description>Des flammes démoniaques qui tourbillonnent et se tordent autour de la forme d'un démon.</TM_DemonHD.description>
+
+<TM_DemonicPriceHD.label>consomption d'âmes</TM_DemonicPriceHD.label>
+<TM_DemonicPriceHD.description>Des flammes de destruction qui ne cesseront jamais jusqu'à ce qu'elles consument l'âme de ce colon.</TM_DemonicPriceHD.description>
+
+<TM_DemonScornHD.label>démons de dédain</TM_DemonScornHD.label>
+<TM_DemonScornHD.description>Transformation partielle d'une succube en démon ; confère des pouvoirs physiques accrus et absorbe les dégâts.</TM_DemonScornHD.description>
+<TM_DemonScornHD.stages.I.label>I</TM_DemonScornHD.stages.I.label>
+
+<TM_DemonScornHD_I.label>démons de dédain</TM_DemonScornHD_I.label>
+<TM_DemonScornHD_I.description>Transformation partielle d'une succube en démon ; confère des pouvoirs physiques accrus et absorbe les dégâts.</TM_DemonScornHD_I.description>
+<TM_DemonScornHD_I.stages.II.label>II</TM_DemonScornHD_I.stages.II.label>
+
+<TM_DemonScornHD_II.label>démons de dédain</TM_DemonScornHD_II.label>
+<TM_DemonScornHD_II.description>Transformation partielle d'une succube en démon ; confère des pouvoirs physiques accrus et absorbe les dégâts.</TM_DemonScornHD_II.description>
+<TM_DemonScornHD_II.stages.III.label>III</TM_DemonScornHD_II.stages.III.label>
+
+<TM_DemonScornHD_III.label>démons de dédain</TM_DemonScornHD_III.label>
+<TM_DemonScornHD_III.description>Transformation partielle d'une succube en démon ; confère des pouvoirs physiques accrus et absorbe les dégâts.</TM_DemonScornHD_III.description>
+<TM_DemonScornHD_III.stages.IV.label>IV</TM_DemonScornHD_III.stages.IV.label>
+
+<TM_EnchantedBodyHD.label>enchantement du corps</TM_EnchantedBodyHD.label>
+<TM_EnchantedBodyHD.description>Création d’enchantements des parties du corps pour améliorer les capacités physiques.</TM_EnchantedBodyHD.description>
+<TM_EnchantedBodyHD.stages.Arm.label>bras</TM_EnchantedBodyHD.stages.Arm.label>
+<TM_EnchantedBodyHD.stages.Two_Arms.label>deux bras</TM_EnchantedBodyHD.stages.Two_Arms.label>
+<TM_EnchantedBodyHD.stages.Arms_and_Eye-0.label>bras et œil</TM_EnchantedBodyHD.stages.Arms_and_Eye-0.label>
+<TM_EnchantedBodyHD.stages.Arms_and_Eye-1.label>bras et œil ++</TM_EnchantedBodyHD.stages.Arms_and_Eye-1.label>
+
+<TM_EnchantedAuraHD.label>aura d'enchantement</TM_EnchantedAuraHD.label>
+<TM_EnchantedAuraHD.description>Un effet d'enchantement entoure le colon, renforçant les qualités de beauté, d'affection et d'attraction.</TM_EnchantedAuraHD.description>
+<TM_EnchantedAuraHD.stages.I.label>I</TM_EnchantedAuraHD.stages.I.label>
+<TM_EnchantedAuraHD.stages.II.label>II</TM_EnchantedAuraHD.stages.II.label>
+<TM_EnchantedAuraHD.stages.III.label>III</TM_EnchantedAuraHD.stages.III.label>
+<TM_EnchantedAuraHD.stages.IV.label>IV</TM_EnchantedAuraHD.stages.IV.label>
+
+<TM_ShapeshiftHD.label>métamorphe</TM_ShapeshiftHD.label>
+<TM_ShapeshiftHD.description>Améliore la puissance de toute forme animale prise par un métamorphe.</TM_ShapeshiftHD.description>
+<TM_ShapeshiftHD.stages.I.label>I</TM_ShapeshiftHD.stages.I.label>
+<TM_ShapeshiftHD.stages.II.label>II</TM_ShapeshiftHD.stages.II.label>
+<TM_ShapeshiftHD.stages.III.label>III</TM_ShapeshiftHD.stages.III.label>
+<TM_ShapeshiftHD.stages.IV.label>IV</TM_ShapeshiftHD.stages.IV.label>
+
+<TM_WeaponEnchantment_FireHD.label>enchantement d'arme</TM_WeaponEnchantment_FireHD.label>
+<TM_WeaponEnchantment_FireHD.description>Enchante l'arme actuellement équipée avec un feu élémentaire qui peut brûler ou mettre le feu à un objet. Cet enchantement prend fin si l'arme est déséquipée ou remplacée.</TM_WeaponEnchantment_FireHD.description>
+<TM_WeaponEnchantment_FireHD.stages.Fire_I.label>feu (I)</TM_WeaponEnchantment_FireHD.stages.Fire_I.label>
+<TM_WeaponEnchantment_FireHD.stages.Fire_II.label>feu (II)</TM_WeaponEnchantment_FireHD.stages.Fire_II.label>
+<TM_WeaponEnchantment_FireHD.stages.Fire_III.label>feu (III)</TM_WeaponEnchantment_FireHD.stages.Fire_III.label>
+<TM_WeaponEnchantment_FireHD.stages.Fire_IV.label>feu (IV)</TM_WeaponEnchantment_FireHD.stages.Fire_IV.label>
+
+<TM_WeaponEnchantment_IceHD.label>enchantement d'arme</TM_WeaponEnchantment_IceHD.label>
+<TM_WeaponEnchantment_IceHD.description>Enchante l'arme actuellement équipée avec de la glace élémentaire qui inflige des gelures. Cet enchantement prend fin si l'arme est déséquipée ou remplacée.</TM_WeaponEnchantment_IceHD.description>
+<TM_WeaponEnchantment_IceHD.stages.Ice_I.label>glace (I)</TM_WeaponEnchantment_IceHD.stages.Ice_I.label>
+<TM_WeaponEnchantment_IceHD.stages.Ice_II.label>glace (II)</TM_WeaponEnchantment_IceHD.stages.Ice_II.label>
+<TM_WeaponEnchantment_IceHD.stages.Ice_III.label>glace (III)</TM_WeaponEnchantment_IceHD.stages.Ice_III.label>
+<TM_WeaponEnchantment_IceHD.stages.Ice_IV.label>glace (IV)</TM_WeaponEnchantment_IceHD.stages.Ice_IV.label>
+
+<TM_WeaponEnchantment_LitHD.label>enchantement d'arme</TM_WeaponEnchantment_LitHD.label>
+<TM_WeaponEnchantment_LitHD.description>Enchante l'arme actuellement équipée avec la foudre élémentaire qui envoie des ondes de choc étourdissantes à travers un objet. Cet enchantement prend fin si l'arme est déséquipée ou remplacée.</TM_WeaponEnchantment_LitHD.description>
+<TM_WeaponEnchantment_LitHD.stages.Stun_I.label>étourdir (I)</TM_WeaponEnchantment_LitHD.stages.Stun_I.label>
+<TM_WeaponEnchantment_LitHD.stages.Stun_II.label>étourdir (II)</TM_WeaponEnchantment_LitHD.stages.Stun_II.label>
+<TM_WeaponEnchantment_LitHD.stages.Stun_III.label>étourdir (III)</TM_WeaponEnchantment_LitHD.stages.Stun_III.label>
+<TM_WeaponEnchantment_LitHD.stages.Stun_IV.label>étourdir (IV)</TM_WeaponEnchantment_LitHD.stages.Stun_IV.label>
+
+<TM_WeaponEnchantment_DarkHD.label>enchantement d'arme</TM_WeaponEnchantment_DarkHD.label>
+<TM_WeaponEnchantment_DarkHD.description>Enchante l'arme actuellement équipée d'une touche de ténèbres qui provoque la cécité. Cet enchantement prend fin si l'arme est déséquipée ou remplacée.</TM_WeaponEnchantment_DarkHD.description>
+<TM_WeaponEnchantment_DarkHD.stages.Dark_I.label>sombre (I)</TM_WeaponEnchantment_DarkHD.stages.Dark_I.label>
+<TM_WeaponEnchantment_DarkHD.stages.Dark_II.label>sombre (II)</TM_WeaponEnchantment_DarkHD.stages.Dark_II.label>
+<TM_WeaponEnchantment_DarkHD.stages.Dark_III.label>sombre (III)</TM_WeaponEnchantment_DarkHD.stages.Dark_III.label>
+<TM_WeaponEnchantment_DarkHD.stages.Dark_IV.label>sombre (IV)</TM_WeaponEnchantment_DarkHD.stages.Dark_IV.label>
+
+<TM_DisguiseHD.label>tromperie</TM_DisguiseHD.label>
+<TM_DisguiseHD.description>Enveloppé dans un déguisement astucieux pour tromper les adversaires.</TM_DisguiseHD.description>
+<TM_DisguiseHD.stages.I.label>I</TM_DisguiseHD.stages.I.label>
+<TM_DisguiseHD_I.label>tromperie</TM_DisguiseHD_I.label>
+<TM_DisguiseHD_I.description>Enveloppé dans un déguisement astucieux pour tromper les adversaires.</TM_DisguiseHD_I.description>
+<TM_DisguiseHD_I.stages.II.label>II</TM_DisguiseHD_I.stages.II.label>
+<TM_DisguiseHD_II.label>tromperie</TM_DisguiseHD_II.label>
+<TM_DisguiseHD_II.description>Enveloppé dans un déguisement astucieux pour tromper les adversaires.</TM_DisguiseHD_II.description>
+<TM_DisguiseHD_II.stages.III.label>III</TM_DisguiseHD_II.stages.III.label>
+<TM_DisguiseHD_III.label>tromperie</TM_DisguiseHD_III.label>
+<TM_DisguiseHD_III.description>Enveloppé dans un déguisement astucieux pour tromper les adversaires.</TM_DisguiseHD_III.description>
+<TM_DisguiseHD_III.stages.IV.label>IV</TM_DisguiseHD_III.stages.IV.label>
+
+<TM_ReversalHD.label>posture de renvoi</TM_ReversalHD.label>
+<TM_ReversalHD.description>Renvoie l'énergie de l'attaque sur l'attaquant.</TM_ReversalHD.description>
+<TM_ReversalHD.stages.I.label>I</TM_ReversalHD.stages.I.label>
+
+<TM_PossessionHD.label>possédé</TM_PossessionHD.label>
+<TM_PossessionHD.description>Les actions sont contrôlées par un maître de la tromperie.</TM_PossessionHD.description>
+<TM_PossessionHD.stages.I.label>I</TM_PossessionHD.stages.I.label>
+<TM_PossessionHD_I.label>possédé</TM_PossessionHD_I.label>
+<TM_PossessionHD_I.description>Les actions sont contrôlées par un maître de la tromperie.</TM_PossessionHD_I.description>
+<TM_PossessionHD_I.stages.II.label>II</TM_PossessionHD_I.stages.II.label>
+<TM_PossessionHD_II.label>possédé</TM_PossessionHD_II.label>
+<TM_PossessionHD_II.description>Les actions sont contrôlées par un maître de la tromperie.</TM_PossessionHD_II.description>
+<TM_PossessionHD_II.stages.III.label>III</TM_PossessionHD_II.stages.III.label>
+<TM_PossessionHD_III.label>possédé</TM_PossessionHD_III.label>
+<TM_PossessionHD_III.description>Les actions sont contrôlées par un maître de la tromperie.</TM_PossessionHD_III.description>
+<TM_PossessionHD_III.stages.IV.label>IV</TM_PossessionHD_III.stages.IV.label>
+
+<TM_CoOpPossessionHD.label>possédé</TM_CoOpPossessionHD.label>
+<TM_CoOpPossessionHD.description>Les actions sont contrôlées par un maître de la tromperie.</TM_CoOpPossessionHD.description>
+<TM_CoOpPossessionHD.stages.I.label>I</TM_CoOpPossessionHD.stages.I.label>
+<TM_CoOpPossessionHD_I.label>possédé</TM_CoOpPossessionHD_I.label>
+<TM_CoOpPossessionHD_I.description>Les actions sont contrôlées par un maître de la tromperie.</TM_CoOpPossessionHD_I.description>
+<TM_CoOpPossessionHD_I.stages.II.label>II</TM_CoOpPossessionHD_I.stages.II.label>
+<TM_CoOpPossessionHD_II.label>possédé</TM_CoOpPossessionHD_II.label>
+<TM_CoOpPossessionHD_II.description>Les actions sont contrôlées par un maître de la tromperie.</TM_CoOpPossessionHD_II.description>
+<TM_CoOpPossessionHD_II.stages.III.label>III</TM_CoOpPossessionHD_II.stages.III.label>
+<TM_CoOpPossessionHD_III.label>possédé</TM_CoOpPossessionHD_III.label>
+<TM_CoOpPossessionHD_III.description>Les actions sont contrôlées par un maître de la tromperie.</TM_CoOpPossessionHD_III.description>
+<TM_CoOpPossessionHD_III.stages.IV.label>IV</TM_CoOpPossessionHD_III.stages.IV.label>
+
+<TM_DisorientedVomit.label>désorienté</TM_DisorientedVomit.label>
+<TM_DisorientedVomit.description>Désorienté après avoir échangé sa position avec un autre colon.</TM_DisorientedVomit.description>
+<TM_DisorientedVomit.stages.I.label>I</TM_DisorientedVomit.stages.I.label>
+
+<TM_MedicalSupplyHD.label>fournitures médicales</TM_MedicalSupplyHD.label>
+<TM_MedicalSupplyHD.description>Compte les fournitures médicales équipées par un médecin de terrain.</TM_MedicalSupplyHD.description>
+<TM_MedicalSupplyHD.comps.HediffComp_AbilityResource.regenPerTickUpgradeName>les fournitures médicales ne sont pas censées se régénérer</TM_MedicalSupplyHD.comps.HediffComp_AbilityResource.regenPerTickUpgradeName>
+
+<TM_EmergencyHD.label>urgence</TM_EmergencyHD.label>
+<TM_EmergencyHD.description>Je ferai de mon mieux.</TM_EmergencyHD.description>
+<TM_EmergencyHD.stages.I.label>I</TM_EmergencyHD.stages.I.label>
+
+<TM_MedigelHD.label>médigel</TM_MedigelHD.label>
+<TM_MedigelHD.description>Le médigel augmente les taux de guérison et combat les infections.</TM_MedigelHD.description>
+<TM_MedigelHD.stages.I.label>I</TM_MedigelHD.stages.I.label>
+
+<TM_CombatDrugsPain_HD.label>drogue de combat (antidouleur)</TM_CombatDrugsPain_HD.label>
+<TM_CombatDrugsPain_HD.description>Drogues de combat réduisant la douleur.</TM_CombatDrugsPain_HD.description>
+<TM_CombatDrugsMoving_HD.label>drogue de combat (mouvement)</TM_CombatDrugsMoving_HD.label>
+<TM_CombatDrugsMoving_HD.description>Drogues de combat améliorant le mouvement.</TM_CombatDrugsMoving_HD.description>
+<TM_CombatDrugsAwareness_HD.label>drogue de combat (conscience)</TM_CombatDrugsAwareness_HD.label>
+<TM_CombatDrugsAwareness_HD.description>Drogues de combat renforcent la conscience.</TM_CombatDrugsAwareness_HD.description>
+<TM_CombatDrugsAccuracy_HD.label>drogue de combat (précision)</TM_CombatDrugsAccuracy_HD.label>
+<TM_CombatDrugsAccuracy_HD.description>Drogues de combat améliorant la précision.</TM_CombatDrugsAccuracy_HD.description>
+
+<TM_StoneskinHD.label>peau de pierre</TM_StoneskinHD.label>
+<TM_StoneskinHD.description>Chaque charge annule les dégâts d'une attaque.</TM_StoneskinHD.description>
+
+<TM_RuneCarvedPartHD.label>rune gravée</TM_RuneCarvedPartHD.label>
+<TM_RuneCarvedPartHD.description>Confère de l'énergie runique à une partie du corps.</TM_RuneCarvedPartHD.description>
+<TM_RuneCarvedPartHD.stages.Runic_I.label>runique (I)</TM_RuneCarvedPartHD.stages.Runic_I.label>
+<TM_RuneCarvedPartHD.stages.Runic_II.label>runique (II)</TM_RuneCarvedPartHD.stages.Runic_II.label>
+<TM_RuneCarvedPartHD.stages.Runic_III.label>runique (III)</TM_RuneCarvedPartHD.stages.Runic_III.label>
+<TM_RuneCarvedPartHD.stages.Runic_IV.label>runique (IV)</TM_RuneCarvedPartHD.stages.Runic_IV.label>
+
+<TM_SigilPainHD.label>fatigue du sceau</TM_SigilPainHD.label>
+<TM_SigilPainHD.description>Maintenir des sceaux au-delà de leur capacité normale fatigue le lanceur de sorts et provoque des douleurs.</TM_SigilPainHD.description>
+<TM_SigilPainHD.stages.negligible.label>négligeable</TM_SigilPainHD.stages.negligible.label>
+<TM_SigilPainHD.stages.I.label>I</TM_SigilPainHD.stages.I.label>
+<TM_SigilPainHD.stages.II.label>II</TM_SigilPainHD.stages.II.label>
+<TM_SigilPainHD.stages.III.label>III</TM_SigilPainHD.stages.III.label>
+<TM_SigilPainHD.stages.IV.label>IV</TM_SigilPainHD.stages.IV.label>
+<TM_SigilPainHD.stages.V.label>V</TM_SigilPainHD.stages.V.label>
+<TM_SigilPainHD.stages.VI.label>VI</TM_SigilPainHD.stages.VI.label>
+<TM_SigilPainHD.stages.VII.label>VII</TM_SigilPainHD.stages.VII.label>
+
+<TM_SiphonBrandHD.label>marque du siphon</TM_SiphonBrandHD.label>
+<TM_SiphonBrandHD.description>Transfère lentement le mana au destinataire de la marque.</TM_SiphonBrandHD.description>
+<TM_SiphonBrandHD.stages.dormant.label>en sommeil</TM_SiphonBrandHD.stages.dormant.label>
+<TM_SiphonBrandHD.stages.surging.label>croissant</TM_SiphonBrandHD.stages.surging.label>
+
+<TM_ProtectionBrandHD.label>marque de protection</TM_ProtectionBrandHD.label>
+<TM_ProtectionBrandHD.description>La rune de protection est capable d'empêcher le porteur de subir des dégâts, mais elle utilise une partie ou la totalité de sa charge pour le faire. Cette rune se recharge avec le temps.</TM_ProtectionBrandHD.description>
+<TM_ProtectionBrandHD.stages.dormant.label>en sommeil</TM_ProtectionBrandHD.stages.dormant.label>
+<TM_ProtectionBrandHD.stages.surging.label>croissant</TM_ProtectionBrandHD.stages.surging.label>
+
+<TM_EmotionBrandHD.label>marque d'émotions</TM_EmotionBrandHD.label>
+<TM_EmotionBrandHD.description>Augmente l'humeur plus rapidement et la diminue plus lentement ; a une chance de récupérer un colon d'une dépression mentale lors d'une montée en puissance.</TM_EmotionBrandHD.description>
+<TM_EmotionBrandHD.stages.dormant.label>en sommeil</TM_EmotionBrandHD.stages.dormant.label>
+<TM_EmotionBrandHD.stages.surging.label>croissant</TM_EmotionBrandHD.stages.surging.label>
+
+<TM_FitnessBrandHD.label>marque de fitness</TM_FitnessBrandHD.label>
+<TM_FitnessBrandHD.description>Augmente les déplacements et la manipulation.</TM_FitnessBrandHD.description>
+<TM_FitnessBrandHD.stages.dormant.label>en sommeil</TM_FitnessBrandHD.stages.dormant.label>
+<TM_FitnessBrandHD.stages.I.label>I</TM_FitnessBrandHD.stages.I.label>
+<TM_FitnessBrandHD.stages.II.label>II</TM_FitnessBrandHD.stages.II.label>
+<TM_FitnessBrandHD.stages.III.label>III</TM_FitnessBrandHD.stages.III.label>
+<TM_FitnessBrandHD.stages.IV.label>IV</TM_FitnessBrandHD.stages.IV.label>
+<TM_FitnessBrandHD.stages.surging_I.label>croissant I</TM_FitnessBrandHD.stages.surging_I.label>
+<TM_FitnessBrandHD.stages.surging_II.label>croissant II</TM_FitnessBrandHD.stages.surging_II.label>
+<TM_FitnessBrandHD.stages.surging_III.label>croissant III</TM_FitnessBrandHD.stages.surging_III.label>
+<TM_FitnessBrandHD.stages.surging_IV.label>croissant IV</TM_FitnessBrandHD.stages.surging_IV.label>
+<TM_FitnessBrandHD.stages.surging_V.label>croissant V</TM_FitnessBrandHD.stages.surging_V.label>
+<TM_FitnessBrandHD.stages.surging_VI.label>croissant VI</TM_FitnessBrandHD.stages.surging_VI.label>
+
+<TM_AwarenessBrandHD.label>marque de notoriété</TM_AwarenessBrandHD.label>
+<TM_AwarenessBrandHD.description>Augmente les sens et la perception.</TM_AwarenessBrandHD.description>
+<TM_AwarenessBrandHD.stages.dormant.label>en sommeil</TM_AwarenessBrandHD.stages.dormant.label>
+<TM_AwarenessBrandHD.stages.I.label>I</TM_AwarenessBrandHD.stages.I.label>
+<TM_AwarenessBrandHD.stages.II.label>II</TM_AwarenessBrandHD.stages.II.label>
+<TM_AwarenessBrandHD.stages.III.label>III</TM_AwarenessBrandHD.stages.III.label>
+<TM_AwarenessBrandHD.stages.IV.label>IV</TM_AwarenessBrandHD.stages.IV.label>
+<TM_AwarenessBrandHD.stages.surging_I.label>croissant I</TM_AwarenessBrandHD.stages.surging_I.label>
+<TM_AwarenessBrandHD.stages.surging_II.label>croissant II</TM_AwarenessBrandHD.stages.surging_II.label>
+<TM_AwarenessBrandHD.stages.surging_III.label>croissant III</TM_AwarenessBrandHD.stages.surging_III.label>
+<TM_AwarenessBrandHD.stages.surging_IV.label>croissant IV</TM_AwarenessBrandHD.stages.surging_IV.label>
+<TM_AwarenessBrandHD.stages.surging_V.label>croissant V</TM_AwarenessBrandHD.stages.surging_V.label>
+<TM_AwarenessBrandHD.stages.surging_VI.label>croissant VI</TM_AwarenessBrandHD.stages.surging_VI.label>
+
+<TM_VitalityBrandHD.label>marque de vitalité</TM_VitalityBrandHD.label>
+<TM_VitalityBrandHD.description>Augmente la vitalité et la récupération.</TM_VitalityBrandHD.description>
+<TM_VitalityBrandHD.stages.dormant.label>en sommeil</TM_VitalityBrandHD.stages.dormant.label>
+<TM_VitalityBrandHD.stages.I.label>I</TM_VitalityBrandHD.stages.I.label>
+<TM_VitalityBrandHD.stages.II.label>II</TM_VitalityBrandHD.stages.II.label>
+<TM_VitalityBrandHD.stages.III.label>III</TM_VitalityBrandHD.stages.III.label>
+<TM_VitalityBrandHD.stages.IV.label>IV</TM_VitalityBrandHD.stages.IV.label>
+<TM_VitalityBrandHD.stages.surging_I.label>croissant I</TM_VitalityBrandHD.stages.surging_I.label>
+<TM_VitalityBrandHD.stages.surging_II.label>croissant II</TM_VitalityBrandHD.stages.surging_II.label>
+<TM_VitalityBrandHD.stages.surging_III.label>croissant III</TM_VitalityBrandHD.stages.surging_III.label>
+<TM_VitalityBrandHD.stages.surging_IV.label>croissant IV</TM_VitalityBrandHD.stages.surging_IV.label>
+<TM_VitalityBrandHD.stages.surging_V.label>croissant V</TM_VitalityBrandHD.stages.surging_V.label>
+<TM_VitalityBrandHD.stages.surging_VI.label>croissant VI</TM_VitalityBrandHD.stages.surging_VI.label>
+
+<TM_GolemancyEfficiencyHD.label>lien mental</TM_GolemancyEfficiencyHD.label>
+<TM_GolemancyEfficiencyHD.description>Le golem est lié à un golemancien et a acquis un état de conscience supérieur.</TM_GolemancyEfficiencyHD.description>
+<TM_GolemancyEfficiencyHD.stages.I.label>I</TM_GolemancyEfficiencyHD.stages.I.label>
+<TM_GolemancyEfficiencyHD.stages.II.label>II</TM_GolemancyEfficiencyHD.stages.II.label>
+<TM_GolemancyEfficiencyHD.stages.III.label>III</TM_GolemancyEfficiencyHD.stages.III.label>
+<TM_GolemancyEfficiencyHD.stages.IV.label>IV</TM_GolemancyEfficiencyHD.stages.IV.label>
+<TM_GolemancyEfficiencyHD.stages.V.label>V</TM_GolemancyEfficiencyHD.stages.V.label>
+
+<TM_GolemancyVersatilityHD.label>lien du Golem</TM_GolemancyVersatilityHD.label>
+<TM_GolemancyVersatilityHD.description>Le golemancien est lié à un golem et est capable de siphonner une partie de son énergie pour son usage personnel.</TM_GolemancyVersatilityHD.description>
+<TM_GolemancyVersatilityHD.stages.I.label>I</TM_GolemancyVersatilityHD.stages.I.label>
+<TM_GolemancyVersatilityHD.stages.II.label>II</TM_GolemancyVersatilityHD.stages.II.label>
+<TM_GolemancyVersatilityHD.stages.III.label>III</TM_GolemancyVersatilityHD.stages.III.label>
+<TM_GolemancyVersatilityHD.stages.IV.label>IV</TM_GolemancyVersatilityHD.stages.IV.label>
+<TM_GolemancyVersatilityHD.stages.V.label>V</TM_GolemancyVersatilityHD.stages.V.label>
+
+<TM_GolemancyPowerHD.label>augmentation du Golem</TM_GolemancyPowerHD.label>
+<TM_GolemancyPowerHD.description>Le golem est lié à un golemancien capable d'augmenter la puissance et l'endurance du golem.</TM_GolemancyPowerHD.description>
+<TM_GolemancyPowerHD.stages.I.label>I</TM_GolemancyPowerHD.stages.I.label>
+<TM_GolemancyPowerHD.stages.II.label>II</TM_GolemancyPowerHD.stages.II.label>
+<TM_GolemancyPowerHD.stages.III.label>III</TM_GolemancyPowerHD.stages.III.label>
+<TM_GolemancyPowerHD.stages.IV.label>IV</TM_GolemancyPowerHD.stages.IV.label>
+<TM_GolemancyPowerHD.stages.V.label>V</TM_GolemancyPowerHD.stages.V.label>
+
+<TM_ChiHD.label>chi</TM_ChiHD.label>
+<TM_ChiHD.description>Correspond à l'énergie unique utilisée par un Moine.</TM_ChiHD.description>
+
+<TM_MindOverBodyHD.label>l'esprit et le corps</TM_MindOverBodyHD.label>
+<TM_MindOverBodyHD.description>Renforce la puissance physique en surmontant les limites du corps.</TM_MindOverBodyHD.description>
+<TM_MindOverBodyHD.stages.I.label>I</TM_MindOverBodyHD.stages.I.label>
+<TM_MindOverBodyHD.stages.II.label>II</TM_MindOverBodyHD.stages.II.label>
+<TM_MindOverBodyHD.stages.III.label>III</TM_MindOverBodyHD.stages.III.label>
+<TM_MindOverBodyHD.stages.IV.label>IV</TM_MindOverBodyHD.stages.IV.label>
+
+<TM_UndeadHD.label>mort-vivant</TM_UndeadHD.label>
+<TM_UndeadHD.description>Un colon animé par l'énergie nécrotique. Ce colon ne possède pas d'intention propre et nécessite une direction et une énergie continues de la part d'un nécromancien.</TM_UndeadHD.description>
+<TM_UndeadHD.stages.I.label>I</TM_UndeadHD.stages.I.label>
+<TM_UndeadHD.stages.II.label>II</TM_UndeadHD.stages.II.label>
+<TM_UndeadHD.stages.III.label>III</TM_UndeadHD.stages.III.label>
+<TM_UndeadHD.stages.IV.label>IV</TM_UndeadHD.stages.IV.label>
+
+<TM_LichHD.label>liche</TM_LichHD.label>
+<TM_LichHD.description>Un colon qui a atteint l'immortalité en coupant son lien avec le cycle de la vie et de la mort.</TM_LichHD.description>
+<TM_LichHD.stages.Undead.label>Mort-vivant</TM_LichHD.stages.Undead.label>
+
+<TM_UndeadAnimalHD.label>mort-vivant</TM_UndeadAnimalHD.label>
+<TM_UndeadAnimalHD.description>Un colon qui a atteint l'immortalité en coupant son lien avec le cycle de la vie et de la mort.</TM_UndeadAnimalHD.description>
+<TM_UndeadAnimalHD.stages.I.label>I</TM_UndeadAnimalHD.stages.I.label>
+<TM_UndeadAnimalHD.stages.II.label>II</TM_UndeadAnimalHD.stages.II.label>
+<TM_UndeadAnimalHD.stages.III.label>III</TM_UndeadAnimalHD.stages.III.label>
+<TM_UndeadAnimalHD.stages.IV.label>IV</TM_UndeadAnimalHD.stages.IV.label>
+
+<TM_DeathMarkHD.label>marque de mort</TM_DeathMarkHD.label>
+<TM_DeathMarkHD.description>Marqué par la mort, ce colon va bientôt mourir et être réanimé en tant que mort-vivant. (non utilisé)</TM_DeathMarkHD.description>
+
+<TM_DeathMarkCurse.label>marque de mort</TM_DeathMarkCurse.label>
+<TM_DeathMarkCurse.description>Marqué par la mort, ce colon est incapable de se concentrer sur le présent en raison de sa concentration sur sa mort inévitable.</TM_DeathMarkCurse.description>
+<TM_DeathMarkCurse.stages.clumsy.label>maladroit</TM_DeathMarkCurse.stages.clumsy.label>
+<TM_DeathMarkCurse.stages.fumbling.label>tâtonnant</TM_DeathMarkCurse.stages.fumbling.label>
+<TM_DeathMarkCurse.stages.cursed.label>maudit</TM_DeathMarkCurse.stages.cursed.label>
+
+<TM_TormentHD.label>tourment</TM_TormentHD.label>
+<TM_TormentHD.description>La douleur induite par l'énergie sombre.</TM_TormentHD.description>
+<TM_TormentHD.comps.HediffComp_GetsPermanent.permanentLabel>pourri</TM_TormentHD.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_TormentHD.injuryProps.destroyedLabel>a fondu</TM_TormentHD.injuryProps.destroyedLabel>
+<TM_TormentHD.labelNounPretty>une {0} au/à la {1}</TM_TormentHD.labelNounPretty>
+
+<TM_DeathBoltHD.label>trait de mort</TM_DeathBoltHD.label>
+<TM_DeathBoltHD.description>Une énergie destructrice qui tue tous les êtres vivants.</TM_DeathBoltHD.description>
+<TM_DeathBoltHD.comps.HediffComp_GetsPermanent.permanentLabel>fondu</TM_DeathBoltHD.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_DeathBoltHD.injuryProps.destroyedLabel>a fondu</TM_DeathBoltHD.injuryProps.destroyedLabel>
+<TM_DeathBoltHD.labelNounPretty>une {0} au/à la {1}</TM_DeathBoltHD.labelNounPretty>
+
+<TM_Torment_HD.label>tourmenté</TM_Torment_HD.label>
+<TM_Torment_HD.description>Douloureusement tourmenté par la magie noire.</TM_Torment_HD.description>
+<TM_Torment_HD.stages.pain.label>douleur</TM_Torment_HD.stages.pain.label>
+<TM_Torment_HD.stages.agony.label>agonie</TM_Torment_HD.stages.agony.label>
+<TM_Torment_HD.stages.torment.label>tourment</TM_Torment_HD.stages.torment.label>
+
+<TM_UndeadStageHD.label>stade du corps</TM_UndeadStageHD.label>
+<TM_UndeadStageHD.description>Le stade actuel des morts-vivants.</TM_UndeadStageHD.description>
+<TM_UndeadStageHD.stages.Rotting.label>pourriture</TM_UndeadStageHD.stages.Rotting.label>
+<TM_UndeadStageHD.stages.Dessicated.label>desséché</TM_UndeadStageHD.stages.Dessicated.label>
+
+<TM_BrittleBonesHD.label>os fragiles</TM_BrittleBonesHD.label>
+<TM_BrittleBonesHD.description>Se produit lors de l'exposition à des températures extrêmement froides et provoque la fragilisation des os et des ligaments, ce qui réduit les mouvements et la manipulation. Les morts-vivants atteints de cette condition ont besoin de 50% de mana supplémentaire pour être maintenus.</TM_BrittleBonesHD.description>
+<TM_BrittleBonesHD.stages.I.label>I</TM_BrittleBonesHD.stages.I.label>
+<TM_BrittleBonesHD.stages.II.label>II</TM_BrittleBonesHD.stages.II.label>
+<TM_BrittleBonesHD.stages.III.label>III</TM_BrittleBonesHD.stages.III.label>
+
+<TM_SlaggedHD.label>scorisé</TM_SlaggedHD.label>
+<TM_SlaggedHD.description>Se produit lorsqu'on est exposé à des températures extrêmement chaudes et provoque la décomposition de la matière organique, voire sa fonte. Les morts-vivants affectés par cette condition ont besoin de 50% de mana en plus pour être maintenus.</TM_SlaggedHD.description>
+<TM_SlaggedHD.stages.I.label>I</TM_SlaggedHD.stages.I.label>
+<TM_SlaggedHD.stages.II.label>II</TM_SlaggedHD.stages.II.label>
+<TM_SlaggedHD.stages.III.label>III</TM_SlaggedHD.stages.III.label>
+
+<TM_PsionicHD.label>énergie psionique</TM_PsionicHD.label>
+<TM_PsionicHD.description>Correspond à l'énergie unique d'un psionique.</TM_PsionicHD.description>
+
+<TM_PsionicInjuryHD.label>psionique</TM_PsionicInjuryHD.label>
+<TM_PsionicInjuryHD.description>Blessure causée par un pouvoir psionique.</TM_PsionicInjuryHD.description>
+<TM_PsionicInjuryHD.comps.HediffComp_GetsPermanent.permanentLabel>détruit par un pouvoir psionique</TM_PsionicInjuryHD.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_PsionicInjuryHD.injuryProps.destroyedLabel>Explosé(e)</TM_PsionicInjuryHD.injuryProps.destroyedLabel>
+<TM_PsionicInjuryHD.injuryProps.destroyedOutLabel>Implosé(e)</TM_PsionicInjuryHD.injuryProps.destroyedOutLabel>
+<TM_PsionicInjuryHD.labelNounPretty>une {0} au/à la {1}</TM_PsionicInjuryHD.labelNounPretty>
+
+<TM_PsionicSpeedHD.label>vitesse psionique</TM_PsionicSpeedHD.label>
+<TM_PsionicSpeedHD.description>Vitesse améliorée grâce à l'augmentation psionique.</TM_PsionicSpeedHD.description>
+<TM_PsionicSpeedHD.stages.I.label>I</TM_PsionicSpeedHD.stages.I.label>
+<TM_PsionicSpeedHD_I.label>vitesse psionique</TM_PsionicSpeedHD_I.label>
+<TM_PsionicSpeedHD_I.description>Vitesse améliorée grâce à l'augmentation psionique.</TM_PsionicSpeedHD_I.description>
+<TM_PsionicSpeedHD_I.stages.II.label>II</TM_PsionicSpeedHD_I.stages.II.label>
+<TM_PsionicSpeedHD_II.label>vitesse psionique</TM_PsionicSpeedHD_II.label>
+<TM_PsionicSpeedHD_II.description>Vitesse améliorée grâce à l'augmentation psionique.</TM_PsionicSpeedHD_II.description>
+<TM_PsionicSpeedHD_II.stages.III.label>III</TM_PsionicSpeedHD_II.stages.III.label>
+<TM_PsionicSpeedHD_III.label>vitesse psionique</TM_PsionicSpeedHD_III.label>
+<TM_PsionicSpeedHD_III.description>Vitesse améliorée grâce à l'augmentation psionique.</TM_PsionicSpeedHD_III.description>
+<TM_PsionicSpeedHD_III.stages.IV.label>IV</TM_PsionicSpeedHD_III.stages.IV.label>
+
+<TM_PsionicManipulationHD.label>manipulation psionique</TM_PsionicManipulationHD.label>
+<TM_PsionicManipulationHD.description>Dextérité améliorée grâce à l'augmentation psionique.</TM_PsionicManipulationHD.description>
+<TM_PsionicManipulationHD.stages.I.label>I</TM_PsionicManipulationHD.stages.I.label>
+<TM_PsionicManipulationHD_I.label>manipulation psionique</TM_PsionicManipulationHD_I.label>
+<TM_PsionicManipulationHD_I.description>Dextérité améliorée grâce à l'augmentation psionique.</TM_PsionicManipulationHD_I.description>
+<TM_PsionicManipulationHD_I.stages.II.label>II</TM_PsionicManipulationHD_I.stages.II.label>
+<TM_PsionicManipulationHD_II.label>manipulation psionique</TM_PsionicManipulationHD_II.label>
+<TM_PsionicManipulationHD_II.description>Dextérité améliorée grâce à l'augmentation psionique.</TM_PsionicManipulationHD_II.description>
+<TM_PsionicManipulationHD_II.stages.III.label>III</TM_PsionicManipulationHD_II.stages.III.label>
+<TM_PsionicManipulationHD_III.label>manipulation psionique</TM_PsionicManipulationHD_III.label>
+<TM_PsionicManipulationHD_III.description>Dextérité améliorée grâce à l'augmentation psionique.</TM_PsionicManipulationHD_III.description>
+<TM_PsionicManipulationHD_III.stages.IV.label>IV</TM_PsionicManipulationHD_III.stages.IV.label>
+
+<TM_ShadowCloakHD.label>cape d'ombre</TM_ShadowCloakHD.label>
+<TM_ShadowCloakHD.description>Caché dans les ombres.</TM_ShadowCloakHD.description>
+<TM_ShadowCloakHD.stages.I.label>I</TM_ShadowCloakHD.stages.I.label>
+<TM_ShadowCloakHD.stages.II.label>II</TM_ShadowCloakHD.stages.II.label>
+<TM_ShadowCloakHD.stages.III.label>III</TM_ShadowCloakHD.stages.III.label>
+<TM_ShadowCloakHD.stages.IV.label>IV</TM_ShadowCloakHD.stages.IV.label>
+<TM_ShadowCloakHD.stages.V.label>V</TM_ShadowCloakHD.stages.V.label>
+
+<TM_NightshadeHD.label>enduire de belladone</TM_NightshadeHD.label>
+<TM_NightshadeHD.description>Applique la toxine de la belladone noire aux armes et aux munitions.</TM_NightshadeHD.description>
+
+<TM_HasteHD.label>hâte</TM_HasteHD.label>
+<TM_HasteHD.description>La vitesse d'attaque est doublée.</TM_HasteHD.description>
+
+<TM_NightshadeToxinHD.label>toxine de belladone</TM_NightshadeToxinHD.label>
+<TM_NightshadeToxinHD.description>Affecté par la toxine de la belladone causant la cécité et des difficultés respiratoires.</TM_NightshadeToxinHD.description>
+<TM_NightshadeToxinHD.stages.I.label>I</TM_NightshadeToxinHD.stages.I.label>
+<TM_NightshadeToxinHD.stages.II.label>II</TM_NightshadeToxinHD.stages.II.label>
+<TM_NightshadeToxinHD.stages.III.label>III</TM_NightshadeToxinHD.stages.III.label>
+<TM_NightshadeToxinHD.stages.IV.label>IV</TM_NightshadeToxinHD.stages.IV.label>
+<TM_NightshadeToxinHD.stages.V.label>V</TM_NightshadeToxinHD.stages.V.label>
+
+<TM_EnrageHD.label>enrager</TM_EnrageHD.label>
+<TM_EnrageHD.description>Consomme toutes les émotions positives comme carburant pour la puissance physique, le sort s'estompe une fois que tout le bonheur est consumé. Lorsqu'il est sous l'emprise de cette malédiction, le colon ne peut pas être étourdi, sa résistance à la douleur, sa vitesse d'attaque et ses dégâts de mêlée sont augmentés.</TM_EnrageHD.description>
+<TM_EnrageHD.stages.I.label>I</TM_EnrageHD.stages.I.label>
+<TM_EnrageHD.stages.II.label>II</TM_EnrageHD.stages.II.label>
+<TM_EnrageHD.stages.III.label>III</TM_EnrageHD.stages.III.label>
+<TM_EnrageHD.stages.IV.label>IV</TM_EnrageHD.stages.IV.label>
+<TM_EnrageHD.stages.V.label>V</TM_EnrageHD.stages.V.label>
+
+<TM_HexHD.label>maléficié</TM_HexHD.label>
+<TM_HexHD.description>Sous les effets d'une malédiction.</TM_HexHD.description>
+
+<TM_PainHD.label>douleur</TM_PainHD.label>
+<TM_PainHD.description>Une blessure maudite avec une douleur extrême.</TM_PainHD.description>
+<TM_PainHD.comps.HediffComp_GetsPermanent.permanentLabel>flétri</TM_PainHD.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_PainHD.injuryProps.destroyedLabel>flétri(e)</TM_PainHD.injuryProps.destroyedLabel>
+<TM_PainHD.injuryProps.destroyedOutLabel>flétri(e)</TM_PainHD.injuryProps.destroyedOutLabel>
+<TM_PainHD.labelNounPretty>une {0} au/à la {1}</TM_PainHD.labelNounPretty>
+
+<TM_Hex_CriticalFailHD.label>malchance</TM_Hex_CriticalFailHD.label>
+<TM_Hex_CriticalFailHD.description>Maudits par une malchance dangereuse.</TM_Hex_CriticalFailHD.description>
+
+<TM_SpiritBondHD.label>lien spirituel</TM_SpiritBondHD.label>
+<TM_SpiritBondHD.description>Représente le lien que cet esprit animal partage avec un chaman. Augmente les attributs physiques et améliore la guérison.</TM_SpiritBondHD.description>
+<TM_SpiritBondHD.stages.I.label>I</TM_SpiritBondHD.stages.I.label>
+<TM_SpiritBondHD.stages.II.label>II</TM_SpiritBondHD.stages.II.label>
+<TM_SpiritBondHD.stages.III.label>III</TM_SpiritBondHD.stages.III.label>
+<TM_SpiritBondHD.stages.IV.label>IV</TM_SpiritBondHD.stages.IV.label>
+
+<TM_CrowInsightHD.label>vision du corbeau</TM_CrowInsightHD.label>
+<TM_CrowInsightHD.description>La perspicacité acquise auprès du corbeau spirituel - améliore la vitesse de recherche et la sensibilité psychique.</TM_CrowInsightHD.description>
+<TM_CrowInsightHD.stages.I.label>I</TM_CrowInsightHD.stages.I.label>
+<TM_CrowInsightHD.stages.II.label>II</TM_CrowInsightHD.stages.II.label>
+<TM_CrowInsightHD.stages.III.label>III</TM_CrowInsightHD.stages.III.label>
+<TM_CrowInsightHD.stages.IV.label>IV</TM_CrowInsightHD.stages.IV.label>
+
+<TM_BirdflightHD.label>vol</TM_BirdflightHD.label>
+<TM_BirdflightHD.description>Augmentation des mouvements en volant.</TM_BirdflightHD.description>
+
+<TM_HediffGearRepair.label>réparation du matériel</TM_HediffGearRepair.label>
+<TM_HediffGearRepair.description>Maintenance et entretien des équipements.</TM_HediffGearRepair.description>
+<TM_HediffGearRepair.stages.I.label>I</TM_HediffGearRepair.stages.I.label>
+
+<TM_HediffInnerHealing.label>guérison intérieure</TM_HediffInnerHealing.label>
+<TM_HediffInnerHealing.description>Améliore la guérison naturelle.</TM_HediffInnerHealing.description>
+<TM_HediffInnerHealing.stages.I.label>I</TM_HediffInnerHealing.stages.I.label>
+
+<TM_HediffHeavyBlow.label>coup puissant</TM_HediffHeavyBlow.label>
+<TM_HediffHeavyBlow.description>Augmente les dégâts infligés à chaque coup physique.</TM_HediffHeavyBlow.description>
+<TM_HediffHeavyBlow.stages.I.label>I</TM_HediffHeavyBlow.stages.I.label>
+<TM_HediffHeavyBlow.stages.II.label>II</TM_HediffHeavyBlow.stages.II.label>
+<TM_HediffHeavyBlow.stages.III.label>III</TM_HediffHeavyBlow.stages.III.label>
+<TM_HediffHeavyBlow.stages.IV.label>IV</TM_HediffHeavyBlow.stages.IV.label>
+
+<TM_HediffStrongBack.label>dos solide</TM_HediffStrongBack.label>
+<TM_HediffStrongBack.description>Augmente la capacité de charge de 40 et la capacité d'inventaire de 50 %.</TM_HediffStrongBack.description>
+<TM_HediffStrongBack.stages.I.label>I</TM_HediffStrongBack.stages.I.label>
+<TM_HediffStrongBack.stages.II.label>II</TM_HediffStrongBack.stages.II.label>
+<TM_HediffStrongBack.stages.III.label>III</TM_HediffStrongBack.stages.III.label>
+
+<TM_HediffThickSkin.label>peau dure</TM_HediffThickSkin.label>
+<TM_HediffThickSkin.description>Durcit la peau, la rendant plus résistante.</TM_HediffThickSkin.description>
+<TM_HediffThickSkin.stages.I.label>I</TM_HediffThickSkin.stages.I.label>
+<TM_HediffThickSkin.stages.II.label>II</TM_HediffThickSkin.stages.II.label>
+<TM_HediffThickSkin.stages.III.label>III</TM_HediffThickSkin.stages.III.label>
+<TM_HediffThickSkin.stages.IV.label>IV</TM_HediffThickSkin.stages.IV.label>
+
+<TM_HediffFightersFocus.label>focalisation du combattant</TM_HediffFightersFocus.label>
+<TM_HediffFightersFocus.description>Concentration mentale pour les combattants.</TM_HediffFightersFocus.description>
+<TM_HediffFightersFocus.stages.I.label>I</TM_HediffFightersFocus.stages.I.label>
+<TM_HediffFightersFocus.stages.II.label>II</TM_HediffFightersFocus.stages.II.label>
+
+<TM_HediffSprint.label>sprint</TM_HediffSprint.label>
+<TM_HediffSprint.description>Déplacez-vous plus rapidement.</TM_HediffSprint.description>
+<TM_HediffSprint.stages.I.label>I</TM_HediffSprint.stages.I.label>
+<TM_HediffSprint.stages.II.label>II</TM_HediffSprint.stages.II.label>
+<TM_HediffSprint.stages.III.label>III</TM_HediffSprint.stages.III.label>
+<TM_HediffSprint.stages.IV.label>IV</TM_HediffSprint.stages.IV.label>
+
+<TM_BurningFuryHD.label>fureur ardente</TM_BurningFuryHD.label>
+<TM_BurningFuryHD.description>Emet un bouclier d'énergie brute qui dévie les attaques et inflige des dégâts aux ennemis proches.</TM_BurningFuryHD.description>
+<TM_BurningFuryHD.stages.I.label>I</TM_BurningFuryHD.stages.I.label>
+
+<TM_TechnoShieldHD.label>bouclier cinétique</TM_TechnoShieldHD.label>
+<TM_TechnoShieldHD.description>Un bouclier qui redirige l'énergie cinétique ; le bouclier peut être traversé par un projectile avec une force suffisante.</TM_TechnoShieldHD.description>
+<TM_TechnoShieldHD_I.label>bouclier cinétique</TM_TechnoShieldHD_I.label>
+<TM_TechnoShieldHD_I.description>Un bouclier qui redirige l'énergie cinétique ; le bouclier peut être traversé par un projectile avec une force suffisante.</TM_TechnoShieldHD_I.description>
+<TM_TechnoShieldHD_II.label>bouclier cinétique</TM_TechnoShieldHD_II.label>
+<TM_TechnoShieldHD_II.description>Un bouclier qui redirige l'énergie cinétique ; le bouclier peut être traversé par un projectile avec une force suffisante.</TM_TechnoShieldHD_II.description>
+<TM_TechnoShieldHD_III.label>bouclier cinétique</TM_TechnoShieldHD_III.label>
+<TM_TechnoShieldHD_III.description>Un bouclier qui redirige l'énergie cinétique ; le bouclier peut être traversé par un projectile avec une force suffisante.</TM_TechnoShieldHD_III.description>
+
+<TM_TechnoBitHD.label>techno bit</TM_TechnoBitHD.label>
+<TM_TechnoBitHD.description>Une petite sphère flottante qui assiste le Technomancien.</TM_TechnoBitHD.description>
+
+<TM_BitAssistHD.label>assistant bit</TM_BitAssistHD.label>
+<TM_BitAssistHD.description>Assistance fournie par le Techno Bit.</TM_BitAssistHD.description>
+<TM_BitAssistHD.stages.I.label>I</TM_BitAssistHD.stages.I.label>
+<TM_BitAssistHD.stages.II.label>II</TM_BitAssistHD.stages.II.label>
+<TM_BitAssistHD.stages.III.label>III</TM_BitAssistHD.stages.III.label>
+<TM_BitAssistHD.stages.IV.label>IV</TM_BitAssistHD.stages.IV.label>
+<TM_BitAssistHD.stages.V.label>V</TM_BitAssistHD.stages.V.label>
+<TM_BitAssistHD.stages.VI.label>VI</TM_BitAssistHD.stages.VI.label>
+<TM_BitAssistHD.stages.VII.label>VII</TM_BitAssistHD.stages.VII.label>
+<TM_BitAssistHD.stages.VIII.label>VIII</TM_BitAssistHD.stages.VIII.label>
+<TM_BitAssistHD.stages.IX.label>IX</TM_BitAssistHD.stages.IX.label>
+<TM_BitAssistHD.stages.X.label>X</TM_BitAssistHD.stages.X.label>
+<TM_BitAssistHD.stages.XI.label>XI</TM_BitAssistHD.stages.XI.label>
+<TM_BitAssistHD.stages.XII.label>XII</TM_BitAssistHD.stages.XII.label>
+<TM_BitAssistHD.stages.XIII.label>XIII</TM_BitAssistHD.stages.XIII.label>
+<TM_BitAssistHD.stages.XIV.label>XIV</TM_BitAssistHD.stages.XIV.label>
+<TM_BitAssistHD.stages.XV.label>XV</TM_BitAssistHD.stages.XV.label>
+
+<TM_NanoStimulantWithdrawalHD.label>stimulant sevrage</TM_NanoStimulantWithdrawalHD.label>
+<TM_NanoStimulantWithdrawalHD.description>Le sevrage après que les effets du nano stimulant se soient dissipés.</TM_NanoStimulantWithdrawalHD.description>
+
+<TM_OverdriveHD.label>surmultiplicateur</TM_OverdriveHD.label>
+<TM_OverdriveHD.description>Les appareils électroniques et les machines surcadencées ont des performances dangereuses.</TM_OverdriveHD.description>
+<TM_OverdriveHD.stages.I.label>I</TM_OverdriveHD.stages.I.label>
+<TM_OverdriveHD.stages.II.label>II</TM_OverdriveHD.stages.II.label>
+<TM_OverdriveHD.stages.III.label>III</TM_OverdriveHD.stages.III.label>
+<TM_OverdriveHD.stages.IV.label>IV</TM_OverdriveHD.stages.IV.label>
+
+<TM_OverdriveHD_I.label>surmultiplicateur</TM_OverdriveHD_I.label>
+<TM_OverdriveHD_I.description>Les appareils électroniques et les machines surcadencées ont des performances dangereuses.</TM_OverdriveHD_I.description>
+<TM_OverdriveHD_I.stages.I.label>I</TM_OverdriveHD_I.stages.I.label>
+<TM_OverdriveHD_I.stages.II.label>II</TM_OverdriveHD_I.stages.II.label>
+<TM_OverdriveHD_I.stages.III.label>III</TM_OverdriveHD_I.stages.III.label>
+<TM_OverdriveHD_I.stages.IV.label>IV</TM_OverdriveHD_I.stages.IV.label>
+
+<TM_OverdriveHD_II.label>surmultiplicateur</TM_OverdriveHD_II.label>
+<TM_OverdriveHD_II.description>Les appareils électroniques et les machines surcadencées ont des performances dangereuses.</TM_OverdriveHD_II.description>
+<TM_OverdriveHD_II.stages.I.label>I</TM_OverdriveHD_II.stages.I.label>
+<TM_OverdriveHD_II.stages.II.label>II</TM_OverdriveHD_II.stages.II.label>
+<TM_OverdriveHD_II.stages.III.label>III</TM_OverdriveHD_II.stages.III.label>
+<TM_OverdriveHD_II.stages.IV.label>IV</TM_OverdriveHD_II.stages.IV.label>
+
+<TM_OverdriveHD_III.label>surmultiplicateur</TM_OverdriveHD_III.label>
+<TM_OverdriveHD_III.description>Les appareils électroniques et les machines surcadencées ont des performances dangereuses.</TM_OverdriveHD_III.description>
+<TM_OverdriveHD_III.stages.I.label>I</TM_OverdriveHD_III.stages.I.label>
+<TM_OverdriveHD_III.stages.II.label>II</TM_OverdriveHD_III.stages.II.label>
+<TM_OverdriveHD_III.stages.III.label>III</TM_OverdriveHD_III.stages.III.label>
+<TM_OverdriveHD_III.stages.IV.label>IV</TM_OverdriveHD_III.stages.IV.label>
+
+<TM_NanoStimulantHD.label>nano stimulant</TM_NanoStimulantHD.label>
+<TM_NanoStimulantHD.description>Stimulant améliorant le combat ; suivi d'une brève période de sevrage.</TM_NanoStimulantHD.description>
+<TM_NanoStimulantHD.stages.I.label>I</TM_NanoStimulantHD.stages.I.label>
+<TM_NanoStimulantHD.stages.II.label>II</TM_NanoStimulantHD.stages.II.label>
+<TM_NanoStimulantHD.stages.III.label>III</TM_NanoStimulantHD.stages.III.label>
+<TM_NanoStimulantHD.stages.IV.label>IV</TM_NanoStimulantHD.stages.IV.label>
+<TM_NanoStimulantHD.stages.V.label>V</TM_NanoStimulantHD.stages.V.label>
+<TM_NanoStimulantHD.stages.VI.label>VI</TM_NanoStimulantHD.stages.VI.label>
+<TM_NanoStimulantHD.stages.VII.label>VII</TM_NanoStimulantHD.stages.VII.label>
+<TM_NanoStimulantHD.stages.VIII.label>VIII</TM_NanoStimulantHD.stages.VIII.label>
+<TM_NanoStimulantHD.stages.IX.label>IX</TM_NanoStimulantHD.stages.IX.label>
+<TM_NanoStimulantHD.stages.X.label>X</TM_NanoStimulantHD.stages.X.label>
+<TM_NanoStimulantHD.stages.XI.label>XI</TM_NanoStimulantHD.stages.XI.label>
+<TM_NanoStimulantHD.stages.XII.label>XII</TM_NanoStimulantHD.stages.XII.label>
+<TM_NanoStimulantHD.stages.XIII.label>XIII</TM_NanoStimulantHD.stages.XIII.label>
+<TM_NanoStimulantHD.stages.XIV.label>XIV</TM_NanoStimulantHD.stages.XIV.label>
+<TM_NanoStimulantHD.stages.XV.label>XV</TM_NanoStimulantHD.stages.XV.label>
+
+<TM_ReprogrammedFibMechanites_HD.label>mécanites fibreuses reprogrammés</TM_ReprogrammedFibMechanites_HD.label>
+<TM_ReprogrammedFibMechanites_HD.description>Mécanites fibreuses reprogrammées pour causer moins de stress à l'hôte.</TM_ReprogrammedFibMechanites_HD.description>
+<TM_ReprogrammedFibMechanites_HD.stages.fibrous-0.label>(fibreuse)</TM_ReprogrammedFibMechanites_HD.stages.fibrous-0.label>
+<TM_ReprogrammedFibMechanites_HD.stages.fibrous-1.label>(fibreuse)</TM_ReprogrammedFibMechanites_HD.stages.fibrous-1.label>
+
+<TM_ReprogrammedSenMechanites_HD.label>mécanites sensorielles reprogrammés</TM_ReprogrammedSenMechanites_HD.label>
+<TM_ReprogrammedSenMechanites_HD.description>Mécanismes sensorielles reprogrammés pour causer moins de stress à l'hôte.</TM_ReprogrammedSenMechanites_HD.description>
+<TM_ReprogrammedSenMechanites_HD.stages.sensory-0.label>(sensorielle)</TM_ReprogrammedSenMechanites_HD.stages.sensory-0.label>
+<TM_ReprogrammedSenMechanites_HD.stages.sensory-1.label>(sensorielle)</TM_ReprogrammedSenMechanites_HD.stages.sensory-1.label>
+
+<TM_ReprogrammedLymMechanites_HD.label>mécanites lymphatiques reprogrammés</TM_ReprogrammedLymMechanites_HD.label>
+<TM_ReprogrammedLymMechanites_HD.description>Mécanites lymphatiques reprogrammés pour causer moins de stress à l'hôte.</TM_ReprogrammedLymMechanites_HD.description>
+<TM_ReprogrammedLymMechanites_HD.stages.lymphatic-0.label>(lymphatique)</TM_ReprogrammedLymMechanites_HD.stages.lymphatic-0.label>
+<TM_ReprogrammedLymMechanites_HD.stages.lymphatic-1.label>(lymphatique)</TM_ReprogrammedLymMechanites_HD.stages.lymphatic-1.label>
+
+<TM_Uncertainty.label>futur incertain</TM_Uncertainty.label>
+<TM_Uncertainty.description>Utilisé pour contrôler les promotions des mages.</TM_Uncertainty.description>
+
+<TM_SoothingBreeze_AuraHD.label>aura apaisante</TM_SoothingBreeze_AuraHD.label>
+<TM_SoothingBreeze_AuraHD.description>Une aura qui génère et confère une présence apaisante aux colons proches.</TM_SoothingBreeze_AuraHD.description>
+<TM_SoothingBreeze_AuraHD.stages.I.label>I</TM_SoothingBreeze_AuraHD.stages.I.label>
+<TM_SoothingBreeze_AuraHD.stages.II.label>II</TM_SoothingBreeze_AuraHD.stages.II.label>
+<TM_SoothingBreeze_AuraHD.stages.III.label>III</TM_SoothingBreeze_AuraHD.stages.III.label>
+<TM_SoothingBreeze_AuraHD.stages.IV.label>IV</TM_SoothingBreeze_AuraHD.stages.IV.label>
+
+<SoothingBreeze.label>brise apaisante</SoothingBreeze.label>
+<SoothingBreeze.description>Une présence apaisante qui calme l'esprit.</SoothingBreeze.description>
+<SoothingBreeze.stages.I.label>I</SoothingBreeze.stages.I.label>
+<SoothingBreeze_I.label>brise apaisante</SoothingBreeze_I.label>
+<SoothingBreeze_I.description>Une présence apaisante qui calme l'esprit.</SoothingBreeze_I.description>
+<SoothingBreeze_I.stages.II.label>II</SoothingBreeze_I.stages.II.label>
+<SoothingBreeze_II.label>brise apaisante</SoothingBreeze_II.label>
+<SoothingBreeze_II.description>Une présence apaisante qui calme l'esprit.</SoothingBreeze_II.description>
+<SoothingBreeze_II.stages.III.label>III</SoothingBreeze_II.stages.III.label>
+<SoothingBreeze_III.label>brise apaisante</SoothingBreeze_III.label>
+<SoothingBreeze_III.description>Une présence apaisante qui calme l'esprit.</SoothingBreeze_III.description>
+<SoothingBreeze_III.stages.IV.label>IV</SoothingBreeze_III.stages.IV.label>
+
+<TM_InnerFire_AuraHD.label>aura de chaleur</TM_InnerFire_AuraHD.label>
+<TM_InnerFire_AuraHD.description>Une aura qui génère et confère chaleur et confiance.</TM_InnerFire_AuraHD.description>
+<TM_InnerFire_AuraHD.stages.I.label>I</TM_InnerFire_AuraHD.stages.I.label>
+<TM_InnerFire_AuraHD.stages.II.label>II</TM_InnerFire_AuraHD.stages.II.label>
+<TM_InnerFire_AuraHD.stages.III.label>III</TM_InnerFire_AuraHD.stages.III.label>
+<TM_InnerFire_AuraHD.stages.IV.label>IV</TM_InnerFire_AuraHD.stages.IV.label>
+
+<InnerFireHD.label>feu intérieur</InnerFireHD.label>
+<InnerFireHD.description>Fortifie l'esprit, donnant au colon une endurance et des résistances accrues.</InnerFireHD.description>
+<InnerFireHD.stages.I.label>I</InnerFireHD.stages.I.label>
+<InnerFire_IHD.label>feu intérieur</InnerFire_IHD.label>
+<InnerFire_IHD.description>Fortifie l'esprit, donnant au colon une endurance et des résistances accrues.</InnerFire_IHD.description>
+<InnerFire_IHD.stages.II.label>II</InnerFire_IHD.stages.II.label>
+<InnerFire_IIHD.label>feu intérieur</InnerFire_IIHD.label>
+<InnerFire_IIHD.description>Fortifie l'esprit, donnant au colon une endurance et des résistances accrues.</InnerFire_IIHD.description>
+<InnerFire_IIHD.stages.III.label>III</InnerFire_IIHD.stages.III.label>
+<InnerFire_IIIHD.label>feu intérieur</InnerFire_IIIHD.label>
+<InnerFire_IIIHD.description>Fortifie l'esprit, donnant au colon une endurance et des résistances accrues.</InnerFire_IIIHD.description>
+<InnerFire_IIIHD.stages.IV.label>IV</InnerFire_IIIHD.stages.IV.label>
+
+<TM_RayOfHope_AuraHD.label>aura d'espoir</TM_RayOfHope_AuraHD.label>
+<TM_RayOfHope_AuraHD.description>Une aura qui génère et confère une présence encourageante.</TM_RayOfHope_AuraHD.description>
+<TM_RayOfHope_AuraHD.stages.I.label>I</TM_RayOfHope_AuraHD.stages.I.label>
+<TM_RayOfHope_AuraHD.stages.II.label>II</TM_RayOfHope_AuraHD.stages.II.label>
+<TM_RayOfHope_AuraHD.stages.III.label>III</TM_RayOfHope_AuraHD.stages.III.label>
+<TM_RayOfHope_AuraHD.stages.IV.label>IV</TM_RayOfHope_AuraHD.stages.IV.label>
+
+<RayofHope.label>rayon d'espoir</RayofHope.label>
+<RayofHope.description>Une présence encourageante qui vivifie l'esprit.</RayofHope.description>
+<RayofHope.stages.I.label>I</RayofHope.stages.I.label>
+<RayofHope_I.label>rayon d'espoir</RayofHope_I.label>
+<RayofHope_I.description>Une présence encourageante qui vivifie l'esprit.</RayofHope_I.description>
+<RayofHope_I.stages.II.label>II</RayofHope_I.stages.II.label>
+<RayofHope_II.label>rayon d'espoir</RayofHope_II.label>
+<RayofHope_II.description>Une présence encourageante qui vivifie l'esprit.</RayofHope_II.description>
+<RayofHope_II.stages.III.label>III</RayofHope_II.stages.III.label>
+<RayofHope_III.label>rayon d'espoir</RayofHope_III.label>
+<RayofHope_III.description>Une présence encourageante qui vivifie l'esprit.</RayofHope_III.description>
+<RayofHope_III.stages.IV.label>IV</RayofHope_III.stages.IV.label>
+
+<AMP_I.label>AMP</AMP_I.label>
+<AMP_I.description>Une explosion d'énergie qui amplifie les caractéristiques physiques.</AMP_I.description>
+<AMP_I.stages.I.label>I</AMP_I.stages.I.label>
+<AMP_II.label>AMP</AMP_II.label>
+<AMP_II.description>Une explosion d'énergie qui amplifie les caractéristiques physiques.</AMP_II.description>
+<AMP_II.stages.II.label>II</AMP_II.stages.II.label>
+<AMP_III.label>AMP</AMP_III.label>
+<AMP_III.description>Une explosion d'énergie qui amplifie les caractéristiques physiques.</AMP_III.description>
+<AMP_III.stages.III.label>III</AMP_III.stages.III.label>
+
+<TM_Shadow_AuraHD.label>aura d'ombre</TM_Shadow_AuraHD.label>
+<TM_Shadow_AuraHD.description>Une aura qui génère et confère une présence sombre.</TM_Shadow_AuraHD.description>
+<TM_Shadow_AuraHD.stages.I.label>I</TM_Shadow_AuraHD.stages.I.label>
+<TM_Shadow_AuraHD.stages.II.label>II</TM_Shadow_AuraHD.stages.II.label>
+<TM_Shadow_AuraHD.stages.III.label>III</TM_Shadow_AuraHD.stages.III.label>
+<TM_Shadow_AuraHD.stages.IV.label>IV</TM_Shadow_AuraHD.stages.IV.label>
+
+<Shadow.label>magie d'ombre</Shadow.label>
+<Shadow.description>Une présence obscure qui précipite l'action.</Shadow.description>
+<Shadow_I.label>magie d'ombre</Shadow_I.label>
+<Shadow_I.description>Une présence obscure qui précipite l'action.</Shadow_I.description>
+<Shadow_I.stages.I.label>I</Shadow_I.stages.I.label>
+<Shadow_II.label>magie d'ombre</Shadow_II.label>
+<Shadow_II.description>Une présence obscure qui précipite l'action.</Shadow_II.description>
+<Shadow_II.stages.II.label>II</Shadow_II.stages.II.label>
+<Shadow_III.label>magie d'ombre</Shadow_III.label>
+<Shadow_III.description>Une présence obscure qui précipite l'action.</Shadow_III.description>
+<Shadow_III.stages.III.label>III</Shadow_III.stages.III.label>
+
+<BestowMightHD.label>accorder la puissance</BestowMightHD.label>
+<BestowMightHD.description>Un puissant atout pour le combat.</BestowMightHD.description>
+<BestowMightHD.stages.I.label>I</BestowMightHD.stages.I.label>
+<BestowMightHD_I.label>accorder la puissance</BestowMightHD_I.label>
+<BestowMightHD_I.description>Un puissant atout pour le combat.</BestowMightHD_I.description>
+<BestowMightHD_I.stages.II.label>II</BestowMightHD_I.stages.II.label>
+<BestowMightHD_II.label>accorder la puissance</BestowMightHD_II.label>
+<BestowMightHD_II.description>Un puissant atout pour le combat.</BestowMightHD_II.description>
+<BestowMightHD_II.stages.III.label>III</BestowMightHD_II.stages.III.label>
+<BestowMightHD_III.label>accorder la puissance</BestowMightHD_III.label>
+<BestowMightHD_III.description>Un puissant atout pour le combat.</BestowMightHD_III.description>
+<BestowMightHD_III.stages.IV.label>IV</BestowMightHD_III.stages.IV.label>
+
+<TM_RangerBondHD.label>lien rôdeur</TM_RangerBondHD.label>
+<TM_RangerBondHD.description>Représente le lien que cet animal partage avec un Rôdeur. Augmente les attributs physiques et améliore la guérison.</TM_RangerBondHD.description>
+<TM_RangerBondHD.stages.I.label>I</TM_RangerBondHD.stages.I.label>
+<TM_RangerBondHD.stages.II.label>II</TM_RangerBondHD.stages.II.label>
+<TM_RangerBondHD.stages.III.label>III</TM_RangerBondHD.stages.III.label>
+<TM_RangerBondHD.stages.IV.label>IV</TM_RangerBondHD.stages.IV.label>
+
+<TM_HediffShield.label>bouclier</TM_HediffShield.label>
+<TM_HediffShield.description>Absorbe les dégâts.</TM_HediffShield.description>
+<TM_MagicShieldHD.label>bouclier</TM_MagicShieldHD.label>
+<TM_MagicShieldHD.description>Absorbe les dégâts.</TM_MagicShieldHD.description>
+
+<TM_HediffSprint_I.label>sprint (I)</TM_HediffSprint_I.label>
+<TM_HediffSprint_I.description>Augmente le mouvement.</TM_HediffSprint_I.description>
+<TM_HediffSprint_II.label>sprint (II)</TM_HediffSprint_II.label>
+<TM_HediffSprint_II.description>Augmente le mouvement.</TM_HediffSprint_II.description>
+<TM_HediffSprint_III.label>sprint (III)</TM_HediffSprint_III.label>
+<TM_HediffSprint_III.description>Augmente le mouvement.</TM_HediffSprint_III.description>
+
+<TM_HediffInvulnerable.label>invulnérable</TM_HediffInvulnerable.label>
+<TM_HediffInvulnerable.description>Prévient de tous les dégâts lorsqu'il est actif.</TM_HediffInvulnerable.description>
+<TM_HediffTimedInvulnerable.label>invulnérable</TM_HediffTimedInvulnerable.label>
+<TM_HediffTimedInvulnerable.description>Prévient de tous les dégâts lorsqu'il est actif.</TM_HediffTimedInvulnerable.description>
+
+<TM_HediffFortitude.label>robustesse</TM_HediffFortitude.label>
+<TM_HediffFortitude.description>Atténue tous les dégâts d'un montant déterminé.</TM_HediffFortitude.description>
+
+<TM_ManaShieldHD.label>bouclier de mana</TM_ManaShieldHD.label>
+<TM_ManaShieldHD.description>Sacrifie l'énergie magique pour absorber les dégâts.</TM_ManaShieldHD.description>
+
+<TM_Blind.label>aveuglé</TM_Blind.label>
+<TM_Blind.description>Diminue la vue.</TM_Blind.description>
+<TM_Blind.stages.I.label>I</TM_Blind.stages.I.label>
+<TM_Blind.stages.II.label>II</TM_Blind.stages.II.label>
+<TM_Blind.stages.III.label>III</TM_Blind.stages.III.label>
+
+<TM_Regeneration.label>régénération</TM_Regeneration.label>
+<TM_Regeneration.description>Régénère la santé et guérit les blessures au fil du temps. Chaque tique permet de restaurer la santé d'une blessure jusqu'à sa guérison.</TM_Regeneration.description>
+<TM_Regeneration_I.label>régénération (I)</TM_Regeneration_I.label>
+<TM_Regeneration_I.description>Régénère la santé et guérit les blessures au fil du temps. Chaque tique permet de restaurer la santé d'une blessure jusqu'à sa guérison.</TM_Regeneration_I.description>
+<TM_Regeneration_II.label>régénération (II)</TM_Regeneration_II.label>
+<TM_Regeneration_II.description>Régénère la santé et guérit les blessures au fil du temps. Chaque tique permet de restaurer la santé d'une blessure jusqu'à sa guérison.</TM_Regeneration_II.description>
+<TM_Regeneration_III.label>régénération (III)</TM_Regeneration_III.label>
+<TM_Regeneration_III.description>Régénère la santé et guérit les blessures au fil du temps. Chaque tique permet de restaurer la santé d'une blessure jusqu'à sa guérison.</TM_Regeneration_III.description>
+
+<TM_BladeArtHD.label>danseur de lames</TM_BladeArtHD.label>
+<TM_BladeArtHD.description>La stat du danseur de lames.</TM_BladeArtHD.description>
+<TM_BladeArtHD.stages.I.label>I</TM_BladeArtHD.stages.I.label>
+<TM_BladeArtHD.stages.II.label>II</TM_BladeArtHD.stages.II.label>
+<TM_BladeArtHD.stages.III.label>III</TM_BladeArtHD.stages.III.label>
+<TM_BladeArtHD.stages.IV.label>IV</TM_BladeArtHD.stages.IV.label>
+
+<TM_BowTrainingHD.label>maîtrise de l'arc</TM_BowTrainingHD.label>
+<TM_BowTrainingHD.description>Amélioration des stats et de l'arc du Rôdeur.</TM_BowTrainingHD.description>
+<TM_BowTrainingHD.stages.I.label>I</TM_BowTrainingHD.stages.I.label>
+<TM_BowTrainingHD.stages.II.label>II</TM_BowTrainingHD.stages.II.label>
+<TM_BowTrainingHD.stages.III.label>III</TM_BowTrainingHD.stages.III.label>
+<TM_BowTrainingHD.stages.IV.label>IV</TM_BowTrainingHD.stages.IV.label>
+
+<SpellMendingHD.label>sort de réparation</SpellMendingHD.label>
+<SpellMendingHD.description>Répare rapidement les vêtements et les armes équipés.</SpellMendingHD.description>
+<SpellMendingHD.stages.active.label>actif</SpellMendingHD.stages.active.label>
+<SpellMendingHD.stages.enhanced.label>amélioré</SpellMendingHD.stages.enhanced.label>
+
+<TM_ResurrectionHD.label>faiblesse de résurrection</TM_ResurrectionHD.label>
+<TM_ResurrectionHD.description>Résultat d'avoir été ressuscité par la magie.</TM_ResurrectionHD.description>
+<TM_ResurrectionHD.stages.I.label>I</TM_ResurrectionHD.stages.I.label>
+<TM_ResurrectionHD.stages.II.label>II</TM_ResurrectionHD.stages.II.label>
+<TM_ResurrectionHD.stages.III.label>III</TM_ResurrectionHD.stages.III.label>
+
+<TM_DeathReversalHD.label>revenu de la mort</TM_DeathReversalHD.label>
+<TM_DeathReversalHD.description>Le retour de bâton résultant de l'inversion de la mort.</TM_DeathReversalHD.description>
+<TM_DeathReversalHD.stages.I.label>I</TM_DeathReversalHD.stages.I.label>
+<TM_DeathReversalHD.stages.II.label>II</TM_DeathReversalHD.stages.II.label>
+<TM_DeathReversalHD.stages.III.label>III</TM_DeathReversalHD.stages.III.label>
+
+<TM_DiseaseImmunityHD.label>immunité aux maladies</TM_DiseaseImmunityHD.label>
+<TM_DiseaseImmunityHD.description>Augmente les taux d'immunité naturelle contre les maladies.</TM_DiseaseImmunityHD.description>
+<TM_DiseaseImmunityHD.stages.I.label>I</TM_DiseaseImmunityHD.stages.I.label>
+<TM_DiseaseImmunity2HD.label>immunité aux maladies</TM_DiseaseImmunity2HD.label>
+<TM_DiseaseImmunity2HD.description>Augmente les taux d'immunité naturelle contre les maladies.</TM_DiseaseImmunity2HD.description>
+<TM_DiseaseImmunity2HD.stages.II.label>II</TM_DiseaseImmunity2HD.stages.II.label>
+
+<TM_BlurHD.label>voile corrompu</TM_BlurHD.label>
+<TM_BlurHD.description>Manipule la possibilité d'éviter les dégâts.</TM_BlurHD.description>
+
+<TM_InvisibilityHD.label>invisibilité</TM_InvisibilityHD.label>
+<TM_InvisibilityHD.description>Le colon affecté devient invisible et ne peut être ciblé par les ennemis proches.</TM_InvisibilityHD.description>
+<TM_InvisibilityHD.stages.I.label>I</TM_InvisibilityHD.stages.I.label>
+
+<TM_MageLightHD.label>lumière magique</TM_MageLightHD.label>
+<TM_MageLightHD.description>Une petite lumière entretenue par la magie.</TM_MageLightHD.description>
+
+<TM_FrostSlowHD.label>lenteur</TM_FrostSlowHD.label>
+<TM_FrostSlowHD.description>Ralentit les membres affectés par le gel.</TM_FrostSlowHD.description>
+<TM_FrostSlowHD.stages.frost.label>gelée</TM_FrostSlowHD.stages.frost.label>
+
+<TM_CoolHD.label>protection du chaud</TM_CoolHD.label>
+<TM_CoolHD.description>Un petit bienfait qui rafraîchit et augmente la résistance aux hautes températures.</TM_CoolHD.description>
+<TM_CoolHD.stages.Cooler.label>refroidisseur</TM_CoolHD.stages.Cooler.label>
+
+<TM_RefreshedHD.label>rafraîchi</TM_RefreshedHD.label>
+<TM_RefreshedHD.description>Ressource un colon, réduisant la fatigue.</TM_RefreshedHD.description>
+<TM_RefreshedHD.stages.Cooler.label>rafraîchir</TM_RefreshedHD.stages.Cooler.label>
+
+<TM_WarmHD.label>protection du froid</TM_WarmHD.label>
+<TM_WarmHD.description>Un petit bienfait qui réchauffe et augmente la résistance aux températures froides.</TM_WarmHD.description>
+<TM_WarmHD.stages.Heater.label>chauffage</TM_WarmHD.stages.Heater.label>
+
+<TM_ShockTherapyHD.label>thérapie de choc</TM_ShockTherapyHD.label>
+<TM_ShockTherapyHD.description>Entraîne l'esprit à améliorer le comportement.</TM_ShockTherapyHD.description>
+<TM_ShockTherapyHD.stages.Power_Node.label>nœud de puissance</TM_ShockTherapyHD.stages.Power_Node.label>
+
+<TM_JoltHD.label>décharge</TM_JoltHD.label>
+<TM_JoltHD.description>Un petit avantage qui augmente l'énergie physique.</TM_JoltHD.description>
+<TM_JoltHD.stages.I.label>I</TM_JoltHD.stages.I.label>
+<TM_JoltHD.stages.II.label>II</TM_JoltHD.stages.II.label>
+<TM_JoltHD.stages.III.label>III</TM_JoltHD.stages.III.label>
+
+<TM_EnergyRegenHD.label>régénération d'énergie</TM_EnergyRegenHD.label>
+<TM_EnergyRegenHD.description>Augmente le taux de régénération de l'énergie comme un multiple de la force du buffs.</TM_EnergyRegenHD.description>
+
+<TM_SS_SerumHD.label>sérum Super-Soldat</TM_SS_SerumHD.label>
+<TM_SS_SerumHD.description>Un produit chimique améliorant les capacités physiques et la résistance magique ; réduit la puissance magique et la régénération de l'énergie. La puissance du produit chimique augmente en 3 étapes et prend 100 jours pour arriver à maturité. Les colons reprennent conscience 2 jours après avoir pris le sérum.</TM_SS_SerumHD.description>
+<TM_SS_SerumHD.stages.Stage_0.label>Étape 0</TM_SS_SerumHD.stages.Stage_0.label>
+<TM_SS_SerumHD.stages.Stage_1.label>Étape 1</TM_SS_SerumHD.stages.Stage_1.label>
+<TM_SS_SerumHD.stages.Stage_2.label>Étape 2</TM_SS_SerumHD.stages.Stage_2.label>
+<TM_SS_SerumHD.stages.Stage_3.label>Étape 3</TM_SS_SerumHD.stages.Stage_3.label>
+
+<TM_ShadowSlayerCloakHD.label>cape tueur d'Ombre</TM_ShadowSlayerCloakHD.label>
+<TM_ShadowSlayerCloakHD.description>Le champ d'occultation du tueur de l'ombre est actif - effectuer des actions que le module de prédiction est incapable de suivre érodera rapidement le champ d'occultation.</TM_ShadowSlayerCloakHD.description>
+
+<TM_SeverityHasteHD.label>hâte</TM_SeverityHasteHD.label>
+<TM_SeverityHasteHD.description>La vitesse d'attaque est doublée.</TM_SeverityHasteHD.description>
+
+<TM_HediffEnchantment_maxEnergy.label>énergie max :</TM_HediffEnchantment_maxEnergy.label>
+<TM_HediffEnchantment_maxEnergy.description>Enchantement qui augmente la capacité d'énergie.</TM_HediffEnchantment_maxEnergy.description>
+
+<TM_HediffEnchantment_coolDown.label>temps de recharge :</TM_HediffEnchantment_coolDown.label>
+<TM_HediffEnchantment_coolDown.description>Enchantement qui réduit le temps de réutilisation d'une capacité.</TM_HediffEnchantment_coolDown.description>
+
+<TM_HediffEnchantment_energyCost.label>coût d'énergie :</TM_HediffEnchantment_energyCost.label>
+<TM_HediffEnchantment_energyCost.description>Enchantement qui réduit le coût en énergie pour utiliser les capacités.</TM_HediffEnchantment_energyCost.description>
+
+<TM_HediffEnchantment_energyRegen.label>régénération d'énergie :</TM_HediffEnchantment_energyRegen.label>
+<TM_HediffEnchantment_energyRegen.description>Enchantement qui augmente la régénération de l'énergie.</TM_HediffEnchantment_energyRegen.description>
+
+<TM_HediffEnchantment_xpGain.label>gain d'XP :</TM_HediffEnchantment_xpGain.label>
+<TM_HediffEnchantment_xpGain.description>Enchantement qui améliore le gain d'expérience.</TM_HediffEnchantment_xpGain.description>
+
+<TM_HediffEnchantment_dmgResistance.label>résistance aux sorts :</TM_HediffEnchantment_dmgResistance.label>
+<TM_HediffEnchantment_dmgResistance.description>Capacité à résister aux effets magiques et à réduire les dégâts des attaques magiques.</TM_HediffEnchantment_dmgResistance.description>
+
+<TM_HediffEnchantment_dmgBonus.label>puissance des sorts :</TM_HediffEnchantment_dmgBonus.label>
+<TM_HediffEnchantment_dmgBonus.description>Augmente les effets des sorts.</TM_HediffEnchantment_dmgBonus.description>
+
+<TM_HediffEnchantment_arcalleumCooldown.label>temps de recharge d'Arcalleum</TM_HediffEnchantment_arcalleumCooldown.label>
+<TM_HediffEnchantment_arcalleumCooldown.description>Un enchantement qui peut instantanément rafraîchir le temps de recharge d'une capacité.</TM_HediffEnchantment_arcalleumCooldown.description>
+
+<TM_HediffEnchantment_maxMP.label>mana max :</TM_HediffEnchantment_maxMP.label>
+<TM_HediffEnchantment_maxMP.description>Enchantement qui augmente la capacité du mana.</TM_HediffEnchantment_maxMP.description>
+
+<TM_HediffEnchantment_maxSP.label>endurance max :</TM_HediffEnchantment_maxSP.label>
+<TM_HediffEnchantment_maxSP.description>Enchantement qui augmente la capacité de l'endurance.</TM_HediffEnchantment_maxSP.description>
+
+<TM_HediffEnchantment_spCoolDown.label>temps de recharge capacités :</TM_HediffEnchantment_spCoolDown.label>
+<TM_HediffEnchantment_spCoolDown.description>Enchantement qui réduit le temps de recharge des capacités de combat.</TM_HediffEnchantment_spCoolDown.description>
+
+<TM_HediffEnchantment_mpCost.label>coût en mana :</TM_HediffEnchantment_mpCost.label>
+<TM_HediffEnchantment_mpCost.description>Enchantement qui modifie le coût en mana des capacités.</TM_HediffEnchantment_mpCost.description>
+
+<TM_HediffEnchantment_spCost.label>coût en endurance :</TM_HediffEnchantment_spCost.label>
+<TM_HediffEnchantment_spCost.description>Enchantement qui modifie le coût en endurance des capacités.</TM_HediffEnchantment_spCost.description>
+
+<TM_HediffEnchantment_mpRegenRate.label>régénération du mana :</TM_HediffEnchantment_mpRegenRate.label>
+<TM_HediffEnchantment_mpRegenRate.description>Enchantement de régénération du mana.</TM_HediffEnchantment_mpRegenRate.description>
+
+<TM_HediffEnchantment_spRegenRate.label>régénération d'endurance :</TM_HediffEnchantment_spRegenRate.label>
+<TM_HediffEnchantment_spRegenRate.description>Enchantement de régénération de l'endurance.</TM_HediffEnchantment_spRegenRate.description>
+
+<TM_HediffEnchantment_arcaneRes.label>résistance aux arcanes :</TM_HediffEnchantment_arcaneRes.label>
+<TM_HediffEnchantment_arcaneRes.description>Capacité à résister aux effets magiques et à réduire les dégâts des attaques magiques.</TM_HediffEnchantment_arcaneRes.description>
+
+<TM_HediffEnchantment_arcaneDmg.label>bonus magique :</TM_HediffEnchantment_arcaneDmg.label>
+<TM_HediffEnchantment_arcaneDmg.description>Augmente les effets des capacités magiques.</TM_HediffEnchantment_arcaneDmg.description>
+
+<TM_HediffEnchantment_combatDmg.label>bonus de combat :</TM_HediffEnchantment_combatDmg.label>
+<TM_HediffEnchantment_combatDmg.description>Augmente les effets des capacités de combat.</TM_HediffEnchantment_combatDmg.description>
+
+<TM_HediffEnchantment_arcaneSpectre.label>spectre magique</TM_HediffEnchantment_arcaneSpectre.label>
+<TM_HediffEnchantment_arcaneSpectre.description>Un enchantement qui permet d'ajouter un bonus de dégâts d'esprit à n'importe quelle attaque.</TM_HediffEnchantment_arcaneSpectre.description>
+
+<TM_HediffEnchantment_phantomShift.label>transfert fantôme</TM_HediffEnchantment_phantomShift.label>
+<TM_HediffEnchantment_phantomShift.description>Un enchantement qui transfère tous les dégâts d'une attaque dans les abysses.</TM_HediffEnchantment_phantomShift.description>
+
+<TM_HediffEnchantment_fireImmunity.label>immunité au feu</TM_HediffEnchantment_fireImmunity.label>
+<TM_HediffEnchantment_fireImmunity.description>Peut toujours subir des dégâts liés au feu, mais ne peut plus prendre feu.</TM_HediffEnchantment_fireImmunity.description>
+
+<TM_ArcaneHD.label>arcane</TM_ArcaneHD.label>
+<TM_ArcaneHD.description>Pouvoir des arcanes destructeur.</TM_ArcaneHD.description>
+<TM_ArcaneHD.comps.HediffComp_GetsPermanent.permanentLabel>détruit par une puissance arcane</TM_ArcaneHD.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_ArcaneHD.injuryProps.destroyedLabel>Explosé(e)</TM_ArcaneHD.injuryProps.destroyedLabel>
+<TM_ArcaneHD.injuryProps.destroyedOutLabel>Implosé(e)</TM_ArcaneHD.injuryProps.destroyedOutLabel>
+<TM_ArcaneHD.labelNounPretty>une {0} au/à la {1}</TM_ArcaneHD.labelNounPretty>
+
+<TM_ThrumboCleave.label>enchaînement</TM_ThrumboCleave.label>
+<TM_ThrumboCleave.description>Une attaque assez puissante pour cisailler de multiples objets.</TM_ThrumboCleave.description>
+<TM_ThrumboCleave.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice</TM_ThrumboCleave.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_ThrumboCleave.injuryProps.destroyedLabel>Tranché(e)</TM_ThrumboCleave.injuryProps.destroyedLabel>
+<TM_ThrumboCleave.injuryProps.destroyedOutLabel>Découpé(e)</TM_ThrumboCleave.injuryProps.destroyedOutLabel>
+<TM_ThrumboCleave.labelNoun>une blessure importante</TM_ThrumboCleave.labelNoun>
+<TM_ThrumboCleave.labelNounPretty>une {0} au/à la {1}</TM_ThrumboCleave.labelNounPretty>
+
+<TM_BlazingPowerHD.label>puissance flamboyante</TM_BlazingPowerHD.label>
+<TM_BlazingPowerHD.description>Puissance des arcanes dirigée à travers un faisceau de concentration.</TM_BlazingPowerHD.description>
+<TM_BlazingPowerHD.comps.HediffComp_GetsPermanent.permanentLabel>détruite par la puissance flamboyante</TM_BlazingPowerHD.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_BlazingPowerHD.labelNounPretty>une {0} au/à la {1}</TM_BlazingPowerHD.labelNounPretty>
+
+<TM_Holy.label>colère divine</TM_Holy.label>
+<TM_Holy.description>La croyance transformée en énergie destructive.</TM_Holy.description>
+<TM_Holy.comps.HediffComp_GetsPermanent.permanentLabel>détruite par la colère divine</TM_Holy.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_Holy.injuryProps.destroyedLabel>Brûlé(e)</TM_Holy.injuryProps.destroyedLabel>
+<TM_Holy.injuryProps.destroyedOutLabel>Calciné(e)</TM_Holy.injuryProps.destroyedOutLabel>
+<TM_Holy.labelNounPretty>une {0} au/à la {1}</TM_Holy.labelNounPretty>
+
+<TM_SpiritHD.label>esprit</TM_SpiritHD.label>
+<TM_SpiritHD.description>Une énergie spirituelle néfaste.</TM_SpiritHD.description>
+<TM_SpiritHD.comps.HediffComp_GetsPermanent.permanentLabel>vidés de leur esprit</TM_SpiritHD.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_SpiritHD.labelNounPretty>une {0} au/à la {1}</TM_SpiritHD.labelNounPretty>
+
+<TM_MagicMissile.label>missile magique</TM_MagicMissile.label>
+<TM_MagicMissile.description>L'énergie des arcanes est projetée en petites rafales concentrées.</TM_MagicMissile.description>
+<TM_MagicMissile.comps.HediffComp_GetsPermanent.permanentLabel>touché par les arcanes</TM_MagicMissile.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_MagicMissile.injuryProps.destroyedLabel>Tranché(e)</TM_MagicMissile.injuryProps.destroyedLabel>
+<TM_MagicMissile.injuryProps.destroyedOutLabel>Sectionné(e)</TM_MagicMissile.injuryProps.destroyedOutLabel>
+<TM_MagicMissile.labelNounPretty>une {0} au/à la {1}</TM_MagicMissile.labelNounPretty>
+
+<TM_ManaMine.label>explosion de mana</TM_ManaMine.label>
+<TM_ManaMine.description>Libération explosive du mana contenu.</TM_ManaMine.description>
+<TM_ManaMine.comps.HediffComp_GetsPermanent.permanentLabel>détruit par une explosion de mana</TM_ManaMine.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_ManaMine.injuryProps.destroyedLabel>Explosé(e)</TM_ManaMine.injuryProps.destroyedLabel>
+<TM_ManaMine.injuryProps.destroyedOutLabel>Calciné(e)</TM_ManaMine.injuryProps.destroyedOutLabel>
+<TM_ManaMine.labelNounPretty>une {0} au/à la {1}</TM_ManaMine.labelNounPretty>
+
+<TM_Firebolt.label>éclair de feu</TM_Firebolt.label>
+<TM_Firebolt.description>Projection d'un éclair de feu élémentaire.</TM_Firebolt.description>
+<TM_Firebolt.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice de brûlure</TM_Firebolt.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_Firebolt.injuryProps.destroyedOutLabel>Calciné(e)</TM_Firebolt.injuryProps.destroyedOutLabel>
+<TM_Firebolt.labelNounPretty>une {0} au/à la {1}</TM_Firebolt.labelNounPretty>
+
+<TM_LightningCloud.label>foudre</TM_LightningCloud.label>
+<TM_LightningCloud.description>Décharge électrique ambiante causée par la condensation de particules chargées.</TM_LightningCloud.description>
+<TM_LightningCloud.comps.HediffComp_GetsPermanent.permanentLabel>électrocuté</TM_LightningCloud.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_LightningCloud.injuryProps.destroyedOutLabel>Calciné(e)</TM_LightningCloud.injuryProps.destroyedOutLabel>
+<TM_LightningCloud.labelNounPretty>une {0} au/à la {1}</TM_LightningCloud.labelNounPretty>
+
+<TM_Lightning.label>foudre</TM_Lightning.label>
+<TM_Lightning.description>Un puissant éclair électrique.</TM_Lightning.description>
+<TM_Lightning.comps.HediffComp_GetsPermanent.permanentLabel>frappé par la foudre</TM_Lightning.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_Lightning.injuryProps.destroyedOutLabel>Calciné(e)</TM_Lightning.injuryProps.destroyedOutLabel>
+<TM_Lightning.labelNounPretty>une {0} au/à la {1}</TM_Lightning.labelNounPretty>
+
+<FrostRay.label>rayon de givre</FrostRay.label>
+<FrostRay.description>Un tayon d'énergie super-froid.</FrostRay.description>
+<FrostRay.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice d'engelure</FrostRay.comps.HediffComp_GetsPermanent.permanentLabel>
+<FrostRay.injuryProps.destroyedLabel>Congelé(e)</FrostRay.injuryProps.destroyedLabel>
+<FrostRay.labelNounPretty>une {0} au/à la {1}</FrostRay.labelNounPretty>
+
+<Snowball.label>orbe gelé</Snowball.label>
+<Snowball.description>Glace et neige tassées.</Snowball.description>
+<Snowball.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice d'engelure</Snowball.comps.HediffComp_GetsPermanent.permanentLabel>
+<Snowball.injuryProps.destroyedLabel>Congelé(e)</Snowball.injuryProps.destroyedLabel>
+<Snowball.labelNounPretty>une {0} au/à la {1}</Snowball.labelNounPretty>
+
+<Blizzard.label>blizzard</Blizzard.label>
+<Blizzard.description>Une tempête de glace et de neige.</Blizzard.description>
+<Blizzard.comps.HediffComp_GetsPermanent.permanentLabel>détruit dans le blizzard</Blizzard.comps.HediffComp_GetsPermanent.permanentLabel>
+<Blizzard.labelNounPretty>une {0} au/à la {1}</Blizzard.labelNounPretty>
+
+<Iceshard.label>éclat de glace</Iceshard.label>
+<Iceshard.description>Un éclair de glace projeté s'est formé avec des bords tranchants comme des rasoirs.</Iceshard.description>
+<Iceshard.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice d'éclat de glace</Iceshard.comps.HediffComp_GetsPermanent.permanentLabel>
+<Iceshard.injuryProps.destroyedOutLabel>Déchiré en lambeaux</Iceshard.injuryProps.destroyedOutLabel>
+<Iceshard.labelNounPretty>une {0} au/à la {1}</Iceshard.labelNounPretty>
+
+<TM_GrapplingHook.label>grappin</TM_GrapplingHook.label>
+<TM_GrapplingHook.description>Rapproche les cibles.</TM_GrapplingHook.description>
+<TM_GrapplingHook.comps.HediffComp_GetsPermanent.permanentLabel>Déchiré(e)</TM_GrapplingHook.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_GrapplingHook.injuryProps.destroyedLabel>Déchiré(e)</TM_GrapplingHook.injuryProps.destroyedLabel>
+<TM_GrapplingHook.injuryProps.destroyedOutLabel>Arraché(e)</TM_GrapplingHook.injuryProps.destroyedOutLabel>
+<TM_GrapplingHook.labelNounPretty>une {0} au/à la {1}</TM_GrapplingHook.labelNounPretty>
+
+<TM_Whirlwind_Knockdown.label>tourbillon</TM_Whirlwind_Knockdown.label>
+<TM_Whirlwind_Knockdown.description>Submergé par une rafale d'attaques.</TM_Whirlwind_Knockdown.description>
+<TM_Whirlwind_Knockdown.comps.HediffComp_GetsPermanent.permanentLabel>Tranché(e)</TM_Whirlwind_Knockdown.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_Whirlwind_Knockdown.injuryProps.destroyedLabel>Tranché(e)</TM_Whirlwind_Knockdown.injuryProps.destroyedLabel>
+<TM_Whirlwind_Knockdown.injuryProps.destroyedOutLabel>Sectionné(e)</TM_Whirlwind_Knockdown.injuryProps.destroyedOutLabel>
+<TM_Whirlwind_Knockdown.labelNounPretty>une {0} au/à la {1}</TM_Whirlwind_Knockdown.labelNounPretty>
+
+<TM_DisablingShot_HD.label>tir incapacitant</TM_DisablingShot_HD.label>
+<TM_DisablingShot_HD.description>Un projectile conçu pour neutraliser plutôt que tuer.</TM_DisablingShot_HD.description>
+<TM_DisablingShot_HD.comps.HediffComp_GetsPermanent.permanentLabel>Touché(e) par un tir</TM_DisablingShot_HD.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_DisablingShot_HD.injuryProps.destroyedLabel>Touché(e) par un tir</TM_DisablingShot_HD.injuryProps.destroyedLabel>
+<TM_DisablingShot_HD.injuryProps.destroyedOutLabel>Détruit(e) par un tir</TM_DisablingShot_HD.injuryProps.destroyedOutLabel>
+<TM_DisablingShot_HD.labelNounPretty>une {0} au/à la {1}</TM_DisablingShot_HD.labelNounPretty>
+
+<TM_arcaneSpectre.label>coupure d'esprit</TM_arcaneSpectre.label>
+<TM_arcaneSpectre.description>Dégâts d'esprit d'un spectre.</TM_arcaneSpectre.description>
+<TM_arcaneSpectre.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice pâle</TM_arcaneSpectre.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_arcaneSpectre.injuryProps.destroyedLabel>Déchiqueté(e)</TM_arcaneSpectre.injuryProps.destroyedLabel>
+<TM_arcaneSpectre.injuryProps.destroyedOutLabel>Sectionné(e)</TM_arcaneSpectre.injuryProps.destroyedOutLabel>
+<TM_arcaneSpectre.labelNoun>une coupure</TM_arcaneSpectre.labelNoun>
+<TM_arcaneSpectre.labelNounPretty>une {0} au/à la {1}</TM_arcaneSpectre.labelNounPretty>
+
+<TM_BloodyCutHD.label>coupure sanglante</TM_BloodyCutHD.label>
+<TM_BloodyCutHD.description>Une coupure profonde qui saigne abondamment.</TM_BloodyCutHD.description>
+<TM_BloodyCutHD.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice de coupure</TM_BloodyCutHD.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_BloodyCutHD.injuryProps.destroyedLabel>Déchiqueté(e)</TM_BloodyCutHD.injuryProps.destroyedLabel>
+<TM_BloodyCutHD.injuryProps.destroyedOutLabel>Sectionné(e)</TM_BloodyCutHD.injuryProps.destroyedOutLabel>
+<TM_BloodyCutHD.labelNoun>une coupure sanglante</TM_BloodyCutHD.labelNoun>
+<TM_BloodyCutHD.labelNounPretty>une {0} au/à la {1}</TM_BloodyCutHD.labelNounPretty>
+
+<TM_DisablingBlowHD.label>frappe incapacitant</TM_DisablingBlowHD.label>
+<TM_DisablingBlowHD.description>Un coup de mêlée destiné à neutraliser plutôt qu'à tuer.</TM_DisablingBlowHD.description>
+<TM_DisablingBlowHD.comps.HediffComp_GetsPermanent.permanentLabel>écrasé</TM_DisablingBlowHD.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_DisablingBlowHD.labelNounPretty>une {0} au/à la {1}</TM_DisablingBlowHD.labelNounPretty>
+
+<TM_ChiBurnHD.label>brûlure de chi</TM_ChiBurnHD.label>
+<TM_ChiBurnHD.description>Dégâts subis par une explosion d'énergie chi.</TM_ChiBurnHD.description>
+<TM_ChiBurnHD.comps.HediffComp_GetsPermanent.permanentLabel>détruit</TM_ChiBurnHD.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_ChiBurnHD.labelNounPretty>une {0} au/à la {1}</TM_ChiBurnHD.labelNounPretty>
+
+<TM_ChiFistHD.label>frappe</TM_ChiFistHD.label>
+<TM_ChiFistHD.description>Une frappe en mêlée d'un moine.</TM_ChiFistHD.description>
+<TM_ChiFistHD.comps.HediffComp_GetsPermanent.permanentLabel>détruit</TM_ChiFistHD.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_ChiFistHD.labelNounPretty>une {0} au/à la {1}</TM_ChiFistHD.labelNounPretty>
+
+<TM_ToxinHD.label>toxine</TM_ToxinHD.label>
+<TM_ToxinHD.description>Les dégâts causés par des toxines.</TM_ToxinHD.description>
+<TM_ToxinHD.comps.HediffComp_GetsPermanent.permanentLabel>tissu toxique</TM_ToxinHD.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_ToxinHD.labelNoun>toxine</TM_ToxinHD.labelNoun>
+<TM_ToxinHD.labelNounPretty>une {0} au/à la {1}</TM_ToxinHD.labelNounPretty>
+
+<TM_LightDD.label>lumière</TM_LightDD.label>
+<TM_LightDD.description>L'énergie destructive du domaine de la lumière.</TM_LightDD.description>
+<TM_LightDD.comps.HediffComp_GetsPermanent.permanentLabel>brûlé par la lumière</TM_LightDD.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_LightDD.injuryProps.destroyedLabel>Consumé(e)</TM_LightDD.injuryProps.destroyedLabel>
+<TM_LightDD.injuryProps.destroyedOutLabel>Calciné(e)</TM_LightDD.injuryProps.destroyedOutLabel>
+<TM_LightDD.labelNounPretty>une {0} au/à la {1}</TM_LightDD.labelNounPretty>
+
+<TM_Dismember.label>démembrer</TM_Dismember.label>
+<TM_Dismember.description>Une attaque qui arrache un membre (ou la tête) d'une cible.</TM_Dismember.description>
+<TM_Dismember.injuryProps.destroyedLabel>Déchiré(e)</TM_Dismember.injuryProps.destroyedLabel>
+<TM_Dismember.injuryProps.destroyedOutLabel>Arraché(e)</TM_Dismember.injuryProps.destroyedOutLabel>
+<TM_Dismember.labelNoun>une blessure importante</TM_Dismember.labelNoun>
+<TM_Dismember.labelNounPretty>une {0} au/à la {1}</TM_Dismember.labelNounPretty>
+
+<TM_PartRemovalHD.label>manquant</TM_PartRemovalHD.label>
+<TM_PartRemovalHD.description>Une partie du corps manquante.</TM_PartRemovalHD.description>
+<TM_PartRemovalHD.labelNoun>manquant</TM_PartRemovalHD.labelNoun>
+<TM_PartRemovalHD.labelNounPretty>une {0} au/à la {1}</TM_PartRemovalHD.labelNounPretty>
+
+<TM_ArcaneWeakness.label>sensibilité aux Arcanes</TM_ArcaneWeakness.label>
+<TM_ArcaneWeakness.description>La faiblesse des arcanes est un effet secondaire du lancement de capacités magiques. Les capacités mineures dont le coût en mana est inférieur à 25 n'entraînent pas la Sensibilité aux Arcanes. La quantité d'affaiblissement des arcanes qui affectera un mage est relative au coût en mana de la capacité.</TM_ArcaneWeakness.description>
+<TM_ArcaneWeakness.stages.weakened.label>affaibli</TM_ArcaneWeakness.stages.weakened.label>
+<TM_ArcaneWeakness.stages.drained.label>drainé</TM_ArcaneWeakness.stages.drained.label>
+<TM_ArcaneWeakness.stages.severely_ill.label>très malade</TM_ArcaneWeakness.stages.severely_ill.label>
+<TM_ArcaneWeakness.stages.catatonic.label>catatonique</TM_ArcaneWeakness.stages.catatonic.label>
+<TM_ArcaneWeakness.stages.near_death.label>proche de la mort</TM_ArcaneWeakness.stages.near_death.label>
+
+<TM_Confused.label>confusion</TM_Confused.label>
+<TM_Confused.description>Provoque fréquemment la confusion de la cible.</TM_Confused.description>
+<TM_Confused.stages.Wandering_confused.label>Errance et confusion</TM_Confused.stages.Wandering_confused.label>
+
+<TM_ManaSickness.label>mal du mana</TM_ManaSickness.label>
+<TM_ManaSickness.description>Le mal du mana affecte les mages lorsqu'ils ont 0 mana et que leur régénération est négative. Le mal du mana finit par tuer un mage s'il n'est pas inversé. Le joueur peut évaluer la régénération du mana d'un mage dans l'onglet Magie en passant la souris sur la valeur de régénération du mana pour afficher une info-bulle montrant les contributeurs affectant la régénération du mana.</TM_ManaSickness.description>
+<TM_ManaSickness.stages.weakened.label>affaibli</TM_ManaSickness.stages.weakened.label>
+<TM_ManaSickness.stages.ailing.label>souffrant</TM_ManaSickness.stages.ailing.label>
+<TM_ManaSickness.stages.near_death.label>proche de la mort</TM_ManaSickness.stages.near_death.label>
+
+<TM_ArcaneSickness.label>maladie des arcanes</TM_ArcaneSickness.label>
+<TM_ArcaneSickness.description>Une maladie causée par une magie altérée.</TM_ArcaneSickness.description>
+<TM_ArcaneSickness.stages.minor-0.label>mineur</TM_ArcaneSickness.stages.minor-0.label>
+<TM_ArcaneSickness.stages.minor-1.label>mineur</TM_ArcaneSickness.stages.minor-1.label>
+<TM_ArcaneSickness.stages.moderate.label>modéré</TM_ArcaneSickness.stages.moderate.label>
+<TM_ArcaneSickness.stages.major.label>sévère</TM_ArcaneSickness.stages.major.label>
+<TM_ArcaneSickness.stages.extreme-0.label>extrême</TM_ArcaneSickness.stages.extreme-0.label>
+<TM_ArcaneSickness.stages.extreme-1.label>extrême</TM_ArcaneSickness.stages.extreme-1.label>
+
+<TM_Terror.label>terreur</TM_Terror.label>
+<TM_Terror.description>Une démonstration brute de puissance magique induit la peur chez ce colon.</TM_Terror.description>
+<TM_Terror.stages.Uneasy.label>inquiet</TM_Terror.stages.Uneasy.label>
+<TM_Terror.stages.Panicked.label>paniqué</TM_Terror.stages.Panicked.label>
+<TM_Terror.stages.Terrified.label>terrifié</TM_Terror.stages.Terrified.label>
+
+<TM_MagicSeverenceHD.label>magie rompue</TM_MagicSeverenceHD.label>
+<TM_MagicSeverenceHD.description>Ce colon a récemment perdu son lien avec la magie et souffrira d'une perte de repères et d'objectifs jusqu'à ce qu'il puisse combler ce vide par un autre objectif.</TM_MagicSeverenceHD.description>
+
+<TM_BestowMagicClassHD.label>don de magie</TM_BestowMagicClassHD.label>
+<TM_BestowMagicClassHD.description>Ce colon a récemment reçu l'étincelle de la magie.</TM_BestowMagicClassHD.description>
+
+<TM_EnlightenedHD.label>éclairé</TM_EnlightenedHD.label>
+<TM_EnlightenedHD.description>La conscience s'est accrue à la suite d'une illumination inspirée.</TM_EnlightenedHD.description>
+
+<TM_MagicUserHD.label>utilisateur de magie</TM_MagicUserHD.label>
+<TM_MagicUserHD.description>Hedif requis pour les utilisateurs de magie.</TM_MagicUserHD.description>
+<TM_MagicUserHD.stages.hidden.label>caché</TM_MagicUserHD.stages.hidden.label>
+
+<TM_MightUserHD.label>utilisateur potentiel</TM_MightUserHD.label>
+<TM_MightUserHD.description>Hediff requis pour les utilisateurs puissants.</TM_MightUserHD.description>
+<TM_MightUserHD.stages.hidden.label>caché</TM_MightUserHD.stages.hidden.label>
+
+<ManaPotionHigh.label>arcane élevé</ManaPotionHigh.label>
+<ManaPotionHigh.description>La conscience est élevée en consommant du mana liquide.</ManaPotionHigh.description>
+<ManaPotionTolerance.label>tolérance des potions de mana</ManaPotionTolerance.label>
+<ManaPotionTolerance.description>Ajustement naturel pour normaliser les effets de la consommation de mana liquide.</ManaPotionTolerance.description>
+<ManaPotionTolerance.stages.small.label>petit</ManaPotionTolerance.stages.small.label>
+<ManaPotionTolerance.stages.large.label>grand</ManaPotionTolerance.stages.large.label>
+<ManaPotionTolerance.stages.massive.label>important</ManaPotionTolerance.stages.massive.label>
+
+<ManaPotionAddiction.label>addiction aux potions de mana</ManaPotionAddiction.label>
+<ManaPotionAddiction.description>L'envie de consommer des potions de mana est devenue un besoin.</ManaPotionAddiction.description>
+<ManaPotionAddiction.stages.withdrawal.label>withdrawal</ManaPotionAddiction.stages.withdrawal.label>
+
+<TM_PomanaSenseHD.label>sens du pomana</TM_PomanaSenseHD.label>
+<TM_PomanaSenseHD.description>Détente et augmentation des sens par la consommation de fruits crus de pomana.</TM_PomanaSenseHD.description>
+
+<TM_SyrriumSenseHD.label>sens du syrrium</TM_SyrriumSenseHD.label>
+<TM_SyrriumSenseHD.description>Sens accru résultant de la consommation de pomanasyrrium concentré.</TM_SyrriumSenseHD.description>
+<TM_SyrriumTolerance.label>tolérance au syrrium</TM_SyrriumTolerance.label>
+<TM_SyrriumTolerance.description>Ajustement naturel pour normaliser les effets de la consommation de pomanasyrrium condensé.</TM_SyrriumTolerance.description>
+<TM_SyrriumTolerance.stages.small.label>petit</TM_SyrriumTolerance.stages.small.label>
+<TM_SyrriumTolerance.stages.large.label>grand</TM_SyrriumTolerance.stages.large.label>
+<TM_SyrriumTolerance.stages.massive.label>important</TM_SyrriumTolerance.stages.massive.label>
+<TM_SyrriumAddiction.label>addiction au syrrium</TM_SyrriumAddiction.label>
+<TM_SyrriumAddiction.description>L'envie de ressentir les effets du syrrium s'est transformée en un besoin.</TM_SyrriumAddiction.description>
+<TM_SyrriumAddiction.stages.withdrawal.label>withdrawal</TM_SyrriumAddiction.stages.withdrawal.label>
+
+
+<TM_ApothecaryHerbsHD.label>herbes d'apothicaire</TM_ApothecaryHerbsHD.label>
+<TM_ApothecaryHerbsHD.description>Herbes, graines et autres ingrédients utilisés par un apothicaire pour concocter une variété de produits.</TM_ApothecaryHerbsHD.description>
+
+<TM_HerbalElixirHD.label>élixir végétal</TM_HerbalElixirHD.label>
+<TM_HerbalElixirHD.description>Un élixir à base de plantes qui augmente la régénération de la santé et combat les maladies ; améliore également la santé mentale et réduit la lassitude.</TM_HerbalElixirHD.description>
+<TM_HerbalElixirHD.stages.fading.label>disparaît</TM_HerbalElixirHD.stages.fading.label>
+<TM_HerbalElixirHD.stages.active.label>actif</TM_HerbalElixirHD.stages.active.label>
+<TM_HerbalElixirHD.stages.strong.label>fort</TM_HerbalElixirHD.stages.strong.label>
+
+<TM_SoothingBalmHD.label>baume apaisant</TM_SoothingBalmHD.label>
+<TM_SoothingBalmHD.description>Un baume local utilisé pour arrêter les saignements, guérir les plaies et réduire la douleur. Le baume apaisant agit comme un anesthésiant léger et réduit la conscience du patient.</TM_SoothingBalmHD.description>
+
+<TM_EmpathHD.label>empathe</TM_EmpathHD.label>
+<TM_EmpathHD.description>Représente la capacité d'un empathe à contrôler ses capacités innées.</TM_EmpathHD.description>
+<TM_EmpathHD.stages.Uncontrolled.label>Non contrôlé</TM_EmpathHD.stages.Uncontrolled.label>
+<TM_EmpathHD.stages.Untrained.label>Sans formation</TM_EmpathHD.stages.Untrained.label>
+<TM_EmpathHD.stages.Familiar.label>Familier</TM_EmpathHD.stages.Familiar.label>
+<TM_EmpathHD.stages.Trained.label>Formé</TM_EmpathHD.stages.Trained.label>
+<TM_EmpathHD.stages.Skilled.label>Qualifié</TM_EmpathHD.stages.Skilled.label>
+<TM_EmpathHD.stages.Mastery.label>Maîtrise</TM_EmpathHD.stages.Mastery.label>
+
+<TM_MindKillerHD.label>choc émotionnel</TM_MindKillerHD.label>
+<TM_MindKillerHD.description>Ce colon a été submergé par un flot d'émotions et il est incapable de penser ou d'agir avec une intention claire ; cela peut amener le colon à lâcher son arme ou à fuir dans la peur.</TM_MindKillerHD.description>
+<TM_MindKillerHD.stages.recovering.label>récupère</TM_MindKillerHD.stages.recovering.label>
+<TM_MindKillerHD.stages.I.label>I</TM_MindKillerHD.stages.I.label>
+<TM_MindKillerHD.stages.II.label>II</TM_MindKillerHD.stages.II.label>
+<TM_MindKillerHD.stages.III.label>III</TM_MindKillerHD.stages.III.label>
+
+<TM_HarvestPassionHD.label>récolte la passion</TM_HarvestPassionHD.label>
+<TM_HarvestPassionHD.description>Une passion est volée à un autre colon.</TM_HarvestPassionHD.description>
+
+<TM_SuppressiveAuraHD.label>aura de suppression</TM_SuppressiveAuraHD.label>
+<TM_SuppressiveAuraHD.description>L'empathe supprime les émotions des colons proches ; les colons affectés ne pourront pas entrer dans un état mental ou avoir des pensées liées à l'humeur qui ne sont pas autorisées par l'empathe.</TM_SuppressiveAuraHD.description>
+
+<TM_EmotionSuppressionHD.label>émotions supprimées</TM_EmotionSuppressionHD.label>
+<TM_EmotionSuppressionHD.description>Les émotions de ce colon sont supprimées ; ce colon ne connaîtra pas de rupture mentale et la plupart des pensées liées à l'humeur seront filtrées.</TM_EmotionSuppressionHD.description>
+
+
+
+<TM_DecayHD.label>décomposition</TM_DecayHD.label>
+<TM_DecayHD.description>Se décompose rapidement, corrode et dissout les matériaux et les tissus.</TM_DecayHD.description>
+
+<TM_DeathFieldHD.label>champ de la mort</TM_DeathFieldHD.label>
+<TM_DeathFieldHD.description>Frappe périodiquement les cibles proches avec de la magie de mort.</TM_DeathFieldHD.description>
+
+<TM_DoomFieldHD.label>abîme de la mort</TM_DoomFieldHD.label>
+<TM_DoomFieldHD.description>Ralentit périodiquement les cibles proches en leur annonçant leur mort imminente.</TM_DoomFieldHD.description>
+
+<TM_HollowGolem_BreastPlateHD.label>cuirasse</TM_HollowGolem_BreastPlateHD.label>
+<TM_HollowGolem_BreastPlateHD.description>Protège le torse et la poitrine des attaques.</TM_HollowGolem_BreastPlateHD.description>
+
+<TM_HollowGolem_HelmHD.label>casque</TM_HollowGolem_HelmHD.label>
+<TM_HollowGolem_HelmHD.description>Protège la tête et le crâne.</TM_HollowGolem_HelmHD.description>
+
+<TM_HollowGolem_ShoulderHD.label>épaulières</TM_HollowGolem_ShoulderHD.label>
+<TM_HollowGolem_ShoulderHD.description>Protège les épaules, le col et le cou.</TM_HollowGolem_ShoulderHD.description>
+
+<TM_HollowGolem_CrownHD.label>couronne d'éveil</TM_HollowGolem_CrownHD.label>
+<TM_HollowGolem_CrownHD.description>Renforce la volonté et offre une protection mineure contre les attaques physiques.</TM_HollowGolem_CrownHD.description>
+
+<TM_HollowGolem_CloakHD.label>cape de déplacement</TM_HollowGolem_CloakHD.label>
+<TM_HollowGolem_CloakHD.description>Augmente la vitesse de déplacement et fournit une petite protection.</TM_HollowGolem_CloakHD.description>
+
+<TM_HollowGolem_CoAFireHD.label>blason : Feu</TM_HollowGolem_CoAFireHD.label>
+<TM_HollowGolem_CoAFireHD.description>Augmente la vitesse de déplacement et la résistance à la chaleur.</TM_HollowGolem_CoAFireHD.description>
+<TM_HollowGolem_CoAFireHD.stages.I.label>I</TM_HollowGolem_CoAFireHD.stages.I.label>
+<TM_HollowGolem_CoAFireHD.stages.II.label>II</TM_HollowGolem_CoAFireHD.stages.II.label>
+<TM_HollowGolem_CoAFireHD.stages.III.label>III</TM_HollowGolem_CoAFireHD.stages.III.label>
+
+<TM_HollowGolem_CoAIceHD.label>blason</TM_HollowGolem_CoAIceHD.label>
+<TM_HollowGolem_CoAIceHD.description>Augmente l'armure.</TM_HollowGolem_CoAIceHD.description>
+<TM_HollowGolem_CoAIceHD.stages.I.label>I</TM_HollowGolem_CoAIceHD.stages.I.label>
+<TM_HollowGolem_CoAIceHD.stages.II.label>II</TM_HollowGolem_CoAIceHD.stages.II.label>
+<TM_HollowGolem_CoAIceHD.stages.III.label>III</TM_HollowGolem_CoAIceHD.stages.III.label>
+
+<TM_MaharalGolem_ArmorHD.label>armure</TM_MaharalGolem_ArmorHD.label>
+<TM_MaharalGolem_ArmorHD.description>Améliore la protection physique.</TM_MaharalGolem_ArmorHD.description>
+<TM_MaharalGolem_ArmorHD.stages.I.label>I</TM_MaharalGolem_ArmorHD.stages.I.label>
+<TM_MaharalGolem_ArmorHD.stages.II.label>II</TM_MaharalGolem_ArmorHD.stages.II.label>
+<TM_MaharalGolem_ArmorHD.stages.III.label>III</TM_MaharalGolem_ArmorHD.stages.III.label>
+
+<TM_StoneGolem_HardeningHD.label>durcissement</TM_StoneGolem_HardeningHD.label>
+<TM_StoneGolem_HardeningHD.description>Améliore la protection physique.</TM_StoneGolem_HardeningHD.description>
+<TM_StoneGolem_HardeningHD.stages.I.label>I</TM_StoneGolem_HardeningHD.stages.I.label>
+<TM_StoneGolem_HardeningHD.stages.II.label>II</TM_StoneGolem_HardeningHD.stages.II.label>
+<TM_StoneGolem_HardeningHD.stages.III.label>III</TM_StoneGolem_HardeningHD.stages.III.label>
+<TM_SunderArmorHD.stages.IV.label>IV</TM_SunderArmorHD.stages.IV.label>
+<TM_SunderArmorHD.stages.V.label>V</TM_SunderArmorHD.stages.V.label>
+<TM_SunderArmorHD.stages.VI.label>VI</TM_SunderArmorHD.stages.VI.label>
+<TM_SunderArmorHD.stages.VII.label>VII</TM_SunderArmorHD.stages.VII.label>
+
+<TM_FrailtyHD.label>fragilité</TM_FrailtyHD.label>
+<TM_FrailtyHD.description>La cible subit plus de dégâts de toutes les sources.</TM_FrailtyHD.description>
+
+<TM_DecayDamage.label>décomposition</TM_DecayDamage.label>
+<TM_DecayDamage.description>Décomposition organique.</TM_DecayDamage.description>
+<TM_DecayDamage.comps.HediffComp_GetsPermanent.permanentLabel>sans vie</TM_DecayDamage.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_DecayDamage.labelNounPretty>{0} dans {1}</TM_DecayDamage.labelNounPretty>
+
+<TM_HerbalClarityHD.label>clarté</TM_HerbalClarityHD.label>
+<TM_HerbalClarityHD.description>Une concoction qui aide le consommateur à s'ouvrir à la magie. La régénération du mana est augmentée jusqu'à 300% et la sensibilité psychique est augmentée jusqu'à 50%. Les effets diminuent également la stabilité mentale. Les effets de cette drogue durent plusieurs jours mais perdent de leur puissance avec le temps.</TM_HerbalClarityHD.description>
+<TM_HerbalClarityHD.stages.fading.label>disparaît</TM_HerbalClarityHD.stages.fading.label>
+<TM_HerbalClarityHD.stages.active.label>actif</TM_HerbalClarityHD.stages.active.label>
+<TM_HerbalClarityHD.stages.vibrant.label>vibrant</TM_HerbalClarityHD.stages.vibrant.label>
+
+<TM_HerbalBlissHD.label>béatitude</TM_HerbalBlissHD.label>
+<TM_HerbalBlissHD.description>Met l'utilisateur dans un état de béatitude, capable de masquer presque complètement les émotions et la douleur. Cette drogue entraîne une perte lente des compétences du consommateur, et le gain de compétences sous l'influence de cette drogue est fortement diminué.</TM_HerbalBlissHD.description>
+
+<TM_CursedHD.label>malédiction des arcanes</TM_CursedHD.label>
+<TM_CursedHD.description>La malédiction des arcanes est un sous-produit du trait maudit. Le colon maudit est constamment affecté par une faiblesse des arcanes qui augmente progressivement jusqu'à devenir une maladie persistante. Les effets de la malédiction peuvent être compensés par l'utilisation de la magie, cependant, la douleur causée par la malédiction procure une clarté unique. La malédiction peut être levée en retirant le trait magique du colon.</TM_CursedHD.description>
+<TM_CursedHD.stages.faded.label>disparaît</TM_CursedHD.stages.faded.label>
+<TM_CursedHD.stages.moderate.label>modéré</TM_CursedHD.stages.moderate.label>
+<TM_CursedHD.stages.heightened.label>accru</TM_CursedHD.stages.heightened.label>
+
+
+
+<TM_SymbiosisHD.label>symbiose</TM_SymbiosisHD.label>
+<TM_SymbiosisHD.description>Les émotions et la conscience de ce coln ont été renforcées et fortifiées par l'esprit d'un empathe. À toutes fins utiles, l'esprit de l'empathe est lié à ce colon - si ce colon meurt, l'empathe mourra également.</TM_SymbiosisHD.description>
+<TM_SymbiosisHD.stages.I.label>I</TM_SymbiosisHD.stages.I.label>
+<TM_SymbiosisHD.stages.II.label>II</TM_SymbiosisHD.stages.II.label>
+<TM_SymbiosisHD.stages.III.label>III</TM_SymbiosisHD.stages.III.label>
+<TM_SymbiosisHD.stages.IV.label>IV</TM_SymbiosisHD.stages.IV.label>
+
+<TM_OutOfBodyHD.label>hors du corps</TM_OutOfBodyHD.label>
+<TM_OutOfBodyHD.description>Les émotions et la conscience de ce colon ont été attachées à un autre colon ; ce corps est actuellement une enveloppe vide.</TM_OutOfBodyHD.description>
+
+<TM_ArcaneTatooPartHD.label>corps runique</TM_ArcaneTatooPartHD.label>
+<TM_ArcaneTatooPartHD.description>Grave le corps avec des symboles et des marques magiques.</TM_ArcaneTatooPartHD.description>
+<TM_ArcaneTatooPartHD.stages.I.label>I</TM_ArcaneTatooPartHD.stages.I.label>
+<TM_ArcaneTatooPartHD.stages.II.label>II</TM_ArcaneTatooPartHD.stages.II.label>
+<TM_ArcaneTatooPartHD.stages.III.label>III</TM_ArcaneTatooPartHD.stages.III.label>
+<TM_ArcaneTatooPartHD.stages.IV.label>IV</TM_ArcaneTatooPartHD.stages.IV.label>
+
+<TM_HeatShieldHD.label>bouclier thermique</TM_HeatShieldHD.label>
+<TM_HeatShieldHD.description>Augmente la résistance à la chaleur et ne peut pas prendre feu.</TM_HeatShieldHD.description>
+
+<TM_SymbiosisDamage.label>symbiose</TM_SymbiosisDamage.label>
+<TM_SymbiosisDamage.description>Dégâts déduits par une connexion de symbiose.</TM_SymbiosisDamage.description>
+<TM_SymbiosisDamage.comps.HediffComp_GetsPermanent.permanentLabel>blessure résiduelle</TM_SymbiosisDamage.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_SymbiosisDamage.labelNoun>transfert symbiotique</TM_SymbiosisDamage.labelNoun>
+<TM_SymbiosisDamage.labelNounPretty>une {0} au/à la {1}</TM_SymbiosisDamage.labelNounPretty>
+
+
+<!-- MàJ du mod 2022.06.05 -->
+<TM_WinterStaffHD.label>froid de l'hiver</TM_WinterStaffHD.label>
+<TM_WinterStaffHD.description>Draine la chaleur et l'énergie du corps ; prévient les coups de chaleur. Mages uniquement : diminue la température de la pièce.</TM_WinterStaffHD.description>
+
+<TM_Frozen.label>vents givrants</TM_Frozen.label>
+<TM_Frozen.description>Des vents d'un froid glacial.</TM_Frozen.description>
+<TM_Frozen.comps.HediffComp_GetsPermanent.permanentLabel>engelures</TM_Frozen.comps.HediffComp_GetsPermanent.permanentLabel>
+<TM_Frozen.labelNounPretty>une {0} au/à la {1}</TM_Frozen.labelNounPretty>
+
+
+<!-- Màj v1.4 -->
+<TM_SpiritPossessorHD.label>esprit</TM_SpiritPossessorHD.label>
+<TM_SpiritPossessorHD.description>Ce colon est un esprit, incapable d'interagir avec le monde physique de manière courante. Les esprits ne peuvent pas être blessés physiquement, mais perdent leur force spirituelle si leur forme est endommagée.</TM_SpiritPossessorHD.description>
+<TM_SpiritPossessorHD.stages.I.label>I</TM_SpiritPossessorHD.stages.I.label>
+<TM_SpiritPossessorHD.stages.II.label>II</TM_SpiritPossessorHD.stages.II.label>
+<TM_SpiritPossessorHD.stages.III.label>III</TM_SpiritPossessorHD.stages.III.label>
+<TM_SpiritPossessorHD.stages.IV.label>IV</TM_SpiritPossessorHD.stages.IV.label>
+
+<TM_SpiritPossessionHD.label>possession par un esprit</TM_SpiritPossessionHD.label>
+<TM_SpiritPossessionHD.description>Possédé par un esprit.</TM_SpiritPossessionHD.description>
+<TM_SpiritPossessionHD.stages.distorted.label>déformé</TM_SpiritPossessionHD.stages.distorted.label>
+<TM_SpiritPossessionHD.stages.conflicted.label>conflictuel</TM_SpiritPossessionHD.stages.conflicted.label>
+<TM_SpiritPossessionHD.stages.unstable.label>instable</TM_SpiritPossessionHD.stages.unstable.label>
+<TM_SpiritPossessionHD.stages.stable.label>stable</TM_SpiritPossessionHD.stages.stable.label>
+<TM_SpiritPossessionHD.stages.cooperative.label>coopératif</TM_SpiritPossessionHD.stages.cooperative.label>
+<TM_SpiritPossessionHD.stages.harmonious.label>harmonieux</TM_SpiritPossessionHD.stages.harmonious.label>
+
+<TM_SpiritDrainHD.label>drain d’esprit</TM_SpiritDrainHD.label>
+<TM_SpiritDrainHD.description>Ce colon a été vidé de son esprit et son avenir semble bien sombre.</TM_SpiritDrainHD.description>
+<TM_SpiritDrainHD.stages.recovering.label>récupération</TM_SpiritDrainHD.stages.recovering.label>
+<TM_SpiritDrainHD.stages.minor.label>mineur</TM_SpiritDrainHD.stages.minor.label>
+<TM_SpiritDrainHD.stages.low.label>faible</TM_SpiritDrainHD.stages.low.label>
+<TM_SpiritDrainHD.stages.moderate.label>modéré</TM_SpiritDrainHD.stages.moderate.label>
+<TM_SpiritDrainHD.stages.severe.label>sévère</TM_SpiritDrainHD.stages.severe.label>
+<TM_SpiritDrainHD.stages.deadly.label>mortel</TM_SpiritDrainHD.stages.deadly.label>
+
+<TM_SpiritDistortionHD.label>distorsion de l'esprit</TM_SpiritDistortionHD.label>
+<TM_SpiritDistortionHD.description>L'esprit de ce colon est déformé et est incapable de maintenir la cohésion avec son corps. Il est vulnérable et subira plus de dégâts.</TM_SpiritDistortionHD.description>
+
+<TM_EvasionHD.label>évasion</TM_EvasionHD.label>
+<TM_EvasionHD.description>Donne au colon la capacité d'esquiver toute attaque non explosive. Le taux d'esquive correspond à la sévérité de l'amélioration.</TM_EvasionHD.description>
+
+<TM_AdrenalineHD.label>adrénaline</TM_AdrenalineHD.label>
+<TM_AdrenalineHD.description>Une poussée d'adrénaline qui stimule les performances physiques.</TM_AdrenalineHD.description>
+
+<TM_StrawGolem_ArmorHD.label>armure</TM_StrawGolem_ArmorHD.label>
+<TM_StrawGolem_ArmorHD.description>Améliore la protection physique.</TM_StrawGolem_ArmorHD.description>
+<TM_StrawGolem_ArmorHD.stages.I.label>I</TM_StrawGolem_ArmorHD.stages.I.label>
+<TM_StrawGolem_ArmorHD.stages.II.label>II</TM_StrawGolem_ArmorHD.stages.II.label>
+<TM_StrawGolem_ArmorHD.stages.III.label>III</TM_StrawGolem_ArmorHD.stages.III.label>
+
+<TM_WoodGolem_ArmorHD.label>armure</TM_WoodGolem_ArmorHD.label>
+<TM_WoodGolem_ArmorHD.description>Améliore la protection physique.</TM_WoodGolem_ArmorHD.description>
+<TM_WoodGolem_ArmorHD.stages.I.label>I</TM_WoodGolem_ArmorHD.stages.I.label>
+<TM_WoodGolem_ArmorHD.stages.II.label>II</TM_WoodGolem_ArmorHD.stages.II.label>
+<TM_WoodGolem_ArmorHD.stages.III.label>III</TM_WoodGolem_ArmorHD.stages.III.label>
+
+<TM_ShroudOfUndeathHD.label>linceul de mort</TM_ShroudOfUndeathHD.label>
+<TM_ShroudOfUndeathHD.description>Réduit l'entretien des morts-vivants de ce nécromancien et augmente la puissance de déplacement et d'attaque des morts-vivants proches.</TM_ShroudOfUndeathHD.description>
+
+<TM_UndeadShroudHD.label>linceul de mort</TM_UndeadShroudHD.label>
+<TM_UndeadShroudHD.description>Les forces de la mort s'accrochent à ce colon.</TM_UndeadShroudHD.description>
+
+
+</LanguageData>

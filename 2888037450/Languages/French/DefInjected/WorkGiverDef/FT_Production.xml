@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Operate Machine -->
+  <IC_Operate.label>fait fonctionner la machine</IC_Operate.label>
+  <!-- EN: Operating at -->
+  <IC_Operate.gerund>fait fonctionner</IC_Operate.gerund>
+  <!-- EN: Operate -->
+  <IC_Operate.verb>faire fonctionner</IC_Operate.verb>
+  
+</LanguageData>

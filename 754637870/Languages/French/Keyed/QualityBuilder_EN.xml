@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	
+	<QualityBuilder>QualityBuilder</QualityBuilder>
+	<QualityBuilderCommand.Label>Qualité de Constr.</QualityBuilderCommand.Label>
+
+	<QualityBuilderOn.Label>Définit la Qualité de Constr.</QualityBuilderOn.Label>
+	<QualityBuilderOn.Desc>Qualité actuelle: {0}. Définit pour les bâtiments un critère de qualité pour les constructeurs</QualityBuilderOn.Desc>
+	<QualityBuilder.Already></QualityBuilder.Already>
+
+	<QualityBuilderOff.Label>Enlève la Qualité de Constr.</QualityBuilderOff.Label>
+	<QualityBuilderOff.Desc>Qualité actuelle: {0}. Enlève aux bâtiments le critère de qualité pour les constructeurs</QualityBuilderOff.Desc>
+	<QualityBuilder.Nothing></QualityBuilder.Nothing>
+
+	<QualityBuilder.SelectedSettings>Selected settings</QualityBuilder.SelectedSettings>
+	<QualityBuilder.CurrentMap>Current map</QualityBuilder.CurrentMap>
+	<QualityBuilder.Global>Default settings</QualityBuilder.Global>
+	<QualityBuilder.EnableByDefault>Enable QualityBuilder by default</QualityBuilder.EnableByDefault>
+	<QualityBuilder.IgnoreAtSkill>Ignore QualityBuilder at skill {0}</QualityBuilder.IgnoreAtSkill>
+	<QualityBuilder.MinQuality>Default minimum quality</QualityBuilder.MinQuality>
+	<QualityBuilder.OverrideBestBuilder>Override best builder with</QualityBuilder.OverrideBestBuilder>
+</LanguageData>

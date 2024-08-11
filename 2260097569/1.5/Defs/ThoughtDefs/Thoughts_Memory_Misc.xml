@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<ThoughtDef>
+		<defName>RG_Wet</defName>
+		<durationDays>0.1</durationDays>
+		<stackLimit>1</stackLimit>
+		<nullifyingPrecepts>
+			<li MayRequire="Ludeon.RimWorld.Ideology">RoughLiving_Welcomed</li>
+		</nullifyingPrecepts>
+		<stages>
+			<li>
+				<label>mouillé</label>
+				<description>Je suis mouillé.</description>
+				<baseMoodEffect>-1</baseMoodEffect>
+			</li>
+		</stages>
+		<modExtensions>
+			<li Class="VFECore.ThoughtExtensions">
+				<removeThoughtsWhenAdded>
+					<li>RG_ExtremelyWet</li>
+					<li>SoakingWet</li>
+				</removeThoughtsWhenAdded>
+			</li>
+		</modExtensions>
+	</ThoughtDef>
+	<ThoughtDef>
+		<defName>RG_ExtremelyWet</defName>
+		<durationDays>0.3</durationDays>
+		<stackLimit>1</stackLimit>
+		<nullifyingPrecepts>
+			<li MayRequire="Ludeon.RimWorld.Ideology">RoughLiving_Welcomed</li>
+		</nullifyingPrecepts>
+		<stages>
+			<li>
+				<label>extrêmement mouillé</label>
+				<description>Je suis extrêmement mouillé.</description>
+				<baseMoodEffect>-5</baseMoodEffect>
+			</li>
+		</stages>
+		<modExtensions>
+			<li Class="VFECore.ThoughtExtensions">
+				<removeThoughtsWhenAdded>
+					<li>RG_Wet</li>
+					<li>SoakingWet</li>
+				</removeThoughtsWhenAdded>
+			</li>
+		</modExtensions>
+	</ThoughtDef>
+	<ThoughtDef>
+		<defName>RG_Sandy</defName>
+		<durationDays>0.5</durationDays>
+		<stackLimit>1</stackLimit>
+		<nullifyingPrecepts>
+			<li MayRequire="Ludeon.RimWorld.Ideology">RoughLiving_Welcomed</li>
+		</nullifyingPrecepts>
+		<stages>
+			<li>
+				<label>ensablé</label>
+				<description>Il y a du sable comme..... partout ! Même dans mes yeux!</description>
+				<baseMoodEffect>-6</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+	<ThoughtDef>
+		<defName>RG_HotSpringWet</defName>
+		<durationDays>0.5</durationDays>
+		<stackLimit>1</stackLimit>
+		<stages>
+			<li>
+				<label>eau chaude</label>
+				<description>L'eau chaude de la source thermale est extraordinaire!</description>
+				<baseMoodEffect>+3</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+</Defs>

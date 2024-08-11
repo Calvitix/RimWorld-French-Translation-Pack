@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SandyMassCarried>poids porté</SandyMassCarried>
+  <SandyMassValue>{0} / {1} kg</SandyMassValue>
+  <Sandy_ViewList>Montrer la liste</Sandy_ViewList>
+  <Sandy_Head>Couvre-Chef</Sandy_Head>
+  <Sandy_TorsoMiddle>Torse (Milieu)</Sandy_TorsoMiddle>
+  <Sandy_TorsoOnSkin>Torse (Sur Peau)</Sandy_TorsoOnSkin>
+  <Sandy_TorsoShell>Torse (Veste)</Sandy_TorsoShell>
+  <Sandy_Belt>Ceinture</Sandy_Belt>
+  <Sandy_Pants>Jambe (Sur Peau)</Sandy_Pants>
+  <RPG_Inventory_Width>Onglet équipement - largeur</RPG_Inventory_Width>
+  <RPG_Inventory_Height>Onglet équipement - hauteur</RPG_Inventory_Height>
+  <RPG_Style_Inventory_Title>Inventaire style RPG</RPG_Style_Inventory_Title>
+  <RPG_Style_Inventory_ArmorHarmony>Defense Magique</RPG_Style_Inventory_ArmorHarmony>
+  <RPG_Display_All_Slots_Label>Voir TOUS les emplacements.</RPG_Display_All_Slots_Label>
+  <RPG_Display_All_Slots_Note>Display all supported slots even if it's impossible to use them</RPG_Display_All_Slots_Note> 
+  <Primary_Weapon>Arme Principale</Primary_Weapon>
+  <Secondary_Weapon>Arme secondaire</Secondary_Weapon>
+  <RPG_AutoFitWidth_Button_Label>Autofit Width (Closest)</RPG_AutoFitWidth_Button_Label>
+  <RPG_AutoFitWidth_Tight_Button_Label>Autofit Width (Tight)</RPG_AutoFitWidth_Tight_Button_Label>
+  <RPG_AutoFitWidth_Wide_Button_Label>Autofit Width (Wide)</RPG_AutoFitWidth_Wide_Button_Label>
+  <RPG_Dispaly_Temp_On_The_Same_Line_Label>Display comfortable temperature values on the same line</RPG_Dispaly_Temp_On_The_Same_Line_Label>
+  <RPG_Dispaly_Temp_On_The_Same_Line_Note></RPG_Dispaly_Temp_On_The_Same_Line_Note>
+  <Sandy_SimplifiedView>Simple</Sandy_SimplifiedView>
+  <RPG_Display_Apparel_Healthbar_Label>Display equipment healthbar</RPG_Display_Apparel_Healthbar_Label>
+  <RPG_Display_Apparel_Healthbar_Note>Instead of health-background</RPG_Display_Apparel_Healthbar_Note>
+  <RPG_Colors_Changing>Change vers {0}</RPG_Colors_Changing>
+  <RPG_Colors_Apply>Appliquer</RPG_Colors_Apply>
+  <RPG_Colors_Red>Rouge: </RPG_Colors_Red>
+  <RPG_Colors_Green>Vert: </RPG_Colors_Green>
+  <RPG_Colors_Blue>Bleu: </RPG_Colors_Blue>
+  <RPG_Colors_Preview>Pévisualis: </RPG_Colors_Preview>
+  <RPG_Colors_Button_Label>Changer</RPG_Colors_Button_Label>
+  <RPG_Color_Codes_Label>Use color coding</RPG_Color_Codes_Label>
+  <RPG_Color_Codes_Note></RPG_Color_Codes_Note>
+  <RPG_Display_Background_Label>Display slot backgrounds</RPG_Display_Background_Label>
+  <RPG_Display_Background_Note></RPG_Display_Background_Note>
+  <RPG_Display_Static_Slot_Background_Label>Display default solt backgrounds</RPG_Display_Static_Slot_Background_Label>
+  <RPG_Display_Static_Slot_Background_Note></RPG_Display_Static_Slot_Background_Note>
+  <RPG_Frame2_Label>Use thick borders</RPG_Frame2_Label>
+  <RPG_Frame2_Note></RPG_Frame2_Note>
+
+</LanguageData>

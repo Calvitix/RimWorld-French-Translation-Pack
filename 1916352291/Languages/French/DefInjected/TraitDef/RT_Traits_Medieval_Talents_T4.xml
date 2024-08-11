@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+<!-- FR: <color=#d4af37>Talent : Touche-à-tout</color> -->
+<RT_TalentJackOfAllTrades.degreeDatas.colord4af37Talent_Jackofalltradescolor.label><color=#d4af37>Talent : Touche-à-tout</color></RT_TalentJackOfAllTrades.degreeDatas.colord4af37Talent_Jackofalltradescolor.label>
+<!-- FR: [PAWN_nameDef] ne se distingue pas vraiment, et [PAWN_pronoun] ne trouve rien de particulièrement difficile. -->
+<RT_TalentJackOfAllTrades.degreeDatas.colord4af37Talent_Jackofalltradescolor.description>[PAWN_nameDef] ne se distingue pas vraiment, et [PAWN_pronoun] ne trouve rien de particulièrement difficile.</RT_TalentJackOfAllTrades.degreeDatas.colord4af37Talent_Jackofalltradescolor.description>
+
+<!-- FR: <color=#d4af37>Talent : Recruteur</color> -->
+<RT_TalentRecruiter.degreeDatas.colord4af37Talent_Recruitercolor.label><color=#d4af37>Talent : Recruteur</color></RT_TalentRecruiter.degreeDatas.colord4af37Talent_Recruitercolor.label>
+<!-- FR: [PAWN_nameDef] est très persuasif. [PAWN_pronoun] trouve relativement facile de rallier les gens sous sa bannière. -->
+<RT_TalentRecruiter.degreeDatas.colord4af37Talent_Recruitercolor.description>[PAWN_nameDef] est très persuasif. [PAWN_pronoun] trouve relativement facile de rallier les gens sous sa bannière.</RT_TalentRecruiter.degreeDatas.colord4af37Talent_Recruitercolor.description>
+
+<!-- FR: <color=#d4af37>Talent : Éclaireur</color> -->
+<RT_TalentScout.degreeDatas.colord4af37Talent_Scoutcolor.label><color=#d4af37>Talent : Éclaireur</color></RT_TalentScout.degreeDatas.colord4af37Talent_Scoutcolor.label>
+<!-- FR: [PAWN_nameDef] est un expert en exploration de nouveaux lieux. [PAWN_pronoun] quitte fréquemment la relative sécurité de la colonie pour patrouiller dans la nature. -->
+<RT_TalentScout.degreeDatas.colord4af37Talent_Scoutcolor.description>[PAWN_nameDef] est un expert en exploration de nouveaux lieux. [PAWN_pronoun] quitte fréquemment la relative sécurité de la colonie pour patrouiller dans la nature.</RT_TalentScout.degreeDatas.colord4af37Talent_Scoutcolor.description>
+
+  
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: faire des mottes d'argile humide -->
+  <VBY_MakeClumpsFromClay_Base.label>faire des mottes d'argile humide</VBY_MakeClumpsFromClay_Base.label>
+  <!-- EN: Fabriquer des mottes d'argile humide avec de la boue et de l'herbe à foin.\n\nFaire 20 mottes d'argile humide. -->
+  <VBY_MakeClumpsFromClay_Base.description>Fabriquer des mottes d'argile humide avec de la boue et de l'herbe à foin.\n\nFaire 20 mottes d'argile humide.</VBY_MakeClumpsFromClay_Base.description>
+  <!-- EN: fait des mottes d'argile humide. -->
+  <VBY_MakeClumpsFromClay_Base.jobString>fait des mottes d'argile humide.</VBY_MakeClumpsFromClay_Base.jobString>
+  
+  <!-- EN: fabrication de blocs d'adobe cuits -->
+  <VBYMake_FiredAdobe.label>fabrication de blocs d'adobe cuits</VBYMake_FiredAdobe.label>
+  <!-- EN: Il fait cuire la pâte d'argile humide pour en faire des blocs d'adobe utilisables.\n\nFait 20 briques. -->
+  <VBYMake_FiredAdobe.description>fait cuire la pâte d'argile humide pour en faire des blocs d'adobe utilisables.\n\nFait 20 briques.</VBYMake_FiredAdobe.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <VBYMake_FiredAdobe.jobString>Découpe de blocs de pierre en morceaux.</VBYMake_FiredAdobe.jobString>
+  
+</LanguageData>

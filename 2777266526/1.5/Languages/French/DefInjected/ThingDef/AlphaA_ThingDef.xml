@@ -1,0 +1,1189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<AA_Overgrown_DropPod.label>capsule de largage envahissante</AA_Overgrown_DropPod.label>
+<AA_Overgrown_DropPod.description>Cette capsule standard semble avoir été modifiée pour accueillir un petit écosystème autonome. Dès l'impact, d'étranges lianes rampantes et d'étranges créatures en sont sorties. Il semble que ce soit une sorte de machine à terraformer.\n\nVous pouvez la détruire pour éviter de libérer des formes de vie hostiles dans cette région, ou attendre que son travail soit terminé pour voir ce qui se passe.</AA_Overgrown_DropPod.description>
+
+<AA_BlackHiveMound.label>monticule de ruche noire</AA_BlackHiveMound.label>
+<AA_BlackHiveMound.description>Une ruche d'insectes géants. Ce monticule a été utilisé par la Ruche Noire pour creuser un tunnel vers ce territoire, il est maintenant inerte. Il s'érodera dans quelques jours.</AA_BlackHiveMound.description>
+
+<AA_SkySteelClumps.label>étrange minéral brillant</AA_SkySteelClumps.label>
+<AA_SkySteelClumps.description>Cet étrange minéral est très dur et résistant. Vous pourriez peut-être trouver un moyen d'en extraire des matériaux utilisables.</AA_SkySteelClumps.description>
+
+<AA_BlueGelBattery.label>batterie au gel bleu</AA_BlueGelBattery.label>
+<AA_BlueGelBattery.description>Elles peuvent stocker plus d'électricité que les batteries ordinaires grâce à la composition énergétique du gel bleu. L'inconvénient, c'est qu'elles sont hautement inflammables. Les batteries au gel bleu chargées explosent lorsqu'elles sont exposées à la pluie ou au feu.</AA_BlueGelBattery.description>
+
+<AA_HexaGelBattery.label>batterie hexagel</AA_HexaGelBattery.label>
+<AA_HexaGelBattery.description>Elles peuvent stocker plus d'électricité que les batteries au gel bleu. L'inconvénient est qu'elles sont hautement inflammables et qu'elles explosent violemment si elles sont détruites. Les batteries hexagel chargées explosent lorsqu'elles sont exposées à la pluie ou au feu.</AA_HexaGelBattery.description>
+
+<AA_HexagelCoreReactor.label>réacteur à noyau hexagel</AA_HexagelCoreReactor.label>
+<AA_HexagelCoreReactor.description>Produit de l'électricité à partir de l'énergie stockée dans les noyaux d'hexagel.</AA_HexagelCoreReactor.description>
+
+<AA_MutantLeg.label>jambe mutante</AA_MutantLeg.label>
+<AA_MutantLeg.description>Cette jambe semble être couverte d'une sécrétion gluante qui s'écoule constamment de chaque pore. Il y a quelque chose qui semble... étrange, comme si ce n'était pas une création entièrement naturelle.</AA_MutantLeg.description>
+
+<AA_MutantArm.label>bras mutant</AA_MutantArm.label>
+<AA_MutantArm.description>Ce bras se contracte et se plie de manière étrange et non naturelle, comme s'il était doté d'une intelligence propre. Il y a quelque chose qui semble... étrange, comme si ce n'était pas une création complètement naturelle.</AA_MutantArm.description>
+
+<AA_MutantEye.label>œil mutant</AA_MutantEye.label>
+<AA_MutantEye.description>Cet œil cligne constamment, comme un tic nerveux, et une deuxième paire de paupières verticales semble être présente derrière les paupières humaines normales. Il y a quelque chose qui semble... étrange, comme si ce n'était pas une création complètement naturelle.</AA_MutantEye.description>
+
+
+
+<AA_BumbledroneQueenEggFertilized.label>œuf de bourdondrone (fécondé)</AA_BumbledroneQueenEggFertilized.label>
+<AA_BumbledroneQueenEggFertilized.description>Œufs de bourdondrone fécondés. J... Je ne mangerais pas ça. Beurk. Si tout va bien, il devrait éclore en bourdondrone.</AA_BumbledroneQueenEggFertilized.description>
+
+<AA_WildpodSpores.label>spores de wildpod (fécondé)</AA_WildpodSpores.label>
+<AA_WildpodSpores.description>Spores de wildpod fertilisés. J... Je ne mangerais pas ça. Beurk. Si tout va bien, il devrait éclore en wildpod.</AA_WildpodSpores.description>
+
+<AA_AgaripodSpores.label>spores d'agaripodes (fécondé)</AA_AgaripodSpores.label>
+<AA_AgaripodSpores.description>Spores d'agripodes fertilisés. J... Je ne mangerais pas ça. Beurk. Si tout va bien, il devrait éclore en agaripode.</AA_AgaripodSpores.description>
+
+<AA_MycoidColossusSpores.label>spores de colosse mycoïde (fécondé)</AA_MycoidColossusSpores.label>
+<AA_MycoidColossusSpores.description>Spores de colosse mycoïde fertilisés. J... Je ne mangerais pas ça. Beurk. Si tout va bien, il devrait éclore en colosse mycoïde.</AA_MycoidColossusSpores.description>
+
+<AA_WildpawnSpores.label>spores de wildpawn (fécondé)</AA_WildpawnSpores.label>
+<AA_WildpawnSpores.description>Spores wildpawn fertilisés. J... Je ne mangerais pas ça. Beurk. Si tout va bien, il devrait éclore en wildpawn.</AA_WildpawnSpores.description>
+
+<AA_AgaripawnSpores.label>spores d'agaripawn (fécondé)</AA_AgaripawnSpores.label>
+<AA_AgaripawnSpores.description>Spores d'agripavages fertilisés. J... Je ne mangerais pas ça. Beurk. Si tout va bien, il devrait éclore en agaripawn.</AA_AgaripawnSpores.description>
+
+<AA_IronhuskEggUnfertilized.label>œuf de coléoptère de fer (non fécondé)</AA_IronhuskEggUnfertilized.label>
+<AA_IronhuskEggUnfertilized.description>Œuf de coléoptère de fer non fécondé. Il peut être mangé cru, mais il est bien meilleur cuit. En réalité, c'est un œuf de coléoptère, c'est dégoûtant de toute façon...</AA_IronhuskEggUnfertilized.description>
+
+<AA_IronhuskEggFertilized.label>œuf de coléoptère de fer (fécondé)</AA_IronhuskEggFertilized.label>
+<AA_IronhuskEggFertilized.description>Œuf de coléoptère de fer fécondé. Il peut être mangé cru, mais il est bien meilleur cuit. En réalité, c'est un œuf de coléoptère, c'est dégoûtant de toute façon... Si tout va bien, il devrait éclore en coléoptère de fer.</AA_IronhuskEggFertilized.description>
+
+<AA_MammothWormEggUnfertilized.label>œuf de ver géant (non fécondé)</AA_MammothWormEggUnfertilized.label>
+<AA_MammothWormEggUnfertilized.description>Œuf de de ver géant non fécondé. Il peut être mangé cru, mais il est meilleur cuit. En réalité, c'est un œuf de ver, c'est dégoûtant de toute façon...</AA_MammothWormEggUnfertilized.description>
+
+<AA_MammothWormEggFertilized.label>œuf de ver géant (fécondé)</AA_MammothWormEggFertilized.label>
+<AA_MammothWormEggFertilized.description>Œuf de ver géant fécondé. Il peut être mangé cru, mais il est meilleur cuit. En réalité, c'est un œuf de ver, c'est dégoûtant de toute façon... Si tout va bien, il devrait éclore en ver géant.</AA_MammothWormEggFertilized.description>
+
+<AA_CrepuscularBeetleEggUnfertilized.label>œuf de scarabée nocturne (non fécondé)</AA_CrepuscularBeetleEggUnfertilized.label>
+<AA_CrepuscularBeetleEggUnfertilized.description>Œuf de scarabée nocturne non fécondé. Il peut être mangé cru, mais il est bien meilleur cuit. En réalité, c'est un œuf de scarabée, c'est dégoûtant de toute façon...</AA_CrepuscularBeetleEggUnfertilized.description>
+
+<AA_CrepuscularBeetleEggFertilized.label>œuf de scarabée nocturne (fécondé)</AA_CrepuscularBeetleEggFertilized.label>
+<AA_CrepuscularBeetleEggFertilized.description>Œuf de scarabée nocturne fécondé. Il peut être mangé cru, mais il est bien meilleur cuit. En réalité, c'est un œuf de scarabée, c'est dégoûtant de toute façon... Si tout va bien, il devrait éclore en scarabée nocturne.</AA_CrepuscularBeetleEggFertilized.description>
+
+<AA_GreatDevourerEggUnfertilized.label>œuf de dévoreur géant (non fécondé)</AA_GreatDevourerEggUnfertilized.label>
+<AA_GreatDevourerEggUnfertilized.description>Œuf de dévoreur géant non fécondé. Il peut être mangé cru, mais il est meilleur cuit. En réalité, c'est un œuf de ver, c'est dégoûtant de toute façon...</AA_GreatDevourerEggUnfertilized.description>
+
+<AA_GreatDevourerEggFertilized.label>œuf de dévoreur géant (fécondé)</AA_GreatDevourerEggFertilized.label>
+<AA_GreatDevourerEggFertilized.description>Œuf de dévoreur géant fécondé. Il peut être mangé cru, mais il est meilleur cuit. En réalité, c'est un œuf de ver, c'est dégoûtant de toute façon... Si tout va bien, il devrait éclore en dévoreur géant.</AA_GreatDevourerEggFertilized.description>
+
+<AA_MegalouseEggUnfertilized.label>œuf de mégapoux (non fécondé)</AA_MegalouseEggUnfertilized.label>
+<AA_MegalouseEggUnfertilized.description>Œuf de mégapoux non fécondé. Il peut être mangé cru, mais il est bien meilleur cuit. En réalité, c'est un œuf de poux, c'est dégoûtant de toute façon...</AA_MegalouseEggUnfertilized.description>
+
+<AA_MegalouseEggFertilized.label>œuf de mégapoux (fécondé)</AA_MegalouseEggFertilized.label>
+<AA_MegalouseEggFertilized.description>Œuf de mégapoux fécondé. Il peut être mangé cru, mais il est bien meilleur cuit. En réalité, c'est un œuf de poux, c'est dégoûtant de toute façon... Si tout va bien, il devrait éclore en mégapoux.</AA_MegalouseEggFertilized.description>
+
+<AA_BedBugEggUnfertilized.label>œuf de mégapunaise (non fécondé)</AA_BedBugEggUnfertilized.label>
+<AA_BedBugEggUnfertilized.description>Œuf de mégapunaise non fécondé. Il peut être mangé cru, mais il est bien meilleur cuit. En réalité, c'est un œuf de coléoptère, c'est dégoûtant de toute façon...</AA_BedBugEggUnfertilized.description>
+
+<AA_BedBugEggFertilized.label>œuf de mégapunaise (fécondé)</AA_BedBugEggFertilized.label>
+<AA_BedBugEggFertilized.description>Œuf de mégapunaise fécondé. Il peut être mangé cru, mais il est bien meilleur cuit. En réalité, c'est un œuf de coléoptère, c'est dégoûtant de toute façon... Si tout va bien, il devrait éclore en mégapunaise.</AA_BedBugEggFertilized.description>
+
+<AA_AnimaliskEggFertilized.label>œuf d'animalisk (fécondé)</AA_AnimaliskEggFertilized.label>
+<AA_AnimaliskEggFertilized.description>Œuf d'animalisk fécondé. Il peut être mangé cru, mais il est bien meilleur cuit. En réalité, c'est un œuf d'araignée, c'est dégoûtant de toute façon... Si tout va bien, il devrait éclore en animalisk.</AA_AnimaliskEggFertilized.description>
+
+<AA_FeraliskEggUnfertilized.label>œuf de feralisk (non fécondé)</AA_FeraliskEggUnfertilized.label>
+<AA_FeraliskEggUnfertilized.description>Œuf de feralisk non fécondé. Il peut être mangé cru, mais il est bien meilleur cuit. En réalité, c'est un œuf d'araignée, c'est dégoûtant de toute façon...</AA_FeraliskEggUnfertilized.description>
+
+<AA_FeraliskEggFertilized.label>œuf de feralisk (fécondé)</AA_FeraliskEggFertilized.label>
+<AA_FeraliskEggFertilized.description>Œuf de feralisk fécondé. Il peut être mangé cru, mais il est bien meilleur cuit. En réalité, c'est un œuf d'araignée, c'est dégoûtant de toute façon... Si tout va bien, il devrait éclore en feralisk.</AA_FeraliskEggFertilized.description>
+
+<AA_FeraliskSuperEggFertilized.label>œuf de feralisk chargé (fécondé)</AA_FeraliskSuperEggFertilized.label>
+<AA_FeraliskSuperEggFertilized.description>Œuf de feralisk chargé fécondé. Il peut être mangé cru, mais il est bien meilleur cuit. En réalité, c'est un œuf d'araignée, c'est dégoûtant de toute façon... Si tout va bien, il devrait éclore en feralisk.\nCet œuf semble se développer à une vitesse alarmante !</AA_FeraliskSuperEggFertilized.description>
+
+<AA_DunealiskEggUnfertilized.label>œuf de dunealisk (non fécondé)</AA_DunealiskEggUnfertilized.label>
+<AA_DunealiskEggUnfertilized.description>Œuf de dunealisk non fécondé. Il peut être mangé cru, mais il est bien meilleur cuit. En réalité, c'est un œuf d'araignée, c'est dégoûtant de toute façon...</AA_DunealiskEggUnfertilized.description>
+
+<AA_DunealiskEggFertilized.label>œuf de dunealisk (fécondé)</AA_DunealiskEggFertilized.label>
+<AA_DunealiskEggFertilized.description>Œuf de dunealisk fécondé. Il peut être mangé cru, mais il est bien meilleur cuit. En réalité, c'est un œuf d'araignée, c'est dégoûtant de toute façon... Si tout va bien, il devrait éclore en dunealisk.</AA_DunealiskEggFertilized.description>
+
+<AA_DunealiskSuperEggFertilized.label>œuf de dunealisk chargé (fécondé)</AA_DunealiskSuperEggFertilized.label>
+<AA_DunealiskSuperEggFertilized.description>Œuf de dunealisk chargé fécondé. Il peut être mangé cru, mais il est bien meilleur cuit. En réalité, c'est un œuf d'araignée, c'est dégoûtant de toute façon... Si tout va bien, il devrait éclore en dunealisk.\nCet œuf semble se développer à une vitesse alarmante !</AA_DunealiskSuperEggFertilized.description>
+
+<AA_BlizzariskEggUnfertilized.label>œuf de blizzarisk (non fécondé)</AA_BlizzariskEggUnfertilized.label>
+<AA_BlizzariskEggUnfertilized.description>Œuf de blizzarisk non fécondé. Il peut être mangé cru, mais il est bien meilleur cuit. En réalité, c'est un œuf d'araignée, c'est dégoûtant de toute façon...</AA_BlizzariskEggUnfertilized.description>
+
+<AA_BlizzariskEggFertilized.label>œuf de blizzarisk (fécondé)</AA_BlizzariskEggFertilized.label>
+<AA_BlizzariskEggFertilized.description>Œuf de blizzarisk fécondé. Il peut être mangé cru, mais il est bien meilleur cuit. En réalité, c'est un œuf d'araignée, c'est dégoûtant de toute façon... Si tout va bien, il devrait éclore en blizzarisk.</AA_BlizzariskEggFertilized.description>
+
+<AA_BlizzariskSuperEggFertilized.label>œuf de blizzarisk chargé (fécondé)</AA_BlizzariskSuperEggFertilized.label>
+<AA_BlizzariskSuperEggFertilized.description>Œuf de blizzarisk chargé fécondé. Il peut être mangé cru, mais il est bien meilleur cuit. En réalité, c'est un œuf d'araignée, c'est dégoûtant de toute façon... Si tout va bien, il devrait éclore en blizzarisk.\nCet œuf semble se développer à une vitesse alarmante !</AA_BlizzariskSuperEggFertilized.description>
+
+<AA_JungleliskEggUnfertilized.label>œuf de junglelisk (non fécondé)</AA_JungleliskEggUnfertilized.label>
+<AA_JungleliskEggUnfertilized.description>Œuf de junglelisk non fécondé. Il peut être mangé cru, mais il est bien meilleur cuit. En réalité, c'est un œuf d'araignée, c'est dégoûtant de toute façon...</AA_JungleliskEggUnfertilized.description>
+
+<AA_JungleliskEggFertilized.label>œuf de junglelisk (fécondé)</AA_JungleliskEggFertilized.label>
+<AA_JungleliskEggFertilized.description>Œuf de junglelisk fécondé. Non comestible. Si tout va bien, il devrait éclore en junglelisk.</AA_JungleliskEggFertilized.description>
+
+<AA_CinderliskEggUnfertilized.label>œuf de cendrelisk (non fécondé)</AA_CinderliskEggUnfertilized.label>
+<AA_CinderliskEggUnfertilized.description>Œuf de cendrelisk non fécondé. Il peut être mangé cru, mais il est bien meilleur cuit. En réalité, c'est un œuf d'araignée, c'est dégoûtant de toute façon...</AA_CinderliskEggUnfertilized.description>
+
+<AA_CinderliskEggFertilized.label>œuf de cendrelisk (fécondé)</AA_CinderliskEggFertilized.label>
+<AA_CinderliskEggFertilized.description>Œuf de cendrelisk fécondé. Il peut être mangé cru, mais il est bien meilleur cuit. En réalité, c'est un œuf d'araignée, c'est dégoûtant de toute façon... Si tout va bien, il devrait éclore en cendrelisk.</AA_CinderliskEggFertilized.description>
+
+<AA_EggNightlingFertilized.label>œuf de nocturling (fécondé)</AA_EggNightlingFertilized.label>
+<AA_EggNightlingFertilized.description>Œuf de nocturling fécondé. Si tout va bien, il devrait éclore en petit nocturling. Il peut être mangé cru, mais il est bien meilleur cuit.</AA_EggNightlingFertilized.description>
+
+<AA_EggMeadowAveFertilized.label>œuf d'ave des prairies (fécondé)</AA_EggMeadowAveFertilized.label>
+<AA_EggMeadowAveFertilized.description>Œuf d'ave des prairies fécondé. Si tout va bien, il devrait éclore en poussin ave des prairies. Il peut être mangé cru, mais il est bien meilleur cuit.</AA_EggMeadowAveFertilized.description>
+
+<AA_EggDesertAveFertilized.label>œuf d'ave du désert (fécondé)</AA_EggDesertAveFertilized.label>
+<AA_EggDesertAveFertilized.description>Œuf d'ave du désert fécondé. Si tout va bien, il devrait éclore en poussin ave du désert. Il peut être mangé cru, mais il est bien meilleur cuit.</AA_EggDesertAveFertilized.description>
+
+<AA_EggNightAveFertilized.label>œuf d'ave nocturne (fécondé)</AA_EggNightAveFertilized.label>
+<AA_EggNightAveFertilized.description>Œuf d'ave nocturne fécondé. Si tout va bien, il devrait éclore en poussin ave nocturne. Il peut être mangé cru, mais il est bien meilleur cuit.</AA_EggNightAveFertilized.description>
+
+<AA_EggRoyalAveFertilized.label>œuf d'ave royal (fécondé)</AA_EggRoyalAveFertilized.label>
+<AA_EggRoyalAveFertilized.description>Œuf d'ave royal fécondé. Si tout va bien, il devrait éclore en poussin ave royal. Il peut être mangé cru, mais il est bien meilleur cuit.</AA_EggRoyalAveFertilized.description>
+
+<AA_EggRoughPlatedMonitorFertilized.label>œuf de varan plaque brute (fécondé)</AA_EggRoughPlatedMonitorFertilized.label>
+<AA_EggRoughPlatedMonitorFertilized.description>Œuf de varan plaque brute fécondé. Si tout va bien, il devrait éclore en bébé varan plaque brute. Il peut être mangé cru, mais il est bien meilleur cuit. SOYEZ AVERTIS : Les œufs de varan plaque brute sont extrêmement instables, et ils explosent lorsqu'ils éclosent !</AA_EggRoughPlatedMonitorFertilized.description>
+
+<AA_AtispecEggFertilized.label>œuf d'atispec (fécondé)</AA_AtispecEggFertilized.label>
+<AA_AtispecEggFertilized.description>Œuf d'atispec fécondé. Si tout va bien, il devrait éclore en larve atispec. Il peut être mangé cru, mais il est bien meilleur cuit.</AA_AtispecEggFertilized.description>
+
+<AA_AngelMothEggFertilized.label>œuf de papillon tineidae (fécondé)</AA_AngelMothEggFertilized.label>
+<AA_AngelMothEggFertilized.description>Œuf de papillon tineidae fécondé. Si tout va bien, il devrait éclore en larve de tineidae. Il peut être mangé cru, mais il est bien meilleur cuit.</AA_AngelMothEggFertilized.description>
+
+<AA_DrainerEggFertilized.label>œuf de draineur (fécondé)</AA_DrainerEggFertilized.label>
+<AA_DrainerEggFertilized.description>Œuf de draineur fécondé. Si tout va bien, il devrait éclore en larve de draineur. Il peut être mangé cru, mais il est bien meilleur cuit.</AA_DrainerEggFertilized.description>
+
+<AA_FireWaspEggFertilized.label>œuf de guêpe de feu (fécondé)</AA_FireWaspEggFertilized.label>
+<AA_FireWaspEggFertilized.description>Œuf de guêpe de feu fécondé. Si tout va bien, il devrait éclore en guêpe de feu. Les œufs de guêpe de feu dégagent une quantité incroyable de chaleur, et ils peuvent être dangereux s'ils ne sont pas contrôlés, et extrêmement désagréables à manger.</AA_FireWaspEggFertilized.description>
+
+<AA_FireWaspEggUnfertilized.label>œuf de guêpe de feu (non fécondé)</AA_FireWaspEggUnfertilized.label>
+<AA_FireWaspEggUnfertilized.description>Œuf de guêpe de feu non fécondé. Les œufs de guêpe de feu dégagent une quantité incroyable de chaleur, et ils peuvent être dangereux s'ils ne sont pas contrôlés, et extrêmement désagréables à manger.</AA_FireWaspEggUnfertilized.description>
+
+<AA_EggFlamingoPhoenixFertilized.label>œuf de flamant rose phénix (fécondé)</AA_EggFlamingoPhoenixFertilized.label>
+<AA_EggFlamingoPhoenixFertilized.description>Œuf de flamant rose phénix fécondé. Si tout va bien, il devrait éclore en poussin flamant rose phénix. Il peut être mangé cru, mais il est bien meilleur cuit.</AA_EggFlamingoPhoenixFertilized.description>
+
+<AA_EggCrescendoAnoleFertilized.label>œuf d'anolis crescendo (fécondé)</AA_EggCrescendoAnoleFertilized.label>
+<AA_EggCrescendoAnoleFertilized.description>Œuf d'anolis crescendo fécondé. Si tout va bien, il devrait éclore en anolis crescendo. Il peut être mangé cru, mais il est bien meilleur cuit.</AA_EggCrescendoAnoleFertilized.description>
+
+<AA_EggPedigreedRaptorFertilized.label>œuf de raptor à pédigrée (fécondé)</AA_EggPedigreedRaptorFertilized.label>
+<AA_EggPedigreedRaptorFertilized.description>Œuf de raptor à pédigrée fécondé. Si tout va bien, il devrait éclore en raptor à pédigrée. Il peut être mangé cru, mais il est bien meilleur cuit.</AA_EggPedigreedRaptorFertilized.description>
+
+<AA_EmpressButterflyEggFertilized.label>œuf de papillon impératrice (fécondé)</AA_EmpressButterflyEggFertilized.label>
+<AA_EmpressButterflyEggFertilized.description>Œuf de papillon impératrice fécondé. Si tout va bien, il devrait éclore en larve de papillon impératrice. Il peut être mangé cru, mais il est bien meilleur cuit.</AA_EmpressButterflyEggFertilized.description>
+
+<AA_EggGiantCrownedSilkieUnfertilized.label>œuf couronne de soie géante (non fécondé)</AA_EggGiantCrownedSilkieUnfertilized.label>
+<AA_EggGiantCrownedSilkieUnfertilized.description>Œuf de couronne de soie géante non fertilisé. Il peut être mangé cru, mais il est bien meilleur cuit.</AA_EggGiantCrownedSilkieUnfertilized.description>
+
+<AA_EggGiantCrownedSilkieFertilized.label>œuf de couronne de soie géante (fécondé)</AA_EggGiantCrownedSilkieFertilized.label>
+<AA_EggGiantCrownedSilkieFertilized.description>Œuf de couronne de soie géante fertilisé. Si tout va bien, il devrait éclore en couronne de soie géante. Il peut être mangé cru, mais il est bien meilleur cuit.</AA_EggGiantCrownedSilkieFertilized.description>
+
+<AA_AerofleetMeat.label>viande d'aéroglobe</AA_AerofleetMeat.label>
+<AA_AerofleetMeat.description>De la viande crue provenant d'un aéroglobe.\n\nMoelleux, gélatineux et insipide. D'une texture similaire à celle d'une méduse.</AA_AerofleetMeat.description>
+
+<AA_OcularJellyMeat.label>viande de méduse oculaire</AA_OcularJellyMeat.label>
+<AA_OcularJellyMeat.description>De la viande crue provenant d'une méduse oculaire.\n\nMoelleux, gélatineux et insipide. D'une texture similaire à celle d'une méduse.</AA_OcularJellyMeat.description>
+
+<AB_RawRedSlime.label>bave rouge crue</AB_RawRedSlime.label>
+<AB_RawRedSlime.description>De la bave rouge crue. Cette chose est comestible. A peine.</AB_RawRedSlime.description>
+
+<AA_CactusMeat.label>viande végétale</AA_CactusMeat.label>
+<AA_CactusMeat.description>Cette viande étrange est en partie végétale, en partie animale. Le moins que l'on puisse dire, c'est qu'elle est déroutante.</AA_CactusMeat.description>
+
+<AA_BlackInsectJelly.label>gelée d'insectes ruche noire</AA_BlackInsectJelly.label>
+<AA_BlackInsectJelly.description>Gelée stockée et utilisée comme nourriture par des insectes surdimensionnés. Elle est onctueuse, riche, et répond au besoin de récréation de ceux qui la consomment. Grâce à ses propriétés biologiques uniques, elle peut nourrir presque toutes les créatures et ne pourrit jamais. Cette gelée d'insecte particulière est de couleur noire et semble être plus nutritive que d'habitude.</AA_BlackInsectJelly.description>
+
+<AA_RandomStones.label>gravats aléatoire</AA_RandomStones.label>
+<AA_RandomStones.description>Cela ne devrait jamais apparaître dans le jeu. Si c'est le cas, c'est un bug.</AA_RandomStones.description>
+
+<AA_RandomBricks.label>blocs aléatoires</AA_RandomBricks.label>
+<AA_RandomBricks.description>Cela ne devrait jamais apparaître dans le jeu. Si c'est le cas, c'est un bug.</AA_RandomBricks.description>
+
+<AA_CactipineQuill.label>piquant médicinal ratactus</AA_CactipineQuill.label>
+<AA_CactipineQuill.description>Ces piquants sont enduits d'un puissant anesthésiant et peuvent être utilisés comme alternative aux herbes médicinales. Ils ne sont pas aussi puissants que les médicaments, mais sont utiles en cas d'urgence.</AA_CactipineQuill.description>
+
+<AA_BlueMilk.label>lait bleu</AA_BlueMilk.label>
+<AA_BlueMilk.description>"Lait" d'un béhémoth des neiges. Très nutritif mais la couleur est plus que troublante.</AA_BlueMilk.description>
+
+<AA_GowMilk.label>lait de vachèvre</AA_GowMilk.label>
+<AA_GowMilk.description>Le lait d'une vachèvre épineuse. Très nutritif mais sa couleur rougeâtre est un peu déstabilisante.</AA_GowMilk.description>
+
+<AA_DisgustingMealNutrientPaste.label>pâte nutritive dégoûtante</AA_DisgustingMealNutrientPaste.label>
+<AA_DisgustingMealNutrientPaste.description>Un mélange synthétique de protéines, de glucides, de vitamines, d'acides aminés et de minéraux. Tout ce dont le corps a besoin, mais c'est absolument dégoûtant. Cette pâte est encore plus dégoûtante que la pâte produite par un distributeur de pâte nutritive, et les gens détesteront littéralement de la manger. Mais c'était bon marché !\n\nCette bouillie est comestible pour les carnivores et les omnivores, mais à peine, et complètement indigeste pour les herbivores.</AA_DisgustingMealNutrientPaste.description>
+
+<AA_GallatrossHorn.label>corne de gallatross</AA_GallatrossHorn.label>
+<AA_GallatrossHorn.description>Une corne de Gallatross. Cette corne dure comme de la pierre est très précieuse, étant donné les dangers inhérents à la chasse au Gallatross, c'est une denrée rare.</AA_GallatrossHorn.description>
+<AA_GallatrossHorn.tools.point.label>pointe</AA_GallatrossHorn.tools.point.label>
+<AA_GallatrossHorn.tools.base.label>base</AA_GallatrossHorn.tools.base.label>
+
+<GU_RedWood.label>bois rouge</GU_RedWood.label>
+<GU_RedWood.description>Ce bois teinté de rouge est étrangement solide, et une odeur douce en émane. Moins inflammable que le bois terrestre, mais assez moche.</GU_RedWood.description>
+<GU_RedWood.stuffProps.stuffAdjective>bois rouge</GU_RedWood.stuffProps.stuffAdjective>
+<GU_RedWood.tools.red_wood_log.label>bûche rouge</GU_RedWood.tools.red_wood_log.label>
+
+<AA_SkySteel.label>cielacier</AA_SkySteel.label>
+<AA_SkySteel.description>Un étrange composé à base de fer trouvé dans un astéroïde écrasé. Plus fort que l'acier normal, mais un isolant horrible.</AA_SkySteel.description>
+
+<AA_UraniumCrystals.label>cristaux d'uranium non raffinés</AA_UraniumCrystals.label>
+<AA_UraniumCrystals.description>Ces cristaux peuvent être raffinés en uranium dans une raffinerie de chemfuel.</AA_UraniumCrystals.description>
+
+<AA_BlueGel.label>gel bleu</AA_BlueGel.label>
+<AA_BlueGel.description>Un résidu sirupeux extrait des aéroglobes, qui peut être raffiné en un composé dense en énergie, et potentiellement utilisé pour construire des batteries et des générateurs puissants, avec les recherches appropriées (raffinage de biocarburant pour le traiter davantage, et les batteries).</AA_BlueGel.description>
+
+<AA_Hexagel.label>hexagel</AA_Hexagel.label>
+<AA_Hexagel.description>Une variété cristallisée et condensée du gel bleu. L'hexagel est capable de stocker beaucoup plus d'énergie que son cousin non raffiné, mais il semble également assez instable. L'hexagel peut être utilisé pour construire des batteries et des générateurs puissants, avec les recherches appropriées (Batteries et Fabrication avancée).</AA_Hexagel.description>
+
+<AA_HexagelCore.label>noyau d'hexagel</AA_HexagelCore.label>
+<AA_HexagelCore.description>Un noyau énergétique de forme hexagonale composé d'un gel bleu riche en hydrogène, lui-même très instable, stabilisé dans une enveloppe d'uranium.</AA_HexagelCore.description>
+
+<AA_AgariluxRawFungus.label>agarilux cru</AA_AgariluxRawFungus.label>
+<AA_AgariluxRawFungus.description>Agarilux cru d'un Agaripod vivant, ils sont très agréables à manger, même crus.</AA_AgariluxRawFungus.description>
+
+<AA_RottingMoundItem.label>monticule de pourriture fermentée</AA_RottingMoundItem.label>
+<AA_RottingMoundItem.description>C'est un amas de matière organique en décomposition. Il a commencé à fermenter et pue la pourriture et l'alcool.</AA_RottingMoundItem.description>
+
+<AA_HugeAnimaPearl.label>énorme perle d'anima</AA_HugeAnimaPearl.label>
+<AA_HugeAnimaPearl.description>Cette énorme perle d'anima semble déborder d'une énergie vivante à peine contenue. On peut la planter et un arbre d'anima poussera à partir de celle-ci.</AA_HugeAnimaPearl.description>
+<AA_HugeAnimaPearl.comps.CompUsable.useLabel>Planter l'énorme perle d'anima</AA_HugeAnimaPearl.comps.CompUsable.useLabel>
+
+<AA_Leather_Aerofleet.label>fourrure d'aéroglobe</AA_Leather_Aerofleet.label>
+<AA_Leather_Aerofleet.description>Une couche douce et moelleuse de matériau souple. Elle n'est pas aussi résistante que les autres types de cuir, mais constitue un bon isolant.</AA_Leather_Aerofleet.description>
+
+<AA_ArcticLion_Leather.label>fourrure de lion arctique</AA_ArcticLion_Leather.label>
+<AA_ArcticLion_Leather.description>Cuir blanc épais recouvert d'un long et rude tapis de fourrure. Récoltée sur un lion arctique. Cette peau épaisse isole et protège très bien.</AA_ArcticLion_Leather.description>
+
+<AA_SandLion_Leather.label>fourrure de lion des sables</AA_SandLion_Leather.label>
+<AA_SandLion_Leather.description>Cuir épais de couleur crème, recouvert d'un long et rude tapis de fourrure. Récoltée sur un lion des sables. Cette peau épaisse isole de la chaleur et protège très bien.</AA_SandLion_Leather.description>
+
+<Leather_Chitin.label>chitine d'insecte</Leather_Chitin.label>
+<Leather_Chitin.description>Des écailles dures et superposées de chitine insectoïde. Elle est exceptionnellement résistante en combat, mais offre peu de protection contre les intempéries.</Leather_Chitin.description>
+
+<Leather_IronChitin.label>chitine de fer</Leather_IronChitin.label>
+<Leather_IronChitin.description>Des écailles super dures et superposées de chitine insectoïde. Il semble être renforcé avec une sorte de treillis de fer.</Leather_IronChitin.description>
+
+<Leather_RaptorPlates.label>chitine durcie</Leather_RaptorPlates.label>
+<Leather_RaptorPlates.description>Plaques superposées de chitine durcie. Très résistant en combat, mais offre peu de protection contre les intempéries.</Leather_RaptorPlates.description>
+
+<Leather_Cactus.label>peau végétale sensible</Leather_Cactus.label>
+<Leather_Cactus.description>Ce matériau étrange semble être à la fois une peau d'animal et un tissu végétal vivant. Il piège l'eau froide à l'intérieur, agissant comme un isolant thermique incroyablement efficace pour les climats chauds.</Leather_Cactus.description>
+
+<Leather_BlackChitin.label>chitine noire d'insecte</Leather_BlackChitin.label>
+<Leather_BlackChitin.description>Des écailles dures et superposées de chitine insectoïde. Elle est exceptionnellement résistante en combat, mais offre peu de protection contre les intempéries.</Leather_BlackChitin.description>
+
+<Leather_Gallatross.label>cuir de gallatross</Leather_Gallatross.label>
+<Leather_Gallatross.description>Cette peau de fourrure est d'une qualité exceptionnelle. Probablement l'un des meilleurs cuirs possibles sur la Bordure.</Leather_Gallatross.description>
+
+<Leather_Night.label>cuir de nocturne</Leather_Night.label>
+<Leather_Night.description>Cuir épais, plus sombre que la nuit la plus noire. Cette peau épaisse isole et protège très bien.</Leather_Night.description>
+
+<AA_ChameleonYakWoolTemperate.label>laine de yack caméléon, tempérée</AA_ChameleonYakWoolTemperate.label>
+<AA_ChameleonYakWoolTemperate.description>Une laine brune grossière avec de longues fibres. Assez solide et chaude.</AA_ChameleonYakWoolTemperate.description>
+
+<AA_ChameleonYakWoolWinter.label>laine de yack caméléon, hiver</AA_ChameleonYakWoolWinter.label>
+<AA_ChameleonYakWoolWinter.description>Une laine blanche grossière à longues fibres. Assez résistante et spécifiquement adaptée aux climats extrêmement froids.</AA_ChameleonYakWoolWinter.description>
+
+<AA_ChameleonYakWoolJungle.label>laine de yack caméléon, jungle</AA_ChameleonYakWoolJungle.label>
+<AA_ChameleonYakWoolJungle.description>Une laine verte grossière avec de longues fibres entrelacées avec une substance semblable à la kératine. Super solide, mais pas très efficace pour l'isolation.</AA_ChameleonYakWoolJungle.description>
+
+<AA_ChameleonYakWoolDesert.label>laine de yack caméléon, désert</AA_ChameleonYakWoolDesert.label>
+<AA_ChameleonYakWoolDesert.description>Une laine grossière de couleur beige avec de longues fibres et un réseau pseudo-cristallin de structures de soutien organiques en dessous. Assez solide, et très efficace pour se protéger de la chaleur du désert.</AA_ChameleonYakWoolDesert.description>
+
+<AA_CinderSilk.label>soie cendrée</AA_CinderSilk.label>
+<AA_CinderSilk.description>Cette soie est aussi solide que le synthé, et c'est aussi un excellent isolant thermique. Elle est totalement ininflammable.</AA_CinderSilk.description>
+
+<AA_MothSilk.label>soie de papillon</AA_MothSilk.label>
+<AA_MothSilk.description>Une soie très résistante extraite de papillon tineidae. Très mauvais isolant.</AA_MothSilk.description>
+
+<AA_GiantCrownedSilkieSilk.label>soie de couronne de soie géante</AA_GiantCrownedSilkieSilk.label>
+<AA_GiantCrownedSilkieSilk.description>Une soie douce produite par la couronne de soie géante. Une fois tissée, elle a une texture très similaire à celle de la laine de mouton, mais plus douce. Considérée comme un article de luxe.</AA_GiantCrownedSilkieSilk.description>
+
+<AA_GreyCoatedMouflonWool.label>laine de mouflon à poils gris</AA_GreyCoatedMouflonWool.label>
+<AA_GreyCoatedMouflonWool.description>De la laine de mouflon à poils gris. Elle assure une bonne isolation.</AA_GreyCoatedMouflonWool.description>
+
+
+
+<AA_SiegeTurret.label>tourelle de siège</AA_SiegeTurret.label>
+<AA_SiegeTurret.description>Une énorme tourelle qui tire des ogives explosives.</AA_SiegeTurret.description>
+<AA_SiegeTurret.tools.barrel.label>canon</AA_SiegeTurret.tools.barrel.label>
+<AA_SiegeTurret.verbs.Verb_Shoot.label>tourelle de siège</AA_SiegeTurret.verbs.Verb_Shoot.label>
+<AA_Bullet_Shell_Explosive.label>obus hautement explosif</AA_Bullet_Shell_Explosive.label>
+
+<AA_DemolisherCharges.label>charges de démolition</AA_DemolisherCharges.label>
+<AA_DemolisherCharges.description>Une énorme tourelle qui tire des ogives explosives.</AA_DemolisherCharges.description>
+<AA_DemolisherCharges.verbs.Verb_Shoot.label>charges de démolition</AA_DemolisherCharges.verbs.Verb_Shoot.label>
+<AA_Bullet_Shell_Demolisher.label>charge de démolition</AA_Bullet_Shell_Demolisher.label>
+
+<AA_Flamethrower.label>lance-flammes</AA_Flamethrower.label>
+<AA_Flamethrower.description>Un lance-flammes à chemfuel. De courte portée, mais il provoquera des incendies incontrôlables si vous laissez les vers de feu s'approcher.</AA_Flamethrower.description>
+<AA_Flamethrower.tools.barrel.label>canon</AA_Flamethrower.tools.barrel.label>
+<AA_Flamethrower.verbs.Verb_Shoot.label>lance-flammes</AA_Flamethrower.verbs.Verb_Shoot.label>
+<AA_FlamethrowerBullet.label>feu chemfuel</AA_FlamethrowerBullet.label>
+
+<AA_CryogenicGun.label>canon cryogénique</AA_CryogenicGun.label>
+<AA_CryogenicGun.description>Un canon cryogénique.</AA_CryogenicGun.description>
+<AA_CryogenicGun.tools.barrel.label>canon</AA_CryogenicGun.tools.barrel.label>
+<AA_CryogenicGun.verbs.Verb_Shoot.label>canon cryogénique</AA_CryogenicGun.verbs.Verb_Shoot.label>
+<AA_CryoBullet.label>granule cryogénique</AA_CryoBullet.label>
+
+
+
+<AA_Bullet_Barb.label>jet de piquant</AA_Bullet_Barb.label>
+<AA_PoisonBolt.label>crachat venimeux</AA_PoisonBolt.label>
+<AA_ToxicInk.label>crachat d'encre toxique</AA_ToxicInk.label>
+<AA_AcidBolt.label>crachat acide</AA_AcidBolt.label>
+<AA_RedPoisonBolt.label>crachat de poison rouge</AA_RedPoisonBolt.label>
+<AA_Plasma.label>explosion plasma</AA_Plasma.label>
+<AA_ElectricBolt.label>choc électrique</AA_ElectricBolt.label>
+<AA_DarkBolt.label>éclair sombre</AA_DarkBolt.label>
+<AA_WindBolt.label>coup de vent</AA_WindBolt.label>
+<AA_Quill.label>piquant</AA_Quill.label>
+<AA_Bullet_VenomBarb.label>aiguille venimeuse</AA_Bullet_VenomBarb.label>
+<AA_Bullet_Rock.label>roche</AA_Bullet_Rock.label>
+<AA_FrostWeb.label>toile de givre</AA_FrostWeb.label>
+<AA_FireWeb.label>toile de feu</AA_FireWeb.label>
+<AA_AcidicWeb.label>toile acide</AA_AcidicWeb.label>
+<AA_Web.label>toile</AA_Web.label>
+<AA_IncendiaryMote.label>crachats à détonation thermique</AA_IncendiaryMote.label>
+<AA_FrostBolt.label>éclair de givre</AA_FrostBolt.label>
+<AA_FireSpit.label>crachat de feu</AA_FireSpit.label>
+<AA_LaserBullet.label>laser</AA_LaserBullet.label>
+<AA_AcidicVomit.label>vomit acide</AA_AcidicVomit.label>
+<AA_GazeAttack.label>regard de fusion</AA_GazeAttack.label>
+<AA_Filth_BlueBlood.label>sang bleu</AA_Filth_BlueBlood.label>
+<AA_OcularGas.label>gaz oculaire</AA_OcularGas.label>
+<AA_RedGas.label>gaz rouge</AA_RedGas.label>
+<AA_SandPuff.label>particules de sable</AA_SandPuff.label>
+<AA_FrostPuff.label>air glacial</AA_FrostPuff.label>
+<AA_Filth_Slime.label>bave</AA_Filth_Slime.label>
+<AA_Filth_RedSlime.label>bave rouge</AA_Filth_RedSlime.label>
+<AA_SmokeInk.label>encre toxique en aérosol</AA_SmokeInk.label>
+
+
+
+<AA_Plant_PollenTrumpet.label>trompette à pollen</AA_Plant_PollenTrumpet.label>
+<AA_Plant_PollenTrumpet.description>Une fleur cultivée avec une structure tubulaire et des fleurs orange vif à maturité. Les trompettes à pollen sont la source de nourriture préférée des papillons impératrices.</AA_Plant_PollenTrumpet.description>
+
+<AA_Heat_Ambrosia.label>buisson d'ambroisie génétique</AA_Heat_Ambrosia.label>
+<AA_Heat_Ambrosia.description>Un buisson rare où pousse de l'ambroisie, un fruit agréable en bouche, légèrement addictif, qui procure un effet euphorisant. L'ambroisie ne peut pas être cultivée, ce qui rend les plantations d'ambroisie sauvages très précieuses.\n\nSa rareté, sa beauté et le plaisir qui en découle sont les raisons pour lesquelles l'ambroisie est appelée "la nourriture des dieux".\n\nCette plante en particulier a été génétiquement modifiée pour résister à une faible fertilité du terrain.</AA_Heat_Ambrosia.description>
+
+<AA_RottingMound.label>monticule de pourriture fermentée</AA_RottingMound.label>
+<AA_RottingMound.description>C'est un amas de matière organique en décomposition. Il a commencé à fermenter et pue la pourriture et l'alcool.</AA_RottingMound.description>
+
+<AA_AlienGrass.label>herbe alien</AA_AlienGrass.label>
+<AA_AlienGrass.description>Cette herbe est totalement extraterrestre, elle n'est probablement même pas composé à 100% de carbone, et elle semble se décomposer rapidement du fait de son exposition à un environnement terrestre.</AA_AlienGrass.description>
+
+<AA_RedLeaves.label>plante alien</AA_RedLeaves.label>
+<AA_RedLeaves.description>Cette herbe est totalement extraterrestre, elle n'est probablement même pas composé à 100% de carbone, et elle semble se décomposer rapidement du fait de son exposition à un environnement terrestre.</AA_RedLeaves.description>
+
+<AA_RedPlantsTall.label>plante alien</AA_RedPlantsTall.label>
+<AA_RedPlantsTall.description>Cette herbe est totalement extraterrestre, elle n'est probablement même pas composé à 100% de carbone, et elle semble se décomposer rapidement du fait de son exposition à un environnement terrestre.</AA_RedPlantsTall.description>
+
+<AA_AlienTree.label>arbre oculaire</AA_AlienTree.label>
+<AA_AlienTree.description>Cet arbre est totalement extraterrestre, il n'est probablement même pas composé à 100% de carbone, et il semble avoir du mal à se développer en raison de son exposition à un environnement terrestre. Des fruits étranges ressemblant à des globes oculaires sont suspendus à l'arbre, mais ils ne sont probablement pas comestibles. Son bois dégage une odeur puissante et sucrée. Peut-être peut-il être utile d'une manière ou d'une autre ?</AA_AlienTree.description>
+
+
+
+<AA_AcanthamoebaGiganteaSmall.label>acanthamoeba géante, petite</AA_AcanthamoebaGiganteaSmall.label>
+<AA_AcanthamoebaGiganteaSmall.description>Littéralement "amibe géante à pointes", cette étrange créature est un énorme organisme unicellulaire génétiquement modifié pour servir de machine de nettoyage biologique. Les acanthamoebas se nourrissent de la plupart des déchets non métalliques et se gavent au passage.\n\nAprès un certain nombre de repas, les Acanthamoebas augmentent de taille, après avoir atteint un certain seuil, ils se divisent en deux individus différents. Notez que les créatures asexuées ne peuvent pas être stérilisées.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_AcanthamoebaGiganteaSmall.description>
+<AA_AcanthamoebaGiganteaSmall.tools.pseudopods.label>pseudopods</AA_AcanthamoebaGiganteaSmall.tools.pseudopods.label>
+
+<AA_AcanthamoebaGiganteaLarge.label>acanthamoeba géante, grande</AA_AcanthamoebaGiganteaLarge.label>
+<AA_AcanthamoebaGiganteaLarge.description>Littéralement "amibe géante à pointes", cette étrange créature est un énorme organisme unicellulaire génétiquement modifié pour servir de machine de nettoyage biologique. Les acanthamoebas se nourrissent de la plupart des déchets non métalliques et se gavent au passage.\n\nAprès un certain nombre de repas, les Acanthamoebas augmentent de taille, après avoir atteint un certain seuil, ils se divisent en deux individus différents. Notez que les créatures asexuées ne peuvent pas être stérilisées.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_AcanthamoebaGiganteaLarge.description>
+<AA_AcanthamoebaGiganteaLarge.tools.pseudopods.label>pseudopods</AA_AcanthamoebaGiganteaLarge.tools.pseudopods.label>
+
+<AA_AcanthamoebaGiganteaHuge.label>acanthamoeba géante, immense</AA_AcanthamoebaGiganteaHuge.label>
+<AA_AcanthamoebaGiganteaHuge.description>Littéralement "amibe géante à pointes", cette étrange créature est un énorme organisme unicellulaire génétiquement modifié pour servir de machine de nettoyage biologique. Les acanthamoebas se nourrissent de la plupart des déchets non métalliques et se gavent au passage.\n\nAprès un certain nombre de repas, les Acanthamoebas augmentent de taille, après avoir atteint un certain seuil, ils se divisent en deux individus différents. Notez que les créatures asexuées ne peuvent pas être stérilisées.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_AcanthamoebaGiganteaHuge.description>
+<AA_AcanthamoebaGiganteaHuge.tools.pseudopods.label>pseudopods</AA_AcanthamoebaGiganteaHuge.tools.pseudopods.label>
+
+<AA_Aerofleet.label>aéroglobe</AA_Aerofleet.label>
+<AA_Aerofleet.description>Une petite créature gélatineuse flottante. Propulsées par l'hydrogène qu'elles recueillent de l'eau et de diverses matières végétales, ces créatures molles errent sur les terres, rebondissant sans but sur les objets sur leur chemin. C'est l'une des rares créatures du coin qui, étrangement, n'est pas avide de sang humain. Eh bien, n'est-ce pas agréable ?\n\nLes aéroglobes ne sont pas sexuées et se reproduisent par strobilation, une forme de reproduction asexuée. Notez que les créatures asexuées ne peuvent pas être stérilisées. En tant que créature flottante, les aéroglobes ignorent les facteurs de mouvement du terrain.\n\nLes aéroglobes produisent lentement une substance épaisse et gélatineuse connue sous le nom de Gel Bleu. Ce résidu sirupeux peut être collecté et raffiné en un composé à forte densité énergétique, et potentiellement utilisé pour construire des batteries et des générateurs puissants, avec les recherches appropriées (raffinage de biocarburant, batteries et fabrication avancée).\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_Aerofleet.description>
+<AA_Aerofleet.comps.CompAsexualReproduction.customString>Fission asexuée dans : </AA_Aerofleet.comps.CompAsexualReproduction.customString>
+<AA_Aerofleet.tools.tentacles.label>tentacules</AA_Aerofleet.tools.tentacles.label>
+
+<AA_ColossalAerofleet.label>aéroglobe colossal</AA_ColossalAerofleet.label>
+<AA_ColossalAerofleet.description>Une énorme créature gélatineuse flottante. Propulsées par l'hydrogène qu'elles recueillent de l'eau et de diverses matières végétales, ces créatures molles errent sur les terres, rebondissant sans but sur les objets sur leur chemin. C'est l'une des rares créatures par ici qui, étrangement, n'est pas avide de sang humain. Eh bien, n'est-ce pas agréable ?\n\nCette aéroglobe a atteint une taille extrême. Un petit nombre d'aéroglobes plus jeunes semblent être attirées par elle et la suivent partout.\n\nLes aéroglobes colossal produisent une substance épaisse et gélatineuse appelée Gel Bleu. Ce résidu sirupeux peut être collecté et raffiné en un composé à forte densité énergétique, et potentiellement utilisé pour construire des batteries et des générateurs puissants, avec les recherches appropriées (raffinage de biocarburants, batteries et fabrication avancée).\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_ColossalAerofleet.description>
+<AA_ColossalAerofleet.comps.CompAsexualReproduction.customString>Fission asexuée dans : </AA_ColossalAerofleet.comps.CompAsexualReproduction.customString>
+<AA_ColossalAerofleet.tools.tentacles.label>tentacules</AA_ColossalAerofleet.tools.tentacles.label>
+
+<AA_Agaripawn.label>agaripawn</AA_Agaripawn.label>
+<AA_Agaripawn.description>L'Agaripawn est une sous-espèce du Wildpawn qui a grandi dans l'environnement isolé d'une jungle mycosique. Son corps est couvert de champignons Agarilux qui semblent être en état de symbiose. Les Agaripawns sont moins résistants aux tirs que les Agaripods, et conservent la vulnérabilité au feu de leurs grands frères. Les Agaripawns se reproduisent de manière asexuée en libérant des amas de spores toutes les quelques semaines. Leurs progénitures sont donc complètement sauvages et indépendantes d'eux, sans aucun concept de parentalité. Notez que les créatures asexuées ne peuvent pas être stérilisées.\n\nBien que cela soit risqué, l'Agaripawn peut être chassé ou cultivé pour obtenir de petites quantités d'agarilux cru comestible, qui peut être mangé cru et se conserve un peu plus longtemps que le champignon ordinaire.</AA_Agaripawn.description>
+<AA_Agaripawn.comps.CompAsexualReproduction.customString>Dispersion des spores dans : </AA_Agaripawn.comps.CompAsexualReproduction.customString>
+<AA_Agaripawn.tools.left_paw.label>patte gauche</AA_Agaripawn.tools.left_paw.label>
+<AA_Agaripawn.tools.right_paw.label>patte droite</AA_Agaripawn.tools.right_paw.label>
+<AA_Agaripawn.tools.head.label>tête</AA_Agaripawn.tools.head.label>
+
+<AA_Agaripod.label>agaripod</AA_Agaripod.label>
+<AA_Agaripod.description>L'Agaripod est une sous-espèce du Wildpod qui a grandi dans l'environnement isolé d'une jungle mycosique. Son corps est recouvert de champignons Agarilux qui semblent être en état de symbiose. L'Agaripod est presque imperméable aux tirs d'armes à feu, les balles étant simplement absorbées dans sa masse sans faire beaucoup de dégâts, mais il est très vulnérable au feu. Il est intéressant de noter qu'il se reproduit de manière asexuée en libérant des amas de spores toutes les quelques semaines, de sorte que sa progéniture est complètement sauvage et indépendante de lui, sans aucun concept de parentalité. Notez que les créatures asexuées ne peuvent pas être stérilisées.\n\nBien que risqué, l'Agaripod peut être chassé ou cultivé pour obtenir des quantités décentes d'agarilux crus comestibles, qui peuvent être mangés crus et se conservent un peu plus longtemps que les champignons ordinaires.</AA_Agaripod.description>
+<AA_Agaripod.comps.CompAsexualReproduction.customString>Dispersion des spores dans : </AA_Agaripod.comps.CompAsexualReproduction.customString>
+<AA_Agaripod.tools.left_paw.label>patte gauche</AA_Agaripod.tools.left_paw.label>
+<AA_Agaripod.tools.right_paw.label>patte droite</AA_Agaripod.tools.right_paw.label>
+<AA_Agaripod.tools.head.label>tête</AA_Agaripod.tools.head.label>
+
+<AA_AngelMothLarva.label>larve de tineidae</AA_AngelMothLarva.label>
+<AA_AngelMothLarva.description>Les papillons tineidae sont de magnifiques lépidoptères qui se métamorphosent, comme d'autres papillons plus ordinaires. Les papillons tineidae sont un autre exemple d'abandon d'un projet génétique d'élimination des déchets et de libération de ses sujets dans la nature.\n\nLes larves sont plutôt craintives et inoffensives, et se contentent de grignoter de la végétation clairsemée. La forme adulte du papillon est toutefois vorace et consomme principalement sa nourriture préférée : les vêtements, en particulier ceux en laine, mais aussi de nombreuses autres fibres naturelles. S'il n'y a pas de vêtements, il dévorera à contrecœur de l'herbe. Bien qu'ils puissent être utilisés pour se débarrasser de vêtements indésirables, il est difficile de les faire trier, car ce sont des créatures assez indisciplinées.\n\nLes spécimens adultes produisent une soie qui peut être récoltée pour être utilisée comme textile, mais il faut veiller à la garder hors de portée des autres papillons, car ils la consommeront volontiers.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_AngelMothLarva.description>
+<AA_AngelMothLarva.tools.head.label>tête</AA_AngelMothLarva.tools.head.label>
+
+<AA_AngelMoth.label>papillon tineidae</AA_AngelMoth.label>
+<AA_AngelMoth.description>Les papillons tineidae sont de magnifiques lépidoptères qui se métamorphosent, comme d'autres papillons plus ordinaires. Les papillons tineidae sont un autre exemple d'abandon d'un projet génétique d'élimination des déchets et de libération de ses sujets dans la nature.\n\nLes larves sont plutôt craintives et inoffensives, et se contentent de grignoter de la végétation clairsemée. La forme adulte du papillon est toutefois vorace et consomme principalement sa nourriture préférée : les vêtements, en particulier ceux en laine, mais aussi de nombreuses autres fibres naturelles. S'il n'y a pas de vêtements, il dévorera à contrecœur de l'herbe. Bien qu'ils puissent être utilisés pour se débarrasser de vêtements indésirables, il est difficile de les faire trier, car ce sont des créatures assez indisciplinées.\n\nLes spécimens adultes produisent une soie qui peut être récoltée pour être utilisée comme textile, mais il faut veiller à la garder hors de portée des autres papillons, car ils la consommeront volontiers.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_AngelMoth.description>
+
+<AA_AnimaColossus.label>colosse d'anima</AA_AnimaColossus.label>
+<AA_AnimaColossus.description>Le colosse d'anima est une variante du colosse forêts originaire des forêts légendaires d'Anima.\n\nIl semble être de nature reptilienne, avec du sang froid, un métabolisme lent et un corps très bizarre : il a six jambes, deux épines entrelacées et six yeux. Il a une relation symbiotique avec la végétation anima, avec plusieurs arbres Anima et des champignons mystiques qui poussent sur son dos. Ces plantes semblent lui fournir de la nourriture dans une relation symbiotique avec le colosse.\n\nUne fois apprivoisé, le colosse d'anima peut être périodiquement "taillé" pour obtenir du bois. Il peut aussi, très rarement, produire une énorme perle d'anima durcie, qui peut être plantée pour faire pousser un nouvel arbre Anima (cette interaction nécessite Royalty).\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_AnimaColossus.description>
+<AA_AnimaColossus.tools.head.label>tête</AA_AnimaColossus.tools.head.label>
+
+<AA_Animalisk.label>animalisk</AA_Animalisk.label>
+<AA_Animalisk.description>L'Animalisk est une variante du Feralisk douée de psychique, probablement mutée artificiellement, adaptée à la vie dans les très rares forêts d'Anima. Les Animalisks sont la seule espèce herbivore des Lisks, ils ne sont donc pas aussi dangereux pour les colonies que le reste de leurs congénères. Ils sont cependant très friands de l'herbe et des arbres d'Anima, et en tant que tels peuvent être assez gênants s'ils ne sont pas rapidement contrôlés.\n\nLes Animalisks se défendent en lançant des toiles sur leurs harceleurs. Ces immenses toiles étourdissent tous ceux qu'elles touchent, ce qui permet à l'Animalisk de s'approcher et de finir le travail avec ses redoutables crocs couverts de venin.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_Animalisk.description>
+<AA_Animalisk.tools.left_first_leg.label>première patte gauche</AA_Animalisk.tools.left_first_leg.label>
+<AA_Animalisk.tools.right_first_leg.label>première patte droite</AA_Animalisk.tools.right_first_leg.label>
+<AA_Animalisk.tools.head.label>tête</AA_Animalisk.tools.head.label>
+<AA_Animalisk.verbs.web.label>toile</AA_Animalisk.verbs.web.label>
+
+<AA_AnimusVox.label>animus vox</AA_AnimusVox.label>
+<AA_AnimusVox.description>L'Animus Vox est un petit canidé avec des capacités psychiques. Comme tous les canidés, il est assez intelligent pour un animal, mais pas assez pour utiliser correctement les pouvoirs psychiques. Cependant, il se lie rapidement avec les êtres humains et utilise son esprit pour rendre heureux tous ceux qui le traitent bien.\n\nLes Animus Vox sont souvent vus sur la Bordure comme des animaux de compagnie, bien que certains errent dans les régions sauvages, à la recherche de quelqu'un avec qui se lier.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_AnimusVox.description>
+<AA_AnimusVox.tools.left_claw.label>griffe gauche</AA_AnimusVox.tools.left_claw.label>
+<AA_AnimusVox.tools.right_claw.label>griffe droite</AA_AnimusVox.tools.right_claw.label>
+<AA_AnimusVox.tools.head.label>tête</AA_AnimusVox.tools.head.label>
+
+<AA_ArcticLion.label>lion arctique</AA_ArcticLion.label>
+<AA_ArcticLion.description>Ces grands descendants du lion, aujourd'hui presque disparu, ont été spécialement conçus par la marine pour servir d'unités d'embuscade dans des environnements à très basse température. Sa fourrure est prisée sur le marché noir pour sa capacité unique à réfléchir la lumière et son cuir résistant offre une isolation thermique étonnamment élevée.\n\nBien que son caractère dangereux et ses capacités soient connus de tous, nombreux sont ceux qui tentent encore d'attraper sa tête. Ceux qui essaient finissent généralement par perdre la leur.\n\nConcept et art par A_Friend (aka SentientLine), l'artiste original d'Alpha Animals.</AA_ArcticLion.description>
+<AA_ArcticLion.race.meatLabel>viande de lion</AA_ArcticLion.race.meatLabel>
+<AA_ArcticLion.tools.left_claw.label>griffe gauche</AA_ArcticLion.tools.left_claw.label>
+<AA_ArcticLion.tools.right_claw.label>griffe droite</AA_ArcticLion.tools.right_claw.label>
+<AA_ArcticLion.tools.head.label>tête</AA_ArcticLion.tools.head.label>
+
+<AA_LarvalAtispec.label>larve atispec</AA_LarvalAtispec.label>
+<AA_LarvalAtispec.description>Les atispecs sont d'étranges créatures semi-insectoïdes qui subissent une métamorphose radicale, semblable à celle des anciens papillons terriens. Dans leur phase de larve, les atispecs sont fondamentalement inoffensifs : un ver de taille moyenne qui se nourrit de plantes et finit généralement par être le repas d'un prédateur. Des dizaines de milliers de larves d'atispecs éclosent chaque saison, et moins d'une douzaine parviennent à leur forme adulte.\n\nUn Atispec adulte, cependant, est une toute autre affaire : énorme, carnivore et venimeux. Les Atispecs adultes sont des prédateurs volants à l'appétit vorace, et assez intelligents. On a tenté de les domestiquer, et il s'est avéré, qu’élever les larves pendant leur phase vulnérable de deux ans n'est pas tout à fait rentable.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_LarvalAtispec.description>
+<AA_LarvalAtispec.tools.head.label>tête</AA_LarvalAtispec.tools.head.label>
+
+<AA_Atispec.label>atispec</AA_Atispec.label>
+<AA_Atispec.description>Les atispecs sont d'étranges créatures semi-insectoïdes qui subissent une métamorphose radicale, semblable à celle des anciens papillons terriens. Dans leur phase de larve, les atispecs sont fondamentalement inoffensifs : un ver de taille moyenne qui se nourrit de plantes et finit généralement par être le repas d'un prédateur. Des dizaines de milliers de larves d'atispecs éclosent chaque saison, et moins d'une douzaine parviennent à leur forme adulte.\n\nUn Atispec adulte, cependant, est une toute autre affaire : énorme, carnivore et venimeux. Les Atispecs adultes sont des prédateurs volants à l'appétit vorace, et assez intelligents. On a tenté de les domestiquer, et il s'est avéré, qu’élever les larves pendant leur phase vulnérable de deux ans n'est pas tout à fait rentable.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_Atispec.description>
+<AA_Atispec.tools.left_claw.label>griffe gauche</AA_Atispec.tools.left_claw.label>
+<AA_Atispec.tools.right_claw.label>griffe droite</AA_Atispec.tools.right_claw.label>
+
+<AA_AuroraSylph.label>aurore sylphide</AA_AuroraSylph.label>
+<AA_AuroraSylph.description>Une créature à l'aspect flou qui est le seul exemple connu de vie à base de plasma dans la Bordure : l'aurore sylphide est d'origine artificielle, et sa biologie est si étrange que seule la technologie la plus avancée du Glitterworld a pu être à l'origine de sa création. On pense que les sylphides ont été créées comme une forme de vie capable de survivre dans l'atmosphère des étoiles naines rouges, à des fins totalement inconnues. Ils ne semblent pas être affectés par la gravité, et on peut donc les retrouver coincés dans le puits de gravité d'une planète.\n\nLes sylphes sont immunisés contre les températures extrêmes, mais sont très fragiles et faciles à endommager. Ils n'ont pas besoin de manger, car ils se réapprovisionnent en énergie simplement en absorbant la lumière. S'ils sont satisfaits, ils influencent périodiquement les champs magnétiques d'une planète et provoquent de magnifiques aurores, d'où leur nom.\n\nBasé sur l'art conceptuel de Maugryph, https://maugryph.com.\n\nArt par AetherealVanguard consultez son Instagram : https://www.instagram.com/aethereaii/).</AA_AuroraSylph.description>
+<AA_AuroraSylph.comps.CompAutoNutrition.consumingFoodReportString>Absorbing sunlight</AA_AuroraSylph.comps.CompAutoNutrition.consumingFoodReportString>
+
+<AA_Barbslinger.label>lance-aiguillon</AA_Barbslinger.label>
+<AA_Barbslinger.description>Un grand scorpion génétiquement modifié. Personne ne sait vraiment d'où il vient, mais à en juger par sa capacité à déchiqueter les êtres vivants à sa portée et à faire des chiche-kebabs avec ceux qui sont hors de sa portée, c'est un monstre fait pour la guerre.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_Barbslinger.description>
+<AA_Barbslinger.tools.left_pincer.label>pince gauche</AA_Barbslinger.tools.left_pincer.label>
+<AA_Barbslinger.tools.right_pincer.label>pince droite</AA_Barbslinger.tools.right_pincer.label>
+<AA_Barbslinger.tools.head.label>tête</AA_Barbslinger.tools.head.label>
+<AA_Barbslinger.verbs.barbed_quills.label>piquants acérés</AA_Barbslinger.verbs.barbed_quills.label>
+
+<AA_BedBug.label>mégapunaise</AA_BedBug.label>
+<AA_BedBug.description>Ces insectes surdimensionnés sont considérés comme des parasites et des nuisances dans tous les pays qu'ils parviennent à infester. Bien qu'ils ne soient pas particulièrement dangereux ou puissants par eux-mêmes, leur morsure est porteuse d'une puissante toxine qui paralyse leur proie, de sorte qu'une petite morsure suffit à terrasser des proies bien plus grandes qu'eux. Heureusement, les humains sont bien trop grands pour eux, à moins qu'ils ne soient enragés au-delà de toute raison... Les chasseurs doivent se méfier de ne pas s'attaquer seuls à une mégapunaise !\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_BedBug.description>
+<AA_BedBug.tools.mandibles.label>mandibules</AA_BedBug.tools.mandibles.label>
+<AA_BedBug.tools.head.label>tête</AA_BedBug.tools.head.label>
+
+<AA_BlackScarab.label>mégascarabée noir</AA_BlackScarab.label>
+<AA_BlackScarab.description>Ce mégascarabée noir génétiquement modifié fait partie de la Ruche Noire, un écosystème artificiel d'insectoïdes conçu pour lutter contre les invasions mécanoïdes. La Ruche Noire a été conçue pour être beaucoup plus agressive que d'habitude, et plusieurs nouvelles espèces ont été créées et ajoutées à la Ruche pour augmenter sa létalité. Les mégascarabées noirs ne sont guère plus que de la chair à canon, lâchés devant la horde principale d'insectoïdes pour attirer le feu ennemi. C'est une créature eusociale qui ne peut pas survivre seule.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_BlackScarab.description>
+<AA_BlackScarab.tools.mandibles.label>mandibules</AA_BlackScarab.tools.mandibles.label>
+<AA_BlackScarab.tools.head.label>tête</AA_BlackScarab.tools.head.label>
+
+<AA_BlackSpelopede.label>spélopède noir</AA_BlackSpelopede.label>
+<AA_BlackSpelopede.description>Un insectoïde génétiquement modifié de la taille d'un mouton, qui fait partie de la Ruche Noire, un écosystème artificiel d'insectoïdes conçu pour lutter contre les invasions mécanoïdes. La Ruche Noire a été conçue pour être beaucoup plus agressive que d'habitude, et plusieurs nouvelles espèces ont été créées et ajoutées à la Ruche pour augmenter sa létalité. Le spélopède est la caste intermédiaire d'une ruche, s'occupant de la plupart des tâches de travail ainsi que du combat avec ses griffes excavatrices. Il est dangereux au combat, mais lent sur le terrain découvert.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_BlackSpelopede.description>
+<AA_BlackSpelopede.tools.head_claw.label>griffe de tête</AA_BlackSpelopede.tools.head_claw.label>
+<AA_BlackSpelopede.tools.head.label>tête</AA_BlackSpelopede.tools.head.label>
+<AA_BlackSpelopede.verbs.venomous_spit.label>crachat venimeux</AA_BlackSpelopede.verbs.venomous_spit.label>
+
+<AA_BlackSpider.label>mégaraignée noire</AA_BlackSpider.label>
+<AA_BlackSpider.description>La mégaraignée noire n'est pas vraiment une araignée, mais un insectoïde géant génétiquement conçu, de la taille d'un ours. Cette créature fait partie de la Ruche Noire, un écosystème artificiel d'insectoïdes conçu pour combattre les invasions mécanoïdes. La Ruche Noire a été conçue pour être beaucoup plus agressive que d'habitude, et plusieurs nouvelles espèces ont été créées et ajoutées à la Ruche pour augmenter sa létalité. Conçue pour les travaux lourds et le combat, son épaisse armure chitineuse la rend difficile à tuer, tandis que ses longues lames déchirantes la rendent mortelle au corps à corps.\n\nArt par Gon (voir plus : https://twitter.com/GON_again).</AA_BlackSpider.description>
+<AA_BlackSpider.tools.head_claw.label>griffe de tête</AA_BlackSpider.tools.head_claw.label>
+<AA_BlackSpider.tools.head.label>tête</AA_BlackSpider.tools.head.label>
+<AA_BlackSpider.verbs.venomous_spit.label>crachat venimeux</AA_BlackSpider.verbs.venomous_spit.label>
+
+<AA_Blizzarisk.label>blizzarisk</AA_Blizzarisk.label>
+<AA_Blizzarisk.description>Quelqu'un a un jour pensé que créer des araignées surdimensionnées pour la production de toiles hyperfibres était une bonne idée. Leur planète d'origine est maintenant réduite en un monde de marbre, un monde complètement purgé par le feu atomique. Le Blizzarisk est une variante mutante du Feralisk qui s'est adaptée aux climats extrêmement froids.\n\nLes blizzarisks attaquent en lançant des toiles sur leurs proies. Ces immenses toiles étourdissent et gèlent tous ceux qu'elles touchent, ce qui permet au Blizzarisk de se rapprocher et de finir le travail avec ses redoutables crocs couverts de venin.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_Blizzarisk.description>
+<AA_Blizzarisk.tools.left_first_leg.label>première patte gauche</AA_Blizzarisk.tools.left_first_leg.label>
+<AA_Blizzarisk.tools.right_first_leg.label>première patte droite</AA_Blizzarisk.tools.right_first_leg.label>
+<AA_Blizzarisk.tools.head.label>tête</AA_Blizzarisk.tools.head.label>
+<AA_Blizzarisk.verbs.frost_web.label>toile de givre</AA_Blizzarisk.verbs.frost_web.label>
+
+<AA_BlizzariskClutchMother.label>blizzarisk mère porteuse</AA_BlizzariskClutchMother.label>
+<AA_BlizzariskClutchMother.description>Quelqu'un a un jour pensé que créer des araignées surdimensionnées pour la production de toiles hyperfibres était une bonne idée. Leur planète d'origine est maintenant réduite en un monde de marbre, un monde complètement purgé par le feu atomique. Le Blizzarisk est une variante mutante du Feralisk qui s'est adaptée aux climats extrêmement froids.\n\nLes blizzarisks attaquent en lançant des toiles sur leurs proies. Ces immenses toiles étourdissent et gèlent tous ceux qu'elles touchent, ce qui permet au Blizzarisk de se rapprocher et de finir le travail avec ses redoutables crocs couverts de venin.\n\nCe Blizzarisk semble être d'une taille beaucoup plus grande que d'habitude, et porte une couvée d'œufs sur son dos. Cela semble être une solution pour un désastre si on ne s'en occupe pas rapidement.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_BlizzariskClutchMother.description>
+<AA_BlizzariskClutchMother.tools.left_first_leg.label>première patte gauche</AA_BlizzariskClutchMother.tools.left_first_leg.label>
+<AA_BlizzariskClutchMother.tools.right_first_leg.label>première patte droite</AA_BlizzariskClutchMother.tools.right_first_leg.label>
+<AA_BlizzariskClutchMother.tools.head.label>tête</AA_BlizzariskClutchMother.tools.head.label>
+<AA_BlizzariskClutchMother.verbs.Verb_Shoot.label>blizzarisk mère porteuse</AA_BlizzariskClutchMother.verbs.Verb_Shoot.label>
+
+<AA_BloodShrimp.label>crevette de sang</AA_BloodShrimp.label>
+<AA_BloodShrimp.description>Petite cousine de la crevette raptor, la crevette de sang n'a pas les impressionnantes capacités de régénération de sa grande cousine. Les crevettes de sang compensent ce désavantage en étant plus rapides et plus agiles.\n\nLes crevettes de sang sont vampiriques, se nourrissent de sang et sont capables de régénérer leurs blessures en buvant le sang d'animaux vivants.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_BloodShrimp.description>
+<AA_BloodShrimp.tools.head.label>tête</AA_BloodShrimp.tools.head.label>
+<AA_BloodShrimp.tools.left_blade.label>lame gauche</AA_BloodShrimp.tools.left_blade.label>
+<AA_BloodShrimp.tools.right_blade.label>lame droite</AA_BloodShrimp.tools.right_blade.label>
+
+<AA_BoulderMit.label>pagure rocher</AA_BoulderMit.label>
+<AA_BoulderMit.description>Un grand pagure génétiquement modifié qui utilise un rocher comme carapace. Il est également connu sous le nom de pagure de l'Atlas sur diverses planètes colonisées. Ces créatures massives sont dotées d'une force incroyable et on les voit souvent transporter des rochers géants qui écraseraient normalement les êtres vivants et les machines. Les légendes parlent d'une telle créature qui est devenue si grande et si puissante qu'elle avait une montagne entière pour maison.\n\nMalgré les premières impressions, il est plutôt pacifique, préférant ignorer toute forme d'agression qu'il pourrait recevoir. Ses prédateurs ont plus de chances de mourir de vieillesse que de venir à bout d'une telle créature blindée.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_BoulderMit.description>
+<AA_BoulderMit.race.meatLabel>viande de pagure</AA_BoulderMit.race.meatLabel>
+<AA_BoulderMit.tools.head.label>tête</AA_BoulderMit.tools.head.label>
+
+<AA_SummitCrab.label>pagure montagne</AA_SummitCrab.label>
+<AA_SummitCrab.description>Les légendes parlent d'un grand pagure qui était devenu si grand et si puissant qu'il avait une montagne entière pour maison.\n\nCelui-ci n'est probablement pas le seul à l'origine de ces contes, mais il est un bon exemple de créature dont vous ne voulez certainement pas croiser le chemin.</AA_SummitCrab.description>
+<AA_SummitCrab.tools.head.label>tête</AA_SummitCrab.tools.head.label>
+
+<AA_Bumbledrone.label>bourdondrone</AA_Bumbledrone.label>
+<AA_Bumbledrone.description>Le bourdondrone est une créature mutante ressemblant à une guêpe, probablement le résultat d'une ancienne manipulation génétique relâchée depuis longtemps dans la nature. En soi, un bourdondrone n'est pas très puissant, plus une nuisance qu'une menace, mais s'il est menacé en grand nombre, son dard porte une toxine très puissante qui pourrait terrasser même le plus grand des ennemis. "Heureusement", comme ils ne sont pas carnivores, ils l'utilisent comme moyen de dissuasion plutôt que comme méthode de chasse. En tant que créature volante, les bourdondrones ignorent les facteurs de déplacement du terrain.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_Bumbledrone.description>
+<AA_Bumbledrone.tools.claws.label>griffes</AA_Bumbledrone.tools.claws.label>
+
+<AA_BumbledroneHierophant.label>bourdondrone hiérophante</AA_BumbledroneHierophant.label>
+<AA_BumbledroneHierophant.description>Le bourdondrone est une créature mutante ressemblant à une guêpe, probablement le résultat d'une ancienne manipulation génétique relâchée depuis longtemps dans la nature. En soi, un bourdondrone n'est pas très puissant, plus une nuisance qu'une menace, mais s'il est menacé en grand nombre, son dard porte une toxine très puissante qui pourrait terrasser même le plus grand des ennemis. "Heureusement", comme ils ne sont pas carnivores, ils l'utilisent comme moyen de dissuasion plutôt que comme méthode de chasse. En tant que créature volante, les bourdondrones ignorent les facteurs de déplacement du terrain.\n\nCe bourdondrone plus grand que la moyenne est appelé un "hiérophante". Chaque colonie de bourdondrones compte quelques drones qui se développent pour devenir de puissantes machines à tuer. Outre leur vilain venin, les hiérophantes sont armés d'une paire de griffes vicieuses qui s'occupent rapidement de tous les ennemis de la colonie.</AA_BumbledroneHierophant.description>
+<AA_BumbledroneHierophant.tools.claws.label>griffes</AA_BumbledroneHierophant.tools.claws.label>
+
+<AA_BumbledroneQueen.label>reine bourdondrone</AA_BumbledroneQueen.label>
+<AA_BumbledroneQueen.description>Le bourdondrone est une créature mutante ressemblant à une guêpe, probablement le résultat d'une ancienne manipulation génétique relâchée depuis longtemps dans la nature. En soi, un bourdondrone n'est pas très puissant, plus une nuisance qu'une menace, mais s'il est menacé en grand nombre, son dard porte une toxine très puissante qui pourrait terrasser même le plus grand des ennemis. "Heureusement", comme ils ne sont pas carnivores, ils l'utilisent comme moyen de dissuasion plutôt que comme méthode de chasse.\n\nCe bourdondrone en particulier semble être une "reine", ainsi appelée car elle semble pondre des œufs desquels d'autres bourdondrones peuvent éclore. Elle a tendance à le faire surtout une fois qu'elle s'est installée dans un environnement qu'elle considère comme sûr, et elle pourrait donc être un atout très utile pour l'apprivoiser.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_BumbledroneQueen.description>
+<AA_BumbledroneQueen.tools.claws.label>griffes</AA_BumbledroneQueen.tools.claws.label>
+
+<AA_Cactipine.label>ratactus</AA_Cactipine.label>
+<AA_Cactipine.description>Dans un effort pour rendre les déserts plus viables pour la colonisation, les scientifiques ont introduit une variété de créatures génétiquement modifiées qui sont faites pour survivre à la chaleur écrasante et fournir de la nourriture à ceux qui souhaitent vivre dans des conditions aussi difficiles. L'une de ces créatures est le ratactus. Malgré son nom, il s'agit en fait d'un rat géant auquel on a insufflé l'ADN d'un cactus. Le spécimen s'est ainsi doté de piquants médicaux acérés, d'une peau verte durcie et d'une "viande" au goût étrange qui déroute aussi bien les végétariens que les carnivores.</AA_Cactipine.description>
+<AA_Cactipine.tools.left_claw.label>griffe gauche</AA_Cactipine.tools.left_claw.label>
+<AA_Cactipine.tools.right_claw.label>griffe droite</AA_Cactipine.tools.right_claw.label>
+
+<AA_ChameleonYak.label>yack caméléon</AA_ChameleonYak.label>
+<AA_ChameleonYak.description>Le yack caméléon est un bovidé domestique à poils longs qui a développé un mécanisme de survie fascinant impliquant le camouflage, similaire à la façon dont un caméléon change la couleur de sa peau en réponse à différents stimuli. Le yack caméléon va encore plus loin en modifiant son métabolisme en fonction de l'environnement dans lequel il vit.\n\nLes yacks caméléons modifient leur tolérance à la température en fonction de leur environnement, et produisent même différents types de laine. Ce changement se produit au niveau cellulaire et il est très rapide, et ne nuit pas à l'animal.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_ChameleonYak.description>
+<AA_ChameleonYak.tools.head.label>tête</AA_ChameleonYak.tools.head.label>
+<AA_ChameleonYak.tools.left_hoof.label>sabot gauche</AA_ChameleonYak.tools.left_hoof.label>
+<AA_ChameleonYak.tools.right_hoof.label>sabot droit</AA_ChameleonYak.tools.right_hoof.label>
+
+<AA_ChemfuelMyrmidon.label>chemfuel myrmidon</AA_ChemfuelMyrmidon.label>
+<AA_ChemfuelMyrmidon.description>Cette créature ressemblant à une fourmi a été créée pour remplacer l'omniprésente boomalope. Les myrmidons consomment de la viande et des légumes et les font fermenter en un puissant mélange de carburant chimique, qui peut être extrait périodiquement de l'animal. Contrairement au boomalope, les myrmidons sont assez résistants aux dégâts, notamment ceux causés par des températures élevées. Ils sont parfaitement satisfaits de vivre dans un sol semi-liquide rougeoyant.\n\nMalheureusement, leur tempérament inflexible ne les a pas rendus aussi populaires que leurs prédécesseurs plus fragiles.</AA_ChemfuelMyrmidon.description>
+<AA_ChemfuelMyrmidon.tools.head_claw.label>griffe de tête</AA_ChemfuelMyrmidon.tools.head_claw.label>
+<AA_ChemfuelMyrmidon.tools.head.label>tête</AA_ChemfuelMyrmidon.tools.head.label>
+
+<AA_Cinderlisk.label>cendrelisk</AA_Cinderlisk.label>
+<AA_Cinderlisk.description>Probablement la plus dangereuse des variantes de Feralisk, la cendrelisk est une énorme araignée adaptée à la vie près des cratères de volcans endormis. Créée à l'origine pour être exploitée pour sa soie durable et résistante à la chaleur, mais une fois échappée dans la nature, elle a commencé à se multiplier de façon incontrôlable.\n\nLes cendrelisks attaquent en lançant des toiles sur leurs proies. Ces immenses toiles étourdissent et brûlent tous ceux qu'elles touchent, ce qui permet au cendrelisk de s'approcher et de finir le travail avec ses redoutables crocs. Leurs crocs sont également brûlants et ils ont donc tendance à mettre le feu aux objets.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_Cinderlisk.description>
+<AA_Cinderlisk.tools.left_first_leg.label>première patte gauche</AA_Cinderlisk.tools.left_first_leg.label>
+<AA_Cinderlisk.tools.right_first_leg.label>première patte droite</AA_Cinderlisk.tools.right_first_leg.label>
+<AA_Cinderlisk.tools.head.label>tête</AA_Cinderlisk.tools.head.label>
+<AA_Cinderlisk.verbs.fire_web.label>toile de feu</AA_Cinderlisk.verbs.fire_web.label>
+
+<AA_CrepuscularBeetle.label>scarabée nocturne</AA_CrepuscularBeetle.label>
+<AA_CrepuscularBeetle.description>Très grand arthropode rappelant un scarabée hercule surdimensionné, le scarabée nocturne est un herbivore pacifique originaire d'un mystérieux Rimworld orbitant autour d'une étoile très faible, perpétuellement couverte d'obscurité. C'était la planète d'origine d'une race insaisissable connue sous le nom de Forsakens, et les scarabées nocturnes étaient souvent utilisés comme bêtes de somme domestiquées.\n\nLes scarabées nocturnes sont actifs au crépuscule. Ils n'ont pas non plus besoin de beaucoup de repos, prenant beaucoup moins de temps que les autres créatures pour reconstituer leurs énergies.</AA_CrepuscularBeetle.description>
+<AA_CrepuscularBeetle.tools.head_claw.label>griffe de tête</AA_CrepuscularBeetle.tools.head_claw.label>
+<AA_CrepuscularBeetle.tools.head.label>tête</AA_CrepuscularBeetle.tools.head.label>
+
+<AA_CrescendoAnole.label>anole crescendo</AA_CrescendoAnole.label>
+<AA_CrescendoAnole.description>La plupart du temps, l'anole crescendo est un lézard iguane inoffensif qui se nourrit de végétation et de petits arthropodes. Il est exceptionnellement intelligent et peut être gardé comme animal de compagnie. Cependant, lorsque l'anole devient agressif de quelque manière que ce soit, généralement pour se défendre, un cocktail instable d'hormones de croissance et de mécanismes biomécaniques provoque une croissance effrénée des cellules de la créature, la transformant en un crocodilien imposant et cauchemardesque.\n\nCet effet est temporaire, il ne dure que quelques heures, et l'anole doit ensuite récupérer ses forces pour pouvoir recommencer, devenant entre-temps extrêmement affamé.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_CrescendoAnole.description>
+<AA_CrescendoAnole.tools.left_claw.label>griffe gauche</AA_CrescendoAnole.tools.left_claw.label>
+<AA_CrescendoAnole.tools.right_claw.label>griffe droite</AA_CrescendoAnole.tools.right_claw.label>
+<AA_CrescendoAnole.tools.head.label>tête</AA_CrescendoAnole.tools.head.label>
+
+<AA_CrystallineCaracal.label>caracal cristallin</AA_CrystallineCaracal.label>
+<AA_CrystallineCaracal.description>Chat sauvage de taille moyenne fortement modifié, le caracal cristallin peut souvent être vu en train de paresser au soleil, rechargeant ses énergies internes. Il peut ensuite utiliser cette énergie stockée pour libérer une puissante explosion de lumière concentrée. Typiquement nocturne, le caracal cristallin est très discret et difficile à observer. Il est territorial, et vit principalement seul ou en couple.\n\nContrairement à d'autres créatures purement photosynthétiques, le caracal peut également chasser de petites proies, et il a besoin des deux types de subsistance pour survivre.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_CrystallineCaracal.description>
+<AA_CrystallineCaracal.tools.left_claw.label>griffe gauche</AA_CrystallineCaracal.tools.left_claw.label>
+<AA_CrystallineCaracal.tools.right_claw.label>griffe droite</AA_CrystallineCaracal.tools.right_claw.label>
+<AA_CrystallineCaracal.tools.head.label>tête</AA_CrystallineCaracal.tools.head.label>
+<AA_CrystallineCaracal.verbs.laser.label>laser</AA_CrystallineCaracal.verbs.laser.label>
+
+<AA_CrystalMit.label>pagure cristal</AA_CrystalMit.label>
+<AA_CrystalMit.description>Un pagure cristal est un pagure caillou qui a été génétiquement modifié pour se nourrir de minéraux. La biologie du pagure cristal est en partie basée sur le silicium, ce qui lui permet de se nourrir de roches éparpillées.\n\nLe pagure cristal a été créé comme un moyen rapide d'éliminer les gravats de roche des opérations minières, mais les sauvages peuvent s'avérer être une nuisance pour les colonies qui préfèrent utiliser les roches à des fins utiles.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_CrystalMit.description>
+<AA_CrystalMit.tools.head.label>tête</AA_CrystalMit.tools.head.label>
+
+<AA_Darkbeast.label>créature sombre</AA_Darkbeast.label>
+<AA_Darkbeast.description>La créature sombre est une variante de la créature du tonnerre, dans laquelle les organes bioélectriques ont été retirés et remplacés par des pointes métalliques abritant un nuage de mécanites bloquant le soleil.\n\nCes nuages de mécanites déployables peuvent couvrir une immense région, l'enveloppant dans l'obscurité, on pense que la créature sombre a été créée comme une arme terroriste qui attaque les colonies en les privant de la lumière du soleil, affectant ainsi leurs rendements agricoles. Les créatures sombres ont naturellement évolué au fil des siècles, ce qui les rend extrêmement instables, et libèrent un nuage de mécanites à leur mort. Heureusement, les prédateurs les laissent généralement tranquilles.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_Darkbeast.description>
+<AA_Darkbeast.tools.horn.label>corne</AA_Darkbeast.tools.horn.label>
+<AA_Darkbeast.tools.head.label>tête</AA_Darkbeast.tools.head.label>
+<AA_Darkbeast.verbs.dark_bolt.label>éclair sombre</AA_Darkbeast.verbs.dark_bolt.label>
+
+<AA_DecayDrake.label>drake pourriture</AA_DecayDrake.label>
+<AA_DecayDrake.description>Les Drakes pourriture sont de grands lézards ailés qui ne volent pas et qui vivent dans des endroits où la végétation est abondante. Bien que les drakes soient carnivores, ils libèrent un cocktail nauséabond de phéromones volatiles qui accélèrent rapidement le processus de décomposition des plantes, transformant la végétation autour d'eux en monticules de matière organique fermentée. Ils les consomment plutôt que de chasser de la viande fraîche, et sont généralement très ivres au cours du processus. Il est intéressant de noter que la créature possède quatre foies distincts afin de traiter les énormes quantités d'alcool.\n\nIls ne sont pas faciles à domestiquer, mais s'ils peuvent être contraints d'accepter les humains, ils pourraient être des compagnons de chasse utiles, surtout si on leur fournit de l'alcool...\n\nLes êtres humains sont connus pour consommer la végétation pourrie dans les moments désespérés, mais la plupart des gens préfèrent mourir de faim.</AA_DecayDrake.description>
+<AA_DecayDrake.tools.left_claw.label>griffe gauche</AA_DecayDrake.tools.left_claw.label>
+<AA_DecayDrake.tools.right_claw.label>griffe droite</AA_DecayDrake.tools.right_claw.label>
+<AA_DecayDrake.tools.razorfangs.label>crocs rasoir</AA_DecayDrake.tools.razorfangs.label>
+<AA_DecayDrake.tools.head.label>tête</AA_DecayDrake.tools.head.label>
+
+<AA_DesertAve.label>ave du désert</AA_DesertAve.label>
+<AA_DesertAve.description>L'ave du désert est un grand oiseau incapable de voler, adapté à la vie sur des terrains très arides. De grandes plaques osseuses recouvrent son cou, lui offrant une défense indispensable contre les prédateurs et la chaleur brûlante du soleil du désert. Comparés à leurs cousins plus communs, les aves des prairies, les aves du désert sont moins capricieux, mais leur taille légèrement plus petite les rend moins utiles comme animaux de somme.\n\nLes aves du désert sont des montures extraordinaires, bien plus rapides que les chevaux, et s'ils sont correctement entraînés, ils peuvent être montés au combat à des vitesses incroyables (cette interaction nécessite le mod Giddy-Up, combat mounts, qui permet aux aves du désert de se déplacer 50 % plus vite lorsqu'ils sont utilisés comme montures).\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_DesertAve.description>
+<AA_DesertAve.tools.claws.label>griffes</AA_DesertAve.tools.claws.label>
+<AA_DesertAve.tools.head.label>tête</AA_DesertAve.tools.head.label>
+
+<AA_DevilSheep.label>mouton diabledeau</AA_DevilSheep.label>
+<AA_DevilSheep.description>Un mouton génétiquement modifié capable de produire une laine rouge extrêmement résistante et précieuse. Certains y voient un simple bétail ; d'autres, une entité démoniaque de corruption. N'écoutez pas ses murmures. Comme pour le diabledeau, ces moutons mettent un certain temps à produire le tissu, mais ils peuvent être facilement élevés pour augmenter la production si nécessaire.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_DevilSheep.description>
+<AA_DevilSheep.tools.left_hoof.label>sabot gauche</AA_DevilSheep.tools.left_hoof.label>
+<AA_DevilSheep.tools.right_hoof.label>sabot droit</AA_DevilSheep.tools.right_hoof.label>
+<AA_DevilSheep.tools.head.label>tête</AA_DevilSheep.tools.head.label>
+
+<AA_DrainerLarva.label>larve de draineur</AA_DrainerLarva.label>
+<AA_DrainerLarva.description>Un lépidoptère de la taille d'un chat, pratiquement inoffensif, aux ailes de couleur vive. Les draineurs étaient à l'origine des papillons morpho bleus qui ont muté suite à une exposition à des niveaux élevés de radiations sur une misérable planète de la Bordure. Bien qu'ils puissent se nourrir d'herbe s'il n'y a pas d'autre nourriture disponible, ils sont en fait des électrovores, se nourrissant de toute source d'électricité disponible. Malheureusement pour les colonies de la Bordure, cela signifie les batteries...\n\nLes draineurs se métamorphosent comme la plupart des autres lépidoptères, bien que leur stade de larve soit assez court et qu'ils n'aient pas les capacités de drainage d'énergie des adultes.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_DrainerLarva.description>
+<AA_DrainerLarva.tools.head.label>tête</AA_DrainerLarva.tools.head.label>
+
+<AA_Drainer.label>draineur</AA_Drainer.label>
+<AA_Drainer.description>Un lépidoptère de la taille d'un chat, pratiquement inoffensif, aux ailes de couleur vive. Les draineurs étaient à l'origine des papillons morpho bleus qui ont muté suite à une exposition à des niveaux élevés de radiations sur une misérable planète de la Bordure. Bien qu'ils puissent se nourrir d'herbe s'il n'y a pas d'autre nourriture disponible, ils sont en fait des électrovores, se nourrissant de toute source d'électricité disponible. Malheureusement pour les colonies de la Bordure, cela signifie les batteries...\n\nLes draineurs se métamorphosent comme la plupart des autres lépidoptères, bien que leur stade de larve soit assez court et qu'ils n'aient pas les capacités de drainage d'énergie des adultes.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_Drainer.description>
+
+<AA_Dunealisk.label>dunealisk</AA_Dunealisk.label>
+<AA_Dunealisk.description>Quelqu'un a pensé que créer des araignées surdimensionnées pour la production de fils synthétiques était une bonne idée. Leur planète d'origine est maintenant réduite en un monde de marbre, un monde complètement purgé par le feu atomique. Le Dunealisk est une variante mutante du Feralisk qui s'est adaptée aux climats extrêmement chauds.\n\nLes Dunealisks attaquent en lançant des toiles d'araignée sur leurs proies. Ces immenses toiles étourdissent et brûlent tous ceux qu'elles touchent, permettant au Dunealisk de s'approcher et de finir le travail avec ses redoutables crocs couverts de venin.</AA_Dunealisk.description>
+<AA_Dunealisk.tools.left_first_leg.label>première patte gauche</AA_Dunealisk.tools.left_first_leg.label>
+<AA_Dunealisk.tools.right_first_leg.label>première patte droite</AA_Dunealisk.tools.right_first_leg.label>
+<AA_Dunealisk.tools.head.label>tête</AA_Dunealisk.tools.head.label>
+<AA_Dunealisk.verbs.fire_web.label>toile de feu</AA_Dunealisk.verbs.fire_web.label>
+
+<AA_DunealiskClutchMother.label>dunealisk mère porteuse</AA_DunealiskClutchMother.label>
+<AA_DunealiskClutchMother.description>Quelqu'un a pensé que créer des araignées surdimensionnées pour la production de fils synthétiques était une bonne idée. Leur planète d'origine est maintenant réduite en un monde de marbre, un monde complètement purgé par le feu atomique. Le Dunealisk est une variante mutante du Feralisk qui s'est adaptée aux climats extrêmement chauds.\n\nLes Dunealisks attaquent en lançant des toiles d'araignée sur leurs proies. Ces immenses toiles étourdissent et brûlent tous ceux qu'elles touchent, permettant au Dunealisk de s'approcher et de finir le travail avec ses redoutables crocs couverts de venin.\n\nCe Dunealisk semble être d'une taille beaucoup plus grande que d'habitude, et porte une couvée d'œufs sur son dos. Cela semble être une solution pour un désastre si on ne s'en occupe pas rapidement.</AA_DunealiskClutchMother.description>
+<AA_DunealiskClutchMother.tools.left_first_leg.label>première patte gauche</AA_DunealiskClutchMother.tools.left_first_leg.label>
+<AA_DunealiskClutchMother.tools.right_first_leg.label>première patte droite</AA_DunealiskClutchMother.tools.right_first_leg.label>
+<AA_DunealiskClutchMother.tools.head.label>tête</AA_DunealiskClutchMother.tools.head.label>
+<AA_DunealiskClutchMother.verbs.Verb_Shoot.label>dunealisk mère porteuse</AA_DunealiskClutchMother.verbs.Verb_Shoot.label>
+
+<AA_DuskRat.label>rat nocturne</AA_DuskRat.label>
+<AA_DuskRat.description>Rongeur largement détesté, connu pour salir les cuisines et propager des maladies, le rat a tendance à suivre l'homme partout où il va. Il mange presque tout et vit presque partout.\n\nCe rat semble être très différent des autres rats. C'est un animal purement nocturne, et il a quatre yeux brillants.</AA_DuskRat.description>
+<AA_DuskRat.tools.left_claw.label>griffe gauche</AA_DuskRat.tools.left_claw.label>
+<AA_DuskRat.tools.right_claw.label>griffe droite</AA_DuskRat.tools.right_claw.label>
+<AA_DuskRat.tools.head.label>tête</AA_DuskRat.tools.head.label>
+
+<AA_EmpressButterflyLarva.label>larve de papillon impératrice</AA_EmpressButterflyLarva.label>
+<AA_EmpressButterflyLarva.description>Le papillon impératrice est originaire d'un type de planète extrêmement rare - un paradis Glitterworld. Ces planètes ont atteint un niveau de technologie extrême, mais leurs habitants sont très sensibles sur le plan psychique et utilisent leur technologie pour compenser tout impact qu'ils pourraient avoir sur l'écosystème de la planète et donc sur l'anima. Le papillon impératrice a été conçu comme le pollinisateur parfait, recueillant le pollen de plantes génétiquement modifiées qui augmentent la fertilité du terrain environnant et le libérant à proximité.\n\nLes larves de cette espèce sont petites, lentes et pratiquement inutiles, mais elles n'ont pas de contraintes alimentaires particulières.</AA_EmpressButterflyLarva.description>
+<AA_EmpressButterflyLarva.tools.head.label>tête</AA_EmpressButterflyLarva.tools.head.label>
+
+<AA_EmpressButterfly.label>papillon impératrice</AA_EmpressButterfly.label>
+<AA_EmpressButterfly.description>Le papillon impératrice est originaire d'un type de planète extrêmement rare - un paradis Glitterworld. Ces planètes ont atteint un niveau de technologie extrême, mais leurs habitants sont très sensibles sur le plan psychique et utilisent leur technologie pour compenser tout impact qu'ils pourraient avoir sur l'écosystème de la planète et donc sur l'anima. Le papillon impératrice a été conçu comme le pollinisateur parfait, recueillant le pollen de plantes génétiquement modifiées qui augmentent la fertilité du terrain environnant et le libérant à proximité.\n\nLes papillons impératrices adultes ont des contraintes alimentaires strictes, car elles exigent un type de nourriture très spécifique : les fleurs de la plante connue sous le nom de trompette à pollen, une plante décorative à longue durée de vie qui a été créée pour être en symbiose avec le papillon. S'ils ne trouvent pas de trompettes à pollen à proximité, ils se rabattent à contrecœur sur d'autres plantes agricoles proches, annulant ainsi leur utilité pour la colonie. Une bonne réserve de trompettes à pollen matures sera nécessaire si vous ne voulez pas que le papillon anéantisse complètement vos cultures.</AA_EmpressButterfly.description>
+
+<AA_EngorgedTentacularAberration.label>aberration tentaculaire engorgée</AA_EngorgedTentacularAberration.label>
+<AA_EngorgedTentacularAberration.description>Une masse grotesque de tentacules, de bouches et d'yeux qui se tordent, frémissant dans de violents spasmes alors qu'elle s'efforce de respirer. Cette pauvre créature ne connaît que la douleur et la souffrance, et sera heureuse de les infliger aux autres. Créé en insufflant à un animal des énergies étranges provenant d'une corruption extra-dimensionnelle.</AA_EngorgedTentacularAberration.description>
+<AA_EngorgedTentacularAberration.tools.tentacles.label>tentacules</AA_EngorgedTentacularAberration.tools.tentacles.label>
+
+<AA_Erin.label>erin</AA_Erin.label>
+<AA_Erin.description>L'Erin (Hyaena Erinae), également connu sous le nom de Corpsemouth, est une hyène génétiquement modifiée dégoûtante aux caractéristiques reptiliennes. Les Erins ont été créés comme de parfaits charognards, préférant largement se nourrir d'animaux déjà morts plutôt que de les chasser, bien que si aucun cadavre n'est présent, ils auront recours à la chasse de leurs propres proies ou à la consommation de viande dépecée.\n\nLes Erins recevront une augmentation considérable de leur santé s'ils consomment des cadavres frais qu'ils n'ont pas eu à tuer, ce qui les rend à la fois excellents pour éliminer les cadavres et comme attaquants de première ligne s'ils sont correctement nourris. De plus, ils ont la capacité de régurgiter des acides gastriques comme dangereuse attaque à distance.</AA_Erin.description>
+<AA_Erin.tools.left_claw.label>griffe gauche</AA_Erin.tools.left_claw.label>
+<AA_Erin.tools.right_claw.label>griffe droite</AA_Erin.tools.right_claw.label>
+<AA_Erin.tools.fangs.label>crocs</AA_Erin.tools.fangs.label>
+<AA_Erin.tools.head.label>tête</AA_Erin.tools.head.label>
+<AA_Erin.verbs.acidic_vomit.label>vomit acide</AA_Erin.verbs.acidic_vomit.label>
+
+<AA_Eyeling.label>œiling</AA_Eyeling.label>
+<AA_Eyeling.description>Un œil grotesquement agrandi, rampant à l'aide de quelques tentacules charnus. Pas très utile du tout. Créé en infusant à un animal des énergies étranges provenant d'une corruption extra-dimensionnelle.</AA_Eyeling.description>
+<AA_Eyeling.tools.eye.label>œil</AA_Eyeling.tools.eye.label>
+
+<AA_Feralisk.label>feralisk</AA_Feralisk.label>
+<AA_Feralisk.description>Quelqu'un a pensé que créer des araignées surdimensionnées pour la production de fils synthétiques était une bonne idée. Leur planète d'origine est maintenant réduite en un monde de marbre, un monde complètement purgé par le feu atomique.\n\nLes Feralisks attaquent en lançant des toiles d'araignée sur leurs proies. Ces immenses toiles étourdissent tous ceux qu'elles touchent, permettant au Feralisk de s'approcher et de finir le travail avec ses redoutables crocs couverts de venin.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_Feralisk.description>
+<AA_Feralisk.tools.left_first_leg.label>première patte gauche</AA_Feralisk.tools.left_first_leg.label>
+<AA_Feralisk.tools.right_first_leg.label>première patte droite</AA_Feralisk.tools.right_first_leg.label>
+<AA_Feralisk.tools.head.label>tête</AA_Feralisk.tools.head.label>
+<AA_Feralisk.verbs.web.label>toile</AA_Feralisk.verbs.web.label>
+
+<AA_FeraliskClutchMother.label>feralisk mère porteuse</AA_FeraliskClutchMother.label>
+<AA_FeraliskClutchMother.description>Quelqu'un a pensé que créer des araignées surdimensionnées pour la production de fils synthétiques était une bonne idée. Leur planète d'origine est maintenant réduite en un monde de marbre, un monde complètement purgé par le feu atomique.\n\nLes Feralisks attaquent en lançant des toiles d'araignée sur leurs proies. Ces immenses toiles étourdissent tous ceux qu'elles touchent, permettant au Feralisk de s'approcher et de finir le travail avec ses redoutables crocs couverts de venin.\n\nCe Feralisk semble être d'une taille beaucoup plus grande que d'habitude, et porte une couvée d'œufs sur son dos. Cela semble être une solution pour un désastre si on ne s'en occupe pas rapidement.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_FeraliskClutchMother.description>
+<AA_FeraliskClutchMother.tools.left_first_leg.label>première patte gauche</AA_FeraliskClutchMother.tools.left_first_leg.label>
+<AA_FeraliskClutchMother.tools.right_first_leg.label>première patte droite</AA_FeraliskClutchMother.tools.right_first_leg.label>
+<AA_FeraliskClutchMother.tools.head.label>tête</AA_FeraliskClutchMother.tools.head.label>
+<AA_FeraliskClutchMother.verbs.Verb_Shoot.label>feralisk mère porteuse</AA_FeraliskClutchMother.verbs.Verb_Shoot.label>
+
+<AA_FireWasp.label>guêpe de feu</AA_FireWasp.label>
+<AA_FireWasp.description>Les guêpes de feu sont des créatures prédatrices qui se nourrissent de chair et de végétation brûlées. Les guêpes elles-mêmes ne sont pas particulièrement dangereuses pour l'homme, bien qu'elles puissent s'attaquer à de petits animaux et à des animaux de compagnie. Le danger vient de leurs œufs, qu'ils soient fécondés ou non : ils produisent en permanence une chaleur intense, qui peut même provoquer des incendies à proximité. Un seul œuf de guêpe de feu placé inconsidérément dans un réfrigérateur suffit à gâcher tous les aliments qu'il contient.</AA_FireWasp.description>
+<AA_FireWasp.tools.claws.label>griffes</AA_FireWasp.tools.claws.label>
+
+<AA_FissionMouse.label>souris à fission</AA_FissionMouse.label>
+<AA_FissionMouse.description>Même si cette créature est généralement appelée souris, elle a plus de traits communs avec le rat kangourou à queue en éventail, comme le déplacement bipède en sautant.\n\nLa souris à fission est un autre exemple de génie génétique humain qui a terriblement mal tourné. L'objectif était vraisemblablement de rendre les souris plus utiles comme animaux de laboratoire en augmentant leur résistance et leur longévité. Le résultat inattendu est une créature stérile ne possédant ni l'un ni l'autre de ces attributs, mais un effet secondaire vraiment inattendu : lorsque l'animal meurt, trois doubles sont créés, partageant tous les souvenirs de leur parent.\n\nLes événements de fission successifs rapides sont également néfastes pour la créature elle-même. Si moins de quelques années s'écoulent entre les événements, la souris finit par périr, incapable de soutenir son cycle de vie.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_FissionMouse.description>
+<AA_FissionMouse.tools.left_claw.label>griffe gauche</AA_FissionMouse.tools.left_claw.label>
+<AA_FissionMouse.tools.right_claw.label>griffe droite</AA_FissionMouse.tools.right_claw.label>
+<AA_FissionMouse.tools.head.label>tête</AA_FissionMouse.tools.head.label>
+
+<AA_FissionMouseSecond.label>souris à fission, 2ème génération</AA_FissionMouseSecond.label>
+<AA_FissionMouseSecond.description>Même si cette créature est généralement appelée souris, elle a plus de traits communs avec le rat kangourou à queue en éventail, comme le déplacement bipède en sautant.\n\nLa souris à fission est un autre exemple de génie génétique humain qui a terriblement mal tourné. L'objectif était vraisemblablement de rendre les souris plus utiles comme animaux de laboratoire en augmentant leur résistance et leur longévité. Le résultat inattendu est une créature stérile ne possédant ni l'un ni l'autre de ces attributs, mais un effet secondaire vraiment inattendu : lorsque l'animal meurt, trois doubles sont créés, partageant tous les souvenirs de leur parent.\n\nLes événements de fission successifs rapides sont également néfastes pour la créature elle-même. Si moins de quelques années s'écoulent entre les événements, la souris finit par périr, incapable de soutenir son cycle de vie.\n\nCette souris à fission est de deuxième génération, ce qui indique que le processus de fission s'est produit une fois récemment, ce qui la rend plus faible.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_FissionMouseSecond.description>
+<AA_FissionMouseSecond.tools.left_claw.label>griffe gauche</AA_FissionMouseSecond.tools.left_claw.label>
+<AA_FissionMouseSecond.tools.right_claw.label>griffe droite</AA_FissionMouseSecond.tools.right_claw.label>
+<AA_FissionMouseSecond.tools.head.label>tête</AA_FissionMouseSecond.tools.head.label>
+
+<AA_FissionMouseThird.label>souris à fission, 3ème génération</AA_FissionMouseThird.label>
+<AA_FissionMouseThird.description>Même si cette créature est généralement appelée souris, elle a plus de traits communs avec le rat kangourou à queue en éventail, comme le déplacement bipède en sautant.\n\nLa souris à fission est un autre exemple de génie génétique humain qui a terriblement mal tourné. L'objectif était vraisemblablement de rendre les souris plus utiles comme animaux de laboratoire en augmentant leur résistance et leur longévité. Le résultat inattendu est une créature stérile ne possédant ni l'un ni l'autre de ces attributs, mais un effet secondaire vraiment inattendu : lorsque l'animal meurt, trois doubles sont créés, partageant tous les souvenirs de leur parent.\n\nLes événements de fission successifs rapides sont également néfastes pour la créature elle-même. Si moins de quelques années s'écoulent entre les événements, la souris finit par périr, incapable de soutenir son cycle de vie.\n\nCette souris à fission est de troisième génération, ce qui indique que le processus de fission s'est produit deux fois récemment, ce qui la rend plus faible. Un troisième événement de fission tuera probablement la créature pour de bon.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_FissionMouseThird.description>
+<AA_FissionMouseThird.tools.left_claw.label>griffe gauche</AA_FissionMouseThird.tools.left_claw.label>
+<AA_FissionMouseThird.tools.right_claw.label>griffe droite</AA_FissionMouseThird.tools.right_claw.label>
+<AA_FissionMouseThird.tools.head.label>tête</AA_FissionMouseThird.tools.head.label>
+
+<AA_FlamingoPhoenix.label>flamant rose phénix</AA_FlamingoPhoenix.label>
+<AA_FlamingoPhoenix.description>- "O, Son Excellence, le très haut généticien royal : J'ai travaillé dur pour accomplir votre dernière mission, et j'ai le plaisir de vous dire que j'ai enfin des résultats à vous montrer."\n- "Excellent, et juste à temps. Le roi attend avec impatience ce spécimen pour sa ménagerie. Montrez-moi."\n- "Et voilà ! Une créature magique des plus étonnantes !"\n- "Mais qu'est-ce que c'est que ça ?\n- "Euh... c'est... euh... la créature que vous avez... demandée... euh, Monsieur."\n- "Espèce de crétin baveux ! J'ai dit un PHÉNIX FLAMBOYANT !"\n\nLe flamant rose phénix est une création génétique ratée qui éclatera dans une conflagration enflammée à sa mort, laissant derrière elle un œuf résistant au feu. Cet œuf va bientôt éclore pour donner naissance à un nouveau spécimen. La seule façon de se débarrasser d'un flamant rose phénix est de détruire ces œufs avant leur éclosion. Parfois, deux œufs sont produits, car c'est le seul moyen de reproduction viable de l'espèce.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_FlamingoPhoenix.description>
+<AA_FlamingoPhoenix.tools.claws.label>griffes</AA_FlamingoPhoenix.tools.claws.label>
+<AA_FlamingoPhoenix.tools.beak.label>bec</AA_FlamingoPhoenix.tools.beak.label>
+<AA_FlamingoPhoenix.tools.head.label>tête</AA_FlamingoPhoenix.tools.head.label>
+
+<AA_FrostAve.label>ave des neiges</AA_FrostAve.label>
+<AA_FrostAve.description>Les aves des neiges sont de grands oiseaux incapables de voler et adaptés à la vie dans les régions très froides. Un plumage dense recouvre tout son corps, le gardant au chaud et le protégeant des vents intenses. Par rapport à ses congénères plus communs l'Ave des prairies, l'aves des neiges est ovovivipare, un mode de reproduction dans lequel les embryons se développent dans des œufs qui restent dans le corps de la mère jusqu'à ce qu'ils soient prêts à éclore. Ils sont légèrement plus grands que les aves des prairies.\n\nLes aves des neiges sont des montures extraordinaires, bien plus rapides que les chevaux, et s'ils sont correctement entraînés, ils peuvent être montés au combat à des vitesses incroyables (cette interaction nécessite le mod Giddy-Up, combat mounts, qui permet aux aves des neiges de se déplacer 50% plus vite lorsqu'ils sont utilisés comme montures).\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_FrostAve.description>
+<AA_FrostAve.tools.claws.label>griffes</AA_FrostAve.tools.claws.label>
+<AA_FrostAve.tools.head.label>tête</AA_FrostAve.tools.head.label>
+
+<AA_FrostboundBehemoth.label>béhémoth des neiges</AA_FrostboundBehemoth.label>
+<AA_FrostboundBehemoth.description>Ce grand arthropode semble être un parent éloigné du plus petit mite des neiges, partageant de nombreuses similitudes dans son schéma corporel, mais aucune de leurs habitudes de consommation de charognes. C'est une créature adaptée aux températures extrêmement basses, qui se nourrit de la végétation semi-inorganique présente dans les lacs de propane non naturels. Son faible métabolisme en fait une créature très efficace, ce qui lui permet de survivre dans de tels environnements.\n\nIl est généralement pacifique, et produit un liquide bleuâtre qui peut être utilisé comme substitut au lait. Il est donc considéré comme un bon animal de ferme pour les climats froids. De plus, les Jedi adorent ce lait.</AA_FrostboundBehemoth.description>
+<AA_FrostboundBehemoth.tools.body.label>corps</AA_FrostboundBehemoth.tools.body.label>
+
+<AA_Frostling.label>neigeling</AA_Frostling.label>
+<AA_Frostling.description>Peut-être un lointain rejeton ou un parent évolutif de l'élégant nocturling, le neigeling est un prédateur adapté aux températures extrêmement basses. Le neigeling est un animal nocturne qui s'attaque aux étranges créatures qui peuplent les étendues gelées.</AA_Frostling.description>
+<AA_Frostling.tools.left_claw.label>griffe gauche</AA_Frostling.tools.left_claw.label>
+<AA_Frostling.tools.right_claw.label>griffe droite</AA_Frostling.tools.right_claw.label>
+<AA_Frostling.tools.head.label>tête</AA_Frostling.tools.head.label>
+
+<AA_FrostLynx.label>lynx des neiges</AA_FrostLynx.label>
+<AA_FrostLynx.description>Hybride génétiquement modifié d'un lynx et d'un léopard des neiges, le lynx des neiges partage son modèle génétique avec le Genix, les deux ayant divergé en raison de la contrainte environnementale après leur création.\n\nLe lynx des neiges a été modifié par l'ajout d'hémoglobine à l'hydrofluorocarbone dans son sang, ce qui lui permet de survivre à des températures extrêmement basses, avec une chaleur corporelle qui tuerait normalement la plupart des créatures. Ainsi, il est capable d'utiliser sa faible chaleur corporelle pour provoquer des gelures chez ses victimes, les rendant rapidement invalides. S'il se sent menacé, il peut produire un projectile craché à distance contenant des particules de son sang, qui explose à l'impact et recouvre une zone de dangereux cristaux de glace.</AA_FrostLynx.description>
+<AA_FrostLynx.tools.left_claw.label>griffe gauche</AA_FrostLynx.tools.left_claw.label>
+<AA_FrostLynx.tools.right_claw.label>griffe droite</AA_FrostLynx.tools.right_claw.label>
+<AA_FrostLynx.tools.head.label>tête</AA_FrostLynx.tools.head.label>
+<AA_FrostLynx.verbs.frost_bolt.label>éclair de givre</AA_FrostLynx.verbs.frost_bolt.label>
+
+<AA_Frostmite.label>mite des neiges</AA_Frostmite.label>
+<AA_Frostmite.description>Un grand parasite que l'on trouve généralement dans les endroits froids. Ils parcourent les terres froides et stériles à la recherche de cadavres enterrés dans la neige, dévorant la chair préservée et laissant à la place un squelette ravagé, dépourvu de son ancienne identité.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_Frostmite.description>
+<AA_Frostmite.tools.headclaw.label>tête-griffe</AA_Frostmite.tools.headclaw.label>
+<AA_Frostmite.tools.head.label>tête</AA_Frostmite.tools.head.label>
+
+<AA_FungalHusk.label>carcasse fongique</AA_FungalHusk.label>
+<AA_FungalHusk.description>Un corps enflé et ambulant animé par une souche génétiquement modifiée de champignon chenille, utilisé comme une arme biologique.\n\nLes carcasses fongiques servent de vecteurs ambulants pour le champignon, tentant d'atteindre et de mutiler tout animal vivant à proximité pour propager l'infection fongique. Cette infection est extrêmement virulente, capable de tuer un être humain en quelques heures. Cependant, elle est très facile à traiter, et elle restera contenue et disparaîtra tant qu'un médecin la traitera rapidement et avec une qualité de traitement décente. Heureusement, le champignon a muté par rapport à ses effets d'armement originaux, et une personne ou un animal mourant de l'infection ne se transformera pas en une autre carcasse fongique.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_FungalHusk.description>
+<AA_FungalHusk.tools.left_fist.label>poing gauche</AA_FungalHusk.tools.left_fist.label>
+<AA_FungalHusk.tools.right_fist.label>poing droit</AA_FungalHusk.tools.right_fist.label>
+<AA_FungalHusk.tools.teeth.label>dents</AA_FungalHusk.tools.teeth.label>
+<AA_FungalHusk.tools.head.label>tête</AA_FungalHusk.tools.head.label>
+
+<AA_Gallatross.label>gallatross</AA_Gallatross.label>
+<AA_Gallatross.description>Dans tous les pays du monde,\n      Écoulez le conte d'autrefois,\n      Une créature d'une puissance inouïe\n      Et une taille incommensurable.\n      Une force que les machines ne peuvent copier\n      Un pouvoir que les soi-disant dieux appellent hérésie.\n      Attention, attention aux ennemis potentiels\n      Attention, à la colère du Gallatross.\n\nConcept et art par A_Friend (aka SentientLine), l'artiste original d'Alpha Animals.</AA_Gallatross.description>
+<AA_Gallatross.tools.horn-0.label>corne</AA_Gallatross.tools.horn-0.label>
+<AA_Gallatross.tools.horn-1.label>corne</AA_Gallatross.tools.horn-1.label>
+<AA_Gallatross.tools.head.label>tête</AA_Gallatross.tools.head.label>
+<AA_Gallatross.verbs.Verb_Shoot.label>gallatross</AA_Gallatross.verbs.Verb_Shoot.label>
+
+<AA_GallatrossMoribund.label>gallatross moribond</AA_GallatrossMoribund.label>
+<AA_GallatrossMoribund.description>Les gallatross sont des créatures très intelligentes, et ils peuvent d'une certaine manière déterminer quand ils sont proches de la mort. Ils se dirigeront alors instinctivement vers une zone d'arbustes arides connue sous le nom de cimetière de Gallatross, et y mourront seuls, loin de leur groupe.\n\nBien sûr, la durée de vie est impressionnante pour les humains, et un Gallatross peut passer jusqu'à deux décennies à errer dans un cimetière.\n\nConcept et art par A_Friend (aka SentientLine), l'artiste original d'Alpha Animals.</AA_GallatrossMoribund.description>
+<AA_GallatrossMoribund.tools.horn-0.label>corne</AA_GallatrossMoribund.tools.horn-0.label>
+<AA_GallatrossMoribund.tools.horn-1.label>corne</AA_GallatrossMoribund.tools.horn-1.label>
+<AA_GallatrossMoribund.tools.head.label>tête</AA_GallatrossMoribund.tools.head.label>
+<AA_GallatrossMoribund.verbs.Verb_Shoot.label>gallatross moribond</AA_GallatrossMoribund.verbs.Verb_Shoot.label>
+
+<AA_Genix.label>genix</AA_Genix.label>
+<AA_Genix.description>Hybride génétiquement modifié d'un lynx et d'un léopard des neiges, le Genix partage son modèle génétique avec le lynx des neiges, les deux ayant divergé en raison de la contrainte environnementale après leur création.\n\nAlors que le lynx des neiges est parfaitement adapté aux températures froides, le Genix se trouve généralement dans des climats plus doux, car il possède un système de réfrigération biologique complexe qui lui permet de faire baisser la température ambiante partout où il va. Si il était domestiqué, cette étrange capacité pourrait peut-être être utilisée pour réfrigérer un espace clos. Cependant, le Genix a tendance à exploser s'il reçoit trop de dégâts, ce qui en fait une créature assez fragile.</AA_Genix.description>
+<AA_Genix.tools.left_claw.label>griffe gauche</AA_Genix.tools.left_claw.label>
+<AA_Genix.tools.right_claw.label>griffe droite</AA_Genix.tools.right_claw.label>
+<AA_Genix.tools.head.label>tête</AA_Genix.tools.head.label>
+
+<AA_GiantCrownedSilkie.label>couronne de soie géante</AA_GiantCrownedSilkie.label>
+<AA_GiantCrownedSilkie.description>Un grand oiseau incapable de voler, génétiquement modifié pour produire à la fois des œufs comestibles et un textile précieux ressemblant à de la soie. La couronne de soie géante a été conçue dès le départ comme un animal de ferme polyvalent, parfaitement domestiqué et, contrairement aux autres ratites, très peu agressif.\n\nIl n'est pas rare de voir des troupeaux de couronnes de soies géantes paître dans les pâturages tout le long de la côte. Cependant, on ne les trouve généralement pas à l'état sauvage, et lorsqu'ils le sont, il y a souvent une histoire de violence derrière leur errance sans protection.</AA_GiantCrownedSilkie.description>
+<AA_GiantCrownedSilkie.tools.claws.label>griffes</AA_GiantCrownedSilkie.tools.claws.label>
+<AA_GiantCrownedSilkie.tools.head.label>tête</AA_GiantCrownedSilkie.tools.head.label>
+
+<AA_Gigantelope.label>gigantelope</AA_Gigantelope.label>
+<AA_Gigantelope.description>Les gigantelopes étaient autrefois conçues comme des variantes plus grandes et plus puissantes du muffalo. Une bête de somme idéale qui porte plus de poids que sa masse corporelle ne le permet habituellement. Bien qu'ils soient des mammifères, les gigantelopes ont des os pneumatisés, ce qui signifie qu'ils ont des espaces creux à l'intérieur : les os pneumatisés sont forts, denses et robustes sans être lourds.\n\nLe gigantelope a une capacité de charge variable, déterminée par son génome à la naissance, et les colonies du monde entier reproduisent des gigantelopes depuis des décennies pour obtenir le spécimen parfait.</AA_Gigantelope.description>
+<AA_Gigantelope.tools.head.label>tête</AA_Gigantelope.tools.head.label>
+<AA_Gigantelope.tools.left_hoof.label>sabot gauche</AA_Gigantelope.tools.left_hoof.label>
+<AA_Gigantelope.tools.right_hoof.label>sabot droit</AA_Gigantelope.tools.right_hoof.label>
+
+<AA_GreatDevourer.label>dévoreur géant</AA_GreatDevourer.label>
+<AA_GreatDevourer.description>Les dévoreurs géants sont des vers blindés connus pour leur appétit insatiable. Lorsqu'un dévoreur géant arrive, il se gorge de petites proies et l'effondrement total de l'écosystème est presque une certitude.\n\nHeureusement, ils n'attaquent pas les grandes créatures, y compris les humains, à moins d'être provoqués. Ils ne sont pas très résistants et sont facilement éliminés. Ils ont cependant une capacité de régénération lente.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_GreatDevourer.description>
+<AA_GreatDevourer.tools.head.label>tête</AA_GreatDevourer.tools.head.label>
+
+<AA_GreenGoo.label>matière verte</AA_GreenGoo.label>
+<AA_GreenGoo.description>Ces masses amorphes et ambulantes de fluide gélatineux semblent être une moquerie de la vie. Bien qu'elles ressemblent à des individus, elles font en réalité partie d'un super-organisme gélatineux plus vaste, qui n'a qu'un seul objectif : croître et s'étendre.\n\nIls ont été surnommés "matière verte" en raison de leur capacité à se reproduire en permanence, ne nécessitant que très peu de subsistance et occupant rapidement toutes les niches écologiques disponibles. Dans le domaine de l'eschatologie, la matière grise est un scénario de fin du monde impliquant la nanotechnologie moléculaire, dans lequel des robots auto-réplicants incontrôlables consomment toute la biomasse tout en se reproduisant. Un scénario de matière verte, par contre, implique des entités biologiques autoreproductrices. NOTE : en raison de contraintes de gameplay, la matière verte s'auto-réplique jusqu'à 40 créatures sur la carte, car je ne veux pas griller vos ordinateurs. Notez que les créatures asexuées ne peuvent pas être stérilisées.</AA_GreenGoo.description>
+<AA_GreenGoo.comps.CompAsexualReproduction.customString>Clonage dans : </AA_GreenGoo.comps.CompAsexualReproduction.customString>
+<AA_GreenGoo.tools.tentacles.label>tentacules</AA_GreenGoo.tools.tentacles.label>
+<AA_GreenGoo.verbs.venomous_spit.label>crachat venimeux</AA_GreenGoo.verbs.venomous_spit.label>
+
+<AA_GreyCoatedMouflon.label>mouflon à poil gris</AA_GreyCoatedMouflon.label>
+<AA_GreyCoatedMouflon.description>Le mouflon à poil gris (Ovis Cinerea) est une variante génétiquement modifiée du mouton sauvage qui produit une épaisse laine grise qui agit comme un excellent isolant. Ce n'est cependant pas leur capacité la plus intéressante : Les mouflons à poil gris ont été créés avec un organe spécialisé capable d'amplifier les ondes cérébrales humaines, agissant comme un harmonisateur psychique biologique.\n\nSi le mouflon est heureux, c'est-à-dire s'il ne ressent pas la faim ou la douleur, il offre un bonus d'humeur aux êtres humains qui se trouvent à proximité. En revanche, si le Mouflon souffre d'une manière ou d'une autre, il affectera psychiquement tous ceux qui l'entourent.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_GreyCoatedMouflon.description>
+<AA_GreyCoatedMouflon.tools.left_hoof.label>sabot gauche</AA_GreyCoatedMouflon.tools.left_hoof.label>
+<AA_GreyCoatedMouflon.tools.right_hoof.label>sabot droit</AA_GreyCoatedMouflon.tools.right_hoof.label>
+<AA_GreyCoatedMouflon.tools.horns.label>cornes</AA_GreyCoatedMouflon.tools.horns.label>
+
+<AA_Groundrunner.label>ursidé taupier</AA_Groundrunner.label>
+<AA_Groundrunner.description>Étrange chimère entre un ours et une taupe, les coureurs terrestres sont originaires des Mondes des cavernes. Les habitants les utilisaient comme outils lourds ambulants lorsqu'ils rencontraient des pièces que le plastacier ne pouvait pas briser, et pour transporter de gros rochers que leurs propriétaires ne pouvaient pas soulever.\n\nEn raison de leurs origines domestiquées, ils sont étonnamment dociles et faciles à apprivoiser. Leur force incroyable et leurs griffes acérées leur permettent de briser les rochers avec une relative facilité. Mais ici, dans la Bordure, ces griffes sont généralement réservées à la destruction des armures de puissance et de leurs porteurs.\n\nLes coureurs terrestres aideront volontiers vos colons à extraire des roches et des minéraux. Ils sont cependant assez paresseux et se laissent facilement distraire (cette interaction nécessite que le ursidé taupier soit formé au transport). Cette interaction devrait également fonctionner avec le mod Quarry.\n\nArt par Gon (voir plus : https://twitter.com/GON_again).</AA_Groundrunner.description>
+<AA_Groundrunner.tools.left_claw.label>griffe gauche</AA_Groundrunner.tools.left_claw.label>
+<AA_Groundrunner.tools.right_claw.label>griffe droite</AA_Groundrunner.tools.right_claw.label>
+<AA_Groundrunner.tools.head.label>tête</AA_Groundrunner.tools.head.label>
+
+<AA_Helixien.label>hélixien</AA_Helixien.label>
+<AA_Helixien.description>La limace hélixien est une souche génétiquement modifiée de la limace léopard, conçue comme une aide rapide à l'élimination des cadavres. Outre la modification évidente de sa taille, l'hélixien sécrète en permanence un gaz corrosif et nauséabond qui provoque une sensation désagréable de démangeaison chez les êtres vivants. Ce gaz est généralement inoffensif, sauf s'il entre en contact avec de la matière organique en décomposition : il accélère considérablement la pourriture des cadavres, libérant un liquide noir putride connu sous le nom de "fluide de purge" ou bile de cadavre. L'hélixien se nourrit volontiers de cette boue liquide, bien qu'il puisse également se nourrir d'autres matières organiques si nécessaire.\n\nLa vue d'une limace hélixien est assez révoltante, et en voir une se prélasser dans un tas de cadavres humains est, pour le moins, une expérience profondément traumatisante.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_Helixien.description>
+<AA_Helixien.race.meatLabel>viande de limace</AA_Helixien.race.meatLabel>
+<AA_Helixien.tools.body.label>corps</AA_Helixien.tools.body.label>
+
+<AA_InfectedAerofleet.label>aéroglobe infecté</AA_InfectedAerofleet.label>
+<AA_InfectedAerofleet.description>Une petite créature gélatineuse flottante. Propulsées par l'hydrogène qu'elles recueillent de l'eau et de diverses matières végétales, ces créatures spongieuses errent sur les terres, rebondissant sans but sur les objets sur leur chemin.\n\nCet Aerofleet semble avoir été affecté par une exposition prolongée aux gaz émanant d'une forêt oculaire, et des pustules et cloques rouges apparaissent sur sa membrane extérieure. Son hydrogène semble être en train de se transformer en un gaz acide d'origine inconnue.\n\nLes Aerofleets sont asexués, et se reproduisent par strobilation, une forme de reproduction asexuée. Notez que les créatures asexuées ne peuvent pas être stérilisées. En tant que créature flottante, les Aerofleets ignorent les facteurs de mouvement du terrain.\n\nLes Aerofleets produisent lentement une substance épaisse et gélatineuse connue sous le nom de Gel Bleu. Ce résidu sirupeux peut être collecté et raffiné en un composé à forte densité énergétique, et potentiellement utilisé pour construire des batteries et des générateurs puissants, avec les recherches appropriées (raffinage de biocarburant, batteries et fabrication avancée).</AA_InfectedAerofleet.description>
+<AA_InfectedAerofleet.comps.CompAsexualReproduction.customString>Fission asexuée dans : </AA_InfectedAerofleet.comps.CompAsexualReproduction.customString>
+<AA_InfectedAerofleet.tools.tentacles.label>tentacules</AA_InfectedAerofleet.tools.tentacles.label>
+<AA_InfectedAerofleet.verbs.Verb_Shoot.label>aéroglobe infecté</AA_InfectedAerofleet.verbs.Verb_Shoot.label>
+
+<AA_IronhuskBeetle.label>coléoptère de fer</AA_IronhuskBeetle.label>
+<AA_IronhuskBeetle.description>Les coléoptères de fer ont été génétiquement modifiés par l'une des myriades de compagnies minières opérant sur la Bordure. C'est un animal de ferme paisible qui, de temps en temps, perd des enveloppes métalliques pouvant être utilisées comme acier, ce qui rend inutile l'utilisation de machines lourdes dans les opérations minières. L'inconvénient est que le coléoptère consomme une énorme quantité de bois provenant d'arbres vivants.\n\nMalheureusement, la compagnie minière qui a créé les coléoptères de fer n'a pas tenu compte de ce facteur, et plusieurs planètes de la Bordure sont maintenant un désastre écologique stérile.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_IronhuskBeetle.description>
+<AA_IronhuskBeetle.tools.head.label>tête</AA_IronhuskBeetle.tools.head.label>
+
+<AA_Junglelisk.label>junglelisk</AA_Junglelisk.label>
+<AA_Junglelisk.description>Le Junglelisk est une variante mutante du Feralisk, adaptée à la vie dans les jungles les plus profondes et les plus sombres de la Bordure. Certains disent même que le Junglelisk est la race originale des Lisks dont sont issues toutes les autres. Ils se reproduisent assez rapidement pour que ce soit le cas, et les junglelisks femelles peuvent être fécondées une fois et conserver le matériel génétique pour pondre des œufs pendant une longue période.\n\nLes junglelisks attaquent en lançant des toiles d'araignée sur leurs proies. Ces immenses toiles étourdissent et couvrent d'acide tous ceux qu'elles touchent, ce qui permet au junglelisk de s'approcher et de finir le travail avec ses redoutables crocs couverts de venin.</AA_Junglelisk.description>
+<AA_Junglelisk.tools.left_first_leg.label>première patte gauche</AA_Junglelisk.tools.left_first_leg.label>
+<AA_Junglelisk.tools.right_first_leg.label>première patte droite</AA_Junglelisk.tools.right_first_leg.label>
+<AA_Junglelisk.tools.head.label>tête</AA_Junglelisk.tools.head.label>
+<AA_Junglelisk.verbs.acidic_web.label>toile acide</AA_Junglelisk.verbs.acidic_web.label>
+
+<AA_Lockjaw.label>blocmâchoire</AA_Lockjaw.label>
+<AA_Lockjaw.description>Un très grand animal originaire des régions tropicales de cette planète. Surnommé Lockjaw à la fois pour sa force de morsure incroyablement puissante et pour la maladie qu'il transmet, qui afflige ses victimes d'une paralysie faciale modérée qui rend l'alimentation extrêmement inconfortable.\n\nBien qu'il ait une guillotine à la place de la bouche, le Lockjaw ne semble pas être une créature très agressive, préférant s'attaquer à la faune locale plutôt qu'à la population.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_Lockjaw.description>
+<AA_Lockjaw.tools.head.label>tête</AA_Lockjaw.tools.head.label>
+
+<AA_LuciferBug.label>punaise lucifer</AA_LuciferBug.label>
+<AA_LuciferBug.description>Un petit insectoïde, génétiquement modifié pour produire de petits lots d'extrait de Luciferium tous les quelques jours.\n\nBien qu'ils soient utiles en tant que source de cette drogue dangereuse, le fait que le Luciferium soit une drogue à base de mécanite rend les punaises lucifer extrêmement instables et enclins à une violente détonation s'ils sont blessés. Cette détonation libère tout le Luciferium accumulé sur leur abdomen, soumettant toute créature à proximité à une dangereuse overdose de drogue. Pour cette raison, les punaises lucifer doivent toujours être gardés TRÈS LOIN des membres précieux de la colonie.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_LuciferBug.description>
+<AA_LuciferBug.tools.mandibles.label>mandibules</AA_LuciferBug.tools.mandibles.label>
+<AA_LuciferBug.tools.head.label>tête</AA_LuciferBug.tools.head.label>
+
+<AA_MammothWorm.label>ver géant</AA_MammothWorm.label>
+<AA_MammothWorm.description>Un ver génétiquement modifié de très grande taille. Malgré sa taille et son arsenal incroyablement intimidants, ces énormes créatures sont plutôt pacifiques. Il faisait autrefois partie de la caste des travailleurs d'un écosystème artificiel d'insectoïdes conçu pour lutter contre les invasions mécanoïdes. Il portait et déplaçait des choses que ses petits cousins ne pouvaient pas faire.\n\nBien que généralement pacifique, si on le provoque, il devient une force terrifiante qui peut rivaliser avec les centipèdes mécanoïdes.\n\nÀ l'origine, le ver géant a été spécifiquement élevé pour servir d'engin de siège vivant afin de détruire les structures mécanoïdes, et en tant que tel, il peut être extrêmement efficace.\n\nLes Vers géants sont également d'excellentes montures, ils se déplacent légèrement plus vite lorsqu'ils sont montés et repoussent les projectiles (cette interaction nécessite le mod Giddy-Up, combat mounts, qui permet aux Vers géants de se déplacer 25% plus vite lorsqu'ils sont utilisés comme montures et d'augmenter leur armure de 50%).\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_MammothWorm.description>
+<AA_MammothWorm.tools.body.label>corps</AA_MammothWorm.tools.body.label>
+
+<AA_Mantrap.label>homme-piège</AA_Mantrap.label>
+<AA_Mantrap.description>Le projet Apricus était un projet scientifique classifié sur le RimWorld visant à découvrir de nouvelles façons de combattre la menace mécanoïde en utilisant la nature. L'homme-piège a été créé pour tenter d'armer une Dionaea muscipula mutée (attrape-mouche) en implantant des lanceurs de crachats d'acide formique concentré sur ses mâchoires. Cet acide puissant était théoriquement assez puissant pour corroder le plastacier des carapaces des Mécanoïdes.\n\nLe projet Apricus a été envahi par un énorme hôte mécanoïde peu de temps après, la plupart du personnel a été tué et la plupart des projets ont été abandonnés à leur sort.</AA_Mantrap.description>
+<AA_Mantrap.tools.razor_barbs.label>rasoir</AA_Mantrap.tools.razor_barbs.label>
+<AA_Mantrap.tools.head.label>tête</AA_Mantrap.tools.head.label>
+<AA_Mantrap.verbs.acidic_spit.label>crachat acide</AA_Mantrap.verbs.acidic_spit.label>
+
+<AA_MatureFleshbeast.label>monstre de chair mature</AA_MatureFleshbeast.label>
+<AA_MatureFleshbeast.description>Résultat indésirable d'une expérience génétique qui a mal tourné, les monstres de chair sont généralement des créatures misérables et faibles qui suintent du pus et luttent pour rester en vie plus de quelques jours. Il arrive cependant qu'un monstre de chair parvienne à survivre, et même à prospérer. Peut-être a-t-il été relâché bêtement dans la nature, où il a réussi à se stabiliser et à grandir. Ou peut-être était-il plus fort que la moyenne, et a réussi à soumettre et dévorer ses imprudents créateurs. Dans tous les cas, il s'est transformé en un mastodonte palpitant et charnu doté d'un appétit vorace.\n\nLes monstres de chair matures avalent leurs proies en entier, stockant jusqu'à 5 créatures dans son énorme estomac pour une consommation ultérieure. Les proies peuvent survivre jusqu'à un jour, mais elles seront ensuite consommées et expulsées sous forme de restes squelettiques.</AA_MatureFleshbeast.description>
+<AA_MatureFleshbeast.tools.head.label>tête</AA_MatureFleshbeast.tools.head.label>
+
+<AA_MeadowAve.label>ave des prairies</AA_MeadowAve.label>
+<AA_MeadowAve.description>Un grand oiseau incapable de voler, aux plumes colorées. Principalement présents dans les plaines où ils se nourrissent de fruits et de baies, les aves des prairies attirent naturellement les regards et les mains de ceux qui passent par là. Beaucoup oublient que sous le majestueux manteau de plumes se cache un animal sauvage doté d'un bec acéré et de griffes assorties.\n\nLes Aves des prairies sont des montures extraordinaires, bien plus rapides que les chevaux, et s'ils sont correctement entraînés, ils peuvent être montés au combat à des vitesses incroyables (cette interaction nécessite le mod Giddy-Up, combat mounts, qui permet aux Aves des prairies de se déplacer 50% plus vite lorsqu'ils sont utilisés comme montures). On peut aussi les trouver avec des couleurs très différentes.\n\nArt par Gon (voir plus : https://twitter.com/GON_again).</AA_MeadowAve.description>
+<AA_MeadowAve.race.meatLabel>meadow ave meat</AA_MeadowAve.race.meatLabel>
+<AA_MeadowAve.tools.claws.label>griffes</AA_MeadowAve.tools.claws.label>
+<AA_MeadowAve.tools.head.label>tête</AA_MeadowAve.tools.head.label>
+
+<AA_MegaLouse.label>mégapoux</AA_MegaLouse.label>
+<AA_MegaLouse.description>Un gros insecte génétiquement modifié. Ces créatures servaient autrefois de tirailleurs de première ligne d'une ruche insectoïde, une collection d'insectes génétiquement modifiés conçue comme une arme contre les invasions mécanoïdes. Leur travail consistait à réduire en fromage suisse l'infanterie mécanoïde isolée, et ils étaient bons dans ce domaine. Même le puissant centipède n'était pas de taille contre l'essaim de piques.\n\nAujourd'hui, on peut les trouver errant en meutes qui ne sont qu'une blague par rapport à leur nombre d'antan et avec des instincts de tueur qui ne demandent qu'à être réveillés une fois de plus.</AA_MegaLouse.description>
+<AA_MegaLouse.tools.tusk.label>défense</AA_MegaLouse.tools.tusk.label>
+<AA_MegaLouse.tools.head.label>tête</AA_MegaLouse.tools.head.label>
+
+<AA_Metallovore.label>métallovore</AA_Metallovore.label>
+<AA_Metallovore.description>Les métallovores sont des créatures répugnantes génétiquement modifiées pour occuper un créneau très spécifique : manger des métaux. Les tentacules qui se tordent dans la bouche de l'animal sécrètent une substance organique capable de rouiller et de dissoudre rapidement les métaux les plus courants, les transformant en petites paillettes qui servent de nourriture au métallovore. Ils préfèrent les petits morceaux de métal, car ils sont plus faciles à digérer, mais ils peuvent creuser dans les rochers à la recherche de nouveaux métaux s'ils n'en trouvent pas.\n\nOn peut supposer qu'ils ont été créés pour se débarrasser de la ferraille, mais on les trouve principalement à l'état sauvage aujourd'hui.</AA_Metallovore.description>
+<AA_Metallovore.tools.tentacle.label>tentacule</AA_Metallovore.tools.tentacle.label>
+<AA_Metallovore.tools.body.label>corps</AA_Metallovore.tools.body.label>
+
+<AA_Mime.label>mime</AA_Mime.label>
+<AA_Mime.description>Alors que la plupart des animaux "extraterrestres" de la Bordure sont des versions fortement modifiées génétiquement d'animaux terrestres, le Mime est une violation absolue de tous les principes éthiques : un être bestial et vorace créé en modifiant génétiquement des humains.\n\nLes Mimes sont des parasites doués de psionisme, utilisant leurs pouvoirs mentaux pour se déguiser en humains normaux, infiltrant une communauté humaine et vivant parmi ses membres pendant des semaines, des mois, voire des années. Leur appétit vorace les pousse cependant à consommer constamment la nourriture facilement disponible fournie par une colonie stable. Ce n'est que lorsque la nourriture vient à manquer qu'ils s'attaquent directement à leurs hôtes.</AA_Mime.description>
+<AA_Mime.tools.left_fist.label>poing gauche</AA_Mime.tools.left_fist.label>
+<AA_Mime.tools.right_fist.label>poing droit</AA_Mime.tools.right_fist.label>
+<AA_Mime.tools.teeth.label>dents</AA_Mime.tools.teeth.label>
+<AA_Mime.tools.head.label>tête</AA_Mime.tools.head.label>
+
+<AA_MycoidColossus.label>colosse mycoïde</AA_MycoidColossus.label>
+<AA_MycoidColossus.description>Le colosse mycoïde est une variante du colosse forêt originaire d'une jungle mycotique.\n\nIl semble être de nature reptilienne, avec du sang froid, un métabolisme lent et un corps très bizarre : il a six jambes, deux épines entrelacées et six yeux. Il entretient une relation symbiotique avec des champignons, plusieurs champignons Agarilux mutants poussant sur son dos. Ces champignons piègent les insectes et semblent assurer sa subsistance dans une relation symbiotique avec le colosse. Bizarrement, ce colosse se reproduit par sporulation, au lieu d'être une créature vivipare, de sorte que sa progéniture est complètement sauvage et indépendante de lui, sans aucun concept de parentalité. Notez que les créatures asexuées ne peuvent pas être stérilisées.\n\nLorsqu'il est apprivoisé, le colosse mycoïde peut être périodiquement "taillé" pour obtenir des champignons agarilux crus.</AA_MycoidColossus.description>
+<AA_MycoidColossus.comps.CompAsexualReproduction.customString>Dispersion des spores dans : </AA_MycoidColossus.comps.CompAsexualReproduction.customString>
+<AA_MycoidColossus.tools.head.label>tête</AA_MycoidColossus.tools.head.label>
+
+<AA_Needlepost.label>poteau d'aiguilles</AA_Needlepost.label>
+<AA_Needlepost.description>Un cactus génétiquement modifié pour lui donner de la sensibilité. La première itération de cette créature était censée être une force de dissuasion tactique stationnaire (le cactus fouet), mais son absence d'intelligence et de mobilité en réduisait l'efficacité. Avec un peu de génie génétique, on lui a donné un corps mobile, une intelligence infantile et des épines toxiques pour faire bonne mesure. Le résultat s'est retourné contre eux car les commandes se sont avérées inefficaces. L'installation a été rapidement envahie par les expériences, et une horde de cactus en colère s'est échappée dans la nature.\n\nLes poteaux d'aiguilles peuvent se nourrir de très petites quantités de légumes en décomposition, mais ils ont besoin d'une énorme quantité de lumière solaire (ou équivalente) avant toute autre chose. Les nuits ne les affectent pas, mais une éclipse solaire leur est généralement fatale.</AA_Needlepost.description>
+<AA_Needlepost.tools.stings.label>aiguilles</AA_Needlepost.tools.stings.label>
+<AA_Needlepost.tools.head.label>tête</AA_Needlepost.tools.head.label>
+<AA_Needlepost.verbs.venomous_barb.label>aiguille venimeuse</AA_Needlepost.verbs.venomous_barb.label>
+
+<AA_Needleroll.label>boule d'aiguilles</AA_Needleroll.label>
+<AA_Needleroll.description>Les boules d'aiguilles sont des poteaux d'aiguilles qui ont évolué pour se développer dans les environnements les plus arides et secs de la Bordure.\n\nLes boules d'aiguilles n'ont besoin d'aucune substance, absorbant toute l'énergie dont ils ont besoin de la lumière du soleil et des quantités infimes d'eau qu'ils extraient de la rosée du matin. Comme les poteaux d'aiguilles, ils ont besoin d'une énorme quantité de lumière solaire (ou équivalente). Les nuits ne les affectent pas, mais une éclipse solaire peut leur être fatale.</AA_Needleroll.description>
+<AA_Needleroll.tools.stings.label>aiguilles</AA_Needleroll.tools.stings.label>
+<AA_Needleroll.tools.head.label>tête</AA_Needleroll.tools.head.label>
+<AA_Needleroll.verbs.venomous_barb.label>aiguille venimeuse</AA_Needleroll.verbs.venomous_barb.label>
+
+<AA_NightMule.label>mule nocturne</AA_NightMule.label>
+<AA_NightMule.description>La mule nocturne est une bête de somme robuste, utilisée pour le transport de charges ou d'autres travaux lourds. Les mules nocturnes sont originaires du RimWorld orbitant autour d'une étoile très faible - la planète natale d'une race insaisissable connue sous le nom de Forsakens - elles se sont donc adaptées aux environnements à faible ensoleillement. Elles ont été domestiquées par les Forsakens il y a des centaines d'années, et on peut les trouver errant sur d'autres planètes de la Bordure.\n\nLes mules nocturnes sont plus fortes que les muffalos, bien qu'elles produisent une très faible quantité de lait, et pas de laine. Semblable au nocturling, une autre créature de la planète des Forsakens, leur dos est couronné de dangereux piquants, bien que la mule nocturne n'ait pas la capacité de les lancer comme armes défensives.\n\nArt by Lemurskii (check her Carrd at https://lemurskii.carrd.co/).</AA_NightMule.description>
+<AA_NightMule.race.meatLabel>viande à marbrure foncée</AA_NightMule.race.meatLabel>
+<AA_NightMule.tools.horns.label>cornes</AA_NightMule.tools.horns.label>
+<AA_NightMule.tools.head.label>tête</AA_NightMule.tools.head.label>
+<AA_NightMule.tools.left_hoof.label>sabot gauche</AA_NightMule.tools.left_hoof.label>
+<AA_NightMule.tools.right_hoof.label>sabot droit</AA_NightMule.tools.right_hoof.label>
+
+<AA_NightAve.label>ave nocturne</AA_NightAve.label>
+<AA_NightAve.description>Un grand oiseau incapable de voler, noir comme la nuit. Il semble partager une partie de son phénotype avec le nocturling, ce qui laisse penser qu'ils sont tous deux originaires de la même planète RimWorld orbitant autour d'une étoile très faible, la planète natale d'une race insaisissable connue sous le nom de Forsakens. Les Aves nocturnes se sont adaptés aux environnements à très faible ensoleillement et sont des animaux purement nocturnes.\n\nLes Aves nocturnes sont des montures extraordinaires, bien plus rapides que les chevaux, et s'ils sont correctement entraînés, ils peuvent être montés au combat à des vitesses incroyables (cette interaction nécessite le mod Giddy-Up, combat mounts, qui permet aux Aves nocturnes de se déplacer 50% plus vite lorsqu'ils sont utilisés comme montures).</AA_NightAve.description>
+<AA_NightAve.tools.claws.label>griffes</AA_NightAve.tools.claws.label>
+<AA_NightAve.tools.head.label>tête</AA_NightAve.tools.head.label>
+<AA_NightAve.verbs.barbed_quills.label>piquants acérés</AA_NightAve.verbs.barbed_quills.label>
+
+<AA_Nightling.label>nocturling</AA_Nightling.label>
+<AA_Nightling.description>Une bête prédatrice aux lignes pures avec des rangées de piquants sur le dos. Le nocturling est un prédateur purement nocturne, d'où son nom, et n'hésite pas du tout à s'attaquer à des animaux, ou des personnes, beaucoup plus gros que lui. Outre ses mâchoires puissantes, le nocturling peut lancer ses piquants sur son dos pour maîtriser sa proie.\n\nArt par Gon (voir plus : https://twitter.com/GON_again).</AA_Nightling.description>
+<AA_Nightling.tools.left_claw.label>griffe gauche</AA_Nightling.tools.left_claw.label>
+<AA_Nightling.tools.right_claw.label>griffe droite</AA_Nightling.tools.right_claw.label>
+<AA_Nightling.tools.head.label>tête</AA_Nightling.tools.head.label>
+<AA_Nightling.verbs.barbed_quills.label>piquants acérés</AA_Nightling.verbs.barbed_quills.label>
+
+<AA_NightRam.label>bélier nocturne</AA_NightRam.label>
+<AA_NightRam.description>Le bélier nocturne est un herbivore têtu qui partage une grande partie de son génome avec le prédateur nocturling, ce qui laisse supposer une origine commune. Ils sont tous deux originaires de RimWorld orbitant autour d'une étoile très faible - la planète natale d'une race insaisissable connue sous le nom de Forsakens - et se sont donc adaptés aux environnements à faible ensoleillement. Lorsqu'ils se trouvent sur d'autres mondes, les béliers nocturnes évitent instinctivement la lumière naturelle du soleil.\n\nLes béliers nocturnes sont pacifiques à moins d'être dérangés ou menacés.</AA_NightRam.description>
+<AA_NightRam.tools.horn.label>corne</AA_NightRam.tools.horn.label>
+<AA_NightRam.tools.left_hoof.label>sabot gauche</AA_NightRam.tools.left_hoof.label>
+<AA_NightRam.tools.right_hoof.label>sabot droit</AA_NightRam.tools.right_hoof.label>
+<AA_NightRam.tools.head.label>tête</AA_NightRam.tools.head.label>
+
+<AA_OcularJelly.label>méduse oculaire</AA_OcularJelly.label>
+<AA_OcularJelly.description>La Bordure est remplie de créatures qui pourraient être le produit d'une évolution accélérée à partir d'origines terrestres ou, plus souvent, d'une ingénierie génétique humaine ancienne qui a mal tourné. La méduse oculaire, cependant, est si fondamentalement bizarre que certains scientifiques ont spéculé sur une possible origine extra-dimensionnelle. Ou peut-être s'agit-il simplement d'une blague cruelle, bien qu'élaborée.\n\nElle semble avoir quelques similitudes biologiques avec l'aéroglobe, étant remplie d'un gaz flottant, mais ses effets sur les écosystèmes terrestres sont incroyablement inhabituels : la créature libère des nuages d'un gaz rougeâtre qui est inoffensif pour les animaux. Cependant, lorsque la flore y est exposée, elle mute et se transforme en d'étranges spécimens qui partagent 98 % de leur génome avec la méduse. Cette flore est presque immangeable, et sa relation avec la méduse oculaire reste pour l'instant inexpliquée. En tant que créature flottante, les méduses oculaires ignorent les facteurs de déplacement du terrain. Notez que les créatures asexuées ne peuvent pas être stérilisées.</AA_OcularJelly.description>
+<AA_OcularJelly.comps.CompAsexualReproduction.customString>Fission asexuée dans : </AA_OcularJelly.comps.CompAsexualReproduction.customString>
+<AA_OcularJelly.tools.tentacles.label>tentacules</AA_OcularJelly.tools.tentacles.label>
+<AA_OcularJelly.verbs.venomous_spit.label>crachat venimeux</AA_OcularJelly.verbs.venomous_spit.label>
+
+<AA_OcularNightling.label>nocturling oculaire</AA_OcularNightling.label>
+<AA_OcularNightling.description>Un nocturling muté, créé en insufflant à un animal des énergies étranges issues d'une corruption extra-dimensionnelle. Plus robuste et plus docile que les nocturlings normaux.</AA_OcularNightling.description>
+<AA_OcularNightling.tools.left_claw.label>griffe gauche</AA_OcularNightling.tools.left_claw.label>
+<AA_OcularNightling.tools.right_claw.label>griffe droite</AA_OcularNightling.tools.right_claw.label>
+<AA_OcularNightling.tools.head.label>tête</AA_OcularNightling.tools.head.label>
+<AA_OcularNightling.verbs.barbed_quills.label>piquants acérés</AA_OcularNightling.verbs.barbed_quills.label>
+
+<AA_OvergrownColossus.label>colosse forêt</AA_OvergrownColossus.label>
+<AA_OvergrownColossus.description>Le colosse forêt est une créature très étrange. Cette créature gargantuesque est l'une des rares créatures de la Bordure qui n'a pas été créée directement par la curiosité scientifique de l'homme, mais qui est apparue naturellement sur une planète marécageuse éloignée, à partir d'une créature terrienne originale oubliée.\n\nIl semble être de nature reptilienne, avec du sang froid, un métabolisme lent et un corps très bizarre : il a six jambes, deux épines entrelacées et six yeux. Il a une relation symbiotique avec la végétation, plusieurs petits arbres poussant sur son dos. Ces arbres font de la photosynthèse et aident à fournir des nutriments au Colosse.\n\nUne fois apprivoisé, le colosse peut être périodiquement "taillé" pour obtenir du bois.</AA_OvergrownColossus.description>
+<AA_OvergrownColossus.tools.head.label>tête</AA_OvergrownColossus.tools.head.label>
+
+<AA_PebbleMit.label>pagure caillou</AA_PebbleMit.label>
+<AA_PebbleMit.description>Les pagures cailloux sont des pagures rocher qui ont évolué dans la Bordure riches en grottes étroites et labyrinthiques, où la taille massive est plus un obstacle qu'un avantage.\n\nAu lieu d'énormes rochers, les pagures cailloux utilisent des roches beaucoup plus petites comme protection, en les traînant lentement sur le sol. De petits blocs de pierre se détachent périodiquement de cette roche, et ils peuvent être utilisés comme matériaux de construction.</AA_PebbleMit.description>
+<AA_PebbleMit.tools.head.label>tête</AA_PebbleMit.tools.head.label>
+
+<AA_PedigreedRaptor.label>raptor à pédigrée</AA_PedigreedRaptor.label>
+<AA_PedigreedRaptor.description>Dromaeosauridé génétiquement reconstitué, le raptor à pédigrée est un parfait exemple de la décadence présente dans de nombreux Glitterworlds. Commandées par les élites de Glitterworld comme un symbole de statut et de richesse, ces bêtes sont fabriquées pour participer à des compétitions où les propriétaires gagnent des titres en fonction de la conformité de leurs animaux aux normes de leur race.\n\nLâchés dans la Bordure, les raptors ont généralement une vie courte, car ils dépendent de leurs propriétaires humains pour survivre, leurs instincts violents ayant été éduqués depuis longtemps. Ils sont cependant d'excellents compagnons, et ils sont plutôt jolis (d'un point de vue mécanique, le raptor à pédigrée augmente de 15% la beauté de toute pièce où il se trouve).</AA_PedigreedRaptor.description>
+<AA_PedigreedRaptor.tools.claws.label>griffes</AA_PedigreedRaptor.tools.claws.label>
+<AA_PedigreedRaptor.tools.head.label>tête</AA_PedigreedRaptor.tools.head.label>
+
+<AA_PhoenixOwlcat.label>hibou phénix</AA_PhoenixOwlcat.label>
+<AA_PhoenixOwlcat.description>Félin génétiquement modifié aux caractéristiques aviaires, le Hibou de Phénix a été créé comme une alternative durable aux chats de base fragiles. Un compagnon loyal qui n'est pas si facilement chassé et abattu par les formes de vie hostiles présentes sur les planètes de la Bordure.\n\nL'ancien folklore populaire des chats ayant neuf vies a été utilisé comme modèle pour créer le Hibou Phénix : un essaim de puissants mécanites dans son système sanguin est capable de le sauver de 9 blessures mortelles avant d'être définitivement perdu par décohérence.\n\nGraphique animalier RW inspiré de la création originale de RobtheDoodler (voir sa page Deviant Art : https://www.deviantart.com/robthedoodler!).</AA_PhoenixOwlcat.description>
+<AA_PhoenixOwlcat.tools.left_claw.label>griffe gauche</AA_PhoenixOwlcat.tools.left_claw.label>
+<AA_PhoenixOwlcat.tools.right_claw.label>griffe droite</AA_PhoenixOwlcat.tools.right_claw.label>
+<AA_PhoenixOwlcat.tools.head.label>tête</AA_PhoenixOwlcat.tools.head.label>
+
+<AA_Plasmorph.label>plasmaphore</AA_Plasmorph.label>
+<AA_Plasmorph.description>Cet escargot mutant bizarre a une façon très étrange de se défendre contre les prédateurs. À l'intérieur de sa coquille blindée faite de sulfure de fer, des organes spécialisés situés le long du corps du plasmaphore génèrent une décharge électrique semblable à celle que l'on trouve chez les anguilles électriques. Cette décharge est de très faible voltage, pas assez puissante pour endommager la plupart des créatures. Cependant, le plasmaphore l'utilise comme une étincelle pour enflammer sa propre salive inflammable et la projeter sur sa proie.\n\nUn mécanisme aussi étrange n'est sûrement pas naturel, mais quel était son but est un mystère perdu dans les âges.</AA_Plasmorph.description>
+<AA_Plasmorph.tools.eyestalk.label>pédoncule oculaire</AA_Plasmorph.tools.eyestalk.label>
+<AA_Plasmorph.verbs.fire_spit.label>crachat de feu</AA_Plasmorph.verbs.fire_spit.label>
+
+<AA_Radyak.label>radyack</AA_Radyak.label>
+<AA_Radyak.description>Le radyack est un herbivore pacifique élevé pour prospérer dans des environnements à fortes radiations. Son tube digestif de ruminant est composé de six estomacs bioniques, renforcés par un bio-réseau plombé conçu pour extraire les matières radioactives résiduelles des cellules d'herbe. Cette matière radioactive est ensuite déposée dans des formations de type cristal qui percent la peau dure de la créature. Ces cristaux peuvent être récoltés périodiquement et raffinés en uranium dans une raffinerie standard de chemfuel.\n\nLa technologie permettant de créer des créatures aussi soigneusement conçues est totalement hors de portée de la plupart des sociétés de la Bordure, aussi le radyack est une acquisition précieuse.</AA_Radyak.description>
+<AA_Radyak.tools.head.label>tête</AA_Radyak.tools.head.label>
+<AA_Radyak.tools.left_hoof.label>sabot gauche</AA_Radyak.tools.left_hoof.label>
+<AA_Radyak.tools.right_hoof.label>sabot droit</AA_Radyak.tools.right_hoof.label>
+
+<AA_RaptorShrimp.label>crevette raptor</AA_RaptorShrimp.label>
+<AA_RaptorShrimp.description>Une grande créature génétiquement modifiée, dont les origines sont inconnues. Elle est connue pour s'installer dans les régions tropicales, inspirant la peur aux habitants locaux, car ceux qui traversent son territoire sont souvent portés disparus, leurs corps ne sont jamais retrouvés.\n\nLes rares personnes qui ont survécu à une rencontre avec ces monstres rapportent qu'on leur a tiré dessus, qu'on leur a arraché les membres de leurs compagnons et qu'on leur a dit : "L'herbe a des yeux".\n\nLes crevettes raptors ont des capacités de régénération impressionnantes, et ne devraient pas être considérées comme mortes tant qu'elles ne le sont pas absolument et indubitablement.\n\nArt par prayogaardip, avec l'aimable autorisation d'Oskar Potocki.</AA_RaptorShrimp.description>
+<AA_RaptorShrimp.race.meatLabel>viande de crevette raptor</AA_RaptorShrimp.race.meatLabel>
+<AA_RaptorShrimp.tools.head.label>tête</AA_RaptorShrimp.tools.head.label>
+<AA_RaptorShrimp.tools.left_blade.label>lame gauche</AA_RaptorShrimp.tools.left_blade.label>
+<AA_RaptorShrimp.tools.right_blade.label>lame droite</AA_RaptorShrimp.tools.right_blade.label>
+
+<AA_Ravager.label>ravageur</AA_Ravager.label>
+<AA_Ravager.description>Ce grand insectoïde génétiquement modifié faisait partie de la Ruche Noire, un écosystème artificiel d'insectoïdes conçu pour lutter contre les invasions mécanoïdes. Le Ravageur a été conçu comme une arme biologique dans l'espace. Des capsules remplies à ras bord de Ravageurs étaient lancées vers des vaisseaux mécanoïdes sans méfiance, et les redoutables insectoïdes déchiraient le blindage du vaisseau et détruisaient tous les mécanoïdes à l'intérieur. Les Ravageurs se sont avérés trop peu fiables, et la génération a été abandonnée.\n\nPlusieurs Ravageurs peuvent être vus aujourd'hui dans des vaisseaux spatiaux abandonnés, des stations et des astéroïdes. Heureusement, ils sont adaptés à la vie dans l'espace et ne se mélangent pas aux autres insectoïdes de la Ruche Noire.</AA_Ravager.description>
+<AA_Ravager.tools.triple_maw.label>triple mâchoire</AA_Ravager.tools.triple_maw.label>
+<AA_Ravager.tools.head.label>tête</AA_Ravager.tools.head.label>
+
+<AA_RayHound.label>molosse-raies</AA_RayHound.label>
+<AA_RayHound.description>Les molosses-raies (i Salvator Electricus i), également appelés molosse reptile, sont une espèce génétiquement modifiée basée sur le tégu noir et blanc d'Argentine, avec plusieurs traits de l'anguille électrique commune. La paire de tentacules charnues qui s'étendent à partir du crâne du chien-raie est électrogène, et l'animal s'en sert comme mécanisme de défense contre les prédateurs. En pratique, les molosses-raies ont été créés comme une défense biologique facilement entraînable contre les mécanoïdes, car une décharge électrique provenant des tentacules d'un chien-raie peut facilement désactiver les circuits électroniques.\n\nLes molosses-raies font de bons animaux de compagnie, car ils ont tendance à s'habituer à leurs maîtres et sont généralement assez dociles à l'âge adulte.\n\nArt par MahrimbArt (voir son Instagram : https://www.instagram.com/mahrimb.art/)</AA_RayHound.description>
+<AA_RayHound.tools.left_tentacle.label>tentacule gauche</AA_RayHound.tools.left_tentacle.label>
+<AA_RayHound.tools.right_tentacle.label>tentacule droit</AA_RayHound.tools.right_tentacle.label>
+<AA_RayHound.tools.head.label>tête</AA_RayHound.tools.head.label>
+
+<AA_Razorjack.label>dent de rasoir</AA_Razorjack.label>
+<AA_Razorjack.description>Le dent de rasoir est une créature très agressive et adaptable, dotée d'un corps étrange : une bouche à deux mâchoires qui mène à deux systèmes digestifs distincts mais entrelacés, chacun d'eux étant adapté pour consommer différents types de nourriture. Cette disposition leur permet d'être extrêmement économes en énergie et d'avoir besoin de très peu de nourriture. Bien qu'il puisse sembler canin au premier abord, son génome a plus de points communs avec celui des rongeurs, avec quelques ajouts génétiques inhabituels. Les blessures causées par les dents de rasoir ont tendance à s'infecter très facilement.\n\nLes dents de rasoir peuvent vivre dans les conditions les plus désolées, car leurs besoins en nourriture sont très faibles. Les Razorjacks les plus féroces sont spécialement entraînés, élevés et transformés en de redoutables bêtes de guerre, connues sous le nom de Dent de Sabre, utilisées par les clans de guerre sauvage comme de terrifiants chiens de guerre. (Concept original du Dent de Sabre par Rooki12k, dans le mod Rimsenal : Feral)</AA_Razorjack.description>
+<AA_Razorjack.tools.left_claw.label>griffe gauche</AA_Razorjack.tools.left_claw.label>
+<AA_Razorjack.tools.right_claw.label>griffe droite</AA_Razorjack.tools.right_claw.label>
+<AA_Razorjack.tools.razorfangs.label>crocs rasoir</AA_Razorjack.tools.razorfangs.label>
+<AA_Razorjack.tools.head.label>tête</AA_Razorjack.tools.head.label>
+
+<AA_RedGoo.label>matière rouge</AA_RedGoo.label>
+<AA_RedGoo.description>Cette masse de matière organique bouillonnante semble être une extension du terrain lui-même, une excroissance défigurée à laquelle on a donné un semblant de vie.\n\nLa matière rouge semble prospérer dans l'environnement étrangement bizarre de la forêt oculaire, grignotant la végétation aberrante et se clonant périodiquement. NOTE : en raison de contraintes de gameplay, la matière rouge s'auto-réplique seulement jusqu'à 15 créatures sur la carte, car je ne veux pas griller vos ordinateurs. Notez que les créatures asexuées ne peuvent pas être stérilisées.</AA_RedGoo.description>
+<AA_RedGoo.comps.CompAsexualReproduction.customString>Clonage dans : </AA_RedGoo.comps.CompAsexualReproduction.customString>
+<AA_RedGoo.tools.tentacles.label>tentacules</AA_RedGoo.tools.tentacles.label>
+<AA_RedGoo.verbs.venomous_spit.label>crachat venimeux</AA_RedGoo.verbs.venomous_spit.label>
+
+<AA_RedSpore.label>spore rouge</AA_RedSpore.label>
+<AA_RedSpore.description>Semblable à la gelée oculaire, cette étrange créature est d'origine inconnue. Elle ne semble même pas être à base de carbone, mais plutôt de gallium comme base de sa structure et de ses fonctions vitales. Ceci est considéré comme physiquement impossible dans des circonstances normales, donc le spore rouge peut peut-être venir d'un endroit où les règles sont très différentes de cet univers.\n\nCe fait rend le spore rouge intrinsèquement instable, avec une faible durée de vie, enclin à exploser violemment et incapable de se reproduire normalement. En tant que créature flottante, les spores rouges ignorent les coûts de mouvement du terrain.</AA_RedSpore.description>
+<AA_RedSpore.tools.tentacles.label>tentacules</AA_RedSpore.tools.tentacles.label>
+<AA_RedSpore.verbs.venomous_spit.label>crachat venimeux</AA_RedSpore.verbs.venomous_spit.label>
+
+<AA_RipperHound.label>molosse éventreur</AA_RipperHound.label>
+<AA_RipperHound.description>Les molosses éventreurs ont été créés comme un moyen de défense purement biologique contre les Insectoïdes, une espèce génétiquement modifiée et élevée pour les chasser et les vaincre. Ces canidés imposants possèdent deux griffes vicieuses spécialement conçues pour se fixer aux plaques chitinoïdes et les déchirer.\n\nMalgré leur aspect redoutable, les molosses éventreurs peuvent être extrêmement affectueux et loyaux, et ils adorent être caressés par ceux en qui ils ont confiance.\n\nArt par PaptrishA (voir son Twitter : https://twitter.com/PaptrishA)</AA_RipperHound.description>
+<AA_RipperHound.tools.left_claw.label>griffe gauche</AA_RipperHound.tools.left_claw.label>
+<AA_RipperHound.tools.right_claw.label>griffe droite</AA_RipperHound.tools.right_claw.label>
+<AA_RipperHound.tools.head.label>tête</AA_RipperHound.tools.head.label>
+
+<AA_RoughPlatedMonitor.label>varan plaque brute</AA_RoughPlatedMonitor.label>
+<AA_RoughPlatedMonitor.description>Le varan plaque brute, (i Varanus Bracteatus i), est un grand varan adapté à des conditions de vie extrêmes. Son corps et son métabolisme sont adaptés à des environnements plus acides que la normale. Il se développe autour des lacs volcaniques acides dont le pH de l'eau est de 2 à 3. Cette immunité à l'acide lui permet de s'attaquer à d'autres créatures qui utilisent l'acide pour dissuader leurs prédateurs.\n\nLe varan plaque brute pond des œufs qui ont tendance à exploser brutalement dans une dangereuse éclaboussure d'acide lors de l'éclosion.\n\nArt par MahrimbArt (voir son Instagram : https://www.instagram.com/mahrimb.art/)</AA_RoughPlatedMonitor.description>
+<AA_RoughPlatedMonitor.race.meatLabel>viande de lézard</AA_RoughPlatedMonitor.race.meatLabel>
+<AA_RoughPlatedMonitor.tools.left_claw.label>griffe gauche</AA_RoughPlatedMonitor.tools.left_claw.label>
+<AA_RoughPlatedMonitor.tools.right_claw.label>griffe droite</AA_RoughPlatedMonitor.tools.right_claw.label>
+<AA_RoughPlatedMonitor.tools.fangs.label>crocs</AA_RoughPlatedMonitor.tools.fangs.label>
+<AA_RoughPlatedMonitor.tools.head.label>tête</AA_RoughPlatedMonitor.tools.head.label>
+
+<AA_RoyalAve.label>ave royal</AA_RoyalAve.label>
+<AA_RoyalAve.description>Les Aves royaux sont de grands oiseaux incapables de voler et dotés de plumes colorées. Les Aves royaux étaient à l'origine des Aves des prés sauvages qui ont été croisés pendant des générations pour réduire leur entêtement et augmenter leur pelage. Certains de ces animaux de compagnie très prisés sont libérés dans la nature, une vie à laquelle ils sont mal adaptés. Chez les Aves royaux, le plumage est plus flamboyant qu'à l'accoutumée : si vous avez de la chance, vous pourrez mettre la main sur l'incroyablement rare Ave arc-en-ciel, qui ne fait rien de spécial en dehors de son aspect bizarre.\n\nLes Aves royaux sont des montures extraordinaires, bien plus rapides que les chevaux, et s'ils sont correctement entraînés, ils peuvent être montés au combat à des vitesses incroyables (cette interaction nécessite le mod Giddy-Up, combat mounts, qui permet aux Aves royaux de se déplacer 50% plus vite lorsqu'ils sont utilisés comme montures).</AA_RoyalAve.description>
+<AA_RoyalAve.tools.claws.label>griffes</AA_RoyalAve.tools.claws.label>
+<AA_RoyalAve.tools.head.label>tête</AA_RoyalAve.tools.head.label>
+
+<AA_SandLion.label>lion des sables</AA_SandLion.label>
+<AA_SandLion.description>Le lion des sables est une variante du lion arctique génétiquement modifié, spécialement conçue par la marine comme unité d'embuscade pour les environnements à température extrême. Au lieu d'avoir une peau réfléchissant la lumière, le lion des sables a la capacité unique de creuser constamment dans le sable, produisant des nuages denses de particules qui obscurcissent la ligne de vue de sa proie, facilitant ainsi son attaque.\n\nEn raison de cette capacité, il n'est pas vraiment conseillé d'attaquer un lion des sables avec des armes à feu, à moins qu'il ne s'agisse de TRES grosses armes.</AA_SandLion.description>
+<AA_SandLion.tools.left_claw.label>griffe gauche</AA_SandLion.tools.left_claw.label>
+<AA_SandLion.tools.right_claw.label>griffe droite</AA_SandLion.tools.right_claw.label>
+<AA_SandLion.tools.head.label>tête</AA_SandLion.tools.head.label>
+
+<AA_SandProwler.label>rôdeur des sables</AA_SandProwler.label>
+<AA_SandProwler.description>Amalgame génétique possédant les caractéristiques d'un lion, d'un requin et d'un scinque des sables, le rôdeur des sables a été créé à l'origine comme un animal de chasse féroce pour les planètes désertiques.\n\nLe rôdeur des sables peut rapidement s'enfouir et "nager" dans le sable, cachant ainsi la majeure partie de son corps et lui permettant de frapper sa proie en toute sécurité. Il n'est capable de s'enfouir que dans du sable, les autres sols étant trop denses pour être traversés.\n\nArt par MahrimbArt (voir son Instagram : https://www.instagram.com/mahrimb.art/)</AA_SandProwler.description>
+<AA_SandProwler.tools.left_claw.label>griffe gauche</AA_SandProwler.tools.left_claw.label>
+<AA_SandProwler.tools.right_claw.label>griffe droite</AA_SandProwler.tools.right_claw.label>
+<AA_SandProwler.tools.head.label>tête</AA_SandProwler.tools.head.label>
+
+<AA_SandSquid.label>calmar des sables</AA_SandSquid.label>
+<AA_SandSquid.description>Malgré leur nom commun, les calmars des sables sont en fait des créatures génétiquement modifiées qui incorporent des caractéristiques à la fois des céphalopodes et des escargots coniques. Les calmars des sables ont été créés comme du bétail adapté à des environnements extrêmement dépourvus d'eau, tels que les déserts très secs.\n\nLe calmar des sables produit constamment une sécrétion collante qui agit comme un puissant engrais lorsqu'elle est mélangée à du sable ordinaire, permettant ainsi la croissance des cultures au milieu du désert. Le calmar peut être entraîné à répartir correctement sa bave autour des champs pour augmenter encore plus la fertilité du terrain. (NOTE : pour des raisons d'équilibre, le calmar ne fera cela que s'il est apprivoisé, je ne veux pas qu'il sème la pagaille sur toute la carte lorsqu'il est sauvage...)</AA_SandSquid.description>
+<AA_SandSquid.race.meatLabel>chair de calmar</AA_SandSquid.race.meatLabel>
+<AA_SandSquid.tools.tentacle.label>tentacule</AA_SandSquid.tools.tentacle.label>
+
+<AA_ShockGoat.label>chèvre de choc</AA_ShockGoat.label>
+<AA_ShockGoat.description>Les chèvres de choc sont des bovins domestiqués, réputés pour leur capacité à stocker de l'électricité statique sur leurs structures osseuses, et à la libérer comme mesure défensive. Il est intéressant de noter que la chèvre de choc possède des caractéristiques communes à de nombreuses autres espèces de la Bordure, comme trois paires d'yeux, et des caractéristiques typiques des chèvres terriennes, comme les cornes. Cela permet de conclure que les chèvres de choc sont en fait un croisement fertile de deux créatures différentes, créées dans le passé par une colonie humaine et relâchées dans la nature pour une raison inconnue.\n\nQuel que soit le mystère qui se cache derrière leurs origines, on les voit aujourd'hui couramment dans les communautés agricoles de plusieurs mondes de la planète Rim, car elles produisent des quantités de lait décentes.</AA_ShockGoat.description>
+<AA_ShockGoat.tools.left_hoof.label>sabot gauche</AA_ShockGoat.tools.left_hoof.label>
+<AA_ShockGoat.tools.right_hoof.label>sabot droit</AA_ShockGoat.tools.right_hoof.label>
+<AA_ShockGoat.tools.horns.label>cornes</AA_ShockGoat.tools.horns.label>
+
+<AA_Skiphound.label>molosse transfert</AA_Skiphound.label>
+<AA_Skiphound.description>Le concept derrière la création des molosses transfert était simple : De l'ADN d'un Animus Vox épissé dans le génome de chiens de compagnie loyaux pour créer une créature qui viendrait toujours quand on l'appelle, étant capable de détecter psychiquement les souhaits de son maître. Le résultat, cependant, était complètement inattendu : Les molosses transfert utilisent de manière incontrôlée leurs pouvoirs psychiques pour apparaître et disparaître, ce qui les rend extrêmement imprévisibles.\n\nLes molosses transfert utilisent ce pouvoir psychique en permanence, sauf s'ils mangent ou dorment. Un molosse transfert qui attaque se téléporte rapidement près de sa proie, rendant complètement inutiles de nombreuses défenses comme les barricades et les murs.</AA_Skiphound.description>
+<AA_Skiphound.tools.left_claw.label>griffe gauche</AA_Skiphound.tools.left_claw.label>
+<AA_Skiphound.tools.right_claw.label>griffe droite</AA_Skiphound.tools.right_claw.label>
+<AA_Skiphound.tools.head.label>tête</AA_Skiphound.tools.head.label>
+
+<AA_Skyeel.label>anguille du ciel Arcturan</AA_Skyeel.label>
+<AA_Skyeel.description>L'anguille du ciel Arcturan est une étrange créature de l'espace qui habite les astéroïdes de la ceinture d'astéroïdes d'un système. On ne les trouve généralement pas à la surface d'une planète, à moins qu'elles n'y soient amenées d'une manière ou d'une autre. Le corps d'une anguille du ciel est étonnamment léger, et elle n'a aucun problème à voler dans une atmosphère terrestre. Elles ont également des mécanismes de défense basés sur l'électricité, et une faible capacité de régénération.\n\nLes anguilles du ciel ont besoin de très peu de nourriture et peuvent être dressées comme de simples animaux de compagnie, bien que quelque peu affectueux. En tant que créature flottante, les anguilles du ciel ignorent les coûts de déplacement du terrain.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_Skyeel.description>
+<AA_Skyeel.tools.head.label>tête</AA_Skyeel.tools.head.label>
+
+<AA_Slurrypede.label>bouillipède</AA_Slurrypede.label>
+<AA_Slurrypede.description>Bien que rares, les mécanoïdes sont connus pour capturer des prisonniers, et le bouillipède est leur solution pour les nourrir de la manière la plus efficace possible. Le bouillipède est un bio-mécanoïde modifié capable de dévorer presque tout et de le transformer en une bouillie organique homogène. Cette bouillie est comestible pour les animaux carnivores et omnivores, mais à peine, et complètement indigeste pour les herbivores.\n\nLes bouillipèdes sont dociles, presque jamais hostiles, et au cas où une base mécanoïde serait détruite et que l'un d'entre eux parvenait à survivre, ils ont tendance à errer sans but dans la nature, consommant toute matière organique sur leur passage et la transformant en pâte nutritive.</AA_Slurrypede.description>
+<AA_Slurrypede.tools.head.label>tête</AA_Slurrypede.tools.head.label>
+
+<AA_SpinedGow.label>vachèvre épineuse</AA_SpinedGow.label>
+<AA_SpinedGow.description>Les vachèvres épineuses sont des animaux de ferme présentant des caractéristiques de la vache et de la chèvre, élevés pour survivre dans des environnements extrêmes.\n\nLes vachèvres épineuses sont herbivores et se contentent de brouter dans n'importe quelle prairie. Toutefois, leurs épines dorsales neurales leur fournissent un type de subsistance différent et supplémentaire : lorsque la créature se trouve à proximité d'un terrain géologiquement actif, comme de la lave liquide, les épines absorbent une partie de la chaleur intense qui s'en dégage et la convertissent en énergie chimique.\n\nLes vachèvres épineuses fournissent un lait très nutritif.</AA_SpinedGow.description>
+<AA_SpinedGow.tools.head.label>tête</AA_SpinedGow.tools.head.label>
+<AA_SpinedGow.tools.left_hoof.label>sabot gauche</AA_SpinedGow.tools.left_hoof.label>
+<AA_SpinedGow.tools.right_hoof.label>sabot droit</AA_SpinedGow.tools.right_hoof.label>
+
+<AA_Swarmling.label>essaimling</AA_Swarmling.label>
+<AA_Swarmling.description>La colonisation de l'espace par les humains a lentement disséminé les lignes génétiques de l'ancienne Terre à travers les étoiles, et toutes sortes d'animaux terriens ont été utilisés pour peupler et terraformer les nouveaux mondes étranges. Certains de ces animaux, cependant, étaient des nuisibles, s'installant dans les vaisseaux spatiaux et se multipliant aux dépens de l'humanité. Les essaimling étaient l'un de ces animaux nuisibles. Selon les historiens de l'Ordo Historia, les essaimling étaient l'une des premières créations de l'humanité issues du génie génétique, élevés pour enrichir la biosphère de Mars, jusqu'à ce qu'ils se retrouvent à bord d'un vaisseau de colonie interstellaire.\n\nLes essaimling ne sont pas très dangereux par eux-mêmes, mais... ils ne sont jamais seuls. Il s'agit d'une espèce asexuée avec un étrange cycle de reproduction : lorsqu'ils attaquent une autre créature, ils y implantent des larves qui éclosent une fois la créature morte.</AA_Swarmling.description>
+<AA_Swarmling.tools.left_claw.label>griffe gauche</AA_Swarmling.tools.left_claw.label>
+<AA_Swarmling.tools.right_claw.label>griffe droite</AA_Swarmling.tools.right_claw.label>
+<AA_Swarmling.tools.head.label>tête</AA_Swarmling.tools.head.label>
+
+<AA_TarGuzzler.label>gobeur de goudron</AA_TarGuzzler.label>
+<AA_TarGuzzler.description>Cette bête à l'aspect menaçant peut sembler être une créature extraterrestre, mais en réalité, elle a été créée artificiellement pour éliminer les déchets vivants. Le gobeur de goudron rampe sur la boue desséchée à l'aide de six tentacules puissants, à la recherche de sa nourriture préférée : les flaques de goudron visqueux.\n\nLes gobeurs de goudron ont une intelligence très limitée et, en tant que créatures dégoûtantes, ils n'ont aucun prédateur naturel, ce qui fait qu'ils se contentent généralement de rester seuls.</AA_TarGuzzler.description>
+<AA_TarGuzzler.tools.left_claw.label>griffe gauche</AA_TarGuzzler.tools.left_claw.label>
+<AA_TarGuzzler.tools.right_claw.label>griffe droite</AA_TarGuzzler.tools.right_claw.label>
+<AA_TarGuzzler.tools.gaping_maw.label>gueule béante</AA_TarGuzzler.tools.gaping_maw.label>
+<AA_TarGuzzler.tools.head.label>tête</AA_TarGuzzler.tools.head.label>
+
+<AA_TeratogenicOriginator.label>initiateur tératogène</AA_TeratogenicOriginator.label>
+<AA_TeratogenicOriginator.description>Cette créature amorphe, de couleur chair et translucide, semble dépourvue de tout sauf des instincts les plus élémentaires, se déplaçant lentement et dévorant parfois toute plante avec laquelle elle entre en contact, l'incorporant dans son cytoplasme. Il y a quelques morceaux de chair d'apparence normale qui flottent à l'intérieur.\n\nLes initiateurs tératogènes sont en fait une énorme colonie clonale de cellules souches pluripotentes, capables de se différencier en différents tissus. Ils ont été créés par un groupe de scientifiques peu scrupuleux afin de créer à moindre coût des membres de laboratoire adaptés aux greffes, mais le résultat final est loin d'être idéal. Ces étranges membres mutants peuvent être périodiquement excisés de la créature et utilisés à volonté. Notez que les créatures asexuées ne peuvent pas être stérilisées.</AA_TeratogenicOriginator.description>
+<AA_TeratogenicOriginator.comps.CompAsexualReproduction.customString>Clonage dans : </AA_TeratogenicOriginator.comps.CompAsexualReproduction.customString>
+<AA_TeratogenicOriginator.tools.tentacles.label>tentacules</AA_TeratogenicOriginator.tools.tentacles.label>
+
+<AA_Terramorph.label>terramorphe</AA_Terramorph.label>
+<AA_Terramorph.description>Cet étrange crustacé a été créé dans un seul but : le traitement des minéraux. Le Terramorphe peut se nourrir de composés de fer et les traiter chimiquement pour les transformer lentement en un minéral durci connu sous le nom de "cielacier", que l'on ne trouve normalement que sur les astéroïdes.\n\nLe processus de transmutation est très lent, le Terramorphe doit donc passer beaucoup de temps entouré de morceaux d'acier extraits. Le Terramorphe peut aussi consommer lentement, mais pas le transformer, des débris d'acier.</AA_Terramorph.description>
+<AA_Terramorph.tools.fangs.label>crocs</AA_Terramorph.tools.fangs.label>
+<AA_Terramorph.tools.head.label>tête</AA_Terramorph.tools.head.label>
+
+<AA_TetraSlug.label>tétra-limace</AA_TetraSlug.label>
+<AA_TetraSlug.description>Ces limaces massives sont courantes dans les territoires contrôlés par le Glitterworld, où elles se déplacent comme des centrales électriques glorifiées. En dehors de ces territoires, elles sont déployées comme source d'énergie mobile pour les expéditions de recherche du Glitterworld. Il est rare d'en voir une sans le noyau d'énergie emblématique qui dépasse de son dos, car la composition chimique unique de son corps est capable de produire une énergie qui dépasse de loin toutes les sources naturelles connues. Elles sont donc très appréciées par toutes les civilisations technologiquement développées de la galaxie.\n\nBien qu'il s'agisse d'une gentille géante qui préfère s'enfuir plutôt que de se battre, les limaces modifiées sont dotées d'une carapace en plastacier, de quadruples noyaux pouvant servir de canons Tesla et d'une IA tactique insérée dans le cerveau qui prend le contrôle et n'hésite pas à utiliser tout son armement pour anéantir toute menace perçue à proximité.\n\nLes tétra-limaces correctement équipés rechargent lentement les batteries à proximité (la plupart des batteries modifiées sont prises en charge).</AA_TetraSlug.description>
+<AA_TetraSlug.tools.body.label>corps</AA_TetraSlug.tools.body.label>
+<AA_TetraSlug.verbs.quad_tesla_cannon.label>quadruple canon tesla</AA_TetraSlug.verbs.quad_tesla_cannon.label>
+
+<AA_Thermadon.label>thermadon</AA_Thermadon.label>
+<AA_Thermadon.description>Le Thermadon est une mégaraignée noire qui a été biologiquement augmentée de glandes chimiques volatiles. À l'origine, le Thermadon a été créé par les créateurs oubliés de la Ruche Noire comme une redoutable troupe de choc crachant du feu, utilisant des bombes thermiques capables d'affecter même les Mécanoïdes résistants au feu, l'objectif principal de la Ruche Noire. Les Mécanoïdes ont cependant réussi à s'adapter rapidement à ces bombes biologiques, et le projet Thermadon a donc été abandonné.\n\nApparemment, certains d'entre eux ont réussi à s'échapper dans la nature.\n\nSimplement... n'attaquez pas cette chose si votre base est en bois, hum ok ?</AA_Thermadon.description>
+<AA_Thermadon.tools.head_claw.label>griffe de tête</AA_Thermadon.tools.head_claw.label>
+<AA_Thermadon.tools.head.label>tête</AA_Thermadon.tools.head.label>
+<AA_Thermadon.verbs.thermal_detonating_spit.label>crachats à détonation thermique</AA_Thermadon.verbs.thermal_detonating_spit.label>
+
+<AA_Thunderbeast.label>créature du tonnerre</AA_Thunderbeast.label>
+<AA_Thunderbeast.description>La créature du tonnerre est un mammifère de type porcin capable de générer de grands courants électriques grâce à un système nerveux hautement spécialisé qui a la capacité de synchroniser l'activité de cellules productrices d'électricité en forme de disque regroupées dans un organe électrique spécialisé.\n\nBien qu'elles aient été créées à l'origine pour générer de la bioélectricité, comme les tétra-limaces, les créatures du tonnerre ont naturellement évolué au fil des siècles, ce qui les rend extrêmement instables. Les créatures du tonnerre peuvent libérer des chocs électriques à de grandes distances, et elles affectent négativement la météo si elles sont abattues. Heureusement, les prédateurs les laissent généralement de côté.</AA_Thunderbeast.description>
+<AA_Thunderbeast.tools.horn.label>corne</AA_Thunderbeast.tools.horn.label>
+<AA_Thunderbeast.tools.head.label>tête</AA_Thunderbeast.tools.head.label>
+<AA_Thunderbeast.verbs.electric_bolt.label>choc électrique</AA_Thunderbeast.verbs.electric_bolt.label>
+
+<AA_UnblinkingEye.label>œil sans cillement</AA_UnblinkingEye.label>
+<AA_UnblinkingEye.description>Une créature chitineuse flottante couverte de pointes et d'yeux sans cillement. Créée en insufflant à un très gros animal des énergies étranges issues d'une corruption extra-dimensionnelle.</AA_UnblinkingEye.description>
+<AA_UnblinkingEye.verbs.melting_gaze.label>regard de fusion</AA_UnblinkingEye.verbs.melting_gaze.label>
+
+<AA_Wildpawn.label>wildpawn</AA_Wildpawn.label>
+<AA_Wildpawn.description>Les Wildpawns sont une variante des Wildpods qui se sont adaptés à la vie en dehors des marécages et des forêts tropicales. Comme ils ont moins accès à l'eau et à la végétation en décomposition, ils grandissent bien moins et sont bien moins dangereux. Les Wildpawns sont moins résistants aux tirs d'armes à feu, mais conservent la vulnérabilité au feu de leurs congénères plus grands. Les Wildpawns se reproduisent de manière asexuée en libérant des amas de spores toutes les quelques semaines, de sorte que leurs enfants sont complètement sauvages et indépendants d'eux, sans aucun concept de parentalité. Notez que les créatures asexuées ne peuvent pas être stérilisées.\n\nBien que cela soit risqué, les Wildpawns peuvent être chassés ou cultivés pour obtenir de petites quantités de champignons crus comestibles.</AA_Wildpawn.description>
+<AA_Wildpawn.comps.CompAsexualReproduction.customString>Dispersion des spores dans : </AA_Wildpawn.comps.CompAsexualReproduction.customString>
+<AA_Wildpawn.tools.left_paw.label>patte gauche</AA_Wildpawn.tools.left_paw.label>
+<AA_Wildpawn.tools.right_paw.label>patte droite</AA_Wildpawn.tools.right_paw.label>
+<AA_Wildpawn.tools.head.label>tête</AA_Wildpawn.tools.head.label>
+
+<AA_Wildpod.label>wildpod</AA_Wildpod.label>
+<AA_Wildpod.description>Cette lourde masse de matière végétale apparemment en décomposition est un Wildpod, une créature mycoïde intelligente originaire d'une planète de la Bordure infestée de jungles. Le Wildpod est presque imperméable aux tirs d'armes à feu, les balles étant simplement absorbées par sa masse sans faire beaucoup de dégâts, mais il est très sensible au feu. Il est intéressant de noter qu'il se reproduit de manière asexuée en libérant des amas de spores toutes les quelques semaines, de sorte que ses enfants sont complètement sauvages et indépendants de lui, sans aucun concept de parentalité. Notez que les créatures asexuées ne peuvent pas être stérilisées.\n\nBien que risqué, le Wildpod peut être chassé ou cultivé pour obtenir des quantités décentes de champignons crus comestibles.</AA_Wildpod.description>
+<AA_Wildpod.comps.CompAsexualReproduction.customString>Dispersion des spores dans : </AA_Wildpod.comps.CompAsexualReproduction.customString>
+<AA_Wildpod.tools.left_paw.label>patte gauche</AA_Wildpod.tools.left_paw.label>
+<AA_Wildpod.tools.right_paw.label>patte droite</AA_Wildpod.tools.right_paw.label>
+<AA_Wildpod.tools.head.label>tête</AA_Wildpod.tools.head.label>
+
+<AA_WindBeast.label>créature du vent</AA_WindBeast.label>
+<AA_WindBeast.description>La créature du vent est une variante de la créature du tonnerre, dans laquelle les organes bioélectriques ont été retirés et remplacés par des tentacules charnus abritant un réseau distribué de mécanites affectant le temps.\n\nCes essaims de mécanites déployables ont la capacité d'affecter le temps de manière localisée, en créant des variations de pression qui peuvent se transformer en véritables ouragans. Cet effet est utilisé de manière offensive par la créature, et elle est particulièrement dangereuse si elle est tuée, car la libération soudaine de tous les mécanites peut provoquer une tornade. Heureusement, les prédateurs les laissent généralement de côté et elles sont assez rares.</AA_WindBeast.description>
+<AA_WindBeast.tools.horn.label>corne</AA_WindBeast.tools.horn.label>
+<AA_WindBeast.tools.head.label>tête</AA_WindBeast.tools.head.label>
+<AA_WindBeast.verbs.wind_blast.label>coup de vent</AA_WindBeast.verbs.wind_blast.label>
+
+
+
+<AA_TheOmniscientEye.label>œil omniscient</AA_TheOmniscientEye.label>
+<AA_TheOmniscientEye.description>Un œil injecté de sang avec une pupille triangulaire. Cet horrible œil mutant confère le don d'une meilleure vue psychique.</AA_TheOmniscientEye.description>
+
+<AA_TheRecalcitrantEye.label>œil récalcitrant</AA_TheRecalcitrantEye.label>
+<AA_TheRecalcitrantEye.description>Un œil mutant bizarre qui n'est jamais complètement ouvert, étant la plupart du temps partiellement couvert par une paupière d'apparence maladive. Étrangement, il permet de voir normalement tout en protégeant son hôte des attaques psychiques.</AA_TheRecalcitrantEye.description>
+
+<AA_TheQuiescentEye.label>œil apaisant</AA_TheQuiescentEye.label>
+<AA_TheQuiescentEye.description>Un œil qui ne cligne jamais, se gardant humide par des moyens inconnus. Il imprègne son hôte d'un sentiment de calme surnaturel.</AA_TheQuiescentEye.description>
+
+<AA_TheNumbingEye.label>œil engourdi</AA_TheNumbingEye.label>
+<AA_TheNumbingEye.description>Cet étrange œil mutant est recouvert de denses plaques d'os au lieu d'une paupière charnue normale, et semble être presque insensible à la douleur.</AA_TheNumbingEye.description>
+
+<AA_TheSpasmodicEye.label>œil spasmodique</AA_TheSpasmodicEye.label>
+<AA_TheSpasmodicEye.description>Un œil qui ne peut s'empêcher de cligner de façon incontrôlée. Bien qu'extrêmement distrayant et déconcertant, il permet à son hôte de lancer plus de pouvoirs psychiques avant de s'épuiser.</AA_TheSpasmodicEye.description>
+
+<AA_TheMeretriciousEye.label>œil clinquant</AA_TheMeretriciousEye.label>
+<AA_TheMeretriciousEye.description>Cet œil à l'aspect criard semble avoir une vie propre, essayant d'attirer l'attention d'autres personnes avec des clins d'œil soigneusement dirigés et des regards furtifs et sensuels qui attirent avec une fausse allure. Il permet à son hôte de se remettre plus rapidement de l'épuisement psychique.</AA_TheMeretriciousEye.description>
+
+<AA_TheHeuristicEye.label>œil heuristique</AA_TheHeuristicEye.label>
+<AA_TheHeuristicEye.description>Cet œil analyse son environnement avec une discipline soigneusement planifiée, ne manquant aucun détail.</AA_TheHeuristicEye.description>
+
+<AA_NightMilk.label>lait nocturne</AA_NightMilk.label>
+<AA_NightMilk.description>Très nutritif mais la couleur est plus que troublante.</AA_NightMilk.description>
+
+<AA_BlackTruffles.label>truffes noires</AA_BlackTruffles.label>
+<AA_BlackTruffles.description>Truffes noires crues. Une variété de champignon délicieuse et précieuse.</AA_BlackTruffles.description>
+
+<AA_Leather_Behemoth.label>écailles de béhémoth</AA_Leather_Behemoth.label>
+<AA_Leather_Behemoth.description>Des écailles dures et superposées de chitine draconique. Elles sont exceptionnellement résistantes au combat, mais offrent peu de protection contre les intempéries.</AA_Leather_Behemoth.description>
+
+<AA_NightWool.label>laine nocturne</AA_NightWool.label>
+<AA_NightWool.description>Cette laine aux teintes foncées est douce, légère et offre une très bonne isolation. Elle est plus résistante que d'autres laines similaires.</AA_NightWool.description>
+
+<AA_PsyWeb.label>toile psy</AA_PsyWeb.label>
+
+<FF_FlameBreathAnimated.label>souffle de flamme</FF_FlameBreathAnimated.label>
+
+<AA_Behemoth.label>béhémoth</AA_Behemoth.label>
+<AA_Behemoth.description>Une créature Oubliée, dont on pense qu'elle réside dans la ceinture d'étoiles extérieure. Les légendes parlent de dragons incroyablement intelligents et féroces, régnant sur des planètes entières avec leurs souffles de feu dévastateurs et leur pouvoir incompréhensible. Le tonnerre est leur voix et annonce leur venue. Ils étaient autrefois des centaines, et ne sont plus que quelques-uns. Aux derniers jours des Oubliés, ils se relèveront et obscurciront les cieux, lorsque viendra le jour du jugement.\n\nCapacités spéciales : Les Béhémoths étaient utilisés comme de puissantes bêtes de somme par les Oubliés, et ils peuvent très bien se défendre. Leurs attaques de feu sont assez dangereuses. Ils peuvent régénérer leurs blessures plutôt rapidement.</AA_Behemoth.description>
+<AA_Behemoth.tools.left_dragonclaw.label>griffe dragon gauche</AA_Behemoth.tools.left_dragonclaw.label>
+<AA_Behemoth.tools.right_dragonclaw.label>griffe dragon droite</AA_Behemoth.tools.right_dragonclaw.label>
+<AA_Behemoth.tools.razorfangs.label>crocs acérés</AA_Behemoth.tools.razorfangs.label>
+<AA_Behemoth.tools.devour.label>dévorer</AA_Behemoth.tools.devour.label>
+<AA_Behemoth.verbs.flame_breath.label>souffle de flamme</AA_Behemoth.verbs.flame_breath.label>
+
+<AA_Bobeene.label>bobutine</AA_Bobeene.label>
+<AA_Bobeene.description>Le bobutine, qui porte le nom peu flatteur, est un énorme insecte créé spécialement pour se nourrir des fleurs gigantesques d'une prairie idyllique utopique. Bien que basé sur une lignée insectoïde évidente, il a été soigneusement conçu pour produire une viande pratiquement indiscernable du bœuf.\n\nLes bobutines sont des bêtes pacifiques et inintelligentes qui se contentent de bourdonner dans les prés, et font d'excellentes vaches laitières et bêtes de somme. Ils planent au-dessus du terrain, ignorant ainsi les coûts de déplacement.\n\nBasé sur le concept de Talenshi : https://www.deviantart.com/talenshi/art/Cow-Bee-588372740</AA_Bobeene.description>
+<AA_Bobeene.tools.head.label>tête</AA_Bobeene.tools.head.label>
+<AA_Bobeene.tools.left_hoof.label>sabot gauche</AA_Bobeene.tools.left_hoof.label>
+<AA_Bobeene.tools.right_hoof.label>sabot droit</AA_Bobeene.tools.right_hoof.label>
+
+<AA_DarkVandal.label>vandale sombre</AA_DarkVandal.label>
+<AA_DarkVandal.description>Créature purement musculaire, le Vandale sombre est connu pour sa force incroyable. Souvent vus en train de chercher de la nourriture en groupe dans les sous-bois, ils sont réputés pour leur comportement férocement protecteur envers les autres membres de leur couvée. Lorsqu'ils sont provoqués, le déchaînement qui en résulte est la dernière chose que de nombreuses colonies voient avant leur destruction sous la puissance d'une meute enragée. Malgré sa réputation infâme, la bête est toujours chassée dans toute la région, non seulement pour sa peau épaisse et sa viande abondante, mais aussi par les communautés de guerriers qui y voient un rite de passage.\n\nCapacités spéciales : Les Vandales sombres creuseront à la recherche de truffes s'ils ont faim. Gardez à l'esprit qu'ils ne peuvent le faire que lorsqu'ils sont au dessus d'un terrain creusable.</AA_DarkVandal.description>
+<AA_DarkVandal.tools.tusk.label>défense</AA_DarkVandal.tools.tusk.label>
+<AA_DarkVandal.tools.head.label>tête</AA_DarkVandal.tools.head.label>
+
+<AA_DuskProwler.label>rôdeur du crépuscule</AA_DuskProwler.label>
+<AA_DuskProwler.description>Résultat de l'échec d'essais d'armement d'animaux, le rôdeur du crépuscule est une machine à tuer idéale, construite et modifiée pour répondre aux exigences d'une guerre au rythme rapide. La nature féroce du rôdeur est encore renforcée par les protubérances musculaires sur son dos, qui agissent simultanément comme accélérateurs et comme armes. Leur capacité à envahir les installations militaires les mieux défendues a conduit à une purge systématique commandée par les fédérations intergalactiques il y a des siècles, dans l'espoir de faire disparaître les rôdeurs. Ainsi, de nos jours, très peu d'observations de rôdeurs sont signalées dans la Bordure, et ceux qui en voient un ne s'en sortent presque jamais vivants pour raconter leur histoire.</AA_DuskProwler.description>
+<AA_DuskProwler.tools.ninetails.label>neuf queues</AA_DuskProwler.tools.ninetails.label>
+<AA_DuskProwler.tools.left_claw.label>griffe gauche</AA_DuskProwler.tools.left_claw.label>
+<AA_DuskProwler.tools.right_claw.label>griffe droite</AA_DuskProwler.tools.right_claw.label>
+<AA_DuskProwler.tools.head.label>tête</AA_DuskProwler.tools.head.label>
+
+<AA_Murkling.label>obscureux</AA_Murkling.label>
+<AA_Murkling.description>Parents éloignés des Noctureurss, les obscureux sont - en fait - tout le contraire. Ils ne sont pas aussi féroces et ne sont pas non plus de grands chasseurs, se contentant souvent de récupérer en bande les restes laissés par les prédateurs plus aptes. Leurs traits les plus distinctifs sont les structures anormalement allongées sur leur museau, qui, selon la théorie, produisent des suites de vibrations spécifiques permettant une communication discrète entre les membres de la meute. Leur faiblesse physique est compensée par une intelligence supérieure à la moyenne, ce qui leur permet d'être plus malins que des organismes aussi intelligents que les Oubliés. Leur réputation de voler furtivement des provisions à travers la Bordure leur a valu le surnom de "voleurs de la nuit".\n\nCapacités spéciales : La morsure d'un Obscureux peut infliger la peste bubonique. Les délicates vrilles de leur museau peuvent dissoudre les cadavres à proximité et les transformer en une charogne semi-liquide qui peut nourrir le Murkling.</AA_Murkling.description>
+<AA_Murkling.tools.left_claw.label>griffe gauche</AA_Murkling.tools.left_claw.label>
+<AA_Murkling.tools.right_claw.label>griffe droite</AA_Murkling.tools.right_claw.label>
+<AA_Murkling.tools.plague_carrier.label>porteur de peste</AA_Murkling.tools.plague_carrier.label>
+<AA_Murkling.tools.poisonous_bite.label>morsure toxique</AA_Murkling.tools.poisonous_bite.label>
+<AA_Murkling.tools.head.label>tête</AA_Murkling.tools.head.label>
+
+<AA_ShadowCharger.label>chargeur d'ombre</AA_ShadowCharger.label>
+<AA_ShadowCharger.description>Créature connue avec de puissantes cornes allongées, le Charger d'ombre est en fait plutôt passif, ses cornes n'étant utilisées qu'en cas de provocation ou pendant l'accouplement. Son nom vient de l'agressivité dont il fait preuve à l'égard de ses rivaux potentiels pendant la saison des amours, où l'on voit les femelles se charger et se cogner les cornes pour s'assurer un partenaire. S'ils étaient autrefois utilisés comme montures de combat en raison de leur vitesse et de leur capacité à percuter, ils sont aujourd'hui surtout élevés sur le pourtour de l'île pour leur lait crémeux et leur viande abondante.\n\nCapacités spéciales : Les chargeurs d'ombres fournissent de très bonnes quantités de lait, et ils peuvent se défendre bien mieux que les vaches.</AA_ShadowCharger.description>
+<AA_ShadowCharger.tools.horn.label>corne</AA_ShadowCharger.tools.horn.label>
+<AA_ShadowCharger.tools.left_hoof.label>sabot gauche</AA_ShadowCharger.tools.left_hoof.label>
+<AA_ShadowCharger.tools.right_hoof.label>sabot droit</AA_ShadowCharger.tools.right_hoof.label>
+<AA_ShadowCharger.tools.head.label>tête</AA_ShadowCharger.tools.head.label>
+
+<AA_Thunderox.label>bœuf du tonnerre</AA_Thunderox.label>
+<AA_Thunderox.description>Une créature souvent observée dans les régions les plus froides de la Bordure, le bœuf du tonnerre est reconnaissable à sa fourrure épaisse et hirsute et à sa corne courte mais efficace. Il tient son nom de sa tendance à braire à l'aube des orages, ce qui est encore utilisé comme un signal par les fermiers et les vagabonds pour se réfugier. Ils sont élevés dans plusieurs colonies de fermiers dans les terres froides pour leur lait épais, leur fourrure confortable et leur viande dure mais rassasiante.\n\nCapacités spéciales : En plus d'être un animal de ferme fiable qui peut être tondu pour la laine et trait, les bœufs du tonnerre sont des bêtes résistantes, qui régénèrent lentement leur santé.</AA_Thunderox.description>
+<AA_Thunderox.tools.battleram.label>bélier de combat</AA_Thunderox.tools.battleram.label>
+<AA_Thunderox.tools.runehorn.label>cornerune</AA_Thunderox.tools.runehorn.label>
+<AA_Thunderox.tools.left_hoof.label>sabot gauche</AA_Thunderox.tools.left_hoof.label>
+<AA_Thunderox.tools.right_hoof.label>sabot droit</AA_Thunderox.tools.right_hoof.label>
+
+
+</LanguageData>

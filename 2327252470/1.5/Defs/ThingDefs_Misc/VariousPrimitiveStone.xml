@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>VBY_ClayPaste</defName>
+    <label>mottes d'argile humide</label>
+    <description>Mélange de boue ou d'argile, de foin et d'eau. Il peut être cuit dans un four pour produire des briques de céramique.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/VBY_WetClay</texPath>  <!-- here-->
+      <graphicClass>Graphic_StackCount</graphicClass>
+      <drawSize>0.90</drawSize>
+    </graphicData>
+    <stackLimit>75</stackLimit>
+	<soundInteract>Stone_Drop</soundInteract>
+    <soundDrop>Stone_Drop</soundDrop>
+    <healthAffectsPrice>false</healthAffectsPrice>
+	<burnableByRecipe>false</burnableByRecipe>
+    <statBases>
+      <MaxHitPoints>75</MaxHitPoints>
+      <MarketValue>0.3</MarketValue>
+      <Mass>0.02</Mass>
+	  <Beauty>-12</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+  
+</Defs>  

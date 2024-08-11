@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate leftovers -->
+  <AteLeftovers.stages.ate_leftovers.label>a mangé des restes</AteLeftovers.stages.ate_leftovers.label>
+  <!-- EN: I had to eat leftover. It's gross that I cannot get fresh meal. -->
+  <AteLeftovers.stages.ate_leftovers.description>J'ai dû manger les restes. C'est dégoûtant de ne pas pouvoir obtenir de repas frais.</AteLeftovers.stages.ate_leftovers.description>
+  
+</LanguageData>

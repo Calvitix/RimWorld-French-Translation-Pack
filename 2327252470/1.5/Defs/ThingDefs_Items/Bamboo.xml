@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="ResourceBase" MayRequire="dismarzero.VGP.VGPVegetableGarden">
+    <defName>VBY_BambooFiber</defName>
+    <label>fibre de bambou</label>
+    <description>La fibre de bambou est un textile naturel, biodégradable et respectueux de l'environnement. Elle est connue pour sa grande résistance à la traction, sa durabilité, sa stabilité et ses propriétés antibactériennes inhérentes.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/HDM_BambooFiber</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+      <color>(171,162,076)</color>
+    </graphicData>
+    <statBases>
+      <StuffPower_Armor_Sharp>0.37</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>0</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Heat>0.20</StuffPower_Armor_Heat>
+      <StuffPower_Insulation_Cold>16</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>20</StuffPower_Insulation_Heat>
+      <MaxHitPoints>75</MaxHitPoints>
+      <MarketValue>1.75</MarketValue>
+      <Mass>0.024</Mass>
+      <Flammability>1.1</Flammability>
+      <DeteriorationRate>3.85</DeteriorationRate>
+    </statBases>
+    <burnableByRecipe>true</burnableByRecipe>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <minRewardCount>30</minRewardCount>
+    <stuffProps>
+      <statFactors>
+        <Flammability>1.1</Flammability>
+		<ImmunityGainSpeedFactor>1.0175</ImmunityGainSpeedFactor>
+        <Beauty>1.05</Beauty>
+      </statFactors>
+      <categories>
+        <li>Fabric</li>
+      </categories>
+      <color>(171,162,076)</color>
+      <commonality>1.4</commonality>
+      <allowColorGenerators>true</allowColorGenerators>
+    </stuffProps>
+    <thingCategories>
+      <li>Textiles</li>
+    </thingCategories>
+    <comps>
+      <li>
+        <compClass>CompColorable</compClass>
+      </li>
+    </comps>
+    <colorGeneratorInTraderStock Class="ColorGenerator_Options">
+      <options>
+        <li>
+          <weight>5</weight>
+          <only>(0.6,0.6,0,1)</only>
+        </li>
+        <li>
+          <weight>10</weight>
+          <min>(0.93,0.93,0.63,1)</min>
+          <max>(0.6,0.6,0,1)</max>
+        </li>
+        <li>
+          <weight>15</weight>
+          <only>(0.93,0.93,0.63,1)</only>
+        </li>
+      </options>
+    </colorGeneratorInTraderStock>
+  </ThingDef>
+
+     <RecipeDef MayRequire="dismarzero.VGP.VGPVegetableGarden">
+		<defName>VBY_BambooFiberRecipe</defName>
+		<label>Prépare des fibres de bambou</label>
+		<description>Traitement des fibres de bambou à partir du bambou. \n\nFaire 5 fibres de bambou.</description>
+		<jobString>tissage de fibres de bambou.</jobString>
+		<workAmount>850</workAmount>
+		<workSpeedStat>GeneralLaborSpeed</workSpeedStat>		
+		<allowMixingIngredients>true</allowMixingIngredients>
+		<effectWorking>Tailor</effectWorking>
+		<soundWorking>Recipe_Tailor</soundWorking>
+		<descriptionHyperlinks>
+			<ThingDef>VBY_BambooFiber</ThingDef>
+			<ThingDef>Bamboo</ThingDef>
+		</descriptionHyperlinks>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Bamboo</li>
+					</thingDefs>
+				</filter>
+				<count>10</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Bamboo</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<VBY_BambooFiber>5</VBY_BambooFiber>
+		</products>
+		<workSkill>Crafting</workSkill>
+	 <recipeUsers>
+         <li>CraftingSpot</li>
+		 <li>VBY_PrimitiveCraftingTable</li>
+		 <li>VBY_PrimitiveTailoringTable</li>
+		 <li>HandTailoringBench</li>
+		 <li>ElectricTailoringBench</li>
+      </recipeUsers>		
+	</RecipeDef>
+
+	<RecipeDef MayRequire="dismarzero.VGP.VGPVegetableGarden">
+		<defName>VBY_BambooFiberRecipeBulk</defName>
+		<label>Prépare 20 fibres de bambou</label>
+		<description>Traitement des fibres de bambou à partir du bambou. \n\nFaire 20 fibres de bambou.</description>
+		<jobString>weaving bamboo fibers.</jobString>
+		<workAmount>2890</workAmount>
+		<workSpeedStat>GeneralLaborSpeed</workSpeedStat>		
+		<allowMixingIngredients>true</allowMixingIngredients>
+		<effectWorking>Tailor</effectWorking>
+		<soundWorking>Recipe_Tailor</soundWorking>
+		<descriptionHyperlinks>
+			<ThingDef>VBY_BambooFiber</ThingDef>
+			<ThingDef>Bamboo</ThingDef>
+		</descriptionHyperlinks>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Bamboo</li>
+					</thingDefs>
+				</filter>
+				<count>40</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Bamboo</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<VBY_BambooFiber>20</VBY_BambooFiber>
+		</products>
+		<workSkill>Crafting</workSkill>
+	  <recipeUsers>
+         <li>CraftingSpot</li>
+		 <li>VBY_PrimitiveCraftingTable</li>
+		 <li>VBY_PrimitiveTailoringTable</li>
+		 <li>HandTailoringBench</li>
+		 <li>ElectricTailoringBench</li>
+      </recipeUsers>		
+	</RecipeDef>
+  
+</Defs>  

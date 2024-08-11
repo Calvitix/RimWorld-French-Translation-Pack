@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<DBHMosaicTile.label>carrelage mosaïque</DBHMosaicTile.label>
+<DBHMosaicTile.description>Carreaux en acier avec des motifs en mosaïque, élégants dans les salles de bains ou les cuisines.</DBHMosaicTile.description>
+
+<DBHMosaicSandstone.label>mosaïque en grès</DBHMosaicSandstone.label>
+<DBHMosaicSandstone.description>Des carreaux de pierre soigneusement coupés et ajustés dans des motifs en mosaïque, élégants dans les salles de bains ou les cuisines.</DBHMosaicSandstone.description>
+
+<DBHMosaicGranite.label>mosaïque en granite</DBHMosaicGranite.label>
+<DBHMosaicGranite.description>Des carreaux de pierre soigneusement coupés et ajustés dans des motifs en mosaïque, élégants dans les salles de bains ou les cuisines.</DBHMosaicGranite.description>
+
+<DBHMosaicLimestone.label>mosaïque en calcaire</DBHMosaicLimestone.label>
+<DBHMosaicLimestone.description>Des carreaux de pierre soigneusement coupés et ajustés dans des motifs en mosaïque, élégants dans les salles de bains ou les cuisines.</DBHMosaicLimestone.description>
+
+<DBHMosaicSlate.label>mosaïque en ardoise</DBHMosaicSlate.label>
+<DBHMosaicSlate.description>Des carreaux de pierre soigneusement coupés et ajustés dans des motifs en mosaïque, élégants dans les salles de bains ou les cuisines.</DBHMosaicSlate.description>
+
+<DBHMosaicMarble.label>mosaïque en marbre</DBHMosaicMarble.label>
+<DBHMosaicMarble.description>Des carreaux de pierre soigneusement coupés et ajustés dans des motifs en mosaïque, élégants dans les salles de bains ou les cuisines.</DBHMosaicMarble.description>
+
+<PoolWater.label>eau de piscine</PoolWater.label>
+
+<PoolWater.tools.water.label>eau</PoolWater.tools.water.label>
+
+
+</LanguageData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Leftovers</name>
+	<author>ordpus</author>
+	<supportedVersions>
+	<li>1.4</li>
+	<li>1.5</li>
+	</supportedVersions>
+	<packageId>ordpus.leftovers</packageId>
+	<description>Générer des restes lorsque les colons ne peuvent pas terminer un repas complet</description>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+</ModMetaData>

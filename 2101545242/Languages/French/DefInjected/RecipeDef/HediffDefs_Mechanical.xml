@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install mechanical arm -->
+  <InstallMechanicalMedArm.label>TODO</InstallMechanicalMedArm.label>
+  <!-- EN: Installs mechanical arm. -->
+  <InstallMechanicalMedArm.description>TODO</InstallMechanicalMedArm.description>
+  <!-- EN: Installing mechanical arm. -->
+  <InstallMechanicalMedArm.jobString>TODO</InstallMechanicalMedArm.jobString>
+  
+  <!-- EN: install mechanical ear -->
+  <InstallMechanicalMedEar.label>TODO</InstallMechanicalMedEar.label>
+  <!-- EN: Installs mechanical ear. -->
+  <InstallMechanicalMedEar.description>TODO</InstallMechanicalMedEar.description>
+  <!-- EN: Installing mechanical ear. -->
+  <InstallMechanicalMedEar.jobString>TODO</InstallMechanicalMedEar.jobString>
+  
+  <!-- EN: install mechanical eye -->
+  <InstallMechanicalMedEye.label>TODO</InstallMechanicalMedEye.label>
+  <!-- EN: Installs mechanical eye. -->
+  <InstallMechanicalMedEye.description>TODO</InstallMechanicalMedEye.description>
+  <!-- EN: Installing mechanical eye. -->
+  <InstallMechanicalMedEye.jobString>TODO</InstallMechanicalMedEye.jobString>
+  
+  <!-- EN: install mechanical finger -->
+  <InstallMechanicalMedFinger.label>TODO</InstallMechanicalMedFinger.label>
+  <!-- EN: Installs mechanical finger. -->
+  <InstallMechanicalMedFinger.description>TODO</InstallMechanicalMedFinger.description>
+  <!-- EN: Installing mechanical finger. -->
+  <InstallMechanicalMedFinger.jobString>TODO</InstallMechanicalMedFinger.jobString>
+  
+  <!-- EN: install mechanical foot -->
+  <InstallMechanicalMedFoot.label>TODO</InstallMechanicalMedFoot.label>
+  <!-- EN: Installs mechanical foot. -->
+  <InstallMechanicalMedFoot.description>TODO</InstallMechanicalMedFoot.description>
+  <!-- EN: Installing mechanical foot. -->
+  <InstallMechanicalMedFoot.jobString>TODO</InstallMechanicalMedFoot.jobString>
+  
+  <!-- EN: install mechanical hand -->
+  <InstallMechanicalMedHand.label>TODO</InstallMechanicalMedHand.label>
+  <!-- EN: Installs mechanical hand. -->
+  <InstallMechanicalMedHand.description>TODO</InstallMechanicalMedHand.description>
+  <!-- EN: Installing mechanical hand. -->
+  <InstallMechanicalMedHand.jobString>TODO</InstallMechanicalMedHand.jobString>
+  
+  <!-- EN: install mechanical leg -->
+  <InstallMechanicalMedLeg.label>TODO</InstallMechanicalMedLeg.label>
+  <!-- EN: Installs mechanical leg. -->
+  <InstallMechanicalMedLeg.description>TODO</InstallMechanicalMedLeg.description>
+  <!-- EN: Installing mechanical leg. -->
+  <InstallMechanicalMedLeg.jobString>TODO</InstallMechanicalMedLeg.jobString>
+  
+  <!-- EN: install mechanical nose -->
+  <InstallMechanicalMedNose.label>TODO</InstallMechanicalMedNose.label>
+  <!-- EN: Installs mechanical nose. -->
+  <InstallMechanicalMedNose.description>TODO</InstallMechanicalMedNose.description>
+  <!-- EN: Installing mechanical nose. -->
+  <InstallMechanicalMedNose.jobString>TODO</InstallMechanicalMedNose.jobString>
+  
+  <!-- EN: install mechanical toe -->
+  <InstallMechanicalMedToe.label>TODO</InstallMechanicalMedToe.label>
+  <!-- EN: Installs mechanical toe. -->
+  <InstallMechanicalMedToe.description>TODO</InstallMechanicalMedToe.description>
+  <!-- EN: Installing mechanical toe. -->
+  <InstallMechanicalMedToe.jobString>TODO</InstallMechanicalMedToe.jobString>
+  
+</LanguageData>

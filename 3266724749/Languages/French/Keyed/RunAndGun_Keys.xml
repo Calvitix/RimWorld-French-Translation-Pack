@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- EN: Allow AI to run and gun -->
+  <RG_EnableRGForAI_Title>Activer RunAndGun pour l'IA</RG_EnableRGForAI_Title>
+	<!-- EN: Allows the AI to run and gun, same as the player. -->
+  <RG_EnableRGForAI_Description>Active RunAndGun pour tous les personnages de l'IA. Attention, cela les rend terriblement mortels.</RG_EnableRGForAI_Description>
+	
+	<!-- EN: Allow animals to run and gun -->
+  <RG_EnableRGForAnimals_Title>TODO</RG_EnableRGForAnimals_Title>
+	<!-- EN: Allows the animals to run and gun. This option exists for mods that add animals that can shoot, or draftable animals. -->
+  <RG_EnableRGForAnimals_Description>TODO</RG_EnableRGForAnimals_Description>
+	
+	<!-- EN: Accuracy modifier (Default: {2}% Current: {3}%) -->
+	<RG_AccuracyPenalty_Title>modif de précision (par Défaut: {2}% actuel: {3}%)</RG_AccuracyPenalty_Title>
+	<!-- EN: The accuracy for AI-controlld pawns are modified by this percentage while running and gunning. -->
+	<RG_AccuracyPenalty_Description>Pénalité de précision lorsque RunAndGun est activé</RG_AccuracyPenalty_Description>
+	
+	<!-- EN: Player's accuracy modifier (Default: {2}% Current: {3}%) -->
+  <RG_AccuracyPenaltyPlayer_Title>modif joueur (par Défaut: {2}% actuel: {3}%)</RG_AccuracyPenaltyPlayer_Title>
+	<!-- EN: The accuracy for player pawns are modified by this value. The two separate accuracy sliders allow for a handicap, in the event you mainly just want this feature for the enemy to use, for example, or vise versa. -->
+  <RG_AccuracyPenaltyPlayer_Description>TODO</RG_AccuracyPenaltyPlayer_Description>
+	
+	<!-- EN: Mech's accuracy modifier (Default: {2}% Current: {3}%) -->
+  <RG_AccuracyPenaltyMechs_Title>modif. Mech (par Défaut: {2}% actuel: {3}%)</RG_AccuracyPenaltyMechs_Title>
+	<!-- EN: The accuracy for mechs is modified by this value. -->
+  <RG_AccuracyPenaltyMechs_Description>TODO</RG_AccuracyPenaltyMechs_Description>
+	
+	<!-- EN: Movement with heavy weapons (Default: {2}% Current: {3}%) -->
+	<RG_MovementPenaltyHeavy_Title>Pénalité de mouvement pour les armes lourdes  (par Défaut: {2}% actuel: {3}%)</RG_MovementPenaltyHeavy_Title>
+	<!-- EN: The movement penalty while shooting for heavy weapons -->
+	<RG_MovementPenaltyHeavy_Description>La pénalité de mouvement en tirant avec les armes lourdes</RG_MovementPenaltyHeavy_Description>
+	<!-- EN: Movement with light weapons (Default: {2}% Current: {3}%) -->
+	<RG_MovementPenaltyLight_Title>Pénalité de mouvement pour les armes légères  (par Défaut: {2}% actuel: {3}%)</RG_MovementPenaltyLight_Title>
+	<!-- EN: The movement penalty while shooting for light weapons -->
+	<RG_MovementPenaltyLight_Description>La pénalité de mouvement en tirant avec les armes légères</RG_MovementPenaltyLight_Description>
+	<RG_EnableRGForAI_Title>Activer RunAndGun pour l'IA</RG_EnableRGForAI_Title>
+	<RG_EnableRGForAI_Description>Active RunAndGun pour tous les personnages de l'IA. Attention, cela les rend terriblement mortels.</RG_EnableRGForAI_Description>
+	<!-- EN: Flee and gun chance (Default: {2}% Current: {3}%) -->	
+	<RG_EnableRGForFleeChance_Title>Fuite en tirant  (par Défaut: {2}% actuel: {3}%)</RG_EnableRGForFleeChance_Title>
+	<!-- EN: Chance that fleeing enemy pawns will use RunAndGun while fleeing -->
+	<RG_EnableRGForFleeChance_Description>Chance que les personnages ennemis utilisent RunAndGun pendant leur fuite</RG_EnableRGForFleeChance_Description>
+	<!-- EN: Filter heavy/light by weight limit (Default: {0} Current: {1}) -->
+	<RG_WeightLimitFilter_Title>Filtre lourd/léger par limite de poids (Défaut: {0} actuel: {1})</RG_WeightLimitFilter_Title>
+	<!-- EN: Use the slider to set the weight limit that is used for the view filter. -->
+	<RG_WeightLimitFilter_Description>Utilisez le curseur pour régler la limite de poids utilisée pour le filtre. En cliquant sur Appliquer, les armes sont classées comme lourdes ou légères en fonction de cette limite de poids. Les armes lourdes ont une pénalité de mouvement différente de celle des armes légères. </RG_WeightLimitFilter_Description>
+
+<!-- EN: Run and gun -->
+<RG_Action_Enable_Label>Courir et tirer</RG_Action_Enable_Label>
+<!-- EN: Disable run and gun -->
+<RG_Action_Disable_Label>Désactiver courir et tirer</RG_Action_Disable_Label>
+<!-- EN: Disables running and gunning -->
+<RG_Action_Disable_Description>Désactive la possibilité de tirer en courant</RG_Action_Disable_Description>
+<!-- EN: Enables running and gunning. Shooting while running causes an accuracy and movement penalty. -->
+<RG_Action_Enable_Description>Active la possibilité de tirer en courant. Tirer en courant entraîne une pénalité de précision et de mouvement.</RG_Action_Enable_Description>
+
+<!-- EN: Run and Gun -->
+<RG_Tab_RunAndGun>Courir et tirer</RG_Tab_RunAndGun>
+<!-- EN: Search and Destroy -->
+<RG_Tab_SearchAndDestroy>Rechercher et détruire</RG_Tab_SearchAndDestroy>
+<!-- EN: Heavy weapons -->
+<RG_Tab_HeavyWeapons>Armes lourdes</RG_Tab_HeavyWeapons>
+<!-- EN: Forbidden weapons -->
+<RG_Tab_ForbiddenWeapons>Armes interdites</RG_Tab_ForbiddenWeapons>
+<!-- EN: Dual Wield -->
+<RG_Tab_DualWield>Double maniement</RG_Tab_DualWield>
+<!-- EN: Allowed off-handers -->
+<DW_Tab_OffHands>Maniement à une main autorisé</DW_Tab_OffHands>
+<!-- EN: Two-handers -->
+<DW_Tab_Twohanders>Armes à deux mains</DW_Tab_Twohanders>
+<!-- EN: Custom rotations -->
+<DW_Tab_CustomRotations>Rotations personnalisées</DW_Tab_CustomRotations>
+<!-- EN: Custom offsets -->
+<DW_Tab_Offsets>Décalages personnalisés</DW_Tab_Offsets>
+
+<!-- EN: These weapons cannot be used while running. -->
+<RG_Forbidden_Weapons>Ces armes ne peuvent pas être utilisées en courant.</RG_Forbidden_Weapons>
+
+<!-- EN: Enable Run and Gun module -->
+<RG_EnableRunAndGun_Title>Activer le module Courir et tirer</RG_EnableRunAndGun_Title>
+<!-- EN: If disabled, pawns may not shoot while running. -->
+<RG_EnableRunAndGun_Description>Si désactivé, les colons ne peuvent pas tirer en courant.</RG_EnableRunAndGun_Description>
+
+</LanguageData>

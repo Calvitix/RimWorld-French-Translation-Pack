@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: entangled -->
+  <Fbolas_tangle.label>enchevêtré</Fbolas_tangle.label>
+  <!-- EN: Entagled by a throwing net or a bolas. Moving speed is dramatically reduced. -->
+  <Fbolas_tangle.description>Enchevêtré par un filet de lancer ou une bolas. La vitesse de déplacement est considérablement réduite.</Fbolas_tangle.description>
+  
+  <!-- EN: entangled -->
+  <Pbolas_tangle.label>enchevêtré</Pbolas_tangle.label>
+  <!-- EN: Entagled by a throwing net or a bolas. Moving speed is dramatically reduced. -->
+  <Pbolas_tangle.description>Enchevêtré par un filet de lancer ou une bolas. La vitesse de déplacement est considérablement réduite.</Pbolas_tangle.description>
+
+  
+</LanguageData>

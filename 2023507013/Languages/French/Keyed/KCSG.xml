@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KCSG.Add>Ajouter</KCSG.Add>
+    <KCSG.Remove>Enlever</KCSG.Remove>
+    <KCSG.SpawnNearCenter>Apparition près du centre</KCSG.SpawnNearCenter>
+    <KCSG.AllowFoggedPosition>Allow fogged position</KCSG.AllowFoggedPosition>
+    <KCSG.SpawnPartOfEnnemyFaction>Spawn part of ennemy faction</KCSG.SpawnPartOfEnnemyFaction>
+    <KCSG.Mapcontains>Map contains</KCSG.Mapcontains>
+    <KCSG.Enter>Entrer {0}</KCSG.Enter>
+    <KCSG.CantEnter>Cannot enter {0}</KCSG.CantEnter>
+</LanguageData>

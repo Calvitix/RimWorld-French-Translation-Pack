@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <Operation Class="PatchOperationConditional">
+     <xpath>Defs/ThingDef[defName = "TableStonecutter"]/researchPrerequisites</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "TableStonecutter"]</xpath>
+				<value>
+					<researchPrerequisites>
+						<li>VBY_PrimitiveProductionAdvanced</li>
+					</researchPrerequisites>
+				</value>    
+		</nomatch>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "TableStonecutter"]/researchPrerequisites</xpath>
+				<value>
+					<li>VBY_PrimitiveProductionAdvanced</li>
+				</value>    
+		</match>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+     <xpath>Defs/ThingDef[defName = "FermentingBarrel"]/researchPrerequisites</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "FermentingBarrel"]</xpath>
+				<value>
+					<researchPrerequisites>
+						<li>VBY_PrimitiveProduction</li>
+					</researchPrerequisites>
+				</value>    
+		</nomatch>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "FermentingBarrel"]/researchPrerequisites</xpath>
+				<value>
+					<li>VBY_PrimitiveProduction</li>
+				</value>    
+		</match>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+     <xpath>Defs/ThingDef[defName = "Brewery"]/researchPrerequisites</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "Brewery"]</xpath>
+				<value>
+					<researchPrerequisites>
+						<li>VBY_PrimitiveProductionAdvanced</li>
+					</researchPrerequisites>
+				</value>    
+		</nomatch>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "Brewery"]/researchPrerequisites</xpath>
+				<value>
+					<li>VBY_PrimitiveProductionAdvanced</li>
+				</value>    
+		</match>
+  </Operation>
+
+ <Operation Class="PatchOperationConditional">
+     <xpath>Defs/ThingDef[@Name = "BaseMeleeWeapon"]/recipeMaker/researchPrerequisite</xpath>
+		<match Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[@Name = "BaseMeleeWeapon"]/recipeMaker/researchPrerequisite</xpath>
+            <value>
+				<researchPrerequisite>VBY_PrimitiveTools</researchPrerequisite>
+            </value>    
+		</match>
+		<nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[@Name = "BaseMeleeWeapon"]/recipeMaker</xpath>
+            <value>
+				<researchPrerequisite>VBY_PrimitiveTools</researchPrerequisite>
+            </value>    
+		</nomatch>
+  </Operation>
+
+ <Operation Class="PatchOperationConditional">
+     <xpath>Defs/ThingDef[@Name = "BaseWeaponNeolithic"]/recipeMaker/researchPrerequisite</xpath>
+		<match Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[@Name = "BaseWeaponNeolithic"]/recipeMaker/researchPrerequisite</xpath>
+            <value>
+				<researchPrerequisite>VBY_PrimitiveTools</researchPrerequisite>
+            </value>    
+		</match>
+		<nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[@Name = "BaseWeaponNeolithic"]/recipeMaker</xpath>
+            <value>
+				<researchPrerequisite>VBY_PrimitiveTools</researchPrerequisite>
+            </value>    
+		</nomatch>
+  </Operation>
+  
+  <!--  ==========================  Medieval Times  =====================  -->   
+  
+  <Operation Class="PatchOperationFindMod"> <!-- come back conditional here if needed -->
+    <mods>
+        <li>Medieval Times Unofficial Update</li>
+		<li>Medieval Times Unofficial Update No Nan and legendary</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+		<operations>
+		   <li Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[@Name = "MedTimes_Makeable_Melee_T0" or @Name = "MedTimes_Melee"]/recipeMaker</xpath>
+			  <value>
+					<researchPrerequisite>VBY_PrimitiveTools</researchPrerequisite>
+			  </value>
+			</li>
+			<li Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[@Name = "MedTimes_Handgear_Tier1" or @Name = "MedTimes_Footgear_Tier1" or @Name = "MedTimes_ApparelJacket" or @Name = "MedTimes_ApparelTabard" or @Name = "MedTimes_Apparel_Tier1"]</xpath>
+			  <value>
+			    <recipeMaker>
+					<researchPrerequisite>ComplexClothing</researchPrerequisite>
+				</recipeMaker>
+			  </value>
+			</li>
+			<li Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[@Name = "MedTimes_Tail_Headgear_Colors" or @Name = "MedTimes_Footgear_Socks" or @Name = "MedTimes_Tail_ApparelJacket" or @Name = "MedTimes_Tail_ApparelTabard" or @Name = "MedTimes_Tail_Apparel_Tier1"]/recipeMaker</xpath>
+			  <value>
+					<researchPrerequisite>ComplexClothing</researchPrerequisite>
+			  </value>
+			</li>
+		</operations>	
+    </match>
+  </Operation>
+  
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Medieval Times Unofficial Update</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[@Name = "MedTimes_Ranged"]</xpath>
+        <value>
+            <recipeMaker>
+				<researchPrerequisite>VBY_PrimitiveTools</researchPrerequisite>
+			</recipeMaker>
+        </value>
+    </match>
+  </Operation>
+  
+   <!-- ==========================  Zars  =====================  -->
+  
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>ZARS Tribalism</li>
+        <li>Tribal Essentials Reborn</li>
+        <li>Thinking Spot</li>
+		<li>Early Times</li>
+		<li>Medieval Overhaul</li>
+    </mods>
+	 <nomatch Class="PatchOperationConditional">
+		 <xpath>Defs/ThingDef[defName = "TableSculpting"]/researchPrerequisites</xpath>
+			<nomatch Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName = "TableSculpting"]</xpath>
+					<value>
+						<researchPrerequisites>
+							<li>VBY_PrimitiveProductionAdvanced</li>
+						</researchPrerequisites>
+					</value>    
+			</nomatch>
+			<match Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName = "TableSculpting"]/researchPrerequisites</xpath>
+					<value>
+						<li>VBY_PrimitiveProductionAdvanced</li>
+					</value>    
+			</match>
+	  </nomatch>
+  </Operation>
+  
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>ZARS Tribalism</li>
+        <li>Tribal Essentials Reborn</li>
+        <li>Thinking Spot</li>
+		<li>Early Times</li>
+		<li>Medieval Overhaul</li>
+    </mods>
+	 <nomatch Class="PatchOperationConditional">
+		 <xpath>Defs/ThingDef[defName = "SimpleResearchBench"]/researchPrerequisites</xpath>
+			<nomatch Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName = "SimpleResearchBench"]</xpath>
+					<value>
+						<researchPrerequisites>
+							<li>VBY_PrimitiveProductionAdvanced</li>
+						</researchPrerequisites>
+					</value>    
+			</nomatch>
+			<match Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName = "SimpleResearchBench"]/researchPrerequisites</xpath>
+					<value>
+						<li>VBY_PrimitiveProductionAdvanced</li>
+					</value>    
+			</match>
+	  </nomatch>
+  </Operation>
+  
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>ZARS Tribalism</li>
+        <li>Tribal Essentials Reborn</li>
+        <li>Thinking Spot</li>
+		<li>Early Times</li>
+		<li>Medieval Overhaul</li>
+    </mods>
+	 <nomatch Class="PatchOperationConditional">
+		 <xpath>Defs/ThingDef[defName = "TableButcher"]/researchPrerequisites</xpath>
+			<nomatch Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName = "TableButcher"]</xpath>
+					<value>
+						<researchPrerequisites>
+							<li>VBY_PrimitiveProductionAdvanced</li>
+						</researchPrerequisites>
+					</value>    
+			</nomatch>
+			<match Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName = "TableButcher"]/researchPrerequisites</xpath>
+					<value>
+						<li>VBY_PrimitiveProductionAdvanced</li>
+					</value>    
+			</match>
+	  </nomatch>
+  </Operation>
+  
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>ZARS Tribalism</li>
+        <li>Tribal Essentials Reborn</li>
+        <li>Thinking Spot</li>
+		<li>Early Times</li>
+		<li>Medieval Overhaul</li>
+    </mods>
+	 <nomatch Class="PatchOperationConditional">
+		 <xpath>Defs/ThingDef[defName = "FueledStove"]/researchPrerequisites</xpath>
+			<nomatch Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName = "FueledStove"]</xpath>
+					<value>
+						<researchPrerequisites>
+							<li>VBY_PrimitiveProductionAdvanced</li>
+						</researchPrerequisites>
+					</value>    
+			</nomatch>
+			<match Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName = "FueledStove"]/researchPrerequisites</xpath>
+					<value>
+						<li>VBY_PrimitiveProductionAdvanced</li>
+					</value>    
+			</match>
+	  </nomatch>
+  </Operation><!-- Continue with conditionals here  --> 
+
+<!-- ===================  Gloomy Furniture ============== -->
+  
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>GloomyFurniture</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName = "RGK_SimpleResearchBench"]</xpath>
+            <value>
+                <researchPrerequisites>
+					<li>VBY_PrimitiveProductionAdvanced</li>
+				</researchPrerequisites>
+            </value>  
+    </match>
+  </Operation>
+  
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>GloomyFurniture</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName = "GL_TableButcher"]</xpath>
+            <value>
+                <researchPrerequisites>
+					<li>VBY_PrimitiveProductionAdvanced</li>
+				</researchPrerequisites>
+            </value>    
+    </match>
+  </Operation>
+  
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>GloomyFurniture</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName = "RGK_FueledStove"]</xpath>
+            <value>
+                <researchPrerequisites>
+					<li>VBY_PrimitiveProductionAdvanced</li>
+				</researchPrerequisites>
+            </value>     
+    </match>
+  </Operation>
+  
+  <!-- ============================  UN-Furniture  ====================  -->
+  
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>UN-Furniture (Continued)</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName = "SadjuukResearchAB"]</xpath>
+            <value>
+                <researchPrerequisites>
+					<li>VBY_PrimitiveProductionAdvanced</li>
+				</researchPrerequisites>
+            </value>  
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>UN-Colony [1.2]</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName = "SadjuukResearchBA"]</xpath>
+            <value>
+                <researchPrerequisites>
+					<li>VBY_PrimitiveProductionAdvanced</li>
+				</researchPrerequisites>
+            </value>  
+    </match>
+  </Operation> 
+  
+  <!-- ============================  Medieval Madness  ====================  -->
+  
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Medieval Madness: Tools of the Trade</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+		<operations>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[@Name = "MM_RangedBase"]/recipeMaker</xpath>
+					<value>
+						<researchPrerequisite>VBY_PrimitiveTools</researchPrerequisite>
+					</value>    
+			</li> 
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[@Name = "MM_MWeaponBase"]</xpath>
+					<value>
+					  <recipeMaker>
+						<researchPrerequisite>VBY_PrimitiveTools</researchPrerequisite>
+					  </recipeMaker>
+					</value>    
+			</li>
+		</operations>   
+    </match>
+  </Operation>
+  
+  <!-- ============================  Taki  ====================  -->  
+  
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Taki's Random Stuff</li>
+        <li>Taki's Random Stuff (Continued)</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+		<operations>
+           <li Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "StoneWorkingStation"]</xpath>
+			    <value>
+					<researchPrerequisites>
+						<li>Stonecutting</li>
+					</researchPrerequisites>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "StoneButhersBlock"]</xpath>
+			    <value>
+					<researchPrerequisites>
+						<li>VBY_PrimitiveProduction</li>
+					</researchPrerequisites>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "StoneResearchBlock"]</xpath>
+			    <value>
+					<researchPrerequisites>
+						<li>VBY_PrimitiveProduction</li>
+					</researchPrerequisites>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "PrimitiveSmelter"]</xpath>
+			    <value>
+					<researchPrerequisites>
+						<li>VBY_PrimitiveProductionAdvanced</li>
+					</researchPrerequisites>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "WoodenStoneWorkingStation"]</xpath>
+			    <value>
+					<researchPrerequisites>
+						<li>VBY_PrimitiveProductionAdvanced</li>
+					</researchPrerequisites>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "WoodenButhersTable"]</xpath>
+			    <value>
+					<researchPrerequisites>
+						<li>VBY_PrimitiveProductionAdvanced</li>
+					</researchPrerequisites>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "SmallWoodenResearchTable"]</xpath>
+			    <value>
+					<researchPrerequisites>
+						<li>VBY_PrimitiveProductionAdvanced</li>
+					</researchPrerequisites>
+				</value>
+			</li>
+		</operations>	
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Taki's Random Stuff</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+		<operations>
+			<li Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "UniversalFermenter"]</xpath>
+			    <value>
+					<researchPrerequisites>
+						<li>VBY_PrimitiveProductionAdvanced</li>
+					</researchPrerequisites>
+				</value>
+			</li>
+		</operations>	
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Taki's Random Stuff (Continued)</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+		<operations>
+			<li Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "UniversalFermenter_Pot"]/researchPrerequisites</xpath>
+			    <value>
+					<li>VBY_PrimitiveProductionAdvanced</li>
+				</value>
+			</li>
+		</operations>	
+    </match>
+  </Operation>
+  
+  <!--  ============================== More Melee Weapons! ===================================  -->
+  
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>More Melee Weapons!</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[@Name = "Gnm_MeleeWeaponBase"]/recipeMaker</xpath>
+            <value>
+				<researchPrerequisite>VBY_PrimitiveTools</researchPrerequisite>
+            </value>    
+    </match>
+  </Operation>
+  
+  <!-- ============================  VWE-Tribal  ====================  -->
+  
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Vanilla Weapons Expanded - Tribal</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+		<operations>
+           <li Class="PatchOperationAdd">
+		   <xpath>Defs/ThingDef[defName = "VWE_MeleeWeapon_HeavyClub"]/recipeMaker</xpath>
+            <value>
+                <researchPrerequisite>VBY_PrimitiveTools</researchPrerequisite>
+            </value> 
+		   </li>
+		   <li Class="PatchOperationConditional">
+			<xpath>Defs/ThingDef[defName = "VWE_MeleeWeapon_TribalAxe"]/recipeMaker/researchPrerequisite</xpath>
+			 <nomatch Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName = "VWE_MeleeWeapon_TribalAxe"]/recipeMaker</xpath>
+					<value>
+						<researchPrerequisite Inherit="False">VBY_PrimitiveTools</researchPrerequisite>
+					</value>    
+			 </nomatch>
+			 <match Class="PatchOperationReplace">
+				<xpath>Defs/ThingDef[defName = "VWE_MeleeWeapon_TribalAxe"]/recipeMaker/researchPrerequisite</xpath>
+					<value>
+					  <researchPrerequisite Inherit="False">VBY_PrimitiveTools</researchPrerequisite>
+					</value>    
+			 </match>
+			</li>
+		   <li Class="PatchOperationConditional">
+			<xpath>Defs/ThingDef[defName = "VWE_Weapon_FireBomb"]/recipeMaker/researchPrerequisite</xpath>
+			 <nomatch Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName = "VWE_Weapon_FireBomb"]/recipeMaker</xpath>
+					<value>
+						<researchPrerequisite Inherit="False">VBY_PrimitiveProduction</researchPrerequisite>
+					</value>    
+			 </nomatch>
+			 <match Class="PatchOperationReplace">
+				<xpath>Defs/ThingDef[defName = "VWE_Weapon_FireBomb"]/recipeMaker/researchPrerequisite</xpath>
+					<value>
+					  <researchPrerequisite Inherit="False">VBY_PrimitiveProduction</researchPrerequisite>
+					</value>    
+			 </match>
+			</li>
+		   <li Class="PatchOperationInsert">
+		   <xpath>Defs/ThingDef[defName = "VWE_Weapon_FireBomb"]/recipeMaker/recipeUsers/li[text()="CraftingSpot"]</xpath>
+            <value>
+                <li>VBY_PrimitiveKiln</li>
+            </value> 
+		   </li>
+		   <li Class="PatchOperationAdd">
+		   <xpath>Defs/ThingDef[defName = "VWE_Weapon_FireBomb"]/costList</xpath>
+            <value>
+                <VBY_Haycloth>1</VBY_Haycloth>
+				<VBY_ClayPaste>20</VBY_ClayPaste>
+            </value> 
+		   </li>
+		</operations>   
+    </match>
+  </Operation>
+
+	<!-- ============================  Colony Manager  ====================  -->
+  
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Colony Manager</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+		<operations>
+			<li Class="PatchOperationAdd">					
+		      <xpath>Defs/ThingDef[defName="FM_BasicManagerStation"]</xpath>
+				<value>
+					<researchPrerequisites>
+						<li>VBY_PrimitiveProductionAdvanced</li>
+					</researchPrerequisites>
+				</value> 
+			</li>		
+		</operations>   
+    </match>
+  </Operation>
+
+	<!-- ============================  Primitive Storage  ====================  -->
+  
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Primitive Storage</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+		<operations>
+			<li Class="PatchOperationReplace">					
+		      <xpath>Defs/ThingDef[defName="VBY_StoragePitStone"]/researchPrerequisites/li[text()="ComplexFurniture"]</xpath>
+				<value>
+					<li>VBY_PrimitiveProductionAdvanced</li>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">					
+		      <xpath>Defs/ThingDef[defName="VBY_Granary"]/researchPrerequisites/li[text()="ComplexFurniture"]</xpath>
+				<value>
+					<li>VBY_PrimitiveProductionAdvanced</li>
+				</value>
+			</li>		
+		</operations>   
+    </match>
+  </Operation>
+
+	<!-- ============================  Rimcense: Neolithic Soothe  ====================  -->
+  
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Rimcense: Neolithic Soothe</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+		<operations>
+			<li Class="PatchOperationAdd">					
+		      <xpath>Defs/ThingDef[defName="VBY_IncenseTable"]/researchPrerequisites</xpath>
+				<value>
+					<li>VBY_PrimitiveProduction</li>
+				</value> 
+			</li>		
+		</operations>   
+    </match>
+  </Operation>
+
+	<!-- ============================  VGP Garden Fabrics  ====================  -->
+  
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>VGP Garden Fabrics</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+		<operations>
+			<li Class="PatchOperationAdd">					
+		      <xpath>Defs/ThingDef[defName="TableLoom"]</xpath>
+				<value>
+					<researchPrerequisites>
+					  <li>VBY_PrimitiveProductionAdvanced</li>
+					</researchPrerequisites>
+				</value> 
+			</li>		
+		</operations>   
+    </match>
+  </Operation>
+	
+	<!--  =========================  Apini Playable Race, Continued!  ======================================= -->
+	
+	<Operation Class="PatchOperationFindMod">
+        <mods>
+          <li>Apini Playable Race, Continued!</li>
+        </mods>
+        <match Class="PatchOperationSequence">			
+            <operations>
+                <li Class="PatchOperationAdd">					
+		          <xpath>Defs/ThingDef[@Name = "ApiniBuildingBase"]/researchPrerequisites</xpath>
+		            <value>
+						<li>VBY_PrimitiveProduction</li>
+		            </value>
+				</li>
+                <li Class="PatchOperationAdd">					
+		          <xpath>Defs/ResearchProjectDef[@Name = "ApiniBionicsTech"]/prerequisites</xpath>
+		            <value>
+						<li>Electricity</li>
+		            </value>
+				</li>						
+			</operations>
+        </match>
+	</Operation>
+
+	<!-- ============================  Comigo's Adequate Cooking Expanded  ====================  -->
+  
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Comigo's Adequate Cooking Expanded</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+		<operations>
+			<li Class="PatchOperationReplace">					
+		      <xpath>Defs/ThingDef[defName="COMIGO_Quernstone"]/researchPrerequisites</xpath>
+				<value>
+					<researchPrerequisites>
+						<li>VBY_PrimitiveStonecutting</li>
+						<li>VBY_PrimitiveProduction</li>
+					</researchPrerequisites>
+				</value> 
+			</li>		
+		</operations>   
+    </match>
+  </Operation>
+
+	<!-- ============================  Tribal Crib  ====================  -->
+  
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Tribal Crib</li>
+    </mods>
+     <match Class="PatchOperationReplace">					
+	 <xpath>Defs/ThingDef[defName="Nej_TribalCrib"]/researchPrerequisites</xpath>
+	   <value>	
+		<researchPrerequisites Inherit="False">
+		  <li>VBY_PrimitiveProduction</li>
+		</researchPrerequisites>
+	   </value>
+	 </match>
+  </Operation>
+  
+</Patch>  

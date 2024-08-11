@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Ferret -->
+  <ERN_Ferret.label>TODO</ERN_Ferret.label>
+  <!-- EN: Ferrets are the domesticated form of the European Polecat, a mammal belonging to the Mustelid family. Compared to Mink and Weasels the Ferret has a shorter, more compact body with a sturdier skull and teeth. The ferret is a predator that naturally preys upon small animals such as rodents and amphibians. The history of their domestication is uncertain, but it is most likely that they were domesticated to control rabbit populations, but they are also highly valued as companion animals. A glitterworld celebrity is known for collecting every ferret.\n\n<i><color=#66E0E4FF>Erin's Friendly Ferrets</color></i> -->
+  <ERN_Ferret.description>TODO</ERN_Ferret.description>
+  <!-- EN: left claw -->
+  <ERN_Ferret.tools.left_claw.label>TODO</ERN_Ferret.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <ERN_Ferret.tools.right_claw.label>TODO</ERN_Ferret.tools.right_claw.label>
+  <!-- EN: head -->
+  <ERN_Ferret.tools.head.label>TODO</ERN_Ferret.tools.head.label>
+  
+</LanguageData>

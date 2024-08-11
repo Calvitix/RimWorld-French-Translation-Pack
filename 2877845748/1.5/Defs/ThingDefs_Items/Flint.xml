@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>VBY_PrimitiveFlint</defName>
+    <label>silex</label>
+    <description>Le silex est une forme cryptocristalline sédimentaire du minéral quartz. Historiquement, le silex était largement utilisé pour fabriquer des outils en pierre et allumer des feux. Il se présente principalement sous forme de nodules et de masses dans les roches sédimentaires, telles que les craies et les calcaires. À l'intérieur du nodule, le silex est généralement gris foncé, noir, vert, blanc ou brun et présente souvent un aspect vitreux ou cireux. Le silex se brise et s'ébrèche en morceaux aux arêtes vives, ce qui le rend utile pour la fabrication de lames de couteau et d'autres outils de coupe.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/HDM_Flint</texPath>  <!-- Here  -->
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+	<stackLimit>125</stackLimit>
+    <useHitPoints>true</useHitPoints>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <soundInteract>ChunkRock_Drop</soundInteract>
+    <soundDrop>ChunkRock_Drop</soundDrop>
+    <statBases>
+      <MarketValue>1.2</MarketValue>
+      <Mass>0.05</Mass>
+      <SharpDamageMultiplier>1.10</SharpDamageMultiplier>
+    </statBases>
+    <thingCategories>
+      <li>ResourcesRaw</li>
+    </thingCategories>
+    <burnableByRecipe>false</burnableByRecipe>
+    <smeltable>false</smeltable>
+	<smallVolume>false</smallVolume>
+    <stuffProps>
+      <categories>
+        <li>Stony</li>  <!-- New?  -->
+      </categories>
+	  <appearance>Bricks</appearance>
+      <commonality>0.15</commonality>
+      <color>(160,160,160)</color>
+      <constructEffect>ConstructMetal</constructEffect>
+      <soundImpactBullet>BulletImpact_Metal</soundImpactBullet>
+      <soundImpactMelee>Pawn_Melee_Punch_HitBuilding_Stone</soundImpactMelee>
+      <soundMeleeHitSharp>MeleeHit_Stone</soundMeleeHitSharp>
+      <soundMeleeHitBlunt>MeleeHit_Stone</soundMeleeHitBlunt>
+      <statOffsets>
+        <WorkToBuild>155</WorkToBuild>
+      </statOffsets>
+      <statFactors>
+        <MarketValue>0.45</MarketValue>
+        <MaxHitPoints>1.7</MaxHitPoints>
+        <Flammability>0</Flammability>
+        <WorkToBuild>6.0</WorkToBuild>
+        <WorkToMake>1.45</WorkToMake>
+        <DoorOpenSpeed>0.55</DoorOpenSpeed>
+        <BedRestEffectiveness>0.85</BedRestEffectiveness>
+        <MeleeWeapon_CooldownMultiplier>1.15</MeleeWeapon_CooldownMultiplier>
+		<Mass MayRequire="robopitek.Massivity">2.2</Mass>
+      </statFactors>
+    </stuffProps>
+    <terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>
+  </ThingDef>
+  
+</Defs> 

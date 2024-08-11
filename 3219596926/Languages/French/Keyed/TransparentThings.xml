@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Transparent Things tweaks -->
+  <TT.TransparentThings>Objets transparents</TT.TransparentThings>
+	<!-- EN: Enable tree transparency -->
+  <TT.EnableTreeTransparency>Activer la transparence des arbres</TT.EnableTreeTransparency>
+	<!-- EN: Enable roof transparency -->
+  <TT.EnableRoofTransparency>Activer la transparence du toit</TT.EnableRoofTransparency>
+	<!-- EN: Make roofs selectable -->
+  <TT.MakeRoofsSelectable>Rendre les toits sélectionnables</TT.MakeRoofsSelectable>
+	
+</LanguageData>

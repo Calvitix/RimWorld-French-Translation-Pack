@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TriggerFireSprinkler.reportString>Active TargetA.</TriggerFireSprinkler.reportString>
+  
+  <LoadComposter.reportString>Remplit TargetA.</LoadComposter.reportString>
+  <UnloadComposter.reportString>Vide TargetA.</UnloadComposter.reportString>
+  <RemoveSewage.reportString>Enlève les matières fécales.</RemoveSewage.reportString>
+  
+  <UseToilet.reportString>utilise TargetA.</UseToilet.reportString>
+  
+  <emptyLatrine.reportString>Vide TargetA.</emptyLatrine.reportString>
+  <emptySeptictank.reportString>Vide TargetA.</emptySeptictank.reportString>
+  
+  <WatchWashingMachine.reportString>Regarde le cycle d'essorage.</WatchWashingMachine.reportString>
+  
+  <DBHDrinkFromGround.reportString>Boit de l'eau de pluie.</DBHDrinkFromGround.reportString>
+  <DBHDrinkFromBasin.reportString>Boit de l'eau dans TargetA.</DBHDrinkFromBasin.reportString>
+  <DBHAdministerFluids.reportString>TargetA aider à boire.</DBHAdministerFluids.reportString>
+  
+  <haveWildPoo.reportString>N'a pas pu aller aux toilettes.</haveWildPoo.reportString>
+  
+  <useWashBucket.reportString>Se lave avec TargetA.</useWashBucket.reportString>
+  <takeShower.reportString>Prends une douche avec TargetA.</takeShower.reportString>
+  <takeBath.reportString>Se baigne</takeBath.reportString>
+  
+  <washHands.reportString>Se laver les mains.</washHands.reportString>
+  <clearBlockage.reportString>Débouche TargetA.</clearBlockage.reportString>
+  
+  <washPatient.reportString>lave TargetA.</washPatient.reportString>
+  <cleanBedpan.reportString>Nettoie le bassin</cleanBedpan.reportString>
+  
+  <LoadFridge.reportString>Rempli TargetA.</LoadFridge.reportString>
+  <LoadWashing.reportString>Rempli TargetA</LoadWashing.reportString>
+  <UnloadWashing.reportString>Vide TargetA</UnloadWashing.reportString>
+  <washAtCell.reportString>Se lave</washAtCell.reportString>
+  <RefillTub.reportString>Remplit le bac de lavage</RefillTub.reportString>
+  <TipOverSewage.reportString>Bascule TargetA</TipOverSewage.reportString>
+  
+  
+</LanguageData>

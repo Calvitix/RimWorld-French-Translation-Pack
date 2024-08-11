@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: intelligence primitive avancée -->
+  <VBY_PrimitiveProductionAdvanced.label>développement de l'intelligence primitive</VBY_PrimitiveProductionAdvanced.label>
+  <!-- EN: Faire un pas de plus vers la compréhension de la technologie médiévale. -->
+  <VBY_PrimitiveProductionAdvanced.description>Faire un pas de plus vers la compréhension de la technologie médiévale.</VBY_PrimitiveProductionAdvanced.description>
+
+  <!-- EN: travail primitif des métaux -->
+  <VBY_PrimitiveSmithing.label>travail primitif des métaux</VBY_PrimitiveSmithing.label>
+  <!-- EN: Apprendre les techniques de base pour manipuler les métaux à l'aide de la chaleur et de la force contondante. -->
+  <VBY_PrimitiveSmithing.description>Apprendre les techniques de base pour manipuler les métaux à l'aide de la chaleur et de la force contondante.</VBY_PrimitiveSmithing.description>
+
+  <!-- EN: taille de pierre primitive -->
+  <VBY_PrimitiveStonecutting.label>taille de pierre primitive</VBY_PrimitiveStonecutting.label>
+  <!-- EN: Apprendre les techniques de base pour sculpter et façonner la pierre en blocs.. -->
+  <VBY_PrimitiveStonecutting.description>Apprendre les techniques de base pour sculpter et façonner la pierre en blocs.</VBY_PrimitiveStonecutting.description>
+
+</LanguageData>

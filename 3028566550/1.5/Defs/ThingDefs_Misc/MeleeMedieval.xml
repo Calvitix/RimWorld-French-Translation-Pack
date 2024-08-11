@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+
+ <ThingDef ParentName="BaseMeleeWeapon_Blunt_Quality">
+	<defName>DA_MeleeWeapon_Hammer</defName>
+	<label>marteau de chantier</label>
+	<description>Outil à tête lourde monté sur un manche, utilisé pour la construction..</description>
+	
+	<graphicData>
+		<texPath>Things/Tools/Hammer/Hammer</texPath>
+		<graphicClass>Graphic_Single</graphicClass>
+		<shaderType>CutoutComplex</shaderType>
+	</graphicData>
+    <techLevel>Medieval</techLevel>
+	<generateCommonality>0.4</generateCommonality>
+	
+	<statBases>
+		<WorkToMake>2400</WorkToMake>
+		<Mass>1.5</Mass>
+	</statBases>
+	
+	<equippedStatOffsets>
+		<ConstructionSpeed>0.10</ConstructionSpeed> 
+		<ConstructSuccessChance>0.08</ConstructSuccessChance>
+		<SmoothingSpeed>0.06</SmoothingSpeed>
+	</equippedStatOffsets>
+	<equippedAngleOffset>-65</equippedAngleOffset>
+	
+	<costStuffCount>60</costStuffCount>
+	<stuffCategories>
+			<li>Metallic</li>
+	</stuffCategories>
+	<costList>
+      <WoodLog>30</WoodLog>
+    </costList>
+	
+	<tools> 
+		<li>
+			<label>handle</label>
+			<capacities>
+			  <li>Poke</li>
+			</capacities>
+			<power>9</power>
+			<cooldownTime>2</cooldownTime>
+		</li>
+		<li>
+			<label>head</label>
+			<capacities>
+			  <li>Blunt</li>
+			</capacities>
+			<power>14</power>
+			<cooldownTime>2.5</cooldownTime>
+		</li>
+    </tools>
+	
+	<weaponTags>
+		<li>MedievalMeleeDecent</li>
+	</weaponTags>
+	
+    <recipeMaker>
+	  <recipeUsers>
+		<li>FueledSmithy</li>
+		<li>ElectricSmithy</li>
+	  </recipeUsers>
+	  <researchPrerequisite>Smithing</researchPrerequisite>
+	   <skillRequirements>
+			<Crafting>3</Crafting>
+	  </skillRequirements>
+	</recipeMaker>
+	
+		<researchPrerequisites>
+			<li>Smithing</li>
+		</researchPrerequisites>
+		
+				<modExtensions>
+			<li Class="ShowTools.ToolExtension">
+				<jobDefs>
+					<li>SmoothFloor</li>
+					<li>SmoothWall</li>
+					<li>RemoveRoof</li>
+					<li>BuildRoof</li>
+					<li>Repair</li>
+					<li>Deconstruct</li>
+					<li>FinishFrame</li>
+				</jobDefs>
+			</li>
+		</modExtensions>
+		
+  </ThingDef>
+
+ <ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">
+	<defName>DA_MeleeWeapon_Hacksaw</defName>
+	<label>scie à os</label>
+	<description>Outil médical rudimentaire constitué d'une lame dentée et tranchante, souvent utilisé pour couper les membres infectés..</description>
+	
+	<graphicData>
+		<texPath>Things/Tools/Hacksaw/Hacksaw</texPath>
+		<graphicClass>Graphic_Single</graphicClass>
+		<shaderType>CutoutComplex</shaderType>
+	</graphicData>
+    <techLevel>Medieval</techLevel>
+	<generateCommonality>0.4</generateCommonality>
+	
+	<statBases>
+		<WorkToMake>1500</WorkToMake>
+		<Mass>0.6</Mass>
+	</statBases>
+	
+	<equippedStatOffsets>
+        <MedicalOperationSpeed>0.20</MedicalOperationSpeed>
+        <MedicalSurgerySuccessChance>-0.10</MedicalSurgerySuccessChance>
+	</equippedStatOffsets>
+	<equippedAngleOffset>-65</equippedAngleOffset>
+	
+	<costStuffCount>30</costStuffCount>
+	<stuffCategories>
+			<li>Metallic</li>
+	</stuffCategories>
+    <costList>
+      <WoodLog>15</WoodLog>
+    </costList>
+	
+	<tools> 
+		<li>
+			<label>handle</label>
+			<capacities>
+			  <li>Poke</li>
+			</capacities>
+			<power>9</power>
+			<cooldownTime>2</cooldownTime>
+		</li>
+		<li>
+			<label>blade</label>
+			<capacities>
+			  <li>Cut</li>
+			</capacities>
+	    <power>12</power>
+			<cooldownTime>2</cooldownTime>
+		</li>
+    </tools>
+	
+	<weaponTags>
+		<li>MedievalMeleeDecent</li>
+	</weaponTags>
+	
+    <recipeMaker>
+	  <recipeUsers>
+		<li>FueledSmithy</li>
+		<li>ElectricSmithy</li>
+	  </recipeUsers>
+	  <researchPrerequisite>Smithing</researchPrerequisite>
+	   <skillRequirements>
+			<Crafting>3</Crafting>
+	  </skillRequirements>
+	</recipeMaker>
+	
+	    <researchPrerequisites>
+			<li>Smithing</li>
+		</researchPrerequisites>
+		
+		<modExtensions>
+			<li Class="ShowTools.ToolExtension">
+				<workGiverDefs>
+					<li>DoBillsMedicalHumanOperation</li>
+				</workGiverDefs>
+			</li>
+		</modExtensions>
+		
+  </ThingDef>
+
+ <ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">
+	<defName>DA_MeleeWeapon_Pickaxe</defName>
+	<label>pioche</label>
+	<description>Un outil lourd avec une tête tranchante en forme de T, utilisé pour casser les pierres avec facilité.</description>
+	
+	<graphicData>
+		<texPath>Things/Tools/Pickaxe/Pickaxe</texPath>
+		<graphicClass>Graphic_Single</graphicClass>
+		<shaderType>CutoutComplex</shaderType>
+	</graphicData>
+    <techLevel>Medieval</techLevel>
+	<generateCommonality>0.4</generateCommonality>
+	
+	<statBases>
+		<WorkToMake>4500</WorkToMake>
+		<Mass>1.5</Mass>
+	</statBases>
+	
+	<equippedStatOffsets>
+		<MiningSpeed>0.15</MiningSpeed> 
+		<MiningYield>0.10</MiningYield>
+	</equippedStatOffsets>
+	<equippedAngleOffset>-65</equippedAngleOffset>
+	
+	<costStuffCount>60</costStuffCount>
+	<stuffCategories>
+			<li>Metallic</li>
+			<li>Stony</li>
+	</stuffCategories>
+	<costList>
+      <WoodLog>30</WoodLog>
+    </costList>
+	
+	<tools> 
+		<li>
+			<label>handle</label>
+			<capacities>
+			  <li>Poke</li>
+			</capacities>
+			<power>9</power>
+			<cooldownTime>2</cooldownTime>
+		</li>
+		<li>
+			<label>head</label>
+			<capacities>
+			  <li>Stab</li>
+			</capacities>
+			<power>15</power>
+			<cooldownTime>2.5</cooldownTime>
+		</li>
+    </tools>
+	
+	<weaponTags>
+		<li>MedievalMeleeDecent</li>
+	</weaponTags>
+	
+    <recipeMaker>
+	  <recipeUsers>
+		<li>FueledSmithy</li>
+		<li>ElectricSmithy</li>
+	  </recipeUsers>
+	  <researchPrerequisite>Smithing</researchPrerequisite>
+	   <skillRequirements>
+			<Crafting>3</Crafting>
+	  </skillRequirements>
+	</recipeMaker>
+	
+	    <researchPrerequisites>
+			<li>Smithing</li>
+		</researchPrerequisites>
+		
+		<modExtensions>
+			<li Class="ShowTools.ToolExtension">
+				<jobDefs>
+					<li>Mine</li>
+					<li MayRequire="Ogliss.TheWhiteCrayon.Quarry">QRY_MineQuarry</li>
+				</jobDefs>
+			</li>
+		</modExtensions>
+		
+  </ThingDef>
+  
+   <ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">
+	<defName>DA_MeleeWeapon_Cleaver</defName>
+	<label>hachoir à viande</label>
+	<description>Un outil avec une grande lame utilisé pour hacher la viande et les os plus efficacement.</description>
+	
+	<graphicData>
+		<texPath>Things/Tools/Cleaver/Cleaver</texPath>
+		<graphicClass>Graphic_Single</graphicClass>
+		<shaderType>CutoutComplex</shaderType>
+	</graphicData>
+    <techLevel>Medieval</techLevel>
+	<generateCommonality>0.4</generateCommonality>
+	
+	<statBases>
+		<WorkToMake>1700</WorkToMake>
+		<Mass>0.8</Mass>
+	</statBases>
+	
+	<equippedStatOffsets>
+        <ButcheryFleshSpeed>0.20</ButcheryFleshSpeed>
+        <ButcheryFleshEfficiency>0.15</ButcheryFleshEfficiency>
+	</equippedStatOffsets>
+	<equippedAngleOffset>-65</equippedAngleOffset>
+	
+	<costStuffCount>35</costStuffCount>
+	<stuffCategories>
+			<li>Metallic</li>
+	</stuffCategories>
+    <costList>
+      <WoodLog>15</WoodLog>
+    </costList>
+	
+	<tools> 
+		<li>
+			<label>handle</label>
+			<capacities>
+			  <li>Poke</li>
+			</capacities>
+			<power>9</power>
+			<cooldownTime>2</cooldownTime>
+		</li>
+		<li>
+			<label>blade</label>
+			<capacities>
+			  <li>Cut</li>
+			</capacities>
+	    <power>13</power>
+			<cooldownTime>2</cooldownTime>
+		</li>
+    </tools>
+	
+	<weaponTags>
+		<li>MedievalMeleeDecent</li>
+	</weaponTags>
+	
+    <recipeMaker>
+	  <recipeUsers>
+		<li>FueledSmithy</li>
+		<li>ElectricSmithy</li>
+	  </recipeUsers>
+	  <researchPrerequisite>Smithing</researchPrerequisite>
+	   <skillRequirements>
+			<Crafting>3</Crafting>
+	  </skillRequirements>
+	</recipeMaker>
+	
+		<researchPrerequisites>
+			<li>Smithing</li>
+		</researchPrerequisites>
+		
+		<modExtensions>
+			<li Class="ShowTools.ToolExtension">
+				<workGiverDefs>
+					<li>DoBillsButcherFlesh</li>
+				</workGiverDefs>
+			</li>
+		</modExtensions>
+		
+  </ThingDef>
+  
+     <ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">
+	<defName>DA_MeleeWeapon_Scythe</defName>
+	<label>faux</label>
+	<description>Outil muni d'une longue lame courbée et tranchante et d'un manche à deux mains, utilisé pour moissonner les champs..</description>
+	
+	<graphicData>
+		<texPath>Things/Tools/Scythe/Scythe</texPath>
+		<graphicClass>Graphic_Single</graphicClass>
+		<shaderType>CutoutComplex</shaderType>
+	</graphicData>
+    <techLevel>Medieval</techLevel>
+	<generateCommonality>0.4</generateCommonality>
+	
+	<statBases>
+		<WorkToMake>9000</WorkToMake>
+		<Mass>1</Mass>
+	</statBases>
+	
+	<equippedStatOffsets>
+        <PlantHarvestYield>0.15</PlantHarvestYield>
+        <PlantWorkSpeed>0.2</PlantWorkSpeed>
+	</equippedStatOffsets>
+	<equippedAngleOffset>-40</equippedAngleOffset>
+	
+	<costStuffCount>60</costStuffCount>
+	<stuffCategories>
+			<li>Metallic</li>
+	</stuffCategories>
+	<costList>
+      <WoodLog>30</WoodLog>
+    </costList>
+	
+	<tools> 
+		<li>
+			<label>handle</label>
+			<capacities>
+			  <li>Poke</li>
+			</capacities>
+			<power>9</power>
+			<cooldownTime>2</cooldownTime>
+		</li>
+		<li>
+			<label>blade</label>
+			<capacities>
+			  <li>Cut</li>
+			</capacities>
+	    <power>15</power>
+			<cooldownTime>2.5</cooldownTime>
+		</li>
+    </tools>
+	
+
+	
+	<weaponTags>
+		<li>MedievalMeleeDecent</li>
+	</weaponTags>
+	
+    <recipeMaker>
+	  <recipeUsers>
+		<li>FueledSmithy</li>
+		<li>ElectricSmithy</li>
+	  </recipeUsers>
+	  
+	   <skillRequirements>
+			<Crafting>3</Crafting>
+	  </skillRequirements>
+	</recipeMaker>
+	
+		<researchPrerequisites>
+			<li>Smithing</li>
+		</researchPrerequisites>
+		
+		<modExtensions>
+			<li Class="ShowTools.ToolExtension">
+				<jobDefs>
+					<li>Harvest</li>
+					<li>CutPlant</li>
+					<li>CutPlantDesignated</li>
+					<li>HarvestDesignated</li>
+				</jobDefs>
+			</li>
+		</modExtensions>
+		
+  </ThingDef>
+  
+       <ThingDef ParentName="BaseMeleeWeapon_Blunt_Quality">
+	<defName>DA_MeleeWeapon_Broom</defName>
+	<label>balai</label>
+	<description>Brosse faite d'herbe séchée attachée à un manche en bois, utilisée comme outil de nettoyage simple mais efficace.</description>
+	
+	<graphicData>
+		<texPath>Things/Tools/Broom/Broom</texPath>
+		<graphicClass>Graphic_Single</graphicClass>
+	</graphicData>
+    <techLevel>Medieval</techLevel>
+	<generateCommonality>0.4</generateCommonality>
+	
+	<statBases>
+		<WorkToMake>700</WorkToMake>
+		<Mass>0.6</Mass>
+	</statBases>
+	
+	<equippedStatOffsets>
+        <CleaningSpeed>0.35</CleaningSpeed>
+	</equippedStatOffsets>
+	<equippedAngleOffset>-70</equippedAngleOffset>
+	
+    <costList>
+      <WoodLog>25</WoodLog>
+	  <Hay>20</Hay>
+    </costList>
+	
+	<tools> 
+		<li>
+			<label>handle</label>
+			<capacities>
+			  <li>Poke</li>
+			</capacities>
+			<power>9</power>
+			<cooldownTime>2</cooldownTime>
+		</li>
+		
+		<li>
+			<label>head</label>
+			<capacities>
+			  <li>Blunt</li>
+			</capacities>
+			<power>5</power>
+			<cooldownTime>0.8</cooldownTime>
+		</li>
+    </tools>
+	
+    <weaponClasses>
+      <li>Melee</li>
+      <li>MeleeBlunt</li>
+      <li>Neolithic</li>
+    </weaponClasses>
+	
+    <recipeMaker>
+	  <recipeUsers>
+		<li>FueledSmithy</li>
+		<li>ElectricSmithy</li>
+        <li>CraftingSpot</li>
+	  </recipeUsers>
+	  <soundWorking>Recipe_MakeBow</soundWorking>
+	</recipeMaker>
+	
+		<modExtensions>
+			<li Class="ShowTools.ToolExtension">
+				<jobDefs>
+					<li>Clean</li>
+				</jobDefs>
+			</li>
+		</modExtensions>
+  </ThingDef>
+
+ <ThingDef ParentName="BaseMeleeWeapon_Blunt_Quality">
+	<defName>DA_MeleeWeapon_GuardBaton</defName>
+	<label>matraque</label>
+	<description>Une masse en bois avec des renforts métalliques conçue pour provoquer des commotions et tenir les prisonniers à distance..</description>
+	
+	<graphicData>
+		<texPath>Things/Tools/Baton/GuardBaton</texPath>
+		<graphicClass>Graphic_Single</graphicClass>
+		<shaderType>CutoutComplex</shaderType>
+	</graphicData>
+    <techLevel>Medieval</techLevel>
+	<generateCommonality>0.4</generateCommonality>
+	
+	<statBases>
+		<WorkToMake>2400</WorkToMake>
+		<Mass>1</Mass>
+	</statBases>
+	
+	<equippedStatOffsets>
+		<NegotiationAbility>0.10</NegotiationAbility> 
+		<ArrestSuccessChance>0.20</ArrestSuccessChance>
+		<ConversionPower MayRequire="Ludeon.RimWorld.Ideology">0.06</ConversionPower>
+	</equippedStatOffsets>
+	<equippedAngleOffset>-65</equippedAngleOffset>
+	
+	<costStuffCount>25</costStuffCount>
+	<stuffCategories>
+			<li>Metallic</li>
+	</stuffCategories>
+	<costList>
+      <WoodLog>35</WoodLog>
+    </costList>
+	
+    <tools>
+      <li>
+        <label>handle</label>
+        <capacities>
+          <li>Poke</li>
+        </capacities>
+        <power>3</power>
+        <cooldownTime>1.1</cooldownTime>
+		<alwaysTreatAsWeapon>true</alwaysTreatAsWeapon>
+		<chanceFactor>0.6</chanceFactor>
+          <extraMeleeDamages>
+            <li>
+              <def>Stun</def>
+              <amount>1</amount>
+			  <chance>0.5</chance>
+            </li>
+          </extraMeleeDamages>
+		
+      </li>
+      <li>
+        <label>head</label>
+        <labelUsedInLogging>false</labelUsedInLogging>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>8</power>
+        <cooldownTime>1.5</cooldownTime>
+		<alwaysTreatAsWeapon>true</alwaysTreatAsWeapon>
+		<chanceFactor>0.8</chanceFactor>
+          <extraMeleeDamages>
+            <li>
+              <def>Stun</def>
+              <amount>4</amount>
+			  <chance>0.6</chance>
+            </li>
+          </extraMeleeDamages>
+      </li>
+    </tools>
+	
+	<weaponTags>
+		<li>MedievalMeleeDecent</li>
+	</weaponTags>
+	
+    <recipeMaker>
+	  <recipeUsers>
+		<li>FueledSmithy</li>
+		<li>ElectricSmithy</li>
+	  </recipeUsers>
+	  <researchPrerequisite>Smithing</researchPrerequisite>
+	   <skillRequirements>
+			<Crafting>3</Crafting>
+	  </skillRequirements>
+	</recipeMaker>
+	
+		<researchPrerequisites>
+			<li>Smithing</li>
+		</researchPrerequisites>
+		
+				<modExtensions>
+			<li Class="ShowTools.ToolExtension">
+				<jobDefs>
+					<li>Capture</li>
+					<li>Arrest</li>
+					<li>ReleasePrisoner</li>
+					<li>EscortPrisonerToBed</li>
+					<li>TakeWoundedPrisonerToBed</li>
+					<li>CarryToPrisonerBedDrafted</li>
+					<li>PrisonerAttemptRecruit</li>
+					<li MayRequire="Ludeon.RimWorld.Ideology">SlaveEmancipation</li>
+					<li MayRequire="Ludeon.RimWorld.Ideology">SlaveSuppress</li>
+					<li MayRequire="Ludeon.RimWorld.Ideology">PrisonerEnslave</li>
+					<li MayRequire="Ludeon.RimWorld.Ideology">PrisonerReduceWill</li>
+					<li MayRequire="Ludeon.RimWorld.Ideology">PrisonerConvert</li>
+				</jobDefs>
+				
+				<workGiverDefs>
+				    <li MayRequire="Ludeon.RimWorld.Ideology">EnslavePrisoner</li>
+					<li MayRequire="Ludeon.RimWorld.Ideology">SuppressSlave</li>
+					<li MayRequire="Ludeon.RimWorld.Ideology">ConvertPrisoner</li>
+					<li>ReleasePrisoner</li>
+					<li>ChatWithPrisoner</li>
+					<li>TakePrisonerToBed</li>
+				</workGiverDefs>
+			</li>
+		</modExtensions>
+		
+  </ThingDef>
+</Defs>

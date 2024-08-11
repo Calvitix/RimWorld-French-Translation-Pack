@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TerrainDef Abstract="True" ParentName="FloorBase" Name="Ccot_BaseCobblestone">
+    <renderPrecedence>220</renderPrecedence>
+    <description>todo</description>
+    <texturePath>Terrain/Surfaces/Cobblestones</texturePath>
+    <statBases>
+      <WorkToBuild>650</WorkToBuild>
+      <Beauty>1</Beauty>
+    </statBases>
+    <designatorDropdown>CCot_Floor_Cobblestone</designatorDropdown>
+		<researchPrerequisites>
+			<li>Stonecutting</li>
+		</researchPrerequisites>	
+  </TerrainDef>
+
+  <TerrainDef ParentName="Ccot_BaseCobblestone">
+    <defName>CCot_CobblestoneSandstone</defName>
+    <label>sandstone cobblestone</label>
+    <color>(126,104,94)</color>
+    <costList>
+      <BlocksSandstone>5</BlocksSandstone>
+    </costList>
+		<researchPrerequisites>
+			<li>Stonecutting</li>
+		</researchPrerequisites>	
+  </TerrainDef>
+
+  <TerrainDef ParentName="Ccot_BaseCobblestone">
+    <defName>CCot_CobblestoneGranite</defName>
+    <label>granite cobblestone</label>
+    <color>(105,95,97)</color>
+    <costList>
+      <BlocksGranite>5</BlocksGranite>
+    </costList>
+		<researchPrerequisites>
+			<li>Stonecutting</li>
+		</researchPrerequisites>	
+  </TerrainDef>
+
+  <TerrainDef ParentName="Ccot_BaseCobblestone">
+    <defName>CCot_CobblestoneLimestone</defName>
+    <label>limestone cobblestone</label>
+    <color>(158,153,135)</color>
+    <costList>
+      <BlocksLimestone>5</BlocksLimestone>
+    </costList>
+		<researchPrerequisites>
+			<li>Stonecutting</li>
+		</researchPrerequisites>	
+  </TerrainDef>
+
+  <TerrainDef ParentName="Ccot_BaseCobblestone">
+    <defName>CCot_CobblestoneSlate</defName>
+    <label>slate cobblestone</label>
+    <color>(105,105,105)</color>
+    <costList>
+      <BlocksSlate>5</BlocksSlate>
+    </costList>
+		<researchPrerequisites>
+			<li>Stonecutting</li>
+		</researchPrerequisites>	
+  </TerrainDef>
+
+  <TerrainDef ParentName="Ccot_BaseCobblestone">
+    <defName>CCot_CobblestoneMarble</defName>
+    <label>marble cobblestone</label>
+    <color>(132,135,132)</color>
+    <costList>
+      <BlocksMarble>5</BlocksMarble>
+    </costList>
+		<researchPrerequisites>
+			<li>Stonecutting</li>
+		</researchPrerequisites>	
+  </TerrainDef>
+  
+  <!-- grassy -->
+  <!--<TerrainDef Abstract="True" ParentName="FloorBase" Name="Ccot_BaseGrassyCobblestone">
+    <renderPrecedence>220</renderPrecedence>
+    <description>todo</description>
+    <statBases>
+      <WorkToBuild>650</WorkToBuild>
+      <Beauty>1</Beauty>
+    </statBases>
+    <designatorDropdown>CCot_Floor_GrassyCobblestone</designatorDropdown>
+  </TerrainDef>
+
+  <TerrainDef ParentName="Ccot_BaseGrassyCobblestone">
+    <defName>CCot_GrassyCobblestoneSandstone</defName>
+    <label>grassy sandstone cobblestone</label>
+    <texturePath>Terrain/Surfaces/GrassCobblestones/Grassysandstone</texturePath>
+    <costList>
+      <BlocksSandstone>5</BlocksSandstone>
+    </costList>
+  </TerrainDef>
+
+  <TerrainDef ParentName="Ccot_BaseGrassyCobblestone">
+    <defName>CCot_GrassyCobblestoneGranite</defName>
+    <label>grassy granite cobblestone</label>
+    <texturePath>Terrain/Surfaces/GrassCobblestones/Grassygranite</texturePath>
+    <costList>
+      <BlocksGranite>5</BlocksGranite>
+    </costList>
+  </TerrainDef>
+
+  <TerrainDef ParentName="Ccot_BaseGrassyCobblestone">
+    <defName>CCot_GrassyCobblestoneLimestone</defName>
+    <label>grassy limestone cobblestone</label>
+    <texturePath>Terrain/Surfaces/GrassCobblestones/Grassylimestone</texturePath>
+    <costList>
+      <BlocksLimestone>5</BlocksLimestone>
+    </costList>
+  </TerrainDef>
+
+  <TerrainDef ParentName="Ccot_BaseGrassyCobblestone">
+    <defName>CCot_GrassyCobblestoneSlate</defName>
+    <label>grassy slate cobblestone</label>
+    <texturePath>Terrain/Surfaces/GrassCobblestones/Grassyslate</texturePath>
+    <costList>
+      <BlocksSlate>5</BlocksSlate>
+    </costList>
+  </TerrainDef>
+
+  <TerrainDef ParentName="Ccot_BaseGrassyCobblestone">
+    <defName>CCot_GrassyCobblestoneMarble</defName>
+    <label>grassy marble cobblestone</label>
+    <texturePath>Terrain/Surfaces/GrassCobblestones/Grassymarble</texturePath>
+    <costList>
+      <BlocksMarble>5</BlocksMarble>
+    </costList>
+  </TerrainDef>-->
+  
+</Defs>

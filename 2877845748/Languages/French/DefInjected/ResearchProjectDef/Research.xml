@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: production primitive -->
+  <VBY_PrimitiveProduction.label>production primitive</VBY_PrimitiveProduction.label>
+  <!-- EN: Apprendre à fabriquer des postes de production légèrement avancées avec des outils et des ressources rudimentaires.. -->
+  <VBY_PrimitiveProduction.description>Apprendre à fabriquer des postes de production légèrement avancées avec des outils et des ressources rudimentaires.</VBY_PrimitiveProduction.description>
+  
+  <!-- EN: outils primitifs -->
+  <VBY_PrimitiveTools.label>outils primitifs</VBY_PrimitiveTools.label>
+  <!-- EN: Apprendre à fabriquer de meilleurs outils et armes en utilisant les ressources du silex, du bois et de la pierre.. -->
+  <VBY_PrimitiveTools.description>Apprendre à fabriquer de meilleurs outils et armes en utilisant les ressources du silex, du bois et de la pierre.</VBY_PrimitiveTools.description>
+ 
+</LanguageData>

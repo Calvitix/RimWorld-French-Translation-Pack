@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	
+	
+	
+	<ResearchProjectDef>
+		<defName>ReelNeolithicStorage</defName>
+		<label>stockage Néolithique</label>
+        <techLevel>Neolithic</techLevel>
+        <baseCost>200</baseCost>
+		<description>Construire des conteneurs de stockage adaptés à une colonie de l'ère néolithique, avec des moyens de protéger les marchandises des éléments, d'organiser les ressources et d'exposer les armes.</description>
+		<tags>
+			<li>ClassicStart</li>
+		</tags>
+		<researchViewX>0</researchViewX>
+		<researchViewY>6.4</researchViewY>
+	</ResearchProjectDef>
+    
+    <ResearchProjectDef>
+		<defName>ReelMedievalStorage</defName>
+		<label>stockage Médieval</label>
+        <techLevel>Medieval</techLevel>
+        <baseCost>500</baseCost>
+		<description>Construisez des conteneurs de stockage adaptés à une colonie de l'époque médiévale et des méthodes pour organiser la nourriture et les ressources de manière plus efficace.</description>
+        <tags>
+			<li>ClassicStart</li>
+		</tags>
+        <prerequisites>
+            <li>ComplexFurniture</li>
+            <li>ReelNeolithicStorage</li>
+        </prerequisites>
+		<researchViewX>1</researchViewX>
+		<researchViewY>6.4</researchViewY>
+	</ResearchProjectDef>
+ 
+ <ResearchProjectDef>
+		<defName>ReelIndustrialStorage</defName>
+		<label>stockage industriel</label>
+        <techLevel>Industrial</techLevel>
+        <baseCost>1000</baseCost>
+		<description>Construire des conteneurs de stockage résistants, adaptés à une colonie de l'ère industrielle, avec des méthodes permettant de stocker et d'organiser efficacement de grandes quantités de ressources à l'aide de technologies modernes.</description>
+        <prerequisites>
+            <li>Electricity</li>
+            <li>ReelMedievalStorage</li>
+        </prerequisites>
+		<researchViewX>6</researchViewX>
+		<researchViewY>6.4</researchViewY>
+	</ResearchProjectDef>
+
+ <ResearchProjectDef>
+		<defName>ReelSpacerStorage</defName>
+		<label>stockage moderne</label>
+        <techLevel>Spacer</techLevel>
+        <baseCost>3000</baseCost>
+		<description>Construire des conteneurs de stockage avancés adaptés aux colonies et aux vaisseaux spatiaux, avec des méthodes permettant de stocker et d'organiser efficacement de grandes quantités de ressources tout en utilisant le moins d'espace possible.</description>
+        <prerequisites>
+            <li>ReelIndustrialStorage</li>
+            <li>AdvancedFabrication</li>
+        </prerequisites>
+		<researchViewX>17</researchViewX>
+		<researchViewY>6.4</researchViewY>
+	</ResearchProjectDef>	
+	
+	
+</Defs>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FT_BlocksConcrete.label>concrete</FT_BlocksConcrete.label>
+  <FT_BlocksConcrete.description>packs of concrete dust. Concrete is a strong building material but ugly to look at.</FT_BlocksConcrete.description>
+  <FT_BlocksConcrete.stuffProps.stuffAdjective>concrete</FT_BlocksConcrete.stuffProps.stuffAdjective>
+
+
+</LanguageData>

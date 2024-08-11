@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: amethyst -->
+  <Z_Amethyst.label>améthyste</Z_Amethyst.label>
+  <!-- EN: A semiprecious stone. Often used for ornaments and decorations. -->
+  <Z_Amethyst.description>Une pierre semi-précieuse. Souvent utilisée pour les ornements et les décorations.</Z_Amethyst.description>
+  
+  <!-- EN: chalcedony -->
+  <Z_Chalcedony.label>calcédoine</Z_Chalcedony.label>
+  <!-- EN: A semiprecious stone. Often used for ornaments and decorations. -->
+  <Z_Chalcedony.description>Une pierre semi-précieuse. Souvent utilisée pour les ornements et les décorations.</Z_Chalcedony.description>
+  
+  <!-- EN: citrine -->
+  <Z_Citrine.label>citrine</Z_Citrine.label>
+  <!-- EN: A semiprecious stone. Often used for ornaments and decorations. -->
+  <Z_Citrine.description>Une pierre semi-précieuse. Souvent utilisée pour les ornements et les décorations.</Z_Citrine.description>
+  
+  <!-- EN: garnet -->
+  <Z_Garnet.label>grenat</Z_Garnet.label>
+  <!-- EN: A semiprecious stone. Often used for ornaments and decorations. -->
+  <Z_Garnet.description>Une pierre semi-précieuse. Souvent utilisée pour les ornements et les décorations.</Z_Garnet.description>
+  
+  <!-- EN: lapis -->
+  <Z_Lapis.label>lapis</Z_Lapis.label>
+  <!-- EN: A semiprecious stone. Often used for ornaments and decorations. -->
+  <Z_Lapis.description>Une pierre semi-précieuse. Souvent utilisée pour les ornements et les décorations.</Z_Lapis.description>
+  
+  <!-- EN: quartz -->
+  <Z_Quartz.label>quartz</Z_Quartz.label>
+  <!-- EN: A semiprecious stone. Often used for ornaments and decorations. -->
+  <Z_Quartz.description>Une pierre semi-précieuse. Souvent utilisée pour les ornements et les décorations.</Z_Quartz.description>
+  
+  <!-- EN: serpentine -->
+  <Z_Serpentine.label>serpentine</Z_Serpentine.label>
+  <!-- EN: A semiprecious stone. Often used for ornaments and decorations. -->
+  <Z_Serpentine.description>Une pierre semi-précieuse. Souvent utilisée pour les ornements et les décorations.</Z_Serpentine.description>
+  
+  <!-- EN: turquoise -->
+  <Z_Turquoise.label>turquoise</Z_Turquoise.label>
+  <!-- EN: A semiprecious stone. Often used for ornaments and decorations. -->
+  <Z_Turquoise.description>Une pierre semi-précieuse. Souvent utilisée pour les ornements et les décorations.</Z_Turquoise.description>
+
+  
+</LanguageData>

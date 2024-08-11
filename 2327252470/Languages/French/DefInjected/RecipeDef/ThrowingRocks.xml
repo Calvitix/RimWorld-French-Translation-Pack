@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Choisir des pierres de jet -->
+  <VBY_Make_ThrowingRocks.label>Choisir des pierres de jet</VBY_Make_ThrowingRocks.label>
+  <!-- EN: Choisit les morceaux de roches pour obtenir des pierres à lancer de taille appropriée.. -->
+  <VBY_Make_ThrowingRocks.description>Choisit les morceaux de roches pour obtenir des pierres à lancer de taille appropriée.</VBY_Make_ThrowingRocks.description>
+  <!-- EN: Collecting throwing rocks. -->
+  <VBY_Make_ThrowingRocks.jobString>Choisit des pierres de jet</VBY_Make_ThrowingRocks.jobString>
+  
+</LanguageData>

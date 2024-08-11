@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: agave -->
+  <VCE_Agave.label>agave</VCE_Agave.label>
+  <!-- EN: A large-leafed desert plant with edible flowers and stalks. -->
+  <VCE_Agave.description>Une plante désertique à grandes feuilles avec des fleurs et des tiges comestibles.</VCE_Agave.description>
+  
+  <!-- EN: chioggia beet plant -->
+  <VCE_Beet.label>betterave</VCE_Beet.label>
+  <!-- EN: An herb-like vegetable widely cultivated for humans and livestock alike. Though these look like ordinary beets from the outside, on the inside they have distinct red-and-white-striped flesh. These are highest on the sweetness scale. While beets do require rich soil they are quite hearty, and will continue to grow very slowly through winter. They need to be planted during growing season, though. -->
+  <VCE_Beet.description>Un légume ressemblant à une herbe, largement cultivé par les humains et le bétail, particulièrement nutritif et historiquement utilisé dans la fabrication de teintures. Si les betteraves ont besoin d'un sol riche, elles sont assez robustes et continuent à pousser très lentement pendant l'hiver. Elles doivent cependant être plantées pendant la saison de croissance.</VCE_Beet.description>
+  
+  <!-- EN: cauliflower plant -->
+  <VCE_Cabbage.label>choux</VCE_Cabbage.label>
+  <!-- EN: A large round vegetable that has a hard white centre surrounded by green leaves, naturally high in fiber and B-vitamins. This particular strain seems highly resistant to airborne toxins and radiation. -->
+  <VCE_Cabbage.description>Un légume vert à feuilles, plutôt rustique, souvent haché puis fermenté ou en ragoût. Cette souche particulière semble très résistante aux toxines et aux radiations atmosphériques.</VCE_Cabbage.description>
+  
+  <!-- EN: eggplant -->
+  <VCE_Eggplant.label>aubergine</VCE_Eggplant.label>
+  <!-- EN: A bulbous purple fruit of the nightshade family. Eggplant is rarely served as a side, generally filling the role of the main component of the dish. Flourishes in warm weather.\n\n<color=#E5E54C>Gameplay effect:</color> Eggplants will grow 30% faster if temperature is between 37 and 60 ºC. -->
+  <VCE_Eggplant.description>Un fruit violet bulbeux de la famille des morelles. L'aubergine est rarement servie en accompagnement, remplissant généralement le rôle de composant principal du plat. Elle se développe par temps chaud.</VCE_Eggplant.description>
+  
+  <!-- EN: Grass -->
+  <VCE_Grass.label>herbe</VCE_Grass.label>
+  <!-- EN: Cultivated grass. Grows anywhere there is a little light and minimally fertile ground.\n\n<color=#E5E54C>Gameplay effect:</color> Grass can be used to feed cattle, similar to haygrass. It isn't affected by blight, but can't be harvested and stored as hay can. -->
+  <VCE_Grass.description>Herbe cultivée. Pousse partout où il y a un peu de lumière et un sol peu fertile.</VCE_Grass.description>
+  
+  <!-- EN: white onion plant -->
+  <VCE_Onion.label>oignon</VCE_Onion.label>
+  <!-- EN: A strong and pungent variety of onions, perfect for flavourful salads or for general cooking applications when strong flavours are desired. Cannot suffer the effects of blight. -->
+  <VCE_Onion.description>Un bulbe comestible au goût et à l'odeur piquants et savoureux, avec presque autant de variétés que d'applications culinaires. Ne peut pas subir les méfaits du mildiou.</VCE_Onion.description>
+  
+  <!-- EN: pea plant -->
+  <VCE_Peas.label>petit pois</VCE_Peas.label>
+  <!-- EN: Spherical green seeds tucked safely away in a fleshy pod. Pea plants are known to be quite thirsty, and will benefit greatly from rainfall. Peas are also notable for having potentially long shelf-lives when dried properly.\n\n<color=#E5E54C>Gameplay effect:</color> Normally less efficient than corn, rice or potatoes, peas will however receive a huge 50% growth boost if it is raining. -->
+  <VCE_Peas.description>Les graines vertes sphériques sont bien cachées dans une gousse charnue. Les petits pois sont connus pour être assez assoiffés et bénéficieront grandement des pluies. Les petits pois sont également connus pour avoir une durée de conservation potentiellement longue lorsqu'ils sont séchés correctement.</VCE_Peas.description>
+  
+  <!-- EN: pepper plant -->
+  <VCE_Pepper.label>piment</VCE_Pepper.label>
+  <!-- EN: Tiny, spicy, crimson pods often used in sauces, relishes, or powders. While the flavor itself is mild the capsaicin contained inside means humans find them oddly addicting, if painful when consumed in mass. Animals are known to avoid eating them entirely.\n\n<color=#E5E54C>Gameplay effect:</color> Animals won't eat the pepper plant, having an effective nutrition of zero. Note however that they will eat the harvested produce normally. -->
+  <VCE_Pepper.description>De minuscules gousses cramoisies, épicées, souvent utilisées dans les sauces, les condiments ou les poudres. Bien que la saveur en elle-même soit douce, la capsaïcine qu'elles contiennent fait que les humains les trouvent étrangement addictives, voire douloureuses lorsqu'elles sont consommées en quantité. Les animaux sont connus pour ne pas en manger du tout.</VCE_Pepper.description>
+  
+  <!-- EN: mammoth gold pumpkin plant -->
+  <VCE_Pumpkin.label>citrouille</VCE_Pumpkin.label>
+  <!-- EN: One of the biggest varieties of pumpkin, the mammoth gold can grow to between 25 and 50 Kg of weight. Technically a giant berry, pumpkins are renowned for being trivial to both sow and harvest. However, their durability means added weight and mass - Too cumbersome for hydroponics basins. -->
+  <VCE_Pumpkin.description>Techniquement une baie géante, les citrouilles sont réputées pour être faciles à semer et à récolter. Cependant, leur résistance implique un poids et une masse supplémentaires - trop encombrants pour les bassins hydroponiques.</VCE_Pumpkin.description>
+  
+  <!-- EN: tall grass -->
+  <VCE_TallGrass.label>herbe haute</VCE_TallGrass.label>
+  <!-- EN: Cultivated tall grass. Grows anywhere there is a little light and minimally fertile ground. Slows down anyone moving over it.\n\n<color=#E5E54C>Gameplay effect:</color> Grass can be used to feed cattle, similar to haygrass. It isn't affected by blight, but can't be harvested and stored as hay can. -->
+  <VCE_TallGrass.description>Herbe haute cultivée. Pousse partout où il y a un peu de lumière et un sol peu fertile. Ralentit toute personne qui se déplace sur elle.</VCE_TallGrass.description>
+  
+  <!-- EN: red beefsteak tomato plant -->
+  <VCE_Tomato.label>tomate</VCE_Tomato.label>
+  <!-- EN: A variety of tomatoes with a firm, meaty, rich, vibrant red colour. Its flavour is mild, juicy and balanced compared to other varieties. Tomatoes are easily removed from the vine without having to uproot the plant. -->
+  <VCE_Tomato.description>Une série de fruits rouges juteux et brillants attachés par une vigne, utilisés couramment comme légumes. La cuisson à l'étouffée libère les sucres naturels et atténue les acides qu'ils contiennent. Les tomates se détachent facilement de la vigne sans avoir à la déraciner.</VCE_Tomato.description>
+  
+</LanguageData>

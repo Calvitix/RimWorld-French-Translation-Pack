@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<ThingDef ParentName="BuildingBase">
+		<defName>DA_ButcheringTools</defName>
+		<label>outils de boucherie</label>
+		<description>Une table pleine de lames tranchantes. Augmente la vitesse de travail lorsqu'il est placé près d'une table de boucherie..</description>
+		<graphicData>
+			<texPath>Things/Building/ButcheringTools/ButcheringTools</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(4,3)</drawSize>
+			<damageData>
+				<rect>(0,0.05,1,1.95)</rect>
+			</damageData>
+		</graphicData>
+
+		<size>(2,1)</size>
+		<minifiedDef>MinifiedThing</minifiedDef>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>PassThroughOnly</passability>
+		<castEdgeShadows>true</castEdgeShadows>
+		<fillPercent>0.5</fillPercent>
+		<canOverlapZones>false</canOverlapZones>
+		<pathCost>42</pathCost>
+		<thingCategories>
+			<li>BuildingsMisc</li>
+		</thingCategories>
+
+		<statBases>
+			<MaxHitPoints>100</MaxHitPoints>
+			<WorkToBuild>1800</WorkToBuild>
+			<Mass>15</Mass>
+			<Flammability>1.0</Flammability>
+		</statBases>
+
+		<stuffCategories>
+			<li>Woody</li>
+		</stuffCategories>
+		<costStuffCount>200</costStuffCount>
+	<costList>
+      <Steel>50</Steel>
+    </costList>
+
+			<comps>
+				<li Class="CompProperties_Facility">
+					<statOffsets>
+						<WorkTableWorkSpeedFactor>0.1</WorkTableWorkSpeedFactor>
+					</statOffsets>
+					<maxDistance>6</maxDistance>
+					<maxSimultaneous>2</maxSimultaneous>
+				</li>
+			</comps>
+
+		<placeWorkers>
+			<li>PlaceWorker_ShowFacilitiesConnections</li>
+		</placeWorkers>
+		<constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+		<designationCategory>Misc</designationCategory>
+	<researchPrerequisites>
+      <li>DankPyon_Lumber</li>
+    </researchPrerequisites>		
+	</ThingDef>
+	
+		<ThingDef ParentName="BuildingBase">
+		<defName>DA_StonecuttingTools</defName>
+		<label>outils de taille de pierre</label>
+		<description>Table équipée d'outils émoussés permettant de casser les pierres plus facilement. Augmente la vitesse de travail lorsqu'elle est placée près d'un banc de taille de pierre.</description>
+		<graphicData>
+			<texPath>Things/Building/StonecuttingTools/StonecutterTools</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(4,3)</drawSize>
+			<damageData>
+				<rect>(0,0.05,1,1.95)</rect>
+			</damageData>
+		</graphicData>
+
+		<size>(2,1)</size>
+		<minifiedDef>MinifiedThing</minifiedDef>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>PassThroughOnly</passability>
+		<castEdgeShadows>true</castEdgeShadows>
+		<fillPercent>0.5</fillPercent>
+		<canOverlapZones>false</canOverlapZones>
+		<pathCost>42</pathCost>
+		<thingCategories>
+			<li>BuildingsMisc</li>
+		</thingCategories>
+
+		<statBases>
+			<MaxHitPoints>100</MaxHitPoints>
+			<WorkToBuild>1800</WorkToBuild>
+			<Mass>15</Mass>
+			<Flammability>1.0</Flammability>
+		</statBases>
+
+		<stuffCategories>
+			<li>Woody</li>
+		</stuffCategories>
+		<costStuffCount>200</costStuffCount>
+	<costList>
+      <Steel>50</Steel>
+    </costList>
+
+			<comps>
+				<li Class="CompProperties_Facility">
+					<statOffsets>
+						<WorkTableWorkSpeedFactor>0.1</WorkTableWorkSpeedFactor>
+					</statOffsets>
+					<maxDistance>6</maxDistance>
+					<maxSimultaneous>2</maxSimultaneous>
+				</li>
+			</comps>
+
+		<placeWorkers>
+			<li>PlaceWorker_ShowFacilitiesConnections</li>
+		</placeWorkers>
+		<constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+		<designationCategory>Misc</designationCategory>
+		
+	<researchPrerequisites>
+      <li>Stonecutting</li>
+    </researchPrerequisites>
+	
+	</ThingDef>
+	
+			<ThingDef ParentName="BuildingBase">
+		<defName>DA_TailoringTools</defName>
+		<label>outils de couture</label>
+		<description>Une table fournissant tous les outils nécessaires pour faciliter le processus de couture. Augmente la vitesse de travail lorsqu'elle est placée à proximité d'une table de tailleur.</description>
+		<graphicData>
+			<texPath>Things/Building/TailoringTools/TailoringTools</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(4,3)</drawSize>
+			<damageData>
+				<rect>(0,0.05,1,1.95)</rect>
+			</damageData>
+		</graphicData>
+
+		<size>(2,1)</size>
+		<minifiedDef>MinifiedThing</minifiedDef>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>PassThroughOnly</passability>
+		<castEdgeShadows>true</castEdgeShadows>
+		<fillPercent>0.5</fillPercent>
+		<canOverlapZones>false</canOverlapZones>
+		<pathCost>42</pathCost>
+		<thingCategories>
+			<li>BuildingsMisc</li>
+		</thingCategories>
+
+		<statBases>
+			<MaxHitPoints>100</MaxHitPoints>
+			<WorkToBuild>1800</WorkToBuild>
+			<Mass>15</Mass>
+			<Flammability>1.0</Flammability>
+		</statBases>
+
+		<stuffCategories>
+			<li>Woody</li>
+		</stuffCategories>
+		<costStuffCount>200</costStuffCount>
+	<costList>
+      <Steel>50</Steel>
+    </costList>
+
+			<comps>
+				<li Class="CompProperties_Facility">
+					<statOffsets>
+						<WorkTableWorkSpeedFactor>0.1</WorkTableWorkSpeedFactor>
+					</statOffsets>
+					<maxDistance>6</maxDistance>
+					<maxSimultaneous>2</maxSimultaneous>
+				</li>
+			</comps>
+
+		<placeWorkers>
+			<li>PlaceWorker_ShowFacilitiesConnections</li>
+		</placeWorkers>
+		<constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+		<designationCategory>Misc</designationCategory>
+		
+	<researchPrerequisites>
+      <li>ComplexClothing</li>
+    </researchPrerequisites>
+	
+	</ThingDef>
+	
+			<ThingDef ParentName="BuildingBase">
+		<defName>DA_MixingBarrel</defName>
+		<label>baril de mélange</label>
+		<description>Tonneau en bois utilisé pour mélanger le houblon et créer le moût. Il augmente la vitesse de travail lorsqu'il est placé près d'une brasserie.</description>
+		<graphicData>
+			<texPath>Things/Building/MixingBarrel/MixingBarrel</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(3,3)</drawSize>
+		</graphicData>
+		
+		<uiIconScale>0.7</uiIconScale>
+
+		<size>(1,1)</size>
+		<minifiedDef>MinifiedThing</minifiedDef>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>PassThroughOnly</passability>
+		<castEdgeShadows>true</castEdgeShadows>
+		<fillPercent>0.5</fillPercent>
+		<canOverlapZones>false</canOverlapZones>
+		<pathCost>42</pathCost>
+		<thingCategories>
+			<li>BuildingsMisc</li>
+		</thingCategories>
+
+		<statBases>
+			<MaxHitPoints>100</MaxHitPoints>
+			<WorkToBuild>1800</WorkToBuild>
+			<Mass>15</Mass>
+			<Flammability>1.0</Flammability>
+		</statBases>
+
+		<stuffCategories>
+			<li>Woody</li>
+		</stuffCategories>
+		<costStuffCount>80</costStuffCount>
+	<costList>
+      <Steel>20</Steel>
+    </costList>
+
+			<comps>
+				<li Class="CompProperties_Facility">
+					<statOffsets>
+						<WorkTableWorkSpeedFactor>0.1</WorkTableWorkSpeedFactor>
+					</statOffsets>
+					<maxDistance>6</maxDistance>
+					<maxSimultaneous>2</maxSimultaneous>
+				</li>
+			</comps>
+
+		<placeWorkers>
+			<li>PlaceWorker_ShowFacilitiesConnections</li>
+		</placeWorkers>
+		<constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+		<designationCategory>Misc</designationCategory>
+		
+	<researchPrerequisites>
+      <li>Brewing</li>
+    </researchPrerequisites>
+	
+	</ThingDef>
+	
+</Defs>

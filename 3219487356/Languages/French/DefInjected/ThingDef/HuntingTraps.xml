@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+ <!-- EN: small hunting trap -->
+<HAZN_HuntingTrap.label>petit piège de chasse</HAZN_HuntingTrap.label>
+<!-- EN: Passively catch small animals, needs to be baited with kibble, pemmican or raw plants. -->
+<HAZN_HuntingTrap.description>Capture passivement de petits animaux, doit être appâté avec des croquettes, du pemmican ou des plantes crues.</HAZN_HuntingTrap.description>
+  
+</LanguageData>

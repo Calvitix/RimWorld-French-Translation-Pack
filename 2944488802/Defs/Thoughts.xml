@@ -1,0 +1,27 @@
+<Defs>
+
+  <ThoughtDef>
+    <defName>AM_FriendlyDuel_Win</defName>
+    <durationDays>1</durationDays>
+    <stages>
+      <li>
+        <label>a gagné un duel amical</label>
+        <description>J'ai gagné un duel amical contre {OTHERPAWN}!\nC'était un combat détendu, mais cela fait toujours du bien d'être victorieux.s.</description>
+        <baseMoodEffect>4</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>AM_FriendlyDuel_Lose</defName>
+    <durationDays>1</durationDays>
+    <stages>
+      <li>
+        <label>a perdu un duel amical</label>
+        <description>J'ai perdu en duel amical contre {OTHERPAWN}.\nPerdre est décevant, mais c'était un bon entraînement. Je l'aurai la prochaine fois !</description>
+        <baseMoodEffect>3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+</Defs>

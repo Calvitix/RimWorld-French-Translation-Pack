@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+  <!-- ==================== Dirt Storage Pit ==================== -->
+      
+	  
+  <ThingDef ParentName="VBY_UndergroundStorageBase">
+    <defName>VBY_StoragePit</defName>
+    <label>fosse de stockage souterrain</label>
+    <description>Cette fosse de stockage est un trou creusé dans le sol avec une échelle de fortune pour y entrer et en sortir. Les choses restent un peu plus fraîches sous terre.</description>
+    <graphicData>
+      <texPath>Things/HMC_StoragePit/HMC_StoragePit</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,3)</drawSize>
+      <drawRotated>false</drawRotated>
+    </graphicData>
+    <uiIconPath>Things/HMC_StoragePit/HMC_StoragePit</uiIconPath>
+    <statBases>
+      <Beauty>-6</Beauty>
+      <MaxHitPoints>1000</MaxHitPoints>
+      <WorkToBuild>15000</WorkToBuild>
+      <Flammability>0.0</Flammability>
+      <Mass>4000</Mass>
+    </statBases>
+    <stuffCategories>
+      <li>Woody</li>
+    </stuffCategories>
+    <costStuffCount>25</costStuffCount>  <!-- It's just a ladder and a hole  -->
+    <comps>
+      <li Class="LWM.DeepStorage.Properties" >
+        <minNumberStacks>1</minNumberStacks>
+        <maxNumberStacks>20</maxNumberStacks> <!-- 4cells x 5stacks -->
+        <minTimeStoringTakes>240</minTimeStoringTakes>
+        <additionalTimeEachStack>30</additionalTimeEachStack>
+        <additionalTimeStackSize>1</additionalTimeStackSize>
+        <showContents>false</showContents>
+		<overlayType>None</overlayType>
+		<!-- <maxTotalMass>80</maxTotalMass>   ??  -->
+      </li>
+    </comps>
+		<researchPrerequisites Inherit="false">
+			<li>VFET_Mining</li>
+		</researchPrerequisites>
+	<modExtensions Inherit="false">
+	   <li Class="PrimitiveCooling.UnderGroundExtension">
+		  <isUnderground Inherit="false">true</isUnderground>
+		  <range>1</range>
+	   </li>
+	</modExtensions>
+  </ThingDef>
+
+<!-- =============================  Wood Storage Pit =============================== -->
+
+  <ThingDef ParentName="VBY_UndergroundStorageBase">
+    <defName>VBY_StoragePitWood</defName>
+    <label>fosse de stockage en bois</label>
+    <description>Cette fosse de stockage est plus grande que la fosse de base et utilise un cadre en bois pour éviter qu'elle ne s'effondre. Il garde les choses un peu plus fraîches sous terre.</description>
+    <graphicData>
+      <texPath>Things/HDM_cellardoorWood/HDM_cellardoorWood</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <drawRotated>false</drawRotated>
+    </graphicData>
+    <uiIconPath>Things/HDM_cellardoorWood/HDM_cellardoorWood_south</uiIconPath>
+    <statBases>
+      <Beauty>0</Beauty>
+      <MaxHitPoints>1500</MaxHitPoints>
+      <WorkToBuild>17500</WorkToBuild>
+      <Flammability>0.0</Flammability>
+      <Mass>6000</Mass>
+    </statBases>
+    <stuffCategories>
+      <li>Woody</li>
+    </stuffCategories>
+    <costStuffCount>125</costStuffCount>  <!-- It's just a ladder and a hole w/ some wooden reinforcements inside -->
+    <building>
+      <paintable>true</paintable>
+    </building>
+    <comps>
+      <li Class="LWM.DeepStorage.Properties" >
+        <minNumberStacks>1</minNumberStacks>
+        <maxNumberStacks>55</maxNumberStacks>   <!-- 9cells x 6stacks(ish) -->
+        <minTimeStoringTakes>180</minTimeStoringTakes>
+        <additionalTimeEachStack>20</additionalTimeEachStack>
+        <additionalTimeStackSize>1</additionalTimeStackSize>
+        <showContents>false</showContents>
+		<overlayType>None</overlayType>
+      </li>
+    </comps>
+	<modExtensions Inherit="false">
+	   <li Class="PrimitiveCooling.UnderGroundExtension">
+		  <isUnderground Inherit="false">true</isUnderground>
+		  <range>2</range>
+	   </li>
+	</modExtensions>
+  </ThingDef>
+
+<!-- ==========================  Stone Storage Pit =============================  -->
+
+  <ThingDef ParentName="VBY_UndergroundStorageBase">
+    <defName>VBY_StoragePitStone</defName>
+    <label>fosse de stockage en pierre</label>
+    <description>Cette fosse de stockage est beaucoup plus grande que la fosse et est soutenue par de la maçonnerie. Elle permet de garder les choses un peu plus fraîches sous terre.</description>
+    <graphicData>
+      <texPath>Things/HDM_cellardoor/HDM_cellardoor</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <drawRotated>false</drawRotated>
+    </graphicData>
+    <uiIconPath>Things/HDM_cellardoor/HDM_cellardoor_south</uiIconPath>
+    <statBases>
+      <Beauty>0</Beauty>
+      <MaxHitPoints>3000</MaxHitPoints>
+      <WorkToBuild>20000</WorkToBuild>
+      <Flammability>0.0</Flammability>
+      <Mass>8000</Mass>
+    </statBases>
+    <stuffCategories>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>150</costStuffCount>  <!-- It's just a ladder and a hole w/ stone walls/floors inside -->
+    <costList>
+      <WoodLog>25</WoodLog>
+    </costList>
+    <building>
+      <paintable>true</paintable>
+    </building>
+    <comps>
+      <li Class="LWM.DeepStorage.Properties" >
+        <minNumberStacks>1</minNumberStacks>
+        <maxNumberStacks>175</maxNumberStacks> <!-- 25cells x 7stacks -->
+        <minTimeStoringTakes>180</minTimeStoringTakes>
+        <additionalTimeEachStack>15</additionalTimeEachStack>
+        <additionalTimeStackSize>1</additionalTimeStackSize>
+        <showContents>false</showContents>
+		<overlayType>None</overlayType>
+      </li>
+    </comps>	
+	<researchPrerequisites>
+		<li>ComplexFurniture</li>
+	</researchPrerequisites>
+	<modExtensions Inherit="false">
+	   <li Class="PrimitiveCooling.UnderGroundExtension">
+		  <isUnderground Inherit="false">true</isUnderground>
+		  <range>4</range>
+	   </li>
+	</modExtensions>
+  </ThingDef>
+
+</Defs>

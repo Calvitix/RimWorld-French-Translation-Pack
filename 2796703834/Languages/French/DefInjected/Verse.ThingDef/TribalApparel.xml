@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Tribal Cape -->
+  <Apparel_TribalCape.label>Cape tribale</Apparel_TribalCape.label>
+  <!-- EN: A simple cape of pelts for blocking the sun and grit of the outdoors. -->
+  <Apparel_TribalCape.description>Une simple cape de peaux pour bloquer le soleil et la poussière de l'extérieur.</Apparel_TribalCape.description>
+  
+  <!-- EN: Tribal Cloak -->
+  <Apparel_TribalCloak.label>Manteau tribal</Apparel_TribalCloak.label>
+  <!-- EN: A simple garmet of layered pelts to stop scrapes and bruises, and to keep one warm in chilly weather. -->
+  <Apparel_TribalCloak.description>Un simple vêtement de peaux superposées pour éviter les égratignures et les contusions, et pour se tenir au chaud par temps froid.</Apparel_TribalCloak.description>
+  
+  <!-- EN: Tribal Fur Cloak -->
+  <Apparel_TribalFurCloak.label>Manteau de fourrure tribal</Apparel_TribalFurCloak.label>
+  <!-- EN: A thick garment made of layered pelts and furs for staying warm in all but the coldest of temperatures. -->
+  <Apparel_TribalFurCloak.description>Un vêtement épais fait de peaux et de fourrures superposées pour rester au chaud dans toutes les températures sauf les plus froides.</Apparel_TribalFurCloak.description>
+
+  
+</LanguageData>

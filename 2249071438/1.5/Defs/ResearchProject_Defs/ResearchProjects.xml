@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+    <ResearchProjectDef>
+        <defName>VBY_NeoStorage</defName>
+        <label>stockage primitif</label>
+        <description>Construire des rangements simples tels que des paniers tressés et des tentes de rangement dédiées..</description>
+        <baseCost>225</baseCost>
+        <techLevel>Neolithic</techLevel>
+        <researchViewX>1.00</researchViewX>
+        <researchViewY>5.70</researchViewY>
+    </ResearchProjectDef>
+
+</Defs>

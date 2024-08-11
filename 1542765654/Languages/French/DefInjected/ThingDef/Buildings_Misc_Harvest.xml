@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+
+  <!-- EN: animal harvesting spot -->
+  <AnimalHarvestingSpot.label>Lieu de récolte des animaux</AnimalHarvestingSpot.label>
+  <!-- EN: Designates a spot where animals can be milked, sheared or slaughtered. -->
+  <AnimalHarvestingSpot.description>Désigne un endroit où les animaux peuvent être traits, tondus ou abattus.</AnimalHarvestingSpot.description>
+  
+  <!-- EN: milking spot -->
+  <AnimalMilkingSpot.label>Lieu de traite</AnimalMilkingSpot.label>
+  <!-- EN: Designates a spot where animals can be milked. -->
+  <AnimalMilkingSpot.description>Désigne un endroit où les animaux peuvent être traites.</AnimalMilkingSpot.description>
+  
+  <!-- EN: shearing spot -->
+  <AnimalShearingSpot.label>Lieu de tonte</AnimalShearingSpot.label>
+  <!-- EN: Designates a spot where animals can be sheared. -->
+  <AnimalShearingSpot.description>Désigne un endroit où les animaux peuvent être tondus.</AnimalShearingSpot.description>
+  
+  <!-- EN: slaughtering spot -->
+  <AnimalSlaughteringSpot.label>Lieu d'abattage</AnimalSlaughteringSpot.label>
+  <!-- EN: Designates a spot where animals can be slaughtered. -->
+  <AnimalSlaughteringSpot.description>Désigne un endroit où les animaux peuvent être abattus.</AnimalSlaughteringSpot.description>
+  
+  <!-- EN: training spot -->
+  <AnimalTrainingSpot.label>Lieu de dressage</AnimalTrainingSpot.label>
+  <!-- EN: Designates a spot where animals can start their training. -->
+  <AnimalTrainingSpot.description>Désigne un endroit où les animaux peuvent commencer leur entraînement.</AnimalTrainingSpot.description>
+
+</LanguageData>

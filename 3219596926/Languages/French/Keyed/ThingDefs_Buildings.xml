@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+<!-- EN: burn pit --> 
+<DankPyon_BurnPit.label>fosse de brûlage</DankPyon_BurnPit.label> 
+<!-- EN: Eliminates fecal sludge by burning it as fuel. Can also be used for disposing of corpses or other detritus. Colonists may become sick if they spend too long near burning waste.\n\n<i><color=#66E0E4FF>Medieval Overhaul</color></i> --> 
+<DankPyon_BurnPit.description>Élimine les boues fécales en les brûlant comme combustible. Peut également être utilisé pour se débarrasser des cadavres ou d’autres détritus. Les colons peuvent tomber malades s’ils restent trop longtemps près des déchets brûlants.</DankPyon_BurnPit.description>
+
+<!-- EN: hot water tank --> 
+<DankPyon_HotWaterTank.label>réservoir d’eau chaude</DankPyon_HotWaterTank.label> 
+<!-- EN: Stores hot running water for showers and baths. Connect to any boiler to heat.\n\n<i><color=#66E0E4FF>Medieval Overhaul</color></i> --> 
+<DankPyon_HotWaterTank.description>Stocke de l’eau chaude pour les douches et les bains. Se connecte à n’importe quelle chaudière pour chauffer.</DankPyon_HotWaterTank.description>
+
+<!-- EN: log boiler --> 
+<DankPyon_LogBoiler.label>chaudière à bûches</DankPyon_LogBoiler.label> 
+<!-- EN: Produces 2000 heating units for piped radiators and hot water tanks. Heats the room and adjacent baths. Requires wood logs for fuel.\n\n<i><color=#66E0E4FF>Medieval Overhaul</color></i> --> 
+<DankPyon_LogBoiler.description>Produit 2000 unités de chauffage pour les radiateurs et les réservoirs d’eau chaude. Chauffe la pièce et les salles de bains adjacentes. Nécessite des bûches de bois comme combustible.</DankPyon_LogBoiler.description> 
+<!-- EN: Power Mode --> 
+<DankPyon_LogBoiler.comps.CompBoiler.GizmoLabel>Mode de puissance</DankPyon_LogBoiler.comps.CompBoiler.GizmoLabel>
+
+<!-- EN: septic tank --> 
+<DankPyon_SewageSepticTank.label>fosse septique</DankPyon_SewageSepticTank.label> 
+<!-- EN: Slowly cleans sewage over time. Sewage is directed to septic tanks first. If it reaches full capacity, excess sewage is sent to sewage outlets.\n\n<i><color=#66E0E4FF>Medieval Overhaul</color></i> --> 
+<DankPyon_SewageSepticTank.description>Nettoie lentement les eaux usées au fil du temps. Les eaux usées sont dirigées vers les fosses septiques en premier. Si elles atteignent leur capacité maximale, les eaux usées excédentaires sont envoyées vers les égouts.</DankPyon_SewageSepticTank.description>
+
+<!-- EN: water barrel --> 
+<EEG_WaterTowerS.label>baril d’eau</EEG_WaterTowerS.label> 
+<!-- EN: Stores water for use by plumbed fixtures. If the contained water becomes contaminated, the tank must be drained.\n\n<i><color=#66E0E4FF>Medieval Overhaul</color></i> --> 
+<EEG_WaterTowerS.description>Stocke de l’eau pour les installations sanitaires. Si l’eau contenue est contaminée, le réservoir doit être vidé.</EEG_WaterTowerS.description>
+
+<!-- EN: water well --> 
+<EGG_AdvancedWell.label>puits d’eau</EGG_AdvancedWell.label> 
+<!-- EN: Accesses ground water which can be pumped by water pumps. The presence of sewage or other pollution will reduce water quality and can cause contamination.\n\n<i><color=#66E0E4FF>Medieval Overhaul</color></i> --> 
+<EGG_AdvancedWell.description>Accède à l’eau souterraine qui peut être pompée par des pompes à eau. La présence d’eaux usées ou d’autres pollutions réduira la qualité de l’eau et peut entraîner une contamination.</EGG_AdvancedWell.description>  
+</LanguageData>

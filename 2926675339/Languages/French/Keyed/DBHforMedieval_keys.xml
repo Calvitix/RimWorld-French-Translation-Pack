@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: The manual pump has suspended because the well or water storage tank is not connected. -->
+  <ES_ManualPump_Warning>La pompe manuelle est suspendue car le puits ou le réservoir d’eau n’est pas connecté</ES_ManualPump_Warning>
+<!-- EN: The manual pump has suspended there is not enough capacity in the well. -->
+  <ES_ManualPump_Capacity>La pompe manuelle est suspendue car il n’y a pas assez de capacité dans le puits.</ES_ManualPump_Capacity>
+<!-- EN: The target value was too large, so the value was changed to total water storage. -->
+  <ES_BillPumpWater_Warning>La valeur cible était trop élevée, donc la valeur a été modifiée pour correspondre au stockage total d’eau.</ES_BillPumpWater_Warning>
+
+<!-- EN: Irrigation area -->
+  <ES_AreaPlaceIrrigationLabel>Zone d’irrigation</ES_AreaPlaceIrrigationLabel>
+<!-- EN: Designate areas to be watered by human power. -->
+  <ES_AreaPlaceIrrigationDesc>Désigner les zones à arroser manuellement.</ES_AreaPlaceIrrigationDesc>
+<!-- EN: Add area -->
+  <ES_AddIrrigationArea>Ajouter une zone</ES_AddIrrigationArea>
+<!-- EN: Remove area -->
+  <ES_RemoveIrrigationArea>Supprimer une zone</ES_RemoveIrrigationArea>
+
+<!-- EN: Can only be placed on furniture. -->
+  <ES_MustPlaceOnFurniture>Peut uniquement être placé sur un meuble.</ES_MustPlaceOnFurniture>
+<!-- EN: It must be placed on a cooker that can be used as a heat source, such as a campfire. -->
+  <ES_MustPlaceOnHeatCookers>Il doit être placé sur un réchaud pouvant servir de source de chaleur, comme un feu de camp.</ES_MustPlaceOnHeatCookers>
+<!-- EN: Due to the loss of the heat source, the water can no longer be boiled. -->
+  <ES_HeatSource_Missing>En raison de la perte de la source de chaleur, l’eau ne peut plus être bouillie.</ES_HeatSource_Missing>
+
+<!-- EN: Storage / Capacity : {0} / {1} ({2}%) -->
+  <ES_HotWaterStorage>Stockage / Capacité : {0} / {1} ({2}%)</ES_HotWaterStorage>
+<!-- EN: Water temperature :  -->
+  <ES_HotWatertemperature>Température de l’eau :</ES_HotWatertemperature>
+<!-- EN: cold -->
+  <ES_Cold>froide</ES_Cold>
+<!-- EN: warm -->
+  <ES_Warm>chaude</ES_Warm>
+<!-- EN: no cloth -->
+  <ES_NoCloth>sans tissu</ES_NoCloth>
+
+<!-- EN: Controls the action of filling this item with water. -->
+  <ES_RefillModeTimes_Desc>Contrôle l’action de remplissage de cet objet avec de l’eau.</ES_RefillModeTimes_Desc>
+<!-- EN: Refill : Never -->
+  <ES_RefillMode_Never>Remplissage : Jamais</ES_RefillMode_Never>
+<!-- EN: Refill : Once -->
+  <ES_RefillMode_Once>Remplissage : Une fois</ES_RefillMode_Once>
+<!-- EN: Refill : Always -->
+  <ES_RefillMode_Always>Remplissage : Toujours</ES_RefillMode_Always>
+
+<!-- EN: Limit the water temperature you can put in this item. -->
+  <ES_RefillModeTemp_Desc>Limiter la température de l'eau que vous pouvez mettre dans cet article.</ES_RefillModeTemp_Desc>
+<!-- EN: Cold only -->
+  <ES_RefillMode_Cold>Froid uniquement</ES_RefillMode_Cold>
+<!-- EN: Both -->
+  <ES_RefillMode_Both>Les deux</ES_RefillMode_Both>
+<!-- EN: Warm only -->
+  <ES_RefillMode_Warm>Chaud uniquement</ES_RefillMode_Warm>
+
+<!-- EN: You can hide the display, for example, if it does not look good with the object under. -->
+  <ES_Visible_Desc>Vous pouvez masquer l'affichage, par exemple, s'il ne s'accorde pas bien avec l'objet en dessous.</ES_Visible_Desc>
+<!-- EN: Displaying -->
+  <ES_Visible>Affichage</ES_Visible>
+<!-- EN: Hiding -->
+  <ES_Invisible>Masquage</ES_Invisible>
+
+<!-- EN: Widen irrigation area -->
+  <ES_CommandSluiceWide>Élargir la zone d'irrigation</ES_CommandSluiceWide>
+<!-- EN: Narrowed irrigation area -->
+  <ES_CommandSluiceNarrow>Réduire la zone d'irrigation</ES_CommandSluiceNarrow>
+<!-- EN: Lengthen irrigation area -->
+  <ES_CommandSluiceLong>Allonger la zone d'irrigation</ES_CommandSluiceLong>
+<!-- EN: Shorten irrigation area -->
+  <ES_CommandSluiceShort>Raccourcir la zone d'irrigation</ES_CommandSluiceShort>
+
+<!-- EN: Can only be placed on irrigation canals. -->
+  <ES_MustPlaceOnCanal>Ne peut être placé que sur des canaux d'irrigation.</ES_MustPlaceOnCanal>
+<!-- EN: The direction of water discharge is blocked. -->
+  <ES_MustOpenedInFront>La direction de l'écoulement de l'eau est bloquée.</ES_MustOpenedInFront>
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mining bird post -->
+  <DeepVein_MiningBirdPost.label>poste d'oiseau minier</DeepVein_MiningBirdPost.label>
+  <!-- EN: Mining is dangerous business, toxic gasses can pool in chambers and quickly kill anyone who steps inside. A tamed bird passing out can be an early warning that the miners are soon to follow if they don't leave quickly. Helping the bird recover afterwards keeps miner morale high, but does require similar care research as the more carefully trained messenger birds.\n	\n	These are untrained mining birds, do not mistake them for messenger birds. -->
+  <DeepVein_MiningBirdPost.description>L'exploitation minière est une activité dangereuse, des gaz toxiques peuvent s'accumuler dans les chambres et tuer rapidement toute personne qui y pénètre. Un oiseau apprivoisé qui s'évanouit peut être un avertissement précoce que les mineurs vont bientôt suivre s'ils ne partent pas rapidement. Aider l'oiseau à se rétablir par la suite maintient le moral des mineurs, mais nécessite une recherche de soins similaire à celle des oiseaux messagers plus soigneusement formés.\n\nCe sont des oiseaux miniers non formés, ne les confondez pas avec des oiseaux messagers.</DeepVein_MiningBirdPost.description>
+  
+</LanguageData>

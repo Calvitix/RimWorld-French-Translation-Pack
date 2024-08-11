@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+      
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Fantasy Goblins Updated</li>  
+      <li>Materials+</li>  
+      <li>Ceramics Crafting</li>  
+      <li>Ceramics VEF</li>
+      <li>Expanded Materials - Stones and Mortars</li>
+      <li>Fertile Fields [1.1]</li>
+      <li>Outland - Core</li>
+    </mods>  
+      <nomatch Class="PatchOperationRemove"> 				
+		 <xpath>Defs/RecipeDef[defName="VBY_MakeClumpsFromClay_Base"]/ingredients/li[2]</xpath>
+      </nomatch>
+  </Operation>          
+
+<!-- Fantasy Goblins -->
+
+<!-- Add clay/sand/etc from other mods to Raw Clay Recipe -->
+
+<!-- Materials+ -->
+<!-- Add clay/sand/etc from other mods to Raw Clay Recipe -->
+
+	<Operation Class="PatchOperationFindMod">
+        <mods>
+          <li>Materials+</li>
+        </mods>
+        <match Class="PatchOperationSequence">			
+            <operations>
+                <li Class="PatchOperationReplace">					
+		          <xpath>Defs/RecipeDef[defName="AM_BakeClayBrick"]/ingredients</xpath>
+		            <value>
+					  <ingredients>
+						<li>
+							<filter>
+								<thingDefs>
+									<li>VBY_ClayPaste</li>
+								</thingDefs>
+							</filter>
+							<count>10</count>
+						</li>
+					  </ingredients>	
+		            </value>
+				</li>
+                <li Class="PatchOperationReplace">					
+		          <xpath>Defs/RecipeDef[defName="AM_BakeClayBrickBulk"]/ingredients</xpath>
+		            <value>
+					  <ingredients>
+						<li>
+							<filter>
+								<thingDefs>
+									<li>VBY_ClayPaste</li>
+								</thingDefs>
+							</filter>
+							<count>100</count>
+						</li>
+					  </ingredients>	
+		            </value>
+				</li>
+			</operations>
+        </match>
+	</Operation>
+
+<!-- Ceramics -->
+<!-- Add clay/sand/etc from other mods to Raw Clay Recipe -->
+<!-- Add wet/raw bricks/clay from other mods to Adobe Brick Recipe -->
+
+  <Operation Class="PatchOperationConditional">					
+    <xpath>Defs/RecipeDef[defName="N7_Make_RawBricks"]</xpath>
+		<match Class="PatchOperationAdd">					
+		  <xpath>Defs/RecipeDef[defName="N7_Make_RawBricks"]/recipeUsers</xpath>
+			<value>
+			 <li>VBY_PrimitiveKiln</li>
+			 <li>VBY_PrimitiveCraftingTable</li>
+			</value>
+		</match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">					
+    <xpath>Defs/ThingDef[defName="N7_UnfiredBrick"]</xpath>
+	  <match Class="PatchOperationSequence">
+		<operations>
+			<li Class="PatchOperationAdd">					
+			  <xpath>Defs/RecipeDef[defName="VBYMake_FiredAdobe"]/ingredients/li/filter/thingDefs</xpath>
+				<value>
+				  <li>N7_UnfiredBrick</li>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">					
+			  <xpath>Defs/RecipeDef[defName="VBYMake_FiredAdobe"]/fixedIngredientFilter/thingDefs</xpath>
+				<value>
+				  <li>N7_UnfiredBrick</li>
+				</value>
+			</li>
+		</operations>
+	  </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">					
+    <xpath>Defs/RecipeDef[defName="MakeBricks"]</xpath>
+	  <match Class="PatchOperationSequence">
+		<operations>
+			<li Class="PatchOperationReplace">					
+			  <xpath>Defs/RecipeDef[defName="MakeBricks"]/label</xpath>
+				<value>
+				  <label>faire 20 briques</label>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">					
+			  <xpath>Defs/RecipeDef[defName="MakeBricks"]/recipeUsers</xpath>
+				<value>
+				  <li>VBY_PrimitiveKiln</li>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">					
+			  <xpath>Defs/RecipeDef[defName="MakeBricks"]/ingredients</xpath>
+				<value>
+				  <ingredients>
+					  <li>
+						<filter>
+						  <thingDefs>
+							 <li>VBY_ClayPaste</li>
+						  </thingDefs>
+						</filter>
+						<count>20</count>
+					  </li>
+					</ingredients>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">					
+			  <xpath>Defs/RecipeDef[defName="MakeBricks"]/products/RFFBricks</xpath>
+				<value>
+				  <RFFBricks>20</RFFBricks>
+				</value>
+			</li>		
+			<li Class="PatchOperationReplace">					
+			  <xpath>Defs/RecipeDef[defName="MakeBricks"]/fixedIngredientFilter</xpath>
+				<value>
+				  <fixedIngredientFilter>
+					  <thingDefs>
+						<li>VBY_ClayPaste</li>
+					  </thingDefs>
+					</fixedIngredientFilter>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">					
+			  <xpath>Defs/RecipeDef[defName="MakeFastBricks"]/label</xpath>
+				<value>
+				  <label>faire 40 briques</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">					
+			  <xpath>Defs/RecipeDef[defName="MakeFastBricks"]/ingredients</xpath>
+				<value>
+				  <ingredients>
+					  <li>
+					  <filter>
+						  <thingDefs>
+							 <li>VBY_ClayPaste</li>
+						  </thingDefs>
+					  </filter>
+						<count>40</count>
+					  </li>
+					</ingredients>
+				</value>
+			</li>				
+			<li Class="PatchOperationReplace">					
+			  <xpath>Defs/RecipeDef[defName="MakeFastBricks"]/fixedIngredientFilter</xpath>
+				<value>
+				  <fixedIngredientFilter>
+					  <thingDefs>
+						<li>VBY_ClayPaste</li>
+					  </thingDefs>
+					</fixedIngredientFilter>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">					
+			  <xpath>Defs/RecipeDef[defName="MakeFastBricks"]/products/RFFBricks</xpath>
+				<value>
+				  <RFFBricks>40</RFFBricks>
+				</value>
+			</li>
+		</operations>
+	  </match>
+  </Operation>
+
+	<Operation Class="PatchOperationFindMod">
+        <mods>
+          <li>Ceramics VEF</li>
+        </mods>
+			<match Class="PatchOperationSequence">
+				<operations>
+				  <li Class="PatchOperationAdd">
+					  <xpath>Defs/ItemProcessor.CombinationDef[defName="N7_UnfiredBrickToFiredBrick"]/items</xpath>
+						<value>
+							<li>VBY_ClayPaste</li>  <!-- here  -->
+						</value>
+				  </li>
+				  <li Class="PatchOperationAdd">
+					  <xpath>Defs/ItemProcessor.CombinationDef[defName="N7_UnfiredBrickToFiredBrickElectric"]/items</xpath>
+						<value>
+							<li>VBY_ClayPaste</li>  <!-- here  -->
+						</value>
+				  </li>
+				  <li Class="PatchOperationAdd">
+					  <xpath>Defs/ItemProcessor.ItemAcceptedDef[defName="IP_BasicBrickKilnFirstItem"]/items</xpath>
+						<value>
+							<li>VBY_ClayPaste</li>  <!-- here  -->
+						</value>
+				  </li>
+				  <li Class="PatchOperationAdd">
+					  <xpath>Defs/ItemProcessor.ItemAcceptedDef[defName="IP_ElectricBrickKilnFirstItem"]/items</xpath>
+						<value>
+							<li>VBY_ClayPaste</li>  <!-- here  -->
+						</value>
+				  </li>
+				  <li Class="PatchOperationConditional">					
+					  <xpath>Defs/ProcessorFramework.ProcessDef[defName="N7_UnfiredBrickToFiredBrick_PF" or defName="N7_UnfiredBrickToFiredBrickElectric_PF"]</xpath>
+						<match Class="PatchOperationAdd">					
+						  <xpath>Defs/ProcessorFramework.ProcessDef[defName="N7_UnfiredBrickToFiredBrick_PF" or defName="N7_UnfiredBrickToFiredBrickElectric_PF"]/ingredientFilter/thingDefs</xpath>
+							<value>
+							  <li>VBY_ClayPaste</li>  <!-- here  -->
+							</value>
+						</match>
+					</li>
+				</operations>
+			</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+        <mods>
+          <li>Fertile Fields [1.1]</li>
+        </mods>
+			<match Class="PatchOperationSequence">
+				<operations>
+				  <li Class="PatchOperationRemove">
+					  <xpath>Defs/RecipeDef[defName="VBY_MakeClumpsFromClay_Base"]/ingredients/li/filter/thingDefs/li[text()="N7_RawClay"]</xpath>
+				  </li>
+				  <li Class="PatchOperationRemove">
+					  <xpath>Defs/RecipeDef[defName="VBY_MakeClumpsFromClay_Base"]/fixedIngredientFilter/thingDefs/li[text()="N7_RawClay"]</xpath>
+				  </li>
+				</operations>
+			</match>
+	</Operation>
+
+<!-- Fertile Fields [1.1] -->
+<!-- Add clay/sand/etc from other mods to Raw Clay Recipe -->
+
+<!--  =========================  Med Times  ========================  -->
+	
+	<Operation Class="PatchOperationFindMod">
+        <mods>
+          <li>Medieval Times Unofficial Update</li>
+		  <li>Medieval Times Unofficial Update No Nan and legendary</li>
+        </mods>
+        <match Class="PatchOperationSequence">			
+            <operations>
+                <li Class="PatchOperationReplace">					
+		          <xpath>Defs/RecipeDef[defName="MedTimes_MakeAdobeBricks"]/ingredients</xpath>
+		            <value>
+					  <ingredients>
+						  <li>
+						  <filter>
+							  <thingDefs>
+							     <li>VBY_ClayPaste</li>
+							  </thingDefs>
+						  </filter>
+							<count>20</count>
+						  </li>
+						</ingredients>
+		            </value>
+				</li>
+				<li Class="PatchOperationReplace">					
+		          <xpath>Defs/RecipeDef[defName="MedTimes_MakeAdobeBricks"]/fixedIngredientFilter</xpath>
+		            <value>
+					  <fixedIngredientFilter>
+						  <thingDefs>
+							<li>VBY_ClayPaste</li>
+						  </thingDefs>
+						</fixedIngredientFilter>
+		            </value>
+				</li>
+				<li Class="PatchOperationReplace">					
+		          <xpath>Defs/RecipeDef[defName="MedTimes_MakeAdobeBricks"]/recipeUsers</xpath>
+		            <value>
+					  <recipeUsers>
+						<li>VBY_PrimitiveKiln</li>
+					  </recipeUsers>
+		            </value>
+				</li>
+			</operations>
+        </match>
+	</Operation>
+	
+
+<!--  =========================  Expanded Materials - Stones and Mortars  ========================  -->
+	
+	<Operation Class="PatchOperationFindMod">
+        <mods>
+          <li>Expanded Materials - Stones and Mortars</li>
+        </mods>
+        <match Class="PatchOperationSequence">			
+            <operations>
+				<li Class="PatchOperationAdd">
+				  <xpath>Defs/ItemProcessor.CombinationDef[defName="EM_ClaysIntoBricks"]/items</xpath>
+					<value>
+						<li>VBY_ClayPaste</li>  <!-- here  -->
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+				  <xpath>Defs/ItemProcessor.ItemAcceptedDef[defName="EM_BrickOvenFirstItem"]/items</xpath>
+					<value>
+						<li>VBY_ClayPaste</li>  <!-- here  -->
+					</value>
+				</li>
+			</operations>
+        </match>
+	</Operation>
+
+<!--  =========================  Outland - Core  ========================  -->
+	
+	<Operation Class="PatchOperationFindMod">
+        <mods>
+          <li>Outland - Core</li>
+        </mods>
+        <match Class="PatchOperationSequence">			
+            <operations>
+			  <li Class="PatchOperationReplace">
+				<xpath>Defs/RecipeDef[defName="Outland_MakeAdobeBricks"]/products/Outland_AdobeBrick</xpath>
+				  <value>
+					<VBY_ClayPaste>20</VBY_ClayPaste>
+				  </value>
+			  </li>
+			  <li Class="PatchOperationReplace">
+				<xpath>Defs/RecipeDef[defName="Outland_MakeAdobeBricks"]/ingredients/li/count</xpath>
+				  <value>
+					<count>20</count>
+				  </value>
+			  </li>
+			  <li Class="PatchOperationReplace">
+				<xpath>Defs/RecipeDef[defName="Outland_MakeAdobeBricks"]/workAmount</xpath>
+				  <value>
+					<workAmount>1700</workAmount>
+				  </value>
+			  </li>
+			</operations>
+        </match>
+	</Operation>
+
+</Patch>

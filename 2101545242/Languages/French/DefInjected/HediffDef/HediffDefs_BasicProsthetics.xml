@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ear patch -->
+  <EarPatch.label>cache-oreille</EarPatch.label>
+  <!-- EN: An installed ear patch. -->
+  <EarPatch.description>Un cache-oreille installé.</EarPatch.description>
+  <!-- EN: an ear patch -->
+  <EarPatch.labelNoun>un cache-oreille</EarPatch.labelNoun>
+  
+  <!-- EN: eye patch -->
+  <EyePatch.label>cache-œil</EyePatch.label>
+  <!-- EN: An installed eye patch. -->
+  <EyePatch.description>Un cache-œil installé.</EyePatch.description>
+  <!-- EN: an eye patch -->
+  <EyePatch.labelNoun>un cache-œil</EyePatch.labelNoun>
+  
+  <!-- EN: wooden arm -->
+  <WoodenArm.label>bras en bois</WoodenArm.label>
+  <!-- EN: An installed wooden arm. -->
+  <WoodenArm.description>Un bras en bois installé.</WoodenArm.description>
+  <!-- EN: iron fist -->
+  <WoodenArm.comps.HediffComp_VerbGiver.tools.iron_fist.label>poing en fer</WoodenArm.comps.HediffComp_VerbGiver.tools.iron_fist.label>
+  <!-- EN: a wooden arm -->
+  <WoodenArm.labelNoun>un bras en bois</WoodenArm.labelNoun>
+  
+  <!-- EN: wooden finger -->
+  <WoodenFinger.label>doigt en bois</WoodenFinger.label>
+  <!-- EN: An installed wooden finger. -->
+  <WoodenFinger.description>Un doigt en bois installé.</WoodenFinger.description>
+  <!-- EN: a wooden finger -->
+  <WoodenFinger.labelNoun>un doigt en bois</WoodenFinger.labelNoun>
+  
+  <!-- EN: wooden nose -->
+  <WoodenNose.label>nez en bois</WoodenNose.label>
+  <!-- EN: An installed wooden nose. -->
+  <WoodenNose.description>Un nez en bois installé.</WoodenNose.description>
+  <!-- EN: a wooden nose -->
+  <WoodenNose.labelNoun>un nez en bois</WoodenNose.labelNoun>
+  
+  <!-- EN: wooden toe -->
+  <WoodenToe.label>orteil en bois</WoodenToe.label>
+  <!-- EN: An installed wooden toe. -->
+  <WoodenToe.description>Un orteil en bois installé.</WoodenToe.description>
+  <!-- EN: a wooden toe -->
+  <WoodenToe.labelNoun>un orteil en bois</WoodenToe.labelNoun>
+  
+</LanguageData>

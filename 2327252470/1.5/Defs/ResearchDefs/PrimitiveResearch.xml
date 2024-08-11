@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+  <ResearchProjectDef>
+    <defName>VBY_PrimitiveStonecutting</defName>
+    <label>taille de pierre primitive</label>
+    <description>Apprendre les techniques de base pour sculpter et façonner la pierre en blocs.</description>
+    <baseCost>300</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <researchViewX>0.00</researchViewX>
+    <researchViewY>4.70</researchViewY>
+  </ResearchProjectDef>
+
+  <ResearchProjectDef>
+    <defName>VBY_PrimitiveSmithing</defName>
+    <label>travail primitif des métaux</label>
+    <description>Apprendre les techniques de base pour manipuler les métaux à l'aide de la chaleur et de la force contondante.</description>
+    <baseCost>700</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <researchViewX>0.00</researchViewX>
+    <researchViewY>5.20</researchViewY>
+	<prerequisites>
+      <li>VBY_PrimitiveProductionAdvanced</li>
+    </prerequisites>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>VBY_PrimitiveProductionAdvanced</defName>
+    <label>intelligence primitive avancée</label>
+    <description>Faire un pas de plus vers la compréhension de la technologie médiévale.</description>
+    <baseCost>600</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <researchViewX>0.00</researchViewX>
+    <researchViewY>5.70</researchViewY>
+	<requiredResearchBuilding>VBY_PrimitiveResearchTable</requiredResearchBuilding>
+	<prerequisites>
+      <li>VBY_PrimitiveProduction</li>
+    </prerequisites>
+  </ResearchProjectDef>
+
+  <ResearchProjectDef>
+    <defName>VBY_MedievalAdvancement</defName>
+    <label>Avancement médiéval</label>
+    <description>Vous l'avez trouvée, l'étincelle qui fait passer votre compréhension du monde au niveau supérieur.</description>
+    <baseCost>1</baseCost>
+    <techLevel>Medieval</techLevel>
+    <researchViewX>0.00</researchViewX>
+    <researchViewY>5.90</researchViewY>
+  </ResearchProjectDef>
+  
+</Defs>  

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mur de foin -->
+  <VBY_Hay_Wall.label>mur de foin</VBY_Hay_Wall.label>
+  <!-- EN: Une simple charpente couverte de chaume. -->
+  <VBY_Hay_Wall.description>Une simple charpente couverte de chaume.</VBY_Hay_Wall.description>
+  
+  <!-- EN: porte de foin -->
+  <VBY_HayDoor.label> porte de foin</VBY_HayDoor.label>
+  <!-- EN: Une simple charpente couverte de chaume. -->
+  <VBY_HayDoor.description>Une simple charpente couverte de chaume.</VBY_HayDoor.description>
+  
+</LanguageData>

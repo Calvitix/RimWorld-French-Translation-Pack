@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: Wolf Pack -->
+  <EV.WolfPackLetterLabel>meute de loups</EV.WolfPackLetterLabel>
+    <!-- EN: A group of hungry wolves has just arrived.\n\nTry to eliminate them before they decimate every last animal in the region. -->
+  <EV.WolfPackLetterText>Un groupe de loups affamés vient d'arriver. Essayez de les éliminer avant qu'ils ne déciment tous les animaux de la région.</EV.WolfPackLetterText>
+</LanguageData>
