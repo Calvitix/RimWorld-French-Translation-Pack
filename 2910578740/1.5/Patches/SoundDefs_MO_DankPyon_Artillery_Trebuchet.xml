@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+
+	<Operation Class="PatchOperationFindMod">
+
+		<mods>
+			<li>Medieval Overhaul</li>
+			<li>Medieval Overhaul (unofficial)</li>
+			
+		</mods>
+
+		<match Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+
+		<!-- DankPyon_Trestle -->
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="DankPyon_Artillery_Trebuchet"]/verbs/li[1]/soundCast</xpath>
+					<value>
+						<soundCast>RF_Trebuchet_Cast</soundCast>
+					</value>
+			</li>
+
+		</operations>
+		</match>
+
+	</Operation>
+
+</Patch>

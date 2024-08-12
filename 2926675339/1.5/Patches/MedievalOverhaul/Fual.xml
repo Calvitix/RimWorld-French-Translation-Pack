@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <!-- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+    MOがあるときは、
+    ログボイラーとサウナの燃料に石炭を追加
+  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- -->
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Medieval Overhaul</li>
+			<li>Medieval Overhaul (unofficial)</li>
+	  
+    </mods>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName="LogBoiler" or
+                            defName="DBHSaunaHeaterLog"]/
+              comps/li[@Class="CompProperties_Refuelable"]/fuelFilter/thingDefs</xpath>
+      <value>
+        <li>DankPyon_Coal</li>
+      </value>
+    </match>
+  </Operation>
+  
+</Patch>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Medieval Overhaul</li>
+			<li>Medieval Overhaul (unofficial)</li>
+	  
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+
+<!-- Ajoute une autre ruine de château pour le scénario Frères d'armes -->
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ScenarioDef/scenario/parts/li[@Class="KCSG.ScenPart_AddStartingStructure"]/chooseFrom</xpath>
+          <value>
+            <li>DankPyon_StartingCastle2</li>
+            <li>DankPyon_StartingCastle3</li>
+            <li>DankPyon_StartingCastle4</li>
+          </value>
+        </li>
+
+      </operations>
+    </match>
+  </Operation>
+
+</Patch>

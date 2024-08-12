@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Patch>
+
+	
+	<!-- ==================   Melee  =========================  -->
+	
+  <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName = "MeleeWeapon_Club"]/recipeMaker/recipeUsers</xpath>
+            <value>
+                <li>VBY_PrimitiveCraftingTable</li>
+				<li>VBY_PrimitiveMeleeWeaponTable</li>
+            </value>    
+  </Operation>
+  
+  <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName = "MeleeWeapon_Knife"]/recipeMaker/recipeUsers</xpath>
+            <value>
+                <li>VBY_PrimitiveCraftingTable</li>
+				<li>VBY_PrimitiveMeleeWeaponTable</li>
+            </value>    
+  </Operation>
+  
+  <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName = "MeleeWeapon_Ikwa"]/recipeMaker</xpath>
+            <value>
+				<recipeMaker>
+				  <researchPrerequisite>VBY_PrimitiveSmithing</researchPrerequisite>
+				  <skillRequirements>
+					<Crafting>3</Crafting>
+				  </skillRequirements>
+				  <recipeUsers>
+					<li>VBY_PrimitiveMeleeWeaponTable</li>
+				  </recipeUsers>
+				</recipeMaker>
+            </value>    
+  </Operation>
+  
+  <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName = "MeleeWeapon_Spear"]/recipeMaker</xpath>
+            <value>
+				<recipeMaker>
+				  <researchPrerequisite>VBY_PrimitiveSmithing</researchPrerequisite>
+				  <skillRequirements>
+					<Crafting>4</Crafting>
+				  </skillRequirements>
+				  <recipeUsers>
+					<li>VBY_PrimitiveMeleeWeaponTable</li>
+				  </recipeUsers>
+				</recipeMaker>
+            </value>    
+  </Operation>
+  
+  <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName = "MeleeWeapon_Club"]/recipeMaker/recipeUsers</xpath>
+            <value>
+                <li>VBY_PrimitiveCraftingTable</li>
+				<li>VBY_PrimitiveMeleeWeaponTable</li>
+            </value>    
+  </Operation>
+  
+  <!-- ==================   Ranged  =========================  -->
+  
+  <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName = "Bow_Short"]/recipeMaker/recipeUsers</xpath>
+            <value>
+                <li>VBY_PrimitiveCraftingTable</li>
+				<li>VBY_PrimitiveRangedWeaponTable</li>
+            </value>    
+  </Operation>
+  
+  <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName = "Pila"]/recipeMaker</xpath>
+            <value>
+				<recipeUsers>
+                  <li>VBY_PrimitiveCraftingTable</li>
+				  <li>VBY_PrimitiveRangedWeaponTable</li>
+				</recipeUsers>
+            </value>    
+  </Operation>
+  
+  <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName = "Bow_Recurve"]/recipeMaker/recipeUsers</xpath>
+            <value>
+                <li>VBY_PrimitiveCraftingTable</li>
+				<li>VBY_PrimitiveRangedWeaponTable</li>
+            </value>    
+  </Operation>
+  
+  <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName = "Bow_Great"]/recipeMaker/recipeUsers</xpath>
+            <value>
+                <li>VBY_PrimitiveCraftingTable</li>
+				<li>VBY_PrimitiveRangedWeaponTable</li>
+            </value>    
+  </Operation>
+  
+  <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[@Name = "BaseWeaponNeolithic"]/recipeMaker/recipeUsers</xpath>
+            <value>
+                <li>VBY_PrimitiveRangedWeaponTable</li>
+            </value>    
+  </Operation>
+  
+  <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName = "PsychiteTea"]/recipeMaker/recipeUsers</xpath>
+            <value>
+                <li>VBY_PrimitiveBrewery_HerbalistBench</li>
+            </value>    
+  </Operation> 
+
+  <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[@Name = "BaseMeleeWeapon"]/recipeMaker/recipeUsers</xpath>
+            <value>
+                <li>VBY_PrimitiveSmithingTable</li>
+            </value>    
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[@Name = "ArmorSmithableBase"]/recipeMaker/recipeUsers</xpath>
+            <value>
+                <li>VBY_PrimitiveSmithingTable</li>
+            </value>    
+  </Operation>
+<!--  <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef/recipeMaker/researchPrerequisite[text()="Smithing"]</xpath>
+            <value>
+				<researchPrerequisite>VBY_PrimitiveSmithing</researchPrerequisite>
+            </value>    
+  </Operation>--><!--
+  <Operation Class="PatchOperationInsert">
+        <xpath>Defs/ThingDef/recipeMaker/recipeUsers/li[text()="ElectricSmithy" or text()="FueledSmithy"]</xpath>
+            <value>
+                <li>VBY_PrimitiveSmithingTable</li>
+            </value>    
+  </Operation>-->
+
+  <!-- ==================   Clothes  =========================  -->
+  
+  <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[@Name = "ApparelMakeableBase"]/recipeMaker/recipeUsers</xpath>
+            <value>
+                <li>VBY_PrimitiveTailoringTable</li>
+            </value>    
+  </Operation>
+  
+  <!-- ==================   Stone Blocks  =========================  -->
+  
+  <Operation Class="PatchOperationAdd">
+        <xpath>Defs/RecipeDef[@Name = "MakeStoneBlocksBase"]/recipeUsers</xpath>
+            <value>
+                <li>VBY_PrimitiveStoneCuttingTable</li>
+            </value>    
+  </Operation>
+  
+  <!-- ==================   Sculptures  =========================  -->
+  
+  <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[@Name = "SculptureBase"]/recipeMaker/recipeUsers</xpath>
+            <value>
+                <li>VBY_PrimitiveKiln</li>
+            </value>    
+  </Operation>
+  
+</Patch>  

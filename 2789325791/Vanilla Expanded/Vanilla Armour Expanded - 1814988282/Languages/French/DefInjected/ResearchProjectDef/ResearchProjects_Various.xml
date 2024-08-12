@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--Armor-->
+
+  <!-- leather tanning -->
+  <VAE_LeatherTanning.label>tannage fin du cuir</VAE_LeatherTanning.label>
+  <!-- Learn the process of tanning to craft more thicker and durable armors -->
+  <VAE_LeatherTanning.description>Apprenez le processus de tannage pour fabriquer des armures plus épaisses et plus durables.</VAE_LeatherTanning.description>
+
+  
+  <!-- hazard protection -->
+  <VAE_HazardProtection.label>protection contre les risques chimiques</VAE_HazardProtection.label>
+  <!-- Develop suits resistant to high toxicity and radiation -->
+  <VAE_HazardProtection.description>Développez des combinaisons résistantes à une forte toxicité et aux radiations.</VAE_HazardProtection.description>
+
+  <!--miltary camouflage-->
+  <VAE_MlitaryCamouflage.label>camouflage militaire</VAE_MlitaryCamouflage.label>
+  <!-- Craft special military apparel allowing users to resemble the background environment such as foliage -->
+  <VAE_MlitaryCamouflage.description>Fabriquez des vêtements militaires spéciaux permettant aux utilisateurs de se fondre dans l'environnement.</VAE_MlitaryCamouflage.description>
+
+  <VAE_SiegebreakerArmor.label>Armures de briseur de siège</VAE_SiegebreakerArmor.label>
+  <VAE_SiegebreakerArmor.description>Fabriquer une armure Siegebreaker, une armure lourde qui ralentit considérablement l'utilisateur mais offre une protection étendue. Notez que cela nécessite également des composants avancés.</VAE_SiegebreakerArmor.description>
+
+  <VAE_TrooperArmor.label>Armure de soldat</VAE_TrooperArmor.label>
+  <VAE_TrooperArmor.description>Fabriquez une armure de soldat, une armure légère et semi-motorisée, facile et bon marché à fabriquer. Notez que cela nécessite également des composants avancés.</VAE_TrooperArmor.description>
+
+
+</LanguageData>

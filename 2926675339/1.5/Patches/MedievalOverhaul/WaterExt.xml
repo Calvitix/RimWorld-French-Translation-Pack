@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <!-- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+    MOの該当する食べ物に喉の渇きを癒す効果を追加する
+  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- -->
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Medieval Overhaul</li>
+			<li>Medieval Overhaul (unofficial)</li>
+	  
+    </mods>
+    <match Class="PatchOperationSequence">
+      <operations>
+
+        <!-- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+          アルコール系
+        *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- -->
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName="DankPyon_Ale" or
+                      defName="DankPyon_Cider" or
+                      defName="DankPyon_Wine_Mulberry" or
+                      defName="DankPyon_Mead" or
+                      defName="DankPyon_Wine"]</xpath>
+          <value>
+            <modExtensions>
+              <li Class="DubsBadHygiene.WaterExt">
+                <water>0.75</water>
+                <UseForWashing>false</UseForWashing>
+                <SeekForThirst>false</SeekForThirst>
+              </li>
+            </modExtensions>
+          </value>
+        </li>
+
+        <!-- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+          非アルコール系
+        *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- -->
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName="DankPyon_JuiceApple" or
+                      defName="DankPyon_GoatMilk" or
+                      defName="DankPyon_SheepMilk"]</xpath>
+          <value>
+            <modExtensions>
+              <li Class="DubsBadHygiene.WaterExt">
+                <water>0.9</water>
+                <UseForWashing>false</UseForWashing>
+                <SeekForThirst>false</SeekForThirst>
+              </li>
+            </modExtensions>
+          </value>
+        </li>
+
+        <!-- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+          スープ・シチュー類
+        *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- -->
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName="DankPyon_MealPumpkinSoup" or
+                      defName="DankPyon_MealHeartyStew" or
+                      defName="DankPyon_MealHuntersStew" or
+                      defName="DankPyon_MealMushroomSoup" or
+                      defName="DankPyon_MealWinterLentilSoup" or
+                      defName="DankPyon_MealVegetablePot" or
+                      defName="DankPyon_MealBoneSoup" or
+                      defName="DankPyon_MealCheeseSoup"]</xpath>
+          <value>
+            <modExtensions>
+              <li Class="DubsBadHygiene.WaterExt">
+                <water>0.6</water>
+                <UseForWashing>false</UseForWashing>
+                <SeekForThirst>false</SeekForThirst>
+              </li>
+            </modExtensions>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName="DankPyon_MealBoiledBeansAndOnion" or
+                      defName="DankPyon_MealWeakStew" or
+                      defName="DankPyon_MealBreadSoup"]</xpath>
+          <value>
+            <modExtensions>
+              <li Class="DubsBadHygiene.WaterExt">
+                <water>0.4</water>
+                <UseForWashing>false</UseForWashing>
+                <SeekForThirst>false</SeekForThirst>
+              </li>
+            </modExtensions>
+          </value>
+        </li>
+
+      </operations>
+    </match>
+  </Operation>
+</Patch>

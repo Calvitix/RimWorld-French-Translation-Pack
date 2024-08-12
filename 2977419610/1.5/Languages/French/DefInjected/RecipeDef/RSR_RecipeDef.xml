@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ 
+<RSR_RefineResourcesFromChunks.label>raffiner des ressources à partir de gravats</RSR_RefineResourcesFromChunks.label>
+<RSR_RefineResourcesFromChunks.description>Obtenir des ressources utiles à partir de morceaux de pierre.</RSR_RefineResourcesFromChunks.description>
+<RSR_RefineResourcesFromChunks.jobString>Raffine le gravats.</RSR_RefineResourcesFromChunks.jobString>
+
+
+</LanguageData>

@@ -23,6 +23,9 @@
 		<costList>
 			<RFFBricks>4</RFFBricks>
 		</costList>
+		<researchPrerequisites>
+			<li>Stonecutting</li>
+		</researchPrerequisites>		
 	</ThingDef>	
 	
 	<!-- Production -->

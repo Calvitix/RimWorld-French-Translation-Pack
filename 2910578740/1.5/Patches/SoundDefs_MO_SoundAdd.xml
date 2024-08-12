@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+
+	<Operation Class="PatchOperationFindMod">
+
+		<mods>
+			<li>Medieval Overhaul</li>
+			<li>Medieval Overhaul (unofficial)</li>
+			
+		</mods>
+
+		<match Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs</xpath>
+				<value>
+					<SoundDef>
+						<defName>MO_MakeWood</defName> <!-- Son pour l'établi de scierie et autre -->
+						<sustain>True</sustain>  
+						<context>MapOnly</context>
+						<maxSimultaneous>1</maxSimultaneous>
+						<priorityMode>PrioritizeNearest</priorityMode>
+						<sustainStopSound>Finish_Wood</sustainStopSound>
+						<subSounds>
+							<li>
+								<muteWhenPaused>True</muteWhenPaused>  
+								<grains>
+									<li Class="AudioGrain_Clip">
+										<clipPath>Work_Wood</clipPath>
+									</li>
+								</grains>
+								<volumeRange>15.079137~50.56115</volumeRange>      
+								<pitchRange>0.9719425~1.022941</pitchRange>      
+								<distRange>25~50</distRange>      
+								<sustainLoop>False</sustainLoop>
+							</li>
+						</subSounds>
+					</SoundDef>
+				</value>
+			</li>
+
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs</xpath>
+				<value>
+					<SoundDef>
+					<defName>RF_Trebuchet_Cast</defName> <!-- Son pour le trébuchet -->
+					<context>MapOnly</context>
+					<maxSimultaneous>1</maxSimultaneous>
+					<subSounds>
+						<li>
+							<grains>
+								<li Class="AudioGrain_Clip">
+									<clipPath>SiegeWeapon03</clipPath>
+								</li>
+							</grains>
+							<volumeRange>100</volumeRange>      
+						</li>
+					</subSounds>
+					</SoundDef>
+				</value>
+			</li>
+
+		</operations>
+		</match>
+
+	</Operation>
+
+</Patch>

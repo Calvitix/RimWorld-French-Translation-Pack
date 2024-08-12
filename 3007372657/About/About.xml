@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Recycle This [Fr]</name>
+	<author>Joedox</author>
+	<supportedVersions>		
+		<li>1.5</li>
+   </supportedVersions>
+   <modDependencies>
+		<li>
+			<packageId>bustedbunny.recylethis</packageId>
+			<displayName>Recycle This</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2567877605</steamWorkshopUrl>
+		</li>
+	</modDependencies>	
+	<packageId>Joedox.bustedbunny.recylethis.Fr</packageId>
+	<description>
+&lt;size=18&gt;Traduction &lt;color=#3691FF&gt;fra&lt;/color&gt;&lt;color=#FFFFFF&gt;nça&lt;/color&gt;&lt;color=#E00000&gt;ise&lt;/color&gt; du mod :&lt;b&gt; Recycle This &lt;/b&gt; &lt;/size&gt;
+
+
+Vous n'en avez jamais eu assez de créer des tâches pour fondre et détruire les déchets inutiles laissés par le dernier raid cannibale ? Ce n'est plus le cas.
+Il suffit de sélectionner tous les objets dont vous voulez vous débarrasser et les colons s'en chargeront.
+
+Ce mod vous permet de recycler et de détruire les armes et les vêtements par le biais des icônes d'ordre, sans créer de tâches ennuyeuses. Il utilise toutes les valeurs de vanilla pour calculer le rendement et la vitesse de travail afin de créer des tâches presque identiques à celles de vanilla (fondre ou brûler des armes/vêtements).
+
+
+En gros, il ajoute 2 commandes au menu et aux objets affectés :
+
+-Détruire l'objet : les armes ou vêtements sélectionnés seront détruits sur le feu de camp ou à la fonderie la plus proche (y compris les moddés).
+
+-Recycler l'objet : les armes ou vêtements sélectionnés seront soit fondus dans la fonderie la plus proche, soit recyclés sur place, ce qui permet de récupérer une partie des ressources de la recette.
+	</description>
+
+	<loadBefore>
+		<li></li>
+	</loadBefore>
+
+	<loadAfter>			
+		<li>bustedbunny.recylethis</li>
+	</loadAfter>
+
+	<incompatibleWith>
+		<li></li>
+	</incompatibleWith>
+
+</ModMetaData>

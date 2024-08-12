@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Randomised Stone Refinery V2</name>
+  <author>MrKociak</author>
+	<packageId>MrKociak.RandomisedStoneRefineryVAnother</packageId>
+  <url></url>
+  <supportedVersions>
+    <li>1.4</li>
+	  <li>1.5</li>
+  </supportedVersions>
+	
+<description>Yet another mod that lets you get different resources from stones, except this time it's more randomised.</description>
+</ModMetaData>

@@ -170,29 +170,39 @@
 	<!-- defName="Greatbow" or -->
 	<!-- defName="PlateArmor" or -->
 	<!-- ============================ Core Research Project Prerequisite Add ========================== -->
-	<Operation Class="PatchOperationAdd">
+	<Operation Class="PatchOperationConditional">
+		<xpath>/Defs/ResearchProjectDef[defName="Smithing"]/prerequisites</xpath>
+		<nomatch Class="PatchOperationAdd">
 		<xpath>/Defs/ResearchProjectDef[defName="Smithing"]</xpath>
 		<value>
 			<prerequisites>
 				<li>Stonecutting</li>
 			</prerequisites>
 		</value>
-	</Operation>
-	<Operation Class="PatchOperationAdd">
-		<xpath>/Defs/ResearchProjectDef[defName="Smithing"]</xpath>
+		</nomatch>
+		<match Class="PatchOperationAdd">
+			<xpath>/Defs/ResearchProjectDef[defName="Smithing"]/prerequisites</xpath>
 		<value>
-			<prerequisites>
 				<li>Stonecutting</li>
-			</prerequisites>
 		</value>
+		</match>
 	</Operation>
-	<Operation Class="PatchOperationAdd">
-		<xpath>Defs/ResearchProjectDef[defName="ComplexClothing"]</xpath>
+	<Operation Class="PatchOperationConditional">
+		<xpath>/Defs/ResearchProjectDef[defName="ComplexClothing"]/prerequisites</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>/Defs/ResearchProjectDef[defName="ComplexClothing"]</xpath>
 		<value>
 			<prerequisites>
 				<li>DankPyon_TextileSpinning</li>
 			</prerequisites>
 		</value>
+		</nomatch>
+		<match Class="PatchOperationAdd">
+			<xpath>/Defs/ResearchProjectDef[defName="ComplexClothing"]/prerequisites</xpath>
+			<value>
+				<li>DankPyon_TextileSpinning</li>
+			</value>
+		</match>
 	</Operation>
 
 	<Operation Class="PatchOperationConditional">

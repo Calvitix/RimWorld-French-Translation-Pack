@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+
+	<Operation Class="PatchOperationFindMod">
+
+		<mods>
+			<li>Medieval Overhaul</li> <!-- Problème avec la MàJ de Medieval Overhaul: Toggleable Stuff -->
+			<li>Medieval Overhaul (unofficial)</li>
+			
+		</mods>
+
+		<match Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+
+		<!-- DankPyon_Trestle -->
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/RecipeDef[@Name="DankPyon_MakeTimberBase"]/soundWorking</xpath>
+					<value>
+						<soundWorking>MO_MakeWood</soundWorking>
+					</value>
+			</li>
+
+		</operations>
+		</match>
+
+	</Operation>
+
+</Patch>

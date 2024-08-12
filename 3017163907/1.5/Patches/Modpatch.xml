@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+<!-- ==================== VFE =================== -->
+
+<Operation Class="PatchOperationFindMod">
+  <mods>
+    <li>Vanilla Expanded Framework</li>
+  </mods>
+  <match Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName ="BotchJob_DivineOrderKnight"]</xpath>
+    <value>
+  	<apparelRequired>
+		<li>BotchJob_DivineOrderShield</li>
+	</apparelRequired>
+         </value>
+	</match>
+	</Operation>
+	
+	<Operation Class="PatchOperationFindMod">
+  <mods>
+    <li>Vanilla Expanded Framework</li>
+  </mods>
+  <match Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName ="BotchJob_DivineOrderBattleStandard"]</xpath>
+    <value>
+  	   <equippedAngleOffset>45</equippedAngleOffset>
+         </value>
+	</match>
+	</Operation>
+	
+	<Operation Class="PatchOperationFindMod">
+  <mods>
+    <li>Vanilla Expanded Framework</li>
+  </mods>
+  <match Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName ="BotchJob_DivineOrderBattleStandard"]</xpath>
+    <value>
+  	<modExtensions>
+		<li Class="VFECore.ThingDefExtension">
+			<weaponDraftedDrawOffsets>
+				<north>
+					<drawOffset>(0.34,0,0.60)</drawOffset>
+					<angleOffset>-143</angleOffset>
+				</north>
+				<east>
+					<drawOffset>(0.1,0,0.60)</drawOffset>
+					<angleOffset>-122</angleOffset>
+				</east>
+				<south>
+					<drawOffset>(-0.34,0,0.60)</drawOffset>
+					<angleOffset>-143</angleOffset>
+				</south>
+				<west>
+					<drawOffset>(-0.1,0,0.60)</drawOffset>
+					<angleOffset>122</angleOffset>
+				</west>
+			</weaponDraftedDrawOffsets>		
+		</li>
+	</modExtensions>
+         </value>
+	</match>
+	</Operation>
+	
+	
+	<Operation Class="PatchOperationFindMod">
+  <mods>
+    <li>Vanilla Expanded Framework</li>
+  </mods>
+  <match Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName ="BotchJob_DivineJudgementStaff"]</xpath>
+    <value>
+		  <equippedAngleOffset>45</equippedAngleOffset>
+         </value>
+	</match>
+	</Operation>
+	
+	<Operation Class="PatchOperationFindMod">
+  <mods>
+    <li>Vanilla Expanded Framework</li>
+  </mods>
+  <match Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName ="BotchJob_DivineJudgementStaff"]</xpath>
+    <value>
+  	<modExtensions>
+		<li Class="VFECore.ThingDefExtension">
+			<weaponDraftedDrawOffsets>
+				<north>
+					<drawOffset>(0.34,0,0.60)</drawOffset>
+					<angleOffset>-143</angleOffset>
+				</north>
+				<east>
+					<drawOffset>(0.1,0,0.60)</drawOffset>
+					<angleOffset>-122</angleOffset>
+				</east>
+				<south>
+					<drawOffset>(-0.34,0,0.60)</drawOffset>
+					<angleOffset>-143</angleOffset>
+				</south>
+				<west>
+					<drawOffset>(-0.1,0,0.60)</drawOffset>
+					<angleOffset>122</angleOffset>
+				</west>
+			</weaponDraftedDrawOffsets>		
+		</li>
+	</modExtensions>
+         </value>
+	</match>
+	</Operation>
+	
+	<Operation Class="PatchOperationFindMod">
+  <mods>
+    <li>Vanilla Expanded Framework</li>
+  </mods>
+  <match Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName ="BotchJob_DivineOrderGreatsword"]</xpath>
+    <value>
+  <modExtensions>
+		<li Class="VFECore.ThingDefExtension">
+			<weaponDraftedDrawOffsets>
+				<north>
+					<drawOffset>(-0.20,0.0,0.20)</drawOffset> 
+					<angleOffset>115</angleOffset>
+				</north>
+				<east>
+					<drawOffset>(0.30,0.00,0.20)</drawOffset> 
+					<angleOffset>-45</angleOffset>
+				</east>
+				<south>
+					<drawOffset>(0.30,0.00,0.20)</drawOffset>
+					<angleOffset>-45</angleOffset>
+				</south>
+				<west>
+					<drawOffset>(-0.30,0.0,0.20)</drawOffset>
+					<angleOffset>45</angleOffset>
+				</west>
+			</weaponDraftedDrawOffsets>
+		</li>
+	</modExtensions> 
+         </value>
+	</match>
+	</Operation>
+
+	
+	<!-- ==================== Possessed Weapons =================== -->
+	
+	<Operation Class="PatchOperationFindMod">
+  <mods>
+    <li>Possessed Weapons</li>
+  </mods>
+  <match Class="PatchOperationReplace">
+    <xpath>/Defs/PawnKindDef[defName ="BotchJob_DivineOrderCrusader"]/weaponTags</xpath>
+    <value>
+  	<weaponTags>
+		<li>BotchJob_PossessedSanctifiedSword</li>
+	</weaponTags>
+         </value>
+	</match>
+	</Operation>
+	
+	<Operation Class="PatchOperationFindMod">
+  <mods>
+    <li>Possessed Weapons</li>
+  </mods>
+  <match Class="PatchOperationReplace">
+    <xpath>/Defs/PawnKindDef[defName ="BotchJob_DivineOrderCrusader"]/weaponMoney</xpath>
+    <value>
+  	<weaponMoney>3000~9999</weaponMoney>
+         </value>
+	</match>
+	</Operation>
+	
+		<Operation Class="PatchOperationFindMod">
+  <mods>
+    <li>Possessed Weapons</li>
+  </mods>
+  <match Class="PatchOperationReplace">
+    <xpath>/Defs/PawnKindDef[defName ="BotchJob_DivineOrderInquisitor"]/weaponTags</xpath>
+    <value>
+  	<weaponTags>
+		<li>BotchJob_PossessedGildedArquebus</li>
+		<li>BotchJob_PossessedAutomatonCrossbow</li>
+	</weaponTags>
+         </value>
+	</match>
+	</Operation>
+	
+	<Operation Class="PatchOperationFindMod">
+  <mods>
+    <li>Possessed Weapons</li>
+  </mods>
+  <match Class="PatchOperationReplace">
+    <xpath>/Defs/PawnKindDef[defName ="BotchJob_DivineOrderInquisitor"]/weaponMoney</xpath>
+    <value>
+  	<weaponMoney>3000~9999</weaponMoney>
+         </value>
+	</match>
+	</Operation>
+	
+	<Operation Class="PatchOperationFindMod">
+  <mods>
+    <li>Possessed Weapons</li>
+  </mods>
+  <match Class="PatchOperationReplace">
+    <xpath>/Defs/PawnKindDef[defName ="BotchJob_DivineOrderHerald"]/weaponTags</xpath>
+    <value>
+  	<weaponTags>
+		<li>BotchJob_PossessedArchmageStaff</li>
+		<li>BotchJob_PossessedEarthenGauntlet</li>
+	</weaponTags>
+         </value>
+	</match>
+	</Operation>
+	
+	<Operation Class="PatchOperationFindMod">
+  <mods>
+    <li>Possessed Weapons</li>
+  </mods>
+  <match Class="PatchOperationReplace">
+    <xpath>/Defs/PawnKindDef[defName ="BotchJob_DivineOrderHerald"]/weaponMoney</xpath>
+    <value>
+  	<weaponMoney>3000~9999</weaponMoney>
+         </value>
+	</match>
+	</Operation>
+	
+	
+	<!-- ==================== Medieval Overhaul =================== -->
+	
+
+<Operation Class="PatchOperationFindMod">
+  <mods>
+    <li>Medieval Overhaul</li>
+			<li>Medieval Overhaul (unofficial)</li>
+	
+  </mods>
+  <match Class="PatchOperationReplace">
+    <xpath>/Defs/ResearchProjectDef[defName ="BotchJob_DivineOrderSmithing"]/researchViewX</xpath>
+    <value>
+  	<researchViewX>10</researchViewX>
+         </value>
+	</match>
+	</Operation>	
+	
+	<Operation Class="PatchOperationFindMod">
+  <mods>
+    <li>Medieval Overhaul</li>
+			<li>Medieval Overhaul (unofficial)</li>
+	
+  </mods>
+  <match Class="PatchOperationReplace">
+    <xpath>/Defs/ResearchProjectDef[defName ="BotchJob_DivineOrderEliteArmor"]/researchViewX</xpath>
+    <value>
+  	<researchViewX>11</researchViewX>
+         </value>
+	</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+  <mods>
+    <li>Medieval Overhaul</li>
+			<li>Medieval Overhaul (unofficial)</li>
+	
+  </mods>
+  <match Class="PatchOperationReplace">
+    <xpath>/Defs/ResearchProjectDef[defName ="BotchJob_DivineOrderStaffResearch"]/researchViewX</xpath>
+    <value>
+  	<researchViewX>12</researchViewX>
+         </value>
+	</match>
+	</Operation>		
+	
+	<Operation Class="PatchOperationFindMod">
+  <mods>
+    <li>Medieval Overhaul</li>
+			<li>Medieval Overhaul (unofficial)</li>
+	
+  </mods>
+  <match Class="PatchOperationReplace">
+    <xpath>/Defs/FactionDef[defName ="BotchJob_DivineOrderFaction"]/settlementTexturePath</xpath>
+    <value>
+  <settlementTexturePath>WorldObjects/MedievalSettlement</settlementTexturePath>
+         </value>
+	</match>
+	</Operation>	
+	
+		<!-- ==================== DLC =================== -->
+	
+	
+	<Operation Class="PatchOperationFindMod">
+  <mods>
+    <li>Royalty</li>
+  </mods>
+	<match Class="PatchOperationAdd">
+	    <xpath>/Defs/FactionDef[defName="Empire"]/permanentEnemyToEveryoneExcept</xpath>
+	    <value>
+	    	<li>BotchJob_DivineOrderPlayerFaction</li>
+		</value>
+		</match>
+	</Operation>
+
+
+
+ 	
+
+</Patch>

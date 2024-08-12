@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: irascible -->
+  <DV_Aggression_Irascible.label>TODO</DV_Aggression_Irascible.label>
+  <!-- EN: Carriers of this gene are stubborn and snobbish. They are much more likely to start fights over nothing.\n<i><color=#66E0E4FF>Det's Xenotypes - Stoneborn</color></i> -->
+  <DV_Aggression_Irascible.description>TODO</DV_Aggression_Irascible.description>
+  <!-- EN: aggro -->
+  <DV_Aggression_Irascible.symbolPack.prefixSymbols.0.symbol>TODO</DV_Aggression_Irascible.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: snob -->
+  <DV_Aggression_Irascible.symbolPack.prefixSymbols.1.symbol>TODO</DV_Aggression_Irascible.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: angry -->
+  <DV_Aggression_Irascible.symbolPack.prefixSymbols.2.symbol>TODO</DV_Aggression_Irascible.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: destro -->
+  <DV_Aggression_Irascible.symbolPack.prefixSymbols.3.symbol>TODO</DV_Aggression_Irascible.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: barb -->
+  <DV_Aggression_Irascible.symbolPack.prefixSymbols.4.symbol>TODO</DV_Aggression_Irascible.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: fighter -->
+  <DV_Aggression_Irascible.symbolPack.suffixSymbols.0.symbol>TODO</DV_Aggression_Irascible.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: bushy eyebrows -->
+  <DV_BushyEyebrows.label>TODO</DV_BushyEyebrows.label>
+  <!-- EN: Carriers of this gene have unnaturally thick and luscious eyebrows.\n<i><color=#66E0E4FF>Det's Xenotypes - Stoneborn</color></i> -->
+  <DV_BushyEyebrows.description>TODO</DV_BushyEyebrows.description>
+  <!-- EN: eyebrowed -->
+  <DV_BushyEyebrows.symbolPack.prefixSymbols.0.symbol>TODO</DV_BushyEyebrows.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: eyebrows -->
+  <DV_BushyEyebrows.symbolPack.suffixSymbols.0.symbol>TODO</DV_BushyEyebrows.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: extended memory -->
+  <DV_ExtendedMemory.label>TODO</DV_ExtendedMemory.label>
+  <!-- EN: Carriers of this gene have an enhanced temporal lobe. This allows them to remember both good and bad events for longer, which makes them more prone to holding grudges; it also generally lowers their rate of skill loss.\n<i><color=#66E0E4FF>Det's Xenotypes - Stoneborn</color></i> -->
+  <DV_ExtendedMemory.description>TODO</DV_ExtendedMemory.description>
+  <!-- EN: Lowered skill loss rate and moodlet duration boosted by 25%. -->
+  <DV_ExtendedMemory.customEffectDescriptions.0>TODO</DV_ExtendedMemory.customEffectDescriptions.0>
+  <!-- EN: long memory -->
+  <DV_ExtendedMemory.labelShortAdj>TODO</DV_ExtendedMemory.labelShortAdj>
+  
+  <!-- EN: Long lifespan -->
+  <DV_LifespanLong.label>TODO</DV_LifespanLong.label>
+  <!-- EN: Carriers of this gene have cells that age slower and lose functions much later in life, allowing them to live longer.\n<i><color=#66E0E4FF>Det's Xenotypes - Stoneborn</color></i> -->
+  <DV_LifespanLong.description>TODO</DV_LifespanLong.description>
+  <!-- EN: Long lifespan -->
+  <DV_LifespanLong.labelShortAdj>TODO</DV_LifespanLong.labelShortAdj>
+  
+  <!-- EN: mighty liver -->
+  <DV_MightyLiver.label>TODO</DV_MightyLiver.label>
+  <!-- EN: Carriers of this gene grow an exceptionally hardy liver that allows them to filter toxic chemicals in their blood better. This makes them immune to internal liver damage, namely cirrhosis.\n<i><color=#66E0E4FF>Det's Xenotypes - Stoneborn</color></i> -->
+  <DV_MightyLiver.description>TODO</DV_MightyLiver.description>
+  <!-- EN: Immune to basic liver cirrhosis. -->
+  <DV_MightyLiver.customEffectDescriptions.0>TODO</DV_MightyLiver.customEffectDescriptions.0>
+  <!-- EN: mighty liver -->
+  <DV_MightyLiver.labelShortAdj>TODO</DV_MightyLiver.labelShortAdj>
+  
+  <!-- EN: narrow memory -->
+  <DV_NarrowMemory.label>TODO</DV_NarrowMemory.label>
+  <!-- EN: Carriers of this gene have a shrunken temporal lobe. This makes events harder to recall, which makes it easier for them to forget both good and bad things; it also generally raises their rate of skill loss.\n<i><color=#66E0E4FF>Det's Xenotypes - Stoneborn</color></i> -->
+  <DV_NarrowMemory.description>TODO</DV_NarrowMemory.description>
+  <!-- EN: Raised skill loss rate and moodlet duration lowered by 25%. -->
+  <DV_NarrowMemory.customEffectDescriptions.0>TODO</DV_NarrowMemory.customEffectDescriptions.0>
+  <!-- EN: short memory -->
+  <DV_NarrowMemory.labelShortAdj>TODO</DV_NarrowMemory.labelShortAdj>
+  
+  <!-- EN: stonecall -->
+  <DV_Stonecall.label>TODO</DV_Stonecall.label>
+  <!-- EN: Carriers of this gene have a special organ hidden near their vocal chords, that allows them to perform a loud and inspiring stonecall to buff their mining and construction speeds.\n<i><color=#66E0E4FF>Det's Xenotypes - Stoneborn</color></i> -->
+  <DV_Stonecall.description>TODO</DV_Stonecall.description>
+  <!-- EN: rock -->
+  <DV_Stonecall.symbolPack.prefixSymbols.0.symbol>TODO</DV_Stonecall.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: stone -->
+  <DV_Stonecall.symbolPack.prefixSymbols.1.symbol>TODO</DV_Stonecall.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: cry -->
+  <DV_Stonecall.symbolPack.prefixSymbols.2.symbol>TODO</DV_Stonecall.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: caller -->
+  <DV_Stonecall.symbolPack.suffixSymbols.0.symbol>TODO</DV_Stonecall.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: crier -->
+  <DV_Stonecall.symbolPack.suffixSymbols.1.symbol>TODO</DV_Stonecall.symbolPack.suffixSymbols.1.symbol>
+  <!-- EN: hailer -->
+  <DV_Stonecall.symbolPack.suffixSymbols.2.symbol>TODO</DV_Stonecall.symbolPack.suffixSymbols.2.symbol>
+  <!-- EN: stonecaller -->
+  <DV_Stonecall.symbolPack.wholeNameSymbols.0.symbol>TODO</DV_Stonecall.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <!-- EN: Undergrounder -->
+  <DV_Undergrounder.label>TODO</DV_Undergrounder.label>
+  <!-- EN: Carriers of this gene are more accustomed to dwelling in caves and under mountains.\n<i><color=#66E0E4FF>Det's Xenotypes - Stoneborn</color></i> -->
+  <DV_Undergrounder.description>TODO</DV_Undergrounder.description>
+  <!-- EN: Undergrounder -->
+  <DV_Undergrounder.labelShortAdj>TODO</DV_Undergrounder.labelShortAdj>
+  
+</LanguageData>

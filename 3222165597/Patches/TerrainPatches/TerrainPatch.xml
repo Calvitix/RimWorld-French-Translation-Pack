@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Patch>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Normal</success>
+		<operations>
+
+	<!-- Add Name and make Mud Buildable -->
+
+			<li Class="PatchOperationAttributeAdd">
+				<xpath>/Defs/TerrainDef[defName = "Mud"]</xpath>
+				<attribute>Name</attribute>
+				<value>Mud</value>
+			</li>
+			
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName = "Mud"]/affordances</xpath>
+				<value>
+					<li>Soil</li>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName = "Mud"]/statBases</xpath>
+				<value>
+					<WorkToBuild>800</WorkToBuild>
+					<MarketValue>0</MarketValue>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName = "Mud"]</xpath>
+				<value>
+					<designationCategory>Floors</designationCategory>
+					<constructEffect>ConstructDirt</constructEffect>
+					<terrainAffordanceNeeded>Soil</terrainAffordanceNeeded>
+					<description>Mud made by flooding the soil.</description>
+					<designatorDropdown>Floors_FreshMud</designatorDropdown>
+					<costList> <!-- without cost, the drop down menu doesn't works -->
+					</costList>
+				</value>
+			</li>
+	
+	<!-- Make Soils Buildable on mud -->
+	<!-- Soil -->
+	
+			
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName = "Soil"]/affordances</xpath>
+				<value>
+					<li>Soil</li>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName = "Soil"]/statBases</xpath>
+				<value>
+					<WorkToBuild>2000</WorkToBuild>
+					<MarketValue>0</MarketValue>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName = "Soil"]</xpath>
+				<value>
+					<designationCategory>Floors</designationCategory>
+					<constructEffect>ConstructDirt</constructEffect>
+					<terrainAffordanceNeeded>Soil</terrainAffordanceNeeded>
+					<description>Terre. Enlever la boue avec du foin et de la main d'œuvre.</description>
+					<designatorDropdown>Floors_FreshMud</designatorDropdown>
+					<costList>
+						<Hay>4</Hay>
+					</costList>
+				</value>
+			</li>
+			
+	<!-- SoilRich -->
+	
+			
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName = "SoilRich"]/affordances</xpath>
+				<value>
+					<li>SoilRich</li>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName = "SoilRich"]/statBases</xpath>
+				<value>
+					<WorkToBuild>2000</WorkToBuild>
+					<MarketValue>0</MarketValue>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName = "SoilRich"]</xpath>
+				<value>
+					<designationCategory>Floors</designationCategory>
+					<constructEffect>ConstructDirt</constructEffect>
+					<terrainAffordanceNeeded>SoilRich</terrainAffordanceNeeded>
+					<description>Terre fertile. Enlever la boue avec du foin et de la main d'œuvre.</description>
+					<designatorDropdown>Floors_FreshMud</designatorDropdown>
+					<costList>
+						<Hay>4</Hay>
+					</costList>
+				</value>
+			</li>
+			
+	<!-- Gravel -->
+	
+			
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName = "Gravel"]/affordances</xpath>
+				<value>
+					<li>Gravel</li>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName = "Gravel"]/statBases</xpath>
+				<value>
+					<WorkToBuild>2000</WorkToBuild>
+					<MarketValue>0</MarketValue>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName = "Gravel"]</xpath>
+				<value>
+					<designationCategory>Floors</designationCategory>
+					<constructEffect>ConstructDirt</constructEffect>
+					<terrainAffordanceNeeded>Gravel</terrainAffordanceNeeded>
+					<description>Sol rocailleux. Enlever la boue avec du foin et de la main d'œuvre.</description>
+					<designatorDropdown>Floors_FreshMud</designatorDropdown>
+					<costList>
+						<Hay>4</Hay>
+					</costList>
+				</value>
+			</li>
+			
+	<!-- MossyTerrain -->
+	
+			
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName = "MossyTerrain"]/affordances</xpath>
+				<value>
+					<li>MossyTerrain</li>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName = "MossyTerrain"]/statBases</xpath>
+				<value>
+					<WorkToBuild>2000</WorkToBuild>
+					<MarketValue>0</MarketValue>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName = "MossyTerrain"]</xpath>
+				<value>
+					<designationCategory>Floors</designationCategory>
+					<constructEffect>ConstructDirt</constructEffect>
+					<terrainAffordanceNeeded>MossyTerrain</terrainAffordanceNeeded>
+					<description>Terre de Lichen. Enlever la boue avec du foin et de la main d'œuvre.</description>
+					<designatorDropdown>Floors_FreshMud</designatorDropdown>
+					<costList>
+						<Hay>4</Hay>
+					</costList>
+				</value>
+			</li>
+			
+			</operations>
+	</Operation>
+	
+	<!-- Regrowth mods -->
+	<!-- <Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>ReGrowth: Core and Framework</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+		<success>Normal</success>
+		<operations>
+			
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName = "RG_TundraSoil"]/affordances</xpath>
+				<value>
+					<li>RG_TundraSoil</li>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName = "RG_TundraSoil"]/statBases</xpath>
+				<value>
+					<WorkToBuild>2000</WorkToBuild>
+					<MarketValue>0</MarketValue>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName = "RG_TundraSoil"]</xpath>
+				<value>
+					<designationCategory>Floors</designationCategory>
+					<constructEffect>ConstructDirt</constructEffect>
+					<terrainAffordanceNeeded>RG_TundraSoil</terrainAffordanceNeeded>
+					<description>Moss-covered soil. Enlever la boue avec du foin et de la main d'œuvre.</description>
+					<designatorDropdown>Floors_FreshMud</designatorDropdown>
+					<costList>
+						<Hay>4</Hay>
+					</costList>
+				</value>
+			</li>
+			
+			
+		</operations>
+		</match>
+	</Operation>
+	
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>ReGrowth: Aspen Forests</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+		<success>Normal</success>
+		<operations>
+			
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName = "RG_AspenSoil"]/affordances</xpath>
+				<value>
+					<li>RG_AspenSoil</li>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName = "RG_AspenSoil"]/statBases</xpath>
+				<value>
+					<WorkToBuild>2000</WorkToBuild>
+					<MarketValue>0</MarketValue>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName = "RG_AspenSoil"]</xpath>
+				<value>
+					<designationCategory>Floors</designationCategory>
+					<constructEffect>ConstructDirt</constructEffect>
+					<terrainAffordanceNeeded>RG_AspenSoil</terrainAffordanceNeeded>
+					<description>Moss-covered soil. Enlever la boue avec du foin et de la main d'œuvre.</description>
+					<designatorDropdown>Floors_FreshMud</designatorDropdown>
+					<costList>
+						<Hay>4</Hay>
+					</costList>
+				</value>
+			</li>
+			
+			
+		</operations>
+		</match>
+	</Operation> -->
+	
+</Patch>

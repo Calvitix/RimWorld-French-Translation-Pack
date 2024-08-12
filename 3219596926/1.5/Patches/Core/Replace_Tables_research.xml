@@ -103,10 +103,10 @@
 			</value>    
 		</match>
 	</Operation>
-	<Operation Class="PatchOperationConditional">
-    <xpath>Defs/ThingDef[defName = "RFF_BrickWall"]/researchPrerequisites</xpath>
+  <!--Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName = "BrickWall"]/researchPrerequisites</xpath>
 		<nomatch Class="PatchOperationAdd">
-      <xpath>Defs/ThingDef[defName = "RFF_BrickWall"]</xpath>
+      <xpath>Defs/ThingDef[defName = "BrickWall"]</xpath>
 			<value>
 				<researchPrerequisites>
 					<li>Stonecutting</li>
@@ -114,12 +114,12 @@
 			</value>    
 		</nomatch>
 		<match Class="PatchOperationAdd">
-      <xpath>Defs/ThingDef[defName = "RFF_BrickWall"]/researchPrerequisites</xpath>
+      <xpath>Defs/ThingDef[defName = "BrickWall"]/researchPrerequisites</xpath>
       <value>
         <li>Stonecutting</li>
       </value>
     </match>
-  </Operation>  
+  </Operation-->  
   <Operation Class="PatchOperationConditional">
     <xpath>Defs/TerrainDef[defName = "Bridge"]/researchPrerequisites</xpath>
     <nomatch Class="PatchOperationAdd">
@@ -137,5 +137,56 @@
 			</value>    
 		</match>
 	</Operation>	
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/TerrainDef[defName = "WoodPlankFloor"]/researchPrerequisites</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/TerrainDef[defName = "WoodPlankFloor"]</xpath>
+      <value>
+        <researchPrerequisites>
+          <li>DankPyon_Lumber</li>
+        </researchPrerequisites>
+      </value>
+    </nomatch>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/TerrainDef[defName = "WoodPlankFloor"]/researchPrerequisites</xpath>
+      <value>
+          <li>DankPyon_Lumber</li>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/TerrainDef[defName = "FlagstoneSandstone" or defName = "FlagstoneGranite" or defName = "FlagstoneLimestone" or defName = "FlagstoneSlate" or defName = "FlagstoneMarble"]/researchPrerequisites</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/TerrainDef[defName = "FlagstoneSandstone" or defName = "FlagstoneGranite" or defName = "FlagstoneLimestone" or defName = "FlagstoneSlate" or defName = "FlagstoneMarble"]</xpath>
+      <value>
+        <researchPrerequisites>
+          <li>VBY_PrimitiveStonecutting</li>
+        </researchPrerequisites>
+      </value>
+    </nomatch>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/TerrainDef[defName = "FlagstoneSandstone" or defName = "FlagstoneGranite" or defName = "FlagstoneLimestone" or defName = "FlagstoneSlate" or defName = "FlagstoneMarble"]/researchPrerequisites</xpath>
+      <value>
+          <li>VBY_PrimitiveStonecutting</li>
+      </value>
+    </match>
+  </Operation>
+    <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName = "AnimalBed"]/researchPrerequisites</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName = "AnimalBed"]</xpath>
+      <value>
+        <researchPrerequisites>
+          <li>DankPyon_LeatherTanning</li>
+        </researchPrerequisites>
+      </value>
+    </nomatch>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName = "AnimalBed"]/researchPrerequisites</xpath>
+      <value>
+        <li>DankPyon_LeatherTanning</li>
+      </value>
+    </match>
+  </Operation>
 
 </Patch>

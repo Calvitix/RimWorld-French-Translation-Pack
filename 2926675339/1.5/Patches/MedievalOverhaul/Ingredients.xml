@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <!-- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+    MOがあるときは、バニラ素材をMO素材に置換する
+    SteelをMOの鉄インゴットに、
+    ComponentIndustrialをMOの基礎コンポーネントに
+
+    ほかのPatchModでこの辺のコストリストをいじっている事がおおいので
+    競合しないようにConditionalで存在を確認してから置換する
+  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- -->
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Medieval Overhaul</li>
+			<li>Medieval Overhaul (unofficial)</li>
+	  
+    </mods>
+    <match Class="PatchOperationSequence">
+      <operations>
+
+        <!-- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+          WaterTrough
+        -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* -->
+        <li Class="PatchOperationConditional">
+          <xpath>/Defs/ThingDef[defName="WaterTrough"]/costList/Steel</xpath>
+          <match Class="PatchOperationSetName">
+            <xpath>/Defs/ThingDef[defName="WaterTrough"]/costList/Steel</xpath>
+            <name>DankPyon_IronIngot</name>
+          </match>
+        </li>
+
+        <!-- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+          burnpit
+        -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* -->
+        <li Class="PatchOperationConditional">
+          <xpath>/Defs/ThingDef[defName="burnpit"]/costList/Steel</xpath>
+          <match Class="PatchOperationSetName">
+            <xpath>/Defs/ThingDef[defName="burnpit"]/costList/Steel</xpath>
+            <name>DankPyon_IronIngot</name>
+          </match>
+        </li>
+
+        <!-- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+          plumbingValve
+        -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* -->
+        <li Class="PatchOperationConditional">
+          <xpath>/Defs/ThingDef[defName="plumbingValve"]/costList/Steel</xpath>
+          <match Class="PatchOperationSetName">
+            <xpath>/Defs/ThingDef[defName="plumbingValve"]/costList/Steel</xpath>
+            <name>DankPyon_IronIngot</name>
+          </match>
+        </li>
+
+        <!-- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+          BasinStuff
+        -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* -->
+        <li Class="PatchOperationConditional">
+          <xpath>/Defs/ThingDef[defName="BasinStuff"]/costList/Steel</xpath>
+          <match Class="PatchOperationSetName">
+            <xpath>/Defs/ThingDef[defName="BasinStuff"]/costList/Steel</xpath>
+            <name>DankPyon_IronIngot</name>
+          </match>
+        </li>
+
+        <!-- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+          WaterTowerS
+        -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* -->
+        <li Class="PatchOperationConditional">
+          <xpath>/Defs/ThingDef[defName="WaterTowerS"]/costList/Steel</xpath>
+          <match Class="PatchOperationSetName">
+            <xpath>/Defs/ThingDef[defName="WaterTowerS"]/costList/Steel</xpath>
+            <name>DankPyon_IronIngot</name>
+          </match>
+        </li>
+
+        <!-- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+          LogBoiler
+        -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* -->
+        <li Class="PatchOperationConditional">
+          <xpath>/Defs/ThingDef[defName="LogBoiler"]/costList/Steel</xpath>
+          <match Class="PatchOperationSetName">
+            <xpath>/Defs/ThingDef[defName="LogBoiler"]/costList/Steel</xpath>
+            <name>DankPyon_IronIngot</name>
+          </match>
+        </li>
+
+        <!-- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+          HotWaterTank
+        -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* -->
+        <li Class="PatchOperationConditional">
+          <xpath>/Defs/ThingDef[defName="HotWaterTank"]/costList/Steel</xpath>
+          <match Class="PatchOperationSetName">
+            <xpath>/Defs/ThingDef[defName="HotWaterTank"]/costList/Steel</xpath>
+            <name>DankPyon_IronIngot</name>
+          </match>
+        </li>
+
+        <!-- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+          SewageSepticTank
+        -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* -->
+        <li Class="PatchOperationConditional">
+          <xpath>/Defs/ThingDef[defName="SewageSepticTank"]/costList/Steel</xpath>
+          <match Class="PatchOperationSetName">
+            <xpath>/Defs/ThingDef[defName="SewageSepticTank"]/costList/Steel</xpath>
+            <name>DankPyon_IronIngot</name>
+          </match>
+        </li>
+
+        <!-- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+          BiosolidsComposter
+        -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* -->
+        <li Class="PatchOperationConditional">
+          <xpath>/Defs/ThingDef[defName="BiosolidsComposter"]/costList/Steel</xpath>
+          <match Class="PatchOperationSetName">
+            <xpath>/Defs/ThingDef[defName="BiosolidsComposter"]/costList/Steel</xpath>
+            <name>DankPyon_IronIngot</name>
+          </match>
+        </li>
+
+        <!-- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+          DBHMosaicTile
+        -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* -->
+        <li Class="PatchOperationConditional">
+          <xpath>/Defs/ThingDef[defName="DBHMosaicTile"]/costList/Steel</xpath>
+          <match Class="PatchOperationSetName">
+            <xpath>/Defs/ThingDef[defName="DBHMosaicTile"]/costList/Steel</xpath>
+            <name>DankPyon_IronIngot</name>
+          </match>
+        </li>
+
+        <!-- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+          IrrigationSprinkler
+        -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* -->
+        <li Class="PatchOperationConditional">
+          <xpath>/Defs/ThingDef[defName="IrrigationSprinkler"]/costList/Steel</xpath>
+          <match Class="PatchOperationSetName">
+            <xpath>/Defs/ThingDef[defName="IrrigationSprinkler"]/costList/Steel</xpath>
+            <name>DankPyon_IronIngot</name>
+          </match>
+        </li>
+        <li Class="PatchOperationConditional">
+          <xpath>/Defs/ThingDef[defName="IrrigationSprinkler"]/costList/ComponentIndustrial</xpath>
+          <match Class="PatchOperationSetName">
+            <xpath>/Defs/ThingDef[defName="IrrigationSprinkler"]/costList/ComponentIndustrial</xpath>
+            <name>DankPyon_ComponentBasic</name>
+          </match>
+        </li>
+
+        <!-- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+          ShowerSimple
+        -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* -->
+        <li Class="PatchOperationConditional">
+          <xpath>/Defs/ThingDef[defName="ShowerSimple"]/costList/Steel</xpath>
+          <match Class="PatchOperationSetName">
+            <xpath>/Defs/ThingDef[defName="ShowerSimple"]/costList/Steel</xpath>
+            <name>DankPyon_IronIngot</name>
+          </match>
+        </li>
+
+        <!-- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+          ES_ManualPump
+        -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* -->
+        <li Class="PatchOperationConditional">
+          <xpath>/Defs/ThingDef[defName="ES_ManualPump"]/costList/Steel</xpath>
+          <match Class="PatchOperationSetName">
+            <xpath>/Defs/ThingDef[defName="ES_ManualPump"]/costList/Steel</xpath>
+            <name>DankPyon_IronIngot</name>
+          </match>
+        </li>
+
+        <!-- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+          ES_SimpleBathtub
+        -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* -->
+        <li Class="PatchOperationConditional">
+          <xpath>/Defs/ThingDef[defName="ES_SimpleBathtub"]/costList/Steel</xpath>
+          <match Class="PatchOperationSetName">
+            <xpath>/Defs/ThingDef[defName="ES_SimpleBathtub"]/costList/Steel</xpath>
+            <name>DankPyon_IronIngot</name>
+          </match>
+        </li>
+
+        <!-- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+          WindPump
+        -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* -->
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName="WindPump"]/costList</xpath>
+          <value>
+            <costList>
+              <DankPyon_IronIngot>40</DankPyon_IronIngot>
+              <DankPyon_ComponentBasic>3</DankPyon_ComponentBasic>
+            </costList>
+          </value>
+        </li>
+
+        <!-- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+          Manual Pump
+        -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* -->
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName="ES_ManualPump"]/costList</xpath>
+          <value>
+            <DankPyon_ComponentBasic>1</DankPyon_ComponentBasic>
+          </value>
+        </li>
+
+        <!-- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+          Simple Filter
+        -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* -->
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName="ES_FilterDevice"]/costList</xpath>
+          <value>
+            <DankPyon_ComponentBasic>1</DankPyon_ComponentBasic>
+          </value>
+        </li>
+
+      </operations>
+    </match>
+  </Operation>
+  
+</Patch>

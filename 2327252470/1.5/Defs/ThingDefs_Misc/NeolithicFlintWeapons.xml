@@ -59,7 +59,7 @@
         <capacities>
           <li>Cut</li>
         </capacities>
-        <power>14</power>
+        <power>12</power>
         <cooldownTime>1.5</cooldownTime>
       </li>
       <li>
@@ -67,7 +67,7 @@
         <capacities>
           <li>Stab</li>
         </capacities>
-        <power>12</power>
+        <power>10</power>
         <cooldownTime>2</cooldownTime>
       </li>
     </tools>
@@ -108,7 +108,7 @@
           <li>Blunt</li>
           <li>Poke</li>
         </capacities>
-        <power>11</power>
+        <power>10</power>
         <cooldownTime>2.5</cooldownTime>
       </li>
       <li>
@@ -116,7 +116,7 @@
         <capacities>
           <li>Stab</li>
         </capacities>
-        <power>21</power>
+        <power>18</power>
         <armorPenetration>0.35</armorPenetration>
         <cooldownTime>2.7</cooldownTime>
       </li>
@@ -165,7 +165,7 @@
           <li>Blunt</li>
           <li>Poke</li>
         </capacities>
-        <power>9</power>
+        <power>8</power>
         <cooldownTime>2.3</cooldownTime>
       </li>
       <li>
@@ -173,7 +173,7 @@
         <capacities>
           <li>Stab</li>
         </capacities>
-        <power>19</power>
+        <power>16</power>
         <armorPenetration>0.20</armorPenetration>
         <cooldownTime>2.4</cooldownTime>
       </li>
@@ -225,7 +225,7 @@
           <li>Blunt</li>
           <li>Poke</li>
         </capacities>
-        <power>11</power>
+        <power>9</power>
         <cooldownTime>2.5</cooldownTime>
       </li>
       <li>
@@ -233,7 +233,7 @@
         <capacities>
           <li>Stab</li>
         </capacities>
-        <power>21</power>
+        <power>18</power>
         <armorPenetration>0.35</armorPenetration>
         <cooldownTime>2.7</cooldownTime>
       </li>
@@ -351,7 +351,7 @@
         <capacities>
           <li>Blunt</li>
         </capacities>
-        <power>13</power>
+        <power>11</power>
         <cooldownTime>2</cooldownTime>
       </li>
       <li>
@@ -359,7 +359,7 @@
         <capacities>
           <li>Stab</li>
         </capacities>
-        <power>14</power>
+        <power>12</power>
         <cooldownTime>2</cooldownTime>
       </li>
     </tools>
@@ -406,7 +406,7 @@
           <li>Blunt</li>
           <li>Poke</li>
         </capacities>
-        <power>9</power>
+        <power>8</power>
         <cooldownTime>2</cooldownTime>
       </li>
       <li>
@@ -415,7 +415,7 @@
           <li>Cut</li>
           <li>Scratch</li>
         </capacities>
-        <power>12</power>
+        <power>11</power>
         <cooldownTime>1.8</cooldownTime>
       </li>
     </tools>
@@ -467,7 +467,7 @@
         <capacities>
           <li>Blunt</li>
         </capacities>
-        <power>12</power>
+        <power>11</power>
         <cooldownTime>2</cooldownTime>
 		<armorPenetration>0.28</armorPenetration> <!-- increased from .18 -->
         <extraMeleeDamages>

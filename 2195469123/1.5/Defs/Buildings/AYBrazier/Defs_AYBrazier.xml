@@ -124,7 +124,7 @@
       <artificialForMeditationPurposes>false</artificialForMeditationPurposes>
     </building>
 		<researchPrerequisites>
-			<li>DankPyon_Charcoal</li>
+			<li>AYCharcoal</li>
 		</researchPrerequisites>	
   </ThingDef>
 </Defs>

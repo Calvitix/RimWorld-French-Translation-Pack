@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <!-- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+    MOがあるときは、
+    風力ポンプの前提研究にMOの風車を追加する
+  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- -->
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Medieval Overhaul</li>
+			<li>Medieval Overhaul (unofficial)</li>
+	  
+    </mods>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName="WindPump"]/researchPrerequisites</xpath>
+      <value>
+        <li>DankPyon_Windmill</li>
+      </value>
+    </match>
+  </Operation>
+  
+</Patch>
