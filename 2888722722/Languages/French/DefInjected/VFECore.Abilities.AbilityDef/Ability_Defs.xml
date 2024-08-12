@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: stonecall -->
+  <DV_Stonecall.label>TODO</DV_Stonecall.label>
+  <!-- EN: With a powerful warcall, raise the mining and construction speeds of the caster.\n<i><color=#66E0E4FF>Det's Xenotypes - Stoneborn</color></i> -->
+  <DV_Stonecall.description>TODO</DV_Stonecall.description>
+  <!-- EN: warcall -->
+  <DV_Stonecall.verbProperties.label>TODO</DV_Stonecall.verbProperties.label>
+  
+</LanguageData>

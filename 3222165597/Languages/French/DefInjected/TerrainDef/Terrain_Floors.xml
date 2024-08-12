@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mud -->
+  <FreshMudGravel.label>TODO</FreshMudGravel.label>
+  <!-- EN: Mud made by flooding the stony soil.\n<i><color=#66E0E4FF>Mud - Slow down opponents</color></i> -->
+  <FreshMudGravel.description>TODO</FreshMudGravel.description>
+  <!-- EN: mud -->
+  <FreshMudGravel.tools.mud.label>TODO</FreshMudGravel.tools.mud.label>
+  
+  <!-- EN: mud -->
+  <FreshMudMossyTerrain.label>TODO</FreshMudMossyTerrain.label>
+  <!-- EN: Mud made by flooding the lichen-covered soil.\n<i><color=#66E0E4FF>Mud - Slow down opponents</color></i> -->
+  <FreshMudMossyTerrain.description>TODO</FreshMudMossyTerrain.description>
+  <!-- EN: mud -->
+  <FreshMudMossyTerrain.tools.mud.label>TODO</FreshMudMossyTerrain.tools.mud.label>
+  
+  <!-- EN: mud -->
+  <FreshMudSoilRich.label>TODO</FreshMudSoilRich.label>
+  <!-- EN: Mud made by flooding the rich soil.\n<i><color=#66E0E4FF>Mud - Slow down opponents</color></i> -->
+  <FreshMudSoilRich.description>TODO</FreshMudSoilRich.description>
+  <!-- EN: mud -->
+  <FreshMudSoilRich.tools.mud.label>TODO</FreshMudSoilRich.tools.mud.label>
+  
+</LanguageData>

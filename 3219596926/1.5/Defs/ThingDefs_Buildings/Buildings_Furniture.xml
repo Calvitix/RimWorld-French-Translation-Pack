@@ -7,7 +7,7 @@
 		<researchPrerequisites>
 			<li>DankPyon_RusticFurniture</li>
 		</researchPrerequisites>
-		<designationCategory>DankPyon_RusticFurniture</designationCategory>
+		<designationCategory>DankPyon_RusticFurnitureCat</designationCategory>
 		<statBases>
 			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">3</StyleDominance>
 		</statBases>
@@ -21,7 +21,7 @@
 		<researchPrerequisites>
 			<li>DankPyon_RusticFurniture</li>
 		</researchPrerequisites>
-		<designationCategory>DankPyon_RusticFurniture</designationCategory>
+		<designationCategory>DankPyon_RusticFurnitureCat</designationCategory>
 		<statBases>
 			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">5</StyleDominance>
 		</statBases>
@@ -31,7 +31,7 @@
 		<researchPrerequisites>
 			<li>DankPyon_RusticFurniture</li>
 		</researchPrerequisites>
-		<designationCategory>DankPyon_RusticFurniture</designationCategory>
+		<designationCategory>DankPyon_RusticFurnitureCat</designationCategory>
 		<statBases>
 			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">5</StyleDominance>
 		</statBases>
@@ -44,7 +44,7 @@
 		<researchPrerequisites>
 			<li>DankPyon_RusticFurniture</li>
 		</researchPrerequisites>
-		<designationCategory>DankPyon_RusticFurniture</designationCategory>
+		<designationCategory>DankPyon_RusticFurnitureCat</designationCategory>
 		<statBases>
 			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">5</StyleDominance>
 		</statBases>
@@ -57,7 +57,7 @@
 		<researchPrerequisites>
 			<li>DankPyon_RusticFurniture</li>
 		</researchPrerequisites>
-		<designationCategory>DankPyon_RusticFurniture</designationCategory>
+		<designationCategory>DankPyon_RusticFurnitureCat</designationCategory>
 		<statBases>
 			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">5</StyleDominance>
 		</statBases>
@@ -68,7 +68,7 @@
 		<researchPrerequisites>
 			<li>DankPyon_RusticFurniture</li>
 		</researchPrerequisites>
-		<designationCategory>DankPyon_RusticFurniture</designationCategory>
+		<designationCategory>DankPyon_RusticFurnitureCat</designationCategory>
 		<statBases>
 			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">5</StyleDominance>
 		</statBases>
@@ -81,7 +81,7 @@
 		<researchPrerequisites>
 			<li>DankPyon_RusticFurniture</li>
 		</researchPrerequisites>
-		<designationCategory>DankPyon_RusticFurniture</designationCategory>
+		<designationCategory>DankPyon_RusticFurnitureCat</designationCategory>
 		<statBases>
 			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">5</StyleDominance>
 		</statBases>
@@ -91,7 +91,7 @@
 		<researchPrerequisites>
 			<li>DankPyon_RusticFurniture</li>
 		</researchPrerequisites>
-		<designationCategory>DankPyon_RusticFurniture</designationCategory>
+		<designationCategory>DankPyon_RusticFurnitureCat</designationCategory>
 		<statBases>
 			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">5</StyleDominance>
 		</statBases>
@@ -102,7 +102,7 @@
 		<researchPrerequisites>
 			<li>DankPyon_RusticFurniture</li>
 		</researchPrerequisites>
-		<designationCategory>DankPyon_RusticFurniture</designationCategory>
+		<designationCategory>DankPyon_RusticFurnitureCat</designationCategory>
 
 		<statBases>
 			<Comfort>0.75</Comfort>
@@ -140,7 +140,7 @@
 		</graphicData>
 		<rotatable>true</rotatable>
 		<uiIconPath>Furniture/RusticTorch_MenuIcon</uiIconPath>
-		<designationCategory>DankPyon_RusticFurniture</designationCategory>
+		<designationCategory>DankPyon_RusticFurnitureCat</designationCategory>
 		<pathCost>14</pathCost>
 		<costList Inherit="false"/>
 		<stuffCategories>
@@ -451,7 +451,7 @@
 				<heatPushMaxTemperature>23</heatPushMaxTemperature>
 			</li>
 		</comps>
-		<designationCategory>DankPyon_RusticFurniture</designationCategory>
+		<designationCategory>DankPyon_RusticFurnitureCat</designationCategory>
 		<researchPrerequisites>
 			<li>DankPyon_RusticFurniture</li>
 		</researchPrerequisites>
@@ -1954,7 +1954,7 @@
 		<researchPrerequisites>
 			<li>DankPyon_CandleMaking</li>
 		</researchPrerequisites>
-		<designationCategory>DankPyon_RusticFurniture</designationCategory>
+		<designationCategory>DankPyon_RusticFurnitureCat</designationCategory>
 		<modExtensions>
 			<li Class="MedievalOverhaul.CannotBePlacedTogetherWithThisModExtension"/>
 		</modExtensions>
@@ -2116,7 +2116,7 @@
 			<Beauty>3</Beauty>
 		</statBases>
 		<size>(1,1)</size>
-		<designationCategory>DankPyon_RusticFurniture</designationCategory>
+		<designationCategory>DankPyon_RusticFurnitureCat</designationCategory>
 		<comps>
 			<li Class="CompProperties_Facility">
 				<statOffsets>
@@ -2146,7 +2146,7 @@
 			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">2.5</StyleDominance>
 			<Beauty>3</Beauty>
 		</statBases>
-		<designationCategory>DankPyon_RusticFurniture</designationCategory>
+		<designationCategory>DankPyon_RusticFurnitureCat</designationCategory>
 		<rotatable>false</rotatable>
 		<stuffCategories Inherit="false"/>
 		<costStuffCount Inherit="false"/>
@@ -2182,7 +2182,7 @@
 			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">10</StyleDominance>
 		</statBases>
 		<size>(1,1)</size>
-		<designationCategory>DankPyon_RusticFurniture</designationCategory>
+		<designationCategory>DankPyon_RusticFurnitureCat</designationCategory>
 		<constructionSkillPrerequisite>6</constructionSkillPrerequisite>
 		<stuffCategories Inherit="false"/>
 		<costStuffCount Inherit="false"/>
@@ -2319,7 +2319,7 @@
 			<li>PlaceWorker_ShowFacilitiesConnections</li>
 		</placeWorkers>
 		<constructionSkillPrerequisite>5</constructionSkillPrerequisite>
-		<designationCategory>DankPyon_RusticFurniture</designationCategory>
+		<designationCategory>DankPyon_RusticFurnitureCat</designationCategory>
 	</ThingDef>
 
 	<ThingDef ParentName="DankPyon_FurnitureWithQualityBase">
@@ -2382,7 +2382,7 @@
 			<li>PlaceWorker_ShowFacilitiesConnections</li>
 		</placeWorkers>
 		<constructionSkillPrerequisite>5</constructionSkillPrerequisite>
-		<designationCategory>DankPyon_RusticFurniture</designationCategory>
+		<designationCategory>DankPyon_RusticFurnitureCat</designationCategory>
 	</ThingDef>
 	
 	<!--============================== Bookshelf ==============================-->
@@ -2440,7 +2440,7 @@
 			<li>PlaceWorker_ShowFacilitiesConnections</li>
 		</placeWorkers>
 		<constructionSkillPrerequisite>5</constructionSkillPrerequisite>
-		<designationCategory>DankPyon_RusticFurniture</designationCategory>
+		<designationCategory>DankPyon_RusticFurnitureCat</designationCategory>
 		<building>
 			<preventDeteriorationOnTop>true</preventDeteriorationOnTop>
 			<ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
@@ -2518,7 +2518,7 @@
 			<li>PlaceWorker_ShowFacilitiesConnections</li>
 		</placeWorkers>
 		<constructionSkillPrerequisite>5</constructionSkillPrerequisite>
-		<designationCategory>DankPyon_RusticFurniture</designationCategory>
+		<designationCategory>DankPyon_RusticFurnitureCat</designationCategory>
 		<building>
 			<preventDeteriorationOnTop>true</preventDeteriorationOnTop>
 			<ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
@@ -2584,7 +2584,7 @@
 		<comps>
 		</comps>
 		<constructionSkillPrerequisite>5</constructionSkillPrerequisite>
-		<designationCategory>DankPyon_RusticFurniture</designationCategory>
+		<designationCategory>DankPyon_RusticFurnitureCat</designationCategory>
 		<building>
 			<preventDeteriorationOnTop>true</preventDeteriorationOnTop>
 			<ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
@@ -2650,7 +2650,7 @@
 		<comps>
 		</comps>
 		<constructionSkillPrerequisite>5</constructionSkillPrerequisite>
-		<designationCategory>DankPyon_RusticFurniture</designationCategory>
+		<designationCategory>DankPyon_RusticFurnitureCat</designationCategory>
 		<building>
 			<preventDeteriorationOnTop>true</preventDeteriorationOnTop>
 			<ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
@@ -3320,7 +3320,7 @@
 			<li>DankPyon_RusticFurniture</li>
 		</researchPrerequisites>
 		<dominantStyleCategory MayRequire="Ludeon.RimWorld.Ideology">DankPyon_OldWorld</dominantStyleCategory>
-		<designationCategory>DankPyon_RusticFurniture</designationCategory>
+		<designationCategory>DankPyon_RusticFurnitureCat</designationCategory>
 
 		<building>
 			<isMealSource>true</isMealSource>
@@ -3383,7 +3383,7 @@
 			</li>
 		</comps>
 		<uiIconScale>0.75</uiIconScale>
-	<designationCategory>DankPyon_RusticFurniture</designationCategory>
+	<designationCategory>DankPyon_RusticFurnitureCat</designationCategory>
 	</ThingDef-->
 
 	

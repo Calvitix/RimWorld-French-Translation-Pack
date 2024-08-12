@@ -6,7 +6,7 @@
 	<ThingDef ParentName="UglyRockBase" Name="DankPyon_ClayBase">
 		<defName>DankPyon_NaturalWall_Clay</defName>
 		<label>argile</label>
-		<description>Une roche sédimentaire composée de particules d'argile comprimées ensemble.</description>
+		<description>Une roche sÃ©dimentaire composÃ©e de particules d'argile comprimÃ©es ensemble.</description>
 		<graphicData>
 			<color>(132, 99, 81)</color>
 		</graphicData>
@@ -22,8 +22,8 @@
 
 	<ThingDef ParentName="DankPyon_ClayBase">
 		<defName>DankPyon_SmoothedClay</defName>
-		<label>argile lissé</label>
-		<description>Roche sédimentaire composée de particules d'argile comprimées ensemble. Les couches d'argile ont été polies pour obtenir une surface plane et lisse.</description>
+		<label>argile lissÃ©</label>
+		<description>Roche sÃ©dimentaire composÃ©e de particules d'argile comprimÃ©es ensemble. Les couches d'argile ont Ã©tÃ© polies pour obtenir une surface plane et lisse.</description>
 		<uiIconPath>Things/Building/Linked/WallSmooth_MenuIcon</uiIconPath>
 		<graphicData>
 			<texPath>Things/Building/Linked/RockSmooth_Atlas</texPath>
@@ -46,7 +46,7 @@
 	<ThingDef ParentName="ChunkRockBase">
 		<defName>DankPyon_ChunkClay</defName>
 		<label>gravats d'argile</label>
-		<description>De gros morceaux d'argile solide. L'argile est une roche relativement tendre qui s'écaille facilement.</description>
+		<description>De gros morceaux d'argile solide. L'argile est une roche relativement tendre qui s'Ã©caille facilement.</description>
 		<graphicData>
 			<color>(132, 99, 81)</color>
 		</graphicData>
@@ -62,7 +62,7 @@
 	<ThingDef ParentName="StoneBlocksBase">
 		<defName>DankPyon_BlocksClay</defName>
 		<label>briques d'argile</label>
-		<description>Blocs d'argile solide. L'argile est une roche relativement tendre qui s'écaille facilement.</description>
+		<description>Blocs d'argile solide. L'argile est une roche relativement tendre qui s'Ã©caille facilement.</description>
 		<graphicData>
 			<color>(132, 99, 81)</color>
 		</graphicData>

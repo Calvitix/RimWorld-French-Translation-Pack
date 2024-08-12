@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mighty liver -->
+  <DV_MightyLiverHediff.label>TODO</DV_MightyLiverHediff.label>
+  <!-- EN: An adaptation of the liver which enhances its filtering capabilities. eliminating the risk of cirrhosis.\n<i><color=#66E0E4FF>Det's Xenotypes - Stoneborn</color></i> -->
+  <DV_MightyLiverHediff.description>TODO</DV_MightyLiverHediff.description>
+  
+  <!-- EN: stonecalled -->
+  <DV_StonecallBuff.label>TODO</DV_StonecallBuff.label>
+  <!-- EN: This person's construction and mining speeds are boosted thanks to having used the stonecall ability.\n<i><color=#66E0E4FF>Det's Xenotypes - Stoneborn</color></i> -->
+  <DV_StonecallBuff.description>TODO</DV_StonecallBuff.description>
+  
+</LanguageData>

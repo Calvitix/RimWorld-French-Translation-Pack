@@ -262,7 +262,9 @@
 		<drawGUIOverlay>true</drawGUIOverlay>
 		<rotatable>false</rotatable>
 		<pathCost>15</pathCost>
-		<tradeTags><li>ResourcesRaw</li></tradeTags>
+    <tradeTags>
+      <li>ResourcesRaw</li>
+    </tradeTags>
 		<comps>
 			<li Class="CompProperties_Forbiddable"/>
 			<li Class="MedievalOverhaul.CompProperties_Meltable">
@@ -308,7 +310,9 @@
 		<drawGUIOverlay>true</drawGUIOverlay>
 		<rotatable>false</rotatable>
 		<pathCost>15</pathCost>
-		<tradeTags><li>ResourcesRaw</li></tradeTags>
+    <tradeTags>
+      <li>ResourcesRaw</li>
+    </tradeTags>
 		<comps>
 			<li Class="CompProperties_Forbiddable"/>
 		</comps>

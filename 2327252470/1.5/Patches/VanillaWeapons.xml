@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+ <!--Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Thinking Spot</li>
+		<li>Early Times</li>
+    </mods>
+    <nomatch Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName = "MeleeWeapon_Club"]/recipeMaker</xpath>
+            <value>
+				<researchPrerequisite Inherit="False"/>
+            </value>  
+    </nomatch>
+  </Operation-->
+
+  <Operation Class="PatchOperationRemove">
+        <xpath>Defs/ThingDef[defName = "MeleeWeapon_Spear"]/weaponTags/li[text()="NeolithicMeleeAdvanced"]</xpath>
+  </Operation>
+  
+  <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName = "MeleeWeapon_Spear"]/techLevel</xpath>
+            <value>
+			  <techLevel>Medieval</techLevel>
+            </value>    
+  </Operation>
+  
+  <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName = "MeleeWeapon_Knife"]/weaponTags</xpath>
+			<value>
+			  <weaponTags>
+				  <li>MedievalMeleeBasic</li>
+				</weaponTags>
+            </value>
+  </Operation>
+  
+  <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName = "MeleeWeapon_Knife"]/techLevel</xpath>
+            <value>
+			  <techLevel>Medieval</techLevel>
+            </value>    
+  </Operation>
+  
+  <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName = "MeleeWeapon_Knife"]/recipeMaker</xpath>
+            <value>
+			  <recipeMaker>
+				  <researchPrerequisite>VBY_PrimitiveSmithing</researchPrerequisite>
+			  </recipeMaker>
+            </value>    
+  </Operation>
+  
+  
+</Patch> 

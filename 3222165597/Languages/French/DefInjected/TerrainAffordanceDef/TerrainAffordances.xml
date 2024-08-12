@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gravel -->
+  <Gravel.label>sol rocailleux</Gravel.label>
+  
+  <!-- EN: lichen-covered soil -->
+  <MossyTerrain.label>TODO</MossyTerrain.label>
+  
+  <!-- EN: aspen moss-covered soil -->
+  <RG_AspenSoil.label>TODO</RG_AspenSoil.label>
+  
+  <!-- EN: moss-covered soil -->
+  <RG_TundraSoil.label>TODO</RG_TundraSoil.label>
+  
+  <!-- EN: soil -->
+  <Soil.label>TODO</Soil.label>
+  
+  <!-- EN: soil rich -->
+  <SoilRich.label>terre fertile</SoilRich.label>
+  
+</LanguageData>

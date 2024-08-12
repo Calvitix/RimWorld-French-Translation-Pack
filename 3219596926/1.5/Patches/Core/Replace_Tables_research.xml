@@ -104,9 +104,9 @@
 		</match>
 	</Operation>
 	<Operation Class="PatchOperationConditional">
-		<xpath>Defs/RecipeDef[defName = "BrickWall" or defName = "Bridge"]/researchPrerequisites</xpath>
+    <xpath>Defs/ThingDef[defName = "RFF_BrickWall"]/researchPrerequisites</xpath>
 		<nomatch Class="PatchOperationAdd">
-			<xpath>Defs/RecipeDef[defName = "BrickWall" or defName = "Bridge"]</xpath>
+      <xpath>Defs/ThingDef[defName = "RFF_BrickWall"]</xpath>
 			<value>
 				<researchPrerequisites>
 					<li>Stonecutting</li>
@@ -114,7 +114,24 @@
 			</value>    
 		</nomatch>
 		<match Class="PatchOperationAdd">
-			<xpath>Defs/RecipeDef[defName = "BrickWall" or defName = "Bridge"]/researchPrerequisites</xpath>
+      <xpath>Defs/ThingDef[defName = "RFF_BrickWall"]/researchPrerequisites</xpath>
+      <value>
+        <li>Stonecutting</li>
+      </value>
+    </match>
+  </Operation>  
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/TerrainDef[defName = "Bridge"]/researchPrerequisites</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/TerrainDef[defName = "Bridge"]</xpath>
+      <value>
+        <researchPrerequisites>
+          <li>Stonecutting</li>
+        </researchPrerequisites>
+      </value>
+    </nomatch>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/TerrainDef[defName = "Bridge"]/researchPrerequisites</xpath>
 			<value>
 				<li>Stonecutting</li>
 			</value>    

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: medically extract organs -->
+  <DoBillsMedicalHumanOperationOrgans.label>Extraire des organes avec des méthodes médicales</DoBillsMedicalHumanOperationOrgans.label>
+  <!-- EN: operating on -->
+  <DoBillsMedicalHumanOperationOrgans.gerund>autopsie</DoBillsMedicalHumanOperationOrgans.gerund>
+  <!-- EN: operate -->
+  <DoBillsMedicalHumanOperationOrgans.verb>autopsier</DoBillsMedicalHumanOperationOrgans.verb>
+  
+</LanguageData>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: medically extract organs -->
+  <AutopsyAdvanced.label>Ablation chirurgicale d'organes</AutopsyAdvanced.label>
+  <!-- EN: Medically extract organs before the body rots. -->
+  <AutopsyAdvanced.description>Ablation chirurgicale d'organes</AutopsyAdvanced.description>
+  <!-- EN: Surgery. -->
+  <AutopsyAdvanced.jobString>pratique une ablation chirurgicale d'organes</AutopsyAdvanced.jobString>
+  
+  <!-- EN: Retrieve bionics from animal -->
+  <AutopsyAnimal.label>Extraire des organes bioniques de carcasses d'animaux</AutopsyAnimal.label>
+  <!-- EN: Medically extract bionics from the animal. -->
+  <AutopsyAnimal.description>Extraire des organes bioniques de carcasses d'animaux。</AutopsyAnimal.description>
+  <!-- EN: Surgery. -->
+  <AutopsyAnimal.jobString>Extrait des organes bioniques de carcasses d'animaux</AutopsyAnimal.jobString>
+  
+  <!-- EN: butcher for organs -->
+  <AutopsyBasic.label>autopsier un corps pour récolter des organes</AutopsyBasic.label>
+  <!-- EN: Butchers a creature to obtain its internal organs while still fresh. -->
+  <AutopsyBasic.description>autopsier un corps pour récolter des organes</AutopsyBasic.description>
+  <!-- EN: Butchering. -->
+  <AutopsyBasic.jobString>autopsie un corps pour récolter des organes</AutopsyBasic.jobString>
+  
+  <!-- EN: medically perserve organs with medicine -->
+  <AutopsyGlitterworld.label>Utilisez l'anatomie high-tech pour prélever des organes</AutopsyGlitterworld.label>
+  <!-- EN: Through pristine quality supplies and training, you can harvest the organs with the success chance as in the core worlds. -->
+  <AutopsyGlitterworld.description>Utilisez l'anatomie high-tech pour prélever des organes</AutopsyGlitterworld.description>
+  <!-- EN: Surgery. -->
+  <AutopsyGlitterworld.jobString>Prélève des organes</AutopsyGlitterworld.jobString>
+  
+  <!-- EN: burn body parts -->
+  <BurnBodyParts.label>brûler des parties de corps</BurnBodyParts.label>
+  <!-- EN: Burn natural body parts to completely destroy them. -->
+  <BurnBodyParts.description>brûler des parties de corps</BurnBodyParts.description>
+  <!-- EN: naturelles -->
+  <BurnBodyParts.ingredients.0.filter.customSummary>TODO</BurnBodyParts.ingredients.0.filter.customSummary>
+  <!-- EN: Burning body parts. -->
+  <BurnBodyParts.jobString>brûle des parties de corps</BurnBodyParts.jobString>
+  
+</LanguageData>

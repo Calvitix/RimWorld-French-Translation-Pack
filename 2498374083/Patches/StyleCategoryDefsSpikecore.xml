@@ -1,0 +1,14 @@
+<Patch>
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/StyleCategoryDef[defName="Spikecore"]/thingDefStyles</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/StyleCategoryDef[defName="Spikecore"]/thingDefStyles</xpath>
+			<value>
+				<li MayRequire="Ludeon.RimWorld.Ideology">
+					<thingDef>Apparel_PlateHelmet</thingDef>
+					<styleDef>Spikecore_PlateHelmet</styleDef>
+				</li>
+			</value>
+		</nomatch>
+	</Operation>
+</Patch>

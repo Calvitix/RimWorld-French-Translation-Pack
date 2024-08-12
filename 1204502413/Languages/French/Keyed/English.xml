@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Basic Autopsy -->
+  <autopsyBasicTab>Autopsie de base</autopsyBasicTab>
+  <!-- EN: Advanced Autopsy -->
+  <autopsyAdvancedTab>Autopsie avancée</autopsyAdvancedTab>
+  <!-- EN: Glitterworld Autopsy -->
+  <autopsyGlitterTab>Autopsie high-tech</autopsyGlitterTab>
+  <!-- EN: Animal Autopsy -->
+  <autopsyAnimalTab>Autopsie animala</autopsyAnimalTab>
+  <!-- EN: Organ harvest chance -->
+  <organChanceTitle>Chance de récolte d'organes</organChanceTitle>
+  <!-- EN: Maximum chance to harvest each individual organ when using specified recipe. Actual value is equal to pawns surgery success chance. -->
+  <organChanceDescription>Chance maximale de récolter chaque organe individuel lors de l'utilisation de la recette spécifiée. La valeur réelle est égale aux chances de succès de la chirurgie des pions.</organChanceDescription>
+  <!-- EN: Bionic harvest chance -->
+  <bionicChanceTitle>Chance de récolte bionique</bionicChanceTitle>
+  <!-- EN: Maximum chance to harvest each individual bionic component when using specified recipe.  Actual value is equal to pawns surgery success chance. -->
+  <bionicChanceDescription>Chance maximale de récolter chaque composant bionique individuel lors de l'utilisation de la recette spécifiée. La valeur réelle est égale aux chances de succès de la chirurgie des pions.</bionicChanceDescription>
+  <!-- EN: Valid corpse age -->
+  <corpseAgeTitle>Temps avant que le cadavre ne soit plus valide</corpseAgeTitle>
+  <!-- EN: Number of hours during which natural organs can be harvested -->
+  <corpseAgeDescription>Nombre d'heures pendant lesquelles les organes naturels peuvent être prélevés</corpseAgeDescription>
+  <!-- EN: Max number of parts -->
+  <numberPartsTitle>Nombre maximum de parties</numberPartsTitle>
+  <!-- EN: Maximum number of organs and bionics that can be harvested from a single corpse -->
+  <numberPartsDescription>Nombre maximum d'organes et de bioniques pouvant être prélevés sur un seul cadavre</numberPartsDescription>
+  <!-- EN: Medical skill scaling -->
+  <skillScalingTitle>Mise à l'échelle des compétences médicales</skillScalingTitle>
+  <!-- EN: Dictates how much does pawn medical surgery success chance scales when performing autopsy -->
+  <skillScalingDescription>Dicte les échelles de chances de succès de la chirurgie médicale des pions lors de l'autopsie</skillScalingDescription>
+  <!-- EN: Decay while frozen -->
+  <frozenDecayTitle>Pourrir pendant qu'il est gelé</frozenDecayTitle>
+  <!-- EN: Sets how fast natural organs decay while body is frozen compared to warm -->
+  <frozenDecayDescription>Définit la vitesse à laquelle les organes naturels se décomposent lorsque le corps est gelé par rapport à la chaleur</frozenDecayDescription>
+
+</LanguageData>

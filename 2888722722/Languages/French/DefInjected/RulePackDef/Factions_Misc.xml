@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name(p=2)->[clan] of [ofThing]</li>
+    <li>r_name(p=2)->The [clan] of [ofThing]</li>
+    <li>r_name->The Mighty [clan]</li>
+    <li>r_name->The Stout [clan]</li>
+    <li>r_name->The Strong [clan]</li>
+    <li>r_name->The Grand [clan]</li>
+    <li>r_name->The Great [clan]</li>
+    <li>r_name->The [mineral] [clan]</li>
+    <li>clan(p=4)->Clan</li>
+    <li>clan->Union</li>
+    <li>clan->Kinship</li>
+    <li>clan->House</li>
+    <li>ofThing->the Rock</li>
+    <li>ofThing->the Stone</li>
+    <li>ofThing->the Gold</li>
+    <li>ofThing->the Silver</li>
+    <li>ofThing->the Jade</li>
+    <li>ofThing->the Steel</li>
+    <li>ofThing->the Glory</li>
+    <li>ofThing->the Beard</li>
+    <li>mineral->rock</li>
+    <li>mineral->golden</li>
+    <li>mineral->silver</li>
+    <li>mineral->steel</li>
+    <li>mineral->jade</li>
+    <li>mineral->stone</li>
+  -->
+  <NamerFactionStonebornClan.rulePack.rulesStrings>TODO</NamerFactionStonebornClan.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Clan des pierres -->
+  <OutlanderRoughStoneborn.label>TODO</OutlanderRoughStoneborn.label>
+  <!-- EN: Une veine singulière d'un clan têtu, qui vit sur cette planète depuis des siècles, en exploitant ses ressources. \n\nBien qu'ils aient quelques préjugés, ils sont prêts à faire du commerce ou du troc avec d'autres factions, mais ils sont également prêts à lancer une bombe et à ronger la chair humaine s'ils sont menacés. \n\nTraitez-les avec respect et ils tendront la main à un allié dans le besoin. Tournez-vous contre eux et la dernière chose que vous entendrez sera peut-être un cri de guerre triomphant.\n<i><color=#66E0E4FF>Det's Xenotypes - Stoneborn</color></i> -->
+  <OutlanderRoughStoneborn.description>TODO</OutlanderRoughStoneborn.description>
+  <!-- EN: underlord -->
+  <OutlanderRoughStoneborn.leaderTitle>TODO</OutlanderRoughStoneborn.leaderTitle>
+  <!-- EN: dwarf -->
+  <OutlanderRoughStoneborn.pawnSingular>TODO</OutlanderRoughStoneborn.pawnSingular>
+  <!-- EN: dwarves -->
+  <OutlanderRoughStoneborn.pawnsPlural>TODO</OutlanderRoughStoneborn.pawnsPlural>
+  
+</LanguageData>

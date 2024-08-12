@@ -10,7 +10,7 @@
 	</DesignatorDropdownGroupDef>
 
 	<DesignationCategoryDef>
-		<defName>DankPyon_RusticFurniture</defName>
+		<defName>DankPyon_RusticFurnitureCat</defName>
 		<label>Mobilier rustique</label>
 		<order>500</order>
 		<specialDesignatorClasses>

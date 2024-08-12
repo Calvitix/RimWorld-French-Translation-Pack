@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Autopsy -->
+  <Autopsy.label>Technique anatomique</Autopsy.label>
+  
+  <!-- EN: Main -->
+  <Main.label>Principal</Main.label>
+  <Main.generalDescription>Déverrouillez de nouvelles technologies en effectuant des recherches à un poste de recherche. Vous pouvez avoir qu'un seul projet à la fois.</Main.generalDescription>
+  <Main.generalTitle>Projets de recherche principaux</Main.generalTitle>
+  
+</LanguageData>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Human corpses without bionics -->
+  <DoesntHaveBionics.label>Autoriser les cadavres humains sans implants</DoesntHaveBionics.label>
+  <!-- EN: Allow corpses only without implants. -->
+  <DoesntHaveBionics.description>Les cadavres humains sans parties artificielles du corps sont autorisés.</DoesntHaveBionics.description>
+  
+  <!-- EN: Human corpses with bionics -->
+  <HasBionics.label>Cadavres humains avec implants autorisés</HasBionics.label>
+  <!-- EN: Allow corpses only with implants. -->
+  <HasBionics.description>Les cadavres humains avec des parties artificielles du corps sont autorisés.</HasBionics.description>
+  
+  <!-- EN: Impossible to harvest -->
+  <ImpossibleToHarvest.label>Autoriser les cadavres dont les organes ne peuvent pas être prélevés</ImpossibleToHarvest.label>
+  <!-- EN: Allow corpses with no harvestable organs or implants. -->
+  <ImpossibleToHarvest.description>Les cadavres sans organes amovibles ni implants sont autorisés.</ImpossibleToHarvest.description>
+  
+  <!-- EN: Impossible to harvest(Animal) -->
+  <ImpossibleToHarvestAnimal.label>Les carcasses d'animaux sans implants sont autorisées</ImpossibleToHarvestAnimal.label>
+  <!-- EN: Allow animal corpses with no harvestable implants. -->
+  <ImpossibleToHarvestAnimal.description>Les carcasses d'animaux sans parties artificielles amovibles du corps sont autorisées.</ImpossibleToHarvestAnimal.description>
+  
+  <!-- EN: Possible to harvest -->
+  <PossibleToHarvest.label>Cadavres qui permettent la récolte d'organes</PossibleToHarvest.label>
+  <!-- EN: Allow corpses with remaining harvestable organs or implants. -->
+  <PossibleToHarvest.description>Les cadavres avec organes amovibles ou implants sont autorisés.</PossibleToHarvest.description>
+  
+  <!-- EN: Possible to harvest(Animal) -->
+  <PossibleToHarvestAnimal.label>Les carcasses d'animaux avec implants sont autorisées</PossibleToHarvestAnimal.label>
+  <!-- EN: Allow animal corpses with remaining harvestable implants. -->
+  <PossibleToHarvestAnimal.description>Les carcasses d'animaux avec des parties artificielles amovibles du corps sont autorisées.</PossibleToHarvestAnimal.description>
+  
+</LanguageData>
