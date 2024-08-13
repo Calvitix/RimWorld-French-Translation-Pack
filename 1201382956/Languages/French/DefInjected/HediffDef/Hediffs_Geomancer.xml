@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Stoneskin -->
+  <TM_StoneskinHD.label>peau de pierre</TM_StoneskinHD.label>
+  <!-- EN: Each charge nullifies the damage from a single attack. -->
+  <TM_StoneskinHD.description>Chaque charge annule les dégâts d'une attaque.</TM_StoneskinHD.description>
+  
+</LanguageData>

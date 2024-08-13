@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Magical Augmentation -->
+  <AMP.label>augmentation magique</AMP.label>
+  <!-- EN: {0} mysteriously departed. -->
+  <AMP.deathMessage>{0} a mystérieusement disparu.</AMP.deathMessage>
+  
+  <!-- EN: Firebolt -->
+  <Firebolt.label>éclair de feu</Firebolt.label>
+  <!-- EN: {0} has been consumned by fire. -->
+  <Firebolt.deathMessage>{0} a été consumé par le feu.</Firebolt.deathMessage>
+  
+  <!-- EN: frostray -->
+  <FrostRay.label>rayon de givre</FrostRay.label>
+  <!-- EN: {0} has frozen to death. -->
+  <FrostRay.deathMessage>{0} est mort de froid.</FrostRay.deathMessage>
+  
+  <!-- EN: Iceshard -->
+  <Iceshard.label>éclat de glace</Iceshard.label>
+  <!-- EN: {0} has been shredded by shards of ice. -->
+  <Iceshard.deathMessage>{0} a été déchiqueté par des éclats de glace.</Iceshard.deathMessage>
+  
+  <!-- EN: Magical Augmentation -->
+  <RayofHope.label>augmentation magique</RayofHope.label>
+  <!-- EN: {0} mysteriously departed. -->
+  <RayofHope.deathMessage>{0} a mystérieusement disparu.</RayofHope.deathMessage>
+  
+  <!-- EN: Magical Augmentation -->
+  <Shadow.label>augmentation magique</Shadow.label>
+  <!-- EN: {0} mysteriously departed. -->
+  <Shadow.deathMessage>{0} a mystérieusement disparu.</Shadow.deathMessage>
+  
+  <!-- EN: snowball -->
+  <Snowball.label>orbe gelé</Snowball.label>
+  <!-- EN: {0} has frozen to death. -->
+  <Snowball.deathMessage>{0} est mort de froid.</Snowball.deathMessage>
+  
+  <!-- EN: Magical Augmentation -->
+  <SoothingBreeze.label>augmentation magique</SoothingBreeze.label>
+  <!-- EN: {0} mysteriously departed. -->
+  <SoothingBreeze.deathMessage>{0} a mystérieusement disparu.</SoothingBreeze.deathMessage>
+  
+  <!-- EN: Arcane -->
+  <TM_Arcane.label>arcane</TM_Arcane.label>
+  <!-- EN: {0} was destroyed by arcane power. -->
+  <TM_Arcane.deathMessage>{0} a été tué par un pouvoir des arcanes.</TM_Arcane.deathMessage>
+  
+  <!-- EN: arcane spectre -->
+  <TM_ArcaneSpectre.label>spectre magique</TM_ArcaneSpectre.label>
+  <!-- EN: {0} has been destroyed by a malicious spirit -->
+  <TM_ArcaneSpectre.deathMessage>{0} a été tué par un esprit malveillant.</TM_ArcaneSpectre.deathMessage>
+  
+  <!-- EN: arrow storm -->
+  <TM_Arrow.label>tempête de flèches</TM_Arrow.label>
+  <!-- EN: {0} has been shot to death. -->
+  <TM_Arrow.deathMessage>{0} a été tué par des flèches.</TM_Arrow.deathMessage>
+  
+  <!-- EN: Blazing Power -->
+  <TM_BlazingPower.label>puissance flamboyante</TM_BlazingPower.label>
+  <!-- EN: {0} was destroyed by blazing power. -->
+  <TM_BlazingPower.deathMessage>{0} a été détruit par la puissance flamboyante.</TM_BlazingPower.deathMessage>
+  
+  <!-- EN: Ice Magic -->
+  <TM_Blizzard_Large.label>magie de glace</TM_Blizzard_Large.label>
+  <!-- EN: {0} froze to death in a blizzard. -->
+  <TM_Blizzard_Large.deathMessage>{0} a été tué par la magie du froid.</TM_Blizzard_Large.deathMessage>
+  
+  <!-- EN: Ice Magic -->
+  <TM_Blizzard_Small.label>magie de glace</TM_Blizzard_Small.label>
+  <!-- EN: {0} froze to death in a blizzard. -->
+  <TM_Blizzard_Small.deathMessage>{0} a été tué par la magie du froid.</TM_Blizzard_Small.deathMessage>
+  
+  <!-- EN: blood burn -->
+  <TM_BloodBurn.label>brûlure de sang</TM_BloodBurn.label>
+  <!-- EN: {0} has been burned to death. -->
+  <TM_BloodBurn.deathMessage>{0} a été brûlé à mort.</TM_BloodBurn.deathMessage>
+  
+  <!-- EN: bloody cut -->
+  <TM_BloodyCut.label>coupure sanglante</TM_BloodyCut.label>
+  <!-- EN: {0} has perished from drawing too much blood -->
+  <TM_BloodyCut.deathMessage>{0} a péri en perdant trop de sang.</TM_BloodyCut.deathMessage>
+  
+  <!-- EN: breaching charge -->
+  <TM_BreachingCharge.label>charge explosive</TM_BreachingCharge.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <TM_BreachingCharge.deathMessage>{0} a été tué dans une explosion.</TM_BreachingCharge.deathMessage>
+  
+  <!-- EN: Burning light -->
+  <TM_BurningLight.label>lumière ardente</TM_BurningLight.label>
+  <!-- EN: {0} was vanquished in burning light. -->
+  <TM_BurningLight.deathMessage>{0} a été vaincu dans la lumière ardente.</TM_BurningLight.deathMessage>
+  
+  <!-- EN: Ch'i burn -->
+  <TM_ChiBurn.label>chi</TM_ChiBurn.label>
+  <!-- EN: {0} was overwhelmed by spirit energy. -->
+  <TM_ChiBurn.deathMessage>{0} a été écrasé par l'énergie de l'esprit.</TM_ChiBurn.deathMessage>
+  
+  <!-- EN: strike -->
+  <TM_ChiFist.label>frapper</TM_ChiFist.label>
+  <!-- EN: {0} was taken down by martial arts. -->
+  <TM_ChiFist.deathMessage>{0} a été éliminé par les arts martiaux.</TM_ChiFist.deathMessage>
+  
+  <!-- EN: Cleave -->
+  <TM_Cleave.label>enchaînement</TM_Cleave.label>
+  <!-- EN: {0} was cut in two by a massive blow. -->
+  <TM_Cleave.deathMessage>{0} a été coupé en deux par un coup massif.</TM_Cleave.deathMessage>
+  
+  <!-- EN: corpse explosion -->
+  <TM_CorpseExplosion.label>explosion de cadavre</TM_CorpseExplosion.label>
+  <!-- EN: {0} was destroyed by an exploding corpse. -->
+  <TM_CorpseExplosion.deathMessage>{0} a été tué par une explosion de cadavre.</TM_CorpseExplosion.deathMessage>
+  
+  <!-- EN: CQC -->
+  <TM_CQC.label>combat rapproché</TM_CQC.label>
+  <!-- EN: {0} has been defeated in close quarters combat. -->
+  <TM_CQC.deathMessage>{0} a été vaincu en combat rapproché.</TM_CQC.deathMessage>
+  
+  <!-- EN: Death -->
+  <TM_Death.label>mort</TM_Death.label>
+  <!-- EN: {0} was taken by death. -->
+  <TM_Death.deathMessage>{0} a été pris par la mort.</TM_Death.deathMessage>
+  
+  <!-- EN: death bolt -->
+  <TM_DeathBolt.label>trait de mort</TM_DeathBolt.label>
+  <!-- EN: {0} was consumed by agony. -->
+  <TM_DeathBolt.deathMessage>{0} a été dévoré par l'agonie.</TM_DeathBolt.deathMessage>
+  
+  <!-- EN: Decay -->
+  <TM_DecayDD.label>décomposition</TM_DecayDD.label>
+  <!-- EN: {0}'s body decayed. -->
+  <TM_DecayDD.deathMessage>{0} s'est décomposé.</TM_DecayDD.deathMessage>
+  
+  <!-- EN: disabling blow -->
+  <TM_DisablingBlow.label>coup handicapant</TM_DisablingBlow.label>
+  <!-- EN: {0} died from blunt force trauma... -->
+  <TM_DisablingBlow.deathMessage>{0} est mort d'un traumatisme contondant...</TM_DisablingBlow.deathMessage>
+  
+  <!-- EN: Disabling Shot -->
+  <TM_DisablingShot.label>tir incapacitant</TM_DisablingShot.label>
+  <!-- EN: {0} died from a disabling shot... -->
+  <TM_DisablingShot.deathMessage>{0} est mort d'un coup de feu invalidant...</TM_DisablingShot.deathMessage>
+  
+  <!-- EN: tear -->
+  <TM_Dismember.label>déchirure</TM_Dismember.label>
+  <!-- EN: {0} has been torn apart. -->
+  <TM_Dismember.deathMessage>{0} a été déchiqueté.</TM_Dismember.deathMessage>
+  
+  <!-- EN: distortion -->
+  <TM_DistortionDD.label>distorsion</TM_DistortionDD.label>
+  <!-- EN: {0} was destroyed. -->
+  <TM_DistortionDD.deathMessage>{0} a été détruit.</TM_DistortionDD.deathMessage>
+  
+  <!-- EN: dragon strike -->
+  <TM_DragonStrike.label>frappe du dragon</TM_DragonStrike.label>
+  <!-- EN: {0} has been slain by martial arts: dragon strike -->
+  <TM_DragonStrike.deathMessage>{0} a été tué par les arts martiaux : frappe du dragon.</TM_DragonStrike.deathMessage>
+  
+  <!-- EN: electrical burn -->
+  <TM_ElectricalBurn.label>brûlure électrique</TM_ElectricalBurn.label>
+  <!-- EN: {0} has been electrocuted to death. -->
+  <TM_ElectricalBurn.deathMessage>{0} a été électrocuté.</TM_ElectricalBurn.deathMessage>
+  
+  <!-- EN: fire enchantment -->
+  <TM_Enchanted_Fire.label>enchantement du feu</TM_Enchanted_Fire.label>
+  <!-- EN: {0} has been burned to death. -->
+  <TM_Enchanted_Fire.deathMessage>{0} a été brûlé à mort.</TM_Enchanted_Fire.deathMessage>
+  
+  <!-- EN: ice enchantment -->
+  <TM_Enchanted_Ice.label>enchantement de glace</TM_Enchanted_Ice.label>
+  <!-- EN: {0} has frozen to death. -->
+  <TM_Enchanted_Ice.deathMessage>{0} est mort de froid.</TM_Enchanted_Ice.deathMessage>
+  
+  <!-- EN: Fire Magic -->
+  <TM_Fireball_I.label>magie du feu</TM_Fireball_I.label>
+  <!-- EN: {0} was destroyed by elemental fire. -->
+  <TM_Fireball_I.deathMessage>{0} a été tué par la magie du feu.</TM_Fireball_I.deathMessage>
+  
+  <!-- EN: Fire Magic -->
+  <TM_Fireball_II.label>magie du feu</TM_Fireball_II.label>
+  <!-- EN: {0} was destroyed by elemental fire. -->
+  <TM_Fireball_II.deathMessage>{0} a été tué par la magie du feu.</TM_Fireball_II.deathMessage>
+  
+  <!-- EN: Fire Magic -->
+  <TM_Fireball_III.label>magie du feu</TM_Fireball_III.label>
+  <!-- EN: {0} was destroyed by elemental fire. -->
+  <TM_Fireball_III.deathMessage>{0} a été tué par la magie du feu.</TM_Fireball_III.deathMessage>
+  
+  <!-- EN: Fire Magic -->
+  <TM_Firestorm_Large.label>magie du feu</TM_Firestorm_Large.label>
+  <!-- EN: {0} was destroyed by elemental fire. -->
+  <TM_Firestorm_Large.deathMessage>{0} a été tué par la magie du feu.</TM_Firestorm_Large.deathMessage>
+  
+  <!-- EN: Fire Magic -->
+  <TM_Firestorm_Small.label>magie du feu</TM_Firestorm_Small.label>
+  <!-- EN: {0} was destroyed by elemental fire. -->
+  <TM_Firestorm_Small.deathMessage>{0} a été tué par la magie du feu.</TM_Firestorm_Small.deathMessage>
+  
+  <!-- EN: Fire Magic -->
+  <TM_Firestorm_Tiny.label>magie du feu</TM_Firestorm_Tiny.label>
+  <!-- EN: {0} was destroyed by elemental fire. -->
+  <TM_Firestorm_Tiny.deathMessage>{0} a été tué par la magie du feu.</TM_Firestorm_Tiny.deathMessage>
+  
+  <!-- EN: {0} has been killed. -->
+  <TM_FreezingWindsDD.deathMessage>{0} a été tué.</TM_FreezingWindsDD.deathMessage>
+  
+  <!-- EN: Grappling Hook -->
+  <TM_GrapplingHook.label>grappin</TM_GrapplingHook.label>
+  <!-- EN: {0} was torn apart. -->
+  <TM_GrapplingHook.deathMessage>{0} a été déchiqueté.</TM_GrapplingHook.deathMessage>
+  
+  <!-- EN: Hail -->
+  <TM_HailDD.label>grêle</TM_HailDD.label>
+  <!-- EN: {0} bludgeoned to death from hail. -->
+  <TM_HailDD.deathMessage>{0} frappé à mort par la grêle.</TM_HailDD.deathMessage>
+  
+  <!-- EN: Headshot -->
+  <TM_Headshot.label>en pleine tête</TM_Headshot.label>
+  <!-- EN: {0} was taken out with a headshot. -->
+  <TM_Headshot.deathMessage>{0} a été tué d'un coup en pleine tête.</TM_Headshot.deathMessage>
+  
+  <!-- EN: Heal (I) -->
+  <TM_Heal_I.label>soin (I)</TM_Heal_I.label>
+  <!-- EN: {0} has been killed. -->
+  <TM_Heal_I.deathMessage>{0} a été tué.</TM_Heal_I.deathMessage>
+  
+  <!-- EN: Holy -->
+  <TM_Holy.label>sacré</TM_Holy.label>
+  <!-- EN: {0} was destroyed by holy power. -->
+  <TM_Holy.deathMessage>{0} a été tué par un pouvoir de sacré.</TM_Holy.deathMessage>
+  
+  <!-- EN: Lightning Magic -->
+  <TM_Lightning.label>magie de foudre</TM_Lightning.label>
+  <!-- EN: {0} was destroyed by elemental lightning. -->
+  <TM_Lightning.deathMessage>{0} a été tué par la magie de la foudre.</TM_Lightning.deathMessage>
+  
+  <!-- EN: Lightning Magic -->
+  <TM_LightningCloud.label>magie de foudre</TM_LightningCloud.label>
+  <!-- EN: {0} was destroyed by elemental lightning. -->
+  <TM_LightningCloud.deathMessage>{0} a été tué par la magie de la foudre.</TM_LightningCloud.deathMessage>
+  
+  <!-- EN: Magic Missile -->
+  <TM_MagicMissile.label>missile magique</TM_MagicMissile.label>
+  <!-- EN: {0} was destroyed by arcane magic. -->
+  <TM_MagicMissile.deathMessage>{0} a été tué par la magie des arcanes.</TM_MagicMissile.deathMessage>
+  
+  <!-- EN: magical energy -->
+  <TM_MagicMissile_Weak.label>énergie magique</TM_MagicMissile_Weak.label>
+  <!-- EN: {0} was destroyed by arcane magic. -->
+  <TM_MagicMissile_Weak.deathMessage>{0} a été tué par la magie des arcanes.</TM_MagicMissile_Weak.deathMessage>
+  
+  <!-- EN: Mana mine -->
+  <TM_ManaMine.label>mine de mana</TM_ManaMine.label>
+  <!-- EN: {0} was destroyed by arcane magic. -->
+  <TM_ManaMine.deathMessage>{0} a été tué par la magie des arcanes.</TM_ManaMine.deathMessage>
+  
+  <!-- EN: overwhelming light -->
+  <TM_Overwhelm.label>lumière écrasante</TM_Overwhelm.label>
+  <!-- EN: {0} was destroyed by holy power. -->
+  <TM_Overwhelm.deathMessage>{0} a été tué par un pouvoir de sacré.</TM_Overwhelm.deathMessage>
+  
+  <!-- EN: Pain -->
+  <TM_PainDD.label>douleur</TM_PainDD.label>
+  <!-- EN: {0} died from overwhelming pain. -->
+  <TM_PainDD.deathMessage>{0} a été tué par une douleur accablante.</TM_PainDD.deathMessage>
+  
+  <!-- EN: removed -->
+  <TM_PartRemoval.label>supprimé</TM_PartRemoval.label>
+  <!-- EN: {0} has been removed. -->
+  <TM_PartRemoval.deathMessage>{0} a été supprimé.</TM_PartRemoval.deathMessage>
+  
+  <!-- EN: bomb -->
+  <TM_PersonnelBombDD.label>bombe</TM_PersonnelBombDD.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <TM_PersonnelBombDD.deathMessage>{0} a été tué dans une explosion.</TM_PersonnelBombDD.deathMessage>
+  
+  <!-- EN: phase strike -->
+  <TM_PhaseStrike.label>frappe phasique</TM_PhaseStrike.label>
+  <!-- EN: {0} was cut to ribbons. -->
+  <TM_PhaseStrike.deathMessage>{0} a été coupé en morceaux.</TM_PhaseStrike.deathMessage>
+  
+  <!-- EN: Poison -->
+  <TM_Poison.label>poison</TM_Poison.label>
+  <!-- EN: {0} succumbed to poison. -->
+  <TM_Poison.deathMessage>{0} a succombé au poison.</TM_Poison.deathMessage>
+  
+  <!-- EN: Psionic -->
+  <TM_PsionicInjury.label>psionique</TM_PsionicInjury.label>
+  <!-- EN: {0} was destroyed by psionic power. -->
+  <TM_PsionicInjury.deathMessage>{0} a été détruit par un pouvoir psionique.</TM_PsionicInjury.deathMessage>
+  
+  <!-- EN: Shadow -->
+  <TM_Shadow.label>ombre</TM_Shadow.label>
+  <!-- EN: {0} was consumed by shadow. -->
+  <TM_Shadow.deathMessage>{0} a été consumé par l'ombre.</TM_Shadow.deathMessage>
+  
+  <!-- EN: ranger extra damage -->
+  <TM_Shrapnel.label>rôdeur dégâts supplémentaires</TM_Shrapnel.label>
+  <!-- EN: {0} has been shot to death. -->
+  <TM_Shrapnel.deathMessage>{0} a été tué par une flèche.</TM_Shrapnel.deathMessage>
+  
+  <!-- EN: Spirit -->
+  <TM_Spirit.label>esprit</TM_Spirit.label>
+  <!-- EN: {0} was drained of spirit. -->
+  <TM_Spirit.deathMessage>{0} a été drainé de son esprit.</TM_Spirit.deathMessage>
+  
+  <!-- EN: Symbiosis -->
+  <TM_SymbiosisDD.label>symbiose</TM_SymbiosisDD.label>
+  <!-- EN: {0} died with their symbiosis host. -->
+  <TM_SymbiosisDD.deathMessage>{0} est mort avec son hôte symbiotique.</TM_SymbiosisDD.deathMessage>
+  
+  <!-- EN: tiger strike -->
+  <TM_TigerStrike.label>frappe du tigre</TM_TigerStrike.label>
+  <!-- EN: {0} has been slain by martial arts: tiger strike. -->
+  <TM_TigerStrike.deathMessage>{0} a été tué par les arts martiaux : frappe du tigre.</TM_TigerStrike.deathMessage>
+  
+  <!-- EN: Torment -->
+  <TM_Torment.label>tourment</TM_Torment.label>
+  <!-- EN: {0} was consumed by pain. -->
+  <TM_Torment.deathMessage>{0} a été consumé par la douleur.</TM_Torment.deathMessage>
+  
+  <!-- EN: toxin -->
+  <TM_Toxin.label>toxine</TM_Toxin.label>
+  <!-- EN: {0} has been killed by toxin. -->
+  <TM_Toxin.deathMessage>{0} a été tué par des toxines.</TM_Toxin.deathMessage>
+  
+  <!-- EN: Disabling Shot -->
+  <TM_Tranquilizer.label>tir incapacitant</TM_Tranquilizer.label>
+  <!-- EN: {0} died from a disabling shot... -->
+  <TM_Tranquilizer.deathMessage>{0} est mort d'un coup de feu invalidant...</TM_Tranquilizer.deathMessage>
+  
+  <!-- EN: Whirlwind -->
+  <TM_Whirlwind.label>tourbillon</TM_Whirlwind.label>
+  <!-- EN: {0} was cut down. -->
+  <TM_Whirlwind.deathMessage>{0} a été découpé.</TM_Whirlwind.deathMessage>
+  
+</LanguageData>

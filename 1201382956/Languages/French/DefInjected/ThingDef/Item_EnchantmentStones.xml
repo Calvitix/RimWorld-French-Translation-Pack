@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: unrefined magicyte -->
+  <RawMagicyte.label>magicite</RawMagicyte.label>
+  <!-- EN: A stone that seems to wrap itself in a dull, glassy surface, as if a mysterious power has cloaked itself in the center of the stone. Seemingly composed of the same stone it was cut from, this fairly unremarkable stone shimmers slightly, even in the dark, and it emits an energy signature that mages can detect when touching the stone.\n	\nRaw Magicyte can be refined to make a variety of enchanting gems at the gemcutting table. -->
+  <RawMagicyte.description>Une pierre qui semble s'envelopper d'une surface terne et vitreuse, comme si un pouvoir mystérieux s'était dissimulé en son centre. Apparemment composée de la même pierre que celle dans laquelle elle a été taillée, cette pierre assez banale brille légèrement, même dans l'obscurité et elle émet une signature énergétique que les mages peuvent détecter en la touchant.\n\nLa magicite peut être raffinée pour fabriquer une variété de gemmes enchantées à la table d'orfèvrerie.</RawMagicyte.description>
+  
+  <!-- EN: Arcane Gem of Force -->
+  <TM_EStone_arcaneDmg.label>gemme magique de force</TM_EStone_arcaneDmg.label>
+  <!-- EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this enchantment augments the force of an attack, increasing the damage output by 8%. -->
+  <TM_EStone_arcaneDmg.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme augmente la force, ce qui augmente les dégâts de 8%.</TM_EStone_arcaneDmg.description>
+  
+  <!-- EN: Major Arcane Gem of Force -->
+  <TM_EStone_arcaneDmg_major.label>gemme magique majeure de force</TM_EStone_arcaneDmg_major.label>
+  <!-- EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this enchantment augments the force of an attack, increasing the damage output by 12%. -->
+  <TM_EStone_arcaneDmg_major.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme augmente la force, ce qui augmente les dégâts de 12%.</TM_EStone_arcaneDmg_major.description>
+  
+  <!-- EN: Minor Arcane Gem of Force -->
+  <TM_EStone_arcaneDmg_minor.label>gemme magique mineure de force</TM_EStone_arcaneDmg_minor.label>
+  <!-- EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this enchantment augments the force of an attack, increasing the damage output by 4%. -->
+  <TM_EStone_arcaneDmg_minor.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme augmente la force, ce qui augmente les dégâts de 4%.</TM_EStone_arcaneDmg_minor.description>
+  
+  <!-- EN: Arcane Gem of Resistance -->
+  <TM_EStone_arcaneRes.label>gemme magique de résistance</TM_EStone_arcaneRes.label>
+  <!-- EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem creates a barrier that repels active arcane energy, reducing damage taken from arcane sources by 20%. -->
+  <TM_EStone_arcaneRes.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme crée une barrière qui repousse l'énergie magique active, réduisant les dégâts magiques de 20%.</TM_EStone_arcaneRes.description>
+  
+  <!-- EN: Major Arcane Gem of Resistance -->
+  <TM_EStone_arcaneRes_major.label>gemme magique majeure de résistance</TM_EStone_arcaneRes_major.label>
+  <!-- EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem creates a barrier that repels active arcane energy, reducing damage taken from arcane sources by 30%. -->
+  <TM_EStone_arcaneRes_major.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme crée une barrière qui repousse l'énergie magique active, réduisant les dégâts magiques de 30%.</TM_EStone_arcaneRes_major.description>
+  
+  <!-- EN: Minor Arcane Gem of Resistance -->
+  <TM_EStone_arcaneRes_minor.label>gemme magique mineure de résistance</TM_EStone_arcaneRes_minor.label>
+  <!-- EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem creates a barrier that repels active arcane energy, reducing damage taken from arcane sources by 10%. -->
+  <TM_EStone_arcaneRes_minor.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme crée une barrière qui repousse l'énergie magique active, réduisant les dégâts magiques de 10%.</TM_EStone_arcaneRes_minor.description>
+  
+  <!-- EN: Arcane Gem of Acceleration -->
+  <TM_EStone_coolDown.label>gemme magique d'accélération</TM_EStone_coolDown.label>
+  <!-- EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem decreases the cooldown timer of any ability by 5%. -->
+  <TM_EStone_coolDown.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme diminue le temps de recharge de n'importe quelle capacité de 5%.</TM_EStone_coolDown.description>
+  
+  <!-- EN: Major Arcane Gem of Acceleration -->
+  <TM_EStone_coolDown_major.label>gemme magique majeure d'accélération</TM_EStone_coolDown_major.label>
+  <!-- EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem decreases the cooldown timer of any ability by 7%. -->
+  <TM_EStone_coolDown_major.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme diminue le temps de recharge de n'importe quelle capacité de 7%.</TM_EStone_coolDown_major.description>
+  
+  <!-- EN: Minor Arcane Gem of Acceleration -->
+  <TM_EStone_coolDown_minor.label>gemme magique mineure d'accélération</TM_EStone_coolDown_minor.label>
+  <!-- EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem decreases the cooldown timer of any ability by 3%. -->
+  <TM_EStone_coolDown_minor.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme diminue le temps de recharge de n'importe quelle capacité de 3%.</TM_EStone_coolDown_minor.description>
+  
+  <!-- EN: Arcane Gem of Holding -->
+  <TM_EStone_maxMP.label>gemme magique de réserve</TM_EStone_maxMP.label>
+  <!-- EN: A magical stone that can be used by a mage to enchant an item with magical energy. Gazing into the stone gives the observer an eerie sense of vertigo, as if looking into a bottomless well. This gem can be used to imbue an item with magical potential, increasing the maximum energy of any mage or fighter wearing the item by 10%. -->
+  <TM_EStone_maxMP.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Regarder dans la pierre donne à l'observateur une étrange sensation de vertige, comme s'il regardait dans un puits sans fond. Lorsqu'elle est imprégnée dans un objet, cette gemme augmente l'énergie maximale du mage ou du combattant qui porte l'objet de 10%.</TM_EStone_maxMP.description>
+  
+  <!-- EN: Major Arcane Gem of Holding -->
+  <TM_EStone_maxMP_major.label>gemme magique majeure de réserve</TM_EStone_maxMP_major.label>
+  <!-- EN: A magical stone that can be used by a mage to enchant an item with magical energy. Gazing into the stone gives the observer an eerie sense of vertigo, as if looking into a bottomless well. This gem can be used to imbue an item with magical potential, increasing the maximum energy of any mage or fighter wearing the item by 15%. -->
+  <TM_EStone_maxMP_major.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Regarder dans la pierre donne à l'observateur une étrange sensation de vertige, comme s'il regardait dans un puits sans fond. Lorsqu'elle est imprégnée dans un objet, cette gemme augmente l'énergie maximale du mage ou du combattant qui porte l'objet de 15%.</TM_EStone_maxMP_major.description>
+  
+  <!-- EN: Minor Arcane Gem of Holding -->
+  <TM_EStone_maxMP_minor.label>gemme magique mineure de réserve</TM_EStone_maxMP_minor.label>
+  <!-- EN: A magical stone that can be used by a mage to enchant an item with magical energy. Gazing into the stone gives the observer an eerie sense of vertigo, as if looking into a bottomless well. This gem can be used to imbue an item with magical potential, increasing the maximum energy of any mage or fighter wearing the item by 5%. -->
+  <TM_EStone_maxMP_minor.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Regarder dans la pierre donne à l'observateur une étrange sensation de vertige, comme s'il regardait dans un puits sans fond. Lorsqu'elle est imprégnée dans un objet, cette gemme augmente l'énergie maximale du mage ou du combattant qui porte l'objet de 5%.</TM_EStone_maxMP_minor.description>
+  
+  <!-- EN: Arcane Gem of Conservation -->
+  <TM_EStone_mpCost.label>gemme magique de préservation</TM_EStone_mpCost.label>
+  <!-- EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem decreases the energy cost of any spell by 5%. -->
+  <TM_EStone_mpCost.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme diminue le coût en énergie de tous les sorts de 5%.</TM_EStone_mpCost.description>
+  
+  <!-- EN: Major Arcane Gem of Conservation -->
+  <TM_EStone_mpCost_major.label>gemme magique majeure de préservation</TM_EStone_mpCost_major.label>
+  <!-- EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem decreases the energy cost of any spell by 7%. -->
+  <TM_EStone_mpCost_major.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme diminue le coût en énergie de tous les sorts de 7%.</TM_EStone_mpCost_major.description>
+  
+  <!-- EN: Minor Arcane Gem of Conservation -->
+  <TM_EStone_mpCost_minor.label>gemme magique mineure de préservation</TM_EStone_mpCost_minor.label>
+  <!-- EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem decreases the energy cost of any spell by 3%. -->
+  <TM_EStone_mpCost_minor.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme diminue le coût en énergie de tous les sorts de 3%.</TM_EStone_mpCost_minor.description>
+  
+  <!-- EN: Arcane Gem of Regeneration -->
+  <TM_EStone_mpRegenRate.label>gemme magique de régénération</TM_EStone_mpRegenRate.label>
+  <!-- EN: A magical stone that can be used by a mage to enchant an item with magical energy. This gem can be used to imbue an item, increasing the energy regeneration rate of any mage or fighter wearing the item by 10%. -->
+  <TM_EStone_mpRegenRate.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme augmente le taux de régénération d'énergie du mage ou du combattant portant l'objet de 10%.</TM_EStone_mpRegenRate.description>
+  
+  <!-- EN: Major Arcane Gem of Regeneration -->
+  <TM_EStone_mpRegenRate_major.label>gemme magique majeure de régénération</TM_EStone_mpRegenRate_major.label>
+  <!-- EN: A magical stone that can be used by a mage to enchant an item with magical energy. This gem can be used to imbue an item, increasing the energy regeneration rate of any mage or fighter wearing the item by 15%. -->
+  <TM_EStone_mpRegenRate_major.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme augmente le taux de régénération d'énergie du mage ou du combattant portant l'objet de 15%.</TM_EStone_mpRegenRate_major.description>
+  
+  <!-- EN: Minor Arcane Gem of Regeneration -->
+  <TM_EStone_mpRegenRate_minor.label>gemme magique mineure de régénération</TM_EStone_mpRegenRate_minor.label>
+  <!-- EN: A magical stone that can be used by a mage to enchant an item with magical energy. This gem can be used to imbue an item, increasing the energy regeneration rate of any mage or fighter wearing the item by 5%. -->
+  <TM_EStone_mpRegenRate_minor.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme augmente le taux de régénération d'énergie du mage ou du combattant portant l'objet de 5%.</TM_EStone_mpRegenRate_minor.description>
+  
+  <!-- EN: Arcane Gem of Wonder -->
+  <TM_EStone_wonder.label>gemme magique de merveille</TM_EStone_wonder.label>
+  <!-- EN: A magical stone that can be used by a mage to enchant an item with magical energy. This gem hums with intense power. This gem can be used to imbue an item with magical potential, granting moderate bonuses to all enchantment categories. -->
+  <TM_EStone_wonder.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Cette gemme vibre d'une puissance intense. Lorsqu'elle est imprégnée dans un objet, cette gemme accordant des bonus dans toutes les catégories d'enchantement.</TM_EStone_wonder.description>
+  
+  <!-- EN: Major Arcane Gem of Wonder -->
+  <TM_EStone_wonder_major.label>gemme magique majeure de merveille</TM_EStone_wonder_major.label>
+  <!-- EN: A magical stone that can be used by a mage to enchant an item with magical energy. This gem hums with intense power. This gem can be used to imbue an item with magical potential, granting major bonuses to all enchantment categories. -->
+  <TM_EStone_wonder_major.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Cette gemme vibre d'une puissance intense. Lorsqu'elle est imprégnée dans un objet, cette gemme accordant des bonus majeurs dans toutes les catégories d'enchantement.</TM_EStone_wonder_major.description>
+  
+  <!-- EN: Minor Arcane Gem of Wonder -->
+  <TM_EStone_wonder_minor.label>gemme magique mineure de merveille</TM_EStone_wonder_minor.label>
+  <!-- EN: A magical stone that can be used by a mage to enchant an item with magical energy. This gem hums with intense power. This gem can be used to imbue an item with magical potential, granting minor bonuses to all enchantment categories. -->
+  <TM_EStone_wonder_minor.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Cette gemme vibre d'une puissance intense. Lorsqu'elle est imprégnée dans un objet, cette gemme accordant des bonus mineurs dans toutes les catégories d'enchantement.</TM_EStone_wonder_minor.description>
+  
+  <!-- EN: Arcane Gem of Learning -->
+  <TM_EStone_xpGain.label>gemme magique d'apprentissage</TM_EStone_xpGain.label>
+  <!-- EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem assists the wearer by storing a residual mimicry of the ability, allowing the wielder additional introspection and increasing XP gained by 10%. -->
+  <TM_EStone_xpGain.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme aide le porteur en stockant une réplique résiduelle de la compétence, permettant au porteur une introspection supplémentaire et augmentant l'XP gagnée de 10%.</TM_EStone_xpGain.description>
+  
+  <!-- EN: Major Arcane Gem of Learning -->
+  <TM_EStone_xpGain_major.label>gemme magique majeure d'apprentissage</TM_EStone_xpGain_major.label>
+  <!-- EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem assists the wearer by storing a residual mimicry of the ability, allowing the wielder additional introspection and increasing XP gained by 15%. -->
+  <TM_EStone_xpGain_major.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme aide le porteur en stockant une réplique résiduelle de la compétence, permettant au porteur une introspection supplémentaire et augmentant l'XP gagnée de 15%.</TM_EStone_xpGain_major.description>
+  
+  <!-- EN: Minor Arcane Gem of Learning -->
+  <TM_EStone_xpGain_minor.label>gemme magique mineure d'apprentissage</TM_EStone_xpGain_minor.label>
+  <!-- EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem assists the wearer by storing a residual mimicry of the ability, allowing the wielder additional introspection and increasing XP gained by 5%. -->
+  <TM_EStone_xpGain_minor.description>Une pierre magique qui peut être utilisée par un mage pour enchanter un objet avec de l'énergie magique. Lorsqu'elle est imprégnée dans un objet, cette gemme aide le porteur en stockant une réplique résiduelle de la compétence, permettant au porteur une introspection supplémentaire et augmentant l'XP gagnée de 5%.</TM_EStone_xpGain_minor.description>
+  
+</LanguageData>

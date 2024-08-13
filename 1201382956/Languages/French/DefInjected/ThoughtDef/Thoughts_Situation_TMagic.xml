@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: charming -->
+  <Thought_EnchantedAura.stages.charming.label>charmant</Thought_EnchantedAura.stages.charming.label>
+  <!-- EN: Has a charming presence. -->
+  <Thought_EnchantedAura.stages.charming.description>A une présence charmante.</Thought_EnchantedAura.stages.charming.description>
+  <!-- EN: enchanting -->
+  <Thought_EnchantedAura.stages.enchanting.label>enchantant</Thought_EnchantedAura.stages.enchanting.label>
+  <!-- EN: Has an enchanting aura. -->
+  <Thought_EnchantedAura.stages.enchanting.description>A une aura enchanteresse.</Thought_EnchantedAura.stages.enchanting.description>
+  <!-- EN: powerful allure -->
+  <Thought_EnchantedAura.stages.powerful_allure.label>attrait puissant</Thought_EnchantedAura.stages.powerful_allure.label>
+  <!-- EN: Has a powerful allure. -->
+  <Thought_EnchantedAura.stages.powerful_allure.description>A un attrait puissant.</Thought_EnchantedAura.stages.powerful_allure.description>
+  <!-- EN: positively glamorous -->
+  <Thought_EnchantedAura.stages.positively_glamorous.label>positivement glamour</Thought_EnchantedAura.stages.positively_glamorous.label>
+  <!-- EN: Is positively glamorous. -->
+  <Thought_EnchantedAura.stages.positively_glamorous.description>Est positivement glamour.</Thought_EnchantedAura.stages.positively_glamorous.description>
+  
+  <!-- EN: third arm -->
+  <Thought_EnchantedBody.stages.third_arm.label>troisième bras</Thought_EnchantedBody.stages.third_arm.label>
+  <!-- EN: Has a third arm... it's uncomfortable to look at and unnatural. -->
+  <Thought_EnchantedBody.stages.third_arm.description>A un troisième bras... c'est inconfortable à regarder et pas naturel.</Thought_EnchantedBody.stages.third_arm.description>
+  <!-- EN: four arms -->
+  <Thought_EnchantedBody.stages.four_arms.label>quatre bras</Thought_EnchantedBody.stages.four_arms.label>
+  <!-- EN: I don't care if those extra arms are magical, it's freakish. -->
+  <Thought_EnchantedBody.stages.four_arms.description>Je me fiche de savoir si ces bras supplémentaires sont magiques, c'est effrayant.</Thought_EnchantedBody.stages.four_arms.description>
+  <!-- EN: strange growth -->
+  <Thought_EnchantedBody.stages.strange_growth.label>croissance étrange</Thought_EnchantedBody.stages.strange_growth.label>
+  <!-- EN: It goes beyond reason to simply start sprouting extra body parts; it seems like that third eye is always staring at me. -->
+  <Thought_EnchantedBody.stages.strange_growth.description>Il n'est pas raisonnable de se contenter de faire pousser des parties supplémentaires du corps ; on dirait que ce troisième œil me regarde en permanence.</Thought_EnchantedBody.stages.strange_growth.description>
+  <!-- EN: mutant -->
+  <Thought_EnchantedBody.stages.mutant.label>mutant</Thought_EnchantedBody.stages.mutant.label>
+  <!-- EN: What's next, another head? This has gone too far. -->
+  <Thought_EnchantedBody.stages.mutant.description>C'est quoi la suite, une autre tête ? Cela va trop loin.</Thought_EnchantedBody.stages.mutant.description>
+  <!-- EN: admiring transhumanist -->
+  <Thought_EnchantedBody.stages.admiring_transhumanist.label>transhumaniste admiratif</Thought_EnchantedBody.stages.admiring_transhumanist.label>
+  <!-- EN: To be able to morph yourself into whatever you wish - what an amazing ability! -->
+  <Thought_EnchantedBody.stages.admiring_transhumanist.description>Pouvoir se transformer en ce que l'on souhaite - quelle capacité étonnante !</Thought_EnchantedBody.stages.admiring_transhumanist.description>
+  <!-- EN: hateful body purist -->
+  <Thought_EnchantedBody.stages.hateful_body_purist.label>puriste du corps haineux</Thought_EnchantedBody.stages.hateful_body_purist.label>
+  <!-- EN: What a freak, I think -it- is gross. -->
+  <Thought_EnchantedBody.stages.hateful_body_purist.description>Quel monstre, je trouve ça dégoûtant.</Thought_EnchantedBody.stages.hateful_body_purist.description>
+  
+  <!-- EN: observed undead -->
+  <Thought_ObservedUndead.stages.observed_undead.label>mort-vivant aperçu</Thought_ObservedUndead.stages.observed_undead.label>
+  <!-- EN: I hate being next to the undead. I can't help but think... will that happen to me when I die? -->
+  <Thought_ObservedUndead.stages.observed_undead.description>Je déteste être à côté des morts-vivants. Je ne peux pas m'empêcher de penser... est-ce que ça m'arrivera quand je mourrai ?</Thought_ObservedUndead.stages.observed_undead.description>
+  
+  <!-- EN: demonhide {0} -->
+  <Thought_WearingDemonhide.stages.demonhide.label>peau de démon {0}</Thought_WearingDemonhide.stages.demonhide.label>
+  <!-- EN: Wearing apparel made with demonhide makes me feel more confident. -->
+  <Thought_WearingDemonhide.stages.demonhide.description>Porter des vêtements en peau de démon me rend plus confiant.</Thought_WearingDemonhide.stages.demonhide.description>
+  <!-- EN: demonhide {0} (+1) -->
+  <Thought_WearingDemonhide.stages.demonhide_1.label>peau de démon {0} (+1)</Thought_WearingDemonhide.stages.demonhide_1.label>
+  <!-- EN: Demonhide clothing is a symbol of my elite status. -->
+  <Thought_WearingDemonhide.stages.demonhide_1.description>Les vêtements en peau de démon sont un symbole de mon statut d'élite.</Thought_WearingDemonhide.stages.demonhide_1.description>
+  <!-- EN: demonhide {0} (+2) -->
+  <Thought_WearingDemonhide.stages.demonhide_2.label>peau de démon {0} (+2)</Thought_WearingDemonhide.stages.demonhide_2.label>
+  <!-- EN: I'm clothed in the hide of a demon; my status and safety is guaranteed. -->
+  <Thought_WearingDemonhide.stages.demonhide_2.description>Je suis vêtu de la peau d'un démon ; mon statut et ma sécurité sont garantis.</Thought_WearingDemonhide.stages.demonhide_2.description>
+  
+  <!-- EN: Envious of succubus -->
+  <TM_FemaleOpinionOfSuccubus.stages.Envious_of_succubus.label>jaloux d'une succube</TM_FemaleOpinionOfSuccubus.stages.Envious_of_succubus.label>
+  <!-- EN: Everyone pays attention to her because of her looks, doesn't anything else matter? -->
+  <TM_FemaleOpinionOfSuccubus.stages.Envious_of_succubus.description>Tout le monde fait attention à elle à cause de son physique, le reste ne compte pas ?</TM_FemaleOpinionOfSuccubus.stages.Envious_of_succubus.description>
+  <!-- EN: Unnatural beauty -->
+  <TM_FemaleOpinionOfSuccubus.stages.Unnatural_beauty.label>beauté contre-nature</TM_FemaleOpinionOfSuccubus.stages.Unnatural_beauty.label>
+  <!-- EN: She has an air of attraction that I'll never have... and I hate her for it. -->
+  <TM_FemaleOpinionOfSuccubus.stages.Unnatural_beauty.description>Elle a un air de séduction que je n'aurai jamais... et je la déteste pour ça.</TM_FemaleOpinionOfSuccubus.stages.Unnatural_beauty.description>
+  
+  <!-- EN: Self-righteous mage -->
+  <TM_HolierThanThou.stages.Selfrighteous_mage.label>mage bien-pensant</TM_HolierThanThou.stages.Selfrighteous_mage.label>
+  
+  <!-- EN: lich -->
+  <TM_Lich.stages.lich.label>liche</TM_Lich.stages.lich.label>
+  
+  <!-- EN: Illusion of beauty -->
+  <TM_MaleOpinionOfSuccubus.stages.Illusion_of_beauty.label>illusion de beauté</TM_MaleOpinionOfSuccubus.stages.Illusion_of_beauty.label>
+  <!-- EN: Experience in the arts of combat reveal the lie in her form and movement, but sometimes it's easier to just accept the deception -->
+  <TM_MaleOpinionOfSuccubus.stages.Illusion_of_beauty.description>L'expérience dans les arts du combat révèle le mensonge dans sa forme et ses mouvements, mais parfois il est plus facile d'accepter la tromperie.</TM_MaleOpinionOfSuccubus.stages.Illusion_of_beauty.description>
+  <!-- EN: Devilishly attractive -->
+  <TM_MaleOpinionOfSuccubus.stages.Devilishly_attractive.label>diablement séduisante</TM_MaleOpinionOfSuccubus.stages.Devilishly_attractive.label>
+  <!-- EN: I can tell she uses demonic powers to make herself more attractive, but that knowledge does little to diminish the effect -->
+  <TM_MaleOpinionOfSuccubus.stages.Devilishly_attractive.description>Je sais qu'elle utilise des pouvoirs démoniaques pour se rendre plus séduisante, mais cela ne diminue pas l'effet.</TM_MaleOpinionOfSuccubus.stages.Devilishly_attractive.description>
+  <!-- EN: Alluring -->
+  <TM_MaleOpinionOfSuccubus.stages.Alluring.label>attirante</TM_MaleOpinionOfSuccubus.stages.Alluring.label>
+  <!-- EN: There's something about her that is undeniably and overwhelmingly attractive -->
+  <TM_MaleOpinionOfSuccubus.stages.Alluring.description>Il y a quelque chose en elle qui est indéniablement et extrêmement attirant.</TM_MaleOpinionOfSuccubus.stages.Alluring.description>
+  
+  <!-- EN: necromancer -->
+  <TM_Necromancer.stages.necromancer.label>nécromancien</TM_Necromancer.stages.necromancer.label>
+  
+  <!-- EN: boundless arrogance -->
+  <TM_OpinionOfBoundless.stages.boundless_arrogance.label>une arrogance sans limite</TM_OpinionOfBoundless.stages.boundless_arrogance.label>
+  
+  <!-- EN: undead -->
+  <TM_Undead.stages.undead.label>mort-vivant</TM_Undead.stages.undead.label>
+  
+</LanguageData>

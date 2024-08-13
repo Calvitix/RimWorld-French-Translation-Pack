@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Enchantment: arcane augmentation -->
+  <TM_ArcaneAugmentationMR.label>Enchantement : Amélioration magiques</TM_ArcaneAugmentationMR.label>
+  <!-- EN: Applies numerous arcane buffs to colonists.\nCasters: 3\nTarget max: 10\nMana: 40 ea.\nFail chance: 15%\nFail backlash: 6 -->
+  <TM_ArcaneAugmentationMR.description>Appliquer de nombreuses améliorations magiques à vos colons.\nLanceur de sorts : 3\nTarget max: 10\nMana: 40 ea.\nChance d'échec : 15%\nContrecoup d'échec : 6</TM_ArcaneAugmentationMR.description>
+  <!-- EN: applying arcane augmentations -->
+  <TM_ArcaneAugmentationMR.jobString>applique des améliorations magiques.</TM_ArcaneAugmentationMR.jobString>
+  
+  <!-- EN: Enchantment: arcane inspiration -->
+  <TM_ArcaneInspirationMR.label>Enchantement : Inspiration magique</TM_ArcaneInspirationMR.label>
+  <!-- EN: searches arcane revelations for inspiration\nCasters: 1\nMana: 50 ea.\nFail chance: 15%\nFail backlash: 6 -->
+  <TM_ArcaneInspirationMR.description>Chercher l'inspiration dans les révélations magiques.\nLanceur de sorts : 1\nMana: 50 ea.\nChance d'échec : 15%\nContrecoup d'échec : 6</TM_ArcaneInspirationMR.description>
+  <!-- EN: delving into the arcane -->
+  <TM_ArcaneInspirationMR.jobString>se plonge dans la magie.</TM_ArcaneInspirationMR.jobString>
+  
+  <!-- EN: Enchantment: predator's rage -->
+  <TM_BeastialRageMR.label>Enchantement : Rage du prédateur</TM_BeastialRageMR.label>
+  <!-- EN: Enrage predator beasts on the map and nudge their rage towards your enemies.\nCasters: 2\nMana: 40 ea.\nFail chance: 35%\nFail backlash: 10 -->
+  <TM_BeastialRageMR.description>Faire enrager les prédateurs sur la carte et déclencher leur rage sur vos ennemis.\nLanceur de sorts : 2\nMana: 40 ea.\nChance d'échec : 35%\nContrecoup d'échec : 10</TM_BeastialRageMR.description>
+  <!-- EN: enraging predators -->
+  <TM_BeastialRageMR.jobString>fait enrager les prédateurs.</TM_BeastialRageMR.jobString>
+  
+  <!-- EN: Enchantment: blight wildlife -->
+  <TM_BlightWildlifeMR.label>Enchantement : Fléau de la faune</TM_BlightWildlifeMR.label>
+  <!-- EN: Blights all wildlife with the plague.\nCasters: 3\nMana: 40 ea.\nFail chance: 15%\nFail backlash: 6 -->
+  <TM_BlightWildlifeMR.description>La peste s'abat sur tous les animaux sauvages.\nLanceur de sorts : 3\nMana: 40 ea.\nChance d'échec : 15%\nContrecoup d'échec : 6</TM_BlightWildlifeMR.description>
+  <!-- EN: hexing wildlife -->
+  <TM_BlightWildlifeMR.jobString>lance le maléfice sur la faune.</TM_BlightWildlifeMR.jobString>
+  
+  <!-- EN: Alteration: call of the wild -->
+  <TM_CallOfTheWildMR.label>Altération : Appel de la nature</TM_CallOfTheWildMR.label>
+  <!-- EN: Draws the attention of wild animals\nCasters: 2\nMana: 60 ea.\nFail chance: 20%\nFail backlash: 12 -->
+  <TM_CallOfTheWildMR.description>Attirer l'attention des animaux sauvages.\nLanceur de sorts : 2\nMana: 60 ea.\nChance d'échec : 20%\nContrecoup d'échec : 12</TM_CallOfTheWildMR.description>
+  <!-- EN: altering event chance -->
+  <TM_CallOfTheWildMR.jobString>modifie le hasard des événements.</TM_CallOfTheWildMR.jobString>
+  
+  <!-- EN: Alteration: cold snap -->
+  <TM_ColdSnapMR.label>Altération : Vague de froid</TM_ColdSnapMR.label>
+  <!-- EN: A cold snap envelops the map\nCasters: 3\nMana: 50 ea.\nFail chance: 5%\nFail backlash: 0 -->
+  <TM_ColdSnapMR.description>Une vague de froid enveloppe la carte.\nLanceur de sorts : 3\nMana: 50 ea.\nChance d'échec : 5%\nContrecoup d'échec : 0</TM_ColdSnapMR.description>
+  <!-- EN: summoning cold wave -->
+  <TM_ColdSnapMR.jobString>invoque la vague de froid.</TM_ColdSnapMR.jobString>
+  
+  <!-- EN: Conjuration: giant skeleton -->
+  <TM_CreateGiantSkeletonMR.label>Conjuration : Squelette géant</TM_CreateGiantSkeletonMR.label>
+  <!-- EN: Creates a giant, animated skeleton from a pile of corpses; the skeleton will defend the colony for 5 days or until destroyed.\nCasters: 4\nMana: 50 ea.\nFail chance: 25%\nFail backlash: 12 -->
+  <TM_CreateGiantSkeletonMR.description>Créer un squelette géant animé à partir d'un tas de cadavres ; le squelette défendra la colonie pendant 5 jours ou jusqu'à sa destruction.\nLanceur de sorts : 4\nMana: 50 ea.\nChance d'échec : 25%\nContrecoup d'échec : 12</TM_CreateGiantSkeletonMR.description>
+  <!-- EN: animating skeleton -->
+  <TM_CreateGiantSkeletonMR.jobString>anime le squelette.</TM_CreateGiantSkeletonMR.jobString>
+  
+  <!-- EN: Conjuration: skeleton -->
+  <TM_CreateSkeletonMR.label>Conjuration : Squelette</TM_CreateSkeletonMR.label>
+  <!-- EN: Creates an animated skeleton from a single corpses; the skeleton will defend the colony for 5 days or until destroyed.\nCasters: 1\nMana: 50 ea.\nFail chance: 10%\nFail backlash: 8 -->
+  <TM_CreateSkeletonMR.description>Créer un squelette animé à partir d'un seul cadavre ; le squelette défendra la colonie pendant 5 jours ou jusqu'à sa destruction.\nLanceur de sorts : 1\nMana: 50 ea.\nChance d'échec : 10%\nContrecoup d'échec : 8</TM_CreateSkeletonMR.description>
+  <!-- EN: animating skeleton -->
+  <TM_CreateSkeletonMR.jobString>anime le squelette.</TM_CreateSkeletonMR.jobString>
+  
+  <!-- EN: Enchantment: divine blessing -->
+  <TM_DivineBlessingMR.label>Enchantement : Bénédiction divine</TM_DivineBlessingMR.label>
+  <!-- EN: Beseech a higher power to show mercy to ailing pawns\nCasters: 3\nMana: 60 ea.\nFail chance: 40%\nFail backlash: 0 -->
+  <TM_DivineBlessingMR.description>Implorer une puissance supérieure pour qu'elle fasse preuve de pitié envers les colons en difficulté.\nLanceur de sorts : 3\nMana: 60 ea.\nChance d'échec : 40%\nContrecoup d'échec : 0</TM_DivineBlessingMR.description>
+  <!-- EN: seeking divine blessing -->
+  <TM_DivineBlessingMR.jobString>sollicite la bénédiction divine.</TM_DivineBlessingMR.jobString>
+  
+  <!-- EN: Alteration: healing rain -->
+  <TM_HealingRainMR.label>Altération : Pluie guérisseuse</TM_HealingRainMR.label>
+  <!-- EN: The map is washed in healing rain\nCasters: 1\nMana: 60 ea.\nFail chance: 20%\nFail backlash: 10 -->
+  <TM_HealingRainMR.description>La carte est baignée par une pluie guérisseuse.\nLanceur de sorts : 1\nMana: 60 ea.\nChance d'échec : 20%\nContrecoup d'échec : 10</TM_HealingRainMR.description>
+  <!-- EN: forming healing rain -->
+  <TM_HealingRainMR.jobString>invoque une pluie guérisseuse.</TM_HealingRainMR.jobString>
+  
+  <!-- EN: Alteration: heatwave -->
+  <TM_HeatWaveMR.label>Altération : Vague de chaleur</TM_HeatWaveMR.label>
+  <!-- EN: A heat wave envelops the map\nCasters: 3\nMana: 50 ea.\nFail chance: 5%\nFail backlash: 0 -->
+  <TM_HeatWaveMR.description>Une vague de chaleur enveloppe la carte.\nLanceur de sorts : 3\nMana: 50 ea.\nChance d'échec : 5%\nContrecoup d'échec : 0</TM_HeatWaveMR.description>
+  <!-- EN: summoning heat wave -->
+  <TM_HeatWaveMR.jobString>invoque la vague de chaleur.</TM_HeatWaveMR.jobString>
+  
+  <!-- EN: Conjuration: attract meteors -->
+  <TM_MeteorFallMR.label>Conjuration : Attirer des météores</TM_MeteorFallMR.label>
+  <!-- EN: Causes multiple meteors to impact nearby\nCasters: 3\nMana: 60 ea.\nFail chance: 15%\nFail backlash: 0 -->
+  <TM_MeteorFallMR.description>Provoquer l'impact de plusieurs météores à proximité.\nLanceur de sorts : 3\nMana: 60 ea.\nChance d'échec : 15%\nContrecoup d'échec : 0</TM_MeteorFallMR.description>
+  <!-- EN: summoning meteors -->
+  <TM_MeteorFallMR.jobString>invoque des météores.</TM_MeteorFallMR.jobString>
+  
+  <!-- EN: Alteration: name of the wind -->
+  <TM_NameWindMR.label>Altération : Rafale de vent</TM_NameWindMR.label>
+  <!-- EN: causes high wind speeds across the map for several days\nCasters: 1\nMana: 40 ea.\nFail chance: 10%\nFail backlash: 6 -->
+  <TM_NameWindMR.description>Provoque des rafales de vent élevées sur la carte pendant plusieurs jours.\nLanceur de sorts : 1\nMana: 40 ea.\nChance d'échec : 10%\nContrecoup d'échec : 6</TM_NameWindMR.description>
+  <!-- EN: summoning wind -->
+  <TM_NameWindMR.jobString>invoque le vent.</TM_NameWindMR.jobString>
+  
+  <!-- EN: Alteration: nature's gift -->
+  <TM_NaturesGiftMR.label>Altération : Don de la nature</TM_NaturesGiftMR.label>
+  <!-- EN: Causes random events to occur\nCasters: 3\nMana: 40 ea.\nFail chance: 25%\nFail backlash: 12 -->
+  <TM_NaturesGiftMR.description>Provoquer des événements aléatoires.\nLanceur de sorts : 3\nMana: 40 ea.\nChance d'échec : 25%\nContrecoup d'échec : 12</TM_NaturesGiftMR.description>
+  <!-- EN: altering event chance -->
+  <TM_NaturesGiftMR.jobString>modifie le hasard des événements.</TM_NaturesGiftMR.jobString>
+  
+  <!-- EN: Alteration: psychic soothe -->
+  <TM_PsychicSootheMR.label>Altération : Apaisement psychique</TM_PsychicSootheMR.label>
+  <!-- EN: Create soothing psychic emanations\nCasters: 3\nMana: 50 ea.\nFail chance: 25%\nFail backlash: 10 -->
+  <TM_PsychicSootheMR.description>Créer des ondes psychiques apaisantes.\nLanceur de sorts : 3\nMana: 50 ea.\nChance d'échec : 25%\nContrecoup d'échec : 10</TM_PsychicSootheMR.description>
+  <!-- EN: creating psychic soothe -->
+  <TM_PsychicSootheMR.jobString>crée un apaisement psychique.</TM_PsychicSootheMR.jobString>
+  
+  <!-- EN: Conjuration: mystic weapon -->
+  <TM_RuunbledMR.label>Conjuration : Arme magique</TM_RuunbledMR.label>
+  <!-- EN: Summons a mystic weapon\nCasters: 3\nMana: 60 ea.\nFail chance: 50%\nFail backlash: 10 -->
+  <TM_RuunbledMR.description>Invoquer une arme magique.\nLanceur de sorts : 3\nMana: 60 ea.\nChance d'échec : 50%\nContrecoup d'échec : 10</TM_RuunbledMR.description>
+  <!-- EN: summoning a mystic weapon -->
+  <TM_RuunbledMR.jobString>invoque l'arme magique.</TM_RuunbledMR.jobString>
+  
+  <!-- EN: Conjuration: summon demon *challenge* -->
+  <TM_SummonDemonMR.label>Conjuration : Invoquer un démon *Défi*</TM_SummonDemonMR.label>
+  <!-- EN: Combat a demonic enemy\nCasters: 6\nMana: 40 ea.\nFail chance: 20%\nFail backlash: 20 -->
+  <TM_SummonDemonMR.description>Combattre un ennemi démoniaque.\nLanceur de sorts : 6\nMana: 40 ea.\nChance d'échec : 20%\nContrecoup d'échec : 20</TM_SummonDemonMR.description>
+  <!-- EN: summoning demon -->
+  <TM_SummonDemonMR.jobString>invoque le démon.</TM_SummonDemonMR.jobString>
+  
+  <!-- EN: Conjuration: possessor spirit -->
+  <TM_SummonSpiritMR.label>Conjuration : Esprit possédé</TM_SummonSpiritMR.label>
+  <!-- EN: Summons a wandering spirit.\nCasters: 3\nMana: 40 ea.\nFail chance: 25%\nFail backlash: 15 -->
+  <TM_SummonSpiritMR.description>Invoque un esprit errant.\nLanceur de sorts : 3\nMana: 40 ea.\nChance d'échec : 25%\nContrecoup d'échec : 15</TM_SummonSpiritMR.description>
+  <!-- EN: summoning spirit -->
+  <TM_SummonSpiritMR.jobString>invoque l'esprit</TM_SummonSpiritMR.jobString>
+  
+  <!-- EN: Conjuration: summon wandering lich *challenge* -->
+  <TM_SummonWanderingLichMR.label>Conjuration : Invoquer une liche errante *Défi*</TM_SummonWanderingLichMR.label>
+  <!-- EN: Draw the attention of a wandering lich\nCasters: 6\nMana: 40 ea.\nFail chance: 20%\nFail backlash: 20 -->
+  <TM_SummonWanderingLichMR.description>Attirer l'attention d'une liche errante.\nLanceur de sorts : 6\nMana: 40 ea.\nChance d'échec : 20%\nContrecoup d'échec : 20</TM_SummonWanderingLichMR.description>
+  <!-- EN: summoning lich -->
+  <TM_SummonWanderingLichMR.jobString>invoque la liche.</TM_SummonWanderingLichMR.jobString>
+  
+  <!-- EN: Alteration: terrestrial beacon -->
+  <TM_TerrestrialBeaconMR.label>Altération : Balise terrestre</TM_TerrestrialBeaconMR.label>
+  <!-- EN: Alters the flight path of falling objects to land nearby\nCasters: 2\nMana: 60 ea.\nFail chance: 25%\nFail backlash: 12 -->
+  <TM_TerrestrialBeaconMR.description>Modifier la trajectoire de vol des objets pour qu'ils tombent à proximité.\nLanceur de sorts : 2\nMana: 60 ea.\nChance d'échec : 25%\nContrecoup d'échec : 12</TM_TerrestrialBeaconMR.description>
+  <!-- EN: altering event chance -->
+  <TM_TerrestrialBeaconMR.jobString>modifie le hasard des événements.</TM_TerrestrialBeaconMR.jobString>
+  
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: elemental firebolt -->
+  <Projectile_Elemental_Firebolt.label>éclair de feu</Projectile_Elemental_Firebolt.label>
+  
+  <!-- EN: elemental icebolt -->
+  <Projectile_Elemental_Icebolt.label>éclair de glace</Projectile_Elemental_Icebolt.label>
+  
+</LanguageData>

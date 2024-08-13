@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Manage prisoners, which includes escort, watching, releasing, and execution of prisoners. -->
+  <PrisonLabor_Jailor.description>Gérer les prisonniers, ce qui comprend l'escorte, la surveillance, la libération et l'exécution des prisonniers.</PrisonLabor_Jailor.description>
+  <!-- EN: watching prisoners -->
+  <PrisonLabor_Jailor.gerundLabel>Surveiller les prisonniers</PrisonLabor_Jailor.gerundLabel>
+  <!-- EN: Jailor -->
+  <PrisonLabor_Jailor.labelShort> Surveillant</PrisonLabor_Jailor.labelShort>
+  <!-- EN: Jailor -->
+  <PrisonLabor_Jailor.pawnLabel>Surveillant pénitentiaire</PrisonLabor_Jailor.pawnLabel>
+  <!-- EN: Supervise -->
+  <PrisonLabor_Jailor.verb>Surveiller</PrisonLabor_Jailor.verb>
+  
+</LanguageData>

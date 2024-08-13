@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Ballistic plate -->
+  <TM_Mecha-Golem_BallisticPlateHD.label>plaque balistique</TM_Mecha-Golem_BallisticPlateHD.label>
+  <!-- EN: Improves armor, but reduces movement speed. -->
+  <TM_Mecha-Golem_BallisticPlateHD.description>Améliore l'armure, mais réduit la vitesse de déplacement.</TM_Mecha-Golem_BallisticPlateHD.description>
+  
+  <!-- EN: Earth core -->
+  <TM_Mecha-Golem_EarthCoreHD.label>noyau de terre</TM_Mecha-Golem_EarthCoreHD.label>
+  <!-- EN: Earth core processor upgrades increase armor and protection. -->
+  <TM_Mecha-Golem_EarthCoreHD.description>Les améliorations du noyau de terre augmentent l'armure et la protection.</TM_Mecha-Golem_EarthCoreHD.description>
+  <!-- EN: Mk.1 -->
+  <TM_Mecha-Golem_EarthCoreHD.stages.Mk1.label>Mk.1</TM_Mecha-Golem_EarthCoreHD.stages.Mk1.label>
+  <!-- EN: Mk.2 -->
+  <TM_Mecha-Golem_EarthCoreHD.stages.Mk2.label>Mk.2</TM_Mecha-Golem_EarthCoreHD.stages.Mk2.label>
+  <!-- EN: Mk.3 -->
+  <TM_Mecha-Golem_EarthCoreHD.stages.Mk3.label>Mk.3</TM_Mecha-Golem_EarthCoreHD.stages.Mk3.label>
+  
+  <!-- EN: Flame core -->
+  <TM_Mecha-Golem_FlameCoreHD.label>noyau de feu</TM_Mecha-Golem_FlameCoreHD.label>
+  <!-- EN: Flame core upgrades increase movement speed and decreases cooldown time for attacks and abilities. -->
+  <TM_Mecha-Golem_FlameCoreHD.description>Les améliorations du noyau de feu augmentent la vitesse de déplacement et réduisent le temps de recharge des attaques et des capacités.</TM_Mecha-Golem_FlameCoreHD.description>
+  <!-- EN: Mk.1 -->
+  <TM_Mecha-Golem_FlameCoreHD.stages.Mk1.label>Mk.1</TM_Mecha-Golem_FlameCoreHD.stages.Mk1.label>
+  <!-- EN: Mk.2 -->
+  <TM_Mecha-Golem_FlameCoreHD.stages.Mk2.label>Mk.2</TM_Mecha-Golem_FlameCoreHD.stages.Mk2.label>
+  <!-- EN: Mk.3 -->
+  <TM_Mecha-Golem_FlameCoreHD.stages.Mk3.label>Mk.3</TM_Mecha-Golem_FlameCoreHD.stages.Mk3.label>
+  
+  <!-- EN: Gatling Cannon -->
+  <TM_Mecha-Golem_GatlingCannonHD.label>canon gatling</TM_Mecha-Golem_GatlingCannonHD.label>
+  <!-- EN: A gatling cannon mounted to the right shoulder. -->
+  <TM_Mecha-Golem_GatlingCannonHD.description>Un canon gatling monté sur l'épaule droite.</TM_Mecha-Golem_GatlingCannonHD.description>
+  
+  <!-- EN: Lightning core -->
+  <TM_Mecha-Golem_LightningCoreHD.label>noyau de foudre</TM_Mecha-Golem_LightningCoreHD.label>
+  <!-- EN: Lightning core upgrades increase improve movement and processing speed. -->
+  <TM_Mecha-Golem_LightningCoreHD.description>Les améliorations du noyau de foudre augmentent la vitesse de mouvement et de traitement.</TM_Mecha-Golem_LightningCoreHD.description>
+  <!-- EN: Mk.1 -->
+  <TM_Mecha-Golem_LightningCoreHD.stages.Mk1.label>Mk.1</TM_Mecha-Golem_LightningCoreHD.stages.Mk1.label>
+  <!-- EN: Mk.2 -->
+  <TM_Mecha-Golem_LightningCoreHD.stages.Mk2.label>Mk.2</TM_Mecha-Golem_LightningCoreHD.stages.Mk2.label>
+  <!-- EN: Mk.3 -->
+  <TM_Mecha-Golem_LightningCoreHD.stages.Mk3.label>Mk.3</TM_Mecha-Golem_LightningCoreHD.stages.Mk3.label>
+  
+  <!-- EN: Water core -->
+  <TM_Mecha-Golem_WaterCoreHD.label>noyau d'eau</TM_Mecha-Golem_WaterCoreHD.label>
+  <!-- EN: Water core processor upgrades increase armor and regeneration, and improve energy conservation. -->
+  <TM_Mecha-Golem_WaterCoreHD.description>Les améliorations du noyau d'eau augmentent l'armure et la régénération, mais aussi la conservation de l'énergie.</TM_Mecha-Golem_WaterCoreHD.description>
+  <!-- EN: Mk.1 -->
+  <TM_Mecha-Golem_WaterCoreHD.stages.Mk1.label>Mk.1</TM_Mecha-Golem_WaterCoreHD.stages.Mk1.label>
+  <!-- EN: Mk.2 -->
+  <TM_Mecha-Golem_WaterCoreHD.stages.Mk2.label>Mk.2</TM_Mecha-Golem_WaterCoreHD.stages.Mk2.label>
+  <!-- EN: Mk.3 -->
+  <TM_Mecha-Golem_WaterCoreHD.stages.Mk3.label>Mk.3</TM_Mecha-Golem_WaterCoreHD.stages.Mk3.label>
+  
+</LanguageData>

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Arcalleum Cooldown -->
+  <TM_HediffEnchantment_arcalleumCooldown.label>temps de recharge d'Arcalleum</TM_HediffEnchantment_arcalleumCooldown.label>
+  <!-- EN: An enchantment that can instantly refresh the cooldown of an ability. -->
+  <TM_HediffEnchantment_arcalleumCooldown.description>Un enchantement qui peut instantanément rafraîchir le temps de recharge d'une capacité.</TM_HediffEnchantment_arcalleumCooldown.description>
+  
+  <!-- EN: Magic Bonus: -->
+  <TM_HediffEnchantment_arcaneDmg.label>bonus magique :</TM_HediffEnchantment_arcaneDmg.label>
+  <!-- EN: Increases the effects of magic abilities. -->
+  <TM_HediffEnchantment_arcaneDmg.description>Augmente les effets des capacités magiques.</TM_HediffEnchantment_arcaneDmg.description>
+  
+  <!-- EN: Arcane Resistance: -->
+  <TM_HediffEnchantment_arcaneRes.label>résistance aux arcanes :</TM_HediffEnchantment_arcaneRes.label>
+  <!-- EN: Ability to resist magical effects and reduces damage from magical attacks. -->
+  <TM_HediffEnchantment_arcaneRes.description>Capacité à résister aux effets magiques et à réduire les dégâts des attaques magiques.</TM_HediffEnchantment_arcaneRes.description>
+  
+  <!-- EN: Arcane Spectre -->
+  <TM_HediffEnchantment_arcaneSpectre.label>spectre magique</TM_HediffEnchantment_arcaneSpectre.label>
+  <!-- EN: An enchantment that can add bonus spirit damage to any attack. -->
+  <TM_HediffEnchantment_arcaneSpectre.description>Un enchantement qui permet d'ajouter un bonus de dégâts d'esprit à n'importe quelle attaque.</TM_HediffEnchantment_arcaneSpectre.description>
+  
+  <!-- EN: Combat Bonus: -->
+  <TM_HediffEnchantment_combatDmg.label>bonus de combat :</TM_HediffEnchantment_combatDmg.label>
+  <!-- EN: Increases the effects of combat abilities. -->
+  <TM_HediffEnchantment_combatDmg.description>Augmente les effets des capacités de combat.</TM_HediffEnchantment_combatDmg.description>
+  
+  <!-- EN: Cool Down: -->
+  <TM_HediffEnchantment_coolDown.label>temps de recharge :</TM_HediffEnchantment_coolDown.label>
+  <!-- EN: Enchantment that reduces the time to re-use an ability. -->
+  <TM_HediffEnchantment_coolDown.description>Enchantement qui réduit le temps de réutilisation d'une capacité.</TM_HediffEnchantment_coolDown.description>
+  
+  <!-- EN: Ability Power: -->
+  <TM_HediffEnchantment_dmgBonus.label>puissance des sorts :</TM_HediffEnchantment_dmgBonus.label>
+  <!-- EN: Increases the effects of abilities. -->
+  <TM_HediffEnchantment_dmgBonus.description>Augmente les effets des sorts.</TM_HediffEnchantment_dmgBonus.description>
+  
+  <!-- EN: Ability Resistance: -->
+  <TM_HediffEnchantment_dmgResistance.label>résistance aux sorts :</TM_HediffEnchantment_dmgResistance.label>
+  <!-- EN: Ability to resist magical effects and reduces damage from magical attacks. -->
+  <TM_HediffEnchantment_dmgResistance.description>Capacité à résister aux effets magiques et à réduire les dégâts des attaques magiques.</TM_HediffEnchantment_dmgResistance.description>
+  
+  <!-- EN: Energy Cost: -->
+  <TM_HediffEnchantment_energyCost.label>coût d'énergie :</TM_HediffEnchantment_energyCost.label>
+  <!-- EN: Enchantment that reduces the energy cost to use abilities. -->
+  <TM_HediffEnchantment_energyCost.description>Enchantement qui réduit le coût en énergie pour utiliser les capacités.</TM_HediffEnchantment_energyCost.description>
+  
+  <!-- EN: Energy Regen: -->
+  <TM_HediffEnchantment_energyRegen.label>régénération d'énergie :</TM_HediffEnchantment_energyRegen.label>
+  <!-- EN: Enchantment that increases the energy regeneration. -->
+  <TM_HediffEnchantment_energyRegen.description>Enchantement qui augmente la régénération de l'énergie.</TM_HediffEnchantment_energyRegen.description>
+  
+  <!-- EN: Fire Immunity -->
+  <TM_HediffEnchantment_fireImmunity.label>immunité au feu</TM_HediffEnchantment_fireImmunity.label>
+  <!-- EN: Can still take fire based damage, but can no longer catch fire. -->
+  <TM_HediffEnchantment_fireImmunity.description>Peut toujours subir des dégâts liés au feu, mais ne peut plus prendre feu.</TM_HediffEnchantment_fireImmunity.description>
+  
+  <!-- EN: Max Energy: -->
+  <TM_HediffEnchantment_maxEnergy.label>énergie max :</TM_HediffEnchantment_maxEnergy.label>
+  <!-- EN: Energy capacity enchantment. -->
+  <TM_HediffEnchantment_maxEnergy.description>Enchantement qui augmente la capacité d'énergie.</TM_HediffEnchantment_maxEnergy.description>
+  
+  <!-- EN: Max Mana: -->
+  <TM_HediffEnchantment_maxMP.label>mana max :</TM_HediffEnchantment_maxMP.label>
+  <!-- EN: Mana capacity enchantment. -->
+  <TM_HediffEnchantment_maxMP.description>Enchantement qui augmente la capacité du mana.</TM_HediffEnchantment_maxMP.description>
+  
+  <!-- EN: Max Stamina: -->
+  <TM_HediffEnchantment_maxSP.label>endurance max :</TM_HediffEnchantment_maxSP.label>
+  <!-- EN: Stamina capacity enchantment. -->
+  <TM_HediffEnchantment_maxSP.description>Enchantement qui augmente la capacité de l'endurance.</TM_HediffEnchantment_maxSP.description>
+  
+  <!-- EN: Mana Cost: -->
+  <TM_HediffEnchantment_mpCost.label>coût en mana :</TM_HediffEnchantment_mpCost.label>
+  <!-- EN: Enchantment that modifies the mana cost of abilities. -->
+  <TM_HediffEnchantment_mpCost.description>Enchantement qui modifie le coût en mana des capacités.</TM_HediffEnchantment_mpCost.description>
+  
+  <!-- EN: Mana Regen: -->
+  <TM_HediffEnchantment_mpRegenRate.label>régénération du mana :</TM_HediffEnchantment_mpRegenRate.label>
+  <!-- EN: Mana regeneration enchantment. -->
+  <TM_HediffEnchantment_mpRegenRate.description>Enchantement de régénération du mana.</TM_HediffEnchantment_mpRegenRate.description>
+  
+  <!-- EN: Phantom Shift -->
+  <TM_HediffEnchantment_phantomShift.label>transfert fantôme</TM_HediffEnchantment_phantomShift.label>
+  <!-- EN: An enchantment that shifts all damage from an attack to the nether. -->
+  <TM_HediffEnchantment_phantomShift.description>Un enchantement qui transfère tous les dégâts d'une attaque dans les abysses.</TM_HediffEnchantment_phantomShift.description>
+  
+  <!-- EN: Ability CoolDown: -->
+  <TM_HediffEnchantment_spCoolDown.label>temps de recharge capacités :</TM_HediffEnchantment_spCoolDown.label>
+  <!-- EN: Enchantment that reduces the cooldown time of combat abilities. -->
+  <TM_HediffEnchantment_spCoolDown.description>Enchantement qui réduit le temps de recharge des capacités de combat.</TM_HediffEnchantment_spCoolDown.description>
+  
+  <!-- EN: Stamina Cost: -->
+  <TM_HediffEnchantment_spCost.label>coût en endurance :</TM_HediffEnchantment_spCost.label>
+  <!-- EN: Enchantment that modifies the stamina cost of abilities. -->
+  <TM_HediffEnchantment_spCost.description>Enchantement qui modifie le coût en endurance des capacités.</TM_HediffEnchantment_spCost.description>
+  
+  <!-- EN: Stamina Regen: -->
+  <TM_HediffEnchantment_spRegenRate.label>régénération d'endurance :</TM_HediffEnchantment_spRegenRate.label>
+  <!-- EN: Stamina regeneration enchantment. -->
+  <TM_HediffEnchantment_spRegenRate.description>Enchantement de régénération de l'endurance.</TM_HediffEnchantment_spRegenRate.description>
+  
+  <!-- EN: XP Gain: -->
+  <TM_HediffEnchantment_xpGain.label>gain d'XP :</TM_HediffEnchantment_xpGain.label>
+  <!-- EN: Enchantment improves experience gain. -->
+  <TM_HediffEnchantment_xpGain.description>Enchantement qui améliore le gain d'expérience.</TM_HediffEnchantment_xpGain.description>
+  
+</LanguageData>

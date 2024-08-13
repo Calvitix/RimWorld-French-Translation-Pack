@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. Apparently, [siteFaction_pawnsPlural] have set up a nearby outpost and are threatening to attack the village unless the [asker_faction_name] village turns over their artifacts. The camp is controlled by [siteFaction_name].\n\n[asker_nameDef] is asking us to eliminate these vile hooligans, which means destroying them or chasing them from their outpost. [asker_label] says that [sitePart0_description].\n\nIf we succeed [asker_label] will send us some of the artifacts; [allRewardsDescriptions] -->
+  <TM_OpportunitySite_ArcaneBandits.questDescriptionRules.rulesStrings.0>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nous a envoyé un message. Apparemment, les [siteFaction_pawnsPlural] ont installé un avant-poste à proximité et menace d'attaquer leur village si [asker_faction_name] ne lui remet pas les artefacts. L'avant-poste est contrôlé par [siteFaction_name].\n\n[asker_nameDef] nous demande d'éliminer ces vils voyous, ce qui signifie de les détruire ou de les chasser de leur avant-poste. [asker_label] nous avertit qu’[sitePart0_description].\n\nSi nous réussissons, [asker_label] nous enverra [allRewardsDescriptions]</TM_OpportunitySite_ArcaneBandits.questDescriptionRules.rulesStrings.0>
+  <!-- EN:
+    <li>questName->[asker_nameDef]'s Arcane Bandits</li>
+    <li>questName->Arcane Bandit Camp of [enemyFaction_pawnsPlural]</li>
+    <li>questName->The Arcane Bandit Camp</li>
+    <li>questName->The Arcane Raider Camp</li>
+    <li>questName->Destroy the Arcane Bandits</li>
+    <li>questName->Helping [asker_nameDef] Protect Magical Artifacts</li>
+  -->
+  <TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings>
+    <li>questName->Les bandits des arcanes de [asker_nameDef]</li>
+    <li>questName->avant-poste de bandits des arcanes de [enemyFaction_pawnsPlural]</li>
+    <li>questName->L'avant-poste des bandits des arcanes</li>
+    <li>questName->L'avant-poste des Raiders des arcanes</li>
+    <li>questName->Détruire les bandits des arcanes</li>
+    <li>questName->Aider [asker_nameDef] à protéger les artefacts magiques</li>
+  </TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <TM_OpportunitySite_ArcaneBandits.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Quête expirée : [resolvedQuestName]</TM_OpportunitySite_ArcaneBandits.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: The arcane bandits successfully pilfered the arcane artifacts from [asker_faction_name]. [asker_label] is displeased with you. -->
+  <TM_OpportunitySite_ArcaneBandits.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Les bandits des arcanes ont réussi à dérober les artefacts magiques de [asker_faction_name]. [asker_label] est mécontent de vous.</TM_OpportunitySite_ArcaneBandits.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <TM_OpportunitySite_ArcaneBandits.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Quête échouée : [resolvedQuestName]</TM_OpportunitySite_ArcaneBandits.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+  <!-- EN: After your botched assault, the arcane bandits immediately attacked and stole several artifacts. [asker_label] is disappointed in you. -->
+  <TM_OpportunitySite_ArcaneBandits.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>Après votre assaut raté, les bandits des arcanes ont immédiatement attaqué et volé plusieurs artefacts. [asker_label] est déçu de vous.</TM_OpportunitySite_ArcaneBandits.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+  <!-- EN: Payment arrived -->
+  <TM_OpportunitySite_ArcaneBandits.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>Arrivée du paiement</TM_OpportunitySite_ArcaneBandits.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>
+  <!-- EN: You have defeated the arcane bandits!\n\nThe payment from [asker_faction_name] has arrived. -->
+  <TM_OpportunitySite_ArcaneBandits.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>Vous avez vaincu les bandits des arcanes !\n\nLe paiement de [asker_faction_name] est arrivé.</TM_OpportunitySite_ArcaneBandits.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>
+  
+</LanguageData>

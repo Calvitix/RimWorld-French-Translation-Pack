@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Void seeker -->
+  <TM_IdeoRole_VoidSeeker.label>Chercheur du vide</TM_IdeoRole_VoidSeeker.label>
+  <!-- EN: A mysterious figure with abilities able to manipulate the connection to magic. -->
+  <TM_IdeoRole_VoidSeeker.description>Un personnage mystérieux doté de capacités capables de manipuler la connexion à la magie.</TM_IdeoRole_VoidSeeker.description>
+  
+</LanguageData>

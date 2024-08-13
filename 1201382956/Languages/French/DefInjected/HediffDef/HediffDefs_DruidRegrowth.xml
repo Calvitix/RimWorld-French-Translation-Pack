@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Regrown Arm -->
+  <TM_ArmRegrowth.label>bras régénéré</TM_ArmRegrowth.label>
+  <!-- EN: The magical entwining of nature and flesh will regrow this body part over several days. -->
+  <TM_ArmRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_ArmRegrowth.description>
+  <!-- EN: regrown arm -->
+  <TM_ArmRegrowth.comps.HediffComp_VerbGiver.tools.regrown_arm.label>bras régénéré</TM_ArmRegrowth.comps.HediffComp_VerbGiver.tools.regrown_arm.label>
+  <!-- EN: stub -->
+  <TM_ArmRegrowth.stages.stub.label>moignon</TM_ArmRegrowth.stages.stub.label>
+  <!-- EN: fledgling -->
+  <TM_ArmRegrowth.stages.fledgling.label>balbutiant</TM_ArmRegrowth.stages.fledgling.label>
+  <!-- EN: regrown -->
+  <TM_ArmRegrowth.stages.regrown.label>repousse</TM_ArmRegrowth.stages.regrown.label>
+  <!-- EN: wild -->
+  <TM_ArmRegrowth.stages.wild.label>sauvage</TM_ArmRegrowth.stages.wild.label>
+  
+  <!-- EN: Regrown Ear -->
+  <TM_EarRegrowth.label>oreille régénérée</TM_EarRegrowth.label>
+  <!-- EN: The magical entwining of nature and flesh will regrow this body part over several days. -->
+  <TM_EarRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_EarRegrowth.description>
+  <!-- EN: forming -->
+  <TM_EarRegrowth.stages.forming.label>se forme</TM_EarRegrowth.stages.forming.label>
+  <!-- EN: developing -->
+  <TM_EarRegrowth.stages.developing.label>se développe</TM_EarRegrowth.stages.developing.label>
+  <!-- EN: regrown -->
+  <TM_EarRegrowth.stages.regrown.label>repousse</TM_EarRegrowth.stages.regrown.label>
+  <!-- EN: enhanced -->
+  <TM_EarRegrowth.stages.enhanced.label>amélioré</TM_EarRegrowth.stages.enhanced.label>
+  
+  <!-- EN: Regrown Eye -->
+  <TM_EyeRegrowth.label>œil régénéré</TM_EyeRegrowth.label>
+  <!-- EN: The magical entwining of nature and flesh will regrow this eye over several days. -->
+  <TM_EyeRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cet œil en plusieurs jours.</TM_EyeRegrowth.description>
+  <!-- EN: milky -->
+  <TM_EyeRegrowth.stages.milky.label>laiteux</TM_EyeRegrowth.stages.milky.label>
+  <!-- EN: hazy -->
+  <TM_EyeRegrowth.stages.hazy.label>brumeux</TM_EyeRegrowth.stages.hazy.label>
+  <!-- EN: regrown -->
+  <TM_EyeRegrowth.stages.regrown.label>repousse</TM_EyeRegrowth.stages.regrown.label>
+  <!-- EN: enhanced -->
+  <TM_EyeRegrowth.stages.enhanced.label>amélioré</TM_EyeRegrowth.stages.enhanced.label>
+  
+  <!-- EN: Regrown Finger -->
+  <TM_FingerRegrowth.label>doigt régénéré</TM_FingerRegrowth.label>
+  <!-- EN: The magical entwining of nature and flesh will regrow this body part over several days. -->
+  <TM_FingerRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_FingerRegrowth.description>
+  <!-- EN: finger stub -->
+  <TM_FingerRegrowth.stages.finger_stub.label>bout de doigt</TM_FingerRegrowth.stages.finger_stub.label>
+  <!-- EN: regrown -->
+  <TM_FingerRegrowth.stages.regrown.label>repousse</TM_FingerRegrowth.stages.regrown.label>
+  
+  <!-- EN: Regrown Foot -->
+  <TM_FootRegrowth.label>pied régénéré</TM_FootRegrowth.label>
+  <!-- EN: The magical entwining of nature and flesh will regrow this body part over several days. -->
+  <TM_FootRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_FootRegrowth.description>
+  <!-- EN: stub -->
+  <TM_FootRegrowth.stages.stub.label>moignon</TM_FootRegrowth.stages.stub.label>
+  <!-- EN: fledgling -->
+  <TM_FootRegrowth.stages.fledgling.label>balbutiant</TM_FootRegrowth.stages.fledgling.label>
+  <!-- EN: regrown -->
+  <TM_FootRegrowth.stages.regrown.label>repousse</TM_FootRegrowth.stages.regrown.label>
+  <!-- EN: wild -->
+  <TM_FootRegrowth.stages.wild.label>sauvage</TM_FootRegrowth.stages.wild.label>
+  
+  <!-- EN: Regrown Hand -->
+  <TM_HandRegrowth.label>main régénérée</TM_HandRegrowth.label>
+  <!-- EN: The magical entwining of nature and flesh will regrow this body part over several days. -->
+  <TM_HandRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_HandRegrowth.description>
+  <!-- EN: regrown hand -->
+  <TM_HandRegrowth.comps.HediffComp_VerbGiver.tools.regrown_hand.label>main régénérée</TM_HandRegrowth.comps.HediffComp_VerbGiver.tools.regrown_hand.label>
+  <!-- EN: stub -->
+  <TM_HandRegrowth.stages.stub.label>moignon</TM_HandRegrowth.stages.stub.label>
+  <!-- EN: fledgling -->
+  <TM_HandRegrowth.stages.fledgling.label>balbutiant</TM_HandRegrowth.stages.fledgling.label>
+  <!-- EN: regrown -->
+  <TM_HandRegrowth.stages.regrown.label>repousse</TM_HandRegrowth.stages.regrown.label>
+  <!-- EN: wild -->
+  <TM_HandRegrowth.stages.wild.label>sauvage</TM_HandRegrowth.stages.wild.label>
+  
+  <!-- EN: Heart of the Wild -->
+  <TM_HeartRegrowth.label>cœur de la nature</TM_HeartRegrowth.label>
+  <!-- EN: The magical entwining of nature and flesh will regrow or enhance a heart over several days. -->
+  <TM_HeartRegrowth.description>La combinaison magique de la nature et de la chair fait repousser ou améliore un cœur pendant plusieurs jours.</TM_HeartRegrowth.description>
+  <!-- EN: re-forming -->
+  <TM_HeartRegrowth.stages.reforming.label>se reforme</TM_HeartRegrowth.stages.reforming.label>
+  <!-- EN: new development -->
+  <TM_HeartRegrowth.stages.new_development.label>nouvelle évolution</TM_HeartRegrowth.stages.new_development.label>
+  <!-- EN: melding -->
+  <TM_HeartRegrowth.stages.melding.label>fusionne</TM_HeartRegrowth.stages.melding.label>
+  <!-- EN: entwined -->
+  <TM_HeartRegrowth.stages.entwined.label>entrelacé</TM_HeartRegrowth.stages.entwined.label>
+  <!-- EN: heart of the wild -->
+  <TM_HeartRegrowth.stages.heart_of_the_wild.label>cœur de la nature</TM_HeartRegrowth.stages.heart_of_the_wild.label>
+  
+  <!-- EN: Regrown Jaw -->
+  <TM_JawRegrowth.label>mâchoire régénérée</TM_JawRegrowth.label>
+  <!-- EN: The magical entwining of nature and flesh will regrow this body part over several days. -->
+  <TM_JawRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_JawRegrowth.description>
+  <!-- EN: forming -->
+  <TM_JawRegrowth.stages.forming.label>se forme</TM_JawRegrowth.stages.forming.label>
+  <!-- EN: developing -->
+  <TM_JawRegrowth.stages.developing.label>se développe</TM_JawRegrowth.stages.developing.label>
+  <!-- EN: regrown -->
+  <TM_JawRegrowth.stages.regrown.label>repousse</TM_JawRegrowth.stages.regrown.label>
+  <!-- EN: enhanced -->
+  <TM_JawRegrowth.stages.enhanced.label>amélioré</TM_JawRegrowth.stages.enhanced.label>
+  
+  <!-- EN: Regrown Kidney -->
+  <TM_KidneyRegrowth.label>rein régénéré</TM_KidneyRegrowth.label>
+  <!-- EN: The magical entwining of nature and flesh will regrow this body part over several days. -->
+  <TM_KidneyRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_KidneyRegrowth.description>
+  <!-- EN: forming -->
+  <TM_KidneyRegrowth.stages.forming.label>se forme</TM_KidneyRegrowth.stages.forming.label>
+  <!-- EN: developing -->
+  <TM_KidneyRegrowth.stages.developing.label>se développe</TM_KidneyRegrowth.stages.developing.label>
+  <!-- EN: regrown -->
+  <TM_KidneyRegrowth.stages.regrown.label>repousse</TM_KidneyRegrowth.stages.regrown.label>
+  <!-- EN: enhanced -->
+  <TM_KidneyRegrowth.stages.enhanced.label>amélioré</TM_KidneyRegrowth.stages.enhanced.label>
+  
+  <!-- EN: Regrown Leg -->
+  <TM_LegRegrowth.label>jambe régénérée</TM_LegRegrowth.label>
+  <!-- EN: The magical entwining of nature and flesh will regrow this body part over several days. -->
+  <TM_LegRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_LegRegrowth.description>
+  <!-- EN: stub -->
+  <TM_LegRegrowth.stages.stub.label>moignon</TM_LegRegrowth.stages.stub.label>
+  <!-- EN: fledgling -->
+  <TM_LegRegrowth.stages.fledgling.label>balbutiant</TM_LegRegrowth.stages.fledgling.label>
+  <!-- EN: regrown -->
+  <TM_LegRegrowth.stages.regrown.label>repousse</TM_LegRegrowth.stages.regrown.label>
+  <!-- EN: wild -->
+  <TM_LegRegrowth.stages.wild.label>sauvage</TM_LegRegrowth.stages.wild.label>
+  
+  <!-- EN: Regrown Liver -->
+  <TM_LiverRegrowth.label>foie régénéré</TM_LiverRegrowth.label>
+  <!-- EN: The magical entwining of nature and flesh will regrow this body part over several days. -->
+  <TM_LiverRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_LiverRegrowth.description>
+  <!-- EN: forming -->
+  <TM_LiverRegrowth.stages.forming.label>se forme</TM_LiverRegrowth.stages.forming.label>
+  <!-- EN: developing -->
+  <TM_LiverRegrowth.stages.developing.label>se développe</TM_LiverRegrowth.stages.developing.label>
+  <!-- EN: regrown -->
+  <TM_LiverRegrowth.stages.regrown.label>repousse</TM_LiverRegrowth.stages.regrown.label>
+  <!-- EN: enhanced -->
+  <TM_LiverRegrowth.stages.enhanced.label>amélioré</TM_LiverRegrowth.stages.enhanced.label>
+  
+  <!-- EN: Regrown Lung -->
+  <TM_LungRegrowth.label>poumon régénéré</TM_LungRegrowth.label>
+  <!-- EN: The magical entwining of nature and flesh will regrow this body part over several days. -->
+  <TM_LungRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_LungRegrowth.description>
+  <!-- EN: forming -->
+  <TM_LungRegrowth.stages.forming.label>se forme</TM_LungRegrowth.stages.forming.label>
+  <!-- EN: developing -->
+  <TM_LungRegrowth.stages.developing.label>se développe</TM_LungRegrowth.stages.developing.label>
+  <!-- EN: regrown -->
+  <TM_LungRegrowth.stages.regrown.label>repousse</TM_LungRegrowth.stages.regrown.label>
+  <!-- EN: enhanced -->
+  <TM_LungRegrowth.stages.enhanced.label>amélioré</TM_LungRegrowth.stages.enhanced.label>
+  
+  <!-- EN: Spine Meld -->
+  <TM_SpineRegrowth.label>fusion de l'épine dorsale</TM_SpineRegrowth.label>
+  <!-- EN: The magical entwining of nature and flesh will meld to form a powerful spine in several days. -->
+  <TM_SpineRegrowth.description>La combinaison magique de la nature et de la chair s'unit pour former une colonne vertébrale puissante dans plusieurs jours.</TM_SpineRegrowth.description>
+  <!-- EN: forming -->
+  <TM_SpineRegrowth.stages.forming.label>se forme</TM_SpineRegrowth.stages.forming.label>
+  <!-- EN: new growth -->
+  <TM_SpineRegrowth.stages.new_growth.label>nouvelle croissance</TM_SpineRegrowth.stages.new_growth.label>
+  <!-- EN: melding -->
+  <TM_SpineRegrowth.stages.melding.label>fusionne</TM_SpineRegrowth.stages.melding.label>
+  <!-- EN: entwined -->
+  <TM_SpineRegrowth.stages.entwined.label>entrelacé</TM_SpineRegrowth.stages.entwined.label>
+  
+  <!-- EN: Regrown Part -->
+  <TM_StandardRegrowth.label>partie régénérée</TM_StandardRegrowth.label>
+  <!-- EN: The magical entwining of nature and flesh will regrow this body part over several days. -->
+  <TM_StandardRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_StandardRegrowth.description>
+  <!-- EN: regrown -->
+  <TM_StandardRegrowth.stages.regrown.label>repousse</TM_StandardRegrowth.stages.regrown.label>
+  <!-- EN: forming -->
+  <TM_StandardRegrowth.stages.forming.label>se forme</TM_StandardRegrowth.stages.forming.label>
+  <!-- EN: stub -->
+  <TM_StandardRegrowth.stages.stub.label>moignon</TM_StandardRegrowth.stages.stub.label>
+  
+  <!-- EN: Regrown Stomach -->
+  <TM_StomachRegrowth.label>estomac régénéré</TM_StomachRegrowth.label>
+  <!-- EN: The magical entwining of nature and flesh will regrow this body part over several days. -->
+  <TM_StomachRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_StomachRegrowth.description>
+  <!-- EN: forming -->
+  <TM_StomachRegrowth.stages.forming.label>se forme</TM_StomachRegrowth.stages.forming.label>
+  <!-- EN: developing -->
+  <TM_StomachRegrowth.stages.developing.label>se développe</TM_StomachRegrowth.stages.developing.label>
+  <!-- EN: regrown -->
+  <TM_StomachRegrowth.stages.regrown.label>repousse</TM_StomachRegrowth.stages.regrown.label>
+  
+  <!-- EN: Regrown Toe -->
+  <TM_ToeRegrowth.label>orteil régénéré</TM_ToeRegrowth.label>
+  <!-- EN: The magical entwining of nature and flesh will regrow this body part over several days. -->
+  <TM_ToeRegrowth.description>La combinaison magique de la nature et de la chair fait repousser cette partie du corps en plusieurs jours.</TM_ToeRegrowth.description>
+  <!-- EN: toe stub -->
+  <TM_ToeRegrowth.stages.toe_stub.label>bout d'orteil</TM_ToeRegrowth.stages.toe_stub.label>
+  <!-- EN: regrown -->
+  <TM_ToeRegrowth.stages.regrown.label>repousse</TM_ToeRegrowth.stages.regrown.label>
+  
+</LanguageData>

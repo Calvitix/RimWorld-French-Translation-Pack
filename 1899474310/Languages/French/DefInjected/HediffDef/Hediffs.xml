@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: prisoners chains -->
+  <PrisonLabor_PrisonerChains.label>TODO</PrisonLabor_PrisonerChains.label>
+  <!-- EN: This pawn has prisoners chains. Note: it is default Vanilla mechanics, but in hediff state\n<i><color=#66E0E4FF>Prison Labor</color></i> -->
+  <PrisonLabor_PrisonerChains.description>TODO</PrisonLabor_PrisonerChains.description>
+  <!-- EN: not active -->
+  <PrisonLabor_PrisonerChains.stages.not_active.label>non actif</PrisonLabor_PrisonerChains.stages.not_active.label>
+  <!-- EN: unchained totaly -->
+  <PrisonLabor_PrisonerChains.stages.unchained_totaly.label>chaines de prissonier</PrisonLabor_PrisonerChains.stages.unchained_totaly.label>
+  <!-- EN: unchained legs -->
+  <PrisonLabor_PrisonerChains.stages.unchained_legs.label>TODO</PrisonLabor_PrisonerChains.stages.unchained_legs.label>
+  <!-- EN: unchained hands -->
+  <PrisonLabor_PrisonerChains.stages.unchained_hands.label>TODO</PrisonLabor_PrisonerChains.stages.unchained_hands.label>
+  <!-- EN: active -->
+  <PrisonLabor_PrisonerChains.stages.active.label>TODO</PrisonLabor_PrisonerChains.stages.active.label>
+  
+  <!-- EN: Removed Handscuff -->
+  <PrisonLabor_RemovedHandscuffs.label>TODO</PrisonLabor_RemovedHandscuffs.label>
+  <!-- EN: Prisoner has removed handscuffs\n<i><color=#66E0E4FF>Prison Labor</color></i> -->
+  <PrisonLabor_RemovedHandscuffs.description>TODO</PrisonLabor_RemovedHandscuffs.description>
+  <!-- EN: not active -->
+  <PrisonLabor_RemovedHandscuffs.stages.not_active.label>TODO</PrisonLabor_RemovedHandscuffs.stages.not_active.label>
+  <!-- EN: active -->
+  <PrisonLabor_RemovedHandscuffs.stages.active.label>TODO</PrisonLabor_RemovedHandscuffs.stages.active.label>
+  
+  <!-- EN: Removed legscuffs -->
+  <PrisonLabor_RemovedLegscuffs.label>TODO</PrisonLabor_RemovedLegscuffs.label>
+  <!-- EN: Prisoner has removed legscuffs\n<i><color=#66E0E4FF>Prison Labor</color></i> -->
+  <PrisonLabor_RemovedLegscuffs.description>TODO</PrisonLabor_RemovedLegscuffs.description>
+  <!-- EN: not active -->
+  <PrisonLabor_RemovedLegscuffs.stages.not_active.label>TODO</PrisonLabor_RemovedLegscuffs.stages.not_active.label>
+  <!-- EN: active -->
+  <PrisonLabor_RemovedLegscuffs.stages.active.label>TODO</PrisonLabor_RemovedLegscuffs.stages.active.label>
+  
+</LanguageData>

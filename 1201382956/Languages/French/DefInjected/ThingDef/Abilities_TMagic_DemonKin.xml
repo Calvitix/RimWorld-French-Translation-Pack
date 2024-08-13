@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: demon flames -->
+  <FlyingObject_DemonBolt.label>flammes démoniaques</FlyingObject_DemonBolt.label>
+  
+  <!-- EN: flying object -->
+  <FlyingObject_DemonFlight.label>objet volant</FlyingObject_DemonFlight.label>
+  
+  <!-- EN: shadow bolt -->
+  <FlyingObject_ShadowBolt.label>trait de l'ombre</FlyingObject_ShadowBolt.label>
+  
+  <!-- EN: attraction -->
+  <Projectile_Attraction.label>attraction</Projectile_Attraction.label>
+  
+  <!-- EN: psychic shock -->
+  <Projectile_PsychicShock.label>choc psychique</Projectile_PsychicShock.label>
+  
+  <!-- EN: repulsion -->
+  <Projectile_Repulsion.label>répulsion</Projectile_Repulsion.label>
+  
+  <!-- EN: repulsion -->
+  <Projectile_Repulsion_I.label>répulsion</Projectile_Repulsion_I.label>
+  
+  <!-- EN: repulsion -->
+  <Projectile_Repulsion_II.label>répulsion</Projectile_Repulsion_II.label>
+  
+  <!-- EN: repulsion -->
+  <Projectile_Repulsion_III.label>répulsion</Projectile_Repulsion_III.label>
+  
+  <!-- EN: scorn -->
+  <Projectile_Scorn.label>dédain</Projectile_Scorn.label>
+  
+  <!-- EN: shadow bolt -->
+  <Projectile_ShadowBolt.label>trait de l'ombre</Projectile_ShadowBolt.label>
+  
+  <!-- EN: summon demon -->
+  <Projectile_SummonDemon.label>invocation de démon</Projectile_SummonDemon.label>
+  
+  <!-- EN: default projectile -->
+  <Projectile_Warlock.label>projectile par défaut</Projectile_Warlock.label>
+  
+</LanguageData>

@@ -1,0 +1,553 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: breaching charge -->
+  <Projectile_BreachingCharge.label>charge explosive</Projectile_BreachingCharge.label>
+  
+  <!-- EN: buckshot pellet -->
+  <Projectile_Buckshot.label>chevrotine</Projectile_Buckshot.label>
+  
+  <!-- EN: Grenade -->
+  <Projectile_Mk203GL.label>grenade</Projectile_Mk203GL.label>
+  
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base0.label>spécialisation pistolet</TM_PistolSpec_Base0.label>
+  <!-- EN: A pistol in the hands of a specialist. -->
+  <TM_PistolSpec_Base0.description>Un pistolet dans les mains d'un spécialiste.</TM_PistolSpec_Base0.description>
+  <!-- EN: pistol whip -->
+  <TM_PistolSpec_Base0.tools.pistol_whip.label>coup de crosse</TM_PistolSpec_Base0.tools.pistol_whip.label>
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base0.verbs.Verb_Shoot.label>spécialisation pistolet</TM_PistolSpec_Base0.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base1.label>spécialisation pistolet</TM_PistolSpec_Base1.label>
+  <!-- EN: A pistol in the hands of a specialist. -->
+  <TM_PistolSpec_Base1.description>Un pistolet dans les mains d'un spécialiste.</TM_PistolSpec_Base1.description>
+  <!-- EN: pistol whip -->
+  <TM_PistolSpec_Base1.tools.pistol_whip.label>coup de crosse</TM_PistolSpec_Base1.tools.pistol_whip.label>
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base1.verbs.Verb_Shoot.label>spécialisation pistolet</TM_PistolSpec_Base1.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base10.label>spécialisation pistolet</TM_PistolSpec_Base10.label>
+  <!-- EN: A pistol in the hands of a specialist. -->
+  <TM_PistolSpec_Base10.description>Un pistolet dans les mains d'un spécialiste.</TM_PistolSpec_Base10.description>
+  <!-- EN: pistol whip -->
+  <TM_PistolSpec_Base10.tools.pistol_whip.label>coup de crosse</TM_PistolSpec_Base10.tools.pistol_whip.label>
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base10.verbs.Verb_Shoot.label>spécialisation pistolet</TM_PistolSpec_Base10.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base11.label>spécialisation pistolet</TM_PistolSpec_Base11.label>
+  <!-- EN: A pistol in the hands of a specialist. -->
+  <TM_PistolSpec_Base11.description>Un pistolet dans les mains d'un spécialiste.</TM_PistolSpec_Base11.description>
+  <!-- EN: pistol whip -->
+  <TM_PistolSpec_Base11.tools.pistol_whip.label>coup de crosse</TM_PistolSpec_Base11.tools.pistol_whip.label>
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base11.verbs.Verb_Shoot.label>spécialisation pistolet</TM_PistolSpec_Base11.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base12.label>spécialisation pistolet</TM_PistolSpec_Base12.label>
+  <!-- EN: A pistol in the hands of a specialist. -->
+  <TM_PistolSpec_Base12.description>Un pistolet dans les mains d'un spécialiste.</TM_PistolSpec_Base12.description>
+  <!-- EN: pistol whip -->
+  <TM_PistolSpec_Base12.tools.pistol_whip.label>coup de crosse</TM_PistolSpec_Base12.tools.pistol_whip.label>
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base12.verbs.Verb_Shoot.label>spécialisation pistolet</TM_PistolSpec_Base12.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base13.label>spécialisation pistolet</TM_PistolSpec_Base13.label>
+  <!-- EN: A pistol in the hands of a specialist. -->
+  <TM_PistolSpec_Base13.description>Un pistolet dans les mains d'un spécialiste.</TM_PistolSpec_Base13.description>
+  <!-- EN: pistol whip -->
+  <TM_PistolSpec_Base13.tools.pistol_whip.label>coup de crosse</TM_PistolSpec_Base13.tools.pistol_whip.label>
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base13.verbs.Verb_Shoot.label>spécialisation pistolet</TM_PistolSpec_Base13.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base14.label>spécialisation pistolet</TM_PistolSpec_Base14.label>
+  <!-- EN: A pistol in the hands of a specialist. -->
+  <TM_PistolSpec_Base14.description>Un pistolet dans les mains d'un spécialiste.</TM_PistolSpec_Base14.description>
+  <!-- EN: pistol whip -->
+  <TM_PistolSpec_Base14.tools.pistol_whip.label>coup de crosse</TM_PistolSpec_Base14.tools.pistol_whip.label>
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base14.verbs.Verb_Shoot.label>spécialisation pistolet</TM_PistolSpec_Base14.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base15.label>spécialisation pistolet</TM_PistolSpec_Base15.label>
+  <!-- EN: A pistol in the hands of a specialist. -->
+  <TM_PistolSpec_Base15.description>Un pistolet dans les mains d'un spécialiste.</TM_PistolSpec_Base15.description>
+  <!-- EN: pistol whip -->
+  <TM_PistolSpec_Base15.tools.pistol_whip.label>coup de crosse</TM_PistolSpec_Base15.tools.pistol_whip.label>
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base15.verbs.Verb_Shoot.label>spécialisation pistolet</TM_PistolSpec_Base15.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base16.label>spécialisation pistolet</TM_PistolSpec_Base16.label>
+  <!-- EN: A pistol in the hands of a specialist. -->
+  <TM_PistolSpec_Base16.description>Un pistolet dans les mains d'un spécialiste.</TM_PistolSpec_Base16.description>
+  <!-- EN: pistol whip -->
+  <TM_PistolSpec_Base16.tools.pistol_whip.label>coup de crosse</TM_PistolSpec_Base16.tools.pistol_whip.label>
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base16.verbs.Verb_Shoot.label>spécialisation pistolet</TM_PistolSpec_Base16.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base17.label>spécialisation pistolet</TM_PistolSpec_Base17.label>
+  <!-- EN: A pistol in the hands of a specialist. -->
+  <TM_PistolSpec_Base17.description>Un pistolet dans les mains d'un spécialiste.</TM_PistolSpec_Base17.description>
+  <!-- EN: pistol whip -->
+  <TM_PistolSpec_Base17.tools.pistol_whip.label>coup de crosse</TM_PistolSpec_Base17.tools.pistol_whip.label>
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base17.verbs.Verb_Shoot.label>spécialisation pistolet</TM_PistolSpec_Base17.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base18.label>spécialisation pistolet</TM_PistolSpec_Base18.label>
+  <!-- EN: A pistol in the hands of a specialist. -->
+  <TM_PistolSpec_Base18.description>Un pistolet dans les mains d'un spécialiste.</TM_PistolSpec_Base18.description>
+  <!-- EN: pistol whip -->
+  <TM_PistolSpec_Base18.tools.pistol_whip.label>coup de crosse</TM_PistolSpec_Base18.tools.pistol_whip.label>
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base18.verbs.Verb_Shoot.label>spécialisation pistolet</TM_PistolSpec_Base18.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base19.label>spécialisation pistolet</TM_PistolSpec_Base19.label>
+  <!-- EN: A pistol in the hands of a specialist. -->
+  <TM_PistolSpec_Base19.description>Un pistolet dans les mains d'un spécialiste.</TM_PistolSpec_Base19.description>
+  <!-- EN: pistol whip -->
+  <TM_PistolSpec_Base19.tools.pistol_whip.label>coup de crosse</TM_PistolSpec_Base19.tools.pistol_whip.label>
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base19.verbs.Verb_Shoot.label>spécialisation pistolet</TM_PistolSpec_Base19.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base2.label>spécialisation pistolet</TM_PistolSpec_Base2.label>
+  <!-- EN: A pistol in the hands of a specialist. -->
+  <TM_PistolSpec_Base2.description>Un pistolet dans les mains d'un spécialiste.</TM_PistolSpec_Base2.description>
+  <!-- EN: pistol whip -->
+  <TM_PistolSpec_Base2.tools.pistol_whip.label>coup de crosse</TM_PistolSpec_Base2.tools.pistol_whip.label>
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base2.verbs.Verb_Shoot.label>spécialisation pistolet</TM_PistolSpec_Base2.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base3.label>spécialisation pistolet</TM_PistolSpec_Base3.label>
+  <!-- EN: A pistol in the hands of a specialist. -->
+  <TM_PistolSpec_Base3.description>Un pistolet dans les mains d'un spécialiste.</TM_PistolSpec_Base3.description>
+  <!-- EN: pistol whip -->
+  <TM_PistolSpec_Base3.tools.pistol_whip.label>coup de crosse</TM_PistolSpec_Base3.tools.pistol_whip.label>
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base3.verbs.Verb_Shoot.label>spécialisation pistolet</TM_PistolSpec_Base3.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base4.label>spécialisation pistolet</TM_PistolSpec_Base4.label>
+  <!-- EN: A pistol in the hands of a specialist. -->
+  <TM_PistolSpec_Base4.description>Un pistolet dans les mains d'un spécialiste.</TM_PistolSpec_Base4.description>
+  <!-- EN: pistol whip -->
+  <TM_PistolSpec_Base4.tools.pistol_whip.label>coup de crosse</TM_PistolSpec_Base4.tools.pistol_whip.label>
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base4.verbs.Verb_Shoot.label>spécialisation pistolet</TM_PistolSpec_Base4.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base5.label>spécialisation pistolet</TM_PistolSpec_Base5.label>
+  <!-- EN: A pistol in the hands of a specialist. -->
+  <TM_PistolSpec_Base5.description>Un pistolet dans les mains d'un spécialiste.</TM_PistolSpec_Base5.description>
+  <!-- EN: pistol whip -->
+  <TM_PistolSpec_Base5.tools.pistol_whip.label>coup de crosse</TM_PistolSpec_Base5.tools.pistol_whip.label>
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base5.verbs.Verb_Shoot.label>spécialisation pistolet</TM_PistolSpec_Base5.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base6.label>spécialisation pistolet</TM_PistolSpec_Base6.label>
+  <!-- EN: A pistol in the hands of a specialist. -->
+  <TM_PistolSpec_Base6.description>Un pistolet dans les mains d'un spécialiste.</TM_PistolSpec_Base6.description>
+  <!-- EN: pistol whip -->
+  <TM_PistolSpec_Base6.tools.pistol_whip.label>coup de crosse</TM_PistolSpec_Base6.tools.pistol_whip.label>
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base6.verbs.Verb_Shoot.label>spécialisation pistolet</TM_PistolSpec_Base6.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base7.label>spécialisation pistolet</TM_PistolSpec_Base7.label>
+  <!-- EN: A pistol in the hands of a specialist. -->
+  <TM_PistolSpec_Base7.description>Un pistolet dans les mains d'un spécialiste.</TM_PistolSpec_Base7.description>
+  <!-- EN: pistol whip -->
+  <TM_PistolSpec_Base7.tools.pistol_whip.label>coup de crosse</TM_PistolSpec_Base7.tools.pistol_whip.label>
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base7.verbs.Verb_Shoot.label>spécialisation pistolet</TM_PistolSpec_Base7.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base8.label>spécialisation pistolet</TM_PistolSpec_Base8.label>
+  <!-- EN: A pistol in the hands of a specialist. -->
+  <TM_PistolSpec_Base8.description>Un pistolet dans les mains d'un spécialiste.</TM_PistolSpec_Base8.description>
+  <!-- EN: pistol whip -->
+  <TM_PistolSpec_Base8.tools.pistol_whip.label>coup de crosse</TM_PistolSpec_Base8.tools.pistol_whip.label>
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base8.verbs.Verb_Shoot.label>spécialisation pistolet</TM_PistolSpec_Base8.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base9.label>spécialisation pistolet</TM_PistolSpec_Base9.label>
+  <!-- EN: A pistol in the hands of a specialist. -->
+  <TM_PistolSpec_Base9.description>Un pistolet dans les mains d'un spécialiste.</TM_PistolSpec_Base9.description>
+  <!-- EN: pistol whip -->
+  <TM_PistolSpec_Base9.tools.pistol_whip.label>coup de crosse</TM_PistolSpec_Base9.tools.pistol_whip.label>
+  <!-- EN: pistol spec weapon -->
+  <TM_PistolSpec_Base9.verbs.Verb_Shoot.label>spécialisation pistolet</TM_PistolSpec_Base9.verbs.Verb_Shoot.label>
+  
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base0.label>spécialisation fusil</TM_RifleSpec_Base0.label>
+  <!-- EN: A rifle in the hands of a specialist. -->
+  <TM_RifleSpec_Base0.description>Un fusil dans les mains d'un spécialiste.</TM_RifleSpec_Base0.description>
+  <!-- EN: rifle stock -->
+  <TM_RifleSpec_Base0.tools.rifle_stock.label>crosse de fusil</TM_RifleSpec_Base0.tools.rifle_stock.label>
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base0.verbs.Verb_Shoot.label>spécialisation fusil</TM_RifleSpec_Base0.verbs.Verb_Shoot.label>
+  
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base1.label>spécialisation fusil</TM_RifleSpec_Base1.label>
+  <!-- EN: A rifle in the hands of a specialist. -->
+  <TM_RifleSpec_Base1.description>Un fusil dans les mains d'un spécialiste.</TM_RifleSpec_Base1.description>
+  <!-- EN: rifle stock -->
+  <TM_RifleSpec_Base1.tools.rifle_stock.label>crosse de fusil</TM_RifleSpec_Base1.tools.rifle_stock.label>
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base1.verbs.Verb_Shoot.label>spécialisation fusil</TM_RifleSpec_Base1.verbs.Verb_Shoot.label>
+  
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base10.label>spécialisation fusil</TM_RifleSpec_Base10.label>
+  <!-- EN: A rifle in the hands of a specialist. -->
+  <TM_RifleSpec_Base10.description>Un fusil dans les mains d'un spécialiste.</TM_RifleSpec_Base10.description>
+  <!-- EN: rifle stock -->
+  <TM_RifleSpec_Base10.tools.rifle_stock.label>crosse de fusil</TM_RifleSpec_Base10.tools.rifle_stock.label>
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base10.verbs.Verb_Shoot.label>spécialisation fusil</TM_RifleSpec_Base10.verbs.Verb_Shoot.label>
+  
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base11.label>spécialisation fusil</TM_RifleSpec_Base11.label>
+  <!-- EN: A rifle in the hands of a specialist. -->
+  <TM_RifleSpec_Base11.description>Un fusil dans les mains d'un spécialiste.</TM_RifleSpec_Base11.description>
+  <!-- EN: rifle stock -->
+  <TM_RifleSpec_Base11.tools.rifle_stock.label>crosse de fusil</TM_RifleSpec_Base11.tools.rifle_stock.label>
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base11.verbs.Verb_Shoot.label>spécialisation fusil</TM_RifleSpec_Base11.verbs.Verb_Shoot.label>
+  
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base12.label>spécialisation fusil</TM_RifleSpec_Base12.label>
+  <!-- EN: A rifle in the hands of a specialist. -->
+  <TM_RifleSpec_Base12.description>Un fusil dans les mains d'un spécialiste.</TM_RifleSpec_Base12.description>
+  <!-- EN: rifle stock -->
+  <TM_RifleSpec_Base12.tools.rifle_stock.label>crosse de fusil</TM_RifleSpec_Base12.tools.rifle_stock.label>
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base12.verbs.Verb_Shoot.label>spécialisation fusil</TM_RifleSpec_Base12.verbs.Verb_Shoot.label>
+  
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base13.label>spécialisation fusil</TM_RifleSpec_Base13.label>
+  <!-- EN: A rifle in the hands of a specialist. -->
+  <TM_RifleSpec_Base13.description>Un fusil dans les mains d'un spécialiste.</TM_RifleSpec_Base13.description>
+  <!-- EN: rifle stock -->
+  <TM_RifleSpec_Base13.tools.rifle_stock.label>crosse de fusil</TM_RifleSpec_Base13.tools.rifle_stock.label>
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base13.verbs.Verb_Shoot.label>spécialisation fusil</TM_RifleSpec_Base13.verbs.Verb_Shoot.label>
+  
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base14.label>spécialisation fusil</TM_RifleSpec_Base14.label>
+  <!-- EN: A rifle in the hands of a specialist. -->
+  <TM_RifleSpec_Base14.description>Un fusil dans les mains d'un spécialiste.</TM_RifleSpec_Base14.description>
+  <!-- EN: rifle stock -->
+  <TM_RifleSpec_Base14.tools.rifle_stock.label>crosse de fusil</TM_RifleSpec_Base14.tools.rifle_stock.label>
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base14.verbs.Verb_Shoot.label>spécialisation fusil</TM_RifleSpec_Base14.verbs.Verb_Shoot.label>
+  
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base15.label>spécialisation fusil</TM_RifleSpec_Base15.label>
+  <!-- EN: A rifle in the hands of a specialist. -->
+  <TM_RifleSpec_Base15.description>Un fusil dans les mains d'un spécialiste.</TM_RifleSpec_Base15.description>
+  <!-- EN: rifle stock -->
+  <TM_RifleSpec_Base15.tools.rifle_stock.label>crosse de fusil</TM_RifleSpec_Base15.tools.rifle_stock.label>
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base15.verbs.Verb_Shoot.label>spécialisation fusil</TM_RifleSpec_Base15.verbs.Verb_Shoot.label>
+  
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base16.label>spécialisation fusil</TM_RifleSpec_Base16.label>
+  <!-- EN: A rifle in the hands of a specialist. -->
+  <TM_RifleSpec_Base16.description>Un fusil dans les mains d'un spécialiste.</TM_RifleSpec_Base16.description>
+  <!-- EN: rifle stock -->
+  <TM_RifleSpec_Base16.tools.rifle_stock.label>crosse de fusil</TM_RifleSpec_Base16.tools.rifle_stock.label>
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base16.verbs.Verb_Shoot.label>spécialisation fusil</TM_RifleSpec_Base16.verbs.Verb_Shoot.label>
+  
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base17.label>spécialisation fusil</TM_RifleSpec_Base17.label>
+  <!-- EN: A rifle in the hands of a specialist. -->
+  <TM_RifleSpec_Base17.description>Un fusil dans les mains d'un spécialiste.</TM_RifleSpec_Base17.description>
+  <!-- EN: rifle stock -->
+  <TM_RifleSpec_Base17.tools.rifle_stock.label>crosse de fusil</TM_RifleSpec_Base17.tools.rifle_stock.label>
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base17.verbs.Verb_Shoot.label>spécialisation fusil</TM_RifleSpec_Base17.verbs.Verb_Shoot.label>
+  
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base18.label>spécialisation fusil</TM_RifleSpec_Base18.label>
+  <!-- EN: A rifle in the hands of a specialist. -->
+  <TM_RifleSpec_Base18.description>Un fusil dans les mains d'un spécialiste.</TM_RifleSpec_Base18.description>
+  <!-- EN: rifle stock -->
+  <TM_RifleSpec_Base18.tools.rifle_stock.label>crosse de fusil</TM_RifleSpec_Base18.tools.rifle_stock.label>
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base18.verbs.Verb_Shoot.label>spécialisation fusil</TM_RifleSpec_Base18.verbs.Verb_Shoot.label>
+  
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base19.label>spécialisation fusil</TM_RifleSpec_Base19.label>
+  <!-- EN: A rifle in the hands of a specialist. -->
+  <TM_RifleSpec_Base19.description>Un fusil dans les mains d'un spécialiste.</TM_RifleSpec_Base19.description>
+  <!-- EN: rifle stock -->
+  <TM_RifleSpec_Base19.tools.rifle_stock.label>crosse de fusil</TM_RifleSpec_Base19.tools.rifle_stock.label>
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base19.verbs.Verb_Shoot.label>spécialisation fusil</TM_RifleSpec_Base19.verbs.Verb_Shoot.label>
+  
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base2.label>spécialisation fusil</TM_RifleSpec_Base2.label>
+  <!-- EN: A rifle in the hands of a specialist. -->
+  <TM_RifleSpec_Base2.description>Un fusil dans les mains d'un spécialiste.</TM_RifleSpec_Base2.description>
+  <!-- EN: rifle stock -->
+  <TM_RifleSpec_Base2.tools.rifle_stock.label>crosse de fusil</TM_RifleSpec_Base2.tools.rifle_stock.label>
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base2.verbs.Verb_Shoot.label>spécialisation fusil</TM_RifleSpec_Base2.verbs.Verb_Shoot.label>
+  
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base3.label>spécialisation fusil</TM_RifleSpec_Base3.label>
+  <!-- EN: A rifle in the hands of a specialist. -->
+  <TM_RifleSpec_Base3.description>Un fusil dans les mains d'un spécialiste.</TM_RifleSpec_Base3.description>
+  <!-- EN: rifle stock -->
+  <TM_RifleSpec_Base3.tools.rifle_stock.label>crosse de fusil</TM_RifleSpec_Base3.tools.rifle_stock.label>
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base3.verbs.Verb_Shoot.label>spécialisation fusil</TM_RifleSpec_Base3.verbs.Verb_Shoot.label>
+  
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base4.label>spécialisation fusil</TM_RifleSpec_Base4.label>
+  <!-- EN: A rifle in the hands of a specialist. -->
+  <TM_RifleSpec_Base4.description>Un fusil dans les mains d'un spécialiste.</TM_RifleSpec_Base4.description>
+  <!-- EN: rifle stock -->
+  <TM_RifleSpec_Base4.tools.rifle_stock.label>crosse de fusil</TM_RifleSpec_Base4.tools.rifle_stock.label>
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base4.verbs.Verb_Shoot.label>spécialisation fusil</TM_RifleSpec_Base4.verbs.Verb_Shoot.label>
+  
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base5.label>spécialisation fusil</TM_RifleSpec_Base5.label>
+  <!-- EN: A rifle in the hands of a specialist. -->
+  <TM_RifleSpec_Base5.description>Un fusil dans les mains d'un spécialiste.</TM_RifleSpec_Base5.description>
+  <!-- EN: rifle stock -->
+  <TM_RifleSpec_Base5.tools.rifle_stock.label>crosse de fusil</TM_RifleSpec_Base5.tools.rifle_stock.label>
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base5.verbs.Verb_Shoot.label>spécialisation fusil</TM_RifleSpec_Base5.verbs.Verb_Shoot.label>
+  
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base6.label>spécialisation fusil</TM_RifleSpec_Base6.label>
+  <!-- EN: A rifle in the hands of a specialist. -->
+  <TM_RifleSpec_Base6.description>Un fusil dans les mains d'un spécialiste.</TM_RifleSpec_Base6.description>
+  <!-- EN: rifle stock -->
+  <TM_RifleSpec_Base6.tools.rifle_stock.label>crosse de fusil</TM_RifleSpec_Base6.tools.rifle_stock.label>
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base6.verbs.Verb_Shoot.label>spécialisation fusil</TM_RifleSpec_Base6.verbs.Verb_Shoot.label>
+  
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base7.label>spécialisation fusil</TM_RifleSpec_Base7.label>
+  <!-- EN: A rifle in the hands of a specialist. -->
+  <TM_RifleSpec_Base7.description>Un fusil dans les mains d'un spécialiste.</TM_RifleSpec_Base7.description>
+  <!-- EN: rifle stock -->
+  <TM_RifleSpec_Base7.tools.rifle_stock.label>crosse de fusil</TM_RifleSpec_Base7.tools.rifle_stock.label>
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base7.verbs.Verb_Shoot.label>spécialisation fusil</TM_RifleSpec_Base7.verbs.Verb_Shoot.label>
+  
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base8.label>spécialisation fusil</TM_RifleSpec_Base8.label>
+  <!-- EN: A rifle in the hands of a specialist. -->
+  <TM_RifleSpec_Base8.description>Un fusil dans les mains d'un spécialiste.</TM_RifleSpec_Base8.description>
+  <!-- EN: rifle stock -->
+  <TM_RifleSpec_Base8.tools.rifle_stock.label>crosse de fusil</TM_RifleSpec_Base8.tools.rifle_stock.label>
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base8.verbs.Verb_Shoot.label>spécialisation fusil</TM_RifleSpec_Base8.verbs.Verb_Shoot.label>
+  
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base9.label>spécialisation fusil</TM_RifleSpec_Base9.label>
+  <!-- EN: A rifle in the hands of a specialist. -->
+  <TM_RifleSpec_Base9.description>Un fusil dans les mains d'un spécialiste.</TM_RifleSpec_Base9.description>
+  <!-- EN: rifle stock -->
+  <TM_RifleSpec_Base9.tools.rifle_stock.label>crosse de fusil</TM_RifleSpec_Base9.tools.rifle_stock.label>
+  <!-- EN: rifle spec weapon -->
+  <TM_RifleSpec_Base9.verbs.Verb_Shoot.label>spécialisation fusil</TM_RifleSpec_Base9.verbs.Verb_Shoot.label>
+  
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base0.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base0.label>
+  <!-- EN: A shotgun in the hands of a specialist. -->
+  <TM_ShotgunSpec_Base0.description>Un fusil à pompe dans les mains d'un spécialiste.</TM_ShotgunSpec_Base0.description>
+  <!-- EN: weapon smash -->
+  <TM_ShotgunSpec_Base0.tools.weapon_smash.label>choc d'arme</TM_ShotgunSpec_Base0.tools.weapon_smash.label>
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base0.verbs.Verb_Shoot.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base0.verbs.Verb_Shoot.label>
+  
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base1.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base1.label>
+  <!-- EN: A shotgun in the hands of a specialist. -->
+  <TM_ShotgunSpec_Base1.description>Un fusil à pompe dans les mains d'un spécialiste.</TM_ShotgunSpec_Base1.description>
+  <!-- EN: weapon smash -->
+  <TM_ShotgunSpec_Base1.tools.weapon_smash.label>choc d'arme</TM_ShotgunSpec_Base1.tools.weapon_smash.label>
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base1.verbs.Verb_Shoot.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base1.verbs.Verb_Shoot.label>
+  
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base10.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base10.label>
+  <!-- EN: A shotgun in the hands of a specialist. -->
+  <TM_ShotgunSpec_Base10.description>Un fusil à pompe dans les mains d'un spécialiste.</TM_ShotgunSpec_Base10.description>
+  <!-- EN: weapon smash -->
+  <TM_ShotgunSpec_Base10.tools.weapon_smash.label>choc d'arme</TM_ShotgunSpec_Base10.tools.weapon_smash.label>
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base10.verbs.Verb_Shoot.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base10.verbs.Verb_Shoot.label>
+  
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base11.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base11.label>
+  <!-- EN: A shotgun in the hands of a specialist. -->
+  <TM_ShotgunSpec_Base11.description>Un fusil à pompe dans les mains d'un spécialiste.</TM_ShotgunSpec_Base11.description>
+  <!-- EN: weapon smash -->
+  <TM_ShotgunSpec_Base11.tools.weapon_smash.label>choc d'arme</TM_ShotgunSpec_Base11.tools.weapon_smash.label>
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base11.verbs.Verb_Shoot.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base11.verbs.Verb_Shoot.label>
+  
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base12.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base12.label>
+  <!-- EN: A shotgun in the hands of a specialist. -->
+  <TM_ShotgunSpec_Base12.description>Un fusil à pompe dans les mains d'un spécialiste.</TM_ShotgunSpec_Base12.description>
+  <!-- EN: weapon smash -->
+  <TM_ShotgunSpec_Base12.tools.weapon_smash.label>choc d'arme</TM_ShotgunSpec_Base12.tools.weapon_smash.label>
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base12.verbs.Verb_Shoot.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base12.verbs.Verb_Shoot.label>
+  
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base13.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base13.label>
+  <!-- EN: A shotgun in the hands of a specialist. -->
+  <TM_ShotgunSpec_Base13.description>Un fusil à pompe dans les mains d'un spécialiste.</TM_ShotgunSpec_Base13.description>
+  <!-- EN: weapon smash -->
+  <TM_ShotgunSpec_Base13.tools.weapon_smash.label>choc d'arme</TM_ShotgunSpec_Base13.tools.weapon_smash.label>
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base13.verbs.Verb_Shoot.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base13.verbs.Verb_Shoot.label>
+  
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base14.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base14.label>
+  <!-- EN: A shotgun in the hands of a specialist. -->
+  <TM_ShotgunSpec_Base14.description>Un fusil à pompe dans les mains d'un spécialiste.</TM_ShotgunSpec_Base14.description>
+  <!-- EN: weapon smash -->
+  <TM_ShotgunSpec_Base14.tools.weapon_smash.label>choc d'arme</TM_ShotgunSpec_Base14.tools.weapon_smash.label>
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base14.verbs.Verb_Shoot.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base14.verbs.Verb_Shoot.label>
+  
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base15.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base15.label>
+  <!-- EN: A shotgun in the hands of a specialist. -->
+  <TM_ShotgunSpec_Base15.description>Un fusil à pompe dans les mains d'un spécialiste.</TM_ShotgunSpec_Base15.description>
+  <!-- EN: weapon smash -->
+  <TM_ShotgunSpec_Base15.tools.weapon_smash.label>choc d'arme</TM_ShotgunSpec_Base15.tools.weapon_smash.label>
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base15.verbs.Verb_Shoot.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base15.verbs.Verb_Shoot.label>
+  
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base16.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base16.label>
+  <!-- EN: A shotgun in the hands of a specialist. -->
+  <TM_ShotgunSpec_Base16.description>Un fusil à pompe dans les mains d'un spécialiste.</TM_ShotgunSpec_Base16.description>
+  <!-- EN: weapon smash -->
+  <TM_ShotgunSpec_Base16.tools.weapon_smash.label>choc d'arme</TM_ShotgunSpec_Base16.tools.weapon_smash.label>
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base16.verbs.Verb_Shoot.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base16.verbs.Verb_Shoot.label>
+  
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base17.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base17.label>
+  <!-- EN: A shotgun in the hands of a specialist. -->
+  <TM_ShotgunSpec_Base17.description>Un fusil à pompe dans les mains d'un spécialiste.</TM_ShotgunSpec_Base17.description>
+  <!-- EN: weapon smash -->
+  <TM_ShotgunSpec_Base17.tools.weapon_smash.label>choc d'arme</TM_ShotgunSpec_Base17.tools.weapon_smash.label>
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base17.verbs.Verb_Shoot.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base17.verbs.Verb_Shoot.label>
+  
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base18.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base18.label>
+  <!-- EN: A shotgun in the hands of a specialist. -->
+  <TM_ShotgunSpec_Base18.description>Un fusil à pompe dans les mains d'un spécialiste.</TM_ShotgunSpec_Base18.description>
+  <!-- EN: weapon smash -->
+  <TM_ShotgunSpec_Base18.tools.weapon_smash.label>choc d'arme</TM_ShotgunSpec_Base18.tools.weapon_smash.label>
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base18.verbs.Verb_Shoot.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base18.verbs.Verb_Shoot.label>
+  
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base19.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base19.label>
+  <!-- EN: A shotgun in the hands of a specialist. -->
+  <TM_ShotgunSpec_Base19.description>Un fusil à pompe dans les mains d'un spécialiste.</TM_ShotgunSpec_Base19.description>
+  <!-- EN: weapon smash -->
+  <TM_ShotgunSpec_Base19.tools.weapon_smash.label>choc d'arme</TM_ShotgunSpec_Base19.tools.weapon_smash.label>
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base19.verbs.Verb_Shoot.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base19.verbs.Verb_Shoot.label>
+  
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base2.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base2.label>
+  <!-- EN: A shotgun in the hands of a specialist. -->
+  <TM_ShotgunSpec_Base2.description>Un fusil à pompe dans les mains d'un spécialiste.</TM_ShotgunSpec_Base2.description>
+  <!-- EN: weapon smash -->
+  <TM_ShotgunSpec_Base2.tools.weapon_smash.label>choc d'arme</TM_ShotgunSpec_Base2.tools.weapon_smash.label>
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base2.verbs.Verb_Shoot.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base2.verbs.Verb_Shoot.label>
+  
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base3.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base3.label>
+  <!-- EN: A shotgun in the hands of a specialist. -->
+  <TM_ShotgunSpec_Base3.description>Un fusil à pompe dans les mains d'un spécialiste.</TM_ShotgunSpec_Base3.description>
+  <!-- EN: weapon smash -->
+  <TM_ShotgunSpec_Base3.tools.weapon_smash.label>choc d'arme</TM_ShotgunSpec_Base3.tools.weapon_smash.label>
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base3.verbs.Verb_Shoot.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base3.verbs.Verb_Shoot.label>
+  
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base4.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base4.label>
+  <!-- EN: A shotgun in the hands of a specialist. -->
+  <TM_ShotgunSpec_Base4.description>Un fusil à pompe dans les mains d'un spécialiste.</TM_ShotgunSpec_Base4.description>
+  <!-- EN: weapon smash -->
+  <TM_ShotgunSpec_Base4.tools.weapon_smash.label>choc d'arme</TM_ShotgunSpec_Base4.tools.weapon_smash.label>
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base4.verbs.Verb_Shoot.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base4.verbs.Verb_Shoot.label>
+  
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base5.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base5.label>
+  <!-- EN: A shotgun in the hands of a specialist. -->
+  <TM_ShotgunSpec_Base5.description>Un fusil à pompe dans les mains d'un spécialiste.</TM_ShotgunSpec_Base5.description>
+  <!-- EN: weapon smash -->
+  <TM_ShotgunSpec_Base5.tools.weapon_smash.label>choc d'arme</TM_ShotgunSpec_Base5.tools.weapon_smash.label>
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base5.verbs.Verb_Shoot.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base5.verbs.Verb_Shoot.label>
+  
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base6.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base6.label>
+  <!-- EN: A shotgun in the hands of a specialist. -->
+  <TM_ShotgunSpec_Base6.description>Un fusil à pompe dans les mains d'un spécialiste.</TM_ShotgunSpec_Base6.description>
+  <!-- EN: weapon smash -->
+  <TM_ShotgunSpec_Base6.tools.weapon_smash.label>choc d'arme</TM_ShotgunSpec_Base6.tools.weapon_smash.label>
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base6.verbs.Verb_Shoot.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base6.verbs.Verb_Shoot.label>
+  
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base7.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base7.label>
+  <!-- EN: A shotgun in the hands of a specialist. -->
+  <TM_ShotgunSpec_Base7.description>Un fusil à pompe dans les mains d'un spécialiste.</TM_ShotgunSpec_Base7.description>
+  <!-- EN: weapon smash -->
+  <TM_ShotgunSpec_Base7.tools.weapon_smash.label>choc d'arme</TM_ShotgunSpec_Base7.tools.weapon_smash.label>
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base7.verbs.Verb_Shoot.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base7.verbs.Verb_Shoot.label>
+  
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base8.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base8.label>
+  <!-- EN: A shotgun in the hands of a specialist. -->
+  <TM_ShotgunSpec_Base8.description>Un fusil à pompe dans les mains d'un spécialiste.</TM_ShotgunSpec_Base8.description>
+  <!-- EN: weapon smash -->
+  <TM_ShotgunSpec_Base8.tools.weapon_smash.label>choc d'arme</TM_ShotgunSpec_Base8.tools.weapon_smash.label>
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base8.verbs.Verb_Shoot.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base8.verbs.Verb_Shoot.label>
+  
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base9.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base9.label>
+  <!-- EN: A shotgun in the hands of a specialist. -->
+  <TM_ShotgunSpec_Base9.description>Un fusil à pompe dans les mains d'un spécialiste.</TM_ShotgunSpec_Base9.description>
+  <!-- EN: weapon smash -->
+  <TM_ShotgunSpec_Base9.tools.weapon_smash.label>choc d'arme</TM_ShotgunSpec_Base9.tools.weapon_smash.label>
+  <!-- EN: shotgun spec weapon -->
+  <TM_ShotgunSpec_Base9.verbs.Verb_Shoot.label>spécialisation fusil à pompe</TM_ShotgunSpec_Base9.verbs.Verb_Shoot.label>
+  
+</LanguageData>

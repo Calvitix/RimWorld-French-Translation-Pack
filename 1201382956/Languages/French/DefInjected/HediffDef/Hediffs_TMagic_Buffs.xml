@@ -1,0 +1,491 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: AMP -->
+  <AMP_I.label>AMP</AMP_I.label>
+  <!-- EN: A burst of energy that amplifies physical attributes. -->
+  <AMP_I.description>Une explosion d'énergie qui amplifie les caractéristiques physiques.</AMP_I.description>
+  <!-- EN: I -->
+  <AMP_I.stages.I.label>I</AMP_I.stages.I.label>
+  
+  <!-- EN: AMP -->
+  <AMP_II.label>AMP</AMP_II.label>
+  <!-- EN: A burst of energy that amplifies physical attributes. -->
+  <AMP_II.description>Une explosion d'énergie qui amplifie les caractéristiques physiques.</AMP_II.description>
+  <!-- EN: II -->
+  <AMP_II.stages.II.label>II</AMP_II.stages.II.label>
+  
+  <!-- EN: AMP -->
+  <AMP_III.label>AMP</AMP_III.label>
+  <!-- EN: A burst of energy that amplifies physical attributes. -->
+  <AMP_III.description>Une explosion d'énergie qui amplifie les caractéristiques physiques.</AMP_III.description>
+  <!-- EN: III -->
+  <AMP_III.stages.III.label>III</AMP_III.stages.III.label>
+  
+  <!-- EN: Bestow Might -->
+  <BestowMightHD.label>accorder la puissance</BestowMightHD.label>
+  <!-- EN: A mighty combat boon. -->
+  <BestowMightHD.description>Un puissant atout pour le combat.</BestowMightHD.description>
+  <!-- EN: I -->
+  <BestowMightHD.stages.I.label>I</BestowMightHD.stages.I.label>
+  
+  <!-- EN: Bestow Might -->
+  <BestowMightHD_I.label>accorder la puissance</BestowMightHD_I.label>
+  <!-- EN: A mighty combat boon. -->
+  <BestowMightHD_I.description>Un puissant atout pour le combat.</BestowMightHD_I.description>
+  <!-- EN: II -->
+  <BestowMightHD_I.stages.II.label>II</BestowMightHD_I.stages.II.label>
+  
+  <!-- EN: Bestow Might -->
+  <BestowMightHD_II.label>accorder la puissance</BestowMightHD_II.label>
+  <!-- EN: A mighty combat boon. -->
+  <BestowMightHD_II.description>Un puissant atout pour le combat.</BestowMightHD_II.description>
+  <!-- EN: III -->
+  <BestowMightHD_II.stages.III.label>III</BestowMightHD_II.stages.III.label>
+  
+  <!-- EN: Bestow Might -->
+  <BestowMightHD_III.label>accorder la puissance</BestowMightHD_III.label>
+  <!-- EN: A mighty combat boon. -->
+  <BestowMightHD_III.description>Un puissant atout pour le combat.</BestowMightHD_III.description>
+  <!-- EN: IV -->
+  <BestowMightHD_III.stages.IV.label>IV</BestowMightHD_III.stages.IV.label>
+  
+  <!-- EN: Inner Fire -->
+  <InnerFire_IHD.label>feu intérieur</InnerFire_IHD.label>
+  <!-- EN: Fortifies the spirit, giving the pawn increased endurance and resistances. -->
+  <InnerFire_IHD.description>Fortifie l'esprit, donnant au colon une endurance et des résistances accrues.</InnerFire_IHD.description>
+  <!-- EN: II -->
+  <InnerFire_IHD.stages.II.label>II</InnerFire_IHD.stages.II.label>
+  
+  <!-- EN: Inner Fire -->
+  <InnerFire_IIHD.label>feu intérieur</InnerFire_IIHD.label>
+  <!-- EN: Fortifies the spirit, giving the pawn increased endurance and resistances. -->
+  <InnerFire_IIHD.description>Fortifie l'esprit, donnant au colon une endurance et des résistances accrues.</InnerFire_IIHD.description>
+  <!-- EN: III -->
+  <InnerFire_IIHD.stages.III.label>III</InnerFire_IIHD.stages.III.label>
+  
+  <!-- EN: Inner Fire -->
+  <InnerFire_IIIHD.label>feu intérieur</InnerFire_IIIHD.label>
+  <!-- EN: Fortifies the spirit, giving the pawn increased endurance and resistances. -->
+  <InnerFire_IIIHD.description>Fortifie l'esprit, donnant au colon une endurance et des résistances accrues.</InnerFire_IIIHD.description>
+  <!-- EN: IV -->
+  <InnerFire_IIIHD.stages.IV.label>IV</InnerFire_IIIHD.stages.IV.label>
+  
+  <!-- EN: Inner Fire -->
+  <InnerFireHD.label>feu intérieur</InnerFireHD.label>
+  <!-- EN: Fortifies the spirit, giving the pawn increased endurance and resistances. -->
+  <InnerFireHD.description>Fortifie l'esprit, donnant au colon une endurance et des résistances accrues.</InnerFireHD.description>
+  <!-- EN: I -->
+  <InnerFireHD.stages.I.label>I</InnerFireHD.stages.I.label>
+  
+  <!-- EN: Ray of Hope -->
+  <RayofHope.label>rayon d'espoir</RayofHope.label>
+  <!-- EN: An uplifting presence that enlivens the spirit. -->
+  <RayofHope.description>Une présence encourageante qui vivifie l'esprit.</RayofHope.description>
+  <!-- EN: I -->
+  <RayofHope.stages.I.label>I</RayofHope.stages.I.label>
+  
+  <!-- EN: Ray of Hope -->
+  <RayofHope_I.label>rayon d'espoir</RayofHope_I.label>
+  <!-- EN: An uplifting presence that enlivens the spirit. -->
+  <RayofHope_I.description>Une présence encourageante qui vivifie l'esprit.</RayofHope_I.description>
+  <!-- EN: II -->
+  <RayofHope_I.stages.II.label>II</RayofHope_I.stages.II.label>
+  
+  <!-- EN: Ray of Hope -->
+  <RayofHope_II.label>rayon d'espoir</RayofHope_II.label>
+  <!-- EN: An uplifting presence that enlivens the spirit. -->
+  <RayofHope_II.description>Une présence encourageante qui vivifie l'esprit.</RayofHope_II.description>
+  <!-- EN: III -->
+  <RayofHope_II.stages.III.label>III</RayofHope_II.stages.III.label>
+  
+  <!-- EN: Ray of Hope -->
+  <RayofHope_III.label>rayon d'espoir</RayofHope_III.label>
+  <!-- EN: An uplifting presence that enlivens the spirit. -->
+  <RayofHope_III.description>Une présence encourageante qui vivifie l'esprit.</RayofHope_III.description>
+  <!-- EN: IV -->
+  <RayofHope_III.stages.IV.label>IV</RayofHope_III.stages.IV.label>
+  
+  <!-- EN: Arcane Shadow -->
+  <Shadow.label>magie d'ombre</Shadow.label>
+  <!-- EN: A shadowy presence that precipitates action. -->
+  <Shadow.description>Une présence obscure qui précipite l'action.</Shadow.description>
+  
+  <!-- EN: Arcane Shadow -->
+  <Shadow_I.label>magie d'ombre</Shadow_I.label>
+  <!-- EN: A shadowy presence that precipitates action. -->
+  <Shadow_I.description>Une présence obscure qui précipite l'action.</Shadow_I.description>
+  <!-- EN: I -->
+  <Shadow_I.stages.I.label>I</Shadow_I.stages.I.label>
+  
+  <!-- EN: Arcane Shadow -->
+  <Shadow_II.label>magie d'ombre</Shadow_II.label>
+  <!-- EN: A shadowy presence that precipitates action. -->
+  <Shadow_II.description>Une présence obscure qui précipite l'action.</Shadow_II.description>
+  <!-- EN: II -->
+  <Shadow_II.stages.II.label>II</Shadow_II.stages.II.label>
+  
+  <!-- EN: Arcane Shadow -->
+  <Shadow_III.label>magie d'ombre</Shadow_III.label>
+  <!-- EN: A shadowy presence that precipitates action. -->
+  <Shadow_III.description>Une présence obscure qui précipite l'action.</Shadow_III.description>
+  <!-- EN: III -->
+  <Shadow_III.stages.III.label>III</Shadow_III.stages.III.label>
+  
+  <!-- EN: Soothing Breeze -->
+  <SoothingBreeze.label>brise apaisante</SoothingBreeze.label>
+  <!-- EN: A soothing presence that calms the spirit. -->
+  <SoothingBreeze.description>Une présence apaisante qui calme l'esprit.</SoothingBreeze.description>
+  <!-- EN: I -->
+  <SoothingBreeze.stages.I.label>I</SoothingBreeze.stages.I.label>
+  
+  <!-- EN: Soothing Breeze -->
+  <SoothingBreeze_I.label>brise apaisante</SoothingBreeze_I.label>
+  <!-- EN: A soothing presence that calms the spirit. -->
+  <SoothingBreeze_I.description>Une présence apaisante qui calme l'esprit.</SoothingBreeze_I.description>
+  <!-- EN: II -->
+  <SoothingBreeze_I.stages.II.label>II</SoothingBreeze_I.stages.II.label>
+  
+  <!-- EN: Soothing Breeze -->
+  <SoothingBreeze_II.label>brise apaisante</SoothingBreeze_II.label>
+  <!-- EN: A soothing presence that calms the spirit. -->
+  <SoothingBreeze_II.description>Une présence apaisante qui calme l'esprit.</SoothingBreeze_II.description>
+  <!-- EN: III -->
+  <SoothingBreeze_II.stages.III.label>III</SoothingBreeze_II.stages.III.label>
+  
+  <!-- EN: Soothing Breeze -->
+  <SoothingBreeze_III.label>brise apaisante</SoothingBreeze_III.label>
+  <!-- EN: A soothing presence that calms the spirit. -->
+  <SoothingBreeze_III.description>Une présence apaisante qui calme l'esprit.</SoothingBreeze_III.description>
+  <!-- EN: IV -->
+  <SoothingBreeze_III.stages.IV.label>IV</SoothingBreeze_III.stages.IV.label>
+  
+  <!-- EN: Spell Mending -->
+  <SpellMendingHD.label>sort de réparation</SpellMendingHD.label>
+  <!-- EN: Rapidly repairs equipped apparel and weapons. -->
+  <SpellMendingHD.description>Répare rapidement les vêtements et les armes équipés.</SpellMendingHD.description>
+  <!-- EN: active -->
+  <SpellMendingHD.stages.active.label>actif</SpellMendingHD.stages.active.label>
+  <!-- EN: enhanced -->
+  <SpellMendingHD.stages.enhanced.label>amélioré</SpellMendingHD.stages.enhanced.label>
+  
+  <!-- EN: Adrenaline -->
+  <TM_AdrenalineHD.label>adrénaline</TM_AdrenalineHD.label>
+  <!-- EN: A burst of adrenaline that boosts physical performance. -->
+  <TM_AdrenalineHD.description>Une poussée d'adrénaline qui stimule les performances physiques.</TM_AdrenalineHD.description>
+  
+  <!-- EN: Bladedancer -->
+  <TM_BladeArtHD.label>danseur de lames</TM_BladeArtHD.label>
+  <!-- EN: Bladedancer stat boon. -->
+  <TM_BladeArtHD.description>La stat du danseur de lames.</TM_BladeArtHD.description>
+  <!-- EN: I -->
+  <TM_BladeArtHD.stages.I.label>I</TM_BladeArtHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_BladeArtHD.stages.II.label>II</TM_BladeArtHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_BladeArtHD.stages.III.label>III</TM_BladeArtHD.stages.III.label>
+  <!-- EN: IV -->
+  <TM_BladeArtHD.stages.IV.label>IV</TM_BladeArtHD.stages.IV.label>
+  
+  <!-- EN: Blinded -->
+  <TM_Blind.label>aveuglé</TM_Blind.label>
+  <!-- EN: Reduces sight. -->
+  <TM_Blind.description>Diminue la vue.</TM_Blind.description>
+  <!-- EN: I -->
+  <TM_Blind.stages.I.label>I</TM_Blind.stages.I.label>
+  <!-- EN: II -->
+  <TM_Blind.stages.II.label>II</TM_Blind.stages.II.label>
+  <!-- EN: III -->
+  <TM_Blind.stages.III.label>III</TM_Blind.stages.III.label>
+  
+  <!-- EN: Blur -->
+  <TM_BlurHD.label>voile corrompu</TM_BlurHD.label>
+  <!-- EN: Manipulates possibility to avoid damage. -->
+  <TM_BlurHD.description>Manipule la possibilité d'éviter les dégâts.</TM_BlurHD.description>
+  
+  <!-- EN: Bow Mastery -->
+  <TM_BowTrainingHD.label>maîtrise de l'arc</TM_BowTrainingHD.label>
+  <!-- EN: Ranger stat and bow enhancement boon. -->
+  <TM_BowTrainingHD.description>Amélioration des stats et de l'arc du Rôdeur.</TM_BowTrainingHD.description>
+  <!-- EN: I -->
+  <TM_BowTrainingHD.stages.I.label>I</TM_BowTrainingHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_BowTrainingHD.stages.II.label>II</TM_BowTrainingHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_BowTrainingHD.stages.III.label>III</TM_BowTrainingHD.stages.III.label>
+  <!-- EN: IV -->
+  <TM_BowTrainingHD.stages.IV.label>IV</TM_BowTrainingHD.stages.IV.label>
+  
+  <!-- EN: Heat Protection -->
+  <TM_CoolHD.label>protection du chaud</TM_CoolHD.label>
+  <!-- EN: A small boon that cools and increases resistance to high temperatures. -->
+  <TM_CoolHD.description>Un petit bienfait qui rafraîchit et augmente la résistance aux hautes températures.</TM_CoolHD.description>
+  <!-- EN: Cooler -->
+  <TM_CoolHD.stages.Cooler.label>refroidisseur</TM_CoolHD.stages.Cooler.label>
+  
+  <!-- EN: Returned from Death -->
+  <TM_DeathReversalHD.label>revenu de la mort</TM_DeathReversalHD.label>
+  <!-- EN: The backlash resulting from reversing death. -->
+  <TM_DeathReversalHD.description>Le retour de bâton résultant de l'inversion de la mort.</TM_DeathReversalHD.description>
+  <!-- EN: I -->
+  <TM_DeathReversalHD.stages.I.label>I</TM_DeathReversalHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_DeathReversalHD.stages.II.label>II</TM_DeathReversalHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_DeathReversalHD.stages.III.label>III</TM_DeathReversalHD.stages.III.label>
+  
+  <!-- EN: Disease Immunity -->
+  <TM_DiseaseImmunity2HD.label>immunité aux maladies</TM_DiseaseImmunity2HD.label>
+  <!-- EN: Increases natural disease immunity rates. -->
+  <TM_DiseaseImmunity2HD.description>Augmente les taux d'immunité naturelle contre les maladies.</TM_DiseaseImmunity2HD.description>
+  <!-- EN: II -->
+  <TM_DiseaseImmunity2HD.stages.II.label>II</TM_DiseaseImmunity2HD.stages.II.label>
+  
+  <!-- EN: Disease Immunity -->
+  <TM_DiseaseImmunityHD.label>immunité aux maladies</TM_DiseaseImmunityHD.label>
+  <!-- EN: Increases natural disease immunity rates. -->
+  <TM_DiseaseImmunityHD.description>Augmente les taux d'immunité naturelle contre les maladies.</TM_DiseaseImmunityHD.description>
+  <!-- EN: I -->
+  <TM_DiseaseImmunityHD.stages.I.label>I</TM_DiseaseImmunityHD.stages.I.label>
+  
+  <!-- EN: Energy Regeneration -->
+  <TM_EnergyRegenHD.label>régénération d'énergie</TM_EnergyRegenHD.label>
+  <!-- EN: Increases energy regeneration rates as a multiple of the buff's severity. -->
+  <TM_EnergyRegenHD.description>Augmente le taux de régénération de l'énergie comme un multiple de la force du buffs.</TM_EnergyRegenHD.description>
+  
+  <!-- EN: Evasion -->
+  <TM_EvasionHD.label>évasion</TM_EvasionHD.label>
+  <!-- EN: Allows the pawn the ability to dodge any non-explosive attack. The dodge rate corresponds to the severity of the buff. -->
+  <TM_EvasionHD.description>Donne au colon la capacité d'esquiver toute attaque non explosive. Le taux d'esquive correspond à la sévérité de l'amélioration.</TM_EvasionHD.description>
+  
+  <!-- EN: Slow -->
+  <TM_FrostSlowHD.label>lenteur</TM_FrostSlowHD.label>
+  <!-- EN: Slowed limbs affected by frost. -->
+  <TM_FrostSlowHD.description>Ralentit les membres affectés par le gel.</TM_FrostSlowHD.description>
+  <!-- EN: frost -->
+  <TM_FrostSlowHD.stages.frost.label>gelée</TM_FrostSlowHD.stages.frost.label>
+  
+  <!-- EN: Heat shield -->
+  <TM_HeatShieldHD.label>bouclier thermique</TM_HeatShieldHD.label>
+  <!-- EN: Increases heat resistance and cannot catch fire. -->
+  <TM_HeatShieldHD.description>Augmente la résistance à la chaleur et ne peut pas prendre feu.</TM_HeatShieldHD.description>
+  
+  <!-- EN: Fortitude -->
+  <TM_HediffFortitude.label>robustesse</TM_HediffFortitude.label>
+  <!-- EN: Mitigates all damage by a set amount. -->
+  <TM_HediffFortitude.description>Atténue tous les dégâts d'un montant déterminé.</TM_HediffFortitude.description>
+  
+  <!-- EN: Invulnerable -->
+  <TM_HediffInvulnerable.label>invulnérable</TM_HediffInvulnerable.label>
+  <!-- EN: Prevents damage while active. -->
+  <TM_HediffInvulnerable.description>Prévient de tous les dégâts lorsqu'il est actif.</TM_HediffInvulnerable.description>
+  
+  <!-- EN: Shield -->
+  <TM_HediffShield.label>bouclier</TM_HediffShield.label>
+  <!-- EN: Absorbs damage. -->
+  <TM_HediffShield.description>Absorbe les dégâts.</TM_HediffShield.description>
+  
+  <!-- EN: Sprint (I) -->
+  <TM_HediffSprint_I.label>sprint (I)</TM_HediffSprint_I.label>
+  <!-- EN: Increases movement. -->
+  <TM_HediffSprint_I.description>Augmente le mouvement.</TM_HediffSprint_I.description>
+  
+  <!-- EN: Sprint (II) -->
+  <TM_HediffSprint_II.label>sprint (II)</TM_HediffSprint_II.label>
+  <!-- EN: Increases movement. -->
+  <TM_HediffSprint_II.description>Augmente le mouvement.</TM_HediffSprint_II.description>
+  
+  <!-- EN: Sprint (III) -->
+  <TM_HediffSprint_III.label>sprint (III)</TM_HediffSprint_III.label>
+  <!-- EN: Increases movement. -->
+  <TM_HediffSprint_III.description>Augmente le mouvement.</TM_HediffSprint_III.description>
+  
+  <!-- EN: Invulnerable -->
+  <TM_HediffTimedInvulnerable.label>invulnérable</TM_HediffTimedInvulnerable.label>
+  <!-- EN: Prevents damage while active. -->
+  <TM_HediffTimedInvulnerable.description>Prévient de tous les dégâts lorsqu'il est actif.</TM_HediffTimedInvulnerable.description>
+  
+  <!-- EN: Aura of Warmth -->
+  <TM_InnerFire_AuraHD.label>aura de chaleur</TM_InnerFire_AuraHD.label>
+  <!-- EN: An aura that generates and bestows warmth and confidence. -->
+  <TM_InnerFire_AuraHD.description>Une aura qui génère et confère chaleur et confiance.</TM_InnerFire_AuraHD.description>
+  <!-- EN: I -->
+  <TM_InnerFire_AuraHD.stages.I.label>I</TM_InnerFire_AuraHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_InnerFire_AuraHD.stages.II.label>II</TM_InnerFire_AuraHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_InnerFire_AuraHD.stages.III.label>III</TM_InnerFire_AuraHD.stages.III.label>
+  <!-- EN: IV -->
+  <TM_InnerFire_AuraHD.stages.IV.label>IV</TM_InnerFire_AuraHD.stages.IV.label>
+  
+  <!-- EN: Invisibility -->
+  <TM_InvisibilityHD.label>invisibilité</TM_InvisibilityHD.label>
+  <!-- EN: Causes the affected pawn to become invisible and untargetable by nearby enemies. -->
+  <TM_InvisibilityHD.description>Le colon affecté devient invisible et ne peut être ciblé par les ennemis proches.</TM_InvisibilityHD.description>
+  <!-- EN: I -->
+  <TM_InvisibilityHD.stages.I.label>I</TM_InvisibilityHD.stages.I.label>
+  
+  <!-- EN: Jolt -->
+  <TM_JoltHD.label>décharge</TM_JoltHD.label>
+  <!-- EN: A small boon that increases physical energy. -->
+  <TM_JoltHD.description>Un petit avantage qui augmente l'énergie physique.</TM_JoltHD.description>
+  <!-- EN: I -->
+  <TM_JoltHD.stages.I.label>I</TM_JoltHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_JoltHD.stages.II.label>II</TM_JoltHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_JoltHD.stages.III.label>III</TM_JoltHD.stages.III.label>
+  
+  <!-- EN: Magelight -->
+  <TM_MageLightHD.label>lumière magique</TM_MageLightHD.label>
+  <!-- EN: A small light sustained by magic. -->
+  <TM_MageLightHD.description>Une petite lumière entretenue par la magie.</TM_MageLightHD.description>
+  
+  <!-- EN: Shield -->
+  <TM_MagicShieldHD.label>bouclier</TM_MagicShieldHD.label>
+  <!-- EN: Absorbs damage. -->
+  <TM_MagicShieldHD.description>Absorbe les dégâts.</TM_MagicShieldHD.description>
+  
+  <!-- EN: Mana Shield -->
+  <TM_ManaShieldHD.label>bouclier de mana</TM_ManaShieldHD.label>
+  <!-- EN: Sacrifices magical energy to absorb damage. -->
+  <TM_ManaShieldHD.description>Sacrifie l'énergie magique pour absorber les dégâts.</TM_ManaShieldHD.description>
+  
+  <!-- EN: Ranger Bond -->
+  <TM_RangerBondHD.label>lien rôdeur</TM_RangerBondHD.label>
+  <!-- EN: Represents the bond this animal shares with a Ranger. Increases physical attributes and enhances healing. -->
+  <TM_RangerBondHD.description>Représente le lien que cet animal partage avec un Rôdeur. Augmente les attributs physiques et améliore la guérison.</TM_RangerBondHD.description>
+  <!-- EN: I -->
+  <TM_RangerBondHD.stages.I.label>I</TM_RangerBondHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_RangerBondHD.stages.II.label>II</TM_RangerBondHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_RangerBondHD.stages.III.label>III</TM_RangerBondHD.stages.III.label>
+  <!-- EN: IV -->
+  <TM_RangerBondHD.stages.IV.label>IV</TM_RangerBondHD.stages.IV.label>
+  
+  <!-- EN: Aura of Hope -->
+  <TM_RayOfHope_AuraHD.label>aura d'espoir</TM_RayOfHope_AuraHD.label>
+  <!-- EN: An aura that generates and bestows an uplifting presence. -->
+  <TM_RayOfHope_AuraHD.description>Une aura qui génère et confère une présence encourageante.</TM_RayOfHope_AuraHD.description>
+  <!-- EN: I -->
+  <TM_RayOfHope_AuraHD.stages.I.label>I</TM_RayOfHope_AuraHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_RayOfHope_AuraHD.stages.II.label>II</TM_RayOfHope_AuraHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_RayOfHope_AuraHD.stages.III.label>III</TM_RayOfHope_AuraHD.stages.III.label>
+  <!-- EN: IV -->
+  <TM_RayOfHope_AuraHD.stages.IV.label>IV</TM_RayOfHope_AuraHD.stages.IV.label>
+  
+  <!-- EN: Refreshed -->
+  <TM_RefreshedHD.label>rafraîchi</TM_RefreshedHD.label>
+  <!-- EN: Refreshes a pawn, reducing weariness. -->
+  <TM_RefreshedHD.description>Ressource un colon, réduisant la fatigue.</TM_RefreshedHD.description>
+  <!-- EN: Cooler -->
+  <TM_RefreshedHD.stages.Cooler.label>rafraîchir</TM_RefreshedHD.stages.Cooler.label>
+  
+  <!-- EN: Regeneration -->
+  <TM_Regeneration.label>régénération</TM_Regeneration.label>
+  <!-- EN: Regenerates health and heals wounds over time. Each tick will restore health to an injury until the injury is healed. -->
+  <TM_Regeneration.description>Régénère la santé et guérit les blessures au fil du temps. Chaque tique permet de restaurer la santé d'une blessure jusqu'à sa guérison.</TM_Regeneration.description>
+  
+  <!-- EN: Regeneration (I) -->
+  <TM_Regeneration_I.label>régénération (I)</TM_Regeneration_I.label>
+  <!-- EN: Regenerates health and heals wounds over time. Each tick will restore health to an injury until the injury is healed. -->
+  <TM_Regeneration_I.description>Régénère la santé et guérit les blessures au fil du temps. Chaque tique permet de restaurer la santé d'une blessure jusqu'à sa guérison.</TM_Regeneration_I.description>
+  
+  <!-- EN: Regeneration (II) -->
+  <TM_Regeneration_II.label>régénération (II)</TM_Regeneration_II.label>
+  <!-- EN: Regenerates health and heals wounds over time. Each tick will restore health to an injury until the injury is healed. -->
+  <TM_Regeneration_II.description>Régénère la santé et guérit les blessures au fil du temps. Chaque tique permet de restaurer la santé d'une blessure jusqu'à sa guérison.</TM_Regeneration_II.description>
+  
+  <!-- EN: Regeneration (III) -->
+  <TM_Regeneration_III.label>régénération (III)</TM_Regeneration_III.label>
+  <!-- EN: Regenerates health and heals wounds over time. Each tick will restore health to an injury until the injury is healed. -->
+  <TM_Regeneration_III.description>Régénère la santé et guérit les blessures au fil du temps. Chaque tique permet de restaurer la santé d'une blessure jusqu'à sa guérison.</TM_Regeneration_III.description>
+  
+  <!-- EN: Resurrection weakness -->
+  <TM_ResurrectionHD.label>faiblesse de résurrection</TM_ResurrectionHD.label>
+  <!-- EN: Result of being resurrected through magic. -->
+  <TM_ResurrectionHD.description>Résultat d'avoir été ressuscité par la magie.</TM_ResurrectionHD.description>
+  <!-- EN: I -->
+  <TM_ResurrectionHD.stages.I.label>I</TM_ResurrectionHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_ResurrectionHD.stages.II.label>II</TM_ResurrectionHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_ResurrectionHD.stages.III.label>III</TM_ResurrectionHD.stages.III.label>
+  
+  <!-- EN: Haste -->
+  <TM_SeverityHasteHD.label>hâte</TM_SeverityHasteHD.label>
+  <!-- EN: Attack rate is doubled. -->
+  <TM_SeverityHasteHD.description>La vitesse d'attaque est doublée.</TM_SeverityHasteHD.description>
+  
+  <!-- EN: Shadow Aura -->
+  <TM_Shadow_AuraHD.label>aura d'ombre</TM_Shadow_AuraHD.label>
+  <!-- EN: An aura that generates and bestows a shadowy presence. -->
+  <TM_Shadow_AuraHD.description>Une aura qui génère et confère une présence sombre.</TM_Shadow_AuraHD.description>
+  <!-- EN: I -->
+  <TM_Shadow_AuraHD.stages.I.label>I</TM_Shadow_AuraHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_Shadow_AuraHD.stages.II.label>II</TM_Shadow_AuraHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_Shadow_AuraHD.stages.III.label>III</TM_Shadow_AuraHD.stages.III.label>
+  <!-- EN: IV -->
+  <TM_Shadow_AuraHD.stages.IV.label>IV</TM_Shadow_AuraHD.stages.IV.label>
+  
+  <!-- EN: Shadow Slayer Cloak -->
+  <TM_ShadowSlayerCloakHD.label>cape tueur d'Ombre</TM_ShadowSlayerCloakHD.label>
+  <!-- EN: Shadow slayer cloaking field is active - performing actions that the predictive engine is unable to track will rapidly erode the cloaking field. -->
+  <TM_ShadowSlayerCloakHD.description>Le champ d'occultation du tueur de l'ombre est actif - effectuer des actions que le module de prédiction est incapable de suivre érodera rapidement le champ d'occultation.</TM_ShadowSlayerCloakHD.description>
+  
+  <!-- EN: Shock Therapy -->
+  <TM_ShockTherapyHD.label>thérapie de choc</TM_ShockTherapyHD.label>
+  <!-- EN: Trains the mind to improve behavior. -->
+  <TM_ShockTherapyHD.description>Entraîne l'esprit à améliorer le comportement.</TM_ShockTherapyHD.description>
+  <!-- EN: Power Node -->
+  <TM_ShockTherapyHD.stages.Power_Node.label>nœud de puissance</TM_ShockTherapyHD.stages.Power_Node.label>
+  
+  <!-- EN: Soothing Aura -->
+  <TM_SoothingBreeze_AuraHD.label>aura apaisante</TM_SoothingBreeze_AuraHD.label>
+  <!-- EN: An aura that generates and bestows a soothing presence on nearby pawns. -->
+  <TM_SoothingBreeze_AuraHD.description>Une aura qui génère et confère une présence apaisante aux colons proches.</TM_SoothingBreeze_AuraHD.description>
+  <!-- EN: I -->
+  <TM_SoothingBreeze_AuraHD.stages.I.label>I</TM_SoothingBreeze_AuraHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_SoothingBreeze_AuraHD.stages.II.label>II</TM_SoothingBreeze_AuraHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_SoothingBreeze_AuraHD.stages.III.label>III</TM_SoothingBreeze_AuraHD.stages.III.label>
+  <!-- EN: IV -->
+  <TM_SoothingBreeze_AuraHD.stages.IV.label>IV</TM_SoothingBreeze_AuraHD.stages.IV.label>
+  
+  <!-- EN: SS Serum -->
+  <TM_SS_SerumHD.label>sérum Super-Soldat</TM_SS_SerumHD.label>
+  <!-- EN: A chemical enhancing physical abilities and magical resistance; reduces magical power and energy regeneration. The potency of the chemical increases in 3 stages and takes 100 days to fully mature. Pawns will recover consciousness 2 days after taking the serum. -->
+  <TM_SS_SerumHD.description>Un produit chimique améliorant les capacités physiques et la résistance magique ; réduit la puissance magique et la régénération de l'énergie. La puissance du produit chimique augmente en 3 étapes et prend 100 jours pour arriver à maturité. Les colons reprennent conscience 2 jours après avoir pris le sérum.</TM_SS_SerumHD.description>
+  <!-- EN: Stage 0 -->
+  <TM_SS_SerumHD.stages.Stage_0.label>Étape 0</TM_SS_SerumHD.stages.Stage_0.label>
+  <!-- EN: Stage 1 -->
+  <TM_SS_SerumHD.stages.Stage_1.label>Étape 1</TM_SS_SerumHD.stages.Stage_1.label>
+  <!-- EN: Stage 2 -->
+  <TM_SS_SerumHD.stages.Stage_2.label>Étape 2</TM_SS_SerumHD.stages.Stage_2.label>
+  <!-- EN: Stage 3 -->
+  <TM_SS_SerumHD.stages.Stage_3.label>Étape 3</TM_SS_SerumHD.stages.Stage_3.label>
+  
+  <!-- EN: Uncertain Future -->
+  <TM_Uncertainty.label>futur incertain</TM_Uncertainty.label>
+  <!-- EN: Used to control mage promotions. -->
+  <TM_Uncertainty.description>Utilisé pour contrôler les promotions des mages.</TM_Uncertainty.description>
+  
+  <!-- EN: Undeath Shroud -->
+  <TM_UndeadShroudHD.label>linceul de mort</TM_UndeadShroudHD.label>
+  <!-- EN: The forces of undeath cling to this pawn. -->
+  <TM_UndeadShroudHD.description>Les forces de la mort s'accrochent à ce colon.</TM_UndeadShroudHD.description>
+  
+  <!-- EN: Cold Protection -->
+  <TM_WarmHD.label>protection du froid</TM_WarmHD.label>
+  <!-- EN: A small boon that heats and increases resilience to cold temperatures -->
+  <TM_WarmHD.description>Un petit bienfait qui réchauffe et augmente la résistance aux températures froides.</TM_WarmHD.description>
+  <!-- EN: Heater -->
+  <TM_WarmHD.stages.Heater.label>chauffage</TM_WarmHD.stages.Heater.label>
+  
+</LanguageData>

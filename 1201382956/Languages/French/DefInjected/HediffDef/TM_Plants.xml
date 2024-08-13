@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pomana sense -->
+  <TM_PomanaSenseHD.label>sens du pomana</TM_PomanaSenseHD.label>
+  <!-- EN: Relaxation and heightened senses from consuming raw pomana fruit. -->
+  <TM_PomanaSenseHD.description>Détente et augmentation des sens par la consommation de fruits crus de pomana.</TM_PomanaSenseHD.description>
+  
+  <!-- EN: syrrium addiction -->
+  <TM_SyrriumAddiction.label>addiction au syrrium</TM_SyrriumAddiction.label>
+  <!-- EN: The urge to feel the effects of syrrium have developed into a need. -->
+  <TM_SyrriumAddiction.description>L'envie de ressentir les effets du syrrium s'est transformée en un besoin.</TM_SyrriumAddiction.description>
+  <!-- EN: withdrawal -->
+  <TM_SyrriumAddiction.stages.withdrawal.label>withdrawal</TM_SyrriumAddiction.stages.withdrawal.label>
+  
+  <!-- EN: syrrium sense -->
+  <TM_SyrriumSenseHD.label>sens du syrrium</TM_SyrriumSenseHD.label>
+  <!-- EN: Heightened senses resulting from consuming condensed pomanasyrrium. -->
+  <TM_SyrriumSenseHD.description>Sens accru résultant de la consommation de pomanasyrrium concentré.</TM_SyrriumSenseHD.description>
+  
+  <!-- EN: syrrium tolerance -->
+  <TM_SyrriumTolerance.label>tolérance au syrrium</TM_SyrriumTolerance.label>
+  <!-- EN: Natural adjustment to normalize the effects of consuming condensed pomanasyrrium. -->
+  <TM_SyrriumTolerance.description>Ajustement naturel pour normaliser les effets de la consommation de pomanasyrrium condensé.</TM_SyrriumTolerance.description>
+  <!-- EN: small -->
+  <TM_SyrriumTolerance.stages.small.label>petit</TM_SyrriumTolerance.stages.small.label>
+  <!-- EN: large -->
+  <TM_SyrriumTolerance.stages.large.label>grand</TM_SyrriumTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <TM_SyrriumTolerance.stages.massive.label>important</TM_SyrriumTolerance.stages.massive.label>
+  
+</LanguageData>

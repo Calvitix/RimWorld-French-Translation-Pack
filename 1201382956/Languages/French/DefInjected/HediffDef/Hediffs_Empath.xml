@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: suppressed emotions -->
+  <TM_EmotionSuppressionHD.label>émotions supprimées</TM_EmotionSuppressionHD.label>
+  <!-- EN: The emotions of this pawn are being suppressed; this pawn will not experience a mental break and most mood related thoughts will be filtered. -->
+  <TM_EmotionSuppressionHD.description>Les émotions de ce colon sont supprimées ; ce colon ne connaîtra pas de rupture mentale et la plupart des pensées liées à l'humeur seront filtrées.</TM_EmotionSuppressionHD.description>
+  
+  <!-- EN: empath -->
+  <TM_EmpathHD.label>empathe</TM_EmpathHD.label>
+  <!-- EN: Represents the skill of an empath to control their innate abilities. -->
+  <TM_EmpathHD.description>Représente la capacité d'un empathe à contrôler ses capacités innées.</TM_EmpathHD.description>
+  <!-- EN: Uncontrolled -->
+  <TM_EmpathHD.stages.Uncontrolled.label>Non contrôlé</TM_EmpathHD.stages.Uncontrolled.label>
+  <!-- EN: Untrained -->
+  <TM_EmpathHD.stages.Untrained.label>Sans formation</TM_EmpathHD.stages.Untrained.label>
+  <!-- EN: Familiar -->
+  <TM_EmpathHD.stages.Familiar.label>Familier</TM_EmpathHD.stages.Familiar.label>
+  <!-- EN: Trained -->
+  <TM_EmpathHD.stages.Trained.label>Formé</TM_EmpathHD.stages.Trained.label>
+  <!-- EN: Skilled -->
+  <TM_EmpathHD.stages.Skilled.label>Qualifié</TM_EmpathHD.stages.Skilled.label>
+  <!-- EN: Mastery -->
+  <TM_EmpathHD.stages.Mastery.label>Maîtrise</TM_EmpathHD.stages.Mastery.label>
+  
+  <!-- EN: passion harvesting -->
+  <TM_HarvestPassionHD.label>récolte la passion</TM_HarvestPassionHD.label>
+  <!-- EN: A passion is being stolen by another pawn. -->
+  <TM_HarvestPassionHD.description>Une passion est volée à un autre colon.</TM_HarvestPassionHD.description>
+  
+  <!-- EN: emotion shock -->
+  <TM_MindKillerHD.label>choc émotionnel</TM_MindKillerHD.label>
+  <!-- EN: This pawn has been overwhelmed with a flood of emotions and is unable to think or act with clear intention; this can cause a pawn to drop their weapon or flee in fear. -->
+  <TM_MindKillerHD.description>Ce colon a été submergé par un flot d'émotions et il est incapable de penser ou d'agir avec une intention claire ; cela peut amener le colon à lâcher son arme ou à fuir dans la peur.</TM_MindKillerHD.description>
+  <!-- EN: recovering -->
+  <TM_MindKillerHD.stages.recovering.label>récupère</TM_MindKillerHD.stages.recovering.label>
+  <!-- EN: I -->
+  <TM_MindKillerHD.stages.I.label>I</TM_MindKillerHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_MindKillerHD.stages.II.label>II</TM_MindKillerHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_MindKillerHD.stages.III.label>III</TM_MindKillerHD.stages.III.label>
+  
+  <!-- EN: out of body -->
+  <TM_OutOfBodyHD.label>hors du corps</TM_OutOfBodyHD.label>
+  <!-- EN: The emotions and awareness of this pawn have been attached to another pawn; this body is currently an empty shell. -->
+  <TM_OutOfBodyHD.description>Les émotions et la conscience de ce colon ont été attachées à un autre colon ; ce corps est actuellement une enveloppe vide.</TM_OutOfBodyHD.description>
+  
+  <!-- EN: suppressive aura -->
+  <TM_SuppressiveAuraHD.label>aura de suppression</TM_SuppressiveAuraHD.label>
+  <!-- EN: The empath is suppression the emotions of of nearby pawns; affected pawns will be unable to enter into a mental break or gain any mood related thoughts that are not allowed by the empath. -->
+  <TM_SuppressiveAuraHD.description>L'empathe supprime les émotions des colons proches ; les colons affectés ne pourront pas entrer dans un état mental ou avoir des pensées liées à l'humeur qui ne sont pas autorisées par l'empathe.</TM_SuppressiveAuraHD.description>
+  
+  <!-- EN: symbiosis -->
+  <TM_SymbiosisHD.label>symbiose</TM_SymbiosisHD.label>
+  <!-- EN: The emotions and awareness of this pawn have been reinforced and fortified by the mind of an empath. For all intents and purposes, the mind of the empath is joined with this pawn - if this pawn dies then the empath will also die. -->
+  <TM_SymbiosisHD.description>Les émotions et la conscience de ce coln ont été renforcées et fortifiées par l'esprit d'un empathe. À toutes fins utiles, l'esprit de l'empathe est lié à ce colon - si ce colon meurt, l'empathe mourra également.</TM_SymbiosisHD.description>
+  <!-- EN: I -->
+  <TM_SymbiosisHD.stages.I.label>I</TM_SymbiosisHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_SymbiosisHD.stages.II.label>II</TM_SymbiosisHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_SymbiosisHD.stages.III.label>III</TM_SymbiosisHD.stages.III.label>
+  <!-- EN: IV -->
+  <TM_SymbiosisHD.stages.IV.label>IV</TM_SymbiosisHD.stages.IV.label>
+  
+</LanguageData>

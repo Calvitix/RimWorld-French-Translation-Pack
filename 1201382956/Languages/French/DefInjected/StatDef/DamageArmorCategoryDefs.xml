@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Armor - Harmony -->
+  <ArmorRating_Alignment.label>Armure - Harmonie</ArmorRating_Alignment.label>
+  <!-- EN: Protection from alignment based attacks such as holy, shadow, or death magic. -->
+  <ArmorRating_Alignment.description>Protection contre les attaques basées sur l'alignement telles que la magie sacrée, la magie des ombres ou la magie de mort.</ArmorRating_Alignment.description>
+  
+  <!-- EN: Armor - Harmony -->
+  <StuffPower_Armor_Harmony.label>Armure - Harmonie</StuffPower_Armor_Harmony.label>
+  <!-- EN: Protection from alignment based attacks such as holy, shadow, or death magic. -->
+  <StuffPower_Armor_Harmony.description>Protection contre les attaques basées sur l'alignement telles que la magie sacrée, la magie des ombres ou la magie de mort.</StuffPower_Armor_Harmony.description>
+  
+</LanguageData>

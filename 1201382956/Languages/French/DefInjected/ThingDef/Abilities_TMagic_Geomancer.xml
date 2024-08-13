@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: earthern hammer -->
+  <Projectile_EarthernHammer.label>marteau terrestre</Projectile_EarthernHammer.label>
+  
+  <!-- EN: encase projectile -->
+  <Projectile_Encase.label>figer projectile</Projectile_Encase.label>
+  
+  <!-- EN: encase projectile -->
+  <Projectile_Encase_I.label>figer projectile</Projectile_Encase_I.label>
+  
+  <!-- EN: encase projectile -->
+  <Projectile_Encase_II.label>figer projectile</Projectile_Encase_II.label>
+  
+  <!-- EN: encase projectile -->
+  <Projectile_Encase_III.label>figer projectile</Projectile_Encase_III.label>
+  
+  <!-- EN: default projectile -->
+  <Projectile_Geomancer.label>projectile par défaut</Projectile_Geomancer.label>
+  
+  <!-- EN: sentinel projectile -->
+  <Projectile_Sentinel.label>sentinelle projectile</Projectile_Sentinel.label>
+  
+</LanguageData>

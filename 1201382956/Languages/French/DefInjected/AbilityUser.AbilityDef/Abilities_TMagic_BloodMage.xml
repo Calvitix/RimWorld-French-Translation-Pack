@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Blood For Blood -->
+  <TM_BloodForBlood.label>Sang pour Sang</TM_BloodForBlood.label>
+  <!-- EN: Curses a targets blood to heat and accelerate until it seeps from every pore of its victim. This curse has several affects. \n\nThe blood that's expelled from the target becomes a mist that the caster absorbs as restorative energy and uses it to mend wounds and replenish blood reserves. This ability will slowly heal scars and other permanent injuries of the caster.\n\nThe wounds and injuries of a target will also be healed as the blood exits their body. The target loses a portion of their blood each pulse and, like any wound, can result in incapacitation or death if they lose too much blood.\n\nThe transfer and healing rate is increased for both caster and victim depending on how much the victim is bleeding. The effects are the same when used on friendly or enemy pawns, but will trigger an outrage if used to down or slay an allied or neutral pawn. -->
+  <TM_BloodForBlood.description>Cette malédiction fait chauffer le sang de la cible et l'accélère jusqu'à ce que le sang suinte de tous les pores de la victime. Cette malédiction a plusieurs effets.\n\nLe sang qui est expulsé de la cible devient une brume que le lanceur de sorts absorbe comme énergie réparatrice et l'utilise pour soigner les blessures et reconstituer les réserves de sang. Cette capacité permet de guérir lentement les cicatrices et autres blessures permanentes du lanceur.\n\nLes plaies et les blessures de la cible seront également guéries au fur et à mesure que le sang sort du corps. La cible perd une partie de son sang à chaque impulsion et, comme toute blessure, peut entraîner une incapacité ou la mort si elle perd trop de sang.\n\nLe taux de transfert et de guérison est augmenté pour le lanceur de sorts et la victime en fonction de l'importance de l'hémorragie. Les effets sont les mêmes lorsqu'ils sont utilisés sur des colons amis ou ennemis, mais déclencheront un affront s'ils sont utilisés pour neutraliser ou tuer un colon allié ou neutre.</TM_BloodForBlood.description>
+  
+  <!-- EN: Blood Sacrifice -->
+  <TM_BloodGift.label>Sacrifice de sang</TM_BloodGift.label>
+  <!-- EN: Combines blood and mana into a hybrid form of power used to perform blood magic. The use of blood sacrifice inflicts several deep cuts to allow ready access to blood and combines it with mana to generate an immediate amount of blood magic power.\n	\nBlood mages can slowly generate blood magic power from open, bleeding wounds without the use of mana, and can also train to use fresh, exposed blood near them to fuel blood magic.\n\nA blood mage will slowly lose blood magic power when they are no longer bleeding. -->
+  <TM_BloodGift.description>Combine le sang et le mana en une forme hybride de pouvoir utilisée pour réaliser la magie du sang. L'utilisation du sacrifice de sang inflige plusieurs coupures profondes pour permettre un accès facile au sang et le combine avec le mana pour générer une quantité immédiate de pouvoir de magie du sang.\n\nLes mages de sang peuvent lentement générer un pouvoir de magie du sang à partir de blessures ouvertes qui saignent sans utiliser de mana, et peuvent également s'entraîner à utiliser le sang frais à proximité d'eux pour alimenter la magie du sang.\n\nUn mage de sang perd lentement son pouvoir de magie du sang lorsqu'il ne saigne plus.</TM_BloodGift.description>
+  
+  <!-- EN: Blood Moon -->
+  <TM_BloodMoon.label>Lune de sang</TM_BloodMoon.label>
+  <!-- EN: Surrounds an area in blood magic, calling forth demons of rage and terror to prey on enemies within. -->
+  <TM_BloodMoon.description>Entoure une zone de magie du sang, appelant les démons de rage et de terreur à s'attaquer aux ennemis qui se trouvent à l'intérieur.</TM_BloodMoon.description>
+  
+  <!-- EN: Blood Moon I -->
+  <TM_BloodMoon_I.label>Lune de sang</TM_BloodMoon_I.label>
+  <!-- EN: Surrounds an area in blood magic, calling forth demons of rage and terror to prey on enemies within. -->
+  <TM_BloodMoon_I.description>Entoure une zone de magie du sang, appelant les démons de rage et de terreur à s'attaquer aux ennemis qui se trouvent à l'intérieur.</TM_BloodMoon_I.description>
+  
+  <!-- EN: Blood Moon II -->
+  <TM_BloodMoon_II.label>Lune de sang</TM_BloodMoon_II.label>
+  <!-- EN: Surrounds an area in blood magic, calling forth demons of rage and terror to prey on enemies within. -->
+  <TM_BloodMoon_II.description>Entoure une zone de magie du sang, appelant les démons de rage et de terreur à s'attaquer aux ennemis qui se trouvent à l'intérieur.</TM_BloodMoon_II.description>
+  
+  <!-- EN: Blood Moon III -->
+  <TM_BloodMoon_III.label>Lune de sang</TM_BloodMoon_III.label>
+  <!-- EN: Surrounds an area in blood magic, calling forth demons of rage and terror to prey on enemies within. -->
+  <TM_BloodMoon_III.description>Entoure une zone de magie du sang, appelant les démons de rage et de terreur à s'attaquer aux ennemis qui se trouvent à l'intérieur.</TM_BloodMoon_III.description>
+  
+  <!-- EN: Blood Shield -->
+  <TM_BloodShield.label>Bouclier de sang</TM_BloodShield.label>
+  <!-- EN: Surrounds a target in a barrier formed from the blood energy of the caster. The energy from the shield will slowly regenerate the pawn it is protecting. Any damage done to the shield disperses some of this energy but also causes a burst of healing on the protected pawn.\n		\nA portion of damage absorbed by the shield will be inflicted on the caster due to the blood link - this includes the gradual healing. As long as the blood mage supporting the shield has blood magic power, any returned damage will detract from this blood power, but if the blood mage is out of blood magic power, returned damage will cause physical harm to the blood mage.\n		\nBlood mages cannot form a blood shield on themselves. -->
+  <TM_BloodShield.description>Entoure une cible d'une barrière formée de l'énergie du sang du lanceur de sorts. L'énergie du bouclier régénère lentement le colon qu'il protège. Tout dégât infligé au bouclier disperse une partie de cette énergie mais provoque également une poussée de guérison sur le colon protégé.\n\nUne partie des dégâts absorbés par le bouclier sera infligée au lanceur de sorts à cause du lien de sang - ceci inclut la guérison progressive. Tant que le mage de sang soutenant le bouclier dispose de puissance magique de sang, tout dégât retourné sera déduit de cette puissance de sang, mais si le mage de sang n'a plus de puissance magique de sang, les dégâts retournés causeront des dégâts physiques au mage de sang.\n\nLes mages de sang ne peuvent pas former un bouclier de sang sur eux-mêmes.</TM_BloodShield.description>
+  
+  <!-- EN: Ignite Blood -->
+  <TM_IgniteBlood.label>Embrasement du sang</TM_IgniteBlood.label>
+  <!-- EN: Ignites and burns any exposed blood in an intense flash fire. Fire will continue to spread to nearby blood. -->
+  <TM_IgniteBlood.description>Enflamme et brûle tout le sang exposé dans un feu instantané et intense. Le feu continue à se propager au sang à proximité.</TM_IgniteBlood.description>
+  
+  <!-- EN: Rend -->
+  <TM_Rend.label>Pourfendre</TM_Rend.label>
+  <!-- EN: Causes the victims blood to violently reject its host and erupt from multiple wounds, resulting in massive hemorrhaging.\n		\nRange: 35\nRadius: 3\nMax Targets: 3\nCooldown: 40\nCast Time: 1.5s -->
+  <TM_Rend.description>Le sang de la victime est violemment rejeté par son hôte et jaillit de multiples blessures, provoquant une hémorragie massive.\n\nPortée : 35\nRayon : 3\nCibles max : 3\nTemps de recharge : 40s\nIncantation : 1.5s</TM_Rend.description>
+  
+  <!-- EN: Rend I -->
+  <TM_Rend_I.label>Pourfendre</TM_Rend_I.label>
+  <!-- EN: Causes the victims blood to violently reject its host and erupt from multiple wounds, resulting in massive hemorrhaging.\n		\nRange: 38\nRadius: 4\nMax Targets: 4\nCooldown: 30\nCast Time: 1.3s -->
+  <TM_Rend_I.description>Le sang de la victime est violemment rejeté par son hôte et jaillit de multiples blessures, provoquant une hémorragie massive.\n\nPortée : 38\nRayon : 4\nCibles max : 4\nTemps de recharge : 30s\nIncantation : 1.3s</TM_Rend_I.description>
+  
+  <!-- EN: Rend (II) -->
+  <TM_Rend_II.label>Pourfendre</TM_Rend_II.label>
+  <!-- EN: Causes the victims blood to violently reject its host and erupt from multiple wounds, resulting in massive hemorrhaging.\n		\nRange: 41\nRadius: 4\nMax Targets: 5\nCooldown: 20 \nCast Time: 1.1s -->
+  <TM_Rend_II.description>Le sang de la victime est violemment rejeté par son hôte et jaillit de multiples blessures, provoquant une hémorragie massive.\n\nPortée : 41\nRayon : 4\nCibles max : 5\nTemps de recharge : 20s\nIncantation : 1.1s</TM_Rend_II.description>
+  
+  <!-- EN: Rend -->
+  <TM_Rend_III.label>Pourfendre</TM_Rend_III.label>
+  <!-- EN: Causes the victims blood to violently reject its host and erupt from multiple wounds, resulting in massive hemorrhaging.\n		\nRange: 44\nRadius: 5\nMax Targets: 5\nCooldown: 10\nCast Time: 1s -->
+  <TM_Rend_III.description>Le sang de la victime est violemment rejeté par son hôte et jaillit de multiples blessures, provoquant une hémorragie massive.\n\nPortée : 44\nRayon : 5\nCibles max : 5\nTemps de recharge : 10s\nIncantation : 1s</TM_Rend_III.description>
+  
+</LanguageData>

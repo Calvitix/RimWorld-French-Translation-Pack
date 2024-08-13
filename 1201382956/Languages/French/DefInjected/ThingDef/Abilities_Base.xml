@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flying object that does lots of stuff -->
+  <FlyingObject_Advanced.label>objet volant faisant beaucoup de choses</FlyingObject_Advanced.label>
+  
+  <!-- EN: flying object that spins -->
+  <FlyingObject_Spinning.label>objet volant tournant sur lui-même</FlyingObject_Spinning.label>
+  
+  <!-- EN: flying object that spins -->
+  <FlyingObject_SpinningBone.label>objet volant tournant sur lui-même</FlyingObject_SpinningBone.label>
+  
+  <!-- EN: default -->
+  <Projectile_Default.label>par défaut</Projectile_Default.label>
+  
+</LanguageData>

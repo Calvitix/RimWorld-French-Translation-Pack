@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flying -->
+  <Flight.label>vol</Flight.label>
+  
+  <!-- EN: adult -->
+  <TM_SpiritAnimal.label>adulte</TM_SpiritAnimal.label>
+  
+</LanguageData>

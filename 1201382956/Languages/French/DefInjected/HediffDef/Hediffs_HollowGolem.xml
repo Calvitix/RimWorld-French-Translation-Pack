@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Death Field -->
+  <TM_DeathFieldHD.label>champ de la mort</TM_DeathFieldHD.label>
+  <!-- EN: Periodically strikes nearby targets with death magic. -->
+  <TM_DeathFieldHD.description>Frappe périodiquement les cibles proches avec de la magie de mort.</TM_DeathFieldHD.description>
+  
+  <!-- EN: Decay -->
+  <TM_DecayHD.label>décomposition</TM_DecayHD.label>
+  <!-- EN: Rapidly decays, corrodes, and dissolves material and tissue. -->
+  <TM_DecayHD.description>Se décompose rapidement, corrode et dissout les matériaux et les tissus.</TM_DecayHD.description>
+  
+  <!-- EN: Death's Abyss -->
+  <TM_DoomFieldHD.label>abîme de la mort</TM_DoomFieldHD.label>
+  <!-- EN: Periodically slows nearby targets with their impending doom. -->
+  <TM_DoomFieldHD.description>Ralentit périodiquement les cibles proches en leur annonçant leur mort imminente.</TM_DoomFieldHD.description>
+  
+  <!-- EN: breastplate -->
+  <TM_HollowGolem_BreastPlateHD.label>cuirasse</TM_HollowGolem_BreastPlateHD.label>
+  <!-- EN: Protects the torso and chest from attacks. -->
+  <TM_HollowGolem_BreastPlateHD.description>Protège le torse et la poitrine des attaques.</TM_HollowGolem_BreastPlateHD.description>
+  
+  <!-- EN: fade cloak -->
+  <TM_HollowGolem_CloakHD.label>cape de déplacement</TM_HollowGolem_CloakHD.label>
+  <!-- EN: Increases movement speed and provides a small amount of protection. -->
+  <TM_HollowGolem_CloakHD.description>Augmente la vitesse de déplacement et fournit une petite protection.</TM_HollowGolem_CloakHD.description>
+  
+  <!-- EN: Coat of Arms: Fire -->
+  <TM_HollowGolem_CoAFireHD.label>blason : Feu</TM_HollowGolem_CoAFireHD.label>
+  <!-- EN: Increases movement speed and heat resistance. -->
+  <TM_HollowGolem_CoAFireHD.description>Augmente la vitesse de déplacement et la résistance à la chaleur.</TM_HollowGolem_CoAFireHD.description>
+  <!-- EN: I -->
+  <TM_HollowGolem_CoAFireHD.stages.I.label>I</TM_HollowGolem_CoAFireHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_HollowGolem_CoAFireHD.stages.II.label>II</TM_HollowGolem_CoAFireHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_HollowGolem_CoAFireHD.stages.III.label>III</TM_HollowGolem_CoAFireHD.stages.III.label>
+  
+  <!-- EN: Coat of Arms -->
+  <TM_HollowGolem_CoAIceHD.label>blason</TM_HollowGolem_CoAIceHD.label>
+  <!-- EN: Increases armor. -->
+  <TM_HollowGolem_CoAIceHD.description>Augmente l'armure.</TM_HollowGolem_CoAIceHD.description>
+  <!-- EN: I -->
+  <TM_HollowGolem_CoAIceHD.stages.I.label>I</TM_HollowGolem_CoAIceHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_HollowGolem_CoAIceHD.stages.II.label>II</TM_HollowGolem_CoAIceHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_HollowGolem_CoAIceHD.stages.III.label>III</TM_HollowGolem_CoAIceHD.stages.III.label>
+  
+  <!-- EN: crown of awakening -->
+  <TM_HollowGolem_CrownHD.label>couronne d'éveil</TM_HollowGolem_CrownHD.label>
+  <!-- EN: Strengthens willpower and offers minor protection against physical attacks. -->
+  <TM_HollowGolem_CrownHD.description>Renforce la volonté et offre une protection mineure contre les attaques physiques.</TM_HollowGolem_CrownHD.description>
+  
+  <!-- EN: helmet -->
+  <TM_HollowGolem_HelmHD.label>casque</TM_HollowGolem_HelmHD.label>
+  <!-- EN: Protects the head and skull. -->
+  <TM_HollowGolem_HelmHD.description>Protège la tête et le crâne.</TM_HollowGolem_HelmHD.description>
+  
+  <!-- EN: shoulders -->
+  <TM_HollowGolem_ShoulderHD.label>épaulières</TM_HollowGolem_ShoulderHD.label>
+  <!-- EN: Protects the shoulders, collar, and neck. -->
+  <TM_HollowGolem_ShoulderHD.description>Protège les épaules, le col et le cou.</TM_HollowGolem_ShoulderHD.description>
+  
+</LanguageData>

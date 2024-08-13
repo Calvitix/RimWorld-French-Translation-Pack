@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: combat manual -->
+  <TM_CombatManual.label>TODO</TM_CombatManual.label>
+  <!-- EN: A manual describes various combat techniques.\n<i><color=#66E0E4FF>A RimWorld of Magic</color></i> -->
+  <TM_CombatManual.description>TODO</TM_CombatManual.description>
+  
+  <!-- EN: grimoire -->
+  <TM_Grimoire.label>TODO</TM_Grimoire.label>
+  <!-- EN: A book which divines the mysteries of magic. These volumes can help a reader harness arcane powers.\n<i><color=#66E0E4FF>A RimWorld of Magic</color></i> -->
+  <TM_Grimoire.description>TODO</TM_Grimoire.description>
+  
+</LanguageData>

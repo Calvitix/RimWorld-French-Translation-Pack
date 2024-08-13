@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Charismatic pawn -->
+  <TM_CommanderTD.stages.Charismatic_pawn.label>colon charismatique</TM_CommanderTD.stages.Charismatic_pawn.label>
+  <!-- EN: I've been emotionally charged! I'm not sure what, but good things are bound to happen around such a charismatic commander. -->
+  <TM_CommanderTD.stages.Charismatic_pawn.description>J'ai été rempli d'émotions ! Je ne sais pas trop quoi, mais de bonnes choses ne peuvent qu'arriver autour d'un commandant aussi charismatique.</TM_CommanderTD.stages.Charismatic_pawn.description>
+  
+  <!-- EN: Charismatic commander -->
+  <TM_CommanderTD_I.stages.Charismatic_commander.label>commandant charismatique</TM_CommanderTD_I.stages.Charismatic_commander.label>
+  <!-- EN: I've been emotionally charged! Good things are bound to happen around such a charismatic commander, though it's not exactly clear how. -->
+  <TM_CommanderTD_I.stages.Charismatic_commander.description>J'ai été rempli d'émotions ! De bonnes choses sont censées se produire autour d'un commandant aussi charismatique, bien que l'on ne sache pas exactement comment.</TM_CommanderTD_I.stages.Charismatic_commander.description>
+  
+  <!-- EN: Charismatic leader -->
+  <TM_CommanderTD_II.stages.Charismatic_leader.label>chef charismatique</TM_CommanderTD_II.stages.Charismatic_leader.label>
+  <!-- EN: I've been emotionally charged! Good things are bound to happen around such a charismatic leader. -->
+  <TM_CommanderTD_II.stages.Charismatic_leader.description>J'ai été rempli d'émotions ! De bonnes choses vont forcément se produire autour d'un chef aussi charismatique.</TM_CommanderTD_II.stages.Charismatic_leader.description>
+  
+  <!-- EN: Charismatic visionary -->
+  <TM_CommanderTD_III.stages.Charismatic_visionary.label>visionnaire charismatique</TM_CommanderTD_III.stages.Charismatic_visionary.label>
+  <!-- EN: I've been emotionally charged! Good things are bound to happen around such a charismatic visionary. -->
+  <TM_CommanderTD_III.stages.Charismatic_visionary.description>J'ai été rempli d'émotions ! De bonnes choses ne peuvent que se produire autour d'un visionnaire aussi charismatique.</TM_CommanderTD_III.stages.Charismatic_visionary.description>
+  
+  <!-- EN: Task master -->
+  <TM_TaskMasterTD.stages.Task_master.label>maître d'œuvre</TM_TaskMasterTD.stages.Task_master.label>
+  <!-- EN: Every aspect of my life has become micro-managed; I barely have time to eat a decent meal. -->
+  <TM_TaskMasterTD.stages.Task_master.description>Tous les aspects de ma vie sont devenus micro-gérés ; j'ai à peine le temps de manger un repas décent.</TM_TaskMasterTD.stages.Task_master.description>
+  
+</LanguageData>

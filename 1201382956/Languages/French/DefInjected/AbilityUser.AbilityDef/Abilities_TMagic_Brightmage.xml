@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Light Burst -->
+  <TM_LightBurst.label>Rafale lumineuse</TM_LightBurst.label>
+  <!-- EN: Creates flashes of light that blind and disorient pawns caught in the blast. Disoriented pawns will be unable to distinguish between friend and foe and may fire on nearby friendly pawns. This ability is empowered by stored light. -->
+  <TM_LightBurst.description>Crée des éclairs de lumière qui aveuglent et désorientent les colons pris dans l'explosion. Les colons désorientés seront incapables de distinguer un ami d'un ennemi et pourront tirer sur les colons amis proches. Cette capacité est renforcée par la lumière accumulée.</TM_LightBurst.description>
+  
+  <!-- EN: Light Lance -->
+  <TM_LightLance.label>Javelot de lumière</TM_LightLance.label>
+  <!-- EN: Focus light into an intense beam that burns everything along its path. This ability is empowered by stored light. -->
+  <TM_LightLance.description>Concentrer la lumière en un faisceau intense qui brûle tout sur son passage. Cette capacité est renforcée par la lumière accumulée.</TM_LightLance.description>
+  
+  <!-- EN: Light Skip -->
+  <TM_LightSkip.label>Saut de lumière</TM_LightSkip.label>
+  <!-- EN: The caster rides a wave of light for near-instant travel. Neither the caster's position or target's position can be roofed. -->
+  <TM_LightSkip.description>Le lanceur de sorts voyage à travers un faisceau de lumière pour un déplacement quasi instantané. Ni la position du lanceur de sorts ni la position ciblée ne doivent être recouvert d’un toit.</TM_LightSkip.description>
+  
+  <!-- EN: Global Light Skip -->
+  <TM_LightSkipGlobal.label>Saut de lumière monde</TM_LightSkipGlobal.label>
+  <!-- EN: The caster and all allies in a 5 cell radius rides waves of light for near-instant travel. Pawns under a roof will not be transported. -->
+  <TM_LightSkipGlobal.description>Le lanceur de sorts et tous les alliés dans un rayon de 5 cases voyagent à travers des ondes de lumière pour un voyage quasi-instantané. Les colons se trouvant sous un toit ne seront pas transportés.</TM_LightSkipGlobal.description>
+  
+  <!-- EN: Mass Light Skip -->
+  <TM_LightSkipMass.label>Saut de lumière de masse</TM_LightSkipMass.label>
+  <!-- EN: The caster and all allies in a 5 cell radius rides waves of light for near-instant travel. Pawns under a roof will not be transported. -->
+  <TM_LightSkipMass.description>Le lanceur de sorts et tous les alliés dans un rayon de 5 cases voyagent à travers des ondes de lumière pour un voyage quasi-instantané. Les colons se trouvant sous un toit ne seront pas transportés.</TM_LightSkipMass.description>
+  
+  <!-- EN: Refraction -->
+  <TM_Refraction.label>Réfraction</TM_Refraction.label>
+  <!-- EN: Creates a wall of light that affects projectiles as they pass through the wall. Enemy projectiles may be offset from their intended targets. Friendly projectiles may use a portion of the light energy to create a mirrored reflection of the projectile. The wall will last about 25 seconds or until it runs out of energy. This ability is empowered by stored light. -->
+  <TM_Refraction.description>Crée un mur de lumière qui affecte les projectiles lorsqu'ils traversent le mur. Les projectiles ennemis peuvent être déviés de leur cible. Les projectiles amis peuvent utiliser une partie de l'énergie lumineuse pour créer un reflet miroir du projectile. Le mur dure environ 25 secondes ou jusqu'à ce qu'il soit à court d'énergie. Cette capacité est renforcée par la lumière accumulée.</TM_Refraction.description>
+  
+  <!-- EN: Create Light -->
+  <TM_SoL_CreateLight.label>Créer une lumière</TM_SoL_CreateLight.label>
+  <!-- EN: Directs the Spirit of Light to create light at an area. This reduces the Spirit's light regeneration by 70%. Use this ability again at any location to dismiss the light. -->
+  <TM_SoL_CreateLight.description>Demande à l'Esprit de lumière de créer une lumière dans une zone donnée. Cela réduit la régénération de lumière de l'Esprit de 70%. Utiliser à nouveau cette capacité à n'importe quel endroit pour annuler la lumière.</TM_SoL_CreateLight.description>
+  
+  <!-- EN: Equalize -->
+  <TM_SoL_Equalize.label>Egaliseur</TM_SoL_Equalize.label>
+  <!-- EN: Equalizes the light energy between the Spirit of Light and caster. -->
+  <TM_SoL_Equalize.description>Égalise l'énergie lumineuse entre l'Esprit de lumière et le lanceur de sorts.</TM_SoL_Equalize.description>
+  
+  <!-- EN: Spirit Of Light -->
+  <TM_SpiritOfLight.label>Esprit de lumière</TM_SpiritOfLight.label>
+  <!-- EN: Summons a Spirit of Light that aids and protects the caster. This ability requires 60 mana to sustain and reduces mana regeneration by 75%. Use this ability again to dismiss the spirit. The SoL is able to store light energy and uses light energy to perform actions.\n		\nThe Spirit of Light works autonomously to aid the caster and will perform the following actions:\no Deflects attacks\no Cauterizes wounds of downed pawns\no Attacks enemies (only when drafted)\no Improve mood of nearby allies\no Create a burst of joy\no Protects the caster's dreams -->
+  <TM_SpiritOfLight.description>Invoque un esprit de lumière qui aide et protège le lanceur de sorts. Cette capacité nécessite 60 mana pour être soutenue et réduit la régénération de mana de 75%. Utiliser à nouveau cette capacité pour renvoyer l'esprit. L'Esprit de lumière est capable de stocker de l'énergie lumineuse et utilise cette énergie pour effectuer des actions.\n\nL'esprit de lumière travaille de manière autonome pour aider le lanceur de sorts et effectue les actions suivantes :\no Dévier les attaques\no Cautériser les blessures des colons à terre\no Attaquer les ennemis (si Mobiliser)\no Améliorer l'humeur des alliés proches\no Créer une explosion de joie\no Protège les rêves du lanceur de sorts</TM_SpiritOfLight.description>
+  
+  <!-- EN: Sunfire -->
+  <TM_Sunfire.label>Éclat solaire</TM_Sunfire.label>
+  <!-- EN: The target area is laced with burning slashes of light. This ability is empowered by stored light.\n\nCast time: 3s\nRange: 50\nCooldown: 60s\nRadius: 5\nCount: 13 -->
+  <TM_Sunfire.description>La zone ciblée est parcourue d'éclats de lumière brûlants. Cette capacité est renforcée par la lumière accumulée.\n\nIncantation : 3s\nPortée : 50\nTemps de recharge : 60s\nRayon : 5\nNombre : 13</TM_Sunfire.description>
+  
+  <!-- EN: Sunfire (I) -->
+  <TM_Sunfire_I.label>Éclat solaire</TM_Sunfire_I.label>
+  <!-- EN: The target area is laced with burning slashes of light. This ability is empowered by stored light.\n\nCast time: 2.7s\nRange: 55\nCooldown: 55s\nRadius: 6\nCount: 14 -->
+  <TM_Sunfire_I.description>La zone ciblée est parcourue d'éclats de lumière brûlants. Cette capacité est renforcée par la lumière accumulée.\n\nIncantation : 2.7s\nPortée : 55\nTemps de recharge : 55s\nRayon: 6\nNombre: 14</TM_Sunfire_I.description>
+  
+  <!-- EN: Sunfire (II) -->
+  <TM_Sunfire_II.label>Éclat solaire</TM_Sunfire_II.label>
+  <!-- EN: The target area is laced with burning slashes of light. This ability is empowered by stored light.\n\nCast time: 2.4s\nRange: 60\nCooldown: 50s\nRadius: 7\nCount: 15 -->
+  <TM_Sunfire_II.description>La zone ciblée est parcourue d'éclats de lumière brûlants. Cette capacité est renforcée par la lumière accumulée.\n\nIncantation : 2.4s\nPortée : 60\nTemps de recharge : 50s\nRayon: 7\nNombre: 15</TM_Sunfire_II.description>
+  
+  <!-- EN: Sunfire (III) -->
+  <TM_Sunfire_III.label>Éclat solaire</TM_Sunfire_III.label>
+  <!-- EN: The target area is laced with burning slashes of light. This ability is empowered by stored light.\n\nCast time: 2.2s\nRange: 65\nCooldown: 45s\nRadius: 8\nCount: 16 -->
+  <TM_Sunfire_III.description>La zone ciblée est parcourue d'éclats de lumière brûlants. Cette capacité est renforcée par la lumière accumulée.\n\nIncantation : 2.2s\nPortée : 65\nTemps de recharge : 45s\nRayon: 8\nNombre: 16</TM_Sunfire_III.description>
+  
+</LanguageData>

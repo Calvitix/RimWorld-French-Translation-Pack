@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Earth Elemental -->
+  <TM_Earth_ElementalR.label>élémentaire de terre</TM_Earth_ElementalR.label>
+  <!-- EN: The earth elemental is a lumbering, stubborn creature made of living stone.  Its hide appears to be made out of rock and crystal with patches of mud and soil where the joints should be.  This creature is the most steadfast of all elementals, able to weather a storm of blows.  This creature puts modern tanks to shame with its invincible skin. -->
+  <TM_Earth_ElementalR.description>L'élémentaire de terre est une créature robuste et têtue faite de pierre vivante. Sa peau semble faite de roche et de cristal, avec des taches de boue et de terre à la place des articulations. Cette créature est la plus inébranlable de tous les élémentaires, capable de résister à une tempête de coups. Cette créature fait honte aux chars modernes avec sa peau invincible.</TM_Earth_ElementalR.description>
+  <!-- EN: elemental dust -->
+  <TM_Earth_ElementalR.race.meatLabel>poussière élémentaire</TM_Earth_ElementalR.race.meatLabel>
+  <!-- EN: left arm -->
+  <TM_Earth_ElementalR.tools.left_arm.label>bras gauche</TM_Earth_ElementalR.tools.left_arm.label>
+  <!-- EN: right arm -->
+  <TM_Earth_ElementalR.tools.right_arm.label>bras droit</TM_Earth_ElementalR.tools.right_arm.label>
+  <!-- EN: horn -->
+  <TM_Earth_ElementalR.tools.horn.label>corne</TM_Earth_ElementalR.tools.horn.label>
+  
+  <!-- EN: Fire Elemental -->
+  <TM_Fire_ElementalR.label>élémentaire de feu</TM_Fire_ElementalR.label>
+  <!-- EN: Fire elementals are vicious creatures of living flame.  They are quick and cruel in nature, specializing in destruction.  The fire elemental appears to be a mixture of oily and molten substances wreathed in flames and ash, its skin is almost fluid looking, as if it is constantly melting and reforming.  The creature bears what looks to be a wicked grin... enemies should be wary of playing with this fire. -->
+  <TM_Fire_ElementalR.description>Les élémentaires de feu sont des créatures violentes de flammes vivantes. De nature rapide et cruelle, elles sont spécialisées dans la destruction. L'élémentaire de feu semble être un mélange de substances huileuses et fondues enveloppées de flammes et de cendres, sa peau a l'air presque liquide, comme si elle fondait et se reformait constamment.  La créature arbore ce qui semble être un sourire malicieux... les ennemis devraient se méfier de jouer avec ce feu.</TM_Fire_ElementalR.description>
+  <!-- EN: elemental dust -->
+  <TM_Fire_ElementalR.race.meatLabel>poussière élémentaire</TM_Fire_ElementalR.race.meatLabel>
+  <!-- EN: left arm -->
+  <TM_Fire_ElementalR.tools.left_arm.label>bras gauche</TM_Fire_ElementalR.tools.left_arm.label>
+  <!-- EN: right arm -->
+  <TM_Fire_ElementalR.tools.right_arm.label>bras droit</TM_Fire_ElementalR.tools.right_arm.label>
+  <!-- EN: horn -->
+  <TM_Fire_ElementalR.tools.horn.label>corne</TM_Fire_ElementalR.tools.horn.label>
+  
+  <!-- EN: Greater Earth Elemental -->
+  <TM_GreaterEarth_ElementalR.label>élémentaire de terre supérieure</TM_GreaterEarth_ElementalR.label>
+  <!-- EN: The earth elemental is a lumbering, stubborn monstrosity made of living stone.  Its hide appears to be made out of rock and crystal with patches of mud and soil where the joints should be. Its mouth is a cavern and there appear to be small trees or shrubs growing atop its back as if it is wearing a cloak of vegetation. This creature is the most steadfast of all elementals, able to weather a storm of blows, and this elemental is a master of its element.  The power of this creature will literally crush your foes, the only chance they have is to run. -->
+  <TM_GreaterEarth_ElementalR.description>L'élémentaire de terre est une monstruosité de pierre vivante, lourde et têtue. Sa peau semble faite de roche et de cristal avec des taches de boue et de terre à la place des articulations. Sa bouche est une caverne et de petits arbres ou arbustes semblent pousser sur son dos, comme s'il portait un manteau de végétation. Cette créature est la plus inébranlable de tous les élémentaires, capable de résister à une tempête de coups, et elle maîtrise parfaitement son élément. La puissance de cette créature écrasera littéralement vos ennemis, qui n'auront plus qu'à fuir.</TM_GreaterEarth_ElementalR.description>
+  <!-- EN: elemental dust -->
+  <TM_GreaterEarth_ElementalR.race.meatLabel>poussière élémentaire</TM_GreaterEarth_ElementalR.race.meatLabel>
+  <!-- EN: left arm -->
+  <TM_GreaterEarth_ElementalR.tools.left_arm.label>bras gauche</TM_GreaterEarth_ElementalR.tools.left_arm.label>
+  <!-- EN: right arm -->
+  <TM_GreaterEarth_ElementalR.tools.right_arm.label>bras droit</TM_GreaterEarth_ElementalR.tools.right_arm.label>
+  <!-- EN: horn -->
+  <TM_GreaterEarth_ElementalR.tools.horn.label>corne</TM_GreaterEarth_ElementalR.tools.horn.label>
+  
+  <!-- EN: Greater Fire Elemental -->
+  <TM_GreaterFire_ElementalR.label>élémentaire de feu supérieure</TM_GreaterFire_ElementalR.label>
+  <!-- EN: Fire elementals are vicious creatures of living flame.  They are quick and cruel in nature, knowing only destruction.  The fire elemental appears to be a mixture of oily and molten substances wreathed in flames and ash.  Its skin is almost fluid looking, as if it is constantly melting and reforming.  Before you stands a prince of destruction, wearing a crown of flame upon its brow and its chest is adorned with plate of obsidian writhing in flames.  It stares at you with its single, glinting eye ready to unleash its malice. -->
+  <TM_GreaterFire_ElementalR.description>Les élémentaires de feu sont des créatures violentes de flammes vivantes. Ils sont rapides et cruels de nature, ne connaissant que la destruction. L'élémentaire de feu semble être un mélange de substances huileuses et fondues enveloppées de flammes et de cendres. Sa peau a l'air presque liquide, comme si elle était constamment en train de fondre et de se reformer. Devant vous se tient un prince de la destruction, portant une couronne de flammes sur son front et sa poitrine est ornée de plaques d'obsidienne se tordant dans les flammes. Il vous fixe de son unique œil étincelant, prêt à libérer sa malice.</TM_GreaterFire_ElementalR.description>
+  <!-- EN: elemental dust -->
+  <TM_GreaterFire_ElementalR.race.meatLabel>poussière élémentaire</TM_GreaterFire_ElementalR.race.meatLabel>
+  <!-- EN: left arm -->
+  <TM_GreaterFire_ElementalR.tools.left_arm.label>bras gauche</TM_GreaterFire_ElementalR.tools.left_arm.label>
+  <!-- EN: right arm -->
+  <TM_GreaterFire_ElementalR.tools.right_arm.label>bras droit</TM_GreaterFire_ElementalR.tools.right_arm.label>
+  <!-- EN: horn -->
+  <TM_GreaterFire_ElementalR.tools.horn.label>corne</TM_GreaterFire_ElementalR.tools.horn.label>
+  
+  <!-- EN: Greater Water Elemental -->
+  <TM_GreaterWater_ElementalR.label>élémentaire d'eau supérieure</TM_GreaterWater_ElementalR.label>
+  <!-- EN: Water elementals are creatures of living water.  They embody the spirit of unbound patience and solitude.  They appear as a swirling mass of water, sometimes seeming to take the shape of a creature or object with bits of flotsam occasionally surfacing.  They are always in motion and seem to glide or sway when moving.  This enormous elemental before you has whirlpools for eyes and moves like a crashing wave. -->
+  <TM_GreaterWater_ElementalR.description>Les élémentaires d'eau sont des créatures d'eau vivante. Ils incarnent l'esprit de la patience sans limite et de la solitude. Ils apparaissent sous la forme d'une masse d'eau tourbillonnante, semblant parfois prendre la forme d'une créature ou d'un objet avec des morceaux d'objets remontant parfois à la surface. Ils sont toujours en mouvement et semblent glisser ou se balancer lorsqu'ils se déplacent. L'énorme élémentaire qui se trouve devant vous a des tourbillons à la place des yeux et se déplace comme une vague déferlante.</TM_GreaterWater_ElementalR.description>
+  <!-- EN: elemental dust -->
+  <TM_GreaterWater_ElementalR.race.meatLabel>poussière élémentaire</TM_GreaterWater_ElementalR.race.meatLabel>
+  <!-- EN: left arm -->
+  <TM_GreaterWater_ElementalR.tools.left_arm.label>bras gauche</TM_GreaterWater_ElementalR.tools.left_arm.label>
+  <!-- EN: right arm -->
+  <TM_GreaterWater_ElementalR.tools.right_arm.label>bras droit</TM_GreaterWater_ElementalR.tools.right_arm.label>
+  <!-- EN: horn -->
+  <TM_GreaterWater_ElementalR.tools.horn.label>corne</TM_GreaterWater_ElementalR.tools.horn.label>
+  
+  <!-- EN: Greater Wind Elemental -->
+  <TM_GreaterWind_ElementalR.label>élémentaire d'air supérieure</TM_GreaterWind_ElementalR.label>
+  <!-- EN: Air elementals are beings of living wind and possess unnatural speed and agility.  The physical manifestation of the air elemental appears to rapidly shift; sometimes a hazy smoke, other times a biting whirlwind.  The air currents seem to form an barely perceptible outline of a humanoid form.  There is no doubt that this elemental is a supreme being capable of unleashing the fury of a storm. -->
+  <TM_GreaterWind_ElementalR.description>Les élémentaires d'air sont des êtres de vent vivant et possèdent une vitesse et une agilité contre nature. La manifestation physique de l'élémentaire d'air semble changer rapidement ; parfois une fumée brumeuse, d'autres fois un tourbillon violent. Les courants d'air semblent former le contour à peine perceptible d'une forme humanoïde. Il ne fait aucun doute que cet élémentaire est un être supérieur capable de déchaîner la fureur d'une tempête.</TM_GreaterWind_ElementalR.description>
+  <!-- EN: elemental dust -->
+  <TM_GreaterWind_ElementalR.race.meatLabel>poussière élémentaire</TM_GreaterWind_ElementalR.race.meatLabel>
+  <!-- EN: left arm -->
+  <TM_GreaterWind_ElementalR.tools.left_arm.label>bras gauche</TM_GreaterWind_ElementalR.tools.left_arm.label>
+  <!-- EN: right arm -->
+  <TM_GreaterWind_ElementalR.tools.right_arm.label>bras droit</TM_GreaterWind_ElementalR.tools.right_arm.label>
+  <!-- EN: horn -->
+  <TM_GreaterWind_ElementalR.tools.horn.label>corne</TM_GreaterWind_ElementalR.tools.horn.label>
+  
+  <!-- EN: Lesser Earth Elemental -->
+  <TM_LesserEarth_ElementalR.label>élémentaire de terre inférieur</TM_LesserEarth_ElementalR.label>
+  <!-- EN: The earth elemental is a lumbering, stubborn creature made of living stone.  Its hide appears to be made out of rock and crystal with patches of mud and soil where the joints should be.  This creature is the most steadfast of all elementals, able to weather a storm of blows.  While this is a lesser elemental, it still dwarfs most humanoids and possesses a remarkable ability to defend its master. -->
+  <TM_LesserEarth_ElementalR.description>L'élémentaire de terre est une créature robuste et têtue faite de pierre vivante. Sa peau semble faite de roche et de cristal, avec des taches de boue et de terre à la place des articulations. Cette créature est la plus inébranlable de tous les élémentaires, capable de résister à une tempête de coups. Bien qu'il s'agisse d'un élémentaire inférieur, il dépasse la plupart des humanoïdes et possède une remarquable capacité à défendre son maître.</TM_LesserEarth_ElementalR.description>
+  <!-- EN: elemental dust -->
+  <TM_LesserEarth_ElementalR.race.meatLabel>poussière élémentaire</TM_LesserEarth_ElementalR.race.meatLabel>
+  <!-- EN: left arm -->
+  <TM_LesserEarth_ElementalR.tools.left_arm.label>bras gauche</TM_LesserEarth_ElementalR.tools.left_arm.label>
+  <!-- EN: right arm -->
+  <TM_LesserEarth_ElementalR.tools.right_arm.label>bras droit</TM_LesserEarth_ElementalR.tools.right_arm.label>
+  <!-- EN: horn -->
+  <TM_LesserEarth_ElementalR.tools.horn.label>corne</TM_LesserEarth_ElementalR.tools.horn.label>
+  
+  <!-- EN: Lesser Fire Elemental -->
+  <TM_LesserFire_ElementalR.label>élémentaire de feu inférieur</TM_LesserFire_ElementalR.label>
+  <!-- EN: Fire elementals are vicious creatures of living flame.  They are quick and cruel in nature, specializing in destruction.  The fire elemental appears to be a mixture of oily and molten substances wreathed in flames and ash, its skin is almost fluid looking, as if it is constantly melting and reforming.  Lesser in nature, the glint in the eyes of this being are the only warning enemies will have before being consumed in its rage. -->
+  <TM_LesserFire_ElementalR.description>Les élémentaires de feu sont des créatures violentes de flammes vivantes. De nature rapide et cruelle, elles sont spécialisées dans la destruction. L'élémentaire de feu semble être un mélange de substances huileuses et fondues enveloppées de flammes et de cendres, sa peau a l'air presque fluide, comme si elle fondait et se reformait constamment. De nature plus modeste, la lueur dans les yeux de cet être est le seul avertissement que les ennemis auront avant d'être consumés par sa rage.</TM_LesserFire_ElementalR.description>
+  <!-- EN: elemental dust -->
+  <TM_LesserFire_ElementalR.race.meatLabel>poussière élémentaire</TM_LesserFire_ElementalR.race.meatLabel>
+  <!-- EN: left arm -->
+  <TM_LesserFire_ElementalR.tools.left_arm.label>bras gauche</TM_LesserFire_ElementalR.tools.left_arm.label>
+  <!-- EN: right arm -->
+  <TM_LesserFire_ElementalR.tools.right_arm.label>bras droit</TM_LesserFire_ElementalR.tools.right_arm.label>
+  <!-- EN: horn -->
+  <TM_LesserFire_ElementalR.tools.horn.label>corne</TM_LesserFire_ElementalR.tools.horn.label>
+  
+  <!-- EN: Lesser Water Elemental -->
+  <TM_LesserWater_ElementalR.label>élémentaire d'eau inférieur</TM_LesserWater_ElementalR.label>
+  <!-- EN: Water elementals are creatures of living water.  They embody the spirit of unbound patience and solitude.  They appear as a swirling mass of water, sometimes seeming to take the shape of a creature or object with bits of flotsam occasionally surfacing.  They are always in motion and seem to glide or sway when moving.  The creature before you is a smaller form, but will relentlessly overcome even the strongest opponent. -->
+  <TM_LesserWater_ElementalR.description>Les élémentaires d'eau sont des créatures d'eau vivante. Ils incarnent l'esprit de la patience sans limite et de la solitude. Ils apparaissent sous la forme d'une masse d'eau tourbillonnante, semblant parfois prendre la forme d'une créature ou d'un objet avec des morceaux d'objets remontant parfois à la surface. Ils sont toujours en mouvement et semblent glisser ou se balancer lorsqu'ils se déplacent. La créature qui se trouve devant vous est une forme plus petite, mais elle vaincra sans relâche même le plus fort des adversaires.</TM_LesserWater_ElementalR.description>
+  <!-- EN: elemental dust -->
+  <TM_LesserWater_ElementalR.race.meatLabel>poussière élémentaire</TM_LesserWater_ElementalR.race.meatLabel>
+  <!-- EN: left arm -->
+  <TM_LesserWater_ElementalR.tools.left_arm.label>bras gauche</TM_LesserWater_ElementalR.tools.left_arm.label>
+  <!-- EN: right arm -->
+  <TM_LesserWater_ElementalR.tools.right_arm.label>bras droit</TM_LesserWater_ElementalR.tools.right_arm.label>
+  <!-- EN: horn -->
+  <TM_LesserWater_ElementalR.tools.horn.label>corne</TM_LesserWater_ElementalR.tools.horn.label>
+  
+  <!-- EN: Lesser Wind Elemental -->
+  <TM_LesserWind_ElementalR.label>élémentaire d'air inférieur</TM_LesserWind_ElementalR.label>
+  <!-- EN: Air elementals are beings of living wind and possess unnatural speed and agility.  The physical manifestation of the air elemental appears to rapidly shift; sometimes a hazy smoke, other times a biting whirlwind.  The air currents seem to form an barely perceptible outline of a humanoid form.  While lesser in nature, this elemental will rain vicious, stinging attacks upon its enemies. -->
+  <TM_LesserWind_ElementalR.description>Les élémentaires d'air sont des êtres de vent vivant et possèdent une vitesse et une agilité contre nature. La manifestation physique de l'élémentaire d'air semble changer rapidement ; parfois une fumée brumeuse, d'autres fois un tourbillon violent. Les courants d'air semblent former le contour à peine perceptible d'une forme humanoïde. Bien qu'il soit de nature inférieure, cet élémentaire fait pleuvoir des attaques vicieuses et urticantes sur ses ennemis.</TM_LesserWind_ElementalR.description>
+  <!-- EN: elemental dust -->
+  <TM_LesserWind_ElementalR.race.meatLabel>poussière élémentaire</TM_LesserWind_ElementalR.race.meatLabel>
+  <!-- EN: left arm -->
+  <TM_LesserWind_ElementalR.tools.left_arm.label>bras gauche</TM_LesserWind_ElementalR.tools.left_arm.label>
+  <!-- EN: right arm -->
+  <TM_LesserWind_ElementalR.tools.right_arm.label>bras droit</TM_LesserWind_ElementalR.tools.right_arm.label>
+  <!-- EN: horn -->
+  <TM_LesserWind_ElementalR.tools.horn.label>corne</TM_LesserWind_ElementalR.tools.horn.label>
+  
+  <!-- EN: Water Elemental -->
+  <TM_Water_ElementalR.label>élémentaire d'eau</TM_Water_ElementalR.label>
+  <!-- EN: Water elementals are creatures of living water.  They embody the spirit of unbound patience and solitude.  They appear as a swirling mass of water, sometimes seeming to take the shape of a creature or object with bits of flotsam occasionally surfacing.  They are always in motion and seem to glide or sway when moving.  The elemental before you appears almost serene, but you sense a hidden danger lurking just below the surface. -->
+  <TM_Water_ElementalR.description>Les élémentaires d'eau sont des créatures d'eau vivante. Ils incarnent l'esprit de la patience sans limite et de la solitude. Ils apparaissent sous la forme d'une masse d'eau tourbillonnante, semblant parfois prendre la forme d'une créature ou d'un objet avec des morceaux d'objets remontant parfois à la surface. Ils sont toujours en mouvement et semblent glisser ou se balancer lorsqu'ils se déplacent. L'élémentaire devant vous semble presque serein, mais vous sentez un danger caché qui se cache juste sous la surface.</TM_Water_ElementalR.description>
+  <!-- EN: elemental dust -->
+  <TM_Water_ElementalR.race.meatLabel>poussière élémentaire</TM_Water_ElementalR.race.meatLabel>
+  <!-- EN: left arm -->
+  <TM_Water_ElementalR.tools.left_arm.label>bras gauche</TM_Water_ElementalR.tools.left_arm.label>
+  <!-- EN: right arm -->
+  <TM_Water_ElementalR.tools.right_arm.label>bras droit</TM_Water_ElementalR.tools.right_arm.label>
+  <!-- EN: horn -->
+  <TM_Water_ElementalR.tools.horn.label>corne</TM_Water_ElementalR.tools.horn.label>
+  
+  <!-- EN: Wind Elemental -->
+  <TM_Wind_ElementalR.label>élémentaire d'air</TM_Wind_ElementalR.label>
+  <!-- EN: Air elementals are beings of living wind and possess unnatural speed and agility.  The physical manifestation of the air elemental appears to rapidly shift; sometimes a hazy smoke, other times a biting whirlwind.  The air currents seem to form an barely perceptible outline of a humanoid form.  This creature possesses the power of a storm and will not hesitate to bring it to bear on its enemies. -->
+  <TM_Wind_ElementalR.description>Les élémentaires d'air sont des êtres de vent vivant et possèdent une vitesse et une agilité contre nature. La manifestation physique de l'élémentaire d'air semble changer rapidement ; parfois une fumée brumeuse, d'autres fois un tourbillon violent. Les courants d'air semblent former le contour à peine perceptible d'une forme humanoïde. Cette créature possède la puissance d'une tempête et n'hésitera pas à l'utiliser contre ses ennemis.</TM_Wind_ElementalR.description>
+  <!-- EN: elemental dust -->
+  <TM_Wind_ElementalR.race.meatLabel>poussière élémentaire</TM_Wind_ElementalR.race.meatLabel>
+  <!-- EN: left arm -->
+  <TM_Wind_ElementalR.tools.left_arm.label>bras gauche</TM_Wind_ElementalR.tools.left_arm.label>
+  <!-- EN: right arm -->
+  <TM_Wind_ElementalR.tools.right_arm.label>bras droit</TM_Wind_ElementalR.tools.right_arm.label>
+  <!-- EN: horn -->
+  <TM_Wind_ElementalR.tools.horn.label>corne</TM_Wind_ElementalR.tools.horn.label>
+  
+</LanguageData>

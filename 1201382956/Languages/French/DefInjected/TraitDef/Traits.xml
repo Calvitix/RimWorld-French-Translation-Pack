@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Arcane mage -->
+  <Arcanist.degreeDatas.Arcane_mage.label>mage des arcanes</Arcanist.degreeDatas.Arcane_mage.label>
+  <!-- EN: [PAWN_nameDef] is attuned with arcane forces, interacting directly with raw arcane power to move matter and energy at will. -->
+  <Arcanist.degreeDatas.Arcane_mage.description>[PAWN_nameDef] est en harmonie avec les forces des arcanes, interagissant directement avec le pouvoir brut des arcanes pour déplacer la matière et l'énergie à volonté.</Arcanist.degreeDatas.Arcane_mage.description>
+  
+  <!-- EN: Bladesman -->
+  <Bladedancer.degreeDatas.Bladesman.label>épéiste</Bladedancer.degreeDatas.Bladesman.label>
+  <!-- EN: [PAWN_nameDef] is training to become a master of the blade and excels at fighting in melee combat. -->
+  <Bladedancer.degreeDatas.Bladesman.description>[PAWN_nameDef] s'entraîne à devenir un maître des lames et excelle dans les combats de mêlée.</Bladedancer.degreeDatas.Bladesman.description>
+  <!-- EN: Blademaster -->
+  <Bladedancer.degreeDatas.Blademaster.label>maître des lames</Bladedancer.degreeDatas.Blademaster.label>
+  <!-- EN: [PAWN_nameDef] has trained to become a sword master, dangerously skilled in melee combat. -->
+  <Bladedancer.degreeDatas.Blademaster.description>[PAWN_nameDef] s'est entraîné pour devenir un maître de l'épée, dangereusement doué pour le combat de mêlée.</Bladedancer.degreeDatas.Blademaster.description>
+  <!-- EN: Bladedancer -->
+  <Bladedancer.degreeDatas.Bladedancer.label>danseur de lames</Bladedancer.degreeDatas.Bladedancer.label>
+  <!-- EN: [PAWN_nameDef] is a blade dancer, highly skilled in melee combat.  Watching [PAWN_objective] fight is like watching a dance, every action precise and flawless as it flows from one form into another. -->
+  <Bladedancer.degreeDatas.Bladedancer.description>[PAWN_nameDef] est un danseur de lames, hautement qualifié en combat de mêlée. Le regarder combattre, c'est comme regarder une danse, chaque action étant précise et sans faille alors qu'elle passe d'une forme à une autre.</Bladedancer.degreeDatas.Bladedancer.description>
+  <!-- EN: Legendary bladedancer -->
+  <Bladedancer.degreeDatas.Legendary_bladedancer.label>danseur de lames légendaire</Bladedancer.degreeDatas.Legendary_bladedancer.label>
+  <!-- EN: [PAWN_nameDef] has become a legend, [PAWN_possessive] skill in melee combat is is known across the world. [PAWN_possessive] skill in combat makes it look as if each movement, each strike, is merely a stitch in a tapestry that depicts [PAWN_possessive] victory. -->
+  <Bladedancer.degreeDatas.Legendary_bladedancer.description>[PAWN_nameDef] est devenu une légende, son habileté au combat de mêlée est connue dans le monde entier. Son habileté au combat donne l'impression que chaque mouvement, chaque coup, n'est qu'un point de la tapisserie qui dépeint sa victoire.</Bladedancer.degreeDatas.Legendary_bladedancer.description>
+  
+  <!-- EN: Blood Mage -->
+  <BloodMage.degreeDatas.Blood_Mage.label>mage de sang</BloodMage.degreeDatas.Blood_Mage.label>
+  <!-- EN: [PAWN_nameDef] is a blood mage and has consigned to the dark art of manipulating the life blood of living things as a means of increasing [PAWN_possessive] power.\n\nAs a blood mage, [PAWN_nameDef] has learned to control the life force within and command it to [PAWN_possessive] will. [PAWN_possessive] connection to life makes it easier to associate with other living things, but doesn't appreciate effort without immediate results. -->
+  <BloodMage.degreeDatas.Blood_Mage.description>[PAWN_nameDef] est un mage de sang et s'est adonné à l'art sombre de la manipulation du sang vital des êtres vivants comme moyen d'accroître son pouvoir.\n\nEn tant que mage de sang, [PAWN_nameDef] a appris à contrôler la force vitale qui l'habite et à la soumettre à sa volonté. Son lien avec la vie lui permet de s'associer plus facilement aux autres êtres vivants, mais [PAWN_pronoun] n'apprécie pas les efforts sans résultats immédiats.</BloodMage.degreeDatas.Blood_Mage.description>
+  
+  <!-- EN: Chaos Mage -->
+  <ChaosMage.degreeDatas.Chaos_Mage.label>mage du chaos</ChaosMage.degreeDatas.Chaos_Mage.label>
+  <!-- EN: [PAWN_nameDef] has rejected all predefined magic paths and refuses to attribute objective reality in [PAWN_possessive] search for power; there are no truths, all magic is permitted. This tradition has enabled [PAWN_nameDef] to learn any type of magic, although [PAWN_pronoun] will never master any. -->
+  <ChaosMage.degreeDatas.Chaos_Mage.description>[PAWN_nameDef] a rejeté toutes les voies magiques prédéfinies et refuse d'attribuer une réalité objective dans sa quête de pouvoir ; [PAWN_pronoun] n'y a pas de vérités, toute magie est permise. Cette tradition a permis à [PAWN_nameDef] d'apprendre tout type de magie, même si [PAWN_pronoun] n'en maîtrisera jamais aucune.</ChaosMage.degreeDatas.Chaos_Mage.description>
+  
+  <!-- EN: Chronomancer -->
+  <Chronomancer.degreeDatas.Chronomancer.label>chronomancien</Chronomancer.degreeDatas.Chronomancer.label>
+  <!-- EN: [PAWN_nameDef] is a chronomancer. Through arcane sight, [PAWN_pronoun] is able to view reality as it once was and as it could be, and can manipulate objects between those realities. -->
+  <Chronomancer.degreeDatas.Chronomancer.description>[PAWN_nameDef] est un chronomancien. Grâce à une vision magique, [PAWN_pronoun] est capable de voir la réalité telle qu'elle a été et telle qu'elle pourrait être, et peut manipuler des objets entre ces réalités.</Chronomancer.degreeDatas.Chronomancer.description>
+  
+  <!-- EN: Death Knight -->
+  <DeathKnight.degreeDatas.Death_Knight.label>chevalier de la mort</DeathKnight.degreeDatas.Death_Knight.label>
+  <!-- EN: [PAWN_nameDef] is a Death Knight - harbinger of doom and a representative of the ever approaching inevitability of death and decay. [PAWN_possessive] solemn attitude makes most pawns uneasy and even fewer approve of [PAWN_possessive] methods. -->
+  <DeathKnight.degreeDatas.Death_Knight.description>[PAWN_nameDef] est un chevalier de la mort - annonciateur de malheur et représentant de l'inévitabilité de la mort et de la décadence. Son attitude solennelle rend la plupart des colons mal à l'aise et encore moins approuvent ses méthodes.</DeathKnight.degreeDatas.Death_Knight.description>
+  
+  <!-- EN: Druid -->
+  <Druid.degreeDatas.Druid.label>druide</Druid.degreeDatas.Druid.label>
+  <!-- EN: [PAWN_nameDef] is attuned with the forces of nature. -->
+  <Druid.degreeDatas.Druid.description>[PAWN_nameDef] est en harmonie avec les forces de la nature.</Druid.degreeDatas.Druid.description>
+  
+  <!-- EN: Enchanter -->
+  <Enchanter.degreeDatas.Enchanter.label>enchanteur</Enchanter.degreeDatas.Enchanter.label>
+  <!-- EN: [PAWN_nameDef] is an enchanter, attuned to the composition of matter and materials. [PAWN_pronoun] can manipulate matter to [PAWN_possessive] will, frequently in unnatural ways, and [PAWN_possessive] powers of transmutation can be permanent when sufficient effort is applied. -->
+  <Enchanter.degreeDatas.Enchanter.description>[PAWN_nameDef] est un enchanteur, en accord avec la composition de la matière et des matériaux. [PAWN_pronoun] peut manipuler la matière à sa volonté, souvent de façon non naturelle, et ses pouvoirs de transmutation peuvent être permanents lorsqu'un effort suffisant est appliqué.</Enchanter.degreeDatas.Enchanter.description>
+  
+  <!-- EN: Faceless -->
+  <Faceless.degreeDatas.Faceless.label>sans visage</Faceless.degreeDatas.Faceless.label>
+  <!-- EN: [PAWN_nameDef] is a master of disguise and imitation; able to manipulate and capture the muscle and mental actions of another and release it as their own. -->
+  <Faceless.degreeDatas.Faceless.description>[PAWN_nameDef] est un maître du déguisement et de l'imitation ; [PAWN_pronoun] est capable de manipuler et de capturer les actions musculaires et mentales d'un autre et de les faire passer pour les siennes.</Faceless.degreeDatas.Faceless.description>
+  
+  <!-- EN: Geomancer -->
+  <Geomancer.degreeDatas.Geomancer.label>géomancien</Geomancer.degreeDatas.Geomancer.label>
+  <!-- EN: [PAWN_nameDef] is attuned with the earth and natural order, drawing power from the physical realm and intertwining it with arcane energy. [PAWN_pronoun] is capable of reinforcing physical elements, and bending them, as [PAWN_pronoun] needs. -->
+  <Geomancer.degreeDatas.Geomancer.description>[PAWN_nameDef] est en accord avec la terre et l'ordre naturel, tirant sa puissance du royaume physique et l'entrelaçant avec l'énergie magique. [PAWN_pronoun] est capable de renforcer les éléments physiques, et de les plier, selon ses besoins.</Geomancer.degreeDatas.Geomancer.description>
+  
+  <!-- EN: Gladiator -->
+  <Gladiator.degreeDatas.Gladiator.label>gladiateur</Gladiator.degreeDatas.Gladiator.label>
+  <!-- EN: [PAWN_nameDef] has learned how to train the Gladiator combat style. -->
+  <Gladiator.degreeDatas.Gladiator.description>[PAWN_nameDef] a appris à s'entraîner au style de combat des gladiateurs.</Gladiator.degreeDatas.Gladiator.description>
+  
+  <!-- EN: Ice mage -->
+  <HeartOfFrost.degreeDatas.Ice_mage.label>mage de glace</HeartOfFrost.degreeDatas.Ice_mage.label>
+  <!-- EN: [PAWN_nameDef] is attuned with the elements of water. -->
+  <HeartOfFrost.degreeDatas.Ice_mage.description>[PAWN_nameDef] est en harmonie avec les éléments de l'eau.</HeartOfFrost.degreeDatas.Ice_mage.description>
+  
+  <!-- EN: Fire mage -->
+  <InnerFire.degreeDatas.Fire_mage.label>mage de feu</InnerFire.degreeDatas.Fire_mage.label>
+  <!-- EN: [PAWN_nameDef] is attuned with the elements of fire. -->
+  <InnerFire.degreeDatas.Fire_mage.description>[PAWN_nameDef] est en harmonie avec les éléments du feu.</InnerFire.degreeDatas.Fire_mage.description>
+  
+  <!-- EN: Lich -->
+  <Lich.degreeDatas.Lich.label>liche</Lich.degreeDatas.Lich.label>
+  <!-- EN: [PAWN_nameDef] has transformed into a lich, forsaking life in exchange for an power and an immortal existence. [PAWN_pronoun] disdains menial taks, choosing to employ undead for trivial matters. -->
+  <Lich.degreeDatas.Lich.description>[PAWN_nameDef] s'est transformé en liche, abandonnant la vie en échange d'un pouvoir et d'une existence immortelle. [PAWN_pronoun] dédaigne les tâches subalternes, choisissant d'employer des morts-vivants pour des questions triviales.</Lich.degreeDatas.Lich.description>
+  
+  <!-- EN: Necromancer -->
+  <Necromancer.degreeDatas.Necromancer.label>nécromancien</Necromancer.degreeDatas.Necromancer.label>
+  <!-- EN: [PAWN_nameDef] is attuned with the forces of death. -->
+  <Necromancer.degreeDatas.Necromancer.description>[PAWN_nameDef] est en harmonie avec les forces de la mort.</Necromancer.degreeDatas.Necromancer.description>
+  
+  <!-- EN: Paladin -->
+  <Paladin.degreeDatas.Paladin.label>paladin</Paladin.degreeDatas.Paladin.label>
+  <!-- EN: [PAWN_nameDef] has been bestowed with divine might and has sworn to uphold justice wherever [PAWN_pronoun] stands. -->
+  <Paladin.degreeDatas.Paladin.description>[PAWN_nameDef] a été doté d'une puissance divine et a juré de faire régner la justice partout où [PAWN_pronoun] se trouve.</Paladin.degreeDatas.Paladin.description>
+  
+  <!-- EN: physically adept -->
+  <PhysicalProdigy.degreeDatas.physically_adept.label>doué en combat</PhysicalProdigy.degreeDatas.physically_adept.label>
+  <!-- EN: [PAWN_nameDef] is physically adept and has potential to learn special combat forms. -->
+  <PhysicalProdigy.degreeDatas.physically_adept.description>[PAWN_nameDef] est physiquement doué et a le potentiel d'apprendre des formes de combat précises.</PhysicalProdigy.degreeDatas.physically_adept.description>
+  
+  <!-- EN: Priest -->
+  <Priest.degreeDatas.Priest.label>prêtre</Priest.degreeDatas.Priest.label>
+  <!-- EN: [PAWN_nameDef] is attuned with the forces of life and healing and has taken a vow against harming others. -->
+  <Priest.degreeDatas.Priest.description>[PAWN_nameDef] est en harmonie avec les forces de la vie et des soins et a fait le vœu de ne pas nuire aux autres.</Priest.degreeDatas.Priest.description>
+  
+  <!-- EN: Woodsman -->
+  <Ranger.degreeDatas.Woodsman.label>homme des bois</Ranger.degreeDatas.Woodsman.label>
+  <!-- EN: [PAWN_nameDef] is a trained woodsman; preferring the silence and lethality of a bow and armed with field-craft and cunning, [PAWN_pronoun] is prepared to defend [PAWN_possessive] land from invaders. -->
+  <Ranger.degreeDatas.Woodsman.description>[PAWN_nameDef] est un homme des bois entraîné ; préférant le silence et la létalité d'un arc et armé d'un savoir-faire et d'une ruse, [PAWN_pronoun] est prêt à défendre sa terre contre les envahisseurs.</Ranger.degreeDatas.Woodsman.description>
+  <!-- EN: Hunter -->
+  <Ranger.degreeDatas.Hunter.label>chasseur</Ranger.degreeDatas.Hunter.label>
+  <!-- EN: [PAWN_nameDef] is a hunter; [PAWN_pronoun] employs field-craft, cunning, and skill with a bow to defend [PAWN_possessive] land from invaders. -->
+  <Ranger.degreeDatas.Hunter.description>[PAWN_nameDef] est un chasseur ; [PAWN_pronoun] utilise les connaissances de terrain, la ruse et l'habileté à l'arc pour défendre ses terres contre les envahisseurs.</Ranger.degreeDatas.Hunter.description>
+  <!-- EN: Scout -->
+  <Ranger.degreeDatas.Scout.label>éclaireur</Ranger.degreeDatas.Scout.label>
+  <!-- EN: [PAWN_nameDef] is a scout; comfortable in the wilds, and relied upon to be the eyes and ears of a colony. [PAWN_pronoun] employs expertise in field-craft, cunning, and the bow to defend [PAWN_possessive] land from invaders. -->
+  <Ranger.degreeDatas.Scout.description>[PAWN_nameDef] est un éclaireur, à l'aise dans la nature et sur lequel on compte pour être les yeux et les oreilles d'une colonie. [PAWN_pronoun] utilise son expertise en matière de connaissance du terrain, de ruse et d'arc pour défendre les terres contre les envahisseurs.</Ranger.degreeDatas.Scout.description>
+  <!-- EN: Ranger -->
+  <Ranger.degreeDatas.Ranger.label>rôdeur</Ranger.degreeDatas.Ranger.label>
+  <!-- EN: [PAWN_nameDef] is a ranger; master of the wilds.  [PAWN_pronoun] is a master of [PAWN_possessive] craft and defender of [PAWN_possessive] land. -->
+  <Ranger.degreeDatas.Ranger.description>[PAWN_nameDef] est un rôdeur, maître de la nature. [PAWN_pronoun] maîtrise son métier et défend sa terre.</Ranger.degreeDatas.Ranger.description>
+  
+  <!-- EN: Lightning mage -->
+  <StormBorn.degreeDatas.Lightning_mage.label>mage de foudre</StormBorn.degreeDatas.Lightning_mage.label>
+  <!-- EN: [PAWN_nameDef] is attuned with the elements of lightning. -->
+  <StormBorn.degreeDatas.Lightning_mage.description>[PAWN_nameDef] est en harmonie avec les éléments de la foudre.</StormBorn.degreeDatas.Lightning_mage.description>
+  
+  <!-- EN: Succubus -->
+  <Succubus.degreeDatas.Succubus.label>succube</Succubus.degreeDatas.Succubus.label>
+  <!-- EN: [PAWN_nameDef] has a strange genetic strain that grants her enhanced physical attributes. She is also extremely attractive with an exotic facial structure that captures the eye. A succubus is more likely to exploit her physical advantages and have others do her work for her. [PAWN_possessive] succubus charm has its disadvantages and can cause some to become jealous and even despise [PAWN_objective]. -->
+  <Succubus.degreeDatas.Succubus.description>[PAWN_nameDef] possède une étrange souche génétique qui lui confère des attributs physiques améliorés. Elle est également extrêmement séduisante, avec une structure faciale exotique qui attire l'attention. Une succube est plus susceptible d'exploiter ses avantages physiques et de laisser les autres faire le travail pour elle. Le charme de la succube a ses inconvénients et peut provoquer la jalousie et même le mépris de certains.</Succubus.degreeDatas.Succubus.description>
+  
+  <!-- EN: Summoner -->
+  <Summoner.degreeDatas.Summoner.label>invocateur</Summoner.degreeDatas.Summoner.label>
+  <!-- EN: [PAWN_nameDef] is able to summon beings and materialize objects from other planes of existence. -->
+  <Summoner.degreeDatas.Summoner.description>[PAWN_nameDef] est capable d'invoquer des êtres et de matérialiser des objets provenant d'autres plans d'existence.</Summoner.degreeDatas.Summoner.description>
+  
+  <!-- EN: Technomancer -->
+  <Technomancer.degreeDatas.Technomancer.label>technomancien</Technomancer.degreeDatas.Technomancer.label>
+  <!-- EN: [PAWN_nameDef] has learned to see magic and science as two parts of the same force and is able to use arcane power to interface directly with components of technology. [PAWN_pronoun] is capable of manipulating objects with advanced mechanics, electronics, or computing it to achieve [PAWN_possessive] goals, but has difficulty interacting with biological systems. -->
+  <Technomancer.degreeDatas.Technomancer.description>[PAWN_nameDef] a appris à voir la magie et la science comme deux parties d'une même force et [PAWN_pronoun] est capable d'utiliser le pouvoir magique pour s'interfacer directement avec les composants de la technologie. [PAWN_pronoun] est capable de manipuler des objets avec une mécanique avancée, de l'électronique ou de l'informatique pour atteindre ses objectifs, mais [PAWN_pronoun] a des difficultés à interagir avec les systèmes biologiques.</Technomancer.degreeDatas.Technomancer.description>
+  
+  <!-- EN: Apothecary -->
+  <TM_Apothecary.degreeDatas.Apothecary.label>apothicaire</TM_Apothecary.degreeDatas.Apothecary.label>
+  <!-- EN: [PAWN_nameDef] is an apothecary, trained in the preparation of medicines, balms, tinctures and drugs. [PAWN_possessive] profession exhibits strict discipline and dedication, and [PAWN_pronoun] has learned to apply [PAWN_possessive] discipline to more generic, physical skills. With training, [PAWN_pronoun] can become capable in many combat techniques to augment [PAWN_possessive] skill in herbs. -->
+  <TM_Apothecary.degreeDatas.Apothecary.description>[PAWN_nameDef] est un apothicaire, formé à la préparation de médicaments, baumes, teintures et drogues. Sa profession exige une discipline et un dévouement stricts, [PAWN_pronoun] a appris à appliquer sa discipline à des compétences physiques plus générales. Avec de l'entraînement, [PAWN_pronoun] peut devenir capable de maîtriser de nombreuses techniques de combat en plus de ses compétences en matière de plantes.</TM_Apothecary.degreeDatas.Apothecary.description>
+  
+  <!-- EN: Arcane Conduit -->
+  <TM_ArcaneConduitTD.degreeDatas.Arcane_Conduit.label>conduit magique</TM_ArcaneConduitTD.degreeDatas.Arcane_Conduit.label>
+  <!-- EN: [PAWN_nameDef] is abnormally receptive to the ebb and flow of mana, [PAWN_pronoun] will gain mana 40% faster than normal but [PAWN_possessive] maximum mana capacity is reduced by 20. -->
+  <TM_ArcaneConduitTD.degreeDatas.Arcane_Conduit.description>[PAWN_nameDef] est anormalement réceptif aux flux et reflux de mana, [PAWN_pronoun] gagnera du mana 40% plus vite que la normale mais sa capacité maximale de mana est réduite de 20.</TM_ArcaneConduitTD.degreeDatas.Arcane_Conduit.description>
+  
+  <!-- EN: Entertainer -->
+  <TM_Bard.degreeDatas.Entertainer.label>amuseur</TM_Bard.degreeDatas.Entertainer.label>
+  <!-- EN: [PAWN_nameDef] is a natural entertainer, able to lighten the mood and lift the spirits of everyone around [PAWN_objective]. -->
+  <TM_Bard.degreeDatas.Entertainer.description>[PAWN_nameDef] est un amuseur naturel, capable de détendre l'atmosphère et de remonter le moral de tous ceux qui l'entourent.</TM_Bard.degreeDatas.Entertainer.description>
+  <!-- EN: Performer -->
+  <TM_Bard.degreeDatas.Performer.label>interprète</TM_Bard.degreeDatas.Performer.label>
+  <!-- EN: [PAWN_nameDef] is a performer; expanding on natural talent, [PAWN_pronoun] has begun to take an conscious role to improve the mood of other colonists. -->
+  <TM_Bard.degreeDatas.Performer.description>[PAWN_nameDef] est un artiste. En plus de son talent naturel, [PAWN_pronoun] a commencé à jouer un rôle important pour améliorer l'humeur des autres colons.</TM_Bard.degreeDatas.Performer.description>
+  <!-- EN: Minstrel -->
+  <TM_Bard.degreeDatas.Minstrel.label>ménestrel</TM_Bard.degreeDatas.Minstrel.label>
+  <!-- EN: Everyone loves being around [PAWN_nameDef]. [PAWN_pronoun] has talent, wit and skill in many forms of entertainment and is able to make a personal connection with almost everyone. -->
+  <TM_Bard.degreeDatas.Minstrel.description>Tout le monde aime être autour de [PAWN_nameDef]. [PAWN_pronoun] a du talent, de l'esprit et des compétences dans de nombreuses formes de divertissement et [PAWN_pronoun] est capable d'établir une connexion personnelle avec presque tout le monde.</TM_Bard.degreeDatas.Minstrel.description>
+  <!-- EN: Bard -->
+  <TM_Bard.degreeDatas.Bard.label>barde</TM_Bard.degreeDatas.Bard.label>
+  <!-- EN: [PAWN_nameDef] is a master entertainer. Sharp wit, deft hands, and dry humor are [PAWN_possessive] weapons, and [PAWN_pronoun] is a master of all [PAWN_possessive] weapons. -->
+  <TM_Bard.degreeDatas.Bard.description>[PAWN_nameDef] est un maître de l'animation. Son esprit vif, ses mains habiles et son humour pince-sans-rire sont ses armes, et [PAWN_pronoun] maîtrise toutes ses armes.</TM_Bard.degreeDatas.Bard.description>
+  
+  <!-- EN: Boundless -->
+  <TM_BoundlessTD.degreeDatas.Boundless.label>sans limite</TM_BoundlessTD.degreeDatas.Boundless.label>
+  <!-- EN: [PAWN_nameDef] excels at combat arts and is able to execute combat maneuvers 40% more frequently, however, [PAWN_possessive] talent has fostered an arrogant attitude that reduces [PAWN_possessive] experience gain by 25% and causes other fighters to dislike [PAWN_objective]. -->
+  <TM_BoundlessTD.degreeDatas.Boundless.description>[PAWN_nameDef] excelle dans les arts de combat et est capable d'exécuter des manœuvres de combat 40% plus fréquemment. Cependant, son talent a engendré une attitude arrogante, réduit son gain d'expérience de 25% et entraîne le mépris des autres combattants.</TM_BoundlessTD.degreeDatas.Boundless.description>
+  
+  <!-- EN: Brightmage -->
+  <TM_Brightmage.degreeDatas.Brightmage.label>mage de lumière</TM_Brightmage.degreeDatas.Brightmage.label>
+  <!-- EN: [PAWN_nameDef] is a brightmage, able to harness the powers of light to purge evil. [PAWN_pronoun] approaches any task with an unrivaled fervor that usually places [PAWN_objective] at the forefront. Being a Brightmage introduces a dependency on the sun and light, because of this, [PAWN_nameDef] has developed an intense hatred for shadowy and dark caricatures. -->
+  <TM_Brightmage.degreeDatas.Brightmage.description>[PAWN_nameDef] est un mage de lumière, capable d'exploiter les pouvoirs de la lumière pour purger le mal. [PAWN_pronoun] accomplit toute tâche avec une ferveur inégalée qui le place généralement en première ligne. Être un mage de lumière entraîne une dépendance au soleil et à la lumière, c'est pourquoi [PAWN_nameDef] a développé une haine intense pour les caricatures sombres et obscures.</TM_Brightmage.degreeDatas.Brightmage.description>
+  
+  <!-- EN: Commander -->
+  <TM_Commander.degreeDatas.Commander.label>commandant</TM_Commander.degreeDatas.Commander.label>
+  <!-- EN: As a Commander, [PAWN_nameDef] exhibits a charismatic personality and stalwart presence that makes other pawns want to follow [PAWN_possessive] lead. Commander's utilize the weight of their presence to inspire nearby pawns, and when that's not enough, they can issue orders that drive their followers to victory. Because [PAWN_nameDef] is used to everyone doing [PAWN_possessive] bidding, [PAWN_pronoun] considers menial tasks beneath [PAWN_possessive] status, and is generally a lackluster worker. -->
+  <TM_Commander.degreeDatas.Commander.description>En tant que commandant, [PAWN_nameDef] fait preuve d'une personnalité charismatique et d'une présence inébranlable qui incite les autres colons à suivre son exemple. Les commandants utilisent le poids de leur présence pour inspirer les colons à proximité, et lorsque cela ne suffit pas, ils peuvent donner des ordres qui conduisent leurs partisans à la victoire. Comme [PAWN_nameDef] est habitué à ce que tout le monde fasse ce qu'[PAWN_pronoun] veut, [PAWN_pronoun] considère que les tâches subalternes ne sont pas à la hauteur de son statut et [PAWN_pronoun] est généralement un travailleur médiocre.</TM_Commander.degreeDatas.Commander.description>
+  
+  <!-- EN: Cursed -->
+  <TM_CursedTD.degreeDatas.Cursed.label>maudit</TM_CursedTD.degreeDatas.Cursed.label>
+  <!-- EN: [PAWN_nameDef] is cursed by magic - tormented by the constant, burning rush of power through [PAWN_possessive] being, and can only gain relief by expending arcane energy. [PAWN_nameDef] will slowly accumulate arcane weakness up until [PAWN_pronoun] would become catatonic, and may become catatonic at any point while at this threshold. Using magical abilities that would normally incur arcane weakness will instead proportionally reduce arcane weakness, as well as the effects of the curse. -->
+  <TM_CursedTD.degreeDatas.Cursed.description>[PAWN_nameDef] est maudit par la magie - [PAWN_pronoun] est tourmenté par le flot constant et brûlant de puissance qui traverse son être, et ne peut être soulagé que par la libération de l'énergie magique. [PAWN_nameDef] accumule lentement la faiblesse magique jusqu'à ce qu'[PAWN_pronoun] devienne catatonique, et peut le devenir à tout moment lorsqu'[PAWN_pronoun] atteint ce seuil. L'utilisation de capacités magiques qui entraîneraient normalement une faiblesse magique réduira proportionnellement la faiblesse magique, ainsi que les effets de la malédiction.</TM_CursedTD.degreeDatas.Cursed.description>
+  
+  <!-- EN: Empath -->
+  <TM_Empath.degreeDatas.Empath.label>empathe</TM_Empath.degreeDatas.Empath.label>
+  <!-- EN: [PAWN_nameDef] is an empath, able to feel and manipulate the emotions of those around [PAWN_objective]. [PAWN_possessive]'s abilities are tied to magic, but have affected [PAWN_objective] on a more innate level. However, with training, [PAWN_nameDef] can still become an adept magic user. For better or worse, empath's have a very strong presence and can easily read the presence of others; the effectiveness of their abilities are closely tied to their aptitude for overcoming another's defenses. -->
+  <TM_Empath.degreeDatas.Empath.description>[PAWN_nameDef] est un empathe, capable de ressentir et de manipuler les émotions de ceux qui l'entourent. Ses capacités sont liées à la magie, mais l'ont affecté à un niveau plus inné. Cependant, avec de l'entraînement, [PAWN_nameDef] peut devenir un adepte de la magie. Pour le meilleur ou pour le pire, les empathes ont une présence très forte et peuvent facilement lire la présence des autres ; l'efficacité de leurs capacités est étroitement liée à leur aptitude à surmonter les défenses des autres.</TM_Empath.degreeDatas.Empath.description>
+  
+  <!-- EN: Enlightened -->
+  <TM_EnlightenedTD.degreeDatas.Enlightened.label>éclairé</TM_EnlightenedTD.degreeDatas.Enlightened.label>
+  <!-- EN: [PAWN_nameDef] is blessed by magic, able to harness its power without suffering the full side-effects. Psychic sensitivity is increased by 50% and any magic ability used only incurs half the normal arcane weakness. -->
+  <TM_EnlightenedTD.degreeDatas.Enlightened.description>[PAWN_nameDef] est béni par la magie, capable d'exploiter sa puissance sans en subir les effets secondaires. La sensibilité psychique est augmentée de 50% et toute capacité magique utilisée ne subit que la moitié de la faiblesse magique normale.</TM_EnlightenedTD.degreeDatas.Enlightened.description>
+  
+  <!-- EN: Fae blood -->
+  <TM_FaeBloodTD.degreeDatas.Fae_blood.label>sang fae</TM_FaeBloodTD.degreeDatas.Fae_blood.label>
+  <!-- EN: [PAWN_nameDef] is a descendant of fae folk and has a natural connection to the arcane. [PAWN_possessive] arcane resistance is reduced by 40% but mana regeneration and maximum mana is increased by 20%. Spell costs are reduced by 10%. -->
+  <TM_FaeBloodTD.degreeDatas.Fae_blood.description>[PAWN_nameDef] est un descendant du peuple fae et a une connexion naturelle avec la magie. Sa résistance à la magie est réduite de 40% mais la régénération du mana et le mana maximum sont augmentés de 20%. Le coût des sorts est réduit de 10%.</TM_FaeBloodTD.degreeDatas.Fae_blood.description>
+  
+  <!-- EN: Giants blood -->
+  <TM_GiantsBloodTD.degreeDatas.Giants_blood.label>sang de géant</TM_GiantsBloodTD.degreeDatas.Giants_blood.label>
+  <!-- EN: [PAWN_nameDef] is a descendant of giants - endowed with with great strength and stamina, though slow to recover. [PAWN_possessive] max stamina is increased by 80%, but stamina regeneration is reduced by 40%. Any attack made while using a melee weapon, or unarmed, deals an additional 25% damage. -->
+  <TM_GiantsBloodTD.degreeDatas.Giants_blood.description>[PAWN_nameDef] est un descendant de géants - doté d'une grande force et d'une grande endurance, mais lent à récupérer. Son endurance maximale est augmentée de 80%, mais la régénération de son endurance est réduite de 40%. Toute attaque effectuée à l'aide d'une arme de mêlée, ou sans arme, inflige 25% de dégâts supplémentaires.</TM_GiantsBloodTD.degreeDatas.Giants_blood.description>
+  
+  <!-- EN: magically gifted -->
+  <TM_Gifted.degreeDatas.magically_gifted.label>doué en magie</TM_Gifted.degreeDatas.magically_gifted.label>
+  <!-- EN: [PAWN_nameDef] has a magical gift. [PAWN_pronoun] can harness this gift to become a mage by studying the mysterious secrets within an arcane script. -->
+  <TM_Gifted.degreeDatas.magically_gifted.description>[PAWN_nameDef] a un don magique. [PAWN_pronoun] peut exploiter ce don pour devenir un mage en étudiant les mystérieux secrets d'une écriture magique.</TM_Gifted.degreeDatas.magically_gifted.description>
+  
+  <!-- EN: Golemancer -->
+  <TM_Golemancer.degreeDatas.Golemancer.label>golemancien</TM_Golemancer.degreeDatas.Golemancer.label>
+  <!-- EN: Golemancers prefer to weave their magic through powerful runes and sigils that are able to transfer purpose into an object. [PAWN_nameDef] is no exception; [PAWN_pronoun] can create runes that enhance basic mechanics, alter chemicals in biological matter, and animate mundane material into life-like, monstrous creatures. Golemancers are most effective when channeling their magic through symbols and find it more difficult to convert mana to energy directly but are also have higher arcane resistances. Most golemancers tend to find rocks more interesting than people and have little concern for cleanliness. -->
+  <TM_Golemancer.degreeDatas.Golemancer.description>Les golemanciens préfèrent tisser leur magie par le biais de runes et de sceaux puissants, capables de transférer un objectif à un objet. [PAWN_nameDef] ne fait pas exception à la règle ; [PAWN_pronoun] peut créer des runes qui améliorent la mécanique de base, altèrent les substances chimiques de la matière biologique et animent des matériaux meuble pour en faire des créatures monstrueuses et vivantes. Les golemanciens sont plus efficaces lorsqu'ils canalisent leur magie à travers des symboles et ont plus de mal à convertir directement le mana en énergie, mais ils ont aussi une meilleure résistance magique. La plupart des golemanciens ont tendance à trouver les pierres plus intéressantes que les gens et se soucient peu de la propreté.</TM_Golemancer.degreeDatas.Golemancer.description>
+  
+  <!-- EN: Mana Well -->
+  <TM_ManaWellTD.degreeDatas.Mana_Well.label>puits de mana</TM_ManaWellTD.degreeDatas.Mana_Well.label>
+  <!-- EN: [PAWN_nameDef] has an increased resistance to the ebb and flow of mana which allows [PAWN_objective] to hold an additional 40 mana, but reduces [PAWN_possessive] mana regeneration by 20%. -->
+  <TM_ManaWellTD.degreeDatas.Mana_Well.description>[PAWN_nameDef] a une résistance accrue au flux et reflux de mana qui lui permet de conserver 40 de mana supplémentaires, mais réduit sa régénération de mana de 20%.</TM_ManaWellTD.degreeDatas.Mana_Well.description>
+  
+  <!-- EN: Monk -->
+  <TM_Monk.degreeDatas.Monk.label>moine</TM_Monk.degreeDatas.Monk.label>
+  <!-- EN: [PAWN_nameDef] is a Monk, dedicated to mastering Chi - the energy that connects all life in the universe. [PAWN_pronoun] harnesses Chi to create magical effects and exceed [PAWN_possessive] physical capabilities. [PAWN_nameDef] is also able to disrupt the Chi in others, affecting their command over spells and abilities. -->
+  <TM_Monk.degreeDatas.Monk.description>[PAWN_nameDef] est un moine qui se consacre à la maîtrise du Chi - l'énergie qui relie toute vie dans l'univers. [PAWN_pronoun] exploite le Chi pour créer des effets magiques et dépasser ses capacités physiques. [PAWN_nameDef] est également capable de perturber le Chi des autres, affectant leur maîtrise des sorts et des capacités.</TM_Monk.degreeDatas.Monk.description>
+  
+  <!-- EN: Unaffected by death -->
+  <TM_OKWithDeath.degreeDatas.Unaffected_by_death.label>insensible à la mort</TM_OKWithDeath.degreeDatas.Unaffected_by_death.label>
+  <!-- EN: [PAWN_nameDef] has accepted that death is another part of life and doesn't get upset when learning about a dead ally or seeing one of the undead. -->
+  <TM_OKWithDeath.degreeDatas.Unaffected_by_death.description>[PAWN_nameDef] a accepté que la mort soit une autre partie de la vie et ne s'énerve pas en apprenant la mort d'un allié ou en voyant un mort-vivant.</TM_OKWithDeath.degreeDatas.Unaffected_by_death.description>
+  
+  <!-- EN: Possessed -->
+  <TM_Possessed.degreeDatas.Possessed.label>possédé</TM_Possessed.degreeDatas.Possessed.label>
+  <!-- EN: The body of [PAWN_nameDef] is inhabited by the spirit of another pawn. Possession in a living pawn creates an internal conflict as the functions of the body are shared between two souls. This conflict can be reduced if personalities align, but will become further aggravated if they contrast. Possession of a deceased pawn will not experience mental conflicts, but will slowly deplete the energy of the possessing spirit. Spirit can be recharged through meditation or absorption. -->
+  <TM_Possessed.degreeDatas.Possessed.description>Le corps de [PAWN_nameDef] est habité par l'esprit d'un autre colon. La possession dans un colon vivant crée un conflit interne car les fonctions du corps sont partagées entre deux âmes. Ce conflit peut être réduit si les personnalités s'alignent, mais s'aggravera si elles s'opposent. La possession d'un colon décédé n'entraînera pas de conflit mental, mais épuisera lentement l'énergie de l'esprit qui le possède. L'esprit peut être rechargé par la méditation ou l'absorption.</TM_Possessed.degreeDatas.Possessed.description>
+  
+  <!-- EN: Spirit -->
+  <TM_Possessor.degreeDatas.Spirit.label>esprit</TM_Possessor.degreeDatas.Spirit.label>
+  <!-- EN: The body of [PAWN_nameDef] is inhabited by the spirit of another pawn. Possession in a living pawn creates an internal conflict as the functions of the body are shared between two souls. This conflict can be reduced if personalities align, but will become further aggravated if they contrast. Possession of a deceased pawn will not experience mental conflicts, but will slowly deplete the energy of the possessing spirit. Spirit can be recharged through meditation or absorption. -->
+  <TM_Possessor.degreeDatas.Spirit.description>Le corps de [PAWN_nameDef] est habité par l'esprit d'un autre colon. La possession dans un colon vivant crée un conflit interne car les fonctions du corps sont partagées entre deux âmes. Ce conflit peut être réduit si les personnalités s'alignent, mais s'aggravera si elles s'opposent. La possession d'un colon décédé n'entraînera pas de conflit mental, mais épuisera lentement l'énergie de l'esprit qui le possède. L'esprit peut être rechargé par la méditation ou l'absorption.</TM_Possessor.degreeDatas.Spirit.description>
+  
+  <!-- EN: Psionic -->
+  <TM_Psionic.degreeDatas.Psionic.label>psionique</TM_Psionic.degreeDatas.Psionic.label>
+  <!-- EN: [PAWN_nameDef] is a Psionic - able to manifest mental willpower into raw energy without the use of a psychic amplifier. [PAWN_pronoun] is able to project psionic energy but finds it easier and more efficient to apply it as an extension of [PAWN_possessive] body. For this reason, [PAWN_pronoun] prefers to be free of encumbering weapons when manifesting psionic energy.\n\n[PAWN_nameDef] has become less social since developing psionic powers, preferring to be unhindered by other pawns.\n\n*The regeneration rate of psionic energy is based on psychic sensitivity - reducing sensitivity to 0 will prevent psionic energy from regenerating. -->
+  <TM_Psionic.degreeDatas.Psionic.description>[PAWN_nameDef] est un psionique, capable de transformer sa volonté mentale en énergie brute sans utiliser d'amplificateur psychique. [PAWN_pronoun] est capable de projeter de l'énergie psionique, mais [PAWN_pronoun] trouve plus facile et plus efficace de l'utiliser comme une extension de son corps. Pour cette raison, [PAWN_pronoun] préfère être libre de toute arme encombrante lorsqu'[PAWN_pronoun] manifeste de l'énergie psionique.\n\n[PAWN_nameDef] est devenu moins social depuis qu'[PAWN_pronoun] a développé des pouvoirs psioniques, préférant ne pas être gêné par d'autres colons.\n\n*Le taux de régénération de l'énergie psionique est basé sur la sensibilité psychique - réduire la sensibilité à 0 empêchera l'énergie psionique de se régénérer.</TM_Psionic.degreeDatas.Psionic.description>
+  
+  <!-- EN: Shaman -->
+  <TM_Shaman.degreeDatas.Shaman.label>chaman</TM_Shaman.degreeDatas.Shaman.label>
+  <!-- EN: Shamans take a more harmonious approach to arcane powers than most mages, choosing to pursue a path that works with the ebb and flow of magic to offset or enhance the natural order. [PAWN_nameDef] is kin to the spirit realm and more attuned to nature and its elements. -->
+  <TM_Shaman.degreeDatas.Shaman.description>Les chamans ont une approche plus harmonieuse des pouvoirs magiques que la plupart des mages, choisissant de suivre une voie qui fonctionne avec le flux et le reflux de la magie pour compenser ou améliorer l'ordre naturel. [PAWN_nameDef] est proche du royaume des esprits et plus en accord avec la nature et les éléments.</TM_Shaman.degreeDatas.Shaman.description>
+  
+  <!-- EN: Sharpshooter -->
+  <TM_Sniper.degreeDatas.Sharpshooter.label>tireur précis</TM_Sniper.degreeDatas.Sharpshooter.label>
+  <!-- EN: [PAWN_nameDef] has trained to become a sniper, skilled in the economy and accuracy of long range, small arms combat. Training to become a sniper has caused some colonists to be uncomfortable around [PAWN_objective], not that [PAWN_pronoun] cares. -->
+  <TM_Sniper.degreeDatas.Sharpshooter.description>[PAWN_nameDef] s'est entraîné à devenir un tireur d'élite, maîtrisant la précision et les techniques de combat à distance avec des armes légères. Cette formation a mis certains colons mal à l'aise en sa présence, mais cela ne le dérange pas.</TM_Sniper.degreeDatas.Sharpshooter.description>
+  <!-- EN: Sniper -->
+  <TM_Sniper.degreeDatas.Sniper.label>tireur d'élite</TM_Sniper.degreeDatas.Sniper.label>
+  <!-- EN: [PAWN_nameDef] has trained to become a sniper, skilled in the economy and accuracy of long range, small arms combat. Becoming a sniper has caused [PAWN_objective] to become distanced from other colonists and somewhat unapproachable, not that [PAWN_pronoun] cares. -->
+  <TM_Sniper.degreeDatas.Sniper.description>[PAWN_nameDef] s'est entraîné à devenir un tireur d'élite, maîtrisant la précision et les techniques de combat à distance avec des armes légères. Devenir un tireur d'élite l'a éloigné des autres colons et l'a rendu quelque peu inaccessible, mais [PAWN_pronoun] ne s'en soucie pas.</TM_Sniper.degreeDatas.Sniper.description>
+  <!-- EN: Master Sniper -->
+  <TM_Sniper.degreeDatas.Master_Sniper.label>tireur d'élite Maître</TM_Sniper.degreeDatas.Master_Sniper.label>
+  <!-- EN: [PAWN_nameDef] is a master sniper, skilled in the economy and accuracy of long range, small arms combat. Being a sniper has made [PAWN_objective] avoid other colonists, not that they care. -->
+  <TM_Sniper.degreeDatas.Master_Sniper.description>[PAWN_nameDef] est un maître tireur d'élite, doué pour la précision et les techniques de combat à distance avec des armes légères. Le fait d'être un tireur d'élite lui a permis d'éviter les autres colons, même s'ils ne s'en soucient pas.</TM_Sniper.degreeDatas.Master_Sniper.description>
+  <!-- EN: Legendary Sniper -->
+  <TM_Sniper.degreeDatas.Legendary_Sniper.label>tireur d'élite Légendaire</TM_Sniper.degreeDatas.Legendary_Sniper.label>
+  <!-- EN: [PAWN_nameDef] is a legendary sniper, skilled in the economy and accuracy of long range, small arms combat.  Other colonists avoid eye contact and whisper in corners about how dangerous [PAWN_pronoun] is and that suits [PAWN_objective] just fine. -->
+  <TM_Sniper.degreeDatas.Legendary_Sniper.description>[PAWN_nameDef] est un tireur d'élite légendaire, doué pour la précision et pour les techniques de combat à distance avec des armes légères.  Les autres colons évitent le contact visuel et chuchotent dans leur coin à quel point [PAWN_pronoun] est dangereux, ce qui lui convient parfaitement.</TM_Sniper.degreeDatas.Legendary_Sniper.description>
+  
+  <!-- EN: Super Soldier -->
+  <TM_SuperSoldier.degreeDatas.Super_Soldier.label>super-soldat</TM_SuperSoldier.degreeDatas.Super_Soldier.label>
+  <!-- EN: [PAWN_nameDef] is a highly trained Soldier, specializing in pistol, shotgun, or rifle weapons. [PAWN_possessive] weapon specialization is augmented by a standard set of combat training. Super Soldiers are trained to be aggressive and consider violence the natural solution to any argument. -->
+  <TM_SuperSoldier.degreeDatas.Super_Soldier.description>[PAWN_nameDef] est un soldat hautement qualifié, spécialisé dans les armes de type pistolet, fusil ou carabine. Sa spécialisation dans les armes est complétée par un ensemble standard d'entraînement au combat. Les super-soldats sont entraînés à être agressifs et considèrent la violence comme la solution naturelle à toute dispute.</TM_SuperSoldier.degreeDatas.Super_Soldier.description>
+  
+  <!-- EN: Shadow -->
+  <TM_TheShadow.degreeDatas.Shadow.label>ombre</TM_TheShadow.degreeDatas.Shadow.label>
+  <!-- EN: [PAWN_nameDef] is a half-breed demon with an affinity for shadow magic. [PAWN_pronoun] has developed [PAWN_possessive] unique talents through combat training and physical conditioning making [PAWN_objective] the perfect assassin. -->
+  <TM_TheShadow.degreeDatas.Shadow.description>[PAWN_nameDef] est un démon hybride ayant une affinité pour la magie des ombres. [PAWN_pronoun] a développé ses talents uniques grâce à un entraînement au combat et à une bonne condition physique, ce qui fait de lui un parfait assassin.</TM_TheShadow.degreeDatas.Shadow.description>
+  
+  <!-- EN: Wanderer -->
+  <TM_Wanderer.degreeDatas.Wanderer.label>vagabond</TM_Wanderer.degreeDatas.Wanderer.label>
+  <!-- EN: [PAWN_nameDef] is a wanderer; an outcast, half-breed mage class frequently dubbed a hedge-mage. [PAWN_possessive] carefree personality has kept [PAWN_possessive] from developing class abilities. Instead, [PAWN_pronoun] has learned to improve on a vast number of utility abilities that allow [PAWN_objective] to adapt to any situation.\n		\nWanderers prefer the open road and gain a mood boost for being in a caravan. Caravans with a wanderer will ignore the movement penalties of any world tile. However, their wanderlust will cause them to suffer a mood penalty for remaining at a colony for too long. -->
+  <TM_Wanderer.degreeDatas.Wanderer.description>[PAWN_nameDef] est un vagabond, un mage métis et marginalisé, souvent surnommé le hedge-mage. Sa personnalité insouciante l'a empêché de développer des capacités de classe. Au lieu de cela, [PAWN_pronoun] a appris à améliorer un grand nombre de capacités utilitaires qui lui permettent de s'adapter à n'importe quelle situation.\n\nLes vagabonds préfèrent la grande route et gagnent en humeur lorsqu'ils sont dans une caravane. Les caravanes avec un vagabond ignorent les pénalités de mouvement de toute case du monde. Cependant, leur désir de voyager leur fera subir une pénalité d'humeur s'ils restent trop longtemps dans une colonie.</TM_Wanderer.degreeDatas.Wanderer.description>
+  
+  <!-- EN: Wayfarer -->
+  <TM_Wayfarer.degreeDatas.Wayfarer.label>voyageur</TM_Wayfarer.degreeDatas.Wayfarer.label>
+  <!-- EN: [PAWN_nameDef] is a wayfarer; an self-disciplined fighter that excels at tricks and dirty fighting. [PAWN_possessive] carefree personality has kept [PAWN_objective] from developing class abilities. Instead, [PAWN_pronoun] has learned to improve a vast number of utility abilities that allow [PAWN_objective] to adapt to any situation.\n\nWayfarers prefer the open road and will gain a mood boost for being in a caravan, and any caravan with a wayfarer will travel 25% faster. However, wayfarers will suffer a mood penalty if they remain at colony for too long. -->
+  <TM_Wayfarer.degreeDatas.Wayfarer.description>[PAWN_nameDef] est un voyageur ; un combattant autodiscipliné qui excelle dans les astuces et les combats sales. Sa personnalité insouciante l'a empêché de développer des capacités de classe. Au lieu de cela, [PAWN_pronoun] a appris à améliorer un grand nombre de capacités utilitaires qui lui permettent de s'adapter à n'importe quelle situation.\n\nLe voyageur préfère les routes ouvertes et bénéficie d'une amélioration de l'humeur lorsqu'[PAWN_pronoun] est dans une caravane, et toute caravane avec un voyageur voyage 25% plus vite. Cependant, les voyageurs souffrent d'une baisse d'humeur s'ils restent trop longtemps dans une colonie.</TM_Wayfarer.degreeDatas.Wayfarer.description>
+  
+  <!-- EN: Undead -->
+  <Undead.degreeDatas.Undead.label>mort-vivant</Undead.degreeDatas.Undead.label>
+  <!-- EN: [PAWN_nameDef] has been reanimated as an undead. -->
+  <Undead.degreeDatas.Undead.description>[PAWN_nameDef] a été réanimé en tant que mort-vivant.</Undead.degreeDatas.Undead.description>
+  
+  <!-- EN: Warlock -->
+  <Warlock.degreeDatas.Warlock.label>sorcier</Warlock.degreeDatas.Warlock.label>
+  <!-- EN: [PAWN_nameDef] is a Warlock - able to manifest physical and demonic forces using his unique access to arcane power. The warlock shares the same genetic mixture as a succubus, but as a male, [PAWN_pronoun] is affected with mental enhancements that include clairvoyance and telekineses. The warlock can occasionally affect the outcome of a social interaction using their mental capabilities, regardless of how the interaction actually occurred. -->
+  <Warlock.degreeDatas.Warlock.description>[PAWN_nameDef] est un sorcier, capable de manifester des forces physiques et démoniaques en utilisant son accès unique au pouvoir magique. Le sorcier partage le même mélange génétique qu'une succube, mais en tant que mâle, [PAWN_pronoun] est doté d'améliorations mentales telles que la clairvoyance et la télékinésie. Le sorcier peut parfois affecter le résultat d'une interaction sociale en utilisant ses capacités mentales, indépendamment de la façon dont l'interaction s'est réellement déroulée.</Warlock.degreeDatas.Warlock.description>
+  
+</LanguageData>

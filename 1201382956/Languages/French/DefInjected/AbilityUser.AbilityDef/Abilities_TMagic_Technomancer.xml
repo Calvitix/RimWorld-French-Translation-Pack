@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Nano Stimulant -->
+  <TM_NanoStimulant.label>Nano Stimulant</TM_NanoStimulant.label>
+  <!-- EN: An injection of nanites that temporarily enhances the combat capabilities of the user. This stimulant is specially synthesized by the technomancer for their own unique biological and genetic makeup. It isn't chemically addictive, but is harmful for any other pawn. \n\nThe nanites are fueled by mana and energy within the body and will rapidly cause fatigue. \n\nWhen the nanites burn out, they will form platelets to cauterize and stop bleeding and even heal small wounds. Use of nano stimulants will accelerate any active disease or infection. -->
+  <TM_NanoStimulant.description>Une injection de nanites qui augmente temporairement les capacités de combat de l'utilisateur. Ce stimulant est spécialement synthétisé par le technomancien pour sa propre constitution biologique et génétique unique. Il n'entraîne pas de dépendance chimique, mais est nocif pour tout autre colon.\n\nLes nanites sont alimentés par le mana et l'énergie du corps et provoquent rapidement la fatigue.\n\nLorsque les nanites s'épuisent, elles forment des plaquettes pour cautériser et arrêter les saignements et même guérir les petites blessures. L'utilisation de nano stimulants accélérera toute maladie ou infection active.</TM_NanoStimulant.description>
+  
+  <!-- EN: Orbital Strike -->
+  <TM_OrbitalStrike.label>Frappe orbitale</TM_OrbitalStrike.label>
+  <!-- EN: Hack into a network of orbital bombardment satellites and enter a target designation. By using random, arcane signatures to mask their activity, technomancers can continually manipulate advanced systems without being positively identified and locked out.\n		\nRange: 70\nWarmup: 3s\nRadius: 2.5 -->
+  <TM_OrbitalStrike.description>Pirater un réseau de satellites de bombardement orbital et entrer une désignation à cibler. En utilisant des signatures aléatoires et magiques pour masquer leur activité, les technomanciens peuvent manipuler en permanence des systèmes avancés sans être identifiés et verrouillés.\n\nPortée : 70\nÉchauffement : 3s\nRayon : 2.5</TM_OrbitalStrike.description>
+  
+  <!-- EN: Orbital Strike I -->
+  <TM_OrbitalStrike_I.label>Frappe orbitale</TM_OrbitalStrike_I.label>
+  <!-- EN: Hack into a network of orbital bombardment satellites and enter a target designation. By using random, arcane signatures to mask their activity, technomancers can continually manipulate advanced systems without being positively identified and locked out.\n		\nRange: 80\nWarmup: 2.1s\nRadius: 4.2 -->
+  <TM_OrbitalStrike_I.description>Pirater un réseau de satellites de bombardement orbital et entrer une désignation à cibler. En utilisant des signatures aléatoires et magiques pour masquer leur activité, les technomanciens peuvent manipuler en permanence des systèmes avancés sans être identifiés et verrouillés.\n\nPortée : 80\nÉchauffement : 2.1s\nRayon : 4.2</TM_OrbitalStrike_I.description>
+  
+  <!-- EN: Orbital Strike II -->
+  <TM_OrbitalStrike_II.label>Frappe orbitale</TM_OrbitalStrike_II.label>
+  <!-- EN: Hack into a network of orbital bombardment satellites and enter a target designation. By using random, arcane signatures to mask their activity, technomancers can continually manipulate advanced systems without being positively identified and locked out.\n		\nRange: 90\nWarmup: 1.8s\nRadius: 5.0 -->
+  <TM_OrbitalStrike_II.description>Pirater un réseau de satellites de bombardement orbital et entrer une désignation à cibler. En utilisant des signatures aléatoires et magiques pour masquer leur activité, les technomanciens peuvent manipuler en permanence des systèmes avancés sans être identifiés et verrouillés.\n\nPortée : 90\nÉchauffement : 1.8s\nRayon : 5.0</TM_OrbitalStrike_II.description>
+  
+  <!-- EN: Orbital Strike III -->
+  <TM_OrbitalStrike_III.label>Frappe orbitale</TM_OrbitalStrike_III.label>
+  <!-- EN: Hack into a network of orbital bombardment satellites and enter a target designation. By using random, arcane signatures to mask their activity, technomancers can continually manipulate advanced systems without being positively identified and locked out.\n		\nRange: 100\nWarmup: 1.6s\nRadius: 5.6 -->
+  <TM_OrbitalStrike_III.description>Pirater un réseau de satellites de bombardement orbital et entrer une désignation à cibler. En utilisant des signatures aléatoires et magiques pour masquer leur activité, les technomanciens peuvent manipuler en permanence des systèmes avancés sans être identifiés et verrouillés.\n\nPortée : 100\nÉchauffement : 1.6s\nRayon : 5.6</TM_OrbitalStrike_III.description>
+  
+  <!-- EN: Overdrive -->
+  <TM_Overdrive.label>Surmultiplicateur</TM_Overdrive.label>
+  <!-- EN: Overdrive the targeted mechanical, electrical, or AI system with fabricated nanites that pushes the system beyond its limits. Overdrive will cause damage to the system periodically.\n\nCan be applied to: power generators, turrets, robots, androids, and mechanoids. -->
+  <TM_Overdrive.description>Surcharge le système mécanique, électrique ou IA ciblé avec des nanites fabriquées qui poussent le système au-delà de ses limites. Surmultiplicateur endommagera périodiquement le système.\n\nPeut être appliqué aux générateurs électriques, tourelles, robots, androïdes et mécanoïdes.</TM_Overdrive.description>
+  
+  <!-- EN: Sabotage -->
+  <TM_Sabotage.label>Sabotage</TM_Sabotage.label>
+  <!-- EN: Sabotage overrides the targets mechanical failsafes, logic functions, and any other exploitable system within a small area. The effects of sabotage can range from reduced mechanical performance, temporary shutdown, self destruction, catastrophic failure and even loss of ability to determine friend from foe.\n\nCan be applied to: batteries, power generators, turrets, robots, androids, and mechanoids. -->
+  <TM_Sabotage.description>Le sabotage neutralise les défaillances mécaniques des cibles, les fonctions logiques et tout autre système exploitable dans une petite zone. Les effets du sabotage peuvent aller de la réduction des performances mécaniques à l'arrêt temporaire, en passant par l'autodestruction, la défaillance catastrophique et même la perte de la capacité à distinguer l'ami de l'ennemi.\n\nPeut être appliqué à : batteries, générateurs électriques, tourelles, robots, androïdes et mécanoïdes.</TM_Sabotage.description>
+  
+  <!-- EN: Techno-Bit -->
+  <TM_TechnoBit.label>Techno-Bit</TM_TechnoBit.label>
+  <!-- EN: The techno-bit is a small, autonomous orb that assists the technomancer in many tasks and provides the technomancer with additional support capabilities. The techno-bit assist can be toggled and will not perform any task while disabled.\n	\nUndrafted: the techno-bit assists in crafting, mining and construction tasks. It will also repair nearby buildings, androids, and mechanoids.\n\nDrafted: uses an internal focus-LED to fire micro lasers at the technomancers target. Performs accelerated repairs to nearby robotic pawns or buildings. -->
+  <TM_TechnoBit.description>Le Techno-Bit est une petite sphère autonome qui assiste le technomancien dans de nombreuses tâches et lui fournit des capacités de soutien supplémentaires. L'assistance du techno-bit peut être activée et n'effectue aucune tâche lorsqu'elle est désactivée.\n\nNon Mobiliser : le techno-bit assiste les tâches d'artisanat, d'exploitation minière et de construction. Il peut également réparer les bâtiments, les androïdes et les mécanoïdes à proximité.\n\nMobiliser : utilise une LED interne pour tirer des micro lasers sur la cible du technomancien. Effectue des réparations accélérées sur les colons robotiques ou les bâtiments à proximité.</TM_TechnoBit.description>
+  
+  <!-- EN: Kinetic Shield -->
+  <TM_TechnoShield.label>Bouclier cinétique</TM_TechnoShield.label>
+  <!-- EN: Surrounds the target in a kinetic field that repels inbound projectiles. The kinetic shield is able to deflect projectiles depending on their kinetic energy, heavier projectiles are more difficult to deflect and will penetrate low powered shields. \n		\nThe amount of kinetic energy involved in a deflection is determined by the amount of damage that would be caused by the projectile. -->
+  <TM_TechnoShield.description>Entoure la cible d'un champ cinétique qui repousse les projectiles entrants. Le bouclier cinétique est capable de dévier les projectiles en fonction de leur énergie cinétique. Les projectiles plus lourds sont plus difficiles à dévier et pénètrent les boucliers de faible puissance.\n\nLa quantité d'énergie cinétique impliquée dans une déviation est déterminée par la quantité de dégâts qui seraient causés par le projectile.</TM_TechnoShield.description>
+  
+  <!-- EN: Mark-IV Turret -->
+  <TM_TechnoTurret.label>Tourelle Mark-IV</TM_TechnoTurret.label>
+  <!-- EN: Deploys and establishes a neural link to the Mark-IV turret. The Mark-IV is remotely controlled by the caster. Rockets and mortars consume mana per shot.\n\nThe Mark-IV will automatically miniaturize itself when it takes critical damage and can cause neural feedback to the technomancer controlling the system. -->
+  <TM_TechnoTurret.description>Déploie et établit un lien neural avec la tourelle Mark-IV. Le Mark-IV est contrôlé à distance par le lanceur de sorts. Une fois la tourelle déployée, toute activité ou tout mouvement du lanceur de sorts rompt le lien neural et miniaturise le système d'arme du Mark-IV. Les roquettes et les mortiers consomment du mana par tir.\n\nLe Mark-IV se miniaturise automatiquement lorsqu'il subit des dommages critiques et peut provoquer une réaction neuronale au technomancien qui contrôle le système.</TM_TechnoTurret.description>
+  
+  <!-- EN: Engineer Weapon -->
+  <TM_TechnoWeapon.label>Arme de l'ingénieur</TM_TechnoWeapon.label>
+  <!-- EN: The technomancer applies their knowledge of engineering and magic to create a modified version of an existing weapon.  This weapon is molded out of raw mana and physically anchored to the technomancer as an extension of their body.\nBecause of this, the weapon will disintegrate if separated from the technomancer.  This weapon will be automatically equipped by the technomancer once created.\n\nWeapon specialists also have access to modified ammunition and nano stimulants for improved combat capabilities.\n\nTo create a techno weapon: target a weapon on the ground. Targeted weapon must be ranged, with an industrial or higher tech level, and use standard firing action. -->
+  <TM_TechnoWeapon.description>Le technomancien applique ses connaissances en ingénierie et en magie pour créer une version modifiée d'une arme existante. Cette arme est façonnée à partir de mana brut et physiquement ancrée au technomancien comme une extension de son corps.\nDe ce fait, l'arme se désintègre si elle est séparée du technomancien.  Cette arme sera automatiquement équipée par le technomancien une fois créée.\n\nLes spécialistes des armes ont également accès à des munitions modifiées et à des nano-stimulants pour améliorer leurs capacités de combat.\n\nPour créer une arme techno : ciblez une arme au sol. L'arme ciblée doit être une arme à distance, avec un niveau technologique industriel ou supérieur, et utiliser une action de tir standard.</TM_TechnoWeapon.description>
+  
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: handling prisoner's chains -->
+  <PrisonLabor_HandleChains.label>TODO</PrisonLabor_HandleChains.label>
+  <!-- EN: handling prisoner's chains -->
+  <PrisonLabor_HandleChains.gerund>TODO</PrisonLabor_HandleChains.gerund>
+  <!-- EN: handle prisoner's chains -->
+  <PrisonLabor_HandleChains.verb>TODO</PrisonLabor_HandleChains.verb>
+  
+  <!-- EN: watch prisoner -->
+  <PrisonLabor_SupervisePrisonLabor.label>surveiller le prisonnier</PrisonLabor_SupervisePrisonLabor.label>
+  <!-- EN: watching prisoner -->
+  <PrisonLabor_SupervisePrisonLabor.gerund>surveille le prisonnier</PrisonLabor_SupervisePrisonLabor.gerund>
+  <!-- EN: watch prisoner -->
+  <PrisonLabor_SupervisePrisonLabor.verb>surveiller le prisonnier</PrisonLabor_SupervisePrisonLabor.verb>
+  
+</LanguageData>

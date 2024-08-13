@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Seed of Regrowth -->
+  <SeedofRegrowth.label>graine de vie</SeedofRegrowth.label>
+  <!-- EN: A seed required by a druid to begin the limb regrowth process. A druid must be trained in the art of regrowth to use this magical item successfully. -->
+  <SeedofRegrowth.description>Une graine requise par un druide pour commencer le processus de repousse des membres. Un druide doit être formé à l'art du rétablissement pour utiliser cet objet magique avec succès.</SeedofRegrowth.description>
+  
+</LanguageData>

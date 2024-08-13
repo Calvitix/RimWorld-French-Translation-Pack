@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Bracers of Defense -->
+  <TM_Artifact_BracersOfDefense.label>brassards de défense</TM_Artifact_BracersOfDefense.label>
+  <!-- EN: Bracers crafted into hardened material that allow the wearer to block physical attacks. 40% block chance.\n\nEnchantments:\nArcane Resistance 10% -->
+  <TM_Artifact_BracersOfDefense.description>Des brassards fabriqués dans un matériau durci qui permettent au porteur de bloquer les attaques physiques. 40% de chances de blocage.\n\nEnchantements :\nRésistance magique : 10%</TM_Artifact_BracersOfDefense.description>
+  
+  <!-- EN: Bracers of Deflection -->
+  <TM_Artifact_BracersOfDeflection.label>brassards de déviation</TM_Artifact_BracersOfDeflection.label>
+  <!-- EN: Bracers crafted into reactive material that allow the wearer to block attacks and deflect projectiles. 30% block chance, all blocked attacks are deflected against enemies within 8 cells.\n\nEnchantments:\nArcane Resistance 10% -->
+  <TM_Artifact_BracersOfDeflection.description>Des brassards fabriqués en matériau réactif qui permettent au porteur de bloquer les attaques et de dévier les projectiles. 30% de chances de blocage, toutes les attaques bloquées sont déviées contre les ennemis situés dans un rayon de 8 cases.\n\nEnchantements :\nRésistance magique : 10%</TM_Artifact_BracersOfDeflection.description>
+  
+  <!-- EN: Bracers of the Pacifist -->
+  <TM_Artifact_BracersOfThePacifist.label>brassards du pacifiste</TM_Artifact_BracersOfThePacifist.label>
+  <!-- EN: These bracers appear to be little more than thin cloth wrapped in leather, but their unremarkable appearance is belied by remarkable power. This item can only be worn by a pawn that has rejected violence.\n\nEnchantments:\nMax Energy +40%\nEnergy Regen +40%\nArcane Resistance +50%\nArcane Recovery - decreases time to recover from arcane weakness -->
+  <TM_Artifact_BracersOfThePacifist.description>Ces brassards semblent n'être rien de plus qu'un tissu fin enveloppé de cuir, mais leur apparence banale est démentie par un pouvoir remarquable. Cet objet ne peut être porté que par un colon qui a rejeté la violence.\n\nEnchantements :\nÉnergie maximum : +40\nRégénération d'énergie : +40%.\nRésistance magique : +50%\nRécupération magique - diminue le temps de récupération d'une faiblesse magique.</TM_Artifact_BracersOfThePacifist.description>
+  
+  <!-- EN: Ring of Authority -->
+  <TM_Artifact_Gold.label>anneau d'autorité</TM_Artifact_Gold.label>
+  <!-- EN: A ring enchanted with the essence of gold. This ring increases the wearers negotiation skills. -->
+  <TM_Artifact_Gold.description>Un anneau enchanté avec l'essence de l'or. Cet anneau augmente les capacités de négociation de celui qui le porte.</TM_Artifact_Gold.description>
+  
+  <!-- EN: Ring of Labor -->
+  <TM_Artifact_Granite.label>anneau du travail</TM_Artifact_Granite.label>
+  <!-- EN: A ring enchanted with the essence of granite. This ring grants the bearer increased carrying capacity and manipulation. -->
+  <TM_Artifact_Granite.description>Un anneau enchanté avec l'essence du granit. Cet anneau confère à son porteur une capacité de charge et de manipulation accrue.</TM_Artifact_Granite.description>
+  
+  <!-- EN: Amulet of Minor Protection -->
+  <TM_Artifact_Iron.label>amulette de protection mineure</TM_Artifact_Iron.label>
+  <!-- EN: A pendant enchanted with the essence of iron. This pendant magically improves its wearers defenses. -->
+  <TM_Artifact_Iron.description>Un pendentif enchanté avec l'essence du fer. Ce pendentif améliore magiquement les défenses de celui qui le porte.</TM_Artifact_Iron.description>
+  
+  <!-- EN: Ring of Arcane Recovery -->
+  <TM_Artifact_Jade.label>anneau de récupération de la magie</TM_Artifact_Jade.label>
+  <!-- EN: A ring enchanted with the essence of jade. This ring increases the rate its wearer recovers from arcane weakness. -->
+  <TM_Artifact_Jade.description>Un anneau enchanté avec l'essence de jade. Cet anneau augmente la vitesse à laquelle son porteur récupère de la faiblesse magique.</TM_Artifact_Jade.description>
+  
+  <!-- EN: Cat Eye Pendant -->
+  <TM_Artifact_Limestone.label>pendentif œil de chat</TM_Artifact_Limestone.label>
+  <!-- EN: A pendant enchanted with the essence of limestone. The wearer gains improved eyesight and can see in the dark. This pendant emits a soft glow. -->
+  <TM_Artifact_Limestone.description>Un pendentif enchanté avec l'essence du calcaire. Le porteur gagne une meilleure vue et peut voir dans l'obscurité. Ce pendentif émet une douce lueur.</TM_Artifact_Limestone.description>
+  
+  <!-- EN: Ring of Knowledge -->
+  <TM_Artifact_Magicyte.label>anneau de la connaissance</TM_Artifact_Magicyte.label>
+  <!-- EN: A ring enchanted with the essence of magicyte. This ring improves learning speed. -->
+  <TM_Artifact_Magicyte.description>Un anneau enchanté avec l'essence de la magicite. Cet anneau améliore la vitesse d'apprentissage.</TM_Artifact_Magicyte.description>
+  
+  <!-- EN: Mind Ward Pendant -->
+  <TM_Artifact_Marble.label>pendentif garde-esprit</TM_Artifact_Marble.label>
+  <!-- EN: A pendant enchanted with the essence of marble. This pendant improves its bearers mental state and provides a mental anchor. The pendant occasionally allows its bearer to break out of mental states. -->
+  <TM_Artifact_Marble.description>Un pendentif enchanté avec l'essence du marbre. Ce pendentif améliore l'état mental de son porteur et lui fournit un ancrage mental. Le pendentif permet occasionnellement à son porteur de sortir de ses états mentaux.</TM_Artifact_Marble.description>
+  
+  <!-- EN: Charm of Health -->
+  <TM_Artifact_Medicine.label>charme de santé</TM_Artifact_Medicine.label>
+  <!-- EN: This charm improves the health of the bearer, granting improved immunity to diseases and helps wounds heal faster. -->
+  <TM_Artifact_Medicine.description>Ce charme améliore la santé de son porteur, lui conférant une meilleure immunité aux maladies et aide les blessures à guérir plus rapidement.</TM_Artifact_Medicine.description>
+  
+  <!-- EN: Necrotic Orb -->
+  <TM_Artifact_NecroticOrb.label>orbe nécrotique</TM_Artifact_NecroticOrb.label>
+  <!-- EN: An artifact that enhances the necrotic energy required to sustain the undead. The Necrotic Orb functions much like a battery; when equipped by a pawn that is sustaining undead, it absorbs energy from a necromancer as if it were an undead itself, however, it also reduces the total upkeep cost to sustain undead by 25%. When no energy is available from a necromancer, it will disperse energy to sustain undead.\n	\nOnly one orb may be equipped by a pawn. Orbs only take affect when equipped by a pawn sustaining undead. -->
+  <TM_Artifact_NecroticOrb.description>Un artefact qui augmente l'énergie nécrotique nécessaire au maintien des morts-vivants. L'orbe nécrotique fonctionne comme une batterie ; lorsqu'il est équipé par un colon qui contrôle des morts-vivants, il absorbe l'énergie du nécromancien comme s'il était lui-même un mort-vivant, mais il réduit également le coût total d'entretien des morts-vivants de 25%. Lorsque l'énergie du nécromancien n'est plus disponible, il la disperse pour maintenir les morts-vivants.\n\nUn seul orbe peut être équipé par colon. L'orbe n'a d'effet que lorsqu'il est équipé par un colon qui contrôle des morts-vivants.</TM_Artifact_NecroticOrb.description>
+  
+  <!-- EN: Orb Of Conviction -->
+  <TM_Artifact_OrbOfConviction.label>orbe de conviction</TM_Artifact_OrbOfConviction.label>
+  <!-- EN: Also known as the Traitors Trinket, Orb of Insanity, and Mind Thief - the Orb of Conviction is a powerful and dangerous artifact. When filled with the conviction and magic of a caster, it can be used to press that conviction upon another.\n	\nIf successful, the target will immediately join the casters faction, but will be affected by psychic shock.\n\nOnly the most powerful mages can direct the power of this artifact; even then, it will exact a heavy price. The orb will implode once the spell has been cast and can only be used once. -->
+  <TM_Artifact_OrbOfConviction.description>Également connu sous le nom de bibelot des traîtres, d'orbe de la folie ou le voleur d'esprit, l'orbe de conviction est un artefact puissant et dangereux. Lorsqu'il est rempli de la conviction et de la magie d'un lanceur de sorts, il peut être utilisé pour imposer cette conviction à une autre personne.\n\nEn cas de succès, la cible rejoindra immédiatement la faction du lanceur, mais sera affectée par un choc psychique.\n\nSeuls les mages les plus puissants peuvent diriger la puissance de cet artefact ; même dans ce cas, le prix à payer est élevé. L'orbe implose une fois le sort lancé et ne peut plus être utilisé.</TM_Artifact_OrbOfConviction.description>
+  
+  <!-- EN: Orb of the Eternal -->
+  <TM_Artifact_OrbOfEternal.label>orbe de l'éternité</TM_Artifact_OrbOfEternal.label>
+  <!-- EN: A single use infusion of magical energy prepared to heal wounds, restore limbs, and cure diseases. The healing energy will target and heal the single worst health condition affecting someone at any given time.\n\nOrbs of the Eternal have been used by mages, rulers, and the elite to prolong life. These orbs are valuable and rare due mostly to the secrecy surrounding the process of crafting an orb. -->
+  <TM_Artifact_OrbOfEternal.description>Une infusion d'énergie magique à usage unique préparée pour soigner les blessures, restaurer les membres et guérir les maladies. L'énergie de guérison ciblera et guérira le pire problème de santé affectant une personne à un moment donné.\n\nLes orbes d'éternité ont été utilisés par les mages, les souverains et l'élite pour prolonger leur vie. Ces orbes sont précieux et rares, principalement en raison du secret qui entoure le processus de fabrication de l’orbe.</TM_Artifact_OrbOfEternal.description>
+  <!-- EN: Use orb of the eternal -->
+  <TM_Artifact_OrbOfEternal.comps.CompUsable.useLabel>Utiliser l'orbe de l'éternité</TM_Artifact_OrbOfEternal.comps.CompUsable.useLabel>
+  
+  <!-- EN: Orb of Souls (empty) -->
+  <TM_Artifact_OrbOfSouls.label>orbe d'âmes (vide)</TM_Artifact_OrbOfSouls.label>
+  <!-- EN: The Orb of Souls is a powerful and dangerous artifact. It requires no external power and can extract the soul of a pawn possessing traits.\n	\nIf successful, the Orb of Souls will absorb all traits from the target; the target will lose the absorbed traits. The process is almost always lethal.\n\nOnce filled, the Orb of Souls can be used to transfers the absorbed traits into another human-like pawn. -->
+  <TM_Artifact_OrbOfSouls.description>L'orbe des âmes est un artefact puissant et dangereux. Il ne nécessite aucune énergie extérieure et peut extraire l'âme d'un colon possédant des traits.\n\nS'il réussit, l'orbe des âmes absorbe tous les traits de la cible, celui-ci perd tous les traits absorbés. Le processus est presque toujours mortel.\n\nUne fois rempli, l'orbe des âmes peut être utilisé pour transférer les traits absorbés dans un autre colon de type humain.</TM_Artifact_OrbOfSouls.description>
+  
+  <!-- EN: Orb of Souls (filled) -->
+  <TM_Artifact_OrbOfSouls_Full.label>orbe d'âmes (rempli)</TM_Artifact_OrbOfSouls_Full.label>
+  <!-- EN: The Orb of Souls is a powerful and dangerous artifact. This orb has absorbed traits and can be used to infuse these traits into a human-like pawn.\n\nConflicting traits can never transfer into the target pawn. If the pawn possesses over 7 traits, then there is a 75% chance that a random, existing trait will be replaced with the trait being infused.\n\nThe orb will implode and be destroyed once the traits have been released. -->
+  <TM_Artifact_OrbOfSouls_Full.description>L'orbe des âmes est un artefact puissant et dangereux. Cet orbe a absorbé des traits et peut être utilisé pour infuser ces traits dans un colon de type humain.\n\nLes traits contradictoires ne peuvent jamais être transférés dans le colon cible. Si le colon possède plus de 7 traits, il y a 75 % de chances qu'un trait existant aléatoire soit remplacé par le trait infusé.\n\nL'orbe implose et il est détruit une fois que les traits ont été libérés.</TM_Artifact_OrbOfSouls_Full.description>
+  
+  <!-- EN: Ring of Blood -->
+  <TM_Artifact_RingOfBlood.label>anneau de sang</TM_Artifact_RingOfBlood.label>
+  <!-- EN: A ring inset with a dark stone; currents of deep red and black swirl beneath its surface. This type of ring was first created by an ancient vampire to increase blood reserves and can be used by a blood mage to store blood magic.\n\nThe Ring of Blood's power depends on the fame of its bearer and will grow with each human downed or killed. -->
+  <TM_Artifact_RingOfBlood.description>Un anneau incrusté d'une pierre sombre ; des courants d'un rouge et d'un noir profonds tourbillonnent sous sa surface. Ce type d'anneau a été créé par un ancien vampire pour augmenter les réserves de sang et peut être utilisé par un mage de sang pour stocker la magie du sang.\n\nLa puissance de l'anneau de sang dépend de la renommée de son porteur et augmente avec chaque humain abattu ou tué.</TM_Artifact_RingOfBlood.description>
+  
+  <!-- EN: Ring of the Eternal Blue -->
+  <TM_Artifact_RingOfEternalBlue.label>anneau du bleu éternel</TM_Artifact_RingOfEternalBlue.label>
+  <!-- EN: A ring that seems to pulse with a soft blue light. This ring increases psychic sensitivity and reciprocates the psychic sensitivity of its bearer.\n\nThe Ring of Eternal Blue will increase a psionic's energy proportionally with their psychic sensitivity. -->
+  <TM_Artifact_RingOfEternalBlue.description>Un anneau qui semble vibrer d'une douce lumière bleue. Cet anneau augmente la sensibilité psychique et rend réciproquement la sensibilité psychique de son porteur.\n\nL'anneau du bleu éternel augmente l'énergie d'un psionique proportionnellement à sa sensibilité psychique.</TM_Artifact_RingOfEternalBlue.description>
+  
+  <!-- EN: Ring of Keen Intellect -->
+  <TM_Artifact_RingOfKeenIntellect.label>anneau d'intelligence vive</TM_Artifact_RingOfKeenIntellect.label>
+  <!-- EN: A ring that expands the mind and heightens mental acuity but increases mental stress.\n\nEnchantments:\nXP Gain +25% -->
+  <TM_Artifact_RingOfKeenIntellect.description>Un anneau qui élargit l'esprit et accroît l'acuité mentale mais augmente le stress.\n\nEnchantements :\nGain d'XP : +25</TM_Artifact_RingOfKeenIntellect.description>
+  
+  <!-- EN: Ring of Malice -->
+  <TM_Artifact_RingOfMalice.label>anneau de malveillance</TM_Artifact_RingOfMalice.label>
+  <!-- EN: This ring gives off a dark aura and is perpetually cold to touch. The Ring of Malice increases the idle and maximum hate levels of a death knight.\n\nThe Ring of Malice's power depends on the fame of its bearer and will grow with each wound taken or inflicted. -->
+  <TM_Artifact_RingOfMalice.description>Cet anneau dégage une aura sombre et il est perpétuellement froid au toucher. L'anneau de malveillance augmente les niveaux et de haine maximum d'un chevalier de la mort.\n\nLa puissance de l'anneau de malveillance dépend de la renommée de son porteur et augmente à chaque blessure subie ou infligée.</TM_Artifact_RingOfMalice.description>
+  
+  <!-- EN: Charm of Rest -->
+  <TM_Artifact_Sandstone.label>charme du repos</TM_Artifact_Sandstone.label>
+  <!-- EN: A pendant enchanted with the essence of sandstone. This pendant improves its wearers quality of rest and prevents a passerby from disturbing their slumber. -->
+  <TM_Artifact_Sandstone.description>Un pendentif enchanté avec l'essence du grès. Ce pendentif améliore la qualité du repos de celui qui le porte et empêche les passants de perturber son sommeil.</TM_Artifact_Sandstone.description>
+  
+  <!-- EN: Quicksilver Pendant -->
+  <TM_Artifact_Silver.label>pendentif de vif-argent</TM_Artifact_Silver.label>
+  <!-- EN: A pendant enchanted with silver essence. Known as a quicksilver pendant, this expensive artifact is said to grant increased agility to its wearer. -->
+  <TM_Artifact_Silver.description>Un pendentif enchanté avec de l'essence d'argent. Connu sous le nom de pendentif de vif-argent, cet artefact coûteux est réputé d'accorder une agilité accrue à son porteur.</TM_Artifact_Silver.description>
+  
+  <!-- EN: Pendant of Mending -->
+  <TM_Artifact_Slate.label>pendentif de réparation</TM_Artifact_Slate.label>
+  <!-- EN: A pendant enchanted with the essence of slate. The slate pendant of mending will slowly recover the durability of all worn equipment. -->
+  <TM_Artifact_Slate.description>Un pendentif enchanté avec l'essence de l'ardoise. Le pendentif d'ardoise de réparation récupère lentement la durabilité de tout équipement usé.</TM_Artifact_Slate.description>
+  
+  <!-- EN: Amulet of Protection -->
+  <TM_Artifact_Steel.label>amulette de protection</TM_Artifact_Steel.label>
+  <!-- EN: A pendant enchanted with the essence of steel. This pendant magically improves its wearers defenses. -->
+  <TM_Artifact_Steel.description>Un pendentif enchanté avec l'essence de l'acier. Ce pendentif améliore magiquement les défenses de celui qui le porte.</TM_Artifact_Steel.description>
+  
+  <!-- EN: Ring of the Pathfinder -->
+  <TM_Artifact_Wood.label>anneau d'éclaireur</TM_Artifact_Wood.label>
+  <!-- EN: A ring enchanted with the essence of wood. The wearer of this ring will not be slowed by terrain and has improved foraging while in a caravan. -->
+  <TM_Artifact_Wood.description>Un anneau enchanté avec l'essence du bois. Le porteur de cet anneau ne sera pas ralenti par le terrain et bénéficie d'une amélioration de la recherche de nourriture lorsqu'il est à bord d'une caravane.</TM_Artifact_Wood.description>
+  
+</LanguageData>

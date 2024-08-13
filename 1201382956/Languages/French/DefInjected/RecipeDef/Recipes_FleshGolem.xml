@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attach chest cage -->
+  <TM_FleshGolem_ChestCage.label>greffer une cage thoracique</TM_FleshGolem_ChestCage.label>
+  <!-- EN: Improves frontal body armor by grafting a cage made from the bones of human corpses around the chest. -->
+  <TM_FleshGolem_ChestCage.description>Améliorer l'armure corporelle frontale en greffant autour de la poitrine une cage fabriquée à partir d'os de cadavres humains.</TM_FleshGolem_ChestCage.description>
+  <!-- EN: attaching bone chest cage -->
+  <TM_FleshGolem_ChestCage.jobString>greffe la cage thoracique.</TM_FleshGolem_ChestCage.jobString>
+  
+  <!-- EN: add digestive organs -->
+  <TM_FleshGolem_DigestiveOrgans.label>greffer des organes digestifs</TM_FleshGolem_DigestiveOrgans.label>
+  <!-- EN: Increases the efficiency of energy absorbed and used by the golem by 10% for digestive system added. -->
+  <TM_FleshGolem_DigestiveOrgans.description>Augmenter l'efficacité de l'énergie absorbée et utilisée par le golem de 10% pour le système digestif ajouté.</TM_FleshGolem_DigestiveOrgans.description>
+  <!-- EN: adding digestive organs -->
+  <TM_FleshGolem_DigestiveOrgans.jobString>greffe les organes digestifs.</TM_FleshGolem_DigestiveOrgans.jobString>
+  
+  <!-- EN: enhance nutrient absorption -->
+  <TM_FleshGolem_EnergySynthesis.label>améliorer l'absorption des nutriments</TM_FleshGolem_EnergySynthesis.label>
+  <!-- EN: Increases the rate energy dispersed throughout the golem. -->
+  <TM_FleshGolem_EnergySynthesis.description>Augmenter le taux de dispersion de l'énergie dans le golem.</TM_FleshGolem_EnergySynthesis.description>
+  <!-- EN: improving muscle metabolism -->
+  <TM_FleshGolem_EnergySynthesis.jobString>améliore le métabolisme musculaire.</TM_FleshGolem_EnergySynthesis.jobString>
+  
+  <!-- EN: insert quad-eyes -->
+  <TM_FleshGolem_EyesT1.label>greffer des yeux</TM_FleshGolem_EyesT1.label>
+  <!-- EN: Inserts a pair of eyes underneath the original pair that improve vision and reduces the chance the golem can be fully blinded. -->
+  <TM_FleshGolem_EyesT1.description>Insérer une paire d'œil sous les yeux originaux pour améliorer la vision et réduire le risque que le golem soit complètement aveuglé.</TM_FleshGolem_EyesT1.description>
+  <!-- EN: insert eyes -->
+  <TM_FleshGolem_EyesT1.jobString>greffe les yeux.</TM_FleshGolem_EyesT1.jobString>
+  
+  <!-- EN: carve evil eye -->
+  <TM_FleshGolem_EyesT2.label>sculpter un mauvais œil</TM_FleshGolem_EyesT2.label>
+  <!-- EN: Carves an eye socket into the forehead of a flesh golem that is filled with molded magicyte in the shape of an eye. Arcane symbols are etched around the eye, forming a magical link between the golem and the eye. The evil eye is able to manifest the suppressed rage of the flesh golem to curse their target with feebleness. -->
+  <TM_FleshGolem_EyesT2.description>Sculpter une cavité oculaire dans le front d'un golem de chair qui est rempli de magicite moulé en forme d'œil. Des symboles magiques sont gravés autour de l'œil, formant un lien magique entre le golem et l'œil. Le mauvais œil est capable de manifester la rage réprimée du golem de chair pour maudire sa cible par la faiblesse.</TM_FleshGolem_EyesT2.description>
+  <!-- EN: carving evil eye -->
+  <TM_FleshGolem_EyesT2.jobString>sculpte le mauvais œil.</TM_FleshGolem_EyesT2.jobString>
+  
+  <!-- EN: attach horns -->
+  <TM_FleshGolem_Horns.label>greffer des cornes</TM_FleshGolem_Horns.label>
+  <!-- EN: Attaches horns into the skull of a flesh golem. Horns grant the flesh golem the lethal gore attack and allows the golem to charge into battle. -->
+  <TM_FleshGolem_Horns.description>Attacher des cornes sur ke crâne du golem de chair. Les cornes confèrent au golem de chair l'attaque létale gore et lui permettent de charger au combat.</TM_FleshGolem_Horns.description>
+  <!-- EN: attaching horns -->
+  <TM_FleshGolem_Horns.jobString>greffe les cornes au golem.</TM_FleshGolem_Horns.jobString>
+  
+  <!-- EN: craft golem left bracer -->
+  <TM_FleshGolem_LeftArm_Bracer.label>fabriquer un bracelet sur le bras gauche</TM_FleshGolem_LeftArm_Bracer.label>
+  <!-- EN: Adds a metallic bracer to the arm of a flesh golem to increase blunt damage and allow blocking. -->
+  <TM_FleshGolem_LeftArm_Bracer.description>Ajouter un bracelet métallique au bras gauche d'un golem de chair pour augmenter les dégâts contondants et permettre le blocage.</TM_FleshGolem_LeftArm_Bracer.description>
+  <!-- EN: crafting golem bracer -->
+  <TM_FleshGolem_LeftArm_Bracer.jobString>fabrique le bracelet sur le bras gauche.</TM_FleshGolem_LeftArm_Bracer.jobString>
+  
+  <!-- EN: craft golem left cleaver -->
+  <TM_FleshGolem_LeftArm_Cleaver.label>fabriquer un fendoir en main gauche</TM_FleshGolem_LeftArm_Cleaver.label>
+  <!-- EN: Adds a metallic cleaver to the arm of a flesh golem, enabling an AoE cutting attack and allows the golem the ability to harvest plants. -->
+  <TM_FleshGolem_LeftArm_Cleaver.description>Ajouter un fendoir métallique en main gauche d'un golem de chair, ajoutant une attaque tranchante et améliorant la vitesse de récolte.</TM_FleshGolem_LeftArm_Cleaver.description>
+  <!-- EN: crafting golem cleaver -->
+  <TM_FleshGolem_LeftArm_Cleaver.jobString>fabrique le fendoir en main gauche.</TM_FleshGolem_LeftArm_Cleaver.jobString>
+  
+  <!-- EN: graft leg plates -->
+  <TM_FleshGolem_LegPlates.label>fabriquer des plaques de jambe</TM_FleshGolem_LegPlates.label>
+  <!-- EN: Grafts metal plates around the legs of a flesh golem. -->
+  <TM_FleshGolem_LegPlates.description>Greffer des plaques de métal autour des jambes d'un golem de chair.</TM_FleshGolem_LegPlates.description>
+  <!-- EN: grafting leg plates -->
+  <TM_FleshGolem_LegPlates.jobString>fabrique les plaques de jambe.</TM_FleshGolem_LegPlates.jobString>
+  
+  <!-- EN: enhance automaton biomass -->
+  <TM_FleshGolem_LifeStage.label>améliorer la biomasse des automates</TM_FleshGolem_LifeStage.label>
+  <!-- EN: Enhances the flesh golem by removing excess or unnecessary body parts or organs and replacing them with extra muscle tissues, sinew and bone to further shape the flesh golem into a lethal abomination. This upgrade provides the following benefits per upgrade level [1/2/3]:\nMovement:	+[20%/35%/50%]\nHealth:		+[30%/50%/70%]\n\nIn addition, this upgrade allows the flesh golem to use their rage to tear the limbs off their enemies. -->
+  <TM_FleshGolem_LifeStage.description>Améliorer le golem de chair en retirant les parties du corps ou les organes superflus et en les remplaçant par des tissus musculaires, des tendons et des os supplémentaires afin de transformer le golem de chair en une abomination mortelle. Cette amélioration offre les avantages suivants par niveau d'amélioration [1/2/3] :\nMouvement :	+[20%/35%/50%]\nSanté :		+[30%/50%/70%]\n\nDe plus, cette amélioration permet au golem de chair d'utiliser sa rage pour arracher les membres de ses ennemis.</TM_FleshGolem_LifeStage.description>
+  <!-- EN: enhancing flesh golem -->
+  <TM_FleshGolem_LifeStage.jobString>améliore le golem de chair.</TM_FleshGolem_LifeStage.jobString>
+  
+  <!-- EN: graft muscle tissue -->
+  <TM_FleshGolem_MuscleTissue.label>greffer un tissu musculaire</TM_FleshGolem_MuscleTissue.label>
+  <!-- EN: Grafts muscle tissue onto the golem to enhance strength and endurance. -->
+  <TM_FleshGolem_MuscleTissue.description>Greffer des tissus musculaires sur le golem pour améliorer sa force et son endurance.</TM_FleshGolem_MuscleTissue.description>
+  <!-- EN: grafting muscle tissue -->
+  <TM_FleshGolem_MuscleTissue.jobString>greffe le tissu musculaire.</TM_FleshGolem_MuscleTissue.jobString>
+  
+  <!-- EN: restore body part -->
+  <TM_FleshGolem_RestorePart.label>restaurer une partie du corps</TM_FleshGolem_RestorePart.label>
+  <!-- EN: Restores missing golem parts that do not require a specific upgrade. -->
+  <TM_FleshGolem_RestorePart.description>Restaurer des pièces manquantes du golem qui ne nécessitent pas d'amélioration spécifique.</TM_FleshGolem_RestorePart.description>
+  <!-- EN: grafting golem part -->
+  <TM_FleshGolem_RestorePart.jobString>restaure une partie du golem.</TM_FleshGolem_RestorePart.jobString>
+  
+  <!-- EN: craft golem right bracer -->
+  <TM_FleshGolem_RightArm_Bracer.label>fabriquer un bracelet sur le bras droit</TM_FleshGolem_RightArm_Bracer.label>
+  <!-- EN: Adds a metallic bracer to the arm of a flesh golem to increase blunt damage and allow blocking. -->
+  <TM_FleshGolem_RightArm_Bracer.description>Ajouter un bracelet métallique au bras droit d'un golem de chair pour augmenter les dégâts contondants et permettre le blocage.</TM_FleshGolem_RightArm_Bracer.description>
+  <!-- EN: crafting golem bracer -->
+  <TM_FleshGolem_RightArm_Bracer.jobString>fabrique le bracelet sur le bras droit.</TM_FleshGolem_RightArm_Bracer.jobString>
+  
+  <!-- EN: craft golem right cleaver -->
+  <TM_FleshGolem_RightArm_Cleaver.label>fabriquer un fendoir en main droite</TM_FleshGolem_RightArm_Cleaver.label>
+  <!-- EN: Adds a metallic cleaver to the arm of a flesh golem, enabling an AoE cutting attack and allows the golem the ability to cut down trees. -->
+  <TM_FleshGolem_RightArm_Cleaver.description>Ajouter un fendoir métallique en main droite d'un golem de chair, ajoutant une attaque tranchante et améliorant la vitesse de récolte.</TM_FleshGolem_RightArm_Cleaver.description>
+  <!-- EN: crafting golem cleaver -->
+  <TM_FleshGolem_RightArm_Cleaver.jobString>fabrique le fendoir en main droite.</TM_FleshGolem_RightArm_Cleaver.jobString>
+  
+  <!-- EN: graft shoulder plates -->
+  <TM_FleshGolem_ShoulderPlates.label>fabriquer des plaques d'épaule</TM_FleshGolem_ShoulderPlates.label>
+  <!-- EN: Grafts metal plates onto the shoulders of a flesh golem. -->
+  <TM_FleshGolem_ShoulderPlates.description>reffer des plaques de métal sur les épaules d'un golem de chair.</TM_FleshGolem_ShoulderPlates.description>
+  <!-- EN: grafting shoulder plates -->
+  <TM_FleshGolem_ShoulderPlates.jobString>fabrique les plaques d'épaule.</TM_FleshGolem_ShoulderPlates.jobString>
+  
+  <!-- EN: graft skull plate -->
+  <TM_FleshGolem_SkullPlate.label>fabriquer une plaque crânienne</TM_FleshGolem_SkullPlate.label>
+  <!-- EN: Grafts a metal plate around the skull of a flesh golem. -->
+  <TM_FleshGolem_SkullPlate.description>Greffer une plaque de métal autour du crâne d'un golem de chair.</TM_FleshGolem_SkullPlate.description>
+  <!-- EN: grafting skull plate -->
+  <TM_FleshGolem_SkullPlate.jobString>fabrique la plaque crânienne.</TM_FleshGolem_SkullPlate.jobString>
+  
+  <!-- EN: attach spine guard -->
+  <TM_FleshGolem_SpineGuard.label>fabriquer une protection du dos</TM_FleshGolem_SpineGuard.label>
+  <!-- EN: Improves back armor by grafting a shell made from the bones of a corpse along the spinal column of a flesh golem. -->
+  <TM_FleshGolem_SpineGuard.description>Améliorer l'armure dorsale en greffant une carapace faite à partir des os d'un cadavre le long de la colonne vertébrale d'un golem de chair.</TM_FleshGolem_SpineGuard.description>
+  <!-- EN: attaching spine bone plate -->
+  <TM_FleshGolem_SpineGuard.jobString>fabrique la protection du dos.</TM_FleshGolem_SpineGuard.jobString>
+  
+  <!-- EN: attach tusks -->
+  <TM_FleshGolem_Tusks.label>greffer des défenses</TM_FleshGolem_Tusks.label>
+  <!-- EN: Inserts tusks into the mandibles of a flesh golem. -->
+  <TM_FleshGolem_Tusks.description>Insérer des défenses comme mandibules dans la bouche du golem de chair.</TM_FleshGolem_Tusks.description>
+  <!-- EN: attaching golem tusks -->
+  <TM_FleshGolem_Tusks.jobString>greffe les défenses au golem.</TM_FleshGolem_Tusks.jobString>
+  
+  <!-- EN: attach wings -->
+  <TM_FleshGolem_Wings.label>greffer des ailes</TM_FleshGolem_Wings.label>
+  <!-- EN: Increases speed and balance by grafting wings into the back of a flesh golem. These wings are not intended for flight, rather they serve the golem by helping it offset some of its considerable bulk during combat. -->
+  <TM_FleshGolem_Wings.description>Augmenter la vitesse et l'équilibre en greffant des ailes dans le dos d'un golem de chair. Ces ailes ne sont pas destinées à voler, elles servent plutôt le golem en l'aidant à compenser une partie de sa masse considérable pendant le combat.</TM_FleshGolem_Wings.description>
+  <!-- EN: attaching wings -->
+  <TM_FleshGolem_Wings.jobString>greffe les ailes.</TM_FleshGolem_Wings.jobString>
+  
+</LanguageData>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bull charge -->
+  <TM_FleshGolem_BullCharge.label>charge de taureau</TM_FleshGolem_BullCharge.label>
+  
+  <!-- EN: dismember -->
+  <TM_FleshGolem_Dismember.label>démembrer</TM_FleshGolem_Dismember.label>
+  
+  <!-- EN: enfeeble -->
+  <TM_FleshGolem_EyeCurse.label>affaiblir</TM_FleshGolem_EyeCurse.label>
+  
+  <!-- EN: cleave -->
+  <TM_FleshGolem_LeftCleave.label>enchaînement</TM_FleshGolem_LeftCleave.label>
+  
+  <!-- EN: cleave -->
+  <TM_FleshGolem_RightCleave.label>enchaînement</TM_FleshGolem_RightCleave.label>
+  
+  <!-- EN: haste -->
+  <TM_FleshGolem_WingHaste.label>hâte</TM_FleshGolem_WingHaste.label>
+  
+  <!-- EN: absorb fire -->
+  <TM_HollowGolem_AbsorbFire.label>absorber le feu</TM_HollowGolem_AbsorbFire.label>
+  
+  <!-- EN: awakening -->
+  <TM_HollowGolem_Awakening.label>réveiller</TM_HollowGolem_Awakening.label>
+  
+  <!-- EN: burning fury -->
+  <TM_HollowGolem_BurningFury.label>fureur ardente</TM_HollowGolem_BurningFury.label>
+  
+  <!-- EN: fade -->
+  <TM_HollowGolem_Fade.label>disparaître</TM_HollowGolem_Fade.label>
+  
+  <!-- EN: well of despair -->
+  <TM_HollowGolem_WellOfDespair.label>puits de désespoir</TM_HollowGolem_WellOfDespair.label>
+  
+  <!-- EN: waste conversion -->
+  <TM_Mecha-Golem_AbsorbFilth.label>transformation des déchets</TM_Mecha-Golem_AbsorbFilth.label>
+  
+  <!-- EN: Shoulder mounted gatling cannon for mecha-golem -->
+  <TM_Mecha-Golem_GatlingCannon.label>Canon gatling monté sur l'épaule d'un mecha-golem</TM_Mecha-Golem_GatlingCannon.label>
+  
+  <!-- EN: self-repair module -->
+  <TM_Mecha-Golem_HealSelf.label>module d'autoréparation</TM_Mecha-Golem_HealSelf.label>
+  
+  <!-- EN: Shoulder mounted mining laser for mecha-golem -->
+  <TM_Mecha-Golem_MiningLaser.label>Laser minier monté sur l'épaule d'un mecha-golem</TM_Mecha-Golem_MiningLaser.label>
+  
+  <!-- EN: energy shield module -->
+  <TM_Mecha-Golem_ShieldSelf.label>module de bouclier d'énergie</TM_Mecha-Golem_ShieldSelf.label>
+  
+</LanguageData>

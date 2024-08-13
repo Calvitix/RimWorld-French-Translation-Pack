@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Deception -->
+  <TM_Disguise.label>Tromperie</TM_Disguise.label>
+  <!-- EN: The faceless manipulates light and motion to make their form appear meaningless to any observer; on a subconscious level, any observer will cognitively dismiss the faceless as an unimportant, harmless object, essentially making the faceless invisible.\n	\nDisguise will not fool any pawn that already sees the faceless as a threat. -->
+  <TM_Disguise.description>Le sans-visage manipule la lumière et le mouvement pour que sa forme apparaisse insignifiante à tout observateur ; à un niveau subconscient, tout observateur considérera cognitivement le sans-visage comme un objet sans importance et inoffensif, rendant le sans-visage pratiquement invisible.\n\nLe déguisement ne trompera pas un colon qui voit le sans-visage comme une menace.</TM_Disguise.description>
+  
+  <!-- EN: Mimic -->
+  <TM_Mimic.label>Imitation</TM_Mimic.label>
+  <!-- EN: The faceless copies a random ability from a mage or fighter. Only one ability may be stored at a time. The ability is retained after use; reusing Mimic will replace the stored ability. -->
+  <TM_Mimic.description>Le sans-visage copie une capacité aléatoire d'un mage ou d'un combattant. Une seule capacité peut être mémorisée à la fois. La capacité est conservée après utilisation ; la réutilisation de Imitation remplacera la capacité mémorisée.</TM_Mimic.description>
+  
+  <!-- EN: Possess -->
+  <TM_Possess.label>Possession</TM_Possess.label>
+  <!-- EN: Like a puppet master, the faceless applies of the mind and body to cause extreme self-doubt on a target pawn - allowing them to control their target through mental suggestion and coercion. \n		\nNearby enemies are unlikely to immediately detect the possession unless they see suspicious activity. If detected, neutral and friendly factions will consider aggressive actions from a possessed pawn as an act of hostility.\n\nOnly creatures with a human-like mind capable of self-doubt can be possessed. -->
+  <TM_Possess.description>Comme un marionnettiste, le sans-visage utilise l'esprit et le corps pour provoquer un doute extrême sur un colon ciblé - ce qui lui permet de contrôler sa cible par la suggestion mentale et la coercition.\n\nIl est peu probable que les ennemis proches détectent immédiatement la possession, à moins qu'ils ne voient une activité suspecte. Si elles sont détectées, les factions neutres et amies considéreront les actions agressives du colon possédé comme un acte d'hostilité.\n\nSeules les créatures dotées d'un esprit de type humain capable de douter de soi peuvent être possédées.</TM_Possess.description>
+  
+  <!-- EN: Reversal -->
+  <TM_Reversal.label>Inversion</TM_Reversal.label>
+  <!-- EN: Reverses the kinetic energy of all melee and projectile attacks for a brief period. The faceless will take no damage from these attacks. Direct application and explosive attacks cannot be reversed. -->
+  <TM_Reversal.description>Inverse l'énergie cinétique de toutes les attaques de mêlée et de projectiles pendant une courte période. Le sans-visage ne subit aucun dégât de ces attaques. L'application directe et les attaques explosives ne peuvent pas être inversées.</TM_Reversal.description>
+  
+  <!-- EN: Transpose -->
+  <TM_Transpose.label>Transposition</TM_Transpose.label>
+  <!-- EN: Swap places with a target pawn. The faceless and the target will be disoriented following transposition. The faceless will gain reversal for a short period.\nCast time: .8s\nRange: 40\nCooldown: 15 -->
+  <TM_Transpose.description>Echanger sa place avec un colon ciblé. Le sans-visage et la cible seront désorientés suite à la transposition. Le sans-visage gagnera Inversion pendant une courte période.\nIncantation : 0.8s\nPortée : 40\nTemps de recharge : 15</TM_Transpose.description>
+  
+  <!-- EN: Transpose I -->
+  <TM_Transpose_I.label>Transposition</TM_Transpose_I.label>
+  <!-- EN: Swap places with a target pawn. The faceless and the target will be disoriented following transposition. The faceless will gain reversal for a short period.\nCast time: .6s\nRange: 44\nCooldown: 13 -->
+  <TM_Transpose_I.description>Echanger sa place avec un colon ciblé. Le sans-visage et la cible seront désorientés suite à la transposition. Le sans-visage gagnera Inversion pendant une courte période.\nIncantation : 0.6s\nPortée : 44\nTemps de recharge : 13</TM_Transpose_I.description>
+  
+  <!-- EN: Transpose II -->
+  <TM_Transpose_II.label>Transposition</TM_Transpose_II.label>
+  <!-- EN: Swap places with a target pawn. The faceless and the target will be disoriented following transposition. The faceless will gain reversal for a short period.\nCast time: .4s\nRange: 47\nCooldown: 11 -->
+  <TM_Transpose_II.description>Echanger sa place avec un colon ciblé. Le sans-visage et la cible seront désorientés suite à la transposition. Le sans-visage gagnera Inversion pendant une courte période.\nIncantation : 0.4s\nPortée : 47\nTemps de recharge : 11</TM_Transpose_II.description>
+  
+  <!-- EN: Transpose III -->
+  <TM_Transpose_III.label>Transposition</TM_Transpose_III.label>
+  <!-- EN: Swap places with a target pawn. The faceless and the target will be disoriented following transposition. The faceless will gain reversal for a short period.\nCast time: .2s\nRange: 50\nCooldown: 9 -->
+  <TM_Transpose_III.description>Echanger sa place avec un colon ciblé. Le sans-visage et la cible seront désorientés suite à la transposition. Le sans-visage gagnera Inversion pendant une courte période.\nIncantation : 0.2s\nPortée : 50\nTemps de recharge : 9</TM_Transpose_III.description>
+  
+</LanguageData>

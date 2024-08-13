@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mote -->
+  <Mote_MagicCircleInner.label>Mote</Mote_MagicCircleInner.label>
+  
+  <!-- EN: Mote -->
+  <Mote_MagicCircleOuter.label>Mote</Mote_MagicCircleOuter.label>
+  
+  <!-- EN: Mote -->
+  <Mote_SmallMagicCircleInner.label>Mote</Mote_SmallMagicCircleInner.label>
+  
+  <!-- EN: Mote -->
+  <Mote_SmallMagicCircleOuter.label>Mote</Mote_SmallMagicCircleOuter.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_BFBExplosion.label>Mote</TM_Mote_BFBExplosion.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_BFBExplosionInner.label>Mote</TM_Mote_BFBExplosionInner.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_BloodShield.label>Mote</TM_Mote_BloodShield.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_BloodShieldInner.label>Mote</TM_Mote_BloodShieldInner.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_BlueArea.label>Mote</TM_Mote_BlueArea.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_BlueAreaLarge.label>Mote</TM_Mote_BlueAreaLarge.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_BlueAreaSmall.label>Mote</TM_Mote_BlueAreaSmall.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_BlueOutline.label>Mote</TM_Mote_BlueOutline.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_BullHead.label>Mote</TM_Mote_BullHead.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_ChiBurst.label>Mote</TM_Mote_ChiBurst.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_ChiBurstInner.label>Mote</TM_Mote_ChiBurstInner.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_DeathExplosion.label>Mote</TM_Mote_DeathExplosion.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_DeathExplosionInner.label>Mote</TM_Mote_DeathExplosionInner.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_EarthShield.label>Mote</TM_Mote_EarthShield.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_ExplosionWaveInner.label>Mote</TM_Mote_ExplosionWaveInner.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_ExplosionWaveOuter.label>Mote</TM_Mote_ExplosionWaveOuter.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_FearWaveInner.label>Mote</TM_Mote_FearWaveInner.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_FearWaveMiddle.label>Mote</TM_Mote_FearWaveMiddle.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_FearWaveOuter.label>Mote</TM_Mote_FearWaveOuter.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_FireShield.label>Mote</TM_Mote_FireShield.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_GiantExplosion.label>Mote</TM_Mote_GiantExplosion.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_GiantExplosionInner.label>Mote</TM_Mote_GiantExplosionInner.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_GlowingRune.label>Mote</TM_Mote_GlowingRune.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_HeatShield.label>Mote</TM_Mote_HeatShield.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_HolyImplosion.label>Mote</TM_Mote_HolyImplosion.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_HolyImplosionInner.label>Mote</TM_Mote_HolyImplosionInner.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_HTLShield.label>Mote</TM_Mote_HTLShield.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_IgniteWaveInner.label>Mote</TM_Mote_IgniteWaveInner.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_IgniteWaveOuter.label>Mote</TM_Mote_IgniteWaveOuter.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_Invisibility.label>Mote</TM_Mote_Invisibility.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_LightBurstWaveInner.label>Mote</TM_Mote_LightBurstWaveInner.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_LightBurstWaveOuter.label>Mote</TM_Mote_LightBurstWaveOuter.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_LightningShield.label>Mote</TM_Mote_LightningShield.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_MKWaveInner.label>Mote</TM_Mote_MKWaveInner.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_MKWaveMiddle.label>Mote</TM_Mote_MKWaveMiddle.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_OrderWaveInner.label>Mote</TM_Mote_OrderWaveInner.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_OrderWaveMiddle.label>Mote</TM_Mote_OrderWaveMiddle.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_OSExplosion.label>Mote</TM_Mote_OSExplosion.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_OSExplosionInner.label>Mote</TM_Mote_OSExplosionInner.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_RageWaveInner.label>Mote</TM_Mote_RageWaveInner.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_RageWaveMiddle.label>Mote</TM_Mote_RageWaveMiddle.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_RecallCollapse.label>Mote</TM_Mote_RecallCollapse.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_RecallExpand.label>Mote</TM_Mote_RecallExpand.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_RedOutline.label>Mote</TM_Mote_RedOutline.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_SabotageExplosion.label>Mote</TM_Mote_SabotageExplosion.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_SabotageExplosionInner.label>Mote</TM_Mote_SabotageExplosionInner.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_SDSpin.label>Mote</TM_Mote_SDSpin.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_SDSpinUp.label>Mote</TM_Mote_SDSpinUp.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_SDWaveInner.label>Mote</TM_Mote_SDWaveInner.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_ShadowCircleIn.label>Mote</TM_Mote_ShadowCircleIn.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_ShadowCircleOut.label>Mote</TM_Mote_ShadowCircleOut.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_ShadowSwirlOut.label>Mote</TM_Mote_ShadowSwirlOut.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_SnapFreezeWaveInner.label>Mote</TM_Mote_SnapFreezeWaveInner.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_SnapFreezeWaveOuter.label>Mote</TM_Mote_SnapFreezeWaveOuter.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_Stoneskin.label>Mote</TM_Mote_Stoneskin.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_StormSpinDown.label>Mote</TM_Mote_StormSpinDown.label>
+  
+  <!-- EN: Mote -->
+  <TM_Mote_WaterShield.label>Mote</TM_Mote_WaterShield.label>
+  
+</LanguageData>

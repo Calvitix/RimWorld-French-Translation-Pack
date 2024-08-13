@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Ray of Hope -->
+  <Buff_RayofHope.label>feu intérieur</Buff_RayofHope.label>
+  
+  <!-- EN: fireball -->
+  <Projectile_Fireball.label>boule de feu</Projectile_Fireball.label>
+  
+  <!-- EN: Firebolt -->
+  <Projectile_Firebolt.label>éclair de feu</Projectile_Firebolt.label>
+  
+  <!-- EN: Fireclaw -->
+  <Projectile_Fireclaw.label>serre de feu</Projectile_Fireclaw.label>
+  
+  <!-- EN: Firestorm -->
+  <Projectile_Firestorm.label>tempête de feu</Projectile_Firestorm.label>
+  
+</LanguageData>

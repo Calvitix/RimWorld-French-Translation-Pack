@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: armor -->
+  <TM_Golem_WoodArmor.label>Armure</TM_Golem_WoodArmor.label>
+  <!-- EN: Increases overall protection:\nBlunt:	+[9,17,23]%\nSharp:	+[8,15,21]%\nHeat:	+[4,7,10]% -->
+  <TM_Golem_WoodArmor.description>Augmente la protection globale :\nContondant : +[9,17,23]%\nTranchant : +[8,15,21]%\nChaleur : +[4,7,10]%</TM_Golem_WoodArmor.description>
+  
+  <!-- EN: energy efficiency -->
+  <TM_Golem_WoodEnergyEfficiency.label>Efficacité d'énergie</TM_Golem_WoodEnergyEfficiency.label>
+  <!-- EN: Increases energy efficiency by 5% per level. Starting energy efficiency is 25%. -->
+  <TM_Golem_WoodEnergyEfficiency.description>Augmente l'efficacité d'énergie de 5% par niveau. L'efficacité d'origine est de 25%.</TM_Golem_WoodEnergyEfficiency.description>
+  
+  <!-- EN: energy regeneration -->
+  <TM_Golem_WoodEnergyRate.label>Régénération d'énergie</TM_Golem_WoodEnergyRate.label>
+  <!-- EN: Increases energy charge rate by 15% per level. Starting recharge rate is 25 energy/hour. -->
+  <TM_Golem_WoodEnergyRate.description>Augmente le taux de recharge en énergie de 15% par niveau. Le taux de recharge de départ est de 25 énergie/heure.</TM_Golem_WoodEnergyRate.description>
+  
+  <!-- EN: frame tier -->
+  <TM_Golem_WoodLifeStage.label>Niveau du cadre</TM_Golem_WoodLifeStage.label>
+  <!-- EN: Increases stats:\nMovement:	+[20%/30%/40%]\nHealth:		+[20%/40%/60%] -->
+  <TM_Golem_WoodLifeStage.description>Augmente les statistiques :\nDéplacement : +[20%/30%/40%]\nSanté : +[20%/40%/60%]</TM_Golem_WoodLifeStage.description>
+  
+  <!-- EN: energy storage -->
+  <TM_Golem_WoodMaxEnergy.label>Stockage d'énergie</TM_Golem_WoodMaxEnergy.label>
+  <!-- EN: Increases maximum energy by 100 per level. Starting max energy is 400. -->
+  <TM_Golem_WoodMaxEnergy.description>Augmente l'énergie maximum de 100 par niveau. L'énergie maximum de départ est de 400.</TM_Golem_WoodMaxEnergy.description>
+  
+  <!-- EN: restore part -->
+  <TM_Golem_WoodRepair.label>Restauration d'une partie</TM_Golem_WoodRepair.label>
+  
+  <!-- EN: Skill Enhancement -->
+  <TM_Golem_WoodSkills.label>Niveau de compétence</TM_Golem_WoodSkills.label>
+  <!-- EN: Increases the skill levels of construction and handling by 2 per skill level and cooking by 1 per skill level. -->
+  <TM_Golem_WoodSkills.description>Augmente les niveaux de compétence en construction et en manutention de 2 par niveau de compétence et en cuisine de 1 par niveau de compétence.</TM_Golem_WoodSkills.description>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: elemental defenders -->
+  <TM_Start_ElementalDefenders.label>défenseurs élémentaires</TM_Start_ElementalDefenders.label>
+  <!-- EN: Creates a connection to another plane of existence and entices the elementals there to defend the colony. Lasts about 4 hours. -->
+  <TM_Start_ElementalDefenders.description>Crée une connexion avec un autre plan d'existence et incite les élémentaires qui s'y trouvent à défendre la colonie. Dure environ 4 heures.</TM_Start_ElementalDefenders.description>
+  
+  <!-- EN: mana storm -->
+  <TM_Start_ManaStorm.label>tempête de mana</TM_Start_ManaStorm.label>
+  <!-- EN: Creates and almost immediately releases a temporary mana pocket. Mana attempts to fill the pocket but is forced to rapidly disperse, creating a violent mana disturbance. The resulting condition is known as a mana storm. Mana attempts to disperse rapidly during mana storm which can cause severe damage to anyone attempting to draw on mana at the time. Mana is also more readily available, for those who are willing to risk the backlash. The mana storm lasts anywhere from 6 to 40 hours. -->
+  <TM_Start_ManaStorm.description>Crée et libère presque immédiatement une sphère de mana temporaire. Le mana tente de remplir la zone mais est forcé de se disperser rapidement, créant une violente perturbation du mana. La situation qui en résulte est connue sous le nom de tempête de mana. Le mana tente de se disperser rapidement pendant la tempête de mana, ce qui peut causer de graves dommages à toute personne qui tente de puiser du mana à ce moment-là. Le mana est également plus facilement disponible, pour ceux qui sont prêts à risquer le contrecoup. La tempête de mana dure entre 6 et 40 heures.</TM_Start_ManaStorm.description>
+  
+</LanguageData>

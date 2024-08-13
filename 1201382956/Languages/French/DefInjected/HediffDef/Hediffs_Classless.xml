@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Taunted! -->
+  <TM_TauntHD.label>provocation !</TM_TauntHD.label>
+  <!-- EN: This pawn has been taunted and will focus their attacks on the offending pawn. -->
+  <TM_TauntHD.description>Ce colon a été provoqué et concentrera ses attaques sur le colon concerné.</TM_TauntHD.description>
+  
+</LanguageData>

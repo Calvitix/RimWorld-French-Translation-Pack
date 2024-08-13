@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abdomen -->
+  <Sentinel_Abdomen.label>abdomen</Sentinel_Abdomen.label>
+  
+  <!-- EN: sentinel legs -->
+  <Sentinel_Base.label>jambes de sentinelle</Sentinel_Base.label>
+  
+  <!-- EN: body -->
+  <Sentinel_Body.label>corps</Sentinel_Body.label>
+  
+  <!-- EN: brain -->
+  <Sentinel_Brain.label>cerveau</Sentinel_Brain.label>
+  
+  <!-- EN: chest -->
+  <Sentinel_Chest.label>thorax</Sentinel_Chest.label>
+  
+  <!-- EN: head -->
+  <Sentinel_Head.label>tête</Sentinel_Head.label>
+  
+  <!-- EN: jaw -->
+  <Sentinel_Jaw.label>mâchoire</Sentinel_Jaw.label>
+  
+  <!-- EN: left arm -->
+  <Sentinel_LeftArm.label>bras gauche</Sentinel_LeftArm.label>
+  
+  <!-- EN: left ear -->
+  <Sentinel_LeftEar.label>oreille gauche</Sentinel_LeftEar.label>
+  
+  <!-- EN: left eye -->
+  <Sentinel_LeftEye.label>œil gauche</Sentinel_LeftEye.label>
+  
+  <!-- EN: neck -->
+  <Sentinel_Neck.label>cou</Sentinel_Neck.label>
+  
+  <!-- EN: right arm -->
+  <Sentinel_RightArm.label>bras droit</Sentinel_RightArm.label>
+  
+  <!-- EN: right ear -->
+  <Sentinel_RightEar.label>oreille droite</Sentinel_RightEar.label>
+  
+  <!-- EN: right eye -->
+  <Sentinel_RightEye.label>œil droit</Sentinel_RightEye.label>
+  
+  <!-- EN: skull -->
+  <Sentinel_Skull.label>crâne</Sentinel_Skull.label>
+  
+  <!-- EN: spine -->
+  <Sentinel_Spine.label>colonne vertébrale</Sentinel_Spine.label>
+  
+</LanguageData>

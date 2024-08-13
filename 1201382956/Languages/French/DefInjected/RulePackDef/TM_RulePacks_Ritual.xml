@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_ritualName->[ritNoun] of [keyDeity]</li>
+    <li>r_ritualName->[ritNoun] of [chosenTheme]</li>
+    <li>r_ritualName->[ritNoun] of [memeConcept]</li>
+    <li>r_ritualName->[memeAdjective] [ritNoun]</li>
+    <li>ritNoun->gifting</li>
+    <li>ritNoun->ascending</li>
+    <li>ritNoun->becoming</li>
+    <li>ritNoun->enlightenment</li>
+    <li>ritNoun->bridging</li>
+    <li>ritNoun->linking</li>
+    <li>ritNoun->melding</li>
+    <li>ritNoun->calling</li>
+    <li>ritNoun->clarity</li>
+    <li>ritNoun->ascendence</li>
+    <li>ritNoun->awakening</li>
+    <li>ritNoun->evoking</li>
+  -->
+  <NamerRitualGifting.rulePack.rulesStrings>
+    <li>r_ritualName->[ritNoun] de [keyDeity]</li>
+    <li>r_ritualName->[ritNoun] de [chosenTheme]</li>
+    <li>r_ritualName->[ritNoun] de [memeConcept]</li>
+    <li>r_ritualName->[ritNoun] [memeAdjective]</li>
+    <li>ritNoun->le don</li>
+    <li>ritNoun->ascendant</li>
+    <li>ritNoun->le devenir</li>
+    <li>ritNoun->l'éveil</li>
+    <li>ritNoun->transition</li>
+    <li>ritNoun->liaison</li>
+    <li>ritNoun->fusion</li>
+    <li>ritNoun->l'appel</li>
+    <li>ritNoun->la clarté</li>
+    <li>ritNoun->l'ascension</li>
+    <li>ritNoun->le réveil</li>
+    <li>ritNoun->l'évocation</li>
+  </NamerRitualGifting.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_ritualName->[ritNoun] of [keyDeity]</li>
+    <li>r_ritualName->[ritNoun] of [chosenTheme]</li>
+    <li>r_ritualName->[ritNoun] of [memeConcept]</li>
+    <li>r_ritualName->[memeAdjective] [ritNoun]</li>
+    <li>ritNoun->spirit mutilation</li>
+    <li>ritNoun->soul cutting</li>
+    <li>ritNoun->soul slicing</li>
+    <li>ritNoun->severing</li>
+    <li>ritNoun->mindrip</li>
+    <li>ritNoun->mind ripping</li>
+    <li>ritNoun->soul mangling</li>
+    <li>ritNoun->mind carving</li>
+    <li>ritNoun->spirit gashing</li>
+    <li>ritNoun->soul rending</li>
+    <li>ritNoun->silencing</li>
+    <li>ritNoun->quieting</li>
+    <li>ritNoun->quelling</li>
+  -->
+  <NamerRitualMindMutilation.rulePack.rulesStrings>
+    <li>r_ritualName->[ritNoun] de [keyDeity]</li>
+    <li>r_ritualName->[ritNoun] de [chosenTheme]</li>
+    <li>r_ritualName->[ritNoun] de [memeConcept]</li>
+    <li>r_ritualName->[ritNoun] [memeAdjective]</li>
+    <li>ritNoun->mutilation de l'esprit</li>
+    <li>ritNoun->coupure de l'âme</li>
+    <li>ritNoun->découpage de l'âme</li>
+    <li>ritNoun->la séparation</li>
+    <li>ritNoun->l'esprit déchiré</li>
+    <li>ritNoun->l'esprit arraché</li>
+    <li>ritNoun->l'altération de l'âme</li>
+    <li>ritNoun->la sculpture de l'esprit</li>
+    <li>ritNoun->l'esprit d'écrasement</li>
+    <li>ritNoun->le déchirement de l'âme</li>
+    <li>ritNoun->le silence</li>
+    <li>ritNoun->l'apaisement</li>
+    <li>ritNoun->l'atténuation</li>
+  </NamerRitualMindMutilation.rulePack.rulesStrings>
+  
+</LanguageData>

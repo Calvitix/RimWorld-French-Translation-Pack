@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: secondary targeter -->
+  <TM_CompVerb.label>cible secondaire</TM_CompVerb.label>
+  <!-- EN: verb used in secondary targeting -->
+  <TM_CompVerb.description>utilisé dans le ciblage secondaire</TM_CompVerb.description>
+  
+</LanguageData>

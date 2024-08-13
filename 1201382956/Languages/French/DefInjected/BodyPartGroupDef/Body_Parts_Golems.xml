@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: smash -->
+  <Flesh_Arms.label>choc</Flesh_Arms.label>
+  
+  <!-- EN: eyes -->
+  <Flesh_Eyes.label>yeux</Flesh_Eyes.label>
+  
+  <!-- EN: horns -->
+  <Flesh_Horns.label>cornes</Flesh_Horns.label>
+  
+  <!-- EN: bracer -->
+  <Flesh_LeftArm_Brace.label>bracelet</Flesh_LeftArm_Brace.label>
+  
+  <!-- EN: cleaver -->
+  <Flesh_LeftArm_Cleaver.label>fendoir</Flesh_LeftArm_Cleaver.label>
+  
+  <!-- EN: bracer -->
+  <Flesh_RightArm_Brace.label>bracelet</Flesh_RightArm_Brace.label>
+  
+  <!-- EN: cleaver -->
+  <Flesh_RightArm_Cleaver.label>fendoir</Flesh_RightArm_Cleaver.label>
+  
+  <!-- EN: tusks -->
+  <Flesh_Tusks.label>défenses</Flesh_Tusks.label>
+  
+  <!-- EN: smash -->
+  <Golem_Arms.label>choc</Golem_Arms.label>
+  
+  <!-- EN: eyes -->
+  <Golem_Eyes.label>yeux</Golem_Eyes.label>
+  
+  <!-- EN: hollowed axe -->
+  <Hollow_Axe.label>hache d'armure animée</Hollow_Axe.label>
+  
+  <!-- EN: hollow claws -->
+  <Hollow_Claws.label>griffes d'armure animée</Hollow_Claws.label>
+  
+  <!-- EN: decay touch -->
+  <Hollow_Decay.label>toucher de décomposition</Hollow_Decay.label>
+  
+  <!-- EN: focus gem -->
+  <Hollow_FocusGems.label>pierre de focalisation</Hollow_FocusGems.label>
+  
+  <!-- EN: hollowed staff -->
+  <Hollow_Staff.label>bâton d'armure animée</Hollow_Staff.label>
+  
+  <!-- EN: arms -->
+  <Maharal_Arms.label>bras</Maharal_Arms.label>
+  
+  <!-- EN: body smash -->
+  <Mecha_Base.label>choc du corps</Mecha_Base.label>
+  
+  <!-- EN: left arm -->
+  <Mecha_LeftArm.label>bras gauche</Mecha_LeftArm.label>
+  
+  <!-- EN: mecha-axe -->
+  <Mecha_LeftArm_Axe.label>hache-mecha</Mecha_LeftArm_Axe.label>
+  
+  <!-- EN: mecha-sword -->
+  <Mecha_LeftArm_Sword.label>épée-mecha</Mecha_LeftArm_Sword.label>
+  
+  <!-- EN: right arm -->
+  <Mecha_RightArm.label>bras droit</Mecha_RightArm.label>
+  
+  <!-- EN: mecha-hammer -->
+  <Mecha_RightArm_Hammer.label>marteau-mecha</Mecha_RightArm_Hammer.label>
+  
+  <!-- EN: arms -->
+  <Stone_Arms.label>bras</Stone_Arms.label>
+  
+  <!-- EN: arms -->
+  <Straw_Arms.label>bras</Straw_Arms.label>
+  
+  <!-- EN: arms -->
+  <TM_Silk_Arms.label>bras</TM_Silk_Arms.label>
+  
+  <!-- EN: movement base -->
+  <TM_Wood_Base.label>base de mouvement</TM_Wood_Base.label>
+  
+  <!-- EN: central force -->
+  <TM_Wood_Manipulator.label>force centrale</TM_Wood_Manipulator.label>
+  
+</LanguageData>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: spirit bear -->
+  <TM_SpiritBear.label>esprit d'ours</TM_SpiritBear.label>
+  <!-- EN: spirit bears -->
+  <TM_SpiritBear.labelPlural>esprit des ours</TM_SpiritBear.labelPlural>
+  
+  <!-- EN: spirit crow -->
+  <TM_SpiritCrow.label>esprit du corbeau</TM_SpiritCrow.label>
+  <!-- EN: spirit crows -->
+  <TM_SpiritCrow.labelPlural>esprit des corbeaux</TM_SpiritCrow.labelPlural>
+  <!-- EN: flight1 -->
+  <TM_SpiritCrow.lifeStages.flight1.label>vol1</TM_SpiritCrow.lifeStages.flight1.label>
+  <!-- EN: flight2 -->
+  <TM_SpiritCrow.lifeStages.flight2.label>vol2</TM_SpiritCrow.lifeStages.flight2.label>
+  <!-- EN: crow chick -->
+  <TM_SpiritCrow.lifeStages.crow_chick.label>esprit du corbillat</TM_SpiritCrow.lifeStages.crow_chick.label>
+  <!-- EN: crow fledgling -->
+  <TM_SpiritCrow.lifeStages.crow_fledgling.label>esprit des corbillats</TM_SpiritCrow.lifeStages.crow_fledgling.label>
+  
+  <!-- EN: spirit mongoose -->
+  <TM_SpiritMongoose.label>esprit de mangouste</TM_SpiritMongoose.label>
+  <!-- EN: spirit mongoose -->
+  <TM_SpiritMongoose.labelPlural>esprit des mangoustes</TM_SpiritMongoose.labelPlural>
+  
+</LanguageData>

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Consume Corpse -->
+  <TM_ConsumeCorpse.label>Festin macabre</TM_ConsumeCorpse.label>
+  <!-- EN: Consume a corpse or undead to replenish mana. Apparel, items, and equipment remain behind but all material belonging to the corpse is consumed (meat/leather)\n		\nMana Cost: 3\nRange: 50\nCooldown: 20s\nCast Time: 2s -->
+  <TM_ConsumeCorpse.description>Consommer un cadavre ou un mort-vivant pour reconstituer le mana. Les vêtements, les objets et l'équipement restent sur place, mais tout ce qui appartient au cadavre est consommé (viande/cuir).\n\nCoût en mana : 3%\nPortée : 50\nTemps de recharge : 20s\nIncantation : 2s</TM_ConsumeCorpse.description>
+  
+  <!-- EN: Consume Corpse (I) -->
+  <TM_ConsumeCorpse_I.label>Festin macabre</TM_ConsumeCorpse_I.label>
+  <!-- EN: Consume a corpse or undead to replenish mana. Apparel, items, and equipment remain behind but all material belonging to the corpse is consumed (meat/leather)\n		\nMana Cost: 2.5\nRange: 60\nCooldown: 18s\nCast Time: 1.8s -->
+  <TM_ConsumeCorpse_I.description>Consommer un cadavre ou un mort-vivant pour reconstituer le mana. Les vêtements, les objets et l'équipement restent sur place, mais tout ce qui appartient au cadavre est consommé (viande/cuir).\n\nCoût en mana : 2.5%\nPortée : 60\nTemps de recharge : 18s\nIncantation : 1.8s</TM_ConsumeCorpse_I.description>
+  
+  <!-- EN: Consume Corpse (II) -->
+  <TM_ConsumeCorpse_II.label>Festin macabre</TM_ConsumeCorpse_II.label>
+  <!-- EN: Consume a corpse or undead to replenish mana. Apparel, items, and equipment remain behind but all material belonging to the corpse is consumed (meat/leather)\n		\nMana Cost: 2\nRange: 70\nCooldown: 16s\nCast Time: 1.5s -->
+  <TM_ConsumeCorpse_II.description>Consommer un cadavre ou un mort-vivant pour reconstituer le mana. Les vêtements, les objets et l'équipement restent sur place, mais tout ce qui appartient au cadavre est consommé (viande/cuir).\n\nCoût en mana : 2%\nPortée : 70\nTemps de recharge : 16s\nIncantation : 1.5s</TM_ConsumeCorpse_II.description>
+  
+  <!-- EN: Consume Corpse (III) -->
+  <TM_ConsumeCorpse_III.label>Festin macabre</TM_ConsumeCorpse_III.label>
+  <!-- EN: Consume a corpse or undead to replenish mana. Apparel, items, and equipment remain behind but all material belonging to the corpse is consumed (meat/leather)\n		\nMana Cost: 1.5\nRange: 80\nCooldown: 15s\nCast Time: 1.2s -->
+  <TM_ConsumeCorpse_III.description>Consommer un cadavre ou un mort-vivant pour reconstituer le mana. Les vêtements, les objets et l'équipement restent sur place, mais tout ce qui appartient au cadavre est consommé (viande/cuir).\n\nCoût en mana : 1.5%\nPortée : 80\nTemps de recharge : 15s\nIncantation : 1.2s</TM_ConsumeCorpse_III.description>
+  
+  <!-- EN: Consume Corpse: Mass -->
+  <TM_ConsumeCorpse_Mass.label>Consommer les corps : masse</TM_ConsumeCorpse_Mass.label>
+  <!-- EN: Consume a group of corpses or undead to replenish mana. Apparel, items, and equipment remain behind but all material belonging to the corpse is consumed (meat/leather). -->
+  <TM_ConsumeCorpse_Mass.description>Consommer un groupe de cadavres ou de morts-vivants pour reconstituer le mana. Les vêtements, les objets et l'équipement restent sur place, mais tout le matériel appartenant au cadavre est consommé (viande/cuir).</TM_ConsumeCorpse_Mass.description>
+  
+  <!-- EN: Corpse Explosion -->
+  <TM_CorpseExplosion.label>Explosion morbide</TM_CorpseExplosion.label>
+  <!-- EN: Mixes arcane energy with chemicals inside a corpse or undead to cause the body to explode after a short delay. Equipment will not automatically be consumed by the explosion, but may be destroyed in the explosion.\n		\nMana Cost: 20%\nRange: 40\nCooldown: 10s\nCast time: 2s -->
+  <TM_CorpseExplosion.description>Mélanger l'énergie magique avec des produits chimiques à l'intérieur d'un cadavre ou d'un mort-vivant pour faire exploser le corps après un court délai. L'équipement ne sera pas automatiquement consumé par l'explosion, mais pourra être détruit dans l'explosion.\n\nCoût en mana : 20%\nPortée : 40\nTemps de recharge : 10s\nIncantation : 2s</TM_CorpseExplosion.description>
+  
+  <!-- EN: Corpse Explosion (I) -->
+  <TM_CorpseExplosion_I.label>Explosion morbide</TM_CorpseExplosion_I.label>
+  <!-- EN: Mixes arcane energy with chemicals inside a corpse or undead to cause the body to explode after a short delay. Equipment will not automatically be consumed by the explosion, but may be destroyed in the explosion.\n		\nMana Cost: 22%\nRange: 50\nCooldown: 7s\nCast time: 1.5s -->
+  <TM_CorpseExplosion_I.description>Mélanger l'énergie magique avec des produits chimiques à l'intérieur d'un cadavre ou d'un mort-vivant pour faire exploser le corps après un court délai. L'équipement ne sera pas automatiquement consumé par l'explosion, mais pourra être détruit dans l'explosion.\n\nCoût en mana : 22%\nPortée : 50\nTemps de recharge : 7s\nIncantation : 1.5s</TM_CorpseExplosion_I.description>
+  
+  <!-- EN: Corpse Explosion (II) -->
+  <TM_CorpseExplosion_II.label>Explosion morbide</TM_CorpseExplosion_II.label>
+  <!-- EN: Mixes arcane energy with chemicals inside a corpse or undead to cause the body to explode after a short delay. Equipment will not automatically be consumed by the explosion, but may be destroyed in the explosion.\n		\nMana Cost: 24%\nRange: 60\nCooldown: 5s\nCast time: 1s -->
+  <TM_CorpseExplosion_II.description>Mélanger l'énergie magique avec des produits chimiques à l'intérieur d'un cadavre ou d'un mort-vivant pour faire exploser le corps après un court délai. L'équipement ne sera pas automatiquement consumé par l'explosion, mais pourra être détruit dans l'explosion.\n\nCoût en mana : 24%\nPortée : 60\nTemps de recharge : 5s\nIncantation : 1s</TM_CorpseExplosion_II.description>
+  
+  <!-- EN: Corpse Explosion (III) -->
+  <TM_CorpseExplosion_III.label>Explosion morbide</TM_CorpseExplosion_III.label>
+  <!-- EN: Mixes arcane energy with chemicals inside a corpse or undead to cause the body to explode after a short delay. Equipment will not automatically be consumed by the explosion, but may be destroyed in the explosion.\n		\nMana Cost: 25%\nRange: 70\nCooldown: 4s\nCast time: .5s -->
+  <TM_CorpseExplosion_III.description>Mélanger l'énergie magique avec des produits chimiques à l'intérieur d'un cadavre ou d'un mort-vivant pour faire exploser le corps après un court délai. L'équipement ne sera pas automatiquement consumé par l'explosion, mais pourra être détruit dans l'explosion.\n\nCoût en mana : 25%\nPortée : 70\nTemps de recharge : 4s\nIncantation : 0.5s</TM_CorpseExplosion_III.description>
+  
+  <!-- EN: Death Bolt -->
+  <TM_DeathBolt.label>Trait de mort</TM_DeathBolt.label>
+  <!-- EN: Launches bolts of power carrying the anguish of the dead; causes intense pain to any living creatures caught in the blast.\n\nExplosion Radius: 1.6m\nCooldown: 15s\nBolts: 2\nRange: 40 -->
+  <TM_DeathBolt.description>Lancer des traits de puissance transportant l'angoisse des morts ; cause une douleur intense à toute créature vivante prise dans la déflagration.\n\nRayon d'explosion : 1.6m\nTemps de recharge : 15s\nTrait : 2\nPortée : 40</TM_DeathBolt.description>
+  
+  <!-- EN: Death Bolt (I) -->
+  <TM_DeathBolt_I.label>Trait de mort</TM_DeathBolt_I.label>
+  <!-- EN: Launches bolts of power carrying the anguish of the dead; causes intense pain to any living creatures caught in the blast.\n\nExplosion Radius: 2m\nCooldown: 14s\nBolts: 2\nRange 40 -->
+  <TM_DeathBolt_I.description>Lancer des traits de puissance transportant l'angoisse des morts ; cause une douleur intense à toute créature vivante prise dans la déflagration.\n\nRayon d'explosion : 2m\nTemps de recharge : 14s\nTrait: 2\nPortée  40</TM_DeathBolt_I.description>
+  
+  <!-- EN: Death Bolt (II) -->
+  <TM_DeathBolt_II.label>Trait de mort</TM_DeathBolt_II.label>
+  <!-- EN: Launches bolts of power carrying the anguish of the dead; causes intense pain to any living creatures caught in the blast.\n\nExplosion Radius: 2m\nCooldown: 13s\nBolts: 3\nRange 40 -->
+  <TM_DeathBolt_II.description>Lancer des traits de puissance transportant l'angoisse des morts ; cause une douleur intense à toute créature vivante prise dans la déflagration.\n\nRayon d'explosion : 2m\nTemps de recharge : 13s\nTrait: 3\nPortée  40</TM_DeathBolt_II.description>
+  
+  <!-- EN: Death Bolt (III) -->
+  <TM_DeathBolt_III.label>Trait de mort</TM_DeathBolt_III.label>
+  <!-- EN: Launches bolts of power carrying the anguish of the dead; causes intense pain to any living creatures caught in the blast.\n\nExplosion Radius: 2.4m\nCooldown: 12s\nBolts: 3\nRange: 50 -->
+  <TM_DeathBolt_III.description>Lancer des traits de puissance transportant l'angoisse des morts ; cause une douleur intense à toute créature vivante prise dans la déflagration.\n\nRayon d'explosion : 2.4m\nTemps de recharge : 12s\nTrait: 3\nPortée : 50</TM_DeathBolt_III.description>
+  
+  <!-- EN: Death Mark -->
+  <TM_DeathMark.label>Marque de mort</TM_DeathMark.label>
+  <!-- EN: Mark a victim with a curse that causes their life to flash before their eyes. Cursed victims will lose focus and the will to fight, reducing the attack rate. Marking targets for death empowers Death Bolt. Does not work on mechanoids.\n		\nMax Targets: 4\nCast Time: 3s\nCooldown: 120s\nRange: 34 -->
+  <TM_DeathMark.description>Marquer une victime d'une malédiction qui fait que sa vie défile devant ses yeux. Les victimes maudites perdent leur concentration et leur volonté de se battre, ce qui réduit leur taux d'attaque. Marquer les cibles pour la mort renforce Trait de mort. Ne fonctionne pas sur les mécanoïdes.\n\nCibles max : 4\nIncantation : 3s\nTemps de recharge : 120s\nPortée : 34</TM_DeathMark.description>
+  
+  <!-- EN: Death Mark (I) -->
+  <TM_DeathMark_I.label>Marque de mort</TM_DeathMark_I.label>
+  <!-- EN: Mark a victim with a curse that causes their life to flash before their eyes. Cursed victims will lose focus and the will to fight, reducing the attack rate. Marking targets for death empowers Death Bolt. Does not work on mechanoids.\n		\nMax Targets: 5\nCast Time: 2.5s\nCooldown: 90s\nRange: 38 -->
+  <TM_DeathMark_I.description>Marquer une victime d'une malédiction qui fait que sa vie défile devant ses yeux. Les victimes maudites perdent leur concentration et leur volonté de se battre, ce qui réduit leur taux d'attaque. Marquer les cibles pour la mort renforce Trait de mort. Ne fonctionne pas sur les mécanoïdes.\n\nCibles max : 5\nIncantation : 2.5s\nTemps de recharge : 90s\nPortée : 38</TM_DeathMark_I.description>
+  
+  <!-- EN: Death Mark (II) -->
+  <TM_DeathMark_II.label>Marque de mort</TM_DeathMark_II.label>
+  <!-- EN: Mark a victim with a curse that causes their life to flash before their eyes. Cursed victims will lose focus and the will to fight, reducing the attack rate. Marking targets for death empowers Death Bolt. Does not work on mechanoids.\n		\nMax Targets: 6\nCast Time: 2s\nCooldown: 60s\nRange: 42 -->
+  <TM_DeathMark_II.description>Marquer une victime d'une malédiction qui fait que sa vie défile devant ses yeux. Les victimes maudites perdent leur concentration et leur volonté de se battre, ce qui réduit leur taux d'attaque. Marquer les cibles pour la mort renforce Trait de mort. Ne fonctionne pas sur les mécanoïdes.\n\nCibles max : 6\nIncantation : 2s\nTemps de recharge : 60s\nPortée : 42</TM_DeathMark_II.description>
+  
+  <!-- EN: Death Mark (III) -->
+  <TM_DeathMark_III.label>Marque de mort</TM_DeathMark_III.label>
+  <!-- EN: Mark a victim with a curse that causes their life to flash before their eyes. Cursed victims will lose focus and the will to fight, reducing the attack rate. Marking targets for death empowers Death Bolt. Does not work on mechanoids.\n		\nMax Targets: 7\nCast Time: 1.8s\nCooldown: 45s\nRange: 46 -->
+  <TM_DeathMark_III.description>Marquer une victime d'une malédiction qui fait que sa vie défile devant ses yeux. Les victimes maudites perdent leur concentration et leur volonté de se battre, ce qui réduit leur taux d'attaque. Marquer les cibles pour la mort renforce Trait de mort. Ne fonctionne pas sur les mécanoïdes.\n\nCibles max : 7\nIncantation : 1.8s\nTemps de recharge : 45s\nPortée : 46</TM_DeathMark_III.description>
+  
+  <!-- EN: Dismiss Undead -->
+  <TM_DismissUndead.label>Dissipation Morts-vivant</TM_DismissUndead.label>
+  <!-- EN: Dismisses an undead. -->
+  <TM_DismissUndead.description>Renvoyer un mort-vivant.</TM_DismissUndead.description>
+  
+  <!-- EN: Fog of Torment -->
+  <TM_FogOfTorment.label>Brouillard du tourment</TM_FogOfTorment.label>
+  <!-- EN: Creates a fog that causes pain and suffering to every living creature within. Undead within the fog are slowly healed and suffer no penalties from the fog. -->
+  <TM_FogOfTorment.description>Crée un brouillard qui provoque douleur et souffrance à toutes les créatures vivantes qui s'y trouvent. Les morts-vivants se trouvant dans le brouillard sont lentement guéris et ne subissent aucune pénalité du brouillard.</TM_FogOfTorment.description>
+  
+  <!-- EN: Lich Form -->
+  <TM_LichForm.label>Forme de Liche</TM_LichForm.label>
+  <!-- EN: Transforms the necromancer into an undead lich gaining an immortal existence and arcane power. Once used, there is no return.\n		\nBenefits: \nMaximum Mana: +50\nMana Regeneration: +50%\nGains unnatural immunities to diseases, resistances to damage, health regeneration, and is sustained by mana (no longer required to sleep or eat)\nGains ability: Flight\nGains ability: Death Bolt\n\nPenalties:\nCan no longer perform work involving Caring, Social, Animals, Firefighting, Artistic, or Dumb Labor.\nLoses all passion for work except fighting and research.\nReduced learning speed by 40% and global work speed by 75%\nMovement speed: -2.0 c/s -->
+  <TM_LichForm.description>Transformer le nécromancien en une liche mort-vivante qui gagne une existence immortelle et en puissance magique. Une fois utilisé, il n'y a pas de retour possible.\n\nAvantage : \nMana maximum : +50\nRégénération du mana : +50%\nGagne des immunités surnaturelles aux maladies, des résistances aux dégâts, une régénération de la santé, et elle est maintenue par le mana (plus besoin de dormir ou de manger).\nGagne en capacité : Vol\nGagne en capacité : Trait de mort\n\nPénalité :\nNe peut plus effectuer de travaux impliquant des soins, des activités sociales, des animaux, la lutte contre les incendies, des activités artistiques ou des travaux pénibles.\nPerd toute passion pour le travail, sauf pour le combat et la recherche.\nRéduction de la vitesse d'apprentissage de 40% et la vitesse générale de travail de 75%.\nVitesse de déplacement : -2.0 c/s</TM_LichForm.description>
+  
+  <!-- EN: Raise Undead -->
+  <TM_RaiseUndead.label>Ranimer un mort-vivant</TM_RaiseUndead.label>
+  <!-- EN: Raise undead from corpses. Only works on biological creatures that were once living. \n\nUndead will remain under the Necromancers control indefinitely. The necromancer will incur a mana upkeep cost of 30% of base mana regeneration for each undead, humanlike pawn. Undead animals incur an upkeep cost of 15% for every 100 combat power.\n\nThere is no limit to the number of undead a necromancer may control, however, when the necromancer no longer has mana to maintain undead, they will automatically be consumed until the number of active undead is reduced to a manageable amount. -->
+  <TM_RaiseUndead.description>Ressuscite les morts-vivants à partir des cadavres. Ne fonctionne que sur les créatures biologiques qui étaient autrefois vivantes.\n\nLes morts-vivants restent indéfiniment sous le contrôle du nécromancien. Le nécromancien subit un coût d'entretien de mana de 30% de la régénération de mana de base pour chaque mort-vivant de type humain. Les animaux morts-vivants ont un coût d'entretien de 15% pour chaque 100 de puissance de combat.\n\nIl n'y a pas de limite au nombre de morts-vivants qu'un nécromancien peut contrôler, cependant, lorsque le nécromancien n'a plus de mana pour entretenir les morts-vivants, ils sont automatiquement consommés jusqu'à ce que le nombre de morts-vivants actifs soit réduit à une quantité contrôlable.</TM_RaiseUndead.description>
+  
+</LanguageData>

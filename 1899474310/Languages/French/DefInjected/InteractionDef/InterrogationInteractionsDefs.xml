@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: being interrogated -->
+  <PL_BeIntrrogatedInteraction.label>TODO</PL_BeIntrrogatedInteraction.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] called for mercy.</li>
+    <li>r_logentry->[INITIATOR_nameDef] begged to spare the face.</li>
+    <li>r_logentry->[INITIATOR_nameDef] kept silence.</li>
+    <li>r_logentry->[INITIATOR_nameDef] has no idea.</li>
+    <li>r_logentry->[INITIATOR_nameDef] told everything.</li>
+  -->
+  <PL_BeIntrrogatedInteraction.logRulesInitiator.rulesStrings>TODO</PL_BeIntrrogatedInteraction.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: interrogate -->
+  <PL_InterrogateInteraction.label>TODO</PL_InterrogateInteraction.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] [askPart].</li>
+    <li>r_logentry->[INITIATOR_nameDef] ordered [RECIPIENT_nameDef] to told about [askPart].</li>
+    <li>askPart->where is the loot</li>
+    <li>askPart->why is Gamora</li>
+    <li>askPart->when finally starts talking</li>
+    <li>askPart->where is their base</li>
+  -->
+  <PL_InterrogateInteraction.logRulesInitiator.rulesStrings>TODO</PL_InterrogateInteraction.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

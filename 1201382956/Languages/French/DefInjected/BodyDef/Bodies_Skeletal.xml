@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: skeletal -->
+  <TM_Skeletal.label>squelette</TM_Skeletal.label>
+  <!-- EN: ribcage -->
+  <TM_Skeletal.corePart.customLabel>cage thoracique</TM_Skeletal.corePart.customLabel>
+  <!-- EN: neck bones -->
+  <TM_Skeletal.corePart.parts.neck_bones.customLabel>os du cou</TM_Skeletal.corePart.parts.neck_bones.customLabel>
+  <!-- EN: skull -->
+  <TM_Skeletal.corePart.parts.neck_bones.parts.skull.customLabel>crâne</TM_Skeletal.corePart.parts.neck_bones.parts.skull.customLabel>
+  <!-- EN: jaw -->
+  <TM_Skeletal.corePart.parts.neck_bones.parts.skull.parts.jaw.customLabel>mâchoire</TM_Skeletal.corePart.parts.neck_bones.parts.skull.parts.jaw.customLabel>
+  <!-- EN: left shoulder -->
+  <TM_Skeletal.corePart.parts.left_shoulder.customLabel>épaule gauche</TM_Skeletal.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left clavicle -->
+  <TM_Skeletal.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>clavicule gauche</TM_Skeletal.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
+  <!-- EN: left arm area -->
+  <TM_Skeletal.corePart.parts.left_shoulder.parts.left_arm_area.customLabel>partie bras gauche</TM_Skeletal.corePart.parts.left_shoulder.parts.left_arm_area.customLabel>
+  <!-- EN: left humerus -->
+  <TM_Skeletal.corePart.parts.left_shoulder.parts.left_arm_area.parts.left_humerus.customLabel>humérus gauche</TM_Skeletal.corePart.parts.left_shoulder.parts.left_arm_area.parts.left_humerus.customLabel>
+  <!-- EN: left radius -->
+  <TM_Skeletal.corePart.parts.left_shoulder.parts.left_arm_area.parts.left_radius.customLabel>radius gauche</TM_Skeletal.corePart.parts.left_shoulder.parts.left_arm_area.parts.left_radius.customLabel>
+  <!-- EN: left hand bones -->
+  <TM_Skeletal.corePart.parts.left_shoulder.parts.left_arm_area.parts.left_hand_bones.customLabel>os main gauche</TM_Skeletal.corePart.parts.left_shoulder.parts.left_arm_area.parts.left_hand_bones.customLabel>
+  <!-- EN: left pinky bone -->
+  <TM_Skeletal.corePart.parts.left_shoulder.parts.left_arm_area.parts.left_hand_bones.parts.left_pinky_bone.customLabel>os auriculaire gauche</TM_Skeletal.corePart.parts.left_shoulder.parts.left_arm_area.parts.left_hand_bones.parts.left_pinky_bone.customLabel>
+  <!-- EN: left ring finger bone -->
+  <TM_Skeletal.corePart.parts.left_shoulder.parts.left_arm_area.parts.left_hand_bones.parts.left_ring_finger_bone.customLabel>os annulaire gauche</TM_Skeletal.corePart.parts.left_shoulder.parts.left_arm_area.parts.left_hand_bones.parts.left_ring_finger_bone.customLabel>
+  <!-- EN: left middle finger bone -->
+  <TM_Skeletal.corePart.parts.left_shoulder.parts.left_arm_area.parts.left_hand_bones.parts.left_middle_finger_bone.customLabel>os majeur gauche</TM_Skeletal.corePart.parts.left_shoulder.parts.left_arm_area.parts.left_hand_bones.parts.left_middle_finger_bone.customLabel>
+  <!-- EN: left index finger bone -->
+  <TM_Skeletal.corePart.parts.left_shoulder.parts.left_arm_area.parts.left_hand_bones.parts.left_index_finger_bone.customLabel>os index gauche</TM_Skeletal.corePart.parts.left_shoulder.parts.left_arm_area.parts.left_hand_bones.parts.left_index_finger_bone.customLabel>
+  <!-- EN: left thumb bone -->
+  <TM_Skeletal.corePart.parts.left_shoulder.parts.left_arm_area.parts.left_hand_bones.parts.left_thumb_bone.customLabel>os pouce gauche</TM_Skeletal.corePart.parts.left_shoulder.parts.left_arm_area.parts.left_hand_bones.parts.left_thumb_bone.customLabel>
+  <!-- EN: right shoulder -->
+  <TM_Skeletal.corePart.parts.right_shoulder.customLabel>épaule droite</TM_Skeletal.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right clavicle -->
+  <TM_Skeletal.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>clavicule droite</TM_Skeletal.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+  <!-- EN: right arm area -->
+  <TM_Skeletal.corePart.parts.right_shoulder.parts.right_arm_area.customLabel>partie bras droit</TM_Skeletal.corePart.parts.right_shoulder.parts.right_arm_area.customLabel>
+  <!-- EN: right humerus -->
+  <TM_Skeletal.corePart.parts.right_shoulder.parts.right_arm_area.parts.right_humerus.customLabel>humérus droit</TM_Skeletal.corePart.parts.right_shoulder.parts.right_arm_area.parts.right_humerus.customLabel>
+  <!-- EN: right radius -->
+  <TM_Skeletal.corePart.parts.right_shoulder.parts.right_arm_area.parts.right_radius.customLabel>radius droit</TM_Skeletal.corePart.parts.right_shoulder.parts.right_arm_area.parts.right_radius.customLabel>
+  <!-- EN: right hand bones -->
+  <TM_Skeletal.corePart.parts.right_shoulder.parts.right_arm_area.parts.right_hand_bones.customLabel>os main droite</TM_Skeletal.corePart.parts.right_shoulder.parts.right_arm_area.parts.right_hand_bones.customLabel>
+  <!-- EN: right pinky bone -->
+  <TM_Skeletal.corePart.parts.right_shoulder.parts.right_arm_area.parts.right_hand_bones.parts.right_pinky_bone.customLabel>os auriculaire droit</TM_Skeletal.corePart.parts.right_shoulder.parts.right_arm_area.parts.right_hand_bones.parts.right_pinky_bone.customLabel>
+  <!-- EN: right ring finger bone -->
+  <TM_Skeletal.corePart.parts.right_shoulder.parts.right_arm_area.parts.right_hand_bones.parts.right_ring_finger_bone.customLabel>os annulaire droit</TM_Skeletal.corePart.parts.right_shoulder.parts.right_arm_area.parts.right_hand_bones.parts.right_ring_finger_bone.customLabel>
+  <!-- EN: right middle finger bone -->
+  <TM_Skeletal.corePart.parts.right_shoulder.parts.right_arm_area.parts.right_hand_bones.parts.right_middle_finger_bone.customLabel>os majeur droit</TM_Skeletal.corePart.parts.right_shoulder.parts.right_arm_area.parts.right_hand_bones.parts.right_middle_finger_bone.customLabel>
+  <!-- EN: right index finger bone -->
+  <TM_Skeletal.corePart.parts.right_shoulder.parts.right_arm_area.parts.right_hand_bones.parts.right_index_finger_bone.customLabel>os index droit</TM_Skeletal.corePart.parts.right_shoulder.parts.right_arm_area.parts.right_hand_bones.parts.right_index_finger_bone.customLabel>
+  <!-- EN: right thumb bone -->
+  <TM_Skeletal.corePart.parts.right_shoulder.parts.right_arm_area.parts.right_hand_bones.parts.right_thumb_bone.customLabel>os pouce droit</TM_Skeletal.corePart.parts.right_shoulder.parts.right_arm_area.parts.right_hand_bones.parts.right_thumb_bone.customLabel>
+  <!-- EN: left leg -->
+  <TM_Skeletal.corePart.parts.left_leg.customLabel>jambe gauche</TM_Skeletal.corePart.parts.left_leg.customLabel>
+  <!-- EN: left femur -->
+  <TM_Skeletal.corePart.parts.left_leg.parts.left_femur.customLabel>fémur gauche</TM_Skeletal.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <!-- EN: left tibia -->
+  <TM_Skeletal.corePart.parts.left_leg.parts.left_tibia.customLabel>tibia gauche</TM_Skeletal.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <!-- EN: left foot bones -->
+  <TM_Skeletal.corePart.parts.left_leg.parts.left_foot_bones.customLabel>os pied gauche</TM_Skeletal.corePart.parts.left_leg.parts.left_foot_bones.customLabel>
+  <!-- EN: left little toe bone -->
+  <TM_Skeletal.corePart.parts.left_leg.parts.left_foot_bones.parts.left_little_toe_bone.customLabel>os petit orteil gauche</TM_Skeletal.corePart.parts.left_leg.parts.left_foot_bones.parts.left_little_toe_bone.customLabel>
+  <!-- EN: left fourth toe bone -->
+  <TM_Skeletal.corePart.parts.left_leg.parts.left_foot_bones.parts.left_fourth_toe_bone.customLabel>os 4e orteil gauche</TM_Skeletal.corePart.parts.left_leg.parts.left_foot_bones.parts.left_fourth_toe_bone.customLabel>
+  <!-- EN: left middle toe bone -->
+  <TM_Skeletal.corePart.parts.left_leg.parts.left_foot_bones.parts.left_middle_toe_bone.customLabel>os 3e orteil gauche</TM_Skeletal.corePart.parts.left_leg.parts.left_foot_bones.parts.left_middle_toe_bone.customLabel>
+  <!-- EN: left second toe bone -->
+  <TM_Skeletal.corePart.parts.left_leg.parts.left_foot_bones.parts.left_second_toe_bone.customLabel>os 2e orteil gauche</TM_Skeletal.corePart.parts.left_leg.parts.left_foot_bones.parts.left_second_toe_bone.customLabel>
+  <!-- EN: left big toe bone -->
+  <TM_Skeletal.corePart.parts.left_leg.parts.left_foot_bones.parts.left_big_toe_bone.customLabel>os gros orteil gauche</TM_Skeletal.corePart.parts.left_leg.parts.left_foot_bones.parts.left_big_toe_bone.customLabel>
+  <!-- EN: right leg -->
+  <TM_Skeletal.corePart.parts.right_leg.customLabel>jambe droite</TM_Skeletal.corePart.parts.right_leg.customLabel>
+  <!-- EN: right femur -->
+  <TM_Skeletal.corePart.parts.right_leg.parts.right_femur.customLabel>fémur droit</TM_Skeletal.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <!-- EN: right tibia -->
+  <TM_Skeletal.corePart.parts.right_leg.parts.right_tibia.customLabel>tibia droit</TM_Skeletal.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <!-- EN: right foot bones -->
+  <TM_Skeletal.corePart.parts.right_leg.parts.right_foot_bones.customLabel>os pied droit</TM_Skeletal.corePart.parts.right_leg.parts.right_foot_bones.customLabel>
+  <!-- EN: right little toe bone -->
+  <TM_Skeletal.corePart.parts.right_leg.parts.right_foot_bones.parts.right_little_toe_bone.customLabel>os petit orteil droit</TM_Skeletal.corePart.parts.right_leg.parts.right_foot_bones.parts.right_little_toe_bone.customLabel>
+  <!-- EN: right fourth toe bone -->
+  <TM_Skeletal.corePart.parts.right_leg.parts.right_foot_bones.parts.right_fourth_toe_bone.customLabel>os 4e orteil droit</TM_Skeletal.corePart.parts.right_leg.parts.right_foot_bones.parts.right_fourth_toe_bone.customLabel>
+  <!-- EN: right middle toe bone -->
+  <TM_Skeletal.corePart.parts.right_leg.parts.right_foot_bones.parts.right_middle_toe_bone.customLabel>os 3e orteil droit</TM_Skeletal.corePart.parts.right_leg.parts.right_foot_bones.parts.right_middle_toe_bone.customLabel>
+  <!-- EN: right second toe bone -->
+  <TM_Skeletal.corePart.parts.right_leg.parts.right_foot_bones.parts.right_second_toe_bone.customLabel>os 2e orteil droit</TM_Skeletal.corePart.parts.right_leg.parts.right_foot_bones.parts.right_second_toe_bone.customLabel>
+  <!-- EN: right big toe bone -->
+  <TM_Skeletal.corePart.parts.right_leg.parts.right_foot_bones.parts.right_big_toe_bone.customLabel>os gros orteil droit</TM_Skeletal.corePart.parts.right_leg.parts.right_foot_bones.parts.right_big_toe_bone.customLabel>
+  
+</LanguageData>

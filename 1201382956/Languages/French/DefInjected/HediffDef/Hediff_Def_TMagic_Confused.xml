@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Confused -->
+  <TM_Confused.label>confusion</TM_Confused.label>
+  <!-- EN: Frequently causes a target to become confused. -->
+  <TM_Confused.description>Provoque fréquemment la confusion de la cible.</TM_Confused.description>
+  <!-- EN: Wandering confused -->
+  <TM_Confused.stages.Wandering_confused.label>Errance et confusion</TM_Confused.stages.Wandering_confused.label>
+  
+</LanguageData>

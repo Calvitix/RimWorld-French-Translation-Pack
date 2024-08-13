@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flesh-golem -->
+  <TM_FleshGolemK.label>golem de chair</TM_FleshGolemK.label>
+  
+  <!-- EN: granite-golem -->
+  <TM_GraniteGolemK.label>golem de granite</TM_GraniteGolemK.label>
+  
+  <!-- EN: hollow-golem -->
+  <TM_HollowGolemK.label>armure animée</TM_HollowGolemK.label>
+  
+  <!-- EN: limestone-golem -->
+  <TM_LimestoneGolemK.label>golem de calcaire</TM_LimestoneGolemK.label>
+  
+  <!-- EN: maharal-golem -->
+  <TM_MaharalGolemK.label>golem maharal</TM_MaharalGolemK.label>
+  
+  <!-- EN: marble-golem -->
+  <TM_MarbleGolemK.label>golem de marbre</TM_MarbleGolemK.label>
+  
+  <!-- EN: mecha-golem -->
+  <TM_MechaGolemK.label>golem mécanique</TM_MechaGolemK.label>
+  
+  <!-- EN: sandstone-golem -->
+  <TM_SandstoneGolemK.label>golem de grès</TM_SandstoneGolemK.label>
+  
+  <!-- EN: silk-golem -->
+  <TM_SilkGolemK.label>golem de soie</TM_SilkGolemK.label>
+  
+  <!-- EN: slate-golem -->
+  <TM_SlateGolemK.label>golem d'ardoise</TM_SlateGolemK.label>
+  
+  <!-- EN: stone-golem -->
+  <TM_StoneGolemK.label>golem de pierre</TM_StoneGolemK.label>
+  
+  <!-- EN: straw-golem -->
+  <TM_StrawGolemK.label>golem de paille</TM_StrawGolemK.label>
+  
+  <!-- EN: wood-golem -->
+  <TM_WoodGolemK.label>golem de bois</TM_WoodGolemK.label>
+  
+</LanguageData>

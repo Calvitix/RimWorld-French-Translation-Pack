@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: armor -->
+  <TM_Golem_StrawArmor.label>Armure</TM_Golem_StrawArmor.label>
+  <!-- EN: Increases overall protection:\nBlunt:	+[6,11,15]%\nSharp:	+[5,9,13]%\nHeat:	+[4,7,10]% -->
+  <TM_Golem_StrawArmor.description>Augmente la protection globale :\nContondant : +[6,11,15]%\nTranchant : +[5,9,13]%\nChaleur : +[4,7,10]%</TM_Golem_StrawArmor.description>
+  
+  <!-- EN: energy efficiency -->
+  <TM_Golem_StrawEnergyEfficiency.label>Efficacité d'énergie</TM_Golem_StrawEnergyEfficiency.label>
+  <!-- EN: Increases energy efficiency by 6% per level. Starting energy efficiency is 30%. -->
+  <TM_Golem_StrawEnergyEfficiency.description>Augmente l'efficacité d'énergie de 6% par niveau. L'efficacité d'origine est de 30%.</TM_Golem_StrawEnergyEfficiency.description>
+  
+  <!-- EN: energy regeneration -->
+  <TM_Golem_StrawEnergyRate.label>Régénération d'énergie</TM_Golem_StrawEnergyRate.label>
+  <!-- EN: Increases energy charge rate by 20% per level. Starting recharge rate is 20 energy/hour. -->
+  <TM_Golem_StrawEnergyRate.description>Augmente le taux de recharge en énergie de 20% par niveau. Le taux de recharge de départ est de 20 énergie/heure.</TM_Golem_StrawEnergyRate.description>
+  
+  <!-- EN: frame tier -->
+  <TM_Golem_StrawLifeStage.label>Niveau du cadre</TM_Golem_StrawLifeStage.label>
+  <!-- EN: Increases stats:\nMovement:	+[20%/30%/40%]\nHealth:		+[20%/40%/50%] -->
+  <TM_Golem_StrawLifeStage.description>Augmente les statistiques :\nDéplacement : +[20%/30%/40%]\nSanté : +[20%/40%/50%]</TM_Golem_StrawLifeStage.description>
+  
+  <!-- EN: energy storage -->
+  <TM_Golem_StrawMaxEnergy.label>Stockage d'énergie</TM_Golem_StrawMaxEnergy.label>
+  <!-- EN: Increases maximum energy by 100 per level. Starting max energy is 300. -->
+  <TM_Golem_StrawMaxEnergy.description>Augmente l'énergie maximum de 100 par niveau. L'énergie maximum de départ est de 300.</TM_Golem_StrawMaxEnergy.description>
+  
+  <!-- EN: restore part -->
+  <TM_Golem_StrawRepair.label>Restauration d'une partie</TM_Golem_StrawRepair.label>
+  
+  <!-- EN: Scarecrow -->
+  <TM_Golem_StrawScarecrow.label>Épouvantail</TM_Golem_StrawScarecrow.label>
+  <!-- EN: Wards away unwanted pests. Increases crop growth rate in a 6 cell radius. -->
+  <TM_Golem_StrawScarecrow.description>Éloigne les parasites indésirables. Augmente le taux de croissance des cultures dans un rayon de 6 cases.</TM_Golem_StrawScarecrow.description>
+  
+  <!-- EN: Farming -->
+  <TM_Golem_StrawSeed.label>Agriculture</TM_Golem_StrawSeed.label>
+  <!-- EN: Increases the Plants skill of the golem by 2 per level. Starts with a planting skill of 0. -->
+  <TM_Golem_StrawSeed.description>Augmente la compétence fermier du golem de 2 par niveau. Commence avec une compétence de plantation de 0.</TM_Golem_StrawSeed.description>
+  
+</LanguageData>

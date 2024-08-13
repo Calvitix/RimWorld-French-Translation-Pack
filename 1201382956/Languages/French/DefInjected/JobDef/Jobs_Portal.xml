@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: charging portal. -->
+  <ChargePortal.reportString>charge le portail.</ChargePortal.reportString>
+  
+  <!-- EN: deactivating portal. -->
+  <DeactivatePortal.reportString>désactive le portail.</DeactivatePortal.reportString>
+  
+  <!-- EN: assigning portal destination. -->
+  <PortalDestination.reportString>assigne la destination du portail.</PortalDestination.reportString>
+  
+  <!-- EN: sending items through portal. -->
+  <PortalStockpile.reportString>envoie les articles par le portail.</PortalStockpile.reportString>
+  
+  <!-- EN: using portal. -->
+  <UsePortal.reportString>utilise le portail.</UsePortal.reportString>
+  
+</LanguageData>

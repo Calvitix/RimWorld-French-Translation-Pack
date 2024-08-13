@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Chaos Tradition -->
+  <TM_ChaosTradition.label>Tradition du Chaos</TM_ChaosTradition.label>
+  <!-- EN: Chaos Tradition is the practice in which chaos mages redefines their thought process to exchange their available magic abilities. True to its name, the abilities learned cannot be controlled and will be randomly selected. Every ability cast by a chaos mage has a chance to be affected by arcane fluctuations. -->
+  <TM_ChaosTradition.description>La Tradition du Chaos est la pratique dans laquelle les mages du chaos redéfinissent leur processus de pensée pour échanger leurs capacités magiques disponibles. Comme son nom l'indique, les capacités apprises ne peuvent être contrôlées et sont choisies au hasard. Chaque capacité lancée par un mage du chaos a une chance d'être affectée par les fluctuations magiques.</TM_ChaosTradition.description>
+  
+</LanguageData>

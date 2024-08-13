@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arcane weakness -->
+  <TM_ArcaneWeakness.label>sensibilité aux Arcanes</TM_ArcaneWeakness.label>
+  <!-- EN: Arcane Weakness is a byproduct of casting magical abilities. Minor abilities with a mana cost less than 25 will not incur Arcane Weakness. The amount of Arcane Weakness that will affect a mage is relative to the mana cost of the ability. -->
+  <TM_ArcaneWeakness.description>La faiblesse des arcanes est un effet secondaire du lancement de capacités magiques. Les capacités mineures dont le coût en mana est inférieur à 25 n'entraînent pas la Sensibilité aux Arcanes. La quantité d'affaiblissement des arcanes qui affectera un mage est relative au coût en mana de la capacité.</TM_ArcaneWeakness.description>
+  <!-- EN: weakened -->
+  <TM_ArcaneWeakness.stages.weakened.label>affaibli</TM_ArcaneWeakness.stages.weakened.label>
+  <!-- EN: drained -->
+  <TM_ArcaneWeakness.stages.drained.label>drainé</TM_ArcaneWeakness.stages.drained.label>
+  <!-- EN: severely ill -->
+  <TM_ArcaneWeakness.stages.severely_ill.label>très malade</TM_ArcaneWeakness.stages.severely_ill.label>
+  <!-- EN: catatonic -->
+  <TM_ArcaneWeakness.stages.catatonic.label>catatonique</TM_ArcaneWeakness.stages.catatonic.label>
+  <!-- EN: near death -->
+  <TM_ArcaneWeakness.stages.near_death.label>proche de la mort</TM_ArcaneWeakness.stages.near_death.label>
+  
+  <!-- EN: arcane curse -->
+  <TM_CursedHD.label>malédiction des arcanes</TM_CursedHD.label>
+  <!-- EN: Arcane curse is a byproduct of the cursed trait. The cursed pawn is constantly affected by arcane weakness that will gradually increase until it is a persistent illness. The effects of the curse can be offset by using magic, however, the pain caused by the curse does provide a unique clarity. The curse can be lifted by removing the pawn's magical trait. -->
+  <TM_CursedHD.description>La malédiction des arcanes est un sous-produit du trait maudit. Le colon maudit est constamment affecté par une faiblesse des arcanes qui augmente progressivement jusqu'à devenir une maladie persistante. Les effets de la malédiction peuvent être compensés par l'utilisation de la magie, cependant, la douleur causée par la malédiction procure une clarté unique. La malédiction peut être levée en retirant le trait magique du colon.</TM_CursedHD.description>
+  <!-- EN: faded -->
+  <TM_CursedHD.stages.faded.label>disparaît</TM_CursedHD.stages.faded.label>
+  <!-- EN: moderate -->
+  <TM_CursedHD.stages.moderate.label>modéré</TM_CursedHD.stages.moderate.label>
+  <!-- EN: heightened -->
+  <TM_CursedHD.stages.heightened.label>accru</TM_CursedHD.stages.heightened.label>
+  
+</LanguageData>

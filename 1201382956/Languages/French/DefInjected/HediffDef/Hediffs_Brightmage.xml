@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Blinding Flash -->
+  <TM_LightBurstHD.label>éclair aveuglant</TM_LightBurstHD.label>
+  <!-- EN: Pain, blindness and disorientation as a result of intense light effecting sensory organs. Disoriented pawns are unable to distinguish enemies from allies. -->
+  <TM_LightBurstHD.description>Douleur, aveuglement et désorientation résultant de l'effet de la lumière intense sur les organes sensoriels. Les colons désorientés sont incapables de distinguer les ennemis des amis.</TM_LightBurstHD.description>
+  <!-- EN: dim vision -->
+  <TM_LightBurstHD.stages.dim_vision.label>vision faible</TM_LightBurstHD.stages.dim_vision.label>
+  <!-- EN: blinded -->
+  <TM_LightBurstHD.stages.blinded.label>aveuglé</TM_LightBurstHD.stages.blinded.label>
+  <!-- EN: disoriented -->
+  <TM_LightBurstHD.stages.disoriented.label>désorienté</TM_LightBurstHD.stages.disoriented.label>
+  
+  <!-- EN: Light power -->
+  <TM_LightCapacitanceHD.label>pouvoirs de lumière</TM_LightCapacitanceHD.label>
+  <!-- EN: The amount of stored light power available to a mage - acts as a catalyst for light magic. -->
+  <TM_LightCapacitanceHD.description>La quantité d'énergie lumineuse stockée disponible pour un mage - agit comme un catalyseur pour la magie de la lumière.</TM_LightCapacitanceHD.description>
+  
+</LanguageData>

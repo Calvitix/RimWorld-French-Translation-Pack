@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: freezing winds -->
+  <FlyingObject_FreezingWinds.label>vents givrants</FlyingObject_FreezingWinds.label>
+  
+  <!-- EN: elemental lightning -->
+  <Laser_SeerRing_Lightning.label>foudre élémentaire</Laser_SeerRing_Lightning.label>
+  
+  <!-- EN: blazing power -->
+  <Projectile_BlazingPower.label>puissance flamboyante</Projectile_BlazingPower.label>
+  
+  <!-- EN: Elephant bow bolt -->
+  <Projectile_ElephantBow.label>flèche</Projectile_ElephantBow.label>
+  
+  <!-- EN: fire wand -->
+  <Projectile_FireWand.label>baguette de feu</Projectile_FireWand.label>
+  
+  <!-- EN: freezing winds -->
+  <Projectile_FreezingWinds.label>vents givrants</Projectile_FreezingWinds.label>
+  
+  <!-- EN: ice wand -->
+  <Projectile_IceWand.label>baguette de glace</Projectile_IceWand.label>
+  
+  <!-- EN: lightning wand -->
+  <Projectile_LightningWand.label>baguette de foudre</Projectile_LightningWand.label>
+  
+  <!-- EN: elemental fire -->
+  <Projectile_SeerRing_Fire.label>feu élémentaire</Projectile_SeerRing_Fire.label>
+  
+  <!-- EN: elemental ice -->
+  <Projectile_SeerRing_Ice.label>glace élémentaire</Projectile_SeerRing_Ice.label>
+  
+  <!-- EN: Thrum bow bolt -->
+  <Projectile_ThrumArrow.label>flèche</Projectile_ThrumArrow.label>
+  
+  <!-- EN: Ring of Elemental Fire -->
+  <Seer_FireRing.label>anneau de feu élémentaire</Seer_FireRing.label>
+  <!-- EN: An ancient artifact bound to the wielder allowing elemental currents to flow through the host. If the host is separated from the ring, the contract binding it to this realm is nullified, destroying the artifact. -->
+  <Seer_FireRing.description>Un ancien artefact lié à celui qui le manie permettant aux courants élémentaires de circuler à travers l'hôte. Si l'hôte est séparé de l'anneau, le contrat qui le lie à ce royaume est annulé, détruisant l'artefact.</Seer_FireRing.description>
+  <!-- EN: elemental fist -->
+  <Seer_FireRing.tools.elemental_fist.label>poing élémentaire</Seer_FireRing.tools.elemental_fist.label>
+  <!-- EN: Ring of Elemental Fire -->
+  <Seer_FireRing.verbs.Verb_Shoot.label>anneau de feu élémentaire</Seer_FireRing.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Ring of Elemental Ice -->
+  <Seer_IceRing.label>anneau de glace élémentaire</Seer_IceRing.label>
+  <!-- EN: An ancient artifact bound to the wielder allowing elemental currents to flow through the host. If the host is separated from the ring, the contract binding it to this realm is nullified, destroying the artifact. -->
+  <Seer_IceRing.description>Un ancien artefact lié à celui qui le manie permettant aux courants élémentaires de circuler à travers l'hôte. Si l'hôte est séparé de l'anneau, le contrat qui le lie à ce royaume est annulé, détruisant l'artefact.</Seer_IceRing.description>
+  <!-- EN: elemental fist -->
+  <Seer_IceRing.tools.elemental_fist.label>poing élémentaire</Seer_IceRing.tools.elemental_fist.label>
+  <!-- EN: Ring of Elemental Ice -->
+  <Seer_IceRing.verbs.Verb_Shoot.label>anneau de glace élémentaire</Seer_IceRing.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Ring of Elemental Lightning -->
+  <Seer_LightningRing.label>anneau de foudre élémentaire</Seer_LightningRing.label>
+  <!-- EN: An ancient artifact bound to the wielder allowing elemental currents to flow through the host. If the host is separated from the ring, the contract binding it to this realm is nullified, destroying the artifact. -->
+  <Seer_LightningRing.description>Un ancien artefact lié à celui qui le manie permettant aux courants élémentaires de circuler à travers l'hôte. Si l'hôte est séparé de l'anneau, le contrat qui le lie à ce royaume est annulé, détruisant l'artefact.</Seer_LightningRing.description>
+  <!-- EN: elemental fist -->
+  <Seer_LightningRing.tools.elemental_fist.label>poing élémentaire</Seer_LightningRing.tools.elemental_fist.label>
+  <!-- EN: Ring of Elemental Lightning -->
+  <Seer_LightningRing.verbs.Verb_Shoot.label>anneau de foudre élémentaire</Seer_LightningRing.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Staff of Blazing Power -->
+  <TM_BlazingPowerStaff.label>bâton de puissance flamboyante</TM_BlazingPowerStaff.label>
+  <!-- EN: A staff that creates a mental link with the wielder to harness focused energy that can be used to launch a stream of blazing projectiles or create a hardened barrier around the wielder that can deflect projectiles. Mages gain tremendous boosts to magical spells while wielding this staff but to a mundane pawn it is nothing but a blunt weapon.\n\nThis weapon is enchanted and provides additional benefits to trained mages and fighters:\nMax Energy: +20\nEnergy Regen: +10%\nDamage Boost: +40% -->
+  <TM_BlazingPowerStaff.description>Un bâton qui crée un lien mental avec celui qui le manie afin d'exploiter une énergie concentrée qui peut être utilisée pour lancer un flot de projectiles ardents ou créer une barrière solide autour de celui qui le manie afin de dévier les projectiles. Les mages bénéficient d'une augmentation considérable de leurs sorts magiques lorsqu'ils manient ce bâton, mais pour un colon ordinaire, ce n'est rien d'autre qu'une arme émoussée.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +20%\nRégénération d'énergie : +10%\nAugmente les dégâts : +40%</TM_BlazingPowerStaff.description>
+  <!-- EN: rod -->
+  <TM_BlazingPowerStaff.tools.rod.label>manche</TM_BlazingPowerStaff.tools.rod.label>
+  <!-- EN: staff head -->
+  <TM_BlazingPowerStaff.tools.staff_head.label>tête</TM_BlazingPowerStaff.tools.staff_head.label>
+  <!-- EN: Staff of Blazing Power -->
+  <TM_BlazingPowerStaff.verbs.Verb_BlazingPower.label>bâton de puissance flamboyante</TM_BlazingPowerStaff.verbs.Verb_BlazingPower.label>
+  
+  <!-- EN: Decimation -->
+  <TM_Decimation.label>décimation</TM_Decimation.label>
+  <!-- EN: A two handed mace so heavily enchanted that it tears apart the cohesion of any material it strikes. It is forged seemingly from a single piece of metal and wielded from a handle wrapped in simple leather. Finely etched runes cover the surface of the mace, making it appear almost delicate. When held, the quality of the design is apparent, with perfect balance and solid handling despite the authoritative finality of its weight. Each blow has a chance to inflict frailty on the target, causing it to take more damage from subsequent attacks.\n		\nThis weapon is enchanted and provides additional benefits to trained mages and fighters:\nMax Energy: +40\nArcane Resistance: +40%\nDamage Boost: +30%\nFrailty on hit (50%) -->
+  <TM_Decimation.description>Une masse à deux mains si lourdement enchantée qu'elle détruit la cohésion de tout matériau qu'elle frappe. Elle est forgée, semble-t-il, à partir d'une seule pièce de métal et se manie à l'aide d'une poignée enveloppée de cuir simple. Des runes finement gravées couvrent la surface de la masse, la faisant paraître presque délicate. Lorsqu'on la tient, la qualité de sa conception est apparente, avec un équilibre parfait et une manipulation solide malgré la finalité impressionnante de son poids. Chaque coup a une chance d'infliger une fragilité à la cible, lui faisant subir plus de dégâts lors des attaques suivantes.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie max : +40%\nRésistance magique : +40%\nAugmente les dégâts : +30%\nFragilité si touché (50%)</TM_Decimation.description>
+  <!-- EN: handle -->
+  <TM_Decimation.tools.handle.label>poignée</TM_Decimation.tools.handle.label>
+  <!-- EN: crush -->
+  <TM_Decimation.tools.crush.label>écraser</TM_Decimation.tools.crush.label>
+  
+  <!-- EN: Staff of the Defender -->
+  <TM_DefenderStaff.label>bâton de défenseur</TM_DefenderStaff.label>
+  <!-- EN: A staff crafted from an ancient design bearing a palpable aura of wisdom. This staff is able to tap into the spirit realm and allow the wielder to communicate with their ancestral spirits who can manifest their power in the form of a physical barrier. The energy to perform this action comes from the spirits themselves and does not draw energy from the user, though the spirits require time to rest between requests.\n\nThis weapon is enchanted and provides additional benefits to trained mages and fighters:\nMax Energy: +30\nEnergy Regen: +20%\nArcane Resistance: +20%\n\nAbility: Arcane Barrier -->
+  <TM_DefenderStaff.description>Un bâton fabriqué à partir d'un ancien modèle portant une aura palpable de sagesse. Ce bâton est capable de puiser dans le royaume des esprits et de permettre à celui qui le manie de communiquer avec les esprits de ses ancêtres qui peuvent manifester leur pouvoir sous la forme d'une barrière physique. L'énergie nécessaire pour effectuer cette action provient des esprits eux-mêmes et ne consomme pas l'énergie de l'utilisateur, bien que les esprits aient besoin de temps pour se reposer entre les demandes.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +30%\nRégénération d'énergie : +20%\nRésistance magique : +20%\n\nL'augmentation ajoute une capacité : Barrière des arcanes</TM_DefenderStaff.description>
+  <!-- EN: rod -->
+  <TM_DefenderStaff.tools.rod.label>manche</TM_DefenderStaff.tools.rod.label>
+  <!-- EN: staff head -->
+  <TM_DefenderStaff.tools.staff_head.label>tête</TM_DefenderStaff.tools.staff_head.label>
+  <!-- EN: Staff of the Defender -->
+  <TM_DefenderStaff.verbs.Verb_BlazingPower.label>bâton de défenseur</TM_DefenderStaff.verbs.Verb_BlazingPower.label>
+  
+  <!-- EN: demon's fang -->
+  <TM_DemonFang.label>croc de démon</TM_DemonFang.label>
+  <!-- EN: A deadly short blade that can inflict nightshade toxin. The Demon's Fang is light-weight with quick attacks and will benefit from the type of material used in it's crafting. However, the raw damage of this weapon is lower than other high-tier weapons. Due to the nature of it's crafting, it does benefit from several hefty enchantments that will augment it's user's skills.\n		\nThis weapon is enchanted and provides additional benefits to trained mages and fighters:\nEnergy Costs: -10%\nAbility Cooldown: -15%\nDamage Boost: +25%\nNightshade Toxin on hit (20%) -->
+  <TM_DemonFang.description>Une lame courte mortelle qui peut infliger une toxine de belladone. Le croc du démon est léger, ses attaques sont rapides et il bénéficie du type de matériau utilisé pour sa fabrication. Cependant, les dégâts de cette arme sont inférieurs à ceux des autres armes de haut niveau. En raison de la nature de sa fabrication, elle bénéficie de plusieurs enchantements lourds qui augmenteront les compétences de son utilisateur.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nCoûts en énergie : -10%\nTemps de recharge : -15%\nAugmente les dégâts : +25%\nToxine des ténèbres si touché (20%)</TM_DemonFang.description>
+  <!-- EN: stab -->
+  <TM_DemonFang.tools.stab.label>lame</TM_DemonFang.tools.stab.label>
+  <!-- EN: edge -->
+  <TM_DemonFang.tools.edge.label>tranchant</TM_DemonFang.tools.edge.label>
+  
+  <!-- EN: Elephant Bow -->
+  <TM_ElephantBow.label>arc d'éléphant</TM_ElephantBow.label>
+  <!-- EN: A bow shaped from elephant tusks. The tusks are hallowed out to decrease rigidity and reduce weight and softened by soaking it in a magicyte compound that increases suppleness. The elephant bow offers significant improvements in range and accuracy for distant targets over the greatbow, though it is slightly more difficult to handle.\n	\nThe elephant bow is engraved with minor enchantments and is a preferred weapon by many experienced rangers and hunters.\n\nThis weapon is enchanted and provides additional benefits to trained mages and fighters:\nMax Energy: +5\nEnergy Regen: +5%\nDamage Boost: +10%\nAbility Cooldown: -10% -->
+  <TM_ElephantBow.description>Un arc façonné à partir de défenses d'éléphant. Les défenses sont évidées pour diminuer la rigidité et réduire le poids, et adoucies en les trempant dans un composé de magicite qui augmente la souplesse. L'arc d'éléphant offre des améliorations significatives en termes de portée et de précision pour les cibles éloignées par rapport au grand arc, bien qu'il soit légèrement plus difficile à manier.\n\nL'arc d'éléphant est gravé d'enchantements mineurs et elle est l'arme préférée de nombreux rôdeurs et chasseurs expérimentés.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +5%\nRégénération d'énergie : +5%\nAugmente les dégâts : +10%\nTemps de recharge : -10%</TM_ElephantBow.description>
+  <!-- EN: limb -->
+  <TM_ElephantBow.tools.limb.label>limb</TM_ElephantBow.tools.limb.label>
+  <!-- EN: Elephant Bow -->
+  <TM_ElephantBow.verbs.Verb_Shoot.label>arc éléphant</TM_ElephantBow.verbs.Verb_Shoot.label>
+  
+  <!-- EN: elephant spear -->
+  <TM_ElephantSpear.label>lance d'éléphant</TM_ElephantSpear.label>
+  <!-- EN: The elephant spear is crafted using the tusks of an elephant, and is typically a status symbol reserved for head hunters or leaders of a tribe. The shaft is engraved with minor enchantments, further boosting the combat abilities of the user.\n		\nThis weapon is enchanted and provides additional benefits to trained mages and fighters:\nMax Energy: +10\nDamage Boost: +10%\nArcane Resistance: +20% -->
+  <TM_ElephantSpear.description>La lance d'éléphant est fabriquée à partir des défenses d'un éléphant et elle est généralement un symbole de statut réservé aux chasseurs de têtes ou aux chefs de tribu. Le manche est gravé d'enchantements mineurs qui renforcent les capacités de combat de l'utilisateur.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +10%\nAugmente les dégâts : +10%\nRésistance magique : +20%</TM_ElephantSpear.description>
+  <!-- EN: shaft -->
+  <TM_ElephantSpear.tools.shaft.label>manche</TM_ElephantSpear.tools.shaft.label>
+  <!-- EN: point -->
+  <TM_ElephantSpear.tools.point.label>pointe</TM_ElephantSpear.tools.point.label>
+  <!-- EN: slash -->
+  <TM_ElephantSpear.tools.slash.label>tranchant</TM_ElephantSpear.tools.slash.label>
+  
+  <!-- EN: elephant tusk -->
+  <TM_ElephantTusk.label>défense d'éléphant</TM_ElephantTusk.label>
+  <!-- EN: This elephant tusk has been fashioned into a long knife useful in close combat for both piercing and slashing attacks. The hilt is wrapped in leather to and has a small counter-balance to improve handling, and the light weight of the blade allow for quick attacks. However, the low weight and softer blade make it a poor choice against a heavily armored opponent. -->
+  <TM_ElephantTusk.description>Cette défense d'éléphant a été sculptée en un long couteau de combat rapproché pour les attaques perforantes et tranchantes. La poignée est enveloppée de cuir et possède un petit contrepoids pour améliorer la manipulation et le poids léger de la lame permet des attaques rapides. Cependant, le faible poids et la souplesse de la lame en font un mauvais choix contre un adversaire lourdement blindé.</TM_ElephantTusk.description>
+  <!-- EN: handle -->
+  <TM_ElephantTusk.tools.handle.label>poignée</TM_ElephantTusk.tools.handle.label>
+  <!-- EN: point -->
+  <TM_ElephantTusk.tools.point.label>pointe</TM_ElephantTusk.tools.point.label>
+  <!-- EN: edge -->
+  <TM_ElephantTusk.tools.edge.label>tranchant</TM_ElephantTusk.tools.edge.label>
+  
+  <!-- EN: Wand of Fire -->
+  <TM_FireWand.label>baguette de feu</TM_FireWand.label>
+  <!-- EN: A wand able to slowly convert nearby arcane energy into elemental fire. Wands are used as focusing tools to harness innate power more than as a weapon itself.\n	\nThis weapon is enchanted and provides additional benefits to trained mages and fighters:\nMax Energy: +5\nEnergy Regen: +5%\nDamage Boost: +15% -->
+  <TM_FireWand.description>Une baguette capable de convertir lentement l'énergie magique à proximité en feu élémentaire. Les baguettes sont plus utilisées comme outils de concentration pour exploiter la puissance innée que comme une arme en soi.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et combattants entraînés :\nÉnergie maximum : +5%\nRégénération d'énergie : +5%\nAugmente les dégâts : +15%</TM_FireWand.description>
+  <!-- EN: wand -->
+  <TM_FireWand.tools.wand.label>baguette</TM_FireWand.tools.wand.label>
+  <!-- EN: Wand of Fire -->
+  <TM_FireWand.verbs.Verb_Shoot.label>baguette de feu</TM_FireWand.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Glory Maul -->
+  <TM_GloryMaul.label>frappe glorieuse</TM_GloryMaul.label>
+  <!-- EN: A one handed mace designed for effectiveness against a variety of foes. The head of the Glory Maul has a blunt, end shaped with a jagged formation to condense the weight of a blow to several points, and is balanced on the other end against a curved talon's spike used to puncture thick armor. The Glory Maul is so named for its enchantment, which can grant the wielder with a powerful blessing of might.\n		\nThis weapon is enchanted and provides additional benefits to trained mages and fighters:\nMax Energy: +20\nArcane Resistance: +20%\nDamage Boost: +10%\nBestow Might on hit (15%) -->
+  <TM_GloryMaul.description>Une masse à une main conçue pour être efficace contre une variété d'ennemis. La tête du Frappe glorieuse possède une extrémité émoussée et dentelée qui permet de répartir le poids d'un coup en plusieurs points, et elle est équilibrée à l'autre extrémité par une pointe de griffe incurvée utilisée pour transpercer les armures épaisses. Le Frappe glorieuse est ainsi nommé en raison de son enchantement, qui peut conférer à celui qui la manie une puissante bénédiction de puissance.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie max : +20%\nRésistance magique : +20%\nAugmente les dégâts : +10%\nAccorder la puissance si touché (15%)</TM_GloryMaul.description>
+  <!-- EN: Bestow Might -->
+  <TM_GloryMaul.comps.CompEnchantedItem.enchantedAction.actionLabel>Accorder la puissance</TM_GloryMaul.comps.CompEnchantedItem.enchantedAction.actionLabel>
+  <!-- EN: talon spike -->
+  <TM_GloryMaul.tools.talon_spike.label>pointe de griffe</TM_GloryMaul.tools.talon_spike.label>
+  <!-- EN: crush -->
+  <TM_GloryMaul.tools.crush.label>écraser</TM_GloryMaul.tools.crush.label>
+  
+  <!-- EN: Wand of Ice -->
+  <TM_IceWand.label>baguette de glace</TM_IceWand.label>
+  <!-- EN: A wand able to slowly convert nearby arcane energy into elemental ice. Wands are used as focusing tools to harness innate power more than as a weapon itself.\n	\nThis weapon is enchanted and provides additional benefits to trained mages and fighters:\nMax Energy: +5\nEnergy Regen: +5%\nDamage Boost: +15% -->
+  <TM_IceWand.description>Une baguette capable de convertir lentement l'énergie magique à proximité en glace élémentaire. Les baguettes sont plus utilisées comme outils de concentration pour exploiter la puissance innée que comme une arme en soi.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et combattants entraînés :\nÉnergie maximum : +5%\nRégénération d'énergie : +5%\nAugmente les dégâts : +15%</TM_IceWand.description>
+  <!-- EN: wand -->
+  <TM_IceWand.tools.wand.label>baguette</TM_IceWand.tools.wand.label>
+  <!-- EN: Wand of Ice -->
+  <TM_IceWand.verbs.Verb_Shoot.label>baguette de glace</TM_IceWand.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Wand of Lightning -->
+  <TM_LightningWand.label>baguette de foudre</TM_LightningWand.label>
+  <!-- EN: A wand able to slowly convert nearby arcane energy into elemental lightning. Wands are used as focusing tools to harness innate power more than as a weapon itself.\n\nThis weapon is enchanted and provides additional benefits to trained mages and fighters:\nMax Energy: +5\nEnergy Regen: +5%\nDamage Boost: +15% -->
+  <TM_LightningWand.description>Une baguette capable de convertir lentement l'énergie magique à proximité en foudre élémentaire. Les baguettes sont plus utilisées comme outils de concentration pour exploiter la puissance innée que comme une arme en soi.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et combattants entraînés :\nÉnergie maximum : +5%\nRégénération d'énergie : +5%\nAugmente les dégâts : +15%</TM_LightningWand.description>
+  <!-- EN: wand -->
+  <TM_LightningWand.tools.wand.label>baguette</TM_LightningWand.tools.wand.label>
+  <!-- EN: Wand of Lightning -->
+  <TM_LightningWand.verbs.Verb_Shoot.label>baguette de foudre</TM_LightningWand.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Ruunbled -->
+  <TM_Ruunbled.label>ruunbled</TM_Ruunbled.label>
+  <!-- EN: This a massive blade is etched in intricate runes from hilt to tip. It is forged in a material unknown to you, with a razor sharp edge and weighing only a fraction of what the size infers. Despite its size, the weapon is easy to handle, and practically hums with power. You can only fathom the origins of this weapon - perhaps crafted in ancient technologies that were lost to time or fabricated with some mysterious power. The only hint is small word written in a stylish script and imprinted into the hilt with the name "Ruunbled." You are not sure if this is a manufacturing company, the name of its maker, or the name of the blade itself. Whichever it is, there is no doubt that this weapon represents the pinnacle of its class.\n		\nThis weapon is enchanted and provides additional benefits to trained mages and fighters:\nAbility Cooldown: -20%\nEnergy Costs: -20%\nDamage Boost: +25%\nArcane Resistance: +25%\nHaste on hit (20%)\nDeflection (30%)\nCleaving Strike -->
+  <TM_Ruunbled.description>Cette lame massive est gravée de runes complexes de la poignée jusqu’à sa pointe. Elle est forgée dans un matériau inconnu, sa lame est coupante comme un rasoir et ne pèse qu'une fraction de sa taille. Malgré sa taille, l'arme est facile à manier et vibre de puissance. Vous ne pouvez qu'imaginer les origines de cette arme, peut-être issue d'anciennes technologies perdues dans le temps ou fabriquée avec un pouvoir mystérieux. Le seul indice est un petit mot écrit dans une écriture élégante et imprimé sur la poignée avec le nom "Ruunbled". Vous n'êtes pas sûr qu'il s'agisse d'une entreprise de fabrication, du nom du fabricant ou du nom de la lame elle-même. Quoi qu'il en soit, il ne fait aucun doute que cette arme représente l'apogée de sa catégorie.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nTemps de recharge : -20%\nCoûts en énergie : -20%\nAugmente les dégâts : +25%\nRésistance magique : +25%\nHâte si touché (20%)\nDéviation (30%)\nFrappes enchaînées</TM_Ruunbled.description>
+  <!-- EN: pommel -->
+  <TM_Ruunbled.tools.pommel.label>pommeau</TM_Ruunbled.tools.pommel.label>
+  <!-- EN: stab -->
+  <TM_Ruunbled.tools.stab.label>lame</TM_Ruunbled.tools.stab.label>
+  <!-- EN: edge -->
+  <TM_Ruunbled.tools.edge.label>tranchant</TM_Ruunbled.tools.edge.label>
+  
+  <!-- EN: thrumbo axe -->
+  <TM_ThrumboAxe.label>hache de thrumbo</TM_ThrumboAxe.label>
+  <!-- EN: An axe crafted using thrumbo horns that are fused together with a clasp made from magicyte. This clasp stores arcane potential and transfers it as physical force when the axe is swung, allowing it to deliver mighty blows capable of cleaving through multiple opponents. The shaft is also etched with magical runes to augment the wielder's power.\n		\nThis weapon is enchanted and provides additional benefits to trained mages and fighters:\nMax Energy: +10\nDamage Boost: +20%\nArcane Resistance: +30%\nCleaving Strike -->
+  <TM_ThrumboAxe.description>Une hache fabriquée à partir de cornes de thrumbo qui sont fusionnées avec une attache faite de magicite. Ce fermoir stocke le potentiel magique et le transfère sous forme de force physique lorsque la hache est balancée, ce qui lui permet de porter des coups puissants capables de frapper plusieurs adversaires. Le manche est également gravé de runes magiques qui augmentent la puissance du manieur.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +10%\nAugmente les dégâts : +20%\nRésistance magique : +30%\nFrappes enchaînées</TM_ThrumboAxe.description>
+  <!-- EN: handle -->
+  <TM_ThrumboAxe.tools.handle.label>poignée</TM_ThrumboAxe.tools.handle.label>
+  <!-- EN: cleave -->
+  <TM_ThrumboAxe.tools.cleave.label>tranchant</TM_ThrumboAxe.tools.cleave.label>
+  <!-- EN: horns -->
+  <TM_ThrumboAxe.tools.horns.label>cornes</TM_ThrumboAxe.tools.horns.label>
+  
+  <!-- EN: thrumbo saber -->
+  <TM_ThrumboSaber.label>sabre de thrumbo</TM_ThrumboSaber.label>
+  <!-- EN: A razor sharp blade forged from the horn of a thrumbo and infused with arcane energy. The thrumbo saber is lighter than metal blades and it's edge can cut through all but the thickest armor. Many masters of the blade favor this weapon as it is designed for speed and lethality. Further enchantments may also quicken the users, doubling their attack rate for a short period.\n		\nThis weapon is enchanted and provides additional benefits to trained mages and fighters:\nAbility Cooldown: -10%\nDamage Boost: +10%\nHaste on hit (25%) -->
+  <TM_ThrumboSaber.description>Une lame tranchante comme un rasoir, forgée à partir de la corne d'un thrumbo et imprégnée d'énergie magique. Le sabre thrumbo est plus léger que les lames métalliques et son tranchant peut traverser toutes les armures, sauf les plus épaisses. De nombreux maîtres de lames préfèrent cette arme car elle est conçue pour la vitesse et la létalité. D'autres enchantements peuvent également accélérer l'utilisateur, doublant sa vitesse d'attaque pendant une courte période.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nTemps de recharge : -10%\nAugmente les dégâts : +10%\nHâte si touché (25%)</TM_ThrumboSaber.description>
+  <!-- EN: pommel -->
+  <TM_ThrumboSaber.tools.pommel.label>pommeau</TM_ThrumboSaber.tools.pommel.label>
+  <!-- EN: stab -->
+  <TM_ThrumboSaber.tools.stab.label>lame</TM_ThrumboSaber.tools.stab.label>
+  <!-- EN: edge -->
+  <TM_ThrumboSaber.tools.edge.label>tranchant</TM_ThrumboSaber.tools.edge.label>
+  
+  <!-- EN: Thrum Bow -->
+  <TM_ThrumBow.label>arc de thrumbo</TM_ThrumBow.label>
+  <!-- EN: A bow shaped from the horn of a Thrumbo. The horn is hallowed out to decrease the weight and softened by soaking it in a magicyte compound that adds a surprising suppleness to the horn. The bow is further enhanced with embedded enchantments and arcane engravings that travel the length of the bow. The bow is said to be almost sentient, able to determine the intended target through a mental link with the wielder. Arrows fired from this bow almost always hit their intended target. This effect does have a tendency to delude the users own capability, however.\n\nThis weapon is enchanted and provides additional benefits to trained mages and fighters:\nMax Energy: +20\nEnergy Regen: +10%\nDamage Boost: +20%\nAbility Cooldown: -10%\nClass XP Gain: -20% -->
+  <TM_ThrumBow.description>Un arc façonné à partir de la corne d'un Thrumbo. La corne est évidée pour en diminuer le poids et adoucie en la trempant dans un composé magicite qui lui confère une souplesse surprenante. L'arc est encore amélioré par des enchantements intégrés et des gravures magiques qui parcourent toute la longueur de l'arc. On dit de l'arc qu'il est presque sensible, capable de déterminer la cible visée grâce à un lien mental avec celui qui le manie. Les flèches tirées par cet arc atteignent presque toujours leur cible. Cet effet a cependant tendance à tromper les capacités de l'utilisateur.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +20%\nRégénération d'énergie : +10%\nAugmente les dégâts : +20%\nTemps de recharge : -10%\nGain d'XP de classe : -20</TM_ThrumBow.description>
+  <!-- EN: limb -->
+  <TM_ThrumBow.tools.limb.label>limb</TM_ThrumBow.tools.limb.label>
+  <!-- EN: Thrum Bow -->
+  <TM_ThrumBow.verbs.Verb_Shoot.label>arc thrumbo</TM_ThrumBow.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Winter's Reign -->
+  <TM_WinterStaff.label>règne de l'hiver</TM_WinterStaff.label>
+  <!-- EN: A rod of blue steel adorned with a crown of crystal shards. The touch of this staff never warms, as if to remind the bearer of it's icy sovereignty. The power of the staff is two-fold - it greatly augments the innate magical power of a mage and is able to create a hailstorm in any environment. The power of the staff has its price - when held, the staff will drain heat and energy from the holder and, if held by a mage, expands this effect to the surrounding atmosphere. Only mages are able to project the power of this staff.\n\nThis weapon is enchanted and provides additional benefits to trained mages and fighters:\nMax Energy: +80\nAbility Cooldown: -30%\nArcane Resistance: +20%\nArcane Damage: +50%\n\nAbility: Hailstorm -->
+  <TM_WinterStaff.description>Une tige d'acier bleu ornée d'une couronne d'éclats de cristal. Le contact de ce bâton ne se réchauffe jamais, comme pour rappeler à son porteur sa souveraineté glacée. Le pouvoir du bâton est double - il augmente considérablement le pouvoir magique inné d'un mage et il est capable de créer une tempête de grêle dans n'importe quel environnement. Le pouvoir du bâton a un prix - lorsqu'il est tenu, le bâton draine la chaleur et l'énergie de son détenteur et, s'il est tenu par un mage, étend cet effet à l'atmosphère environnante. Seuls les mages sont capables de maîtriser la puissance de ce bâton.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +80\nTemps de recharge : -30%\nRésistance magique : +20%\nDégâts magiques : +50%\n\nCapacité : Tempête de grêle</TM_WinterStaff.description>
+  <!-- EN: rod -->
+  <TM_WinterStaff.tools.rod.label>tige</TM_WinterStaff.tools.rod.label>
+  <!-- EN: staff head -->
+  <TM_WinterStaff.tools.staff_head.label>tête de manche</TM_WinterStaff.tools.staff_head.label>
+  <!-- EN: Winter's Reign -->
+  <TM_WinterStaff.verbs.Verb_FreezingWinds.label>règne de l'hiver</TM_WinterStaff.verbs.Verb_FreezingWinds.label>
+  
+</LanguageData>

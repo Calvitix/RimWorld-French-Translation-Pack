@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pomana sense -->
+  <TM_PomanaSenseTD.stages.pomana_sense.label>sensation de pomana</TM_PomanaSenseTD.stages.pomana_sense.label>
+  <!-- EN: My mind is relaxed and my thoughts are clear, I feel more aware and content with my place in the universe. -->
+  <TM_PomanaSenseTD.stages.pomana_sense.description>Mon esprit est détendu et mes pensées sont claires, je me sens plus conscient et satisfait de ma place dans l'univers.</TM_PomanaSenseTD.stages.pomana_sense.description>
+  
+  <!-- EN: syrrium sense -->
+  <TM_SyrriumSenseTD.stages.syrrium_sense.label>sensation de syrium</TM_SyrriumSenseTD.stages.syrrium_sense.label>
+  <!-- EN: My mind is relaxed and answers seem to flow to me as if I'm attuned to the universe. -->
+  <TM_SyrriumSenseTD.stages.syrrium_sense.description>Mon esprit est détendu et les réponses semblent affluer vers moi comme si j'étais en harmonie avec l'univers.</TM_SyrriumSenseTD.stages.syrrium_sense.description>
+  
+  <!-- EN: syrrium withdrawal -->
+  <TM_SyrriumWithdrawalTD.stages.syrrium_withdrawal.label>retrait du syrium</TM_SyrriumWithdrawalTD.stages.syrrium_withdrawal.label>
+  <!-- EN: My mind feels muddled. With syrrium I was brilliant, I'm sure everyone was impressed with my intellect. That's who I am, I need to have that! -->
+  <TM_SyrriumWithdrawalTD.stages.syrrium_withdrawal.description>Mon esprit est confus. Avec du syrrium j'étais brillant, je suis sûr que tout le monde était impressionné par mon intelligence. C'est ce que je suis, j'en ai besoin !</TM_SyrriumWithdrawalTD.stages.syrrium_withdrawal.description>
+  
+</LanguageData>

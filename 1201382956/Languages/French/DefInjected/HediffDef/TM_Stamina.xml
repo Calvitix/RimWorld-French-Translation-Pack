@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: might user -->
+  <TM_MightUserHD.label>utilisateur potentiel</TM_MightUserHD.label>
+  <!-- EN: Hediff required for might users. -->
+  <TM_MightUserHD.description>Hediff requis pour les utilisateurs puissants.</TM_MightUserHD.description>
+  <!-- EN: hidden -->
+  <TM_MightUserHD.stages.hidden.label>caché</TM_MightUserHD.stages.hidden.label>
+  
+</LanguageData>

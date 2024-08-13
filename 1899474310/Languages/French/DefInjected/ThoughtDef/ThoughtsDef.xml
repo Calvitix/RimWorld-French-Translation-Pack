@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: free time -->
+  <PrisonLabor_FreeTime.stages.free_time.label>TODO</PrisonLabor_FreeTime.stages.free_time.label>
+  <!-- EN: Even tough I'm prisoner, I can still have some free time. -->
+  <PrisonLabor_FreeTime.stages.free_time.description>TODO</PrisonLabor_FreeTime.stages.free_time.description>
+  
+  <!-- EN: not supervised -->
+  <PrisonLabor_LowMotivation.stages.not_supervised.label>TODO</PrisonLabor_LowMotivation.stages.not_supervised.label>
+  <!-- EN: Nobody cares if I'm working or not. -->
+  <PrisonLabor_LowMotivation.stages.not_supervised.description>TODO</PrisonLabor_LowMotivation.stages.not_supervised.description>
+  
+  <!-- EN: treated very good -->
+  <PrisonLabor_VeryGoodTreatment.stages.treated_very_good.label>TODO</PrisonLabor_VeryGoodTreatment.stages.treated_very_good.label>
+  <!-- EN: In this prison I've been treated very well. -->
+  <PrisonLabor_VeryGoodTreatment.stages.treated_very_good.description>TODO</PrisonLabor_VeryGoodTreatment.stages.treated_very_good.description>
+  
+</LanguageData>

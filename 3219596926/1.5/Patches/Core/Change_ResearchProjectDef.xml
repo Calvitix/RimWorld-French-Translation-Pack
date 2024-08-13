@@ -171,9 +171,9 @@
 	<!-- defName="PlateArmor" or -->
 	<!-- ============================ Core Research Project Prerequisite Add ========================== -->
 	<Operation Class="PatchOperationConditional">
-		<xpath>/Defs/ResearchProjectDef[defName="Smithing"]/prerequisites</xpath>
+		<xpath>Defs/ResearchProjectDef[defName="Smithing"]/prerequisites</xpath>
 		<nomatch Class="PatchOperationAdd">
-		<xpath>/Defs/ResearchProjectDef[defName="Smithing"]</xpath>
+		<xpath>Defs/ResearchProjectDef[defName="Smithing"]</xpath>
 		<value>
 			<prerequisites>
 				<li>Stonecutting</li>
@@ -181,16 +181,16 @@
 		</value>
 		</nomatch>
 		<match Class="PatchOperationAdd">
-			<xpath>/Defs/ResearchProjectDef[defName="Smithing"]/prerequisites</xpath>
+			<xpath>Defs/ResearchProjectDef[defName="Smithing"]/prerequisites</xpath>
 		<value>
 				<li>Stonecutting</li>
 		</value>
 		</match>
 	</Operation>
 	<Operation Class="PatchOperationConditional">
-		<xpath>/Defs/ResearchProjectDef[defName="ComplexClothing"]/prerequisites</xpath>
+		<xpath>Defs/ResearchProjectDef[defName="ComplexClothing"]/prerequisites</xpath>
 		<nomatch Class="PatchOperationAdd">
-			<xpath>/Defs/ResearchProjectDef[defName="ComplexClothing"]</xpath>
+			<xpath>Defs/ResearchProjectDef[defName="ComplexClothing"]</xpath>
 		<value>
 			<prerequisites>
 				<li>DankPyon_TextileSpinning</li>

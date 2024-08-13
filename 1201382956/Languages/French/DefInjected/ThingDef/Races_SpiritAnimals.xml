@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: spirit bear -->
+  <TM_SpiritBearR.label>esprit d'ours</TM_SpiritBearR.label>
+  <!-- EN: The spirit bear is emblematic of stability and strength. This animal has been admired throughout time as a powerful inspiration for those who need courage to stand up against adversity. The spirit bear is a powerful guide to support physical strength and constitution and will actively protect its young. -->
+  <TM_SpiritBearR.description>L'ours esprit est emblématique de la stabilité et de la force. Cet animal a été admiré à travers le temps comme une inspiration puissante pour ceux qui ont besoin de courage pour faire face à l'adversité. L'ours esprit est un guide puissant qui soutient la force physique et la constitution et protège activement ses petits.</TM_SpiritBearR.description>
+  <!-- EN: left paw -->
+  <TM_SpiritBearR.tools.left_paw.label>patte gauche</TM_SpiritBearR.tools.left_paw.label>
+  <!-- EN: right paw -->
+  <TM_SpiritBearR.tools.right_paw.label>patte droite</TM_SpiritBearR.tools.right_paw.label>
+  <!-- EN: mauled -->
+  <TM_SpiritBearR.tools.mauled.label>lacéré</TM_SpiritBearR.tools.mauled.label>
+  <!-- EN: head -->
+  <TM_SpiritBearR.tools.head.label>tête</TM_SpiritBearR.tools.head.label>
+  
+  <!-- EN: spirit crow -->
+  <TM_SpiritCrowR.label>esprit du corbeau</TM_SpiritCrowR.label>
+  <!-- EN: The crow is a spirit animal associated with life mysteries and magic. The spirit crow provides insight and means of supporting intentions. It is also a sign of fortune, though not always good fortune. If the crow has chosen you as your spirit or totem animal, it supports you in developing the power of sight, transformation, and connection with magic and will assist in these endeavors. -->
+  <TM_SpiritCrowR.description>Le corbeau est un animal d'esprit associé aux mystères de la vie et à la magie. L'esprit du corbeau permet de comprendre et de soutenir les intentions. C'est aussi un signe de chance, mais pas toujours de bonne fortune. Si le corbeau vous a choisi comme animal esprit ou totem, il vous soutient dans le développement du pouvoir de la vue, de la transformation et de la connexion avec la magie et vous aidera dans ces efforts.</TM_SpiritCrowR.description>
+  <!-- EN: claws -->
+  <TM_SpiritCrowR.tools.claws.label>griffes</TM_SpiritCrowR.tools.claws.label>
+  <!-- EN: beak -->
+  <TM_SpiritCrowR.tools.beak.label>bec</TM_SpiritCrowR.tools.beak.label>
+  <!-- EN: head -->
+  <TM_SpiritCrowR.tools.head.label>tête</TM_SpiritCrowR.tools.head.label>
+  
+  <!-- EN: spirit mongoose -->
+  <TM_SpiritMongooseR.label>esprit de mangouste</TM_SpiritMongooseR.label>
+  <!-- EN: The mongoose spirit animal is clever and adaptable. It represents an insatiable curiosity about the world around them while possessing the wherewithal to know to look before they leap. The mongoose uses their cunning and agility to quickly deliver lethal strikes against an enemy or swiftly deliver resources. The mongoose is also the most playful of spirit animals. -->
+  <TM_SpiritMongooseR.description>La mangouste est un animal d'esprit intelligent et polyvalent. Elle représente une curiosité insatiable pour le monde qui l'entoure, tout en possédant les moyens de savoir regarder avant de sauter. La mangouste utilise sa ruse et son agilité pour porter rapidement des coups mortels à un ennemi ou acheminer rapidement des ressources. La mangouste est également le plus enjoué des animaux esprits.</TM_SpiritMongooseR.description>
+  <!-- EN: left claw -->
+  <TM_SpiritMongooseR.tools.left_claw.label>griffe gauche</TM_SpiritMongooseR.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <TM_SpiritMongooseR.tools.right_claw.label>griffe droite</TM_SpiritMongooseR.tools.right_claw.label>
+  <!-- EN: head -->
+  <TM_SpiritMongooseR.tools.head.label>tête</TM_SpiritMongooseR.tools.head.label>
+  
+</LanguageData>

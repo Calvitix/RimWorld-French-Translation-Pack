@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Body Training -->
+  <Projectile_BladeArt.label>entraînement physique</Projectile_BladeArt.label>
+  
+  <!-- EN: Blade focus -->
+  <Projectile_BladeFocus.label>entraînement de lame</Projectile_BladeFocus.label>
+  
+  <!-- EN: Blade Spin -->
+  <Projectile_BladeSpin.label>lame tournoyante</Projectile_BladeSpin.label>
+  
+  <!-- EN: Phase Strike -->
+  <Projectile_PhaseStrike.label>frappe de phase</Projectile_PhaseStrike.label>
+  
+  <!-- EN: Seismic Slash -->
+  <Projectile_SeismicSlash.label>entaille sismique</Projectile_SeismicSlash.label>
+  
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Assign -->
+  <PL_AssignWindow.label>TODO</PL_AssignWindow.label>
+  
+  <!-- EN: Dev -->
+  <PL_DevWindow.label>TODO</PL_DevWindow.label>
+  
+  <!-- EN: work -->
+  <PL_LaborWindow.label>TODO</PL_LaborWindow.label>
+  
+  <!-- EN: overview -->
+  <PL_Overview.label>TODO</PL_Overview.label>
+  
+  <!-- EN: Schedule -->
+  <PL_ScheduleWindow.label>TODO</PL_ScheduleWindow.label>
+  
+</LanguageData>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: light lance -->
+  <FlyingObject_LightLance.label>javelot de lumière</FlyingObject_LightLance.label>
+  
+  <!-- EN: spirit of light -->
+  <FlyingObject_SpiritOfLight.label>spirit of light</FlyingObject_SpiritOfLight.label>
+  
+  <!-- EN: create light -->
+  <Projectile_CreateLight.label>créer une lumière</Projectile_CreateLight.label>
+  
+  <!-- EN: light lance -->
+  <Projectile_LightLance.label>javelot de lumière</Projectile_LightLance.label>
+  
+  <!-- EN: light lancet -->
+  <Projectile_LightLaser.label>javelot de lumière</Projectile_LightLaser.label>
+  
+  <!-- EN: light skip -->
+  <Projectile_LightSkip.label>saut de lumière</Projectile_LightSkip.label>
+  
+  <!-- EN: mass light skip -->
+  <Projectile_LightSkipMass.label>saut de lumière de masse</Projectile_LightSkipMass.label>
+  
+  <!-- EN: refraction -->
+  <Projectile_Refraction.label>réfraction</Projectile_Refraction.label>
+  
+  <!-- EN: spirit of light -->
+  <Projectile_SpiritOfLight.label>spirit of light</Projectile_SpiritOfLight.label>
+  
+  <!-- EN: sunfire -->
+  <Projectile_Sunfire.label>éclat solaire</Projectile_Sunfire.label>
+  
+  <!-- EN: sunfire -->
+  <Projectile_Sunfire_I.label>éclat solaire</Projectile_Sunfire_I.label>
+  
+  <!-- EN: sunfire -->
+  <Projectile_Sunfire_II.label>éclat solaire</Projectile_Sunfire_II.label>
+  
+  <!-- EN: sunfire -->
+  <Projectile_Sunfire_III.label>éclat solaire</Projectile_Sunfire_III.label>
+  
+</LanguageData>

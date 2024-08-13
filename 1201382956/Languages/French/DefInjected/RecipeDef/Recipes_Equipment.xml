@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: craft shroud of soulreaper -->
+  <TM_ShroudOfUndeath_Recipe.label>fabriquer un linceul du faucheur d'âmes</TM_ShroudOfUndeath_Recipe.label>
+  <!-- EN: Craft the Shroud of the Soulreaper - a mystical ensemble that augments the art of necromancy. -->
+  <TM_ShroudOfUndeath_Recipe.description>Fabriquer le linceul du faucheur d'âmes - un ensemble mystique qui améliore l'art de la nécromancie.</TM_ShroudOfUndeath_Recipe.description>
+  <!-- EN: crafting Shroud -->
+  <TM_ShroudOfUndeath_Recipe.jobString>fabrique le linceul.</TM_ShroudOfUndeath_Recipe.jobString>
+  
+</LanguageData>

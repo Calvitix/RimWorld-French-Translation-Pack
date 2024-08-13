@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: magic user -->
+  <TM_MagicUserHD.label>utilisateur de magie</TM_MagicUserHD.label>
+  <!-- EN: Hediff required for magic users. -->
+  <TM_MagicUserHD.description>Hedif requis pour les utilisateurs de magie.</TM_MagicUserHD.description>
+  <!-- EN: hidden -->
+  <TM_MagicUserHD.stages.hidden.label>caché</TM_MagicUserHD.stages.hidden.label>
+  
+</LanguageData>

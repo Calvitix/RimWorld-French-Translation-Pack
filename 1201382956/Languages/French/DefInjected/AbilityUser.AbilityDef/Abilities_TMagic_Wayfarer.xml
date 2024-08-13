@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Combat Training -->
+  <TM_FieldTraining.label>Entraînement au combat</TM_FieldTraining.label>
+  <!-- EN: Wayfarers do not have class specific abilities, instead, they excel at general combat. \n\nGeneral combat techniques are discarded by most fighters as supplementary skills which require no additional skill training. The wayfarer takes another approach; by investing time and effort into understanding these combat skills, the wayfarer is able to improve almost all general abilities in utility, power, and efficiency. \n\nSee skills for more details. -->
+  <TM_FieldTraining.description>Les Voyageurs n'ont pas de capacités spécifiques à une classe, mais ils excellent en combat général.\n\nLes techniques de combat général sont rejetées par la plupart des combattants comme des compétences supplémentaires qui ne nécessitent aucune formation supplémentaire. Le voyageur adopte une autre approche ; en investissant du temps et des efforts dans la compréhension de ces techniques de combat, le voyageur est capable d'améliorer presque toutes les capacités générales en utilité, puissance et efficacité.\n\nVoir les compétences pour plus de détails.</TM_FieldTraining.description>
+  
+  <!-- EN: The Wayfarer -->
+  <TM_WayfarerCraft.label>Le voyageur</TM_WayfarerCraft.label>
+  <!-- EN: Increase attributes through training and hard work. See skills for more details. -->
+  <TM_WayfarerCraft.description>Augmenter les attributs par l'entraînement et le travail acharné. Voir les compétences pour plus de détails.</TM_WayfarerCraft.description>
+  
+</LanguageData>

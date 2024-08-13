@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gem of force -->
+  <CutArcaneDmgGem.label>gemme magique de force</CutArcaneDmgGem.label>
+  <!-- EN: Cut and refine magicyte into an enchanting gem able to increase the force of magical attacks. -->
+  <CutArcaneDmgGem.description>Tailler et raffiner la magicite en une gemme enchantée capable d'augmenter la force des attaques magiques.</CutArcaneDmgGem.description>
+  <!-- EN: cut gem of force -->
+  <CutArcaneDmgGem.jobString>taille la gemme de force.</CutArcaneDmgGem.jobString>
+  
+  <!-- EN: gem of resistance -->
+  <CutArcaneResGem.label>gemme magique de résistance</CutArcaneResGem.label>
+  <!-- EN: Cut and refine magicyte into an enchanting gem able to resist the effects of magical attacks. -->
+  <CutArcaneResGem.description>Tailler et raffiner la magicite en une gemme enchantée capable de résister aux effets des attaques magiques.</CutArcaneResGem.description>
+  <!-- EN: cut gem of resistance -->
+  <CutArcaneResGem.jobString>taille la gemme de résistance.</CutArcaneResGem.jobString>
+  
+  <!-- EN: gem of wonder -->
+  <CutArcaneWonderGem.label>gemme magique de merveille</CutArcaneWonderGem.label>
+  <!-- EN: Cut and refine magicyte into an enchanting gem able to harness all manner of enchantments. -->
+  <CutArcaneWonderGem.description>Tailler et raffiner la magicite en une gemme enchantée capable d'exploiter toutes sortes d'enchantements.</CutArcaneWonderGem.description>
+  <!-- EN: cut gem of wonder -->
+  <CutArcaneWonderGem.jobString>taille la gemme de merveille.</CutArcaneWonderGem.jobString>
+  
+  <!-- EN: gem of acceleration -->
+  <CutCoolDownGem.label>gemme magique d'accélération</CutCoolDownGem.label>
+  <!-- EN: Cut and refine magicyte into an enchanting gem able to reduce the time before an ability can be used again. -->
+  <CutCoolDownGem.description>Tailler et raffiner la magicite en une gemme enchantée capable de réduire le temps d'utilisation d'une capacité.</CutCoolDownGem.description>
+  <!-- EN: cut gem of acceleration -->
+  <CutCoolDownGem.jobString>taille la gemme d'accélération.</CutCoolDownGem.jobString>
+  
+  <!-- EN: major gem of force -->
+  <CutMajorArcaneDmgGem.label>gemme magique majeure de force</CutMajorArcaneDmgGem.label>
+  <!-- EN: Cut and refine magicyte into an enchanting gem able to increase the force of magical attacks. -->
+  <CutMajorArcaneDmgGem.description>Tailler et raffiner la magicite en une gemme enchantée capable d'augmenter la force des attaques magiques.</CutMajorArcaneDmgGem.description>
+  <!-- EN: cut major gem of force -->
+  <CutMajorArcaneDmgGem.jobString>taille la gemme majeure de force.</CutMajorArcaneDmgGem.jobString>
+  
+  <!-- EN: major gem of resistance -->
+  <CutMajorArcaneResGem.label>gemme magique majeure de résistance</CutMajorArcaneResGem.label>
+  <!-- EN: Cut and refine magicyte into an enchanting gem able to resist the effects of magical attacks. -->
+  <CutMajorArcaneResGem.description>Tailler et raffiner la magicite en une gemme enchantée capable de résister aux effets des attaques magiques.</CutMajorArcaneResGem.description>
+  <!-- EN: cut major gem of resistance -->
+  <CutMajorArcaneResGem.jobString>taille la gemme majeure de résistance.</CutMajorArcaneResGem.jobString>
+  
+  <!-- EN: major gem of wonder -->
+  <CutMajorArcaneWonderGem.label>gemme magique majeure de merveille</CutMajorArcaneWonderGem.label>
+  <!-- EN: Cut and refine magicyte into an enchanting gem able to harness all manner of enchantments. -->
+  <CutMajorArcaneWonderGem.description>Tailler et raffiner la magicite en une gemme enchantée capable d'exploiter toutes sortes d'enchantements.</CutMajorArcaneWonderGem.description>
+  <!-- EN: cut major gem of wonder -->
+  <CutMajorArcaneWonderGem.jobString>taille la gemme majeure de merveille.</CutMajorArcaneWonderGem.jobString>
+  
+  <!-- EN: major gem of acceleration -->
+  <CutMajorCoolDownGem.label>gemme magique majeure d'accélération</CutMajorCoolDownGem.label>
+  <!-- EN: Cut and refine magicyte into an enchanting gem able to reduce the time before an ability can be used again. -->
+  <CutMajorCoolDownGem.description>Tailler et raffiner la magicite en une gemme enchantée capable de réduire le temps d'utilisation d'une capacité.</CutMajorCoolDownGem.description>
+  <!-- EN: cut major gem of acceleration -->
+  <CutMajorCoolDownGem.jobString>taille la gemme majeure d'accélération.</CutMajorCoolDownGem.jobString>
+  
+  <!-- EN: major gem of conservation -->
+  <CutMajorMPCostGem.label>gemme magique majeure de préservation</CutMajorMPCostGem.label>
+  <!-- EN: Cut and refine magicyte into an enchanting gem able to reduce the amount of mana required to use an ability. -->
+  <CutMajorMPCostGem.description>Tailler et raffiner la magicite en une gemme enchantée capable de réduire la quantité de mana nécessaire pour utiliser une capacité.</CutMajorMPCostGem.description>
+  <!-- EN: cut major gem of conservation -->
+  <CutMajorMPCostGem.jobString>taille la gemme majeure de préservation.</CutMajorMPCostGem.jobString>
+  
+  <!-- EN: major gem of holding -->
+  <CutMajorMPGem.label>gemme magique majeure de réserve</CutMajorMPGem.label>
+  <!-- EN: Cut and refine magicyte into an enchanting gem able to maintain reserves of mana. -->
+  <CutMajorMPGem.description>Tailler et raffiner la magicite en une gemme enchantée capable de contenir des réserves de mana.</CutMajorMPGem.description>
+  <!-- EN: cut major gem of holding -->
+  <CutMajorMPGem.jobString>taille la gemme majeure de réserve.</CutMajorMPGem.jobString>
+  
+  <!-- EN: major gem of regeneration -->
+  <CutMajorMPRegenRateGem.label>gemme magique majeure de régénération</CutMajorMPRegenRateGem.label>
+  <!-- EN: Cut and refine magicyte into an enchanting gem able to increase the rate mana is gained. -->
+  <CutMajorMPRegenRateGem.description>Tailler et raffiner la magicite en une gemme enchantée capable d'augmenter le taux de gain de mana.</CutMajorMPRegenRateGem.description>
+  <!-- EN: cut major gem of regeneration -->
+  <CutMajorMPRegenRateGem.jobString>taille la gemme majeure de régénération.</CutMajorMPRegenRateGem.jobString>
+  
+  <!-- EN: major gem of learning -->
+  <CutMajorXPGainGem.label>gemme magique majeure d'apprentissage</CutMajorXPGainGem.label>
+  <!-- EN: Cut and refine magicyte into an enchanting gem able to increase experience gained when using abilities. -->
+  <CutMajorXPGainGem.description>Tailler et raffiner la magicite en une gemme enchantée capable d'augmenter l'expérience acquise lors de l'utilisation de capacités.</CutMajorXPGainGem.description>
+  <!-- EN: cut major gem of learning -->
+  <CutMajorXPGainGem.jobString>taille la gemme majeure d'apprentissage.</CutMajorXPGainGem.jobString>
+  
+  <!-- EN: minor gem of force -->
+  <CutMinorArcaneDmgGem.label>gemme magique mineure de force</CutMinorArcaneDmgGem.label>
+  <!-- EN: Cut and refine raw magicyte into an enchanting gem able to increase the force of magical attacks. -->
+  <CutMinorArcaneDmgGem.description>Tailler et raffiner la magicite en une gemme enchantée capable d'augmenter la force des attaques magiques.</CutMinorArcaneDmgGem.description>
+  <!-- EN: cut minor gem of force -->
+  <CutMinorArcaneDmgGem.jobString>taille la gemme mineure de force.</CutMinorArcaneDmgGem.jobString>
+  
+  <!-- EN: minor gem of resistance -->
+  <CutMinorArcaneResGem.label>gemme magique mineure de résistance</CutMinorArcaneResGem.label>
+  <!-- EN: Cut and refine raw magicyte into an enchanting gem able to resist the effects of magical attacks. -->
+  <CutMinorArcaneResGem.description>Tailler et raffiner la magicite en une gemme enchantée capable de résister aux effets des attaques magiques.</CutMinorArcaneResGem.description>
+  <!-- EN: cut minor gem of resistance -->
+  <CutMinorArcaneResGem.jobString>taille la gemme mineure de résistance.</CutMinorArcaneResGem.jobString>
+  
+  <!-- EN: minor gem of wonder -->
+  <CutMinorArcaneWonderGem.label>gemme magique mineure de merveille</CutMinorArcaneWonderGem.label>
+  <!-- EN: Cut and refine raw magicyte into an enchanting gem able to harness all manner of enchantments. -->
+  <CutMinorArcaneWonderGem.description>Tailler et raffiner la magicite en une gemme enchantée capable d'exploiter toutes sortes d'enchantements.</CutMinorArcaneWonderGem.description>
+  <!-- EN: cut minor gem of wonder -->
+  <CutMinorArcaneWonderGem.jobString>taille la gemme mineure de merveille.</CutMinorArcaneWonderGem.jobString>
+  
+  <!-- EN: minor gem of acceleration -->
+  <CutMinorCoolDownGem.label>gemme magique mineure d'accélération</CutMinorCoolDownGem.label>
+  <!-- EN: Cut and refine raw raw magicyte into an enchanting gem able to reduce the time before an ability can be used again. -->
+  <CutMinorCoolDownGem.description>Tailler et raffiner la magicite en une gemme enchantée capable de réduire le temps d'utilisation d'une capacité.</CutMinorCoolDownGem.description>
+  <!-- EN: cut minor gem of acceleration -->
+  <CutMinorCoolDownGem.jobString>taille la gemme mineure d'accélération.</CutMinorCoolDownGem.jobString>
+  
+  <!-- EN: minor gem of conservation -->
+  <CutMinorMPCostGem.label>gemme magique mineure de préservation</CutMinorMPCostGem.label>
+  <!-- EN: Cut and refine raw magicyte into an enchanting gem able to reduce the amount of mana required to use an ability. -->
+  <CutMinorMPCostGem.description>Tailler et raffiner la magicite en une gemme enchantée capable de réduire la quantité de mana nécessaire pour utiliser une capacité.</CutMinorMPCostGem.description>
+  <!-- EN: cut minor gem of conservation -->
+  <CutMinorMPCostGem.jobString>taille la gemme mineure de préservation.</CutMinorMPCostGem.jobString>
+  
+  <!-- EN: minor gem of holding -->
+  <CutMinorMPGem.label>gemme magique mineure de réserve</CutMinorMPGem.label>
+  <!-- EN: Cut and refine raw magicyte into an enchanting gem able to maintain reserves of mana. -->
+  <CutMinorMPGem.description>Tailler et raffiner la magicite en une gemme enchantée capable de contenir des réserves de mana.</CutMinorMPGem.description>
+  <!-- EN: cut minor gem of holding -->
+  <CutMinorMPGem.jobString>taille la gemme mineure de réserve.</CutMinorMPGem.jobString>
+  
+  <!-- EN: minor gem of regeneration -->
+  <CutMinorMPRegenRateGem.label>gemme magique mineure de régénération</CutMinorMPRegenRateGem.label>
+  <!-- EN: Cut and refine raw magicyte into an enchanting gem able to increase the rate mana is gained. -->
+  <CutMinorMPRegenRateGem.description>Tailler et raffiner la magicite en une gemme enchantée capable d'augmenter le taux de gain de mana.</CutMinorMPRegenRateGem.description>
+  <!-- EN: cut minor gem of regeneration -->
+  <CutMinorMPRegenRateGem.jobString>taille la gemme mineure de régénération.</CutMinorMPRegenRateGem.jobString>
+  
+  <!-- EN: minor gem of learning -->
+  <CutMinorXPGainGem.label>gemme magique mineure d'apprentissage</CutMinorXPGainGem.label>
+  <!-- EN: Cut and refine raw magicyte into an enchanting gem able to increase experience gained when using abilities. -->
+  <CutMinorXPGainGem.description>Tailler et raffiner la magicite en une gemme enchantée capable d'augmenter l'expérience acquise lors de l'utilisation de capacités.</CutMinorXPGainGem.description>
+  <!-- EN: cut minor gem of learning -->
+  <CutMinorXPGainGem.jobString>taille la gemme mineure d'apprentissage</CutMinorXPGainGem.jobString>
+  
+  <!-- EN: gem of conservation -->
+  <CutMPCostGem.label>gemme magique de préservation</CutMPCostGem.label>
+  <!-- EN: Cut and refine magicyte into an enchanting gem able to reduce the amount of mana required to use an ability. -->
+  <CutMPCostGem.description>Tailler et raffiner la magicite en une gemme enchantée capable de réduire la quantité de mana nécessaire pour utiliser une capacité.</CutMPCostGem.description>
+  <!-- EN: cut gem of conservation -->
+  <CutMPCostGem.jobString>taille la gemme de préservation.</CutMPCostGem.jobString>
+  
+  <!-- EN: gem of holding -->
+  <CutMPGem.label>gemme magique de réserve</CutMPGem.label>
+  <!-- EN: Cut and refine magicyte into an enchanting gem able to maintain reserves of mana. -->
+  <CutMPGem.description>Tailler et raffiner la magicite en une gemme enchantée capable de contenir des réserves de mana.</CutMPGem.description>
+  <!-- EN: cut gem of holding -->
+  <CutMPGem.jobString>taille la gemme de réserve.</CutMPGem.jobString>
+  
+  <!-- EN: gem of regeneration -->
+  <CutMPRegenRateGem.label>gemme magique de régénération</CutMPRegenRateGem.label>
+  <!-- EN: Cut and refine magicyte into an enchanting gem able to increase the rate mana is gained. -->
+  <CutMPRegenRateGem.description>Tailler et raffiner la magicite en une gemme enchantée capable d'augmenter le taux de gain de mana.</CutMPRegenRateGem.description>
+  <!-- EN: cut gem of regeneration -->
+  <CutMPRegenRateGem.jobString>taille la gemme de régénération.</CutMPRegenRateGem.jobString>
+  
+  <!-- EN: gem of learning -->
+  <CutXPGainGem.label>gemme magique d'apprentissage</CutXPGainGem.label>
+  <!-- EN: Cut and refine magicyte into an enchanting gem able to increase experience gained when using abilities. -->
+  <CutXPGainGem.description>Tailler et raffiner la magicite en une gemme enchantée capable d'augmenter l'expérience acquise lors de l'utilisation de capacités.</CutXPGainGem.description>
+  <!-- EN: cut gem of learning -->
+  <CutXPGainGem.jobString>taille la gemme d'apprentissage.</CutXPGainGem.jobString>
+  
+  <!-- EN: mana potion -->
+  <ManaPotion_Refined.label>fabriquer une potion de mana</ManaPotion_Refined.label>
+  <!-- EN: Herbs are mixed with magicyte powder to produce 2 mana potions. -->
+  <ManaPotion_Refined.description>Les herbes sont mélangées à de la poudre de magicite pour produire 2 potions de mana.</ManaPotion_Refined.description>
+  <!-- EN: processing mana potion -->
+  <ManaPotion_Refined.jobString>prépare des potions de mana.</ManaPotion_Refined.jobString>
+  
+</LanguageData>

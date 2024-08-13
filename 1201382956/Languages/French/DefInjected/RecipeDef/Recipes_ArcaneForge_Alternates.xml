@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Infuse chunk -->
+  <ArcaneForge_ChunkToMagicyte.label>infuser des gravats</ArcaneForge_ChunkToMagicyte.label>
+  <!-- EN: Infuses stone chunks with mana to create magicyte -->
+  <ArcaneForge_ChunkToMagicyte.description>Infuse des gravats de pierre avec du mana pour créer de la magicite.</ArcaneForge_ChunkToMagicyte.description>
+  <!-- EN: Infusing chunk with mana. -->
+  <ArcaneForge_ChunkToMagicyte.jobString>infuse les gravats avec du mana.</ArcaneForge_ChunkToMagicyte.jobString>
+  
+  <!-- EN: elephant bow -->
+  <ArcaneForge_ElephantBow.label>fabriquer un arc d'éléphant</ArcaneForge_ElephantBow.label>
+  <!-- EN: A bow shaped from elephant tusks. The tusks are hallowed out to decrease rigidity and reduce weight and softened by soaking it in a magicyte compound that increases suppleness. The elephant bow offers significant improvements in range and accuracy for distant targets over the greatbow, though it is slightly more difficult to handle.\n	\nThe elephant bow is engraved with minor enchantments and is a preferred weapon by many experienced rangers and hunters.\n\nThis weapon is enchanted and provides additional benefits to trained mages and fighters:\nMax Energy: +5%\nEnergy Regen: +5%\nDamage Boost: +10%\nAbility Cooldown: -10% -->
+  <ArcaneForge_ElephantBow.description>Un arc façonné à partir de défenses d'éléphant. Les défenses sont évidées pour diminuer la rigidité et réduire le poids, et adoucies en les trempant dans un composé de magicite qui augmente la souplesse. L'arc d'éléphant offre des améliorations significatives en termes de portée et de précision pour les cibles éloignées par rapport au grand arc, bien qu'il soit légèrement plus difficile à manier.\n\nL'arc d'éléphant est gravé d'enchantements mineurs et elle est l'arme préférée de nombreux rôdeurs et chasseurs expérimentés.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +5%\nRégénération d'énergie : +5%\nAugmente les dégâts : +10%\nTemps de recharge : -10%</ArcaneForge_ElephantBow.description>
+  <!-- EN: forging elephant bow -->
+  <ArcaneForge_ElephantBow.jobString>forge l'arc d'éléphant.</ArcaneForge_ElephantBow.jobString>
+  
+  <!-- EN: elephant spear -->
+  <ArcaneForge_ElephantSpear.label>fabriquer une lance d'éléphant</ArcaneForge_ElephantSpear.label>
+  <!-- EN: The elephant spear is crafted using the tusks of an elephant, and is typically a status symbol reserved for head hunters or leaders of a tribe. The shaft is engraved with minor enchantments, further boosting the combat abilities of the user.\n		\nThis weapon is enchanted and provides additional benefits to trained mages and fighters:\nMax Energy: +10%\nDamage Boost: +10%\nArcane Resistance: +20% -->
+  <ArcaneForge_ElephantSpear.description>La lance d'éléphant est fabriquée à partir des défenses d'un éléphant et elle est généralement un symbole de statut réservé aux chasseurs de têtes ou aux chefs de tribu. Le manche est gravé d'enchantements mineurs qui renforcent les capacités de combat de l'utilisateur.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +10%\nAugmente les dégâts : +10%\nRésistance magique : +20%</ArcaneForge_ElephantSpear.description>
+  <!-- EN: forging Elephant Spear -->
+  <ArcaneForge_ElephantSpear.jobString>forge la lance d'éléphant.</ArcaneForge_ElephantSpear.jobString>
+  
+  <!-- EN: Forge replication -->
+  <ArcaneForge_Replication.label>forger une réplication</ArcaneForge_Replication.label>
+  <!-- EN: Storage data for details and designs of replicated objects. -->
+  <ArcaneForge_Replication.description>Données de stockage pour les détails et les conceptions des objets répliqués.</ArcaneForge_Replication.description>
+  <!-- EN: replicating -->
+  <ArcaneForge_Replication.jobString>réplique l'objet.</ArcaneForge_Replication.jobString>
+  
+  <!-- EN: Forge replication -->
+  <ArcaneForge_Replication_Restore.label>forger une réplication</ArcaneForge_Replication_Restore.label>
+  <!-- EN: Storage data for details and designs of replicated objects. -->
+  <ArcaneForge_Replication_Restore.description>Données de stockage pour les détails et les conceptions des objets répliqués.</ArcaneForge_Replication_Restore.description>
+  <!-- EN: replicating -->
+  <ArcaneForge_Replication_Restore.jobString>réplique l'objet.</ArcaneForge_Replication_Restore.jobString>
+  
+  <!-- EN: thrumbo axe -->
+  <ArcaneForge_ThrumboAxe.label>fabriquer une hache de thrumbo</ArcaneForge_ThrumboAxe.label>
+  <!-- EN: An axe crafted using thrumbo horns that are fused together with a clasp made from magicyte. This clasp stores arcane potential and transfers it as physical force when the axe is swung, allowing it to deliver mighty blows capable of cleaving through multiple opponents. The shaft is also etched with magical runes to augment the wielder's power.\n		\nThis weapon is enchanted and provides additional benefits to trained mages and fighters:\nMax Energy: +10%\nDamage Boost: +20%\nArcane Resistance: +30% -->
+  <ArcaneForge_ThrumboAxe.description>Une hache fabriquée à partir de cornes de thrumbo qui sont fusionnées avec une attache faite de magicite. Ce fermoir stocke le potentiel magique et le transfère sous forme de force physique lorsque la hache est balancée, ce qui lui permet de porter des coups puissants capables de frapper plusieurs adversaires. Le manche est également gravé de runes magiques qui augmentent la puissance du manieur.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +10%\nAugmente les dégâts : +20%\nRésistance magique : +30%\nFrappes enchaînées</ArcaneForge_ThrumboAxe.description>
+  <!-- EN: forging Thrumbo Axe -->
+  <ArcaneForge_ThrumboAxe.jobString>forge la hache de thrumbo.</ArcaneForge_ThrumboAxe.jobString>
+  
+  <!-- EN: thrumbo saber -->
+  <ArcaneForge_ThrumboSaber.label>fabriquer un sabre de thrumbo</ArcaneForge_ThrumboSaber.label>
+  <!-- EN: A razor sharp blade forged from the horn of a thrumbo and infused with arcane energy. The thrumbo saber is lighter than metal blades and it's edge can cut through all but the thickest armor. Many masters of the blade favor this weapon as it is designed for speed and lethality. Further enchantments may also quicken the users, doubling their attack rate for a short period.\n		\nThis weapon is enchanted and provides additional benefits to trained mages and fighters:\nAbility Cooldown: -10%\nDamage Boost: +10%\nHaste on hit (25%) -->
+  <ArcaneForge_ThrumboSaber.description>Une lame tranchante comme un rasoir, forgée à partir de la corne d'un thrumbo et imprégnée d'énergie magique. Le sabre thrumbo est plus léger que les lames métalliques et son tranchant peut traverser toutes les armures, sauf les plus épaisses. De nombreux maîtres de lames préfèrent cette arme car elle est conçue pour la vitesse et la létalité. D'autres enchantements peuvent également accélérer l'utilisateur, doublant sa vitesse d'attaque pendant une courte période.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nTemps de recharge : -10%\nAugmente les dégâts : +10%\nHâte si touché (25%)</ArcaneForge_ThrumboSaber.description>
+  <!-- EN: forging Thrumbo Saber -->
+  <ArcaneForge_ThrumboSaber.jobString>forge le sabre de thrumbo.</ArcaneForge_ThrumboSaber.jobString>
+  
+  <!-- EN: Thrum Bow -->
+  <ArcaneForge_ThrumBow.label>fabriquer un arc de thrumbo</ArcaneForge_ThrumBow.label>
+  <!-- EN: A bow shaped from the horn of a Thrumbo. The horn is hallowed out to decrease the weight and softened by soaking it in a magicyte compound that adds a surprising suppleness to the horn. The bow is further enhanced with embedded enchantments and arcane engravings that travel the length of the bow. The bow is said to be almost sentient, able to determine the intended target through a mental link with the wielder. Arrows fired from this bow almost always hit their intended target. This effect does have a tendency to delude the users own capability, however.\n\nThis weapon is enchanted and provides additional benefits to trained mages and fighters:\nMax Energy: +20%\nEnergy Regen: +10%\nDamage Boost: +20%\nAbility Cooldown: -10%\nClass XP Gain: -20% -->
+  <ArcaneForge_ThrumBow.description>Un arc façonné à partir de la corne d'un thrumbo. La corne est évidée pour en diminuer le poids et adoucie en la trempant dans un composé magicite qui lui confère une souplesse surprenante. L'arc est encore amélioré par des enchantements intégrés et des gravures magiques qui parcourent toute la longueur de l'arc. On dit de l'arc qu'il est presque sensible, capable de déterminer la cible visée grâce à un lien mental avec celui qui le manie. Les flèches tirées par cet arc atteignent presque toujours leur cible. Cet effet a cependant tendance à tromper les capacités de l'utilisateur.\n\nCette arme est enchantée et offre des avantages supplémentaires aux mages et aux combattants entraînés :\nÉnergie maximum : +20%\nRégénération d'énergie : +10%\nAugmente les dégâts : +20%\nTemps de recharge : -10%\nGain d'XP de classe : -20</ArcaneForge_ThrumBow.description>
+  <!-- EN: forging Thrum Bow -->
+  <ArcaneForge_ThrumBow.jobString>forge l'arc de thrumbo.</ArcaneForge_ThrumBow.jobString>
+  
+</LanguageData>

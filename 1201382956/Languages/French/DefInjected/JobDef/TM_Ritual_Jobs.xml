@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Guiding TargetA on their arcane path. -->
+  <TM_BestowClass.reportString>guide TargetA sur son chemin de la magie.</TM_BestowClass.reportString>
+  
+  <!-- EN: Bestow the gift of magic on TargetA. -->
+  <TM_BestowMagic.reportString>accorde le don de la magie à TargetA.</TM_BestowMagic.reportString>
+  
+  <!-- EN: Severing TargetA from magic. -->
+  <TM_SeverMagic.reportString>sépare TargetA à la magie.</TM_SeverMagic.reportString>
+  
+</LanguageData>

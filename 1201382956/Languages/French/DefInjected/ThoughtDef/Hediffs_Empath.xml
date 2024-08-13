@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Emotional baggage -->
+  <TM_EmotionalWeightTD.stages.Emotional_baggage.label>bagage émotionnel</TM_EmotionalWeightTD.stages.Emotional_baggage.label>
+  <!-- EN: Bearing the weight of everyone's emotions. -->
+  <TM_EmotionalWeightTD.stages.Emotional_baggage.description>Porter le poids des émotions de chacun.</TM_EmotionalWeightTD.stages.Emotional_baggage.description>
+  
+  <!-- EN: negative vibes -->
+  <TM_NegativeEmpathyTD.stages.negative_vibes.label>ondes négatives</TM_NegativeEmpathyTD.stages.negative_vibes.label>
+  <!-- EN: Emotions gained through empathy. -->
+  <TM_NegativeEmpathyTD.stages.negative_vibes.description>Émotions acquises par l'empathie.</TM_NegativeEmpathyTD.stages.negative_vibes.description>
+  
+  <!-- EN: out of body -->
+  <TM_OutOfBodyThought.stages.out_of_body.label>hors du corps</TM_OutOfBodyThought.stages.out_of_body.label>
+  <!-- EN: Emotional energy is being used to augment another pawn. -->
+  <TM_OutOfBodyThought.stages.out_of_body.description>L'énergie émotionnelle est utilisée pour renforcer un autre colon.</TM_OutOfBodyThought.stages.out_of_body.description>
+  
+  <!-- EN: positive vibes -->
+  <TM_PositiveEmpathyTD.stages.positive_vibes.label>ondes positives</TM_PositiveEmpathyTD.stages.positive_vibes.label>
+  <!-- EN: Emotions gained through empathy. -->
+  <TM_PositiveEmpathyTD.stages.positive_vibes.description>Émotions acquises par l'empathie.</TM_PositiveEmpathyTD.stages.positive_vibes.description>
+  
+  <!-- EN: Emotion thief -->
+  <TM_SuppressiveAuraTD.stages.Emotion_thief.label>voleur d'émotions</TM_SuppressiveAuraTD.stages.Emotion_thief.label>
+  <!-- EN: I have a deep sense of sadness and loss when depriving others of their ability to feel. -->
+  <TM_SuppressiveAuraTD.stages.Emotion_thief.description>J'éprouve un profond sentiment de tristesse et de regret lorsque je prive les autres de leur capacité à ressentir.</TM_SuppressiveAuraTD.stages.Emotion_thief.description>
+  
+  <!-- EN: symbiosis -->
+  <TM_SymbiosisThought.stages.symbiosis.label>symbiose</TM_SymbiosisThought.stages.symbiosis.label>
+  <!-- EN: Emotional fortitude provided by a symbiotic connection with an empath. -->
+  <TM_SymbiosisThought.stages.symbiosis.description>Force émotionnelle fournie par une connexion symbiotique avec un empathe.</TM_SymbiosisThought.stages.symbiosis.description>
+  
+</LanguageData>

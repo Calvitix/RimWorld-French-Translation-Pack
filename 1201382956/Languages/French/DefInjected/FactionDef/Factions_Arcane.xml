@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arcane fold -->
+  <Seers.label>bercail magique</Seers.label>
+  <!-- EN: Little is known about this secretive faction.  They possess some technology, but do not seem to dependent on it. They work simple tools and defend themselves with firearms.\n\nThey participate in the the practical matters of trade, trust, and survival, but their primary interest is unclear.\n\nAccording to traveler tales and information gathered from other factions, they have knowledge, and use, of mysterious powers and artifacts. -->
+  <Seers.description>On sait peu de choses sur cette faction mystérieuse. Ils possèdent une certaine technologie, mais ne semblent pas en dépendre. Ils travaillent avec des outils simples et se défendent avec des armes à feu.\n\nIls sont impliqués dans les activités du commerce, de confiance et de survie, mais leur intérêt principal n'est pas clair.\n\nD'après les récits des voyageurs et les informations recueillies auprès d'autres factions, ils connaissent et utilisent de mystérieux pouvoirs et artefacts.</Seers.description>
+  <!-- EN: Mage King -->
+  <Seers.leaderTitle>archimage</Seers.leaderTitle>
+  <!-- EN: seer -->
+  <Seers.pawnSingular>voyant</Seers.pawnSingular>
+  <!-- EN: seers -->
+  <Seers.pawnsPlural>voyants</Seers.pawnsPlural>
+  
+</LanguageData>

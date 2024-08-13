@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bit me -->
+  <PL_BitMe.stages.bit_me.label>TODO</PL_BitMe.stages.bit_me.label>
+  <!-- EN: this fricking lunatic bit me during interrogation -->
+  <PL_BitMe.stages.bit_me.description>TODO</PL_BitMe.stages.bit_me.description>
+  
+  <!-- EN: brutal interrogation -->
+  <PL_BrutallyInterrogated.stages.brutal_interrogation.label>TODO</PL_BrutallyInterrogated.stages.brutal_interrogation.label>
+  <!-- EN: they beat me up during interrogation -->
+  <PL_BrutallyInterrogated.stages.brutal_interrogation.description>TODO</PL_BrutallyInterrogated.stages.brutal_interrogation.description>
+  
+  <!-- EN: interrogation -->
+  <PL_Interrogated.stages.interrogation.label>TODO</PL_Interrogated.stages.interrogation.label>
+  
+  <!-- EN: kind interrogation -->
+  <PL_KindInterrogation.stages.kind_interrogation.label>TODO</PL_KindInterrogation.stages.kind_interrogation.label>
+  <!-- EN: Interrogation was kind of... nice? -->
+  <PL_KindInterrogation.stages.kind_interrogation.description>TODO</PL_KindInterrogation.stages.kind_interrogation.description>
+  
+</LanguageData>

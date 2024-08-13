@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: elemental shot - fire -->
+  <Bullet_ES_Fire.label>tir élémentaire - feu</Bullet_ES_Fire.label>
+  
+  <!-- EN: elemental shot - ice -->
+  <Bullet_ES_Ice.label>tir élémentaire - glace</Bullet_ES_Ice.label>
+  
+  <!-- EN: elemental shot - lightning -->
+  <Bullet_ES_Lit.label>tir élémentaire - foudre</Bullet_ES_Lit.label>
+  
+  <!-- EN: orbital strike -->
+  <Projectile_OrbitalStrike.label>frappe orbitale</Projectile_OrbitalStrike.label>
+  
+  <!-- EN: orbital strike -->
+  <Projectile_OrbitalStrike_I.label>frappe orbitale</Projectile_OrbitalStrike_I.label>
+  
+  <!-- EN: orbital strike -->
+  <Projectile_OrbitalStrike_II.label>frappe orbitale</Projectile_OrbitalStrike_II.label>
+  
+  <!-- EN: orbital strike -->
+  <Projectile_OrbitalStrike_III.label>frappe orbitale</Projectile_OrbitalStrike_III.label>
+  
+  <!-- EN: sabotage projectile -->
+  <Projectile_Sabotage.label>sabotage projectile</Projectile_Sabotage.label>
+  
+  <!-- EN: Mark-IV projectile -->
+  <Projectile_TechnoTurret.label>Mark-IV projectile</Projectile_TechnoTurret.label>
+  
+  <!-- EN: tech micro laser -->
+  <Projectile_TM_BitTechLaser.label>micro laser</Projectile_TM_BitTechLaser.label>
+  
+  <!-- EN: mini frag grenade -->
+  <Projectile_TMEMPGrenade.label>mini grenade frag</Projectile_TMEMPGrenade.label>
+  
+  <!-- EN: mini frag grenade -->
+  <Projectile_TMFragGrenade.label>mini grenade frag</Projectile_TMFragGrenade.label>
+  
+  <!-- EN: techno weapon -->
+  <TM_TechnoWeapon_Base0.label>arme techno</TM_TechnoWeapon_Base0.label>
+  <!-- EN: A weapon modified by a technomancer -->
+  <TM_TechnoWeapon_Base0.description>Une arme modifiée par un technomancien.</TM_TechnoWeapon_Base0.description>
+  <!-- EN: weapon smash -->
+  <TM_TechnoWeapon_Base0.tools.weapon_smash.label>choc d'arme</TM_TechnoWeapon_Base0.tools.weapon_smash.label>
+  <!-- EN: techno weapon -->
+  <TM_TechnoWeapon_Base0.verbs.Verb_Shoot.label>arme techno</TM_TechnoWeapon_Base0.verbs.Verb_Shoot.label>
+  
+  <!-- EN: techno weapon -->
+  <TM_TechnoWeapon_Base1.label>arme techno</TM_TechnoWeapon_Base1.label>
+  <!-- EN: A weapon modified by a technomancer -->
+  <TM_TechnoWeapon_Base1.description>Une arme modifiée par un technomancien.</TM_TechnoWeapon_Base1.description>
+  <!-- EN: weapon smash -->
+  <TM_TechnoWeapon_Base1.tools.weapon_smash.label>choc d'arme</TM_TechnoWeapon_Base1.tools.weapon_smash.label>
+  <!-- EN: techno weapon -->
+  <TM_TechnoWeapon_Base1.verbs.Verb_Shoot.label>arme techno</TM_TechnoWeapon_Base1.verbs.Verb_Shoot.label>
+  
+  <!-- EN: techno weapon -->
+  <TM_TechnoWeapon_Base2.label>arme techno</TM_TechnoWeapon_Base2.label>
+  <!-- EN: A weapon modified by a technomancer -->
+  <TM_TechnoWeapon_Base2.description>Une arme modifiée par un technomancien.</TM_TechnoWeapon_Base2.description>
+  <!-- EN: weapon smash -->
+  <TM_TechnoWeapon_Base2.tools.weapon_smash.label>choc d'arme</TM_TechnoWeapon_Base2.tools.weapon_smash.label>
+  <!-- EN: techno weapon -->
+  <TM_TechnoWeapon_Base2.verbs.Verb_Shoot.label>arme techno</TM_TechnoWeapon_Base2.verbs.Verb_Shoot.label>
+  
+  <!-- EN: techno weapon -->
+  <TM_TechnoWeapon_Base3.label>arme techno</TM_TechnoWeapon_Base3.label>
+  <!-- EN: A weapon modified by a technomancer -->
+  <TM_TechnoWeapon_Base3.description>Une arme modifiée par un technomancien.</TM_TechnoWeapon_Base3.description>
+  <!-- EN: weapon smash -->
+  <TM_TechnoWeapon_Base3.tools.weapon_smash.label>choc d'arme</TM_TechnoWeapon_Base3.tools.weapon_smash.label>
+  <!-- EN: techno weapon -->
+  <TM_TechnoWeapon_Base3.verbs.Verb_Shoot.label>arme techno</TM_TechnoWeapon_Base3.verbs.Verb_Shoot.label>
+  
+  <!-- EN: techno weapon -->
+  <TM_TechnoWeapon_Base4.label>arme techno</TM_TechnoWeapon_Base4.label>
+  <!-- EN: A weapon modified by a technomancer -->
+  <TM_TechnoWeapon_Base4.description>Une arme modifiée par un technomancien.</TM_TechnoWeapon_Base4.description>
+  <!-- EN: weapon smash -->
+  <TM_TechnoWeapon_Base4.tools.weapon_smash.label>choc d'arme</TM_TechnoWeapon_Base4.tools.weapon_smash.label>
+  <!-- EN: techno weapon -->
+  <TM_TechnoWeapon_Base4.verbs.Verb_Shoot.label>arme techno</TM_TechnoWeapon_Base4.verbs.Verb_Shoot.label>
+  
+  <!-- EN: techno weapon -->
+  <TM_TechnoWeapon_Base5.label>arme techno</TM_TechnoWeapon_Base5.label>
+  <!-- EN: A weapon modified by a technomancer -->
+  <TM_TechnoWeapon_Base5.description>Une arme modifiée par un technomancien.</TM_TechnoWeapon_Base5.description>
+  <!-- EN: weapon smash -->
+  <TM_TechnoWeapon_Base5.tools.weapon_smash.label>choc d'arme</TM_TechnoWeapon_Base5.tools.weapon_smash.label>
+  <!-- EN: techno weapon -->
+  <TM_TechnoWeapon_Base5.verbs.Verb_Shoot.label>arme techno</TM_TechnoWeapon_Base5.verbs.Verb_Shoot.label>
+  
+  <!-- EN: techno weapon -->
+  <TM_TechnoWeapon_Base6.label>arme techno</TM_TechnoWeapon_Base6.label>
+  <!-- EN: A weapon modified by a technomancer -->
+  <TM_TechnoWeapon_Base6.description>Une arme modifiée par un technomancien.</TM_TechnoWeapon_Base6.description>
+  <!-- EN: weapon smash -->
+  <TM_TechnoWeapon_Base6.tools.weapon_smash.label>choc d'arme</TM_TechnoWeapon_Base6.tools.weapon_smash.label>
+  <!-- EN: techno weapon -->
+  <TM_TechnoWeapon_Base6.verbs.Verb_Shoot.label>arme techno</TM_TechnoWeapon_Base6.verbs.Verb_Shoot.label>
+  
+  <!-- EN: techno weapon -->
+  <TM_TechnoWeapon_Base7.label>arme techno</TM_TechnoWeapon_Base7.label>
+  <!-- EN: A weapon modified by a technomancer -->
+  <TM_TechnoWeapon_Base7.description>Une arme modifiée par un technomancien.</TM_TechnoWeapon_Base7.description>
+  <!-- EN: weapon smash -->
+  <TM_TechnoWeapon_Base7.tools.weapon_smash.label>choc d'arme</TM_TechnoWeapon_Base7.tools.weapon_smash.label>
+  <!-- EN: techno weapon -->
+  <TM_TechnoWeapon_Base7.verbs.Verb_Shoot.label>arme techno</TM_TechnoWeapon_Base7.verbs.Verb_Shoot.label>
+  
+  <!-- EN: techno weapon -->
+  <TM_TechnoWeapon_Base8.label>arme techno</TM_TechnoWeapon_Base8.label>
+  <!-- EN: A weapon modified by a technomancer -->
+  <TM_TechnoWeapon_Base8.description>Une arme modifiée par un technomancien.</TM_TechnoWeapon_Base8.description>
+  <!-- EN: weapon smash -->
+  <TM_TechnoWeapon_Base8.tools.weapon_smash.label>choc d'arme</TM_TechnoWeapon_Base8.tools.weapon_smash.label>
+  <!-- EN: techno weapon -->
+  <TM_TechnoWeapon_Base8.verbs.Verb_Shoot.label>arme techno</TM_TechnoWeapon_Base8.verbs.Verb_Shoot.label>
+  
+  <!-- EN: techno weapon -->
+  <TM_TechnoWeapon_Base9.label>arme techno</TM_TechnoWeapon_Base9.label>
+  <!-- EN: A weapon modified by a technomancer -->
+  <TM_TechnoWeapon_Base9.description>Une arme modifiée par un technomancien.</TM_TechnoWeapon_Base9.description>
+  <!-- EN: weapon smash -->
+  <TM_TechnoWeapon_Base9.tools.weapon_smash.label>choc d'arme</TM_TechnoWeapon_Base9.tools.weapon_smash.label>
+  <!-- EN: techno weapon -->
+  <TM_TechnoWeapon_Base9.verbs.Verb_Shoot.label>arme techno</TM_TechnoWeapon_Base9.verbs.Verb_Shoot.label>
+  
+</LanguageData>

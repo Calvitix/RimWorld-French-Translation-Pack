@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Growing by prisoners -->
+  <PrisonLabor_Growing.label>Cultiver via les prisonniers</PrisonLabor_Growing.label>
+  <!-- EN: Prisoners can only grow plants that don't require any special skills like potato or cotton. They can however gather any plant that is ordered to harvest. -->
+  <PrisonLabor_Growing.helpText>Les prisonniers peuvent seulement cultiver des plantes qui ne requièrent aucune compétence particulière, comme les patates ou le coton. Ils peuvent en revanche récolter tout type de plante qui est sous ordre de récolte.</PrisonLabor_Growing.helpText>
+  
+  <!-- EN: Prison labor -->
+  <PrisonLabor_Indroduction.label>Prison labor (Travail de prison)</PrisonLabor_Indroduction.label>
+  <!-- EN: You can force your prisoners to do labor.\n\nTo do so you must select "Force to work" option from "Prisoner" pane\n\nPrisoners will work on orders and bills that are in allowed area. Make sure prisoners can reach their work.\n\nThey can only cook, mine, cut plants, haul, clean, or grow plants, that do not require special skills.\n\nPrisoner sometimes refuses to work. Reasons can be different. He can be injured, hungry, tired, or not motivated enough.\n\nHINT: You can assign work types in "Work" pane.\n\nHINT: If you put a stove in a prison cell make sure they can reach raw food.\n\nHINT: You can let prioners moving through doors by leaving them open. -->
+  <PrisonLabor_Indroduction.helpText>Vous pouvez forcer les prisonniers à travailler.\n\nPour se faire, vous devez sélectionner l’option « Forcer à travailler » dans l’onglet « Prisonnier »\n\nLes prisonniers travailleront dans les zones autorisées.  Vérifiez que les prisonniers peuvent atteindre leur travail.\n\nIls peuvent uniquement cuisiner, miner, couper des plantes, transporter, nettoyer ou cultiver des plantes.\n\nLes prisonniers refuseront parfois de travailler. Les raisons peuvent êtres différentes. Ils peuvent être blessés, fatigués, pas assez motivés ou avoir faim.\n\nASTUCE: Vous pouvez assigner le travail depuis l’onglet « Travail ».\n\nASTUCE: Si vous mettez une cuisinière dans leur cellule, vérifiez qu’ils peuvent atteindre les ingrédients.\n\nASTUCE: Vous pouvez permettre aux prisonniers de passer les portes en les laissant ouvertes</PrisonLabor_Indroduction.helpText>
+  
+  <!-- EN: Prison labor management -->
+  <PrisonLabor_Management.label>Gestion du travail de prison</PrisonLabor_Management.label>
+  <!-- EN: You can manage your prison labor in several ways.\n\nYou can assign work types to prisoners by accessing "Work" tab.\n\nYou can restrict when prisoners should work, rest, or sleep by accessing "Restrict" tab.\n\nYou can restrict work to "Prisoners only". For work orders that covers area you can choose "Labor area" tool from "Architect"->"Orders" panel.\nFor bills there is an option "Prisoners only". -->
+  <PrisonLabor_Management.helpText>Vous pouvez gérer vos travaux de prison de différente manières.\n\nVous pouvez assigner du travail aux prisonniers depuis l’onglet « Travail ».\n\nVous pouvez configurer quand le prisonnier devra travailler, se reposer ou dormir depuis l’onglet « Restriction ».\n\nVous pouvez restreindre un travail en « Prisonniers seulement ».Pour les travaux qui couvrent une zone, vous pouvez créer une « Zone de travail » dans l’onglet « Architect → Ordres ».\nPour les ordres il y a l’option « Prisonniers seulement ».</PrisonLabor_Management.helpText>
+  
+  <!-- EN: Motivating prisoners -->
+  <PrisonLabor_Motivation.label>Motivation des prisonniers</PrisonLabor_Motivation.label>
+  <!-- EN: One of yours prisoners stopped working.\nHe won't work any longer, unless he gets motivated.\n\nYou can check status of motivation in "Needs" tab.\n\nMake sure you have enough wardens (check "Work" tab), or draft one of your colonist and order him to stand around your prisoners.\n\nLow motivation of prisoners can lead to revolts. -->
+  <PrisonLabor_Motivation.helpText>Un de vos prisonniers a cessé de travailler.\nIl ne travaillera pas davantage, à moins qu’on ne le motive.\n\nVous pouvez vérifier la motivation dans l’onglet « Besoins ».\n\nVérifiez que vous avez assez de gardiens (vérifiez l’onglet « Travail »), ou mobilisez un de vos colons et ordonnez lui de rester près des prisonniers.\n\nUne motivation basse peut mener à des révoltes.</PrisonLabor_Motivation.helpText>
+  
+  <!-- EN: Prisoners time restrictions -->
+  <PrisonLabor_Timetable.label>Restriction du temps des prisonniers</PrisonLabor_Timetable.label>
+  <!-- EN: You can make time restrictions for prisoners.\n\n"Work" time will force them to work even when they're hungry or tired.\n\n"Joy" time will let them rest from job and get motivation bonus.\n\n"Sleep" time will force them to stay in prison cell.\n\n"Anything" is default setting. -->
+  <PrisonLabor_Timetable.helpText>Vous pouvez créer des restrictions pour les prisonniers.\n\nLe temps de "Travail" forcera les prisonniers à travailler, même si ils ont faim ou sont fatigués.\n\nLe temps de "Loisir"leur permettra de se reposer de leur travail et de gagner un bonus de motivation.\n\nLe temps pour "Dormir" les forcera à rester dans leur cellule.\n\n"Temps Libre" est l’option par défaut.</PrisonLabor_Timetable.helpText>
+  
+  <!-- EN: Treatment system -->
+  <PrisonLabor_Treatment.label>TODO</PrisonLabor_Treatment.label>
+  <!-- EN: In prison labor you need to take care for prisoners. Good treatment can prevent revolts, and can provoke recruit proposition (without recruting process!).\n\nTo maintain good treatment status you need to feed prisoners regularly and set some free time so they can regenerate their strength\n\nTreatment will go lower if you beat prisoners, starve them, or exploit in terms of labor.\nGood treatment will result in:\n - Random offers with request to join colony\n - Preventing revolts\n - Preventing suicide -->
+  <PrisonLabor_Treatment.helpText>TODO</PrisonLabor_Treatment.helpText>
+  
+</LanguageData>

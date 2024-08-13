@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: inspired magic class -->
+  <TM_BestowClassEvent.label>classe magique inspirée</TM_BestowClassEvent.label>
+  
+  <!-- EN: granted the gift of magic -->
+  <TM_BestowMagicEvent.label>accorder le don de la magie</TM_BestowMagicEvent.label>
+  
+  <!-- EN: killed a fighter -->
+  <TM_KilledFighter.label>tué un combattant</TM_KilledFighter.label>
+  
+  <!-- EN: killed someone -->
+  <TM_KilledHumanlike.label>tué quelqu'un</TM_KilledHumanlike.label>
+  
+  <!-- EN: killed a mage -->
+  <TM_KilledMage.label>tué un mage</TM_KilledMage.label>
+  
+  <!-- EN: offensive or vulgar use of magic -->
+  <TM_OffensiveMagic.label>utilisation offensive ou grossière de la magie</TM_OffensiveMagic.label>
+  
+  <!-- EN: severed a mage from magic -->
+  <TM_SeverMagicEvent.label>séparé un mage de la magie</TM_SeverMagicEvent.label>
+  
+  <!-- EN: used a magic ability -->
+  <TM_UsedMagic.label>utilisé une capacité magique</TM_UsedMagic.label>
+  
+  <!-- EN: used a combat ability -->
+  <TM_UsedManeuver.label>utilisé une capacité de combat</TM_UsedManeuver.label>
+  
+</LanguageData>

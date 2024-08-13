@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mana surge -->
+  <ManaPotionHigh.stages.mana_surge.label>éruption de mana</ManaPotionHigh.stages.mana_surge.label>
+  <!-- EN: This power... it's overwhelming. I feel the power of the cosmos at my fingertips, but it's turning my bones to ash. -->
+  <ManaPotionHigh.stages.mana_surge.description>Ce pouvoir... c'est accablant. Je sens la puissance du cosmos au bout de mes doigts, mais ça réduit mes os en cendres.</ManaPotionHigh.stages.mana_surge.description>
+  
+  <!-- EN: mana withdrawal -->
+  <ManaPotionWithdrawal.stages.mana_withdrawal.label>retrait du mana</ManaPotionWithdrawal.stages.mana_withdrawal.label>
+  <!-- EN: Ugh... everything is a blur. I can't seem to focus or control my body, I feel separated from reality. I need to feel mana flowing into my soul. -->
+  <ManaPotionWithdrawal.stages.mana_withdrawal.description>Ugh... tout est flou. Je n'arrive pas à me concentrer ou à contrôler mon corps, je me sens séparé de la réalité. J'ai besoin de sentir le mana couler dans mon âme.</ManaPotionWithdrawal.stages.mana_withdrawal.description>
+  
+</LanguageData>

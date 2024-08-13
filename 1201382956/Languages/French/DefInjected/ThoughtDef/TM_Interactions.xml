@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: social entertainment -->
+  <TM_EntertainedAuraTD.stages.social_entertainment.label>divertissement social</TM_EntertainedAuraTD.stages.social_entertainment.label>
+  <!-- EN: I had a really fun time talking with others. -->
+  <TM_EntertainedAuraTD.stages.social_entertainment.description>J'ai eu beaucoup de plaisir à parler avec les autres.</TM_EntertainedAuraTD.stages.social_entertainment.description>
+  
+  <!-- EN: entertained -->
+  <TM_EntertainedTD.stages.entertained.label>diverti</TM_EntertainedTD.stages.entertained.label>
+  <!-- EN: This place isn't so bad; there are people here that make me forget about my worries and laugh a little. -->
+  <TM_EntertainedTD.stages.entertained.description>Cet endroit n'est pas si mal ; il y a des gens ici qui me font oublier mes soucis et qui me font rire un peu.</TM_EntertainedTD.stages.entertained.description>
+  
+  <!-- EN: social interaction -->
+  <TM_EntertainerAuraTD.stages.social_interaction.label>interaction sociale</TM_EntertainerAuraTD.stages.social_interaction.label>
+  <!-- EN: I really like interacting with the people around here, it makes me happy to bring a little joy to others. -->
+  <TM_EntertainerAuraTD.stages.social_interaction.description>J'aime vraiment interagir avec les gens d'ici, cela me rend heureux d'apporter un peu de joie aux autres.</TM_EntertainerAuraTD.stages.social_interaction.description>
+  
+  <!-- EN: gained arcane knowledge -->
+  <TM_MagicLoreTD.stages.gained_arcane_knowledge.label>a acquis une connaissance de magie</TM_MagicLoreTD.stages.gained_arcane_knowledge.label>
+  <!-- EN: I've been enlightened by words from a powerful mage, now I just have to apply this knowledge... -->
+  <TM_MagicLoreTD.stages.gained_arcane_knowledge.description>J'ai été éclairé par les paroles d'un puissant mage, il ne me reste plus qu'à appliquer ces connaissances...</TM_MagicLoreTD.stages.gained_arcane_knowledge.description>
+  
+  <!-- EN: gained combat experience -->
+  <TM_MightLoreTD.stages.gained_combat_experience.label>a acquis une expérience de combat</TM_MightLoreTD.stages.gained_combat_experience.label>
+  <!-- EN: A more experienced fighter has taught me how to improve my combat techniques. -->
+  <TM_MightLoreTD.stages.gained_combat_experience.description>Un combattant plus expérimenté m'a appris à améliorer mes techniques de combat.</TM_MightLoreTD.stages.gained_combat_experience.description>
+  
+</LanguageData>

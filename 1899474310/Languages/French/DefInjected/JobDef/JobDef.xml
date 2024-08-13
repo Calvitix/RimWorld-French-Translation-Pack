@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arresting TargetA. -->
+  <PrisonLabor_Arrest.reportString>TODO</PrisonLabor_Arrest.reportString>
+  
+  <!-- EN: handling handcuffs of prisoner TargetA. -->
+  <PrisonLabor_HandlePrisonersHandChain.reportString>TODO</PrisonLabor_HandlePrisonersHandChain.reportString>
+  
+  <!-- EN: handling legcuffs of prisoner TargetA. -->
+  <PrisonLabor_HandlePrisonersLegChain.reportString>TODO</PrisonLabor_HandlePrisonersLegChain.reportString>
+  
+  <!-- EN: watching prisoner TargetA. -->
+  <PrisonLabor_PrisonerSupervise.reportString>surveille le prisonnier TargetA.</PrisonLabor_PrisonerSupervise.reportString>
+  
+</LanguageData>

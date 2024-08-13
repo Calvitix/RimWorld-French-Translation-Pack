@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: trapped -->
+  <TM_NeedTravel.stages.trapped.label>piégé</TM_NeedTravel.stages.trapped.label>
+  <!-- EN: I've been stuck at this place forever. I need to get away from here and see the world! -->
+  <TM_NeedTravel.stages.trapped.description>Je suis coincé à cet endroit depuis toujours. J'ai besoin de partir d'ici et de voir le monde !</TM_NeedTravel.stages.trapped.description>
+  <!-- EN: adventuring -->
+  <TM_NeedTravel.stages.adventuring.label>l'aventure</TM_NeedTravel.stages.adventuring.label>
+  <!-- EN: Nothing beats being on the road and seeing new places. -->
+  <TM_NeedTravel.stages.adventuring.description>Rien ne vaut d'être sur la route et de voir de nouveaux endroits.</TM_NeedTravel.stages.adventuring.description>
+  
+</LanguageData>

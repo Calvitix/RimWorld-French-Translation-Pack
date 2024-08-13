@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mecha-axe -->
+  <TM_Mecha-Golem_Axe.label>forger une hache-mecha</TM_Mecha-Golem_Axe.label>
+  <!-- EN: Forges an axe and mounts it to the left arm attachment. -->
+  <TM_Mecha-Golem_Axe.description>Forger une hache et la fixer sur le bras gauche.</TM_Mecha-Golem_Axe.description>
+  <!-- EN: crafting golem part -->
+  <TM_Mecha-Golem_Axe.jobString>forge la hache-mecha sur le golem.</TM_Mecha-Golem_Axe.jobString>
+  
+  <!-- EN: ballistic plate -->
+  <TM_Mecha-Golem_BallisticPlate.label>forger une plaque balistique</TM_Mecha-Golem_BallisticPlate.label>
+  <!-- EN: Upgrades the bodyarmor of the golem with ballistic plate; incurs a movement penalty. -->
+  <TM_Mecha-Golem_BallisticPlate.description>Améliorer l'armure du golem avec une plaque balistique ; entraîne une réduction de mouvement.</TM_Mecha-Golem_BallisticPlate.description>
+  <!-- EN: crafting golem part -->
+  <TM_Mecha-Golem_BallisticPlate.jobString>forge la plaque balistique sur le golem.</TM_Mecha-Golem_BallisticPlate.jobString>
+  
+  <!-- EN: earth core processor -->
+  <TM_Mecha-Golem_EarthCore.label>fabriquer un noyau processeur de terre</TM_Mecha-Golem_EarthCore.label>
+  <!-- EN: The earth core processor provides the following benefits per upgrade level [1/2/3]:\nArmor:		+[10%/18%/25%]\nAbility Cooldown:	+[5%/10%/15%]\nHealing Bonus:	+[60%/120%/180%]\nEnergy Cost:	+[5%/10%/15%]\nProcessing: 	+[15%/30%/45%]\n\nIn addition, the earth core allows the golem the ability to shield itself from damage. -->
+  <TM_Mecha-Golem_EarthCore.description>Le noyau du processeur de terre offre les avantages suivants par niveau d'amélioration [1/2/3] :\nArmure :		+[10%/18%/25%]\nTemps de soins :	+[5%/10%/15%]\nBonus de soins :	+[60%/120%/180%]\nCoût en énergie :	+[5%/10%/15%]\nFabrication : 	+[15%/30%/45%]\n\nDe plus, le noyau de terre donne au golem la capacité de se protéger des dégâts.</TM_Mecha-Golem_EarthCore.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_Mecha-Golem_EarthCore.jobString>fabrique le noyau processeur de terre sur le golem.</TM_Mecha-Golem_EarthCore.jobString>
+  
+  <!-- EN: Earth shard base -->
+  <TM_Mecha-Golem_EarthShard.label>fabriquer une base automate éclat de terre</TM_Mecha-Golem_EarthShard.label>
+  <!-- EN: The earth shard automaton base provides the following benefits per upgrade level [1/2/3]:\nHealth:	+[40%/80%/120%] -->
+  <TM_Mecha-Golem_EarthShard.description>La base de l'automate éclat de terre offre les avantages suivants par niveau d'amélioration [1/2/3] :\nSanté :	+[40%/80%/120%]</TM_Mecha-Golem_EarthShard.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_Mecha-Golem_EarthShard.jobString>fabrique la base automate éclat de terre sur le golem.</TM_Mecha-Golem_EarthShard.jobString>
+  
+  <!-- EN: power cell -->
+  <TM_Mecha-Golem_EnergyCell.label>cellule d'alimentation</TM_Mecha-Golem_EnergyCell.label>
+  <!-- EN: Creates a power cell and installs it into a mecha-golem. -->
+  <TM_Mecha-Golem_EnergyCell.description>Créer une cellule d'énergie et l'installer dans un mecha-golem.</TM_Mecha-Golem_EnergyCell.description>
+  <!-- EN: crafting power cell -->
+  <TM_Mecha-Golem_EnergyCell.jobString>fabrique la cellule d'alimentation.</TM_Mecha-Golem_EnergyCell.jobString>
+  
+  <!-- EN: electrical neuro-core -->
+  <TM_Mecha-Golem_EnergyCharge.label>noyau neuronal électrique</TM_Mecha-Golem_EnergyCharge.label>
+  <!-- EN: Increases the energy charge rate of the golem by 10 per hour. -->
+  <TM_Mecha-Golem_EnergyCharge.description>Accélérer le taux de charge en énergie du golem de 10 par heure.</TM_Mecha-Golem_EnergyCharge.description>
+  <!-- EN: upgrading electrical neurology -->
+  <TM_Mecha-Golem_EnergyCharge.jobString>mise à niveau de la neurologie électrique</TM_Mecha-Golem_EnergyCharge.jobString>
+  
+  <!-- EN: energy converter -->
+  <TM_Mecha-Golem_EnergyConverter.label>convertisseur énergétique</TM_Mecha-Golem_EnergyConverter.label>
+  <!-- EN: Increases the efficiency of energy absorbed and used by the golem by 10%. -->
+  <TM_Mecha-Golem_EnergyConverter.description>Augmenter de 10% l'efficacité de l'énergie absorbée et utilisée par le golem.</TM_Mecha-Golem_EnergyConverter.description>
+  <!-- EN: crafting power cycler -->
+  <TM_Mecha-Golem_EnergyConverter.jobString>fabrique un convertisseur énergétique.</TM_Mecha-Golem_EnergyConverter.jobString>
+  
+  <!-- EN: extinguisher -->
+  <TM_Mecha-Golem_Extinguisher.label>fabriquer un extincteur</TM_Mecha-Golem_Extinguisher.label>
+  <!-- EN: Adds built-in steam exhaust vents that can be used to quickly disperse fires on and around the golem. -->
+  <TM_Mecha-Golem_Extinguisher.description>Intègre des évents d'évacuation de la vapeur qui peuvent être utilisés pour éteindre rapidement les incendies tout autour du golem.</TM_Mecha-Golem_Extinguisher.description>
+  <!-- EN: crafting golem part -->
+  <TM_Mecha-Golem_Extinguisher.jobString>fabrique l'extincteur sur le golem.</TM_Mecha-Golem_Extinguisher.jobString>
+  
+  <!-- EN: flame core processor -->
+  <TM_Mecha-Golem_FlameCore.label>fabriquer un noyau processeur de feu</TM_Mecha-Golem_FlameCore.label>
+  <!-- EN: The flame core processor provides the following benefits per upgrade level [1/2/3]:\nMovement:	+[0.5c/0.9c/1.2c]\nProcessing: 	+[10%/20%/30%]\nAbility Damage:	+[10%/20%/30%]\nEnergy Cost:	+[10%/20%/30%]\n\nIn addition, the flame core allows the golem the ability to attract and burn nearby filth, gaining energy in the process. -->
+  <TM_Mecha-Golem_FlameCore.description>Le noyau du processeur de feu offre les avantages suivants par niveau d'amélioration [1/2/3] :\nMouvement :	+[0,5c/0,9c/1,2c]\nFabrication : 	+[10%/20%/30%]\nDégâts capacité :	+[10%/20%/30%]\nCoût en énergie :	+[10%/20%/30%]\n\nDe plus, le noyau de feu permet au golem d'attirer et de brûler les déchets à proximité, ce qui lui permet de gagner de l'énergie.</TM_Mecha-Golem_FlameCore.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_Mecha-Golem_FlameCore.jobString>fabrique le noyau processeur de feu sur le golem.</TM_Mecha-Golem_FlameCore.jobString>
+  
+  <!-- EN: Flame shard base -->
+  <TM_Mecha-Golem_FlameShard.label>fabriquer une base automate éclat de feu</TM_Mecha-Golem_FlameShard.label>
+  <!-- EN: The flame shard automaton base provides the following benefits per upgrade level [1/2/3]:\nMovement:	+[15%/30%/40%]\nHealth:	+[15%/30%/40%] -->
+  <TM_Mecha-Golem_FlameShard.description>La base d'automate éclat de feu offre les avantages suivants par niveau d'amélioration [1/2/3] :\nMouvement :	+[15%/30%/40%]\nSanté :	+[15%/30%/40%]</TM_Mecha-Golem_FlameShard.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_Mecha-Golem_FlameShard.jobString>fabrique la base automate éclat de feu sur le golem.</TM_Mecha-Golem_FlameShard.jobString>
+  
+  <!-- EN: gatling cannon -->
+  <TM_Mecha-Golem_GatlingCannon.label>forger un canon gatling</TM_Mecha-Golem_GatlingCannon.label>
+  <!-- EN: Attaches a minigun onto the right shoulder mount of a mecha-golem. -->
+  <TM_Mecha-Golem_GatlingCannon.description>Fixer un minigun sur l'épaule droite du mecha-golem.</TM_Mecha-Golem_GatlingCannon.description>
+  <!-- EN: crafting golem part -->
+  <TM_Mecha-Golem_GatlingCannon.jobString>forge le canon gatling sur le golem.</TM_Mecha-Golem_GatlingCannon.jobString>
+  
+  <!-- EN: mecha-hammer -->
+  <TM_Mecha-Golem_Hammer.label>forger un marteau-mecha</TM_Mecha-Golem_Hammer.label>
+  <!-- EN: Forges a hammer and mounts it to the right arm attachment. -->
+  <TM_Mecha-Golem_Hammer.description>Forger un marteau et le fixer sur le bras droit.</TM_Mecha-Golem_Hammer.description>
+  <!-- EN: crafting golem part -->
+  <TM_Mecha-Golem_Hammer.jobString>forge le marteau-mecha sur le golem.</TM_Mecha-Golem_Hammer.jobString>
+  
+  <!-- EN: lightning core processor -->
+  <TM_Mecha-Golem_LightningCore.label>fabriquer un noyau processeur de foudre</TM_Mecha-Golem_LightningCore.label>
+  <!-- EN: The lightning core processor provides the following benefits per upgrade level [1/2/3]:\nMovement:	+[1.2c/1.8c/2.2c]\nAbility Cooldown:	-[15%/30%/45%]\nEnergy Cost:	+[10%/20%/30%]\nProcessing: 	-[5%/10%/15%]\n\nIn addition, the lightning core allows the golem the ability to retaliate against melee attackers with a jolt of energy, stunning them briefly. -->
+  <TM_Mecha-Golem_LightningCore.description>Le noyau du processeur de foudre offre les avantages suivants par niveau d'amélioration [1/2/3] :\nMouvement :	+[1.2c/1.8c/2.2c]\nTemps de recharge: -[15%/30%/45%]\nCoût en énergie :	+[10%/20%/30%]\nFabrication : 	 -[5%/10%/15%]\n\nDe plus, le noyau de foudre permet au golem de riposter aux attaquants de mêlée avec une secousse d'énergie, les étourdissant brièvement.</TM_Mecha-Golem_LightningCore.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_Mecha-Golem_LightningCore.jobString>fabrique le noyau processeur de foudre sur le golem.</TM_Mecha-Golem_LightningCore.jobString>
+  
+  <!-- EN: Lightning shard base -->
+  <TM_Mecha-Golem_LightningShard.label>fabriquer une base automate éclat de foudre</TM_Mecha-Golem_LightningShard.label>
+  <!-- EN: The lightning shard automaton base provides the following benefits per upgrade level [1/2/3]:\nMovement:	+[25%/50%/75%] -->
+  <TM_Mecha-Golem_LightningShard.description>La base d'automate éclat de foudre offre les avantages suivants par niveau d'amélioration [1/2/3] :\nMouvement :	+[25%/50%/75%]</TM_Mecha-Golem_LightningShard.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_Mecha-Golem_LightningShard.jobString>fabrique la base automate éclat de foudre sur le golem.</TM_Mecha-Golem_LightningShard.jobString>
+  
+  <!-- EN: mining laser -->
+  <TM_Mecha-Golem_MiningLaser.label>forger un laser minier</TM_Mecha-Golem_MiningLaser.label>
+  <!-- EN: Creates a mining laser to attach to the left shoulder mount. -->
+  <TM_Mecha-Golem_MiningLaser.description>Fixer un laser minier sur l’épaule gauche du mecha-golem.</TM_Mecha-Golem_MiningLaser.description>
+  <!-- EN: crafting golem part -->
+  <TM_Mecha-Golem_MiningLaser.jobString>forge le laser minier sur le golem.</TM_Mecha-Golem_MiningLaser.jobString>
+  
+  <!-- EN: repair component -->
+  <TM_Mecha-Golem_RepairComponent.label>restaurer une partie du corps</TM_Mecha-Golem_RepairComponent.label>
+  <!-- EN: Replaces missing golem parts that do not require a specific upgrade. -->
+  <TM_Mecha-Golem_RepairComponent.description>Remplacer les pièces manquantes du golem qui ne nécessitent pas d'amélioration spécifique.</TM_Mecha-Golem_RepairComponent.description>
+  <!-- EN: crafting golem part -->
+  <TM_Mecha-Golem_RepairComponent.jobString>restaure une partie du golem.</TM_Mecha-Golem_RepairComponent.jobString>
+  
+  <!-- EN: mecha-sword -->
+  <TM_Mecha-Golem_Sword.label>forger une épée-mecha</TM_Mecha-Golem_Sword.label>
+  <!-- EN: Forges a sword and mounts it to the left arm attachment. -->
+  <TM_Mecha-Golem_Sword.description>Forger une épée et la fixer sur le bras gauche.</TM_Mecha-Golem_Sword.description>
+  <!-- EN: crafting golem part -->
+  <TM_Mecha-Golem_Sword.jobString>forge l'épée-mecha sur le golem.</TM_Mecha-Golem_Sword.jobString>
+  
+  <!-- EN: water core processor -->
+  <TM_Mecha-Golem_WaterCore.label>fabriquer un noyau processeur d'eau</TM_Mecha-Golem_WaterCore.label>
+  <!-- EN: The water core processor provides the following benefits per upgrade level [1/2/3]:\nArmor:		+[5%/10%/15%]\nAbility Cooldown:	-[10%/20%/30%]\nHealing Bonus:	+[100%/200%/300%]\nEnergy Cost:	-[15%/30%/45%]\n\nIn addition, the water core allows the golem the ability to quickly regenerate health while active and regenerate health to its dormant frame. -->
+  <TM_Mecha-Golem_WaterCore.description>Le noyau du processeur d'eau offre les avantages suivants par niveau d'amélioration [1/2/3] :\nArmure :		+[5%/10%/15%]\nTemps de recharge: -[10%/20%/30%]\nBonus de soins : 	+[100%/200%/300%]\nCoût en énergie : 	-[15%/30%/45%]\n\nDe plus, le noyau d'eau permet au golem de régénérer rapidement sa santé lorsqu'il est actif et de régénérer la santé de son corps en sommeil.</TM_Mecha-Golem_WaterCore.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_Mecha-Golem_WaterCore.jobString>fabrique le noyau processeur d'eau sur le golem.</TM_Mecha-Golem_WaterCore.jobString>
+  
+  <!-- EN: Water shard base -->
+  <TM_Mecha-Golem_WaterShard.label>fabriquer une base automate éclat d'eau</TM_Mecha-Golem_WaterShard.label>
+  <!-- EN: The water shard automaton base provides the following benefits per upgrade level [1/2/3]:\nMovement:	+[10%/15%/20%]\nHealth:	+[30%/50%/70%] -->
+  <TM_Mecha-Golem_WaterShard.description>La base d'automate éclat d'eau offre les avantages suivants par niveau d'amélioration [1/2/3] :\nMouvement :	+[10%/15%/20%]\nSanté :	+[30%/50%/70%]</TM_Mecha-Golem_WaterShard.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_Mecha-Golem_WaterShard.jobString>fabrique la base automate éclat d'eau sur le golem.</TM_Mecha-Golem_WaterShard.jobString>
+  
+</LanguageData>

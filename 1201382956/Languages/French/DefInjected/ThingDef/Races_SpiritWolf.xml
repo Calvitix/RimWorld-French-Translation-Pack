@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: spirit wolf -->
+  <TM_SpiritWolfR.label>esprit du loup</TM_SpiritWolfR.label>
+  <!-- EN: Spirit wolves coalesce in the physical realm at the behest of a powerful shaman. Wolves are a dangerous mammal alone but are a force to be feared when hunting in a pack. The spirit wolf will fade back into the ether after a brief period or if it is defeated. -->
+  <TM_SpiritWolfR.description>Des esprits loups se rassemblent dans le monde physique à la demande d'un puissant chaman. Les loups sont des mammifères dangereux en solitaire, mais ils sont une force à craindre lorsqu'ils chassent en meute. Le loup esprit s'efface dans l'éther après une brève période ou s'il est vaincu.</TM_SpiritWolfR.description>
+  <!-- EN: meat -->
+  <TM_SpiritWolfR.race.meatLabel>viande</TM_SpiritWolfR.race.meatLabel>
+  <!-- EN: left claw -->
+  <TM_SpiritWolfR.tools.left_claw.label>griffe gauche</TM_SpiritWolfR.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <TM_SpiritWolfR.tools.right_claw.label>griffe droite</TM_SpiritWolfR.tools.right_claw.label>
+  <!-- EN: head -->
+  <TM_SpiritWolfR.tools.head.label>tête</TM_SpiritWolfR.tools.head.label>
+  
+</LanguageData>

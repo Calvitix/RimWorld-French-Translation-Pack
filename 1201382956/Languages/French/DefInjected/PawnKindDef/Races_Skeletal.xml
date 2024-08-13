@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: giant skeleton -->
+  <TM_GiantSkeleton.label>squelette géant</TM_GiantSkeleton.label>
+  <!-- EN: giant skeleton -->
+  <TM_GiantSkeleton.lifeStages.giant_skeleton.label>squelette géant</TM_GiantSkeleton.lifeStages.giant_skeleton.label>
+  <!-- EN: skeletal -->
+  <TM_GiantSkeleton.lifeStages.giant_skeleton.labelPlural>squelettes géants</TM_GiantSkeleton.lifeStages.giant_skeleton.labelPlural>
+  
+  <!-- EN: skeleton -->
+  <TM_Skeleton.label>squelette</TM_Skeleton.label>
+  <!-- EN: skeleton -->
+  <TM_Skeleton.lifeStages.skeleton.label>squelette</TM_Skeleton.lifeStages.skeleton.label>
+  <!-- EN: skeletal -->
+  <TM_Skeleton.lifeStages.skeleton.labelPlural>squelettes</TM_Skeleton.lifeStages.skeleton.labelPlural>
+  
+  <!-- EN: skeleton lich -->
+  <TM_SkeletonLich.label>liche squelette</TM_SkeletonLich.label>
+  <!-- EN: skeleton lich -->
+  <TM_SkeletonLich.lifeStages.skeleton_lich.label>liche squelette</TM_SkeletonLich.lifeStages.skeleton_lich.label>
+  <!-- EN: skeletal lich -->
+  <TM_SkeletonLich.lifeStages.skeleton_lich.labelPlural>liche squelette</TM_SkeletonLich.lifeStages.skeleton_lich.labelPlural>
+  
+</LanguageData>

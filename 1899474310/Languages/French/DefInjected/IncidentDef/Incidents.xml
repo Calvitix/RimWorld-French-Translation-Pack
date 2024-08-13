@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: resocialization offer -->
+  <PrisonLabor_ResocializationOffer.label>TODO</PrisonLabor_ResocializationOffer.label>
+  <!-- EN: Resocialization offer -->
+  <PrisonLabor_ResocializationOffer.letterLabel>TODO</PrisonLabor_ResocializationOffer.letterLabel>
+  <!-- EN: Offer by {0}. -->
+  <PrisonLabor_ResocializationOffer.letterText>TODO</PrisonLabor_ResocializationOffer.letterText>
+  
+  <!-- EN: revolt -->
+  <PrisonLabor_Revolt.label>révolte</PrisonLabor_Revolt.label>
+  <!-- EN: Revolt -->
+  <PrisonLabor_Revolt.letterLabel>Révolte</PrisonLabor_Revolt.letterLabel>
+  <!-- EN: Revolt has been started by {0}. The prisoners united under faction {1}, and began uprising with self-made weapons -->
+  <PrisonLabor_Revolt.letterText>TODO</PrisonLabor_Revolt.letterText>
+  
+  <!-- EN: prisoner suicide -->
+  <PrisonLabor_Suicide.label>TODO</PrisonLabor_Suicide.label>
+  <!-- EN: Prisoner suicide -->
+  <PrisonLabor_Suicide.letterLabel>TODO</PrisonLabor_Suicide.letterLabel>
+  <!-- EN: {0} has commited suicide, because of bad treatment. -->
+  <PrisonLabor_Suicide.letterText>TODO</PrisonLabor_Suicide.letterText>
+  
+</LanguageData>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Grave Blade -->
+  <TM_GraveBlade.label>Lame runique</TM_GraveBlade.label>
+  <!-- EN: Spirit blades strike from the grave.\n\nRange: 35\nCast time: 1.6s\nRadius: 3.0 -->
+  <TM_GraveBlade.description>Les lames runiques sortent les esprits des morts.\n\nPortée : 35\nIncantation : 1.6s\nRayon : 3.0</TM_GraveBlade.description>
+  
+  <!-- EN: Grave Blade I -->
+  <TM_GraveBlade_I.label>Lame runique</TM_GraveBlade_I.label>
+  <!-- EN: Spirit blades strike from the grave.\n\nRange: 38\nCast time: 1.4s\nRadius: 3.4 -->
+  <TM_GraveBlade_I.description>Les lames runiques sortent les esprits des morts.\n\nPortée : 38\nIncantation : 1.4s\nRayon : 3.4</TM_GraveBlade_I.description>
+  
+  <!-- EN: Grave Blade II -->
+  <TM_GraveBlade_II.label>Lame runique</TM_GraveBlade_II.label>
+  <!-- EN: Spirit blades strike from the grave.\n\nRange: 41\nCast time: 1.2s\nRadius: 3.8 -->
+  <TM_GraveBlade_II.description>Les lames runiques sortent les esprits des morts.\n\nPortée : 41\nIncantation : 1.2s\nRayon : 3.8</TM_GraveBlade_II.description>
+  
+  <!-- EN: Grave Blade III -->
+  <TM_GraveBlade_III.label>Lame runique</TM_GraveBlade_III.label>
+  <!-- EN: Spirit blades strike from the grave.\n\nRange: 44\nCast time: 1s\nRadius: 4.2 -->
+  <TM_GraveBlade_III.description>Les lames runiques sortent les esprits des morts.\n\nPortée : 44\nIncantation : 1s\nRayon : 4.2</TM_GraveBlade_III.description>
+  
+  <!-- EN: Life Steal -->
+  <TM_LifeSteal.label>Vol de vie</TM_LifeSteal.label>
+  <!-- EN: Leach spirit from enemies struck in melee combat to restore life and energy to the death knight. -->
+  <TM_LifeSteal.description>Permet d'extraire l'essence vitale des ennemis touchés en combat de mêlée pour redonner vie et énergie au chevalier de la mort.</TM_LifeSteal.description>
+  
+  <!-- EN: Shroud of Darkness -->
+  <TM_Shroud.label>Voile des ténèbres</TM_Shroud.label>
+  <!-- EN: The Shroud of Darkness is a cloak of tangible malice and fear that consumes nearby energy.\n	\nThe Shroud has many different functions and is a crucial component of the death knight's training. Foremost, the cloak provides a defensive bonus against all damage types and slightly increases weapon damage.\n\nIt's also able to solidify and retaliate against an attack using spirit damage.\n\nLast, but not least, the Shroud is able to nullify projectiles near the death knight by consuming them in a void.  Projectiles launched from less than 6 cells away will never be nullified.\n\nAll of these functions are enhanced as hate levels grow and must have a sufficient level of hate to function at all. -->
+  <TM_Shroud.description>Le Voile des ténèbres est un manteau de malice et de peur tangible qui consomme l'énergie à proximité.\n\nLe voile a de nombreuses fonctions différentes et constitue un élément crucial de l'entraînement du chevalier de la mort. Avant tout, le voile offre un bonus défensif contre tous les types de dégâts et augmente légèrement les dégâts des armes.\n\nIl est également capable de solidifier et de riposter à une attaque utilisant des dégâts d'esprit.\n\nEnfin, le voile est capable d'annuler les projectiles proches du chevalier de la mort en les consumant dans le vide.  Les projectiles lancés à moins de 6 cases ne seront jamais annulés.\n\nToutes ces fonctions sont renforcées par l'augmentation du niveau de haine et doivent avoir un niveau de haine suffisant pour fonctionner.</TM_Shroud.description>
+  
+  <!-- EN: Spite -->
+  <TM_Spite.label>Rancune</TM_Spite.label>
+  <!-- EN: Release harnessed hatred and project a wave of spite at a target. Spite must have hate to be used.\n		\nCast time: 1s\nCooldown : 5s\nRange: 21 -->
+  <TM_Spite.description>Libérer la haine exploitée et projeter une vague de rancune sur une cible. La rancune nécessite de la haine pour être utilisée.\n\nIncantation : 1s\nTemps de recharge : 5s\nPortée : 21</TM_Spite.description>
+  
+  <!-- EN: Spite I -->
+  <TM_Spite_I.label>Rancune</TM_Spite_I.label>
+  <!-- EN: Release harnessed hatred and project a wave of spite at a target.  Spite must have hate to be used.\n		\nCast time: .8s\nCooldown : 4s\nRange: 24 -->
+  <TM_Spite_I.description>Libérer la haine exploitée et projeter une vague de rancune sur une cible. La rancune nécessite de la haine pour être utilisée.\n\nIncantation : 0.8s\nTemps de recharge  : 4s\nPortée : 24</TM_Spite_I.description>
+  
+  <!-- EN: Spite II -->
+  <TM_Spite_II.label>Rancune</TM_Spite_II.label>
+  <!-- EN: Release harnessed hatred and project a wave of spite at a target. Spite must have hate to be used.\n		\nCast time: .6s\nCooldown : 3s\nRange: 27 -->
+  <TM_Spite_II.description>Libérer la haine exploitée et projeter une vague de rancune sur une cible. La rancune nécessite de la haine pour être utilisée.\n\nIncantation : 0.6s\nTemps de recharge  : 3s\nPortée : 27</TM_Spite_II.description>
+  
+  <!-- EN: Spite III -->
+  <TM_Spite_III.label>Rancune</TM_Spite_III.label>
+  <!-- EN: Release harnessed hatred and project a wave of spite at a target. Spite must have hate to be used.\n		\nCast time: .4s\nCooldown : 2s\nRange: 30 -->
+  <TM_Spite_III.description>Libérer la haine exploitée et projeter une vague de rancune sur une cible. La rancune nécessite de la haine pour être utilisée.\n\nIncantation : 0.4s\nTemps de recharge  : 2s\nPortée : 30</TM_Spite_III.description>
+  
+  <!-- EN: Wave of Fear -->
+  <TM_WaveOfFear.label>Vague de peur</TM_WaveOfFear.label>
+  <!-- EN: Release a wave of fear that sends enemies cowering. Wave of Fear also applies a significant debuff to dark/light defense, movement, and slows attack speeds.\n	\nHate is not required to use this ability, but it's effective range is greatly increased by hate levels. -->
+  <TM_WaveOfFear.description>Libère une vague de peur qui fait reculer les ennemis. Vague de peur applique également un affaiblissement significatif à la défense ombre/lumière et aux mouvements, et ralentit la vitesse d'attaque.\n\nLa haine n'est pas nécessaire pour utiliser cette capacité, mais sa portée effective est considérablement augmentée par les niveaux de haine.</TM_WaveOfFear.description>
+  
+</LanguageData>

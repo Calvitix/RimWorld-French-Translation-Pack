@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: charge -->
+  <TM_BullChargeHD.label>charge</TM_BullChargeHD.label>
+  <!-- EN: Charging into battle. -->
+  <TM_BullChargeHD.description>Charger dans la bataille.</TM_BullChargeHD.description>
+  
+  <!-- EN: bracer guard -->
+  <TM_FleshGolem_BracerGuardHD.label>bracelets de protection</TM_FleshGolem_BracerGuardHD.label>
+  <!-- EN: chance to block attacks -->
+  <TM_FleshGolem_BracerGuardHD.description>Chance de bloquer les attaques.</TM_FleshGolem_BracerGuardHD.description>
+  
+  <!-- EN: chest cage -->
+  <TM_FleshGolem_ChestCageHD.label>cage thoracique</TM_FleshGolem_ChestCageHD.label>
+  <!-- EN: Deflects attacks against the chest and torso, works best against larger weapons. -->
+  <TM_FleshGolem_ChestCageHD.description>Dévie les attaques contre la poitrine et le torse, fonctionne mieux avec les grosses armes.</TM_FleshGolem_ChestCageHD.description>
+  
+  <!-- EN: quad sight -->
+  <TM_FleshGolem_EyesT1HD.label>vision quadruple</TM_FleshGolem_EyesT1HD.label>
+  <!-- EN: Vision is improved with four eyes. -->
+  <TM_FleshGolem_EyesT1HD.description>La vision est améliorée avec quatre yeux.</TM_FleshGolem_EyesT1HD.description>
+  
+  <!-- EN: swiftness -->
+  <TM_FleshGolem_HasteHD.label>rapidité</TM_FleshGolem_HasteHD.label>
+  <!-- EN: Wings are granting movement agility. -->
+  <TM_FleshGolem_HasteHD.description>Les ailes donnent de l'agilité aux mouvements.</TM_FleshGolem_HasteHD.description>
+  
+  <!-- EN: leg plates -->
+  <TM_FleshGolem_LegPlatesHD.label>plaques de jambe</TM_FleshGolem_LegPlatesHD.label>
+  <!-- EN: Improves armor around over the legs. -->
+  <TM_FleshGolem_LegPlatesHD.description>Améliore l'armure sur les jambes.</TM_FleshGolem_LegPlatesHD.description>
+  
+  <!-- EN: shoulder plates -->
+  <TM_FleshGolem_ShoulderPlatesHD.label>plaques d'épaule</TM_FleshGolem_ShoulderPlatesHD.label>
+  <!-- EN: Improves armor around the shoulders. -->
+  <TM_FleshGolem_ShoulderPlatesHD.description>Améliore l'armure sur les épaules.</TM_FleshGolem_ShoulderPlatesHD.description>
+  
+  <!-- EN: skull plate -->
+  <TM_FleshGolem_SkullPlateHD.label>plaque de crâne</TM_FleshGolem_SkullPlateHD.label>
+  <!-- EN: Improves armor over the skull. -->
+  <TM_FleshGolem_SkullPlateHD.description>Améliore l'armure sur le crâne.</TM_FleshGolem_SkullPlateHD.description>
+  
+  <!-- EN: spine guard -->
+  <TM_FleshGolem_SpineGuardHD.label>protection dorsale</TM_FleshGolem_SpineGuardHD.label>
+  <!-- EN: Deflects attacks against the back. -->
+  <TM_FleshGolem_SpineGuardHD.description>Dévie les attaques dans le dos.</TM_FleshGolem_SpineGuardHD.description>
+  
+  <!-- EN: Cursed -->
+  <TM_FrailtyCurseHD.label>maudit</TM_FrailtyCurseHD.label>
+  <!-- EN: The gaze of an evil eye has applied this curse. -->
+  <TM_FrailtyCurseHD.description>Le regard d'un mauvais œil a appliqué cette malédiction.</TM_FrailtyCurseHD.description>
+  <!-- EN: frail -->
+  <TM_FrailtyCurseHD.stages.frail.label>fragile</TM_FrailtyCurseHD.stages.frail.label>
+  <!-- EN: crippled -->
+  <TM_FrailtyCurseHD.stages.crippled.label>estropié</TM_FrailtyCurseHD.stages.crippled.label>
+  
+</LanguageData>

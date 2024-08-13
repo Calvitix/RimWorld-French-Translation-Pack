@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Giant skeleton -->
+  <TM_GiantSkeletonR.label>squelette géant</TM_GiantSkeletonR.label>
+  <!-- EN: An enormous skeleton; this abomination was either created from the bones of a giant creature or by combining the bones of lesser creatures. This skeleton is animated by necromancy and embodied by a vengeful spirit that has wandered the world for ages - long enough to develop a simple, single-minded hate for life. -->
+  <TM_GiantSkeletonR.description>Un énorme squelette ; cette abomination a été créée soit à partir des os d'une créature géante, soit en combinant les os de créatures moins importantes. Ce squelette est animé par la nécromancie et incarné par un esprit vengeur qui a erré dans le monde pendant des siècles - assez longtemps pour développer une haine simple et unique de la vie.</TM_GiantSkeletonR.description>
+  <!-- EN: left fist -->
+  <TM_GiantSkeletonR.tools.left_fist.label>poing gauche</TM_GiantSkeletonR.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <TM_GiantSkeletonR.tools.right_fist.label>poing droit</TM_GiantSkeletonR.tools.right_fist.label>
+  <!-- EN: teeth -->
+  <TM_GiantSkeletonR.tools.teeth.label>dents</TM_GiantSkeletonR.tools.teeth.label>
+  
+  <!-- EN: skeleton lich -->
+  <TM_SkeletonLichR.label>liche squelette</TM_SkeletonLichR.label>
+  <!-- EN: The withered and faded bones of an ancient lich embodied by the spirit of malevolence and hatred; whoever, or whatever, this being once was is no more; its sole purpose is to destroy all life and replace it with undeath. -->
+  <TM_SkeletonLichR.description>Les ossements flétris et délavés d'une ancienne liche incarnée par l'esprit de malveillance et de haine ; qui, ou quoi que ce soit, cet être était autrefois n'est plus ; son seul but est de détruire toute vie et de la remplacer par la mort.</TM_SkeletonLichR.description>
+  <!-- EN: left hand -->
+  <TM_SkeletonLichR.tools.left_hand.label>main gauche</TM_SkeletonLichR.tools.left_hand.label>
+  <!-- EN: right hand -->
+  <TM_SkeletonLichR.tools.right_hand.label>main droite</TM_SkeletonLichR.tools.right_hand.label>
+  <!-- EN: death stare -->
+  <TM_SkeletonLichR.tools.death_stare.label>regard de la mort</TM_SkeletonLichR.tools.death_stare.label>
+  
+  <!-- EN: Skeleton -->
+  <TM_SkeletonR.label>squelette</TM_SkeletonR.label>
+  <!-- EN: Physical husks of creatures raised through the power of necromancy; their sole instinct is to obey their master and destroy all life. -->
+  <TM_SkeletonR.description>Des enveloppes physiques de créatures élevées par le pouvoir de la nécromancie ; leur seul instinct est d'obéir à leur maître et de détruire toute vie.</TM_SkeletonR.description>
+  <!-- EN: left fist -->
+  <TM_SkeletonR.tools.left_fist.label>poing gauche</TM_SkeletonR.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <TM_SkeletonR.tools.right_fist.label>poing droit</TM_SkeletonR.tools.right_fist.label>
+  <!-- EN: teeth -->
+  <TM_SkeletonR.tools.teeth.label>dents</TM_SkeletonR.tools.teeth.label>
+  
+</LanguageData>

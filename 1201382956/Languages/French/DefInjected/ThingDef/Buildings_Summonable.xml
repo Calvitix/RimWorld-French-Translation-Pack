@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: portfuel -->
+  <Portfuel.label>magifuel</Portfuel.label>
+  <!-- EN: Arcane energy bottled for fuel. Used to charge portals. -->
+  <Portfuel.description>De l'énergie magique mise en bouteille comme carburant. Utilisé pour alimenter les portails.</Portfuel.description>
+  
+  <!-- EN: magical cooler -->
+  <TM_Cooler.label>fraîcheur magique</TM_Cooler.label>
+  <!-- EN: An active dimensional tap into the Plane of Ice that can be used to cool confined spaces. -->
+  <TM_Cooler.description>Une sphère dimensionnelle active dans le plan de la glace qui peut être utilisée pour refroidir des espaces confinés.</TM_Cooler.description>
+  
+  <!-- EN: magical heater -->
+  <TM_Heater.label>chaleur magique</TM_Heater.label>
+  <!-- EN: An active dimensional tap into the Plane of Fire that can be used to heat confined spaces. Can also be used for various cooking or cremating tasks. Remains as long as it is sustained by a mage. -->
+  <TM_Heater.description>Une source dimensionnelle active dans le plan du feu qui peut être utilisée pour chauffer des espaces confinés. Peut également être utilisé pour diverses tâches de cuisson ou de crémation. Demeure tant qu'il est maintenu par un mage.</TM_Heater.description>
+  
+  <!-- EN: Light Beam -->
+  <TM_LightPod.label>rayon de Lumière</TM_LightPod.label>
+  <!-- EN: Transportation along a beam of light. -->
+  <TM_LightPod.description>Transporter dans un rayon de lumière.</TM_LightPod.description>
+  
+  <!-- EN: magelight -->
+  <TM_MageLightTD.label>lumière magique</TM_MageLightTD.label>
+  <!-- EN: A light source created by a mage. -->
+  <TM_MageLightTD.description>Une source de lumière créée par un mage.</TM_MageLightTD.description>
+  
+  <!-- EN: Arcane power node -->
+  <TM_PowerNode.label>énergie magique</TM_PowerNode.label>
+  <!-- EN: An arcane energy node that provides power as long as it is sustained by a mage. -->
+  <TM_PowerNode.description>Un nœud d'énergie magique qui fournit de l'énergie tant qu'il est maintenu par un mage.</TM_PowerNode.description>
+  
+  <!-- EN: Sentinel -->
+  <TM_Sentinel.label>sentinelle</TM_Sentinel.label>
+  <!-- EN: This statue is made of stone and shaped to look like a terrifying creature. The statue is smaller than an average person and has the look of a rough cut and quality, though, you notice the eyes, ears, and claws seems to have finer detail.\n	\nAs you drawn near the statue, an eerie glint from the eyes of the stone sentinel seems to follow you, and you get the feeling that you are being watched. -->
+  <TM_Sentinel.description>Cette statue est faite de pierre et a la forme d'une créature terrifiante. La statue est plus petite qu'une personne moyenne et a l'apparence d'une coupe grossière et de qualité, cependant, vous remarquez que les yeux, les oreilles et les griffes semblent avoir des détails plus fins.\n\nAlors que vous vous approchez de la statue, une étrange lueur provenant des yeux de la sentinelle de pierre semble vous suivre, et vous avez l'impression d'être observé.</TM_Sentinel.description>
+  
+  <!-- EN: sun light -->
+  <TM_Sunlight.label>lumière solaire</TM_Sunlight.label>
+  <!-- EN: A dimensional pocket emitting a continous source of light strong enough to grow crops. -->
+  <TM_Sunlight.description>Une sphère dimensionnelle émettant une source continue de lumière assez puissante pour faire pousser des plantes.</TM_Sunlight.description>
+  
+  <!-- EN: Teleporter -->
+  <TM_Teleporter.label>téléporteur</TM_Teleporter.label>
+  <!-- EN: A portal platform used to contain teleport pods. -->
+  <TM_Teleporter.description>Une plateforme de portail utilisée pour contenir des capsules de téléportation.</TM_Teleporter.description>
+  
+  <!-- EN: Teleporter (I) -->
+  <TM_Teleporter_I.label>téléporteur (I)</TM_Teleporter_I.label>
+  <!-- EN: A portal platform used to contain teleport pods. -->
+  <TM_Teleporter_I.description>Une plateforme de portail utilisée pour contenir des capsules de téléportation.</TM_Teleporter_I.description>
+  
+  <!-- EN: Teleporter (II) -->
+  <TM_Teleporter_II.label>téléporteur (II)</TM_Teleporter_II.label>
+  <!-- EN: A portal platform used to contain teleport pods. -->
+  <TM_Teleporter_II.description>Une plateforme de portail utilisée pour contenir des capsules de téléportation.</TM_Teleporter_II.description>
+  
+  <!-- EN: Teleporter (III) -->
+  <TM_Teleporter_III.label>téléporteur (III)</TM_Teleporter_III.label>
+  <!-- EN: A portal platform used to contain teleport pods. -->
+  <TM_Teleporter_III.description>Une plateforme de portail utilisée pour contenir des capsules de téléportation.</TM_Teleporter_III.description>
+  
+  <!-- EN: Teleport Pod -->
+  <TM_TeleportPod.label>capsule de téléportation</TM_TeleportPod.label>
+  <!-- EN: Large flat cylinder used by warlocks to rapidly transport between locations. -->
+  <TM_TeleportPod.description>Grand cylindre plat utilisé par les sorciers pour se déplacer rapidement d'un endroit à un autre.</TM_TeleportPod.description>
+  
+  <!-- EN: Teleport Pod (I) -->
+  <TM_TeleportPod_I.label>capsule de téléportation (I)</TM_TeleportPod_I.label>
+  <!-- EN: Large flat cylinder used by warlocks to rapidly transport between locations. -->
+  <TM_TeleportPod_I.description>Grand cylindre plat utilisé par les sorciers pour se déplacer rapidement d'un endroit à un autre.</TM_TeleportPod_I.description>
+  
+  <!-- EN: Teleport Pod (II) -->
+  <TM_TeleportPod_II.label>capsule de téléportation (II)</TM_TeleportPod_II.label>
+  <!-- EN: Large flat cylinder used by warlocks to rapidly transport between locations. -->
+  <TM_TeleportPod_II.description>Grand cylindre plat utilisé par les sorciers pour se déplacer rapidement d'un endroit à un autre.</TM_TeleportPod_II.description>
+  
+  <!-- EN: Teleport Pod (III) -->
+  <TM_TeleportPod_III.label>capsule de téléportation (III)</TM_TeleportPod_III.label>
+  <!-- EN: Large flat cylinder used by warlocks to rapidly transport between locations. -->
+  <TM_TeleportPod_III.description>Grand cylindre plat utilisé par les sorciers pour se déplacer rapidement d'un endroit à un autre.</TM_TeleportPod_III.description>
+  
+</LanguageData>

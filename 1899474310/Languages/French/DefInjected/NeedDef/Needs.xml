@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Motivation -->
+  <PrisonLabor_Motivation.label>Motivation</PrisonLabor_Motivation.label>
+  <!-- EN: Motivation represents how motivated to work is prisoner. Motivation can be improved by colonists standing nearby. -->
+  <PrisonLabor_Motivation.description>La motivation représente à quel point le prisonnier est motivé pour travailler. La motivation peut être augmentée par les colons qui restent à proximité.</PrisonLabor_Motivation.description>
+  
+  <!-- EN: Treatment happiness -->
+  <PrisonLabor_Treatment.label>TODO</PrisonLabor_Treatment.label>
+  <!-- EN: Treatment happiness represents how prisoners are content of treatment in colony.\n<i><color=#66E0E4FF>Prison Labor</color></i> -->
+  <PrisonLabor_Treatment.description>TODO</PrisonLabor_Treatment.description>
+  
+</LanguageData>

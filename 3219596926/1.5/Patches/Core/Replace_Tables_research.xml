@@ -103,23 +103,6 @@
 			</value>    
 		</match>
 	</Operation>
-  <!--Operation Class="PatchOperationConditional">
-    <xpath>Defs/ThingDef[defName = "BrickWall"]/researchPrerequisites</xpath>
-		<nomatch Class="PatchOperationAdd">
-      <xpath>Defs/ThingDef[defName = "BrickWall"]</xpath>
-			<value>
-				<researchPrerequisites>
-					<li>Stonecutting</li>
-				</researchPrerequisites>
-			</value>    
-		</nomatch>
-		<match Class="PatchOperationAdd">
-      <xpath>Defs/ThingDef[defName = "BrickWall"]/researchPrerequisites</xpath>
-      <value>
-        <li>Stonecutting</li>
-      </value>
-    </match>
-  </Operation-->  
   <Operation Class="PatchOperationConditional">
     <xpath>Defs/TerrainDef[defName = "Bridge"]/researchPrerequisites</xpath>
     <nomatch Class="PatchOperationAdd">

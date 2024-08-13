@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Seer Archer -->
+  <SeerBowman.label>voyant franc-archer</SeerBowman.label>
+  <!-- EN: Seer Archers -->
+  <SeerBowman.labelPlural>voyants franc-archer</SeerBowman.labelPlural>
+  
+  <!-- EN: Magic Protector -->
+  <SeerDefender.label>protecteur magique</SeerDefender.label>
+  <!-- EN: magic protectors -->
+  <SeerDefender.labelPlural>protecteurs magiques</SeerDefender.labelPlural>
+  
+  <!-- EN: Seer Elite -->
+  <SeerElite.label>voyant élite</SeerElite.label>
+  <!-- EN: Seer Elite -->
+  <SeerElite.labelPlural>voyants élite</SeerElite.labelPlural>
+  
+  <!-- EN: Guardsman -->
+  <SeerSpearman.label>garde</SeerSpearman.label>
+  <!-- EN: Guardsmen -->
+  <SeerSpearman.labelPlural>gardes</SeerSpearman.labelPlural>
+  
+</LanguageData>

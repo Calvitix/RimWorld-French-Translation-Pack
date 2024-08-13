@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: {0} {1} want to carry out the arcane path ritual as soon as possible. -->
+  <TM_BestowMagicClassRitual.ritualExpectedDesc>{0} {1} veulent effectuer le rituel de la voie magique dès que possible.</TM_BestowMagicClassRitual.ritualExpectedDesc>
+  
+  <!-- EN: {0} {1} want to carry out the gifting ritual as soon as possible. -->
+  <TM_GiftingRitual.ritualExpectedDesc>{0} {1} veulent effectuer le rituel du don le plus tôt possible.</TM_GiftingRitual.ritualExpectedDesc>
+  
+  <!-- EN: {0} {1} want to carry out the severence ritual as soon as possible. -->
+  <TM_SeverenceRitual.ritualExpectedDesc>{0} {1} veulent effectuer le rituel de séparation le plus tôt possible.</TM_SeverenceRitual.ritualExpectedDesc>
+  
+</LanguageData>

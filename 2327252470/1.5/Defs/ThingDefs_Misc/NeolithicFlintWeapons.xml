@@ -118,7 +118,7 @@
         </capacities>
         <power>18</power>
         <armorPenetration>0.35</armorPenetration>
-        <cooldownTime>2.7</cooldownTime>
+        <cooldownTime>3.1</cooldownTime>
       </li>
     </tools>
     <recipeMaker>
@@ -175,7 +175,7 @@
         </capacities>
         <power>16</power>
         <armorPenetration>0.20</armorPenetration>
-        <cooldownTime>2.4</cooldownTime>
+        <cooldownTime>2.9</cooldownTime>
       </li>
     </tools>
     <recipeMaker>

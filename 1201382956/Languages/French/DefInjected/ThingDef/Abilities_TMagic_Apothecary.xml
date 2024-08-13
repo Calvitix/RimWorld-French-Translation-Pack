@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Fire dousing flask -->
+  <Projectile_FireDousingFlask.label>flacon d'extinction d'incendie</Projectile_FireDousingFlask.label>
+  
+  <!-- EN: Fire dousing flask -->
+  <Projectile_FireDousingFlask_I.label>flacon d'extinction d'incendie</Projectile_FireDousingFlask_I.label>
+  
+  <!-- EN: Fire dousing flask -->
+  <Projectile_FireDousingFlask_II.label>flacon d'extinction d'incendie</Projectile_FireDousingFlask_II.label>
+  
+  <!-- EN: Fire dousing flask -->
+  <Projectile_FireDousingFlask_III.label>flacon d'extinction d'incendie</Projectile_FireDousingFlask_III.label>
+  
+  <!-- EN: Poison flask -->
+  <Projectile_PoisonFlask.label>flacon de poison</Projectile_PoisonFlask.label>
+  
+</LanguageData>

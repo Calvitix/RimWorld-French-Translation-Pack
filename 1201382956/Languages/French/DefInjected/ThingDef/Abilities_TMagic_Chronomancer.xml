@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: time bubble -->
+  <FlyingObject_TimeDelay.label>champ chronostatique</FlyingObject_TimeDelay.label>
+  
+  <!-- EN: accelerate time -->
+  <Projectile_AccelerateTime.label>accélérer le temps</Projectile_AccelerateTime.label>
+  
+  <!-- EN: time bubble -->
+  <Projectile_ChronostaticField.label>champ chronostatique</Projectile_ChronostaticField.label>
+  
+  <!-- EN: time bubble -->
+  <Projectile_ChronostaticField_I.label>champ chronostatique</Projectile_ChronostaticField_I.label>
+  
+  <!-- EN: time bubble -->
+  <Projectile_ChronostaticField_II.label>champ chronostatique</Projectile_ChronostaticField_II.label>
+  
+  <!-- EN: time bubble -->
+  <Projectile_ChronostaticField_III.label>champ chronostatique</Projectile_ChronostaticField_III.label>
+  
+</LanguageData>

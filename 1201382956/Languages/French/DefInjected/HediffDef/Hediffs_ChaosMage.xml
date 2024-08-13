@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Chaotic Flux -->
+  <TM_ChaosTraditionHD.label>flux chaotique</TM_ChaosTraditionHD.label>
+  <!-- EN: Exercising control of reality through objective interpretation that results in the emphasis of the physical and mental solidity of a Chaos Mage. -->
+  <TM_ChaosTraditionHD.description>Exercer un contrôle sur la réalité par le biais d'une interprétation objective qui aboutit à la mise en avant de la solidité physique et mentale d'un Mage du Chaos.</TM_ChaosTraditionHD.description>
+  <!-- EN: I -->
+  <TM_ChaosTraditionHD.stages.I.label>I</TM_ChaosTraditionHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_ChaosTraditionHD.stages.II.label>II</TM_ChaosTraditionHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_ChaosTraditionHD.stages.III.label>III</TM_ChaosTraditionHD.stages.III.label>
+  
+  <!-- EN: Chaotic Mind -->
+  <TM_ChaoticMindHD.label>esprit chaotique</TM_ChaoticMindHD.label>
+  <!-- EN: Exercising control of reality through objective interpretation that results in the emphasis of the physical and mental solidity of a Chaos Mage. -->
+  <TM_ChaoticMindHD.description>Exercer un contrôle sur la réalité par le biais d'une interprétation objective qui aboutit à la mise en avant de la solidité physique et mentale d'un Mage du Chaos.</TM_ChaoticMindHD.description>
+  <!-- EN: thought -->
+  <TM_ChaoticMindHD.stages.thought.label>pensée</TM_ChaoticMindHD.stages.thought.label>
+  
+  <!-- EN: Controlled Chaos -->
+  <TM_ControlledChaosHD.label>chaos contrôlé</TM_ControlledChaosHD.label>
+  <!-- EN: Exercising control of reality through objective interpretation that results in the emphasis of the physical and mental solidity of a Chaos Mage. -->
+  <TM_ControlledChaosHD.description>Exercer un contrôle sur la réalité par le biais d'une interprétation objective qui aboutit à la mise en avant de la solidité physique et mentale d'un Mage du Chaos.</TM_ControlledChaosHD.description>
+  <!-- EN: CHAOS -->
+  <TM_ControlledChaosHD.stages.CHAOS.label>CHAOS</TM_ControlledChaosHD.stages.CHAOS.label>
+  
+</LanguageData>

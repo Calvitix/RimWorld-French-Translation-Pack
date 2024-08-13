@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cantrips -->
+  <TM_Cantrips.label>Sortilèges</TM_Cantrips.label>
+  <!-- EN: Wandering mages do not have class specific abilities, instead, they excel at general spells or cantrips. \n	\nCantrips are discarded by most mages as mere conveniences which require no additional skill training, but the wanderer takes another approach. By investing time and effort into understanding cantrips, the wanderer is able to improve almost all general abilities in utility, power, and efficiency. \n\nSee skills for more details. -->
+  <TM_Cantrips.description>Les mages vagabonds n'ont pas de capacités spécifiques à leur classe, mais ils excellent dans les sorts généraux ou les sortilèges.\n\nLes sortilèges sont rejetés par la plupart des mages comme de simples commodités qui ne nécessitent pas d'entraînement supplémentaire, mais le vagabond adopte une autre approche. En investissant du temps et des efforts dans la compréhension des sortilèges, le vagabond est capable d'améliorer presque toutes les capacités générales en utilité, puissance et efficacité.\n\nVoir les compétences pour plus de détails.</TM_Cantrips.description>
+  
+  <!-- EN: The Wanderer -->
+  <TM_WandererCraft.label>Le vagabond</TM_WandererCraft.label>
+  <!-- EN: Increase attributes through hard work and creativity. See skills for more details. -->
+  <TM_WandererCraft.description>Augmenter les attributs par le travail et la créativité. Voir les compétences pour plus de détails.</TM_WandererCraft.description>
+  
+</LanguageData>

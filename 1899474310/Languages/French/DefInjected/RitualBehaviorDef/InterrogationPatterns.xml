@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: warden -->
+  <PL_Interrogation.roles.0.label>TODO</PL_Interrogation.roles.0.label>
+  <!-- EN: an warden -->
+  <PL_Interrogation.roles.0.missingDesc>TODO</PL_Interrogation.roles.0.missingDesc>
+  <!-- EN: prisoner -->
+  <PL_Interrogation.roles.1.label>TODO</PL_Interrogation.roles.1.label>
+  <!-- EN: a prisoner -->
+  <PL_Interrogation.roles.1.missingDesc>TODO</PL_Interrogation.roles.1.missingDesc>
+  <!-- EN: Spectators are not needed -->
+  <PL_Interrogation.spectatorFilter.description>TODO</PL_Interrogation.spectatorFilter.description>
+  <!-- EN: Convicted prisoner is not reachable. -->
+  <PL_Interrogation.stages.0.failTriggers.0.desc>TODO</PL_Interrogation.stages.0.failTriggers.0.desc>
+  <!-- EN: escort asleep -->
+  <PL_Interrogation.stages.0.failTriggers.1.desc>TODO</PL_Interrogation.stages.0.failTriggers.1.desc>
+  
+</LanguageData>

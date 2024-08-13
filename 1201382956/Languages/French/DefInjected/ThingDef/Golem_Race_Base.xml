@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flesh golem -->
+  <TM_FleshGolem.label>golem de chair</TM_FleshGolem.label>
+  <!-- EN: A golem crafted from the flesh, bones and organs of other beings and given basic autonomy through a combination of bioengineering and magic. -->
+  <TM_FleshGolem.description>Un golem fabriqué à partir de chair, d'os et d'organes d'autres êtres et doté d'une autonomie de base grâce à une combinaison de bio-ingénierie et de magie.</TM_FleshGolem.description>
+  <!-- EN: gore -->
+  <TM_FleshGolem.tools.gore.label>sang</TM_FleshGolem.tools.gore.label>
+  <!-- EN: tusks -->
+  <TM_FleshGolem.tools.tusks.label>défenses</TM_FleshGolem.tools.tusks.label>
+  <!-- EN: left fist -->
+  <TM_FleshGolem.tools.left_fist.label>poing gauche</TM_FleshGolem.tools.left_fist.label>
+  <!-- EN: left guard -->
+  <TM_FleshGolem.tools.left_guard.label>garde gauche</TM_FleshGolem.tools.left_guard.label>
+  <!-- EN: left cleaver -->
+  <TM_FleshGolem.tools.left_cleaver.label>fendoir gauche</TM_FleshGolem.tools.left_cleaver.label>
+  <!-- EN: right fist -->
+  <TM_FleshGolem.tools.right_fist.label>poing droit</TM_FleshGolem.tools.right_fist.label>
+  <!-- EN: right guard -->
+  <TM_FleshGolem.tools.right_guard.label>garde droit</TM_FleshGolem.tools.right_guard.label>
+  <!-- EN: right cleaver -->
+  <TM_FleshGolem.tools.right_cleaver.label>fendoir droit</TM_FleshGolem.tools.right_cleaver.label>
+  
+  <!-- EN: granite golem -->
+  <TM_GraniteGolem.label>golem de granite</TM_GraniteGolem.label>
+  <!-- EN: A simple golem crafted from stone and animated with magic. -->
+  <TM_GraniteGolem.description>Un simple golem fabriqué en pierre et animé par la magie.</TM_GraniteGolem.description>
+  <!-- EN: smash -->
+  <TM_GraniteGolem.tools.smash.label>frapper</TM_GraniteGolem.tools.smash.label>
+  <!-- EN: left fist -->
+  <TM_GraniteGolem.tools.left_fist.label>poing gauche</TM_GraniteGolem.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <TM_GraniteGolem.tools.right_fist.label>poing droit</TM_GraniteGolem.tools.right_fist.label>
+  
+  <!-- EN: hollow golem -->
+  <TM_HollowGolem.label>armure animée</TM_HollowGolem.label>
+  <!-- EN: A golem crafted from condensed magic and arcane catalysts. The armor surrounding the hollow golem anchors the magic center to a physical location and to protect its physical integrity. The hollow golem is able to harness tremendous amounts of magical energy for a variety of purposes, making it one of the most flexible golems developed to date. The hollow golem absorbs magical energy from the atmosphere, much like paracyte, with mana reduction equivalent to 10 paracyte thorn bushes. -->
+  <TM_HollowGolem.description>Une armure fabriquée à partir de magie condensée et de catalyseurs magiques. L'armure qui entoure l'armure animée ancre le centre magique dans un lieu physique et protège son intégrité physique. L'armure animée est capable d'exploiter d'énormes quantités d'énergie magique à des fins diverses, ce qui en fait l'un des golems les plus flexibles développés à ce jour. L'armure animée absorbe l'énergie magique de l'atmosphère, tout comme le paracyte, avec une réduction de mana équivalente à 10 paracyte épineux.</TM_HollowGolem.description>
+  <!-- EN: claw -->
+  <TM_HollowGolem.tools.claw.label>griffe</TM_HollowGolem.tools.claw.label>
+  <!-- EN: decay touch -->
+  <TM_HollowGolem.tools.decay_touch.label>toucher de décomposition</TM_HollowGolem.tools.decay_touch.label>
+  <!-- EN: hollow axe -->
+  <TM_HollowGolem.tools.hollow_axe.label>hache d'armure animée</TM_HollowGolem.tools.hollow_axe.label>
+  <!-- EN: hollow staff -->
+  <TM_HollowGolem.tools.hollow_staff.label>bâton d'armure animée</TM_HollowGolem.tools.hollow_staff.label>
+  <!-- EN: blazing energy -->
+  <TM_HollowGolem.verbs.blazing_energy.label>énergie flamboyante</TM_HollowGolem.verbs.blazing_energy.label>
+  <!-- EN: firebolts -->
+  <TM_HollowGolem.verbs.firebolts.label>éclair de feu</TM_HollowGolem.verbs.firebolts.label>
+  <!-- EN: ice shards -->
+  <TM_HollowGolem.verbs.ice_shards.label>éclats de glace</TM_HollowGolem.verbs.ice_shards.label>
+  <!-- EN: darkbolt -->
+  <TM_HollowGolem.verbs.darkbolt.label>éclair d'ombre</TM_HollowGolem.verbs.darkbolt.label>
+  
+  <!-- EN: limestone golem -->
+  <TM_LimestoneGolem.label>golem de calcaire</TM_LimestoneGolem.label>
+  <!-- EN: A simple golem crafted from stone and animated with magic. -->
+  <TM_LimestoneGolem.description>Un simple golem fabriqué en pierre et animé par la magie.</TM_LimestoneGolem.description>
+  <!-- EN: smash -->
+  <TM_LimestoneGolem.tools.smash.label>frapper</TM_LimestoneGolem.tools.smash.label>
+  <!-- EN: left fist -->
+  <TM_LimestoneGolem.tools.left_fist.label>poing gauche</TM_LimestoneGolem.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <TM_LimestoneGolem.tools.right_fist.label>poing droit</TM_LimestoneGolem.tools.right_fist.label>
+  
+  <!-- EN: maharal golem -->
+  <TM_MaharalGolem.label>golem maharal</TM_MaharalGolem.label>
+  <!-- EN: A golem crafted from a mixture of molded stone wrapped in leather. -->
+  <TM_MaharalGolem.description>Un golem fabriqué à partir d'un mélange de pierres moulées enveloppées de cuir.</TM_MaharalGolem.description>
+  <!-- EN: left fist -->
+  <TM_MaharalGolem.tools.left_fist.label>poing gauche</TM_MaharalGolem.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <TM_MaharalGolem.tools.right_fist.label>poing droit</TM_MaharalGolem.tools.right_fist.label>
+  
+  <!-- EN: marble golem -->
+  <TM_MarbleGolem.label>golem de marbre</TM_MarbleGolem.label>
+  <!-- EN: A simple golem crafted from stone and animated with magic. -->
+  <TM_MarbleGolem.description>Un simple golem fabriqué en pierre et animé par la magie.</TM_MarbleGolem.description>
+  <!-- EN: smash -->
+  <TM_MarbleGolem.tools.smash.label>frapper</TM_MarbleGolem.tools.smash.label>
+  <!-- EN: left fist -->
+  <TM_MarbleGolem.tools.left_fist.label>poing gauche</TM_MarbleGolem.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <TM_MarbleGolem.tools.right_fist.label>poing droit</TM_MarbleGolem.tools.right_fist.label>
+  
+  <!-- EN: mecha-golem -->
+  <TM_MechaGolem.label>golem mécanique</TM_MechaGolem.label>
+  <!-- EN: A golem, crafted from raw material and given basic autonomy through a combination of circuitry and magic. -->
+  <TM_MechaGolem.description>Un golem, fabriqué à partir de matières premières et doté d'une autonomie de base grâce à une combinaison de circuits et de magie.</TM_MechaGolem.description>
+  <!-- EN: body smash -->
+  <TM_MechaGolem.tools.body_smash.label>choc du corps</TM_MechaGolem.tools.body_smash.label>
+  <!-- EN: left fist -->
+  <TM_MechaGolem.tools.left_fist.label>poing gauche</TM_MechaGolem.tools.left_fist.label>
+  <!-- EN: mecha-axe -->
+  <TM_MechaGolem.tools.mechaaxe.label>hache-mecha</TM_MechaGolem.tools.mechaaxe.label>
+  <!-- EN: mecha-sword -->
+  <TM_MechaGolem.tools.mechasword.label>épée-mecha</TM_MechaGolem.tools.mechasword.label>
+  <!-- EN: right fist -->
+  <TM_MechaGolem.tools.right_fist.label>poing droit</TM_MechaGolem.tools.right_fist.label>
+  <!-- EN: mecha-hammer -->
+  <TM_MechaGolem.tools.mechahammer.label>marteau-mecha</TM_MechaGolem.tools.mechahammer.label>
+  
+  <!-- EN: sandstone golem -->
+  <TM_SandstoneGolem.label>golem de grès</TM_SandstoneGolem.label>
+  <!-- EN: A simple golem crafted from stone and animated with magic. -->
+  <TM_SandstoneGolem.description>Un simple golem fabriqué en pierre et animé par la magie.</TM_SandstoneGolem.description>
+  <!-- EN: smash -->
+  <TM_SandstoneGolem.tools.smash.label>frapper</TM_SandstoneGolem.tools.smash.label>
+  <!-- EN: left fist -->
+  <TM_SandstoneGolem.tools.left_fist.label>poing gauche</TM_SandstoneGolem.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <TM_SandstoneGolem.tools.right_fist.label>poing droit</TM_SandstoneGolem.tools.right_fist.label>
+  
+  <!-- EN: silk golem -->
+  <TM_SilkGolem.label>golem de soie</TM_SilkGolem.label>
+  <!-- EN: An mass of cloth and thread constructed into a slug-like shape, the only distinct feature is its friendly, expressive face. -->
+  <TM_SilkGolem.description>Un amas de tissu et de fil construit en forme de limace, dont le seul trait distinctif est son visage amical et expressif.</TM_SilkGolem.description>
+  <!-- EN: bash -->
+  <TM_SilkGolem.tools.bash.label>coup</TM_SilkGolem.tools.bash.label>
+  
+  <!-- EN: slate golem -->
+  <TM_SlateGolem.label>golem d'ardoise</TM_SlateGolem.label>
+  <!-- EN: A simple golem crafted from stone and animated with magic. -->
+  <TM_SlateGolem.description>Un simple golem fabriqué en pierre et animé par la magie.</TM_SlateGolem.description>
+  <!-- EN: smash -->
+  <TM_SlateGolem.tools.smash.label>frapper</TM_SlateGolem.tools.smash.label>
+  <!-- EN: left fist -->
+  <TM_SlateGolem.tools.left_fist.label>poing gauche</TM_SlateGolem.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <TM_SlateGolem.tools.right_fist.label>poing droit</TM_SlateGolem.tools.right_fist.label>
+  
+  <!-- EN: stone golem -->
+  <TM_StoneGolem.label>golem de pierre</TM_StoneGolem.label>
+  <!-- EN: A simple golem crafted from stone and animated with magic. -->
+  <TM_StoneGolem.description>Un simple golem fabriqué en pierre et animé par la magie.</TM_StoneGolem.description>
+  <!-- EN: smash -->
+  <TM_StoneGolem.tools.smash.label>frapper</TM_StoneGolem.tools.smash.label>
+  <!-- EN: left fist -->
+  <TM_StoneGolem.tools.left_fist.label>poing gauche</TM_StoneGolem.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <TM_StoneGolem.tools.right_fist.label>poing droit</TM_StoneGolem.tools.right_fist.label>
+  
+  <!-- EN: straw golem -->
+  <TM_StrawGolem.label>golem de paille</TM_StrawGolem.label>
+  <!-- EN: A golem crafted from a mixture of basic material formed in the shape of a human. -->
+  <TM_StrawGolem.description>Un golem fabriqué à partir d'un mélange de matériaux de base et ayant la forme d'un humain.</TM_StrawGolem.description>
+  <!-- EN: left fist -->
+  <TM_StrawGolem.tools.left_fist.label>poing gauche</TM_StrawGolem.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <TM_StrawGolem.tools.right_fist.label>poing droit</TM_StrawGolem.tools.right_fist.label>
+  
+  <!-- EN: wood golem -->
+  <TM_WoodGolem.label>golem de bois</TM_WoodGolem.label>
+  <!-- EN: Magical energy infused into a construct of wood and stone. -->
+  <TM_WoodGolem.description>Une énergie magique infusée dans une construction de bois et de pierre.</TM_WoodGolem.description>
+  <!-- EN: spirit force -->
+  <TM_WoodGolem.tools.spirit_force.label>force de l'esprit</TM_WoodGolem.tools.spirit_force.label>
+  <!-- EN: frame smash -->
+  <TM_WoodGolem.tools.frame_smash.label>choc du cadre</TM_WoodGolem.tools.frame_smash.label>
+  
+</LanguageData>

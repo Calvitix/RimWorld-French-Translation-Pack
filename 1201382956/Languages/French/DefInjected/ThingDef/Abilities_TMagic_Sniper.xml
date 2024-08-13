@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Anti-Armor -->
+  <Projectile_AntiArmor.label>anti-armure</Projectile_AntiArmor.label>
+  
+  <!-- EN: Disabling shot -->
+  <Projectile_DisablingShot.label>tir incapacitant</Projectile_DisablingShot.label>
+  
+  <!-- EN: Headshot -->
+  <Projectile_Headshot.label>pleine tête</Projectile_Headshot.label>
+  
+  <!-- EN: Sniper focus -->
+  <Projectile_SniperFocus.label>entraînement de tireur d'élite</Projectile_SniperFocus.label>
+  
+</LanguageData>

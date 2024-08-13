@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arcalleum -->
+  <TM_MakeArcalleum.label>fabriquer de l'arcalleum</TM_MakeArcalleum.label>
+  <!-- EN: Meld steel, jade, silver and magicyte into arcalleum alloy -->
+  <TM_MakeArcalleum.description>Fusionner l'acier, le jade, l'argent et la magicite en un alliage d'arcalleum.</TM_MakeArcalleum.description>
+  <!-- EN: smelting arcalleum -->
+  <TM_MakeArcalleum.jobString>fond l'arcalleum.</TM_MakeArcalleum.jobString>
+  
+  <!-- EN: manaweave -->
+  <TM_MakeManaweave.label>fabriquer du tisse-mana</TM_MakeManaweave.label>
+  <!-- EN: Weave mana, magicyte, and cloth into manaweave -->
+  <TM_MakeManaweave.description>Tisser du mana, de la magicite et du tissu en tisse-mana.</TM_MakeManaweave.description>
+  <!-- EN: weaving mana -->
+  <TM_MakeManaweave.jobString>tisse le mana.</TM_MakeManaweave.jobString>
+  
+</LanguageData>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flying object -->
+  <FlyingObject_DirtDevil.label>objet volant</FlyingObject_DirtDevil.label>
+  
+  <!-- EN: flying object -->
+  <FlyingObject_Flight.label>objet volant</FlyingObject_Flight.label>
+  
+  <!-- EN: lightning -->
+  <FlyingObject_LightningTrap.label>piège de foudre</FlyingObject_LightningTrap.label>
+  
+  <!-- EN: arcane bolt -->
+  <Projectile_ArcaneBolt.label>éclair des Arcanes</Projectile_ArcaneBolt.label>
+  
+  <!-- EN: briar patch -->
+  <Projectile_BriarPatch.label>lianes épineuses</Projectile_BriarPatch.label>
+  
+  <!-- EN: charge battery -->
+  <Projectile_ChargeBattery.label>charge la batterie</Projectile_ChargeBattery.label>
+  
+  <!-- EN: spawn magic cooler -->
+  <Projectile_Cooler.label>créer fraîcheur magique</Projectile_Cooler.label>
+  
+  <!-- EN: dirt devil -->
+  <Projectile_DirtDevil.label>dirt devil</Projectile_DirtDevil.label>
+  
+  <!-- EN: dry ground -->
+  <Projectile_DryGround.label>sol sec</Projectile_DryGround.label>
+  
+  <!-- EN: EMP -->
+  <Projectile_EMP.label>IEM</Projectile_EMP.label>
+  
+  <!-- EN: extinguish -->
+  <Projectile_Extinguish.label>extinction</Projectile_Extinguish.label>
+  
+  <!-- EN: fertile lands -->
+  <Projectile_FertileLands.label>terres fertiles</Projectile_FertileLands.label>
+  
+  <!-- EN: flight -->
+  <Projectile_Flight.label>vol</Projectile_Flight.label>
+  
+  <!-- EN: spawn magic heater -->
+  <Projectile_Heater.label>créer chaleur magique</Projectile_Heater.label>
+  
+  <!-- EN: spawn arcane power node -->
+  <Projectile_PowerNode.label>créer énergie magique</Projectile_PowerNode.label>
+  
+  <!-- EN: siphon mana -->
+  <Projectile_SiphonMana.label>siphon de mana</Projectile_SiphonMana.label>
+  
+  <!-- EN: smoke cloud -->
+  <Projectile_SmokeCloud.label>nuage de fumée</Projectile_SmokeCloud.label>
+  
+  <!-- EN: spawn magic light -->
+  <Projectile_Sunlight.label>créer lumière solaire</Projectile_Sunlight.label>
+  
+  <!-- EN: Tempest strike -->
+  <Projectile_TempestStrike.label>éclair de tempête</Projectile_TempestStrike.label>
+  
+  <!-- EN: Throwing Knife -->
+  <Projectile_ThrowingKnife.label>couteau de lancer</Projectile_ThrowingKnife.label>
+  
+  <!-- EN: spawn magical item -->
+  <Projectile_TM_SpawnThing.label>créer objet magique</Projectile_TM_SpawnThing.label>
+  
+  <!-- EN: transfer mana -->
+  <Projectile_TransferMana.label>transfert de mana</Projectile_TransferMana.label>
+  
+  <!-- EN: moisturize ground -->
+  <Projectile_WetGround.label>sol hydrater</Projectile_WetGround.label>
+  
+</LanguageData>

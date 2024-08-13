@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cure Disease -->
+  <TM_CureDisease.label>Guérison des maladies</TM_CureDisease.label>
+  <!-- EN: Potential to cure most diseases and infections. -->
+  <TM_CureDisease.description>Possibilité de guérir la plupart des maladies et des infections.</TM_CureDisease.description>
+  
+  <!-- EN: Poison -->
+  <TM_Poison.label>Poison</TM_Poison.label>
+  <!-- EN: Fast acting toxin that works its way into the targets bloodstream. The more a target moves, the more lethal the poison becomes. Poison is ineffective against mechanoids. -->
+  <TM_Poison.description>Une toxine à action rapide qui se fraye un chemin dans le sang de la cible. Plus la cible bouge, plus le poison devient mortel. Le poison est inefficace contre les mécanoïdes.</TM_Poison.description>
+  
+  <!-- EN: Regenerate -->
+  <TM_Regenerate.label>Régénérer</TM_Regenerate.label>
+  <!-- EN: Regeneration acts as a natural curative over time and will restore even grievous wounds with continued application. Base regeneration restores 4 health to 1 wound every 5 seconds. Only cures physical injuries and will not restore or heal destroyed body parts. -->
+  <TM_Regenerate.description>La régénération agit comme un remède naturel au fil du temps et restaurera même les blessures les plus graves avec une action continue. La régénération de base redonne 4 points de vie à 1 blessure toutes les 5 secondes. Elle ne soigne que les blessures physiques et ne permet pas de restaurer ou de guérir les parties du corps détruites.</TM_Regenerate.description>
+  
+  <!-- EN: Regrowth -->
+  <TM_RegrowLimb.label>Rétablissement</TM_RegrowLimb.label>
+  <!-- EN: Creates the Seed of Life required to regrow body parts. Regrowth surgeries will only appear as an option when all components of regrowth are within resource zones: 1x Seed of Life , mana potions, and medicine, then select the body part to regrow in the patient's surgery tab.  Ensure this druid (or another with this spell) performs the surgery and the druid has 90 mana or more at the time the surgery is performed. -->
+  <TM_RegrowLimb.description>Crée la graine de vie nécessaire au rétablissement des parties du corps. Les chirurgies de rétablissement n’apparaissent comme une option que si tous les objets pour le rétablissement sont dans les zones de stockages : une Graine de vie, des Potions de mana et des Médicaments, puis sélectionner la partie du corps à faire repousser dans l'onglet chirurgie du patient. Assurez-vous que le druide (ou un colon ayant ce sort) effectue la chirurgie et qu’il possède 90 de mana ou plus au moment où la chirurgie est effectuée.</TM_RegrowLimb.description>
+  
+  <!-- EN: Beguile Animal -->
+  <TM_SootheAnimal.label>Duperie animal</TM_SootheAnimal.label>
+  <!-- EN: Using mastery over nature, the druid can overwhelm the emotional state of animals. This ability is dual purposed - if the animal is in a calm state, it will incite the beast into a manhunter rage; if the animal is already enraged, it will pacify the beast. Will not work on animals that belong to a faction.\n		\nRange: 65\nRecharge: 80s\nMax Targets: 4\nAoE Size: 7 -->
+  <TM_SootheAnimal.description>Grâce à sa maîtrise de la nature, le druide peut bouleverser l'état émotionnel des animaux. Cette capacité a un double objectif - si l'animal est dans un état calme, elle incitera la bête à une rage de chasseur d'hommes ; si l'animal est déjà enragé, elle apaisera la bête. Ne fonctionne pas sur les animaux qui appartiennent à une faction.\n\nPortée : 65\nTemps de recharge : 80s\nCibles max : 4\nTaille AoE : 7</TM_SootheAnimal.description>
+  
+  <!-- EN: Beguile Animal (I) -->
+  <TM_SootheAnimal_I.label>Duperie animal</TM_SootheAnimal_I.label>
+  <!-- EN: Using mastery over nature, the druid can overwhelm the emotional state of animals. This ability is dual purposed - if the animal is in a calm state, it will incite the beast into a manhunter rage; if the animal is already enraged, it will pacify the beast. Will not work on animals that belong to a faction.\n		\nRange: 70\nRecharge: 75s\nMax Targets: 6\nAoE Size: 8 -->
+  <TM_SootheAnimal_I.description>Grâce à sa maîtrise de la nature, le druide peut bouleverser l'état émotionnel des animaux. Cette capacité a un double objectif - si l'animal est dans un état calme, elle incitera la bête à une rage de chasseur d'hommes ; si l'animal est déjà enragé, elle apaisera la bête. Ne fonctionne pas sur les animaux qui appartiennent à une faction.\n\nPortée : 70\nTemps de recharge : 75s\nCibles max : 6\nTaille AoE : 8</TM_SootheAnimal_I.description>
+  
+  <!-- EN: Beguile Animal (II) -->
+  <TM_SootheAnimal_II.label>Duperie animal</TM_SootheAnimal_II.label>
+  <!-- EN: Using mastery over nature, the druid can overwhelm the emotional state of animals. This ability is dual purposed - if the animal is in a calm state, it will incite the beast into a manhunter rage; if the animal is already enraged, it will pacify the beast. Will not work on animals that belong to a faction.\n		\nRange: 75\nRecharge: 68s\nMax Targets: 7\nAoE Size: 9 -->
+  <TM_SootheAnimal_II.description>Grâce à sa maîtrise de la nature, le druide peut bouleverser l'état émotionnel des animaux. Cette capacité a un double objectif - si l'animal est dans un état calme, elle incitera la bête à une rage de chasseur d'hommes ; si l'animal est déjà enragé, elle apaisera la bête. Ne fonctionne pas sur les animaux qui appartiennent à une faction.\n\nPortée : 75\nTemps de recharge : 68s\nCibles max : 7\nTaille AoE : 9</TM_SootheAnimal_II.description>
+  
+  <!-- EN: Beguile Animal (III) -->
+  <TM_SootheAnimal_III.label>Duperie animal</TM_SootheAnimal_III.label>
+  <!-- EN: Using mastery over nature, the druid can overwhelm the emotional state of animals. This ability is dual purposed - if the animal is in a calm state, it will incite the beast into a manhunter rage; if the animal is already enraged, it will pacify the beast. Will not work on animals that belong to a faction.\n		\nRange: 80\nRecharge: 60s\nMax Targets: 7\nAoE Size: 10 -->
+  <TM_SootheAnimal_III.description>Grâce à sa maîtrise de la nature, le druide peut bouleverser l'état émotionnel des animaux. Cette capacité a un double objectif - si l'animal est dans un état calme, elle incitera la bête à une rage de chasseur d'hommes ; si l'animal est déjà enragé, elle apaisera la bête. Ne fonctionne pas sur les animaux qui appartiennent à une faction.\n\nPortée : 80\nTemps de recharge : 60s\nCibles max : 7\nTaille AoE : 10</TM_SootheAnimal_III.description>
+  
+</LanguageData>

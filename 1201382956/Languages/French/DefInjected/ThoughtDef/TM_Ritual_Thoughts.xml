@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: botched gifting ritual -->
+  <TM_Botched_BestowMagicTD.stages.botched_gifting_ritual.label>rituel de don bâclé</TM_Botched_BestowMagicTD.stages.botched_gifting_ritual.label>
+  <!-- EN: The gifting ritual was botched and no magical spark was granted. -->
+  <TM_Botched_BestowMagicTD.stages.botched_gifting_ritual.description>Le rituel du don a été bâclé et aucune étincelle magique n'a été accordée.</TM_Botched_BestowMagicTD.stages.botched_gifting_ritual.description>
+  
+  <!-- EN: botched severence ritual -->
+  <TM_Botched_SeverMagicTD.stages.botched_severence_ritual.label>rituel de séparation bâclé</TM_Botched_SeverMagicTD.stages.botched_severence_ritual.label>
+  <!-- EN: The severence ritual was botched and gave the mage a chance to retaliate. -->
+  <TM_Botched_SeverMagicTD.stages.botched_severence_ritual.description>Le rituel de séparation a été bâclé et a donné au mage une chance de riposter.</TM_Botched_SeverMagicTD.stages.botched_severence_ritual.description>
+  
+  <!-- EN: enlightened gifting ritual -->
+  <TM_Flawless_BestowMagicTD.stages.enlightened_gifting_ritual.label>rituel du don illuminé</TM_Flawless_BestowMagicTD.stages.enlightened_gifting_ritual.label>
+  <!-- EN: It was as if the heavens opened up to bless the ritual and a chorus of voices sang the glory of our cause! -->
+  <TM_Flawless_BestowMagicTD.stages.enlightened_gifting_ritual.description>C'est comme si les cieux s'étaient ouverts pour bénir le rituel et qu'un chœur de voix chantait la gloire de notre cause !</TM_Flawless_BestowMagicTD.stages.enlightened_gifting_ritual.description>
+  
+  <!-- EN: flawless severence ritual -->
+  <TM_Flawless_SeverMagicTD.stages.flawless_severence_ritual.label>rituel de séparation sans faille</TM_Flawless_SeverMagicTD.stages.flawless_severence_ritual.label>
+  <!-- EN: The chorus of voices, the intensity of the voidbringer, the look of inevitability on the face of the mage - nothing can stop our crusade! -->
+  <TM_Flawless_SeverMagicTD.stages.flawless_severence_ritual.description>Le chœur des voix, l'intensité du porte-vide, le regard de l'inévitable sur le visage du mage - rien ne peut arrêter notre croisade !</TM_Flawless_SeverMagicTD.stages.flawless_severence_ritual.description>
+  
+  <!-- EN: inspiring arcane path ritual -->
+  <TM_Good_BestowMagicClassTD.stages.inspiring_arcane_path_ritual.label>rituel voie magique inspirant</TM_Good_BestowMagicClassTD.stages.inspiring_arcane_path_ritual.label>
+  <!-- EN: The arcane path ritual was fantastic, emotionally and magically charged - it's always wonderful to see someone achieve their dreams! -->
+  <TM_Good_BestowMagicClassTD.stages.inspiring_arcane_path_ritual.description>Le rituel de la voie magique était fantastique, chargé d'émotion et de magie - c'est toujours merveilleux de voir quelqu'un réaliser ses rêves !</TM_Good_BestowMagicClassTD.stages.inspiring_arcane_path_ritual.description>
+  
+  <!-- EN: lethal severence ritual -->
+  <TM_Lethal_SeverMagicTD.stages.lethal_severence_ritual.label>rituel de séparation mortelle</TM_Lethal_SeverMagicTD.stages.lethal_severence_ritual.label>
+  <!-- EN: That ritual lacked order and the technique was terrible, killing the mage. -->
+  <TM_Lethal_SeverMagicTD.stages.lethal_severence_ritual.description>Ce rituel manquait de rigueur et la technique était terrible, ce qui a tué le mage.</TM_Lethal_SeverMagicTD.stages.lethal_severence_ritual.description>
+  
+  <!-- EN: Severed from magic -->
+  <TM_MagicSeverenceTD.stages.Severed_from_magic.label>séparé de la magie</TM_MagicSeverenceTD.stages.Severed_from_magic.label>
+  <!-- EN: I've lost something that once defined who I was; I feel a mix of dispair and emptiness. -->
+  <TM_MagicSeverenceTD.stages.Severed_from_magic.description>J'ai perdu quelque chose qui définissait autrefois qui j'étais ; je ressens un mélange de désespoir et de vide.</TM_MagicSeverenceTD.stages.Severed_from_magic.description>
+  
+  <!-- EN: successful arcane path ritual -->
+  <TM_Moderate_BestowMagicClassTD.stages.successful_arcane_path_ritual.label>rituel voie magique réussi</TM_Moderate_BestowMagicClassTD.stages.successful_arcane_path_ritual.label>
+  <!-- EN: The arcane path selection ritual was encouraging and interesting. -->
+  <TM_Moderate_BestowMagicClassTD.stages.successful_arcane_path_ritual.description>Le rituel de sélection de la voie magique était encourageant et intéressant.</TM_Moderate_BestowMagicClassTD.stages.successful_arcane_path_ritual.description>
+  
+  <!-- EN: bland arcane path ritual -->
+  <TM_Poor_BestowMagicClassTD.stages.bland_arcane_path_ritual.label>rituel voie magique fade</TM_Poor_BestowMagicClassTD.stages.bland_arcane_path_ritual.label>
+  <!-- EN: The ritual guiding a mage towards their arcane path was bland and uninteresting. -->
+  <TM_Poor_BestowMagicClassTD.stages.bland_arcane_path_ritual.description>Le rituel guidant un mage vers sa voie magique était fade et inintéressant.</TM_Poor_BestowMagicClassTD.stages.bland_arcane_path_ritual.description>
+  
+  <!-- EN: allowed sever magic -->
+  <TM_SeverMagic_ForApproveTD.stages.allowed_sever_magic.label>magie de séparation autorisée</TM_SeverMagic_ForApproveTD.stages.allowed_sever_magic.label>
+  <!-- EN: A ritual to sever the magic from a mage was performed in our colony; what a despicable and barbaric act. -->
+  <TM_SeverMagic_ForApproveTD.stages.allowed_sever_magic.description>Un rituel pour couper la magie d'un mage a été effectué dans notre colonie ; quel acte méprisable et barbare.</TM_SeverMagic_ForApproveTD.stages.allowed_sever_magic.description>
+  
+  <!-- EN: allowed sever magic -->
+  <TM_SeverMagic_ForVeneratedTD.stages.allowed_sever_magic.label>magie de séparation autorisée</TM_SeverMagic_ForVeneratedTD.stages.allowed_sever_magic.label>
+  <!-- EN: A ritual to sever the magic from a mage was performed in our colony; this henious act of barbarism is an afront to everything we believe. -->
+  <TM_SeverMagic_ForVeneratedTD.stages.allowed_sever_magic.description>Un rituel visant à couper la magie d'un mage a été effectué dans notre colonie ; cet acte de barbarie odieux est un affront à tout ce que nous croyons.</TM_SeverMagic_ForVeneratedTD.stages.allowed_sever_magic.description>
+  
+  <!-- EN: successful gifting ritual -->
+  <TM_Success_BestowMagicTD.stages.successful_gifting_ritual.label>rituel de don réussi</TM_Success_BestowMagicTD.stages.successful_gifting_ritual.label>
+  <!-- EN: The gifting ritual successfully bestowed the magical spark. -->
+  <TM_Success_BestowMagicTD.stages.successful_gifting_ritual.description>Le rituel de don a conféré avec succès l'étincelle magique.</TM_Success_BestowMagicTD.stages.successful_gifting_ritual.description>
+  
+  <!-- EN: successful severence ritual -->
+  <TM_Success_SeverMagicTD.stages.successful_severence_ritual.label>rituel de séparation réussi</TM_Success_SeverMagicTD.stages.successful_severence_ritual.label>
+  <!-- EN: The severence ritual was a success, freeing us from the oppression of another mage. -->
+  <TM_Success_SeverMagicTD.stages.successful_severence_ritual.description>Le rituel de séparation a été un succès, nous libérant de l'oppression d'un autre mage.</TM_Success_SeverMagicTD.stages.successful_severence_ritual.description>
+  
+</LanguageData>

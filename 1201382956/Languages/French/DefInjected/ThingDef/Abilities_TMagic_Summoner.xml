@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: summon elemental -->
+  <Projectile_SummonElemental.label>invocation élémentaire</Projectile_SummonElemental.label>
+  
+  <!-- EN: summon explosive trap -->
+  <Projectile_SummonExplosive.label>invocation explosifs</Projectile_SummonExplosive.label>
+  
+  <!-- EN: summon minion -->
+  <Projectile_SummonMinion.label>invocation serviteur</Projectile_SummonMinion.label>
+  
+  <!-- EN: summon poppi -->
+  <Projectile_SummonPoppi.label>invocation poppi</Projectile_SummonPoppi.label>
+  
+  <!-- EN: summon defense pylon -->
+  <Projectile_SummonPylon.label>invocation pylône de défense</Projectile_SummonPylon.label>
+  
+</LanguageData>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Blizzard -->
+  <TM_Blizzard.label>Blizzard</TM_Blizzard.label>
+  <!-- EN: Calls forth a deadly blizzard to bury your enemies in ice. -->
+  <TM_Blizzard.description>Appelle un blizzard mortel pour ensevelir vos ennemis sous la glace.</TM_Blizzard.description>
+  
+  <!-- EN: Frost Ray -->
+  <TM_FrostRay.label>Rayon de givre</TM_FrostRay.label>
+  <!-- EN: Rapidly extending ray of super cooled particles that damages and freezes targets.\n		\nRecharge time: 12s\nRange: 28\nShots: 1 -->
+  <TM_FrostRay.description>Rayon de particules surfondues s'étendant rapidement qui endommage et gèle les cibles.\n\nTemps de recharge : 12s\nPortée : 28\nTir : 1</TM_FrostRay.description>
+  
+  <!-- EN: Frost Ray -->
+  <TM_FrostRay_I.label>Rayon de givre</TM_FrostRay_I.label>
+  <!-- EN: Rapidly extending ray of super cooled particles that damages and freezes targets.\n		\nRecharge time: 10s\nRange: 30\nShots: 1 -->
+  <TM_FrostRay_I.description>Rayon de particules surfondues s'étendant rapidement qui endommage et gèle les cibles.\n\nTemps de recharge : 10s\nPortée : 30\nTir : 1</TM_FrostRay_I.description>
+  
+  <!-- EN: Frost Ray -->
+  <TM_FrostRay_II.label>Rayon de givre</TM_FrostRay_II.label>
+  <!-- EN: Rapidly extending ray of super cooled particles that damages and freezes targets.\n		\nRecharge time: 8s\nRange: 32\nShots: 2 -->
+  <TM_FrostRay_II.description>Rayon de particules surfondues s'étendant rapidement qui endommage et gèle les cibles.\n\nTemps de recharge : 8s\nPortée : 32\nTir : 2</TM_FrostRay_II.description>
+  
+  <!-- EN: Frost Ray -->
+  <TM_FrostRay_III.label>Rayon de givre</TM_FrostRay_III.label>
+  <!-- EN: Rapidly extending ray of super cooled particles that damages and freezes targets.\n		\nRecharge time: 8s\nRange: 34\nShots: 3 -->
+  <TM_FrostRay_III.description>Rayon de particules surfondues s'étendant rapidement qui endommage et gèle les cibles.\n\nTemps de recharge : 8s\nPortée : 34\nTir : 3</TM_FrostRay_III.description>
+  
+  <!-- EN: Icebolt -->
+  <TM_Icebolt.label>Éclair de glace</TM_Icebolt.label>
+  <!-- EN: Launches a bolt of ice specially created to shatter into glass-like shards upon impact, causing damage and severe bleeding. -->
+  <TM_Icebolt.description>Lance un éclair de glace spécialement créé pour se briser en éclats de verre à l'impact, causant des dégâts et de graves saignements.</TM_Icebolt.description>
+  
+  <!-- EN: Rainmaker -->
+  <TM_Rainmaker.label>Faiseur de pluie</TM_Rainmaker.label>
+  <!-- EN: Alters the conditions in the atmosphere causing it to rain. If it's already raining, this ability will stop the rain. -->
+  <TM_Rainmaker.description>Modifie les conditions de l'atmosphère et provoque la pluie. Si la pluie est déjà en cours, cette capacité l'arrêtera.</TM_Rainmaker.description>
+  
+  <!-- EN: Snowball -->
+  <TM_Snowball.label>Orbe gelé</TM_Snowball.label>
+  <!-- EN: Launch a massive ball of ice and snow that damages and freezes a large area upon impact. -->
+  <TM_Snowball.description>Lancer une énorme boule de glace et de neige qui endommage et gèle une large zone à l'impact.</TM_Snowball.description>
+  
+  <!-- EN: Soothing Breeze -->
+  <TM_Soothe.label>Brise apaisante</TM_Soothe.label>
+  <!-- EN: Creates a soothing aura around the caster that periodically buffs an ally.\n		\nSoothing Breeze: Arcane augmentation that assists the worker, reducing pain and fatigue and increasing focus.\n	\nApplication Frequency: 	80-90s	\nDuration:	200-223s\nConsciousness:	+10%\nMood increase:	+2\nRest and pain: 	-10%\n\nRequires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed. -->
+  <TM_Soothe.description>Crée une aura apaisante autour du lanceur de sorts qui améliore périodiquement les performances d'un allié.\n\nBrise apaisante : Augmentation magique qui aide le travailleur, réduisant la douleur et la fatigue et augmentant la concentration.\n\nFréquence d'application : 80-90s\nDurée : 200-223s\nConscience : +10%\nAugmente l'humeur : +2\nRepos et douleur : -10%\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau le sort pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_Soothe.description>
+  
+  <!-- EN: Soothing Breeze -->
+  <TM_Soothe_I.label>SBrise apaisante</TM_Soothe_I.label>
+  <!-- EN: Creates a soothing aura around the caster that periodically buffs an ally.\n		\nSoothing Breeze: Arcane augmentation that assists the worker, reducing pain and fatigue and increasing focus.\n	\nApplication Frequency: 	80-90s	\nDuration:	200-223s\nConsciousness: 	+12%\nMood increase:	+3\nRest and pain: 	-12%\n\nRequires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed. -->
+  <TM_Soothe_I.description>Crée une aura apaisante autour du lanceur de sorts qui améliore périodiquement les performances d'un allié.\n\nBrise apaisante : Augmentation magique qui aide le travailleur, réduisant la douleur et la fatigue et augmentant la concentration.\n\nFréquence d'application : 80-90s\nDurée : 200-223s\nConscience : +12%\nAugmente l'humeur : +3\nRepos et douleur : -12%\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau le sort pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_Soothe_I.description>
+  
+  <!-- EN: Soothing Breeze -->
+  <TM_Soothe_II.label>Brise apaisante</TM_Soothe_II.label>
+  <!-- EN: Creates a soothing aura around the caster that periodically buffs an ally.\n		\nSoothing Breeze: Arcane augmentation that assists the worker, reducing pain and fatigue and increasing focus\n	\nApplication Frequency: 	80-90s	\nDuration:	500-600s\nConsciousness 	+14%\nMood increase:	+4\nRest and pain: 	-14%\n\nRequires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed. -->
+  <TM_Soothe_II.description>Crée une aura apaisante autour du lanceur de sorts qui améliore périodiquement les performances d'un allié.\n\nBrise apaisante : Augmentation magique qui aide le travailleur, réduisant la douleur et la fatigue et augmentant la concentration.\n\nFréquence d'application : 80-90s\nDurée : 500-600s\nConscience : +14%\nAugmente l'humeur : +4\nRepos et douleur : -14%\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau le sort pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_Soothe_II.description>
+  
+  <!-- EN: Soothing Breeze -->
+  <TM_Soothe_III.label>Brise apaisante</TM_Soothe_III.label>
+  <!-- EN: Creates a soothing aura around the caster that periodically buffs an ally.\n		\nSoothing Breeze: Arcane augmentation that assists the worker, reducing pain and fatigue and increasing focus\n	\nApplication Frequency: 	80-90s	\nDuration:	500-600s\nConsciousness: 	+15%\nMood increase:	+5\nRest and pain:	-15%\n\nRequires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed. -->
+  <TM_Soothe_III.description>Crée une aura apaisante autour du lanceur de sorts qui améliore périodiquement les performances d'un allié.\n\nBrise apaisante : Augmentation magique qui aide le travailleur, réduisant la douleur et la fatigue et augmentant la concentration.\n\nFréquence d'application : 80-90s\nDurée : 500-600s\nConscience : +15%\nAugmente l'humeur : +5\nRepos et douleur : -15%\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau le sort pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_Soothe_III.description>
+  
+</LanguageData>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Heal -->
+  <TM_Heal.label>Soins</TM_Heal.label>
+  <!-- EN: Invokes holy power to heal the wounds of a target. Base heal restores 8 health for up to 3 wounds. Cannot heal injuries of missing bodyparts. -->
+  <TM_Heal.description>Invoquer le pouvoir sacré pour guérir les blessures d'une cible. La guérison de base redonne 8 points de vie pour un maximum de 3 blessures. Ne peut pas guérir les parties du corps manquantes.</TM_Heal.description>
+  
+  <!-- EN: Holy Wrath -->
+  <TM_HolyWrath.label>Colère divine</TM_HolyWrath.label>
+  <!-- EN: Calls forth holy wrath upon the land. -->
+  <TM_HolyWrath.description>Appeler la sainte colère sur terre.</TM_HolyWrath.description>
+  
+  <!-- EN: Overwhelm -->
+  <TM_Overwhelm.label>Accabler</TM_Overwhelm.label>
+  <!-- EN: Holy power is unleashed from the paladin, overwhelming the physical and mental senses of any nearby creatures. -->
+  <TM_Overwhelm.description>La puissance sacrée est libérée par le paladin, écrasant les sens physiques et mentaux de toutes les créatures proches.</TM_Overwhelm.description>
+  
+  <!-- EN: Ray of Hope -->
+  <TM_P_RayofHope.label>Lueur d’espoir</TM_P_RayofHope.label>
+  <!-- EN: Creates an aura of hope around the caster that periodically buffs an ally.\n		\nRay of Hope: Arcane augmentation that assists the worker, improving their physical capacities and mood\n	\nApplication Frequency: 	80-90s	\nDuration:  200-223s\nManipulation, Moving:  +15%\nMood increase:	+3\n\nRequires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed. -->
+  <TM_P_RayofHope.description>Créer une aura d'espoir autour du lanceur de sorts qui améliore périodiquement un allié.\n\nLueur d’espoir : Augmentation magique qui aide le travailleur, améliorant ses capacités physiques et son humeur.\n\nFréquence d'application : 80-90s\nDurée : 200-223s\nManipulation, Mouvement : +15%\nAugmente l'humeur : +3\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau le sort pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_P_RayofHope.description>
+  
+  <!-- EN: Ray of Hope -->
+  <TM_P_RayofHope_I.label>Lueur d’espoir</TM_P_RayofHope_I.label>
+  <!-- EN: Creates an aura of hope around the caster that periodically buffs an ally.\n		\nRay of Hope: Arcane augmentation that assists the worker, improving their physical capacities and mood\n	\nApplication Frequency: 	80-90s	\nDuration: 200-223s\nManipulation, Moving: +18%\nMood increase:	+4\n\nRequires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed. -->
+  <TM_P_RayofHope_I.description>Créer une aura d'espoir autour du lanceur de sorts qui améliore périodiquement un allié.\n\nLueur d’espoir : Augmentation magique qui aide le travailleur, améliorant ses capacités physiques et son humeur.\n\nFréquence d'application : 80-90s\nDurée : 200-223s\nManipulation, Mouvement : +18%\nAugmente l'humeur : +4\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau le sort pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_P_RayofHope_I.description>
+  
+  <!-- EN: Ray of Hope -->
+  <TM_P_RayofHope_II.label>Lueur d’espoir</TM_P_RayofHope_II.label>
+  <!-- EN: Creates an aura of hope around the caster that periodically buffs an ally.\n		\nRay of Hope: Arcane augmentation that assists the worker, improving their physical capacities and mood\n	\nApplication Frequency: 80-90s	\nDuration: 500-600s\nManipulation, Moving: +20%\nMood increase:	+5\n\nRequires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed. -->
+  <TM_P_RayofHope_II.description>Créer une aura d'espoir autour du lanceur de sorts qui améliore périodiquement un allié.\n\nLueur d’espoir : Augmentation magique qui aide le travailleur, améliorant ses capacités physiques et son humeur.\n\nFréquence d'application : 80-90s\nDurée : 500-600s\nManipulation, Mouvement : +20%\nAugmente l'humeur : +5\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau le sort pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_P_RayofHope_II.description>
+  
+  <!-- EN: Ray of Hope -->
+  <TM_P_RayofHope_III.label>Lueur d’espoir</TM_P_RayofHope_III.label>
+  <!-- EN: Creates an aura of hope around the caster that periodically buffs an ally.\n		\nRay of Hope: Arcane augmentation that assists the worker, improving their physical capacities and mood\n	\nApplication Frequency: 	80-90s	\nDuration:	500-600s\nManipulation, Moving:  +22%\nMood increase:	+5\n\nRequires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed. -->
+  <TM_P_RayofHope_III.description>Créer une aura d'espoir autour du lanceur de sorts qui améliore périodiquement un allié.\n\nLueur d’espoir : Augmentation magique qui aide le travailleur, améliorant ses capacités physiques et son humeur.\n\nFréquence d'application : 80-90s\nDurée : 500-600s\nManipulation, Mouvement : +22%\nAugmente l'humeur : +5\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau le sort pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_P_RayofHope_III.description>
+  
+  <!-- EN: Shield -->
+  <TM_Shield.label>Bouclier</TM_Shield.label>
+  <!-- EN: Protects the paladin from damage for 50s or until the shield is broken.\nAbsorbs up to 100 damage. -->
+  <TM_Shield.description>Protéger le paladin des dégâts pendant 50s ou jusqu'à ce que le bouclier se brise.\nAbsorbe jusqu'à 100 dégâts.</TM_Shield.description>
+  
+  <!-- EN: Shield -->
+  <TM_Shield_I.label>Bouclier</TM_Shield_I.label>
+  <!-- EN: Protects the paladin from damage for 50s or until the shield is broken.\nAbsorbs up to 125 damage.\nReduces recharge to 30s. -->
+  <TM_Shield_I.description>Protéger le paladin des dégâts pendant 50s ou jusqu'à ce que le bouclier se brise.\nAbsorbe jusqu'à 125 dégâts.\nRéduit le temps de recharge à 30s.</TM_Shield_I.description>
+  
+  <!-- EN: Shield -->
+  <TM_Shield_II.label>Bouclier</TM_Shield_II.label>
+  <!-- EN: Protects the paladin from damage for 50s or until the shield is broken.\nAbsorbs up to 135 damage.\nReduces recharge to 27s. -->
+  <TM_Shield_II.description>Protéger le paladin des dégâts pendant 50s ou jusqu'à ce que le bouclier se brise.\nAbsorbe jusqu'à 135 dégâts.\nRéduit le temps de recharge à 27s.</TM_Shield_II.description>
+  
+  <!-- EN: Shield -->
+  <TM_Shield_III.label>Bouclier</TM_Shield_III.label>
+  <!-- EN: Protects the paladin from damage for 50s or until the shield is broken.\nAbsorbs up to 150 damage.\nReduces recharge to 25s. -->
+  <TM_Shield_III.description>Protéger le paladin des dégâts pendant 50s ou jusqu'à ce que le bouclier se brise.\nAbsorbe jusqu'à 150 dégâts.\nRéduit le temps de recharge à 25s.</TM_Shield_III.description>
+  
+  <!-- EN: Valiant Charge -->
+  <TM_ValiantCharge.label>Charge vaillante</TM_ValiantCharge.label>
+  <!-- EN: The Paladin is flies with the wings of an angel to fly to a distant location, shattering the ground with holy power upon landing. -->
+  <TM_ValiantCharge.description>Le paladin s'envole avec les ailes d'un ange pour se rendre dans un lieu éloigné, fracassant le sol avec la puissance sacrée à l'atterrissage.</TM_ValiantCharge.description>
+  
+</LanguageData>

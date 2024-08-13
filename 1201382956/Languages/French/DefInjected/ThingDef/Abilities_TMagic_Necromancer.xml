@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: explosion -->
+  <FlyingObject_DeathBolt.label>explosion</FlyingObject_DeathBolt.label>
+  
+  <!-- EN: consume corpse -->
+  <Projectile_ConsumeCorpse.label>festin macabre</Projectile_ConsumeCorpse.label>
+  
+  <!-- EN: consume corpse: mass -->
+  <Projectile_ConsumeCorpse_Mass.label>consommer les corps : masse</Projectile_ConsumeCorpse_Mass.label>
+  
+  <!-- EN: corpse explosion -->
+  <Projectile_CorpseExplosion.label>explosion morbide</Projectile_CorpseExplosion.label>
+  
+  <!-- EN: deathbolt -->
+  <Projectile_DeathBolt.label>trait de mort</Projectile_DeathBolt.label>
+  
+  <!-- EN: deathbolt -->
+  <Projectile_DeathBolt_I.label>trait de mort</Projectile_DeathBolt_I.label>
+  
+  <!-- EN: deathbolt -->
+  <Projectile_DeathBolt_II.label>trait de mort</Projectile_DeathBolt_II.label>
+  
+  <!-- EN: deathbolt -->
+  <Projectile_DeathBolt_III.label>trait de mort</Projectile_DeathBolt_III.label>
+  
+  <!-- EN: Death mark -->
+  <Projectile_DeathMark.label>marque de mort</Projectile_DeathMark.label>
+  
+  <!-- EN: fog of torment -->
+  <Projectile_FogOfTorment.label>brouillard du tourment</Projectile_FogOfTorment.label>
+  
+  <!-- EN: Raise undead -->
+  <Projectile_RaiseUndead.label>ranimer un mort-vivant</Projectile_RaiseUndead.label>
+  
+</LanguageData>

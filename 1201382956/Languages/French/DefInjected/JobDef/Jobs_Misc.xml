@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: preparing circle magic -->
+  <JobDriver_AssistMagicCircle.reportString>prépare le cercle magique.</JobDriver_AssistMagicCircle.reportString>
+  
+  <!-- EN: creating discord -->
+  <JobDriver_Discord.reportString>crée la discorde.</JobDriver_Discord.reportString>
+  
+  <!-- EN: preparing attack -->
+  <JobDriver_DoFor.reportString>prépare une attaque.</JobDriver_DoFor.reportString>
+  
+  <!-- EN: doing magic bill at TargetA. -->
+  <JobDriver_DoMagicBill.reportString>fait des tâches sur la magie à TargetA.</JobDriver_DoMagicBill.reportString>
+  
+  <!-- EN: entertaining -->
+  <JobDriver_Entertain.reportString>divertit.</JobDriver_Entertain.reportString>
+  
+  <!-- EN: doing magic job -->
+  <JobDriver_GotoAndCast.reportString>fait un travail magique.</JobDriver_GotoAndCast.reportString>
+  
+  <!-- EN: placing lightning trap -->
+  <JobDriver_PlaceLightningTrap.reportString>place le piège de foudre.</JobDriver_PlaceLightningTrap.reportString>
+  
+  <!-- EN: projecting psionic barrier -->
+  <JobDriver_PsionicBarrier.reportString>projete une barrière psionique.</JobDriver_PsionicBarrier.reportString>
+  
+  <!-- EN: sleeping (lullaby) -->
+  <JobDriver_SleepNow.reportString>dort (berceuse).</JobDriver_SleepNow.reportString>
+  
+  <!-- EN: draining spirit -->
+  <JobDriver_SpiritDrain.reportString>draine l'esprit.</JobDriver_SpiritDrain.reportString>
+  
+  <!-- EN: marking sacrifice -->
+  <JobDriver_SummonDemon.reportString>marque le sacrifice.</JobDriver_SummonDemon.reportString>
+  
+  <!-- EN: motivating pawn -->
+  <JobDriver_TM_Command.reportString>motive le colon.</JobDriver_TM_Command.reportString>
+  
+  <!-- EN: waiting at location -->
+  <JobDriver_TM_GotoAndWait.reportString>attend à l'emplacement.</JobDriver_TM_GotoAndWait.reportString>
+  
+  <!-- EN: deep meditation -->
+  <JobDriver_TM_Meditate.reportString>méditation profonde.</JobDriver_TM_Meditate.reportString>
+  
+  <!-- EN: training and mentoring -->
+  <JobDriver_TM_Teach.reportString>formation et mentorat.</JobDriver_TM_Teach.reportString>
+  
+  <!-- EN: placing poison trap -->
+  <PlacePoisonTrap.reportString>place le piège de poison.</PlacePoisonTrap.reportString>
+  
+</LanguageData>

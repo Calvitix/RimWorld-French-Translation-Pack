@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Nightshade -->
+  <TM_Nightshade.label>Belladone</TM_Nightshade.label>
+  <!-- EN: Coat your weapons or projectiles in nightshade toxin. Each attack will apply a portion of the nightshade toxin. Ranged attacks apply toxin 40% as efficiently as melee attacks. Affected victims suffer from hallucinations and shortness of breath and will take organ damage if toxicity levels become severe.\n		\nThis ability requires 30 stamina to maintain and reduces stamina regeneration by 50%. -->
+  <TM_Nightshade.description>Enduisez vos armes ou projectiles de toxine de belladone. Chaque attaque appliquera une partie de la toxine de belladone. Les attaques à distance appliquent la toxine 40% plus efficacement que les attaques de mêlée. Les victimes touchées souffrent d'hallucinations et d'essoufflement et subissent des dégâts au niveau des organes si le niveau de toxicité est élevé.\n\nCette capacité nécessite 30 d'endurance pour être maintenue et réduit la régénération de l'endurance de 50%.</TM_Nightshade.description>
+  
+  <!-- EN: Shadow Strike -->
+  <TM_ShadowStrike.label>Attaque d'ombre</TM_ShadowStrike.label>
+  <!-- EN: Instantly moves the attacker behind the target and delivers a devastating, single target attack. The attacker gains 5s of haste. The attacker will return to the location they initiated the attack after 5 seconds. This attack may perform critical hits for 3x damage - chance decreases as the weapon gets heavier. Ranged weapons will never deliver critical hits. -->
+  <TM_ShadowStrike.description>Déplacer instantanément l'attaquant derrière la cible et délivrer une attaque dévastatrice à cible unique. L'attaquant gagne 5s de hâte. L'attaquant retourne à l'endroit où il a initié l'attaque après 5 secondes. Cette attaque peut réaliser des coups critiques pour 3x les dégâts - les chances diminuent à mesure que l'arme devient plus lourde. Les armes à distance n'infligent jamais de coup critique.</TM_ShadowStrike.description>
+  
+  <!-- EN: Shadow Walk -->
+  <TM_ShadowWalk.label>Marche des ténèbres</TM_ShadowWalk.label>
+  <!-- EN: Move unseen to instantly reappear in the shadow of another pawn. -->
+  <TM_ShadowWalk.description>Déplacez-vous sans être vu pour réapparaître instantanément dans l'ombre d'un autre colon.</TM_ShadowWalk.description>
+  
+  <!-- EN: Veil of Shadows -->
+  <TM_VeilOfShadows.label>Voile d’ombres</TM_VeilOfShadows.label>
+  <!-- EN: Throw a concoction that cloaks the caster and surrounding area in smoke and shadows. Caster gains Cloak of Shadows (invisibility). The shadow cloud will prevent targeting from automated system and reduces the accuracy of ranged attacks by 60%. -->
+  <TM_VeilOfShadows.description>Lancer une concoction qui recouvre le lanceur et les environs de fumée et d'ombres. Le lanceur de sorts gagne une cape d'ombre (invisibilité). Le nuage d'ombre empêche le ciblage par les systèmes automatisés et réduit la précision des attaques à distance de 60%.</TM_VeilOfShadows.description>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Gift of Magic -->
+  <TM_BestowMagicClassHD.label>don de magie</TM_BestowMagicClassHD.label>
+  <!-- EN: This pawn was recently granted the spark of magic. -->
+  <TM_BestowMagicClassHD.description>Ce colon a récemment reçu l'étincelle de la magie.</TM_BestowMagicClassHD.description>
+  
+  <!-- EN: Magic Severence -->
+  <TM_MagicSeverenceHD.label>magie rompue</TM_MagicSeverenceHD.label>
+  <!-- EN: This pawn has recently lost their connection to magic and will suffer from a loss of direction and purpose until they can fill the void with another purpose. -->
+  <TM_MagicSeverenceHD.description>Ce colon a récemment perdu son lien avec la magie et souffrira d'une perte de repères et d'objectifs jusqu'à ce qu'il puisse combler ce vide par un autre objectif.</TM_MagicSeverenceHD.description>
+  
+</LanguageData>

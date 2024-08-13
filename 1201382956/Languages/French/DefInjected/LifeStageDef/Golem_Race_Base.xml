@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flesh golem -->
+  <TM_FleshGolemLS.label>golem de chair</TM_FleshGolemLS.label>
+  
+  <!-- EN: flesh golem -->
+  <TM_FleshGolemLS1.label>golem de chair</TM_FleshGolemLS1.label>
+  
+  <!-- EN: flesh golem -->
+  <TM_FleshGolemLS2.label>golem de chair</TM_FleshGolemLS2.label>
+  
+  <!-- EN: flesh golem -->
+  <TM_FleshGolemLS3.label>golem de chair</TM_FleshGolemLS3.label>
+  
+  <!-- EN: hollow golem -->
+  <TM_HollowGolemLS.label>armure animée</TM_HollowGolemLS.label>
+  
+  <!-- EN: arcane affinity I -->
+  <TM_HollowGolemLS_AA1.label>affinité aux arcanes I</TM_HollowGolemLS_AA1.label>
+  
+  <!-- EN: arcane affinity II -->
+  <TM_HollowGolemLS_AA2.label>affinité aux arcanes II</TM_HollowGolemLS_AA2.label>
+  
+  <!-- EN: arcane affinity III -->
+  <TM_HollowGolemLS_AA3.label>affinité aux arcanes III</TM_HollowGolemLS_AA3.label>
+  
+  <!-- EN: death affinity I -->
+  <TM_HollowGolemLS_DA1.label>affinité à la mort I</TM_HollowGolemLS_DA1.label>
+  
+  <!-- EN: death affinity II -->
+  <TM_HollowGolemLS_DA2.label>affinité à la mort II</TM_HollowGolemLS_DA2.label>
+  
+  <!-- EN: death affinity III -->
+  <TM_HollowGolemLS_DA3.label>affinité à la mort III</TM_HollowGolemLS_DA3.label>
+  
+  <!-- EN: fire affinity I -->
+  <TM_HollowGolemLS_FA1.label>affinité au feu I</TM_HollowGolemLS_FA1.label>
+  
+  <!-- EN: fire affinity II -->
+  <TM_HollowGolemLS_FA2.label>affinité au feu II</TM_HollowGolemLS_FA2.label>
+  
+  <!-- EN: fire affinity III -->
+  <TM_HollowGolemLS_FA3.label>affinité au feu III</TM_HollowGolemLS_FA3.label>
+  
+  <!-- EN: water affinity I -->
+  <TM_HollowGolemLS_IA1.label>affinité à l'eau I</TM_HollowGolemLS_IA1.label>
+  
+  <!-- EN: water affinity II -->
+  <TM_HollowGolemLS_IA2.label>affinité à l'eau II</TM_HollowGolemLS_IA2.label>
+  
+  <!-- EN: water affinity III -->
+  <TM_HollowGolemLS_IA3.label>affinité à l'eau III</TM_HollowGolemLS_IA3.label>
+  
+  <!-- EN: maharal golem -->
+  <TM_MaharalGolemLS.label>golem maharal</TM_MaharalGolemLS.label>
+  
+  <!-- EN: maharal golem -->
+  <TM_MaharalGolemLS1.label>golem maharal</TM_MaharalGolemLS1.label>
+  
+  <!-- EN: maharal golem -->
+  <TM_MaharalGolemLS2.label>golem maharal</TM_MaharalGolemLS2.label>
+  
+  <!-- EN: maharal golem -->
+  <TM_MaharalGolemLS3.label>golem maharal</TM_MaharalGolemLS3.label>
+  
+  <!-- EN: mecha-golem -->
+  <TM_MechaGolemLS.label>golem mécanique</TM_MechaGolemLS.label>
+  
+  <!-- EN: earth shard mecha-golem -->
+  <TM_MechaGolemLS_ES1.label>éclat de terre golem mécanique</TM_MechaGolemLS_ES1.label>
+  
+  <!-- EN: earth shard mecha-golem -->
+  <TM_MechaGolemLS_ES2.label>éclat de terre golem mécanique</TM_MechaGolemLS_ES2.label>
+  
+  <!-- EN: earth shard mecha-golem -->
+  <TM_MechaGolemLS_ES3.label>éclat de terre golem mécanique</TM_MechaGolemLS_ES3.label>
+  
+  <!-- EN: flame shard mecha-golem -->
+  <TM_MechaGolemLS_FS1.label>éclat de feu golem mécanique</TM_MechaGolemLS_FS1.label>
+  
+  <!-- EN: flame shard mecha-golem -->
+  <TM_MechaGolemLS_FS2.label>éclat de feu golem mécanique</TM_MechaGolemLS_FS2.label>
+  
+  <!-- EN: flame shard mecha-golem -->
+  <TM_MechaGolemLS_FS3.label>éclat de feu golem mécanique</TM_MechaGolemLS_FS3.label>
+  
+  <!-- EN: lightning shard mecha-golem -->
+  <TM_MechaGolemLS_LS1.label>éclat de foudre golem mécanique</TM_MechaGolemLS_LS1.label>
+  
+  <!-- EN: lightning shard mecha-golem -->
+  <TM_MechaGolemLS_LS2.label>éclat de foudre golem mécanique</TM_MechaGolemLS_LS2.label>
+  
+  <!-- EN: lightning shard mecha-golem -->
+  <TM_MechaGolemLS_LS3.label>éclat de foudre golem mécanique</TM_MechaGolemLS_LS3.label>
+  
+  <!-- EN: water shard mecha-golem -->
+  <TM_MechaGolemLS_WS1.label>éclat d'eau golem mécanique</TM_MechaGolemLS_WS1.label>
+  
+  <!-- EN: water shard mecha-golem -->
+  <TM_MechaGolemLS_WS2.label>éclat d'eau golem mécanique</TM_MechaGolemLS_WS2.label>
+  
+  <!-- EN: water shard mecha-golem -->
+  <TM_MechaGolemLS_WS3.label>éclat d'eau golem mécanique</TM_MechaGolemLS_WS3.label>
+  
+  <!-- EN: silk golem -->
+  <TM_SilkGolemLS.label>golem de soie</TM_SilkGolemLS.label>
+  
+  <!-- EN: silk golem -->
+  <TM_SilkGolemLS1.label>golem de soie</TM_SilkGolemLS1.label>
+  
+  <!-- EN: silk golem -->
+  <TM_SilkGolemLS2.label>golem de soie</TM_SilkGolemLS2.label>
+  
+  <!-- EN: silk golem -->
+  <TM_SilkGolemLS3.label>golem de soie</TM_SilkGolemLS3.label>
+  
+  <!-- EN: stone golem -->
+  <TM_StoneGolemLS.label>golem de pierre</TM_StoneGolemLS.label>
+  
+  <!-- EN: stone golem -->
+  <TM_StoneGolemLS1.label>golem de pierre</TM_StoneGolemLS1.label>
+  
+  <!-- EN: stone golem -->
+  <TM_StoneGolemLS2.label>golem de pierre</TM_StoneGolemLS2.label>
+  
+  <!-- EN: stone golem -->
+  <TM_StoneGolemLS3.label>golem de pierre</TM_StoneGolemLS3.label>
+  
+  <!-- EN: straw golem -->
+  <TM_StrawGolemLS.label>golem de paille</TM_StrawGolemLS.label>
+  
+  <!-- EN: straw golem -->
+  <TM_StrawGolemLS1.label>golem de paille</TM_StrawGolemLS1.label>
+  
+  <!-- EN: straw golem -->
+  <TM_StrawGolemLS2.label>golem de paille</TM_StrawGolemLS2.label>
+  
+  <!-- EN: straw golem -->
+  <TM_StrawGolemLS3.label>golem de paille</TM_StrawGolemLS3.label>
+  
+  <!-- EN: wood golem -->
+  <TM_WoodGolemLS.label>golem de bois</TM_WoodGolemLS.label>
+  
+  <!-- EN: wood golem -->
+  <TM_WoodGolemLS1.label>golem de bois</TM_WoodGolemLS1.label>
+  
+  <!-- EN: wood golem -->
+  <TM_WoodGolemLS2.label>golem de bois</TM_WoodGolemLS2.label>
+  
+  <!-- EN: wood golem -->
+  <TM_WoodGolemLS3.label>golem de bois</TM_WoodGolemLS3.label>
+  
+</LanguageData>

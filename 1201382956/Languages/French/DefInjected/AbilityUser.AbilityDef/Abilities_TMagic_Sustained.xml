@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Burning Fury -->
+  <TM_BurningFury.label>Fureur ardente</TM_BurningFury.label>
+  <!-- EN: Activates or deactivates the sustained combat skill Burning Fury.\n	\nBurning Fury causes periodic burning damage to nearby enemies as well as the caster. It also cauterizes bleeding wounds and applies a combat enhancement on the caster.\n\nBurning Fury:\nMovement +10%\nBreathing +40%\nBlood pumping +40%\nPain threshold +40%\nArmor (Heat) +100%\n\nWhile active, the caster cannot be staggered and will reduce all incoming damage by 35%.\n\nThis ability actively consumes stamina, and will automatically cancel once the caster's stamina reaches 0. -->
+  <TM_BurningFury.description>Activer ou Désactiver la compétence de combat maintenu Fureur ardente.\n\nLa Fureur ardente inflige périodiquement des dégâts de feu aux ennemis proches ainsi qu'au lanceur de sorts. Elle cautérise également les blessures qui saignent et applique une amélioration de combat au lanceur.\n\nFurie ardente :\nMouvement : +10%\nRespiration : +40%\nPompage du sang : +40%\nSeuil de la douleur : +40%\nArmure (chaleur) : +100\n\nLorsqu'elle est active, le lanceur de sorts ne peut pas être déstabilisé et réduit tous les dégâts entrants de 35%.\n\nCette capacité consomme activement de l'endurance, et s'annule automatiquement lorsque l'endurance du lanceur atteint 0.</TM_BurningFury.description>
+  
+  <!-- EN: Fighters Focus -->
+  <TM_FightersFocus.label>Focalisation du combattant</TM_FightersFocus.label>
+  <!-- EN: Activates or deactivates the sustained combat skill Fighters Focus - increases mental break threshold by 5% and pain threshold by 20%. Requires 15 Stamina to sustain. -->
+  <TM_FightersFocus.description>Activer ou Désactiver la compétence de combat maintenu Focalisation du combattant - augmente le seuil de rupture mentale de 5% et le seuil de douleur de 20%. Nécessite 15 d'endurance pour être maintenu.</TM_FightersFocus.description>
+  
+  <!-- EN: Gear Repair -->
+  <TM_GearRepair.label>Réparation du matériel</TM_GearRepair.label>
+  <!-- EN: Activates or deactivates the sustained combat skill Gear Repair - slowly repairs equipped apparel and weapons. Requires 20 Stamina to sustain. -->
+  <TM_GearRepair.description>Activer ou Désactiver la compétence de combat maintenu Réparation du matériel - répare lentement les vêtements et armes équipés. Nécessite 20 d'endurance pour être maintenu.</TM_GearRepair.description>
+  
+  <!-- EN: Heavy Blow -->
+  <TM_HeavyBlow.label>Coup puissant</TM_HeavyBlow.label>
+  <!-- EN: Activates or deactivates the sustained combat skill Heavy Blow - increases damage of all attacks by 20%. Requires 30 Stamina to sustain. -->
+  <TM_HeavyBlow.description>Activer ou Désactiver la compétence de combat maintenu Coup puissant - augmente les dégâts de toutes les attaques de 20%. Nécessite 30 d'endurance pour être maintenue.</TM_HeavyBlow.description>
+  
+  <!-- EN: Inner Healing -->
+  <TM_InnerHealing.label>Guérison intérieure</TM_InnerHealing.label>
+  <!-- EN: Activates or deactivates the sustained combat skill Inner Healing - sacrifices physical energy to increase healing rate and disease immunity. Requires 10 Stamina to sustain. -->
+  <TM_InnerHealing.description>Activer ou Désactiver la compétence de combat maintenu Guérison intérieure - sacrifie l'énergie physique pour augmenter le taux de guérison et l'immunité aux maladies. Nécessite 10 d'endurance pour être maintenue.</TM_InnerHealing.description>
+  
+  <!-- EN: Strong Back -->
+  <TM_StrongBack.label>Dos solide</TM_StrongBack.label>
+  <!-- EN: Activates or deactivates the sustained combat skill Strong Back - increases carry capacity by 40 and inventory capacity by 50% but causes a 10% increase in exhaustion rate. Requires 20 Stamina to sustain. -->
+  <TM_StrongBack.description>Activer ou Désactiver la compétence de combat maintenu Dos solide - augmente la capacité de transport de 40 et la capacité d'inventaire de 50 % mais entraîne une augmentation de 10 % du taux d'épuisement. Nécessite 20 d'endurance pour être maintenu.</TM_StrongBack.description>
+  
+  <!-- EN: Thick Skin -->
+  <TM_ThickSkin.label>Peau dure</TM_ThickSkin.label>
+  <!-- EN: Activates or deactivates the sustained combat skill Thick Skin - increases all armor values by 10% and improves temperature thresholds slightly. Requires 30 Stamina to sustain and reduces stamina regeneration by 15%. -->
+  <TM_ThickSkin.description>Activer ou Désactiver la compétence de combat maintenu Peau dure - augmente toutes les valeurs d'armure de 10% et améliore légèrement les seuils de température. Nécessite 30 d'endurance pour être maintenu et réduit la régénération de l'endurance de 15%.</TM_ThickSkin.description>
+  
+</LanguageData>

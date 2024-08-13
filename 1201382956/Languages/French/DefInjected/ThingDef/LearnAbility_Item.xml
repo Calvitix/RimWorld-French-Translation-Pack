@@ -1,0 +1,970 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Combat Style: Apothecary -->
+  <BookOfApothecary.label>style de combat : Apothicaire</BookOfApothecary.label>
+  <!-- EN: Teaches a physically adept pawn how to become an apothecary. -->
+  <BookOfApothecary.description>Apprend à un colon doué physiquement à devenir un apothicaire.</BookOfApothecary.description>
+  <!-- EN: TM_Read -->
+  <BookOfApothecary.comps.CompUsable.useLabel>Lire</BookOfApothecary.comps.CompUsable.useLabel>
+  
+  <!-- EN: Arcane Tome: Power -->
+  <BookOfArcanist.label>livre magique : Arcane</BookOfArcanist.label>
+  <!-- EN: Teaches a gifted pawn how to harness arcane powers. -->
+  <BookOfArcanist.description>Apprend à un colon talentueux à maîtriser les pouvoirs des arcanes.</BookOfArcanist.description>
+  <!-- EN: TM_Read -->
+  <BookOfArcanist.comps.CompUsable.useLabel>Lire</BookOfArcanist.comps.CompUsable.useLabel>
+  
+  <!-- EN: Arcane Tome: Bard -->
+  <BookOfBard.label>livre magique : Barde</BookOfBard.label>
+  <!-- EN: Teaches a gifted pawn how to become a Bard. Bards are incapable of dumb labor and this work type will be disabled. -->
+  <BookOfBard.description>Apprend à un colon talentueux à devenir un barde. Les bardes sont incapables de faire du travail manuel et ce type de travail sera désactivé.</BookOfBard.description>
+  <!-- EN: TM_Read -->
+  <BookOfBard.comps.CompUsable.useLabel>Lire</BookOfBard.comps.CompUsable.useLabel>
+  
+  <!-- EN: Combat Style: Bladedancer -->
+  <BookOfBladedancer.label>style de combat : Danseur de lames</BookOfBladedancer.label>
+  <!-- EN: Teaches a physically adept pawn how to train as a Bladedancer -->
+  <BookOfBladedancer.description>Apprend à un colon doué physiquement à s'entraîner à la pratique de l'épée.</BookOfBladedancer.description>
+  <!-- EN: TM_Read -->
+  <BookOfBladedancer.comps.CompUsable.useLabel>Lire</BookOfBladedancer.comps.CompUsable.useLabel>
+  
+  <!-- EN: Arcane Tome: Chaos Mage -->
+  <BookOfChaos.label>livre magique : Mage du Chaos</BookOfChaos.label>
+  <!-- EN: Teaches a gifted pawn how to become a chaos mage - adaptable to any and all classes of magic. -->
+  <BookOfChaos.description>Apprend à un colon talentueux comment devenir un mage du chaos - adaptable à toutes les classes de magie.</BookOfChaos.description>
+  <!-- EN: TM_Read -->
+  <BookOfChaos.comps.CompUsable.useLabel>Lire</BookOfChaos.comps.CompUsable.useLabel>
+  
+  <!-- EN: Arcane Tome: Chronomancer -->
+  <BookOfChronomancer.label>livre magique : Chronomancie</BookOfChronomancer.label>
+  <!-- EN: Teaches a gifted pawn how to become a chronomancer, able to see and manipulate realities across time. -->
+  <BookOfChronomancer.description>Apprend à un colon talentueux comment de evenir un chronomancien, capable de voir et de manipuler les réalités à travers le temps.</BookOfChronomancer.description>
+  <!-- EN: TM_Read -->
+  <BookOfChronomancer.comps.CompUsable.useLabel>Lire</BookOfChronomancer.comps.CompUsable.useLabel>
+  
+  <!-- EN: Combat Style: Commander -->
+  <BookOfCommander.label>style de combat : Commandant</BookOfCommander.label>
+  <!-- EN: Teaches a physically adept pawn how to become a charismatic leader. -->
+  <BookOfCommander.description>Apprend à un colon doué physiquement à devenir un dirigeant charismatique.</BookOfCommander.description>
+  <!-- EN: TM_Read -->
+  <BookOfCommander.comps.CompUsable.useLabel>Lire</BookOfCommander.comps.CompUsable.useLabel>
+  
+  <!-- EN: Combat Style: Death Knight -->
+  <BookOfDeathKnight.label>style de combat : Chevalier de la mort</BookOfDeathKnight.label>
+  <!-- EN: Teaches a physically adept pawn to embrace the inevitable and become a death knight. -->
+  <BookOfDeathKnight.description>Apprend à un colon doué physiquement à accepter l'inévitable et à devenir un chevalier de la mort.</BookOfDeathKnight.description>
+  <!-- EN: TM_Read -->
+  <BookOfDeathKnight.comps.CompUsable.useLabel>Lire</BookOfDeathKnight.comps.CompUsable.useLabel>
+  
+  <!-- EN: Arcane Tome: Demonology -->
+  <BookOfDemons.label>livre magique : Démonologie</BookOfDemons.label>
+  <!-- EN: Details the process to enter an agreement with a demon to gain power. This contract binds the patron, in a literal sense, with demonic essence that affects their genetic makeup. This binding affects males and females differently. Demons will only agree to the contract if the user is magically gifted. \n	\n*Note scribbled at the bottom of the first page* This script is not clear on exactly what the demon gets out of the agreement... use with caution. -->
+  <BookOfDemons.description>Détaille le processus permettant de conclure un accord avec un démon pour obtenir du pouvoir. Ce contrat lie le client, au sens propre, avec une essence démoniaque qui affecte sa constitution génétique. Cette liaison affecte différemment les hommes et les femmes. Les démons n'acceptent le contrat que si l'utilisateur est doué en magie.\n\n*Note griffonnée au bas de la première page* Ce texte n'est pas clair sur ce que le démon obtient de l'accord... à utiliser avec prudence.</BookOfDemons.description>
+  <!-- EN: TM_Read -->
+  <BookOfDemons.comps.CompUsable.useLabel>Lire</BookOfDemons.comps.CompUsable.useLabel>
+  
+  <!-- EN: Arcane Tome: Nature -->
+  <BookOfDruid.label>livre magique : Nature</BookOfDruid.label>
+  <!-- EN: Teaches a gifted pawn how to become a Druid. -->
+  <BookOfDruid.description>Apprend à un colon talentueux à devenir un druide.</BookOfDruid.description>
+  <!-- EN: TM_Read -->
+  <BookOfDruid.comps.CompUsable.useLabel>Lire</BookOfDruid.comps.CompUsable.useLabel>
+  
+  <!-- EN: Arcane Tome: Earth -->
+  <BookOfEarth.label>livre magique : Terre</BookOfEarth.label>
+  <!-- EN: Teaches a gifted pawn mastery of the earth, combining and altering physical laws and its elements with the arcane. -->
+  <BookOfEarth.description>Apprend à un colon talentueux la maîtrise de la terre, en combinant et en modifiant les lois physiques et ses éléments avec la magie.</BookOfEarth.description>
+  <!-- EN: TM_Read -->
+  <BookOfEarth.comps.CompUsable.useLabel>Lire</BookOfEarth.comps.CompUsable.useLabel>
+  
+  <!-- EN: Arcane Tome: Enchanter -->
+  <BookOfEnchanter.label>livre magique : Enchanteur</BookOfEnchanter.label>
+  <!-- EN: Teaches a gifted pawn how to become an enchanter, able to manipulate matter and material to serve their purpose. -->
+  <BookOfEnchanter.description>Apprend à un colon talentueux comment devenir un enchanteur, capable de manipuler la matière et les matériaux pour les utiliser à ses fins.</BookOfEnchanter.description>
+  <!-- EN: TM_Read -->
+  <BookOfEnchanter.comps.CompUsable.useLabel>Lire</BookOfEnchanter.comps.CompUsable.useLabel>
+  
+  <!-- EN: Combat Form: Faceless -->
+  <BookOfFaceless.label>forme de combat : Sans visage</BookOfFaceless.label>
+  <!-- EN: Teaches a physically adept pawn how to adapt their form and fighting style to any situation. -->
+  <BookOfFaceless.description>Apprend à un colon doué physiquement à adapter sa forme et son style de combat dans n'importe quelle situation.</BookOfFaceless.description>
+  <!-- EN: TM_Read -->
+  <BookOfFaceless.comps.CompUsable.useLabel>Lire</BookOfFaceless.comps.CompUsable.useLabel>
+  
+  <!-- EN: Combat Form: Gladiator -->
+  <BookOfGladiator.label>forme de combat : Gladiateur</BookOfGladiator.label>
+  <!-- EN: Teaches a physically adept pawn how to train in the Gladiator combat form. -->
+  <BookOfGladiator.description>Apprend à un colon doué physiquement à s'entraîner à la forme de combat du gladiateur.</BookOfGladiator.description>
+  <!-- EN: TM_Read -->
+  <BookOfGladiator.comps.CompUsable.useLabel>Lire</BookOfGladiator.comps.CompUsable.useLabel>
+  
+  <!-- EN: Arcane Tome: Golemancer -->
+  <BookOfGolemancy.label>livre magique : Golemancien</BookOfGolemancy.label>
+  <!-- EN: Teaches a gifted pawn how to become a golemancer; a reclusive mage that channels arcane energy into mundane objects using sigils and runes. -->
+  <BookOfGolemancy.description>Apprend à un colon talentueux comment devenir un golemancien, un mage reclus qui canalise l'énergie magique dans des objets ordinaires à l'aide de sceaux et de runes.</BookOfGolemancy.description>
+  <!-- EN: TM_Read -->
+  <BookOfGolemancy.comps.CompUsable.useLabel>Lire</BookOfGolemancy.comps.CompUsable.useLabel>
+  
+  <!-- EN: Arcane Tome: Ice -->
+  <BookOfHeartOfFrost.label>livre magique : Glace</BookOfHeartOfFrost.label>
+  <!-- EN: Teaches a gifted pawn how to harness elemental ice and water. -->
+  <BookOfHeartOfFrost.description>Apprend à un colon talentueux à maîtriser les éléments de glace et d'eau.</BookOfHeartOfFrost.description>
+  <!-- EN: TM_Read -->
+  <BookOfHeartOfFrost.comps.CompUsable.useLabel>Lire</BookOfHeartOfFrost.comps.CompUsable.useLabel>
+  
+  <!-- EN: Arcane Tome: Hemomancy -->
+  <BookOfHemomancy.label>livre magique : Hémomancie</BookOfHemomancy.label>
+  <!-- EN: Teaches a gifted pawn how to become a hemomancer, or blood mage, and use the power of blood to fuel their magic. -->
+  <BookOfHemomancy.description>Apprend à un colon talentueux à devenir un hémomage, ou mage de sang, et à utiliser le pouvoir du sang pour alimenter sa magie.</BookOfHemomancy.description>
+  <!-- EN: TM_Read -->
+  <BookOfHemomancy.comps.CompUsable.useLabel>Lire</BookOfHemomancy.comps.CompUsable.useLabel>
+  
+  <!-- EN: Arcane Tome: Fire -->
+  <BookOfInnerFire.label>livre magique : Feu</BookOfInnerFire.label>
+  <!-- EN: Teaches a gifted pawn how to harness elements of fire. -->
+  <BookOfInnerFire.description>Apprend à un colon talentueux à maîtriser les éléments du feu.</BookOfInnerFire.description>
+  <!-- EN: TM_Read -->
+  <BookOfInnerFire.comps.CompUsable.useLabel>Lire</BookOfInnerFire.comps.CompUsable.useLabel>
+  
+  <!-- EN: Arcane Tome: Technomancy -->
+  <BookOfMagitech.label>livre magique : Technomancie</BookOfMagitech.label>
+  <!-- EN: Teaches a gifted pawn in the ways of the Technomancer, able to see the connection between science and magic. -->
+  <BookOfMagitech.description>Apprend à un colon talentueux les méthodes du Technomancer, capable de voir le lien entre la science et la magie.</BookOfMagitech.description>
+  <!-- EN: TM_Read -->
+  <BookOfMagitech.comps.CompUsable.useLabel>Lire</BookOfMagitech.comps.CompUsable.useLabel>
+  
+  <!-- EN: Combat Style: Monk -->
+  <BookOfMonk.label>style de combat : Moine</BookOfMonk.label>
+  <!-- EN: Teaches a physically adept pawn to hone their mind and body into a lethal weapon. -->
+  <BookOfMonk.description>Apprend à un colon doué physiquement à affiner son esprit et son corps pour en faire une arme mortelle.</BookOfMonk.description>
+  <!-- EN: TM_Read -->
+  <BookOfMonk.comps.CompUsable.useLabel>Lire</BookOfMonk.comps.CompUsable.useLabel>
+  
+  <!-- EN: Arcane Tome: Necromancer -->
+  <BookOfNecromancer.label>livre magique : Nécromancie</BookOfNecromancer.label>
+  <!-- EN: Teaches a gifted pawn how to become a Necromancer. *Note: The necromancer may become a lich at a later stage, lichs are incapable of all activity except fighting and research. Many other magic classes dislike necromancers. Choose carefully. -->
+  <BookOfNecromancer.description>Apprend à un colon talentueux à devenir un nécromancien. *Note : Le nécromancien peut devenir une liche à un stade ultérieur, les liches sont incapables de toute activité sauf le combat et la recherche. De nombreuses autres classes de magie n'apprécient pas les nécromanciens. Choisissez avec soin.</BookOfNecromancer.description>
+  <!-- EN: TM_Read -->
+  <BookOfNecromancer.comps.CompUsable.useLabel>Lire</BookOfNecromancer.comps.CompUsable.useLabel>
+  
+  <!-- EN: Arcane Tome: Priest -->
+  <BookOfPriest.label>livre magique : Prêtre</BookOfPriest.label>
+  <!-- EN: Teaches a gifted pawn how to become a Priest. Priests are incapable of violence and these skills will be disabled. -->
+  <BookOfPriest.description>Apprend à un colon talentueux à devenir un prêtre. Les prêtres sont incapables de violence et ces compétences seront désactivées.</BookOfPriest.description>
+  <!-- EN: TM_Read -->
+  <BookOfPriest.comps.CompUsable.useLabel>Lire</BookOfPriest.comps.CompUsable.useLabel>
+  
+  <!-- EN: Combat Power: Psionic -->
+  <BookOfPsionic.label>pouvoir de combat : Psionique</BookOfPsionic.label>
+  <!-- EN: Teaches a physically adept pawn how to harness psionic power.\n\n*there is a footnote at the bottom of the page etched in charcoal: "seems only those with high psychic sensitivity can learn to manipulate psionic energy... either that or find a way to jump start psychic activity" -->
+  <BookOfPsionic.description>Apprendre à un colon doué physiquement à exploiter le pouvoir psionique.\n\n*Il y a une note en bas de page gravée au charbon : "Il semble que seuls ceux qui ont une grande sensibilité psychique peuvent apprendre à manipuler l'énergie psionique... Soit ça, soit trouver un moyen de faire jaillir l'activité psychique."</BookOfPsionic.description>
+  <!-- EN: TM_Read -->
+  <BookOfPsionic.comps.CompUsable.useLabel>Lire</BookOfPsionic.comps.CompUsable.useLabel>
+  
+  <!-- EN: Arcane Script: ??? -->
+  <BookOfQuestion.label>texte magique : ???</BookOfQuestion.label>
+  <!-- EN: Teaches a gifted pawn how to harness magical powers... -->
+  <BookOfQuestion.description>Enseigne à un colon talentueux comment exploiter les pouvoirs magiques...</BookOfQuestion.description>
+  <!-- EN: TM_Read -->
+  <BookOfQuestion.comps.CompUsable.useLabel>Lire</BookOfQuestion.comps.CompUsable.useLabel>
+  
+  <!-- EN: Combat Style: Ranger -->
+  <BookOfRanger.label>style de combat : Rôdeur</BookOfRanger.label>
+  <!-- EN: Teaches a physically adept pawn how to train as a Ranger -->
+  <BookOfRanger.description>Apprend à un colon doué physiquement à s'entraîner comme Rôdeur.</BookOfRanger.description>
+  <!-- EN: TM_Read -->
+  <BookOfRanger.comps.CompUsable.useLabel>Lire</BookOfRanger.comps.CompUsable.useLabel>
+  
+  <!-- EN: Arcane Tome: Shadow -->
+  <BookOfShadow.label>livre magique : Ombre</BookOfShadow.label>
+  <!-- EN: In the dead of night, fear reveals itself in the blade's reflection - the shadow awakens. -->
+  <BookOfShadow.description>Au cœur de la nuit, la peur se révèle dans le reflet de la lame - l'ombre se réveille.</BookOfShadow.description>
+  <!-- EN: TM_Read -->
+  <BookOfShadow.comps.CompUsable.useLabel>Lire</BookOfShadow.comps.CompUsable.useLabel>
+  
+  <!-- EN: Arcane Tome: Shaman -->
+  <BookOfShamanism.label>livre magique : Chaman</BookOfShamanism.label>
+  <!-- EN: Teaches a gifted pawn how to become a shaman; a tribal leader focused on ritualistic magic to create powerful curses and enchantments, and extends their influence through totems. -->
+  <BookOfShamanism.description>Apprend à un colon talentueux à devenir un chaman ; un chef de tribu qui se concentre sur la magie rituelle pour créer de puissants maléfices et enchantements, et étend son influence par le biais de totems.</BookOfShamanism.description>
+  <!-- EN: TM_Read -->
+  <BookOfShamanism.comps.CompUsable.useLabel>Lire</BookOfShamanism.comps.CompUsable.useLabel>
+  
+  <!-- EN: Combat Style: Sniper -->
+  <BookOfSniper.label>style de combat : Tireur d'élite</BookOfSniper.label>
+  <!-- EN: Teaches a physically adept pawn how to train as a sniper. -->
+  <BookOfSniper.description>Apprend à un colon doué physiquement à s'entraîner comme tireur d'élite.</BookOfSniper.description>
+  <!-- EN: TM_Read -->
+  <BookOfSniper.comps.CompUsable.useLabel>Lire</BookOfSniper.comps.CompUsable.useLabel>
+  
+  <!-- EN: Arcane Tome: Lightning -->
+  <BookOfStormBorn.label>livre magique : Foudre</BookOfStormBorn.label>
+  <!-- EN: Teaches a gifted pawn how to harness elements of lightning. -->
+  <BookOfStormBorn.description>Apprend à un colon talentueux à maîtriser les éléments de foudre.</BookOfStormBorn.description>
+  <!-- EN: TM_Read -->
+  <BookOfStormBorn.comps.CompUsable.useLabel>Lire</BookOfStormBorn.comps.CompUsable.useLabel>
+  
+  <!-- EN: Arcane Tome: Summoning -->
+  <BookOfSummoner.label>livre magique : Invocation</BookOfSummoner.label>
+  <!-- EN: Teaches a gifted pawn how to become a Summoner. -->
+  <BookOfSummoner.description>Apprend à un colon talentueux à devenir un invocateur.</BookOfSummoner.description>
+  <!-- EN: TM_Read -->
+  <BookOfSummoner.comps.CompUsable.useLabel>Lire</BookOfSummoner.comps.CompUsable.useLabel>
+  
+  <!-- EN: Serum: Super Soldier -->
+  <BookOfSuperSoldier.label>sérum : Super-Soldat</BookOfSuperSoldier.label>
+  <!-- EN: Inject a pawn with a serum that enhances their physical abilities. Incapacitates a pawn for a couple days while the serum takes affect and develops over several stages. The serum takes about 100 days to fully develop. Any pawn may take SS Serum, but only physically adept pawns may acquire the Super Soldier trait. This serum will reduce magical potency and potential. -->
+  <BookOfSuperSoldier.description>Injecte à un colon un sérum qui améliore ses capacités physiques. Incapacite le colon pendant quelques jours, le temps que le sérum fasse effet et se développe en plusieurs étapes. Le sérum prend environ 100 jours pour se développer complètement. N'importe quel colon peut prendre le sérum super-soldat, mais seuls les colons doués physiquement peuvent acquérir la caractéristique de super-soldat. Ce sérum réduit la puissance et le potentiel magiques.</BookOfSuperSoldier.description>
+  <!-- EN: TM_Inject -->
+  <BookOfSuperSoldier.comps.CompUsable.useLabel>Injecter</BookOfSuperSoldier.comps.CompUsable.useLabel>
+  
+  <!-- EN: Arcane Tome: Brightmage -->
+  <BookOfTheSun.label>livre magique : Mage de lumière</BookOfTheSun.label>
+  <!-- EN: Teaches a gifted pawn how to become a brightmage. Brightmages manipulate the power of sunlight to create intense, destructive magic. -->
+  <BookOfTheSun.description>Apprend à un colon talentueux comment devenir un mage de lumière. Les mages de lumière manipulent le pouvoir de la lumière du soleil pour créer une magie intense et destructrice.</BookOfTheSun.description>
+  <!-- EN: TM_Read -->
+  <BookOfTheSun.comps.CompUsable.useLabel>Lire</BookOfTheSun.comps.CompUsable.useLabel>
+  
+  <!-- EN: Divine Tome: Paladin -->
+  <BookOfValiant.label>livre divin : Paladin</BookOfValiant.label>
+  <!-- EN: Teaches a gifted pawn how to become a Paladin. -->
+  <BookOfValiant.description>Apprend à un colon talentueux à devenir un paladin.</BookOfValiant.description>
+  <!-- EN: TM_Read -->
+  <BookOfValiant.comps.CompUsable.useLabel>Lire</BookOfValiant.comps.CompUsable.useLabel>
+  
+  <!-- EN: Gem of Arcane Insight -->
+  <GemstoneOfInsight_Magic.label>gemme de connaissance magique</GemstoneOfInsight_Magic.label>
+  <!-- EN: Imbues the user with an arcane spirit, granting them the "magically gifted" trait. \n	\n**Note: use of this item will replace a random trait if the user has more than 7 traits and cannot be used by a pawn with existing magic or fighter traits** -->
+  <GemstoneOfInsight_Magic.description>Imprègne l'utilisateur d'un esprit magique, lui conférant le trait "doué en magie".\n\n**Remarque : l'utilisation de cet objet remplacera un trait aléatoire si l'utilisateur possède plus de 7 traits et ne peut pas être utilisé par un colon possédant des traits de magie ou de combat**.</GemstoneOfInsight_Magic.description>
+  <!-- EN: TM_Use -->
+  <GemstoneOfInsight_Magic.comps.CompUsable.useLabel>Utiliser</GemstoneOfInsight_Magic.comps.CompUsable.useLabel>
+  
+  <!-- EN: Gem of Physical Insight -->
+  <GemstoneOfInsight_Might.label>gemme de connaissance physique</GemstoneOfInsight_Might.label>
+  <!-- EN: Imbues the user with the spirit of a warrior, granting them the "physically adept" trait.	\n\n**Note: use of this item will replace a random trait if the user has more than 7 traits and cannot be used by a pawn with existing magic or fighter traits** -->
+  <GemstoneOfInsight_Might.description>Imprègne l'utilisateur de l'esprit d'un guerrier, lui conférant le trait "doué en combat".\n\n**Remarque : l'utilisation de cet objet remplacera un trait aléatoire si l'utilisateur possède plus de 7 traits et ne peut pas être utilisé par un colon possédant des traits de magie ou de combat**.</GemstoneOfInsight_Might.description>
+  <!-- EN: TM_Use -->
+  <GemstoneOfInsight_Might.comps.CompUsable.useLabel>Utiliser</GemstoneOfInsight_Might.comps.CompUsable.useLabel>
+  
+  <!-- EN: Fighter Skill: Burning Fury -->
+  <SkillOf_BurningFury.label>technique de combattant : Fureur ardente</SkillOf_BurningFury.label>
+  <!-- EN: Teaches a fighter class how to activate the Burning Fury aura. Non-violent pawns cannot learn this skill. -->
+  <SkillOf_BurningFury.description>Apprend à une classe de combattants à activer l'aura fureur ardente. Les colons non-violents ne peuvent pas apprendre cette compétence.</SkillOf_BurningFury.description>
+  <!-- EN: TM_Learn -->
+  <SkillOf_BurningFury.comps.CompUsable.useLabel>Lire</SkillOf_BurningFury.comps.CompUsable.useLabel>
+  
+  <!-- EN: Fighter Skill: Fighters Focus -->
+  <SkillOf_FightersFocus.label>technique de combattant : Concentration de combattants</SkillOf_FightersFocus.label>
+  <!-- EN: Teaches a fighter class how to dedicate an allotment of stamina to withstand greater mental and physical stress. -->
+  <SkillOf_FightersFocus.description>Apprend à une classe de combattants à consacrer une partie de son endurance pour résister à un stress mental et physique plus important.</SkillOf_FightersFocus.description>
+  <!-- EN: TM_Learn -->
+  <SkillOf_FightersFocus.comps.CompUsable.useLabel>Lire</SkillOf_FightersFocus.comps.CompUsable.useLabel>
+  
+  <!-- EN: Fighter Skill: Gear Repair -->
+  <SkillOf_GearRepair.label>technique de combattant : Équipement réparé</SkillOf_GearRepair.label>
+  <!-- EN: Teaches a fighter class how to dedicate an allotment of stamina to maintaining and repairing worn equipment. -->
+  <SkillOf_GearRepair.description>Apprend à une classe de combattants à consacrer une partie de son endurance à l'entretien et à la réparation de l'équipement usé.</SkillOf_GearRepair.description>
+  <!-- EN: TM_Learn -->
+  <SkillOf_GearRepair.comps.CompUsable.useLabel>Lire</SkillOf_GearRepair.comps.CompUsable.useLabel>
+  
+  <!-- EN: Fighter Skill: Heavy Blow -->
+  <SkillOf_HeavyBlow.label>technique de combattant : Coup puissant</SkillOf_HeavyBlow.label>
+  <!-- EN: Teaches a fighter class how to dedicate an allotment of stamina to increase the power of each attack. -->
+  <SkillOf_HeavyBlow.description>Apprend à une classe de combattants à consacrer une partie de son endurance pour augmenter la puissance de chaque attaque.</SkillOf_HeavyBlow.description>
+  <!-- EN: TM_Learn -->
+  <SkillOf_HeavyBlow.comps.CompUsable.useLabel>Lire</SkillOf_HeavyBlow.comps.CompUsable.useLabel>
+  
+  <!-- EN: Apothecary Recipe: Bliss -->
+  <SkillOf_HerbalBliss.label>recette d'Apothicaire : Béatitude</SkillOf_HerbalBliss.label>
+  <!-- EN: Teaches an apothecary how to create Bliss - a drug that induces a state of bliss, able to completely mask nearly all emotions and pain. This drug also causes skill loss and dramatically slows skill gain. -->
+  <SkillOf_HerbalBliss.description>Apprend à un apothicaire comment créer la Béatitude - une drogue qui induit un état de béatitude, capable de masquer complètement presque toutes les émotions et la douleur. Cette drogue entraîne également une perte de compétences et ralentit considérablement le gain de compétences.</SkillOf_HerbalBliss.description>
+  <!-- EN: TM_Learn -->
+  <SkillOf_HerbalBliss.comps.CompUsable.useLabel>Lire</SkillOf_HerbalBliss.comps.CompUsable.useLabel>
+  
+  <!-- EN: Apothecary Recipe: Clarity -->
+  <SkillOf_HerbalClarity.label>recette d'Apothicaire : Clarté</SkillOf_HerbalClarity.label>
+  <!-- EN: Teaches an apothecary how to create Clarity - a drug that reduces resistance to the arcane, giving mages a large boost to mana regeneration and increasing psychic sensitivity. May also cause deterioration in mental stability. -->
+  <SkillOf_HerbalClarity.description>Apprend à un apothicaire comment créer la Clarté - une drogue qui réduit la résistance à la magie, donnant aux mages une forte augmentation de la régénération du mana et de la sensibilité psychique. Peut également entraîner une détérioration de la stabilité mentale.</SkillOf_HerbalClarity.description>
+  <!-- EN: TM_Learn -->
+  <SkillOf_HerbalClarity.comps.CompUsable.useLabel>Lire</SkillOf_HerbalClarity.comps.CompUsable.useLabel>
+  
+  <!-- EN: Fighter Skill: Inner Healing -->
+  <SkillOf_InnerHealing.label>technique de combattant : Guérison interne</SkillOf_InnerHealing.label>
+  <!-- EN: Teaches a fighter class how to dedicate an allotment of stamina and physical energy to increase healing rate and improve disease immunity. -->
+  <SkillOf_InnerHealing.description>Apprend à une classe de combattants à consacrer une partie de son endurance et de son énergie physique à l'augmentation du taux de guérison et à l'amélioration de l'immunité aux maladies.</SkillOf_InnerHealing.description>
+  <!-- EN: TM_Learn -->
+  <SkillOf_InnerHealing.comps.CompUsable.useLabel>Lire</SkillOf_InnerHealing.comps.CompUsable.useLabel>
+  
+  <!-- EN: Fighter Skill: Legion -->
+  <SkillOf_Legion.label>technique de combattant : Légion</SkillOf_Legion.label>
+  <!-- EN: Teaches a fighter how to replicate the combat abilities of another fighter class. -->
+  <SkillOf_Legion.description>Apprend à un combattant à reproduire les capacités de combat d'une autre classe de combattants.</SkillOf_Legion.description>
+  <!-- EN: TM_Learn -->
+  <SkillOf_Legion.comps.CompUsable.useLabel>Lire</SkillOf_Legion.comps.CompUsable.useLabel>
+  
+  <!-- EN: Fighter Skill: Pommel Strike -->
+  <SkillOf_PommelStrike.label>technique de combattant : Frappe du pommeau</SkillOf_PommelStrike.label>
+  <!-- EN: Teaches a fighter class how to perform a non-lethal blow to stun or knock-out a target. -->
+  <SkillOf_PommelStrike.description>Apprend à une classe de combattants à porter un coup non mortel pour étourdir ou assommer une cible.</SkillOf_PommelStrike.description>
+  <!-- EN: TM_Learn -->
+  <SkillOf_PommelStrike.comps.CompUsable.useLabel>Lire</SkillOf_PommelStrike.comps.CompUsable.useLabel>
+  
+  <!-- EN: Fighter Skill: Sprint -->
+  <SkillOf_Sprint.label>technique de combattant : Sprint</SkillOf_Sprint.label>
+  <!-- EN: Teaches a fighter class how to dedicate an allotment of stamina to sustain an increased movement rate. -->
+  <SkillOf_Sprint.description>Apprend à une classe de combattants à consacrer une partie de son endurance pour une vitesse de déplacement accrue.</SkillOf_Sprint.description>
+  <!-- EN: TM_Learn -->
+  <SkillOf_Sprint.comps.CompUsable.useLabel>Lire</SkillOf_Sprint.comps.CompUsable.useLabel>
+  
+  <!-- EN: Fighter Skill: Strong Back -->
+  <SkillOf_StrongBack.label>technique de combattant : Dos solide</SkillOf_StrongBack.label>
+  <!-- EN: Teaches a fighter class how to dedicate an allotment of stamina to increase carrying and inventory capacities. -->
+  <SkillOf_StrongBack.description>Apprend à une classe de combattants à consacrer une partie de son endurance à l'augmentation des capacités de transport et d'inventaire.</SkillOf_StrongBack.description>
+  <!-- EN: TM_Learn -->
+  <SkillOf_StrongBack.comps.CompUsable.useLabel>Lire</SkillOf_StrongBack.comps.CompUsable.useLabel>
+  
+  <!-- EN: Fighter Skill: Taunt -->
+  <SkillOf_Taunt.label>technique de combattant : Provocation</SkillOf_Taunt.label>
+  <!-- EN: Teaches a fighter class how to taunt nearby enemies. -->
+  <SkillOf_Taunt.description>Apprend à une classe de combattants à défier les ennemis proches.</SkillOf_Taunt.description>
+  <!-- EN: TM_Learn -->
+  <SkillOf_Taunt.comps.CompUsable.useLabel>Lire</SkillOf_Taunt.comps.CompUsable.useLabel>
+  
+  <!-- EN: Fighter Skill: Tempest Strike -->
+  <SkillOf_TempestStrike.label>technique de combattant : Éclair de tempête</SkillOf_TempestStrike.label>
+  <!-- EN: Teaches a fighter class a technique to strike in rapid succession using their weapon. -->
+  <SkillOf_TempestStrike.description>Apprend à une classe de combattants une technique pour frapper en succession rapide en utilisant son arme.</SkillOf_TempestStrike.description>
+  <!-- EN: TM_Learn -->
+  <SkillOf_TempestStrike.comps.CompUsable.useLabel>Lire</SkillOf_TempestStrike.comps.CompUsable.useLabel>
+  
+  <!-- EN: Fighter Skill: Thick Skin -->
+  <SkillOf_ThickSkin.label>technique de combattant : Peau dure</SkillOf_ThickSkin.label>
+  <!-- EN: Teaches a fighter class how to dedicate an allotment of stamina to increase armor values and temperature threshold. -->
+  <SkillOf_ThickSkin.description>Apprend à une classe de combattants à consacrer une partie de son endurance à l'augmentation des valeurs d'armure et du seuil de température.</SkillOf_ThickSkin.description>
+  <!-- EN: TM_Learn -->
+  <SkillOf_ThickSkin.comps.CompUsable.useLabel>Lire</SkillOf_ThickSkin.comps.CompUsable.useLabel>
+  
+  <!-- EN: Fighter Skill: Throwing Knife -->
+  <SkillOf_ThrowingKnife.label>technique de combattant : Couteau de lancer</SkillOf_ThrowingKnife.label>
+  <!-- EN: Teaches a fighter class the Throwing Knife skill. Non-violent pawns cannot learn this skill. -->
+  <SkillOf_ThrowingKnife.description>Apprend à une classe de combattant la compétence couteau de lancer. Les colons non-violents ne peuvent pas apprendre cette compétence.</SkillOf_ThrowingKnife.description>
+  <!-- EN: TM_Learn -->
+  <SkillOf_ThrowingKnife.comps.CompUsable.useLabel>Lire</SkillOf_ThrowingKnife.comps.CompUsable.useLabel>
+  
+  <!-- EN: Ice Spell: Alter Storm -->
+  <SpellOf_AlterStorm.label>sort de glace : Tempête altérée</SpellOf_AlterStorm.label>
+  <!-- EN: Teaches an Ice mage how to alter the conditions of a storm to produce various effects. -->
+  <SpellOf_AlterStorm.description>Apprend à un mage des glaces comment modifier les conditions d'une tempête pour produire divers effets.</SpellOf_AlterStorm.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_AlterStorm.comps.CompUsable.useLabel>Lire</SpellOf_AlterStorm.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: Arcane Bolt -->
+  <SpellOf_ArcaneBolt.label>sort de mage : Éclair des arcanes</SpellOf_ArcaneBolt.label>
+  <!-- EN: Teaches a magic user how to forcefully project arcane energy. -->
+  <SpellOf_ArcaneBolt.description>Apprend à un utilisateur de magie à projeter avec force de l'énergie des arcanes.</SpellOf_ArcaneBolt.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_ArcaneBolt.comps.CompUsable.useLabel>Lire</SpellOf_ArcaneBolt.comps.CompUsable.useLabel>
+  
+  <!-- EN: Bard Spell: Battle Hymn -->
+  <SpellOf_BattleHymn.label>sort de Barde : Hymne de bataille</SpellOf_BattleHymn.label>
+  <!-- EN: Teaches a bard how to perform Battle Hymn. -->
+  <SpellOf_BattleHymn.description>Apprend à un barde à exécuter un Hymne de bataille.</SpellOf_BattleHymn.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_BattleHymn.comps.CompUsable.useLabel>Lire</SpellOf_BattleHymn.comps.CompUsable.useLabel>
+  
+  <!-- EN: Enchanter Spell: Blank Mind -->
+  <SpellOf_BlankMind.label>sort d'Enchanteur : Esprit vide</SpellOf_BlankMind.label>
+  <!-- EN: Teaches an enchanter how to wipe memories and break a pawn out of a mental state or cause a long duration stun on enemies. -->
+  <SpellOf_BlankMind.description>Apprend à un enchanteur à effacer les souvenirs et à sortir un colon d'un état mental ou à provoquer un étourdissement de longue durée sur les ennemis.</SpellOf_BlankMind.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_BlankMind.comps.CompUsable.useLabel>Lire</SpellOf_BlankMind.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: Blink -->
+  <SpellOf_Blink.label>sort de mage : Transfert</SpellOf_Blink.label>
+  <!-- EN: Teaches a magic user how arcane forces are interconnected, allowing the mage to rapidly move short distances. -->
+  <SpellOf_Blink.description>Apprend à un utilisateur de magie comment les forces des arcanes sont interconnectées, permettant au mage de se déplacer rapidement sur de courtes distances.</SpellOf_Blink.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_Blink.comps.CompUsable.useLabel>Lire</SpellOf_Blink.comps.CompUsable.useLabel>
+  
+  <!-- EN: Ice Spell: Blizzard -->
+  <SpellOf_Blizzard.label>sort de glace : Blizzard</SpellOf_Blizzard.label>
+  <!-- EN: Teaches an ice mage how to call forth a blizzard to bury your foes in a hail of ice and snow. -->
+  <SpellOf_Blizzard.description>Apprend à un mage de glace à invoquer un blizzard pour ensevelir ses ennemis sous une grêle de glace et de neige.</SpellOf_Blizzard.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_Blizzard.comps.CompUsable.useLabel>Lire</SpellOf_Blizzard.comps.CompUsable.useLabel>
+  
+  <!-- EN: Blood Mage Spell: Blood Moon -->
+  <SpellOf_BloodMoon.label>sort de Mage de sang : Lune de sang</SpellOf_BloodMoon.label>
+  <!-- EN: Teaches a blood mage how to summon a vicious pack of blood demons. -->
+  <SpellOf_BloodMoon.description>Apprend à un mage de sang comment invoquer une meute vicieuse de démons de sang.</SpellOf_BloodMoon.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_BloodMoon.comps.CompUsable.useLabel>Lire</SpellOf_BloodMoon.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: Blur -->
+  <SpellOf_Blur.label>sort de mage : Voile corrompu</SpellOf_Blur.label>
+  <!-- EN: Teaches a magic user how to distort the light around their body. -->
+  <SpellOf_Blur.description>Apprend à un utilisateur de magie à déformer la lumière autour de son corps.</SpellOf_Blur.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_Blur.comps.CompUsable.useLabel>Lire</SpellOf_Blur.comps.CompUsable.useLabel>
+  
+  <!-- EN: Golemancer Spell: Awareness Brand -->
+  <SpellOf_BrandAwareness.label>sort du Golemancien : Marque de conscience</SpellOf_BrandAwareness.label>
+  <!-- EN: Teaches a golemancer the sigil to create an awareness brand. -->
+  <SpellOf_BrandAwareness.description>Apprend à un golemancien le sceau pour créer une marque de conscience.</SpellOf_BrandAwareness.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_BrandAwareness.comps.CompUsable.useLabel>Lire</SpellOf_BrandAwareness.comps.CompUsable.useLabel>
+  
+  <!-- EN: Golemancer Spell: Emotion Brand -->
+  <SpellOf_BrandEmotion.label>sort du Golemancien : Marque d'émotions</SpellOf_BrandEmotion.label>
+  <!-- EN: Teaches a golemancer the sigil to create an emotion brand. -->
+  <SpellOf_BrandEmotion.description>Apprend à un golemancien le sceau pour créer une marque d'émotion.</SpellOf_BrandEmotion.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_BrandEmotion.comps.CompUsable.useLabel>Lire</SpellOf_BrandEmotion.comps.CompUsable.useLabel>
+  
+  <!-- EN: Golemancer Spell: Fitness Brand -->
+  <SpellOf_BrandFitness.label>sort du Golemancien : Marque de fitness</SpellOf_BrandFitness.label>
+  <!-- EN: Teaches a golemancer the sigil to create a fitness brand. -->
+  <SpellOf_BrandFitness.description>Apprend à un golemancien le sceau pour créer une marque de fitness.</SpellOf_BrandFitness.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_BrandFitness.comps.CompUsable.useLabel>Lire</SpellOf_BrandFitness.comps.CompUsable.useLabel>
+  
+  <!-- EN: Golemancer Spell: Protection Brand -->
+  <SpellOf_BrandProtection.label>sort du Golemancien : Marque de protection</SpellOf_BrandProtection.label>
+  <!-- EN: Teaches a golemancer the sigil to create a protection brand. -->
+  <SpellOf_BrandProtection.description>Apprend à un golemancien le sceau pour créer une marque de protection.</SpellOf_BrandProtection.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_BrandProtection.comps.CompUsable.useLabel>Lire</SpellOf_BrandProtection.comps.CompUsable.useLabel>
+  
+  <!-- EN: Golemancer Spell: Siphon Brand -->
+  <SpellOf_BrandSiphon.label>sort du Golemancien : Marque du siphon</SpellOf_BrandSiphon.label>
+  <!-- EN: Teaches a golemancer the sigil to create a siphoning brand. -->
+  <SpellOf_BrandSiphon.description>Apprend à un golemancien le sceau pour créer une marque de siphon.</SpellOf_BrandSiphon.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_BrandSiphon.comps.CompUsable.useLabel>Lire</SpellOf_BrandSiphon.comps.CompUsable.useLabel>
+  
+  <!-- EN: Golemancer Spell: Vitality Brand -->
+  <SpellOf_BrandVitality.label>sort du Golemancien : Marque de vitalité</SpellOf_BrandVitality.label>
+  <!-- EN: Teaches a golemancer the sigil to create a vitality brand. -->
+  <SpellOf_BrandVitality.description>Apprend à un golemancien le sceau pour créer une marque de vitalité.</SpellOf_BrandVitality.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_BrandVitality.comps.CompUsable.useLabel>Lire</SpellOf_BrandVitality.comps.CompUsable.useLabel>
+  
+  <!-- EN: Druid Spell: Briar Patch -->
+  <SpellOf_BriarPatch.label>sort de Druide : Lianes épineuses</SpellOf_BriarPatch.label>
+  <!-- EN: Teaches a Druid how to rapidly grow a hazard made of thorny vines. -->
+  <SpellOf_BriarPatch.description>Apprend à un druide à faire pousser rapidement un danger fait de lianes épineuses.</SpellOf_BriarPatch.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_BriarPatch.comps.CompUsable.useLabel>Lire</SpellOf_BriarPatch.comps.CompUsable.useLabel>
+  
+  <!-- EN: Fire Spell: Cauterize Wound -->
+  <SpellOf_CauterizeWound.label>sort de feu : Cautérisation de la plaie</SpellOf_CauterizeWound.label>
+  <!-- EN: Teaches a fire mage how to use elemental fire to instantly clean and close wounds - may leave burn scars. -->
+  <SpellOf_CauterizeWound.description>Apprend à un mage du feu à utiliser le feu élémentaire pour nettoyer et refermer instantanément les blessures - peut laisser des cicatrices de brûlure.</SpellOf_CauterizeWound.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_CauterizeWound.comps.CompUsable.useLabel>Lire</SpellOf_CauterizeWound.comps.CompUsable.useLabel>
+  
+  <!-- EN: Lightning Spell: Charge Battery -->
+  <SpellOf_ChargeBattery.label>sort de foudre : Charger la batterie</SpellOf_ChargeBattery.label>
+  <!-- EN: Teaches a lightning mage how to charge a battery by infusing it with magical energy.\nProduces 400Wd adjusted by ability power. -->
+  <SpellOf_ChargeBattery.description>Apprend à un mage de foudre à charger une batterie en l'imprégnant d'énergie magique. Produit 400 W ajustés par la puissance du sort.</SpellOf_ChargeBattery.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_ChargeBattery.comps.CompUsable.useLabel>Lire</SpellOf_ChargeBattery.comps.CompUsable.useLabel>
+  
+  <!-- EN: Necromancer Spell: Mass Consume Corpse -->
+  <SpellOf_ConsumeCorpse_Mass.label>sort de Nécromancien : Consommer les corps en masse</SpellOf_ConsumeCorpse_Mass.label>
+  <!-- EN: Teaches a necromancer how to expand consume corpse to target multiple corpses within an area. -->
+  <SpellOf_ConsumeCorpse_Mass.description>Apprend au nécromancien à étendre la consommation de cadavres pour désigner plusieurs cadavres dans une zone donnée.</SpellOf_ConsumeCorpse_Mass.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_ConsumeCorpse_Mass.comps.CompUsable.useLabel>Lire</SpellOf_ConsumeCorpse_Mass.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: Magic Cooler -->
+  <SpellOf_Cooler.label>sort de mage : Magie réfrigérante</SpellOf_Cooler.label>
+  <!-- EN: Teaches an arcane user how to create a temporary window into the plane of ice, creating a temporary cooling source. -->
+  <SpellOf_Cooler.description>Apprend à un utilisateur de magie noire à créer une fenêtre temporaire dans le plan de la glace, créant ainsi une source de refroidissement temporaire.</SpellOf_Cooler.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_Cooler.comps.CompUsable.useLabel>Lire</SpellOf_Cooler.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: Dirt Devil -->
+  <SpellOf_DirtDevil.label>sort de mage : Dirt devil</SpellOf_DirtDevil.label>
+  <!-- EN: Teaches a magic user how to create a whirlwind that seeks out and cleans filth inside the home area. -->
+  <SpellOf_DirtDevil.description>Apprend à un utilisateur de magie à créer un tourbillon qui recherche et nettoie les saletés à l'intérieur de la maison.</SpellOf_DirtDevil.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_DirtDevil.comps.CompUsable.useLabel>Lire</SpellOf_DirtDevil.comps.CompUsable.useLabel>
+  
+  <!-- EN: Bard Spell: Discord -->
+  <SpellOf_Discord.label>sort de Barde : Discorde</SpellOf_Discord.label>
+  <!-- EN: Teaches a bard how to distort the mental harmony of a target pawn. -->
+  <SpellOf_Discord.description>Apprend à un barde à déformer l'harmonie mentale d'un colon cible.</SpellOf_Discord.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_Discord.comps.CompUsable.useLabel>Lire</SpellOf_Discord.comps.CompUsable.useLabel>
+  
+  <!-- EN: Fire Spell: Dry Ground -->
+  <SpellOf_DryGround.label>sort de feu : Sol sec</SpellOf_DryGround.label>
+  <!-- EN: Teaches a fire mage how to infuse the earth with heat, evaporating most of the water from a small patch of earth. -->
+  <SpellOf_DryGround.description>Apprend à un mage du feu comment insuffler de la chaleur à la terre, en évaporant la plupart de l'eau d'une petite parcelle de terre.</SpellOf_DryGround.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_DryGround.comps.CompUsable.useLabel>Lire</SpellOf_DryGround.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: EMP -->
+  <SpellOf_EMP.label>sort de mage : IEM</SpellOf_EMP.label>
+  <!-- EN: Teaches a magic user how to generate an EMP burst at a target location. -->
+  <SpellOf_EMP.description>Apprend à un utilisateur de magie comment générer une explosion IEM à un emplacement cible.</SpellOf_EMP.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_EMP.comps.CompUsable.useLabel>Lire</SpellOf_EMP.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: Extinguish -->
+  <SpellOf_Extinguish.label>sort de mage : Extinction</SpellOf_Extinguish.label>
+  <!-- EN: Teaches a magic user how to remove the element of fire at a target location, dispersing fires. -->
+  <SpellOf_Extinguish.description>Apprend à un utilisateur de magie à supprimer l'élément du feu à un endroit cible, en éteignant les incendies.</SpellOf_Extinguish.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_Extinguish.comps.CompUsable.useLabel>Lire</SpellOf_Extinguish.comps.CompUsable.useLabel>
+  
+  <!-- EN: Lightning Spell: Eye of the Storm -->
+  <SpellOf_EyeOfTheStorm.label>sort de foudre : L'œil du cyclone</SpellOf_EyeOfTheStorm.label>
+  <!-- EN: Teaches a lightning mage how to contain the raw fury of a lightning storm into a small sphere and project it along a set path. -->
+  <SpellOf_EyeOfTheStorm.description>Apprend à un mage de foudre à contenir la fureur brute d'un orage dans une petite sphère et à la projeter le long d'une trajectoire déterminée.</SpellOf_EyeOfTheStorm.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_EyeOfTheStorm.comps.CompUsable.useLabel>Lire</SpellOf_EyeOfTheStorm.comps.CompUsable.useLabel>
+  
+  <!-- EN: Empath Ability: Fade Emotions -->
+  <SpellOf_FadeEmotions.label>capacité d'Empath : Émotions disparues</SpellOf_FadeEmotions.label>
+  <!-- EN: This scroll describes how an empath can use their abilities to focus the emotions of a negative memory so that the target pawn can let go of the emotions and move on. -->
+  <SpellOf_FadeEmotions.description>Ce parchemin décrit comment un empathe peut utiliser ses capacités pour focaliser les émotions d'un souvenir négatif afin que le colon ciblé puisse se défaire de ces émotions et passer à autre chose.</SpellOf_FadeEmotions.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_FadeEmotions.comps.CompUsable.useLabel>Lire</SpellOf_FadeEmotions.comps.CompUsable.useLabel>
+  
+  <!-- EN: Druid Spell: Fertile Lands -->
+  <SpellOf_FertileLands.label>sort de Druide : Terres fertiles</SpellOf_FertileLands.label>
+  <!-- EN: Teaches a druid how to bless an area of land with fertile growth. -->
+  <SpellOf_FertileLands.description>Apprend à un druide comment favoriser la croissance fertile d'une zone de terre.</SpellOf_FertileLands.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_FertileLands.comps.CompUsable.useLabel>Lire</SpellOf_FertileLands.comps.CompUsable.useLabel>
+  
+  <!-- EN: Fire Spell: Firestorm -->
+  <SpellOf_Firestorm.label>sort de feu : Tempête de feu</SpellOf_Firestorm.label>
+  <!-- EN: Teaches a fire mage how to wield the full fury of the fire element to scorch the earth with a firestorm. -->
+  <SpellOf_Firestorm.description>Apprend à un mage du feu à manier toute la fureur de l'élément du feu pour brûler la terre dans une tempête de feu.</SpellOf_Firestorm.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_Firestorm.comps.CompUsable.useLabel>Lire</SpellOf_Firestorm.comps.CompUsable.useLabel>
+  
+  <!-- EN: Arcane Spell: Gateway -->
+  <SpellOf_FoldReality.label>sort des arcanes : Portail</SpellOf_FoldReality.label>
+  <!-- EN: Teaches an arcane mage how to fold reality in order to open a temporary window between colonies. -->
+  <SpellOf_FoldReality.description>Apprend à un mage des arcanes à plier la réalité afin d'ouvrir une fenêtre temporaire entre les colonies.</SpellOf_FoldReality.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_FoldReality.comps.CompUsable.useLabel>Lire</SpellOf_FoldReality.comps.CompUsable.useLabel>
+  
+  <!-- EN: Shaman Spell: Guardian Spirit -->
+  <SpellOf_GuardianSpirit.label>sort de Chaman : Esprit gardien</SpellOf_GuardianSpirit.label>
+  <!-- EN: Teaches a shaman how to call forth their guardian spirit. -->
+  <SpellOf_GuardianSpirit.description>Apprend à un chaman à invoquer son esprit gardien.</SpellOf_GuardianSpirit.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_GuardianSpirit.comps.CompUsable.useLabel>Lire</SpellOf_GuardianSpirit.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: Heal -->
+  <SpellOf_Heal.label>sort de mage : Soins</SpellOf_Heal.label>
+  <!-- EN: Teaches a magic user how to delicately manipulate arcane forces to heal injuries. -->
+  <SpellOf_Heal.description>Apprend à un utilisateur de magie à manipuler délicatement les forces de la magie pour soigner les blessures.</SpellOf_Heal.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_Heal.comps.CompUsable.useLabel>Lire</SpellOf_Heal.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: Magic Heater -->
+  <SpellOf_Heater.label>sort de mage : Magie de chaleur</SpellOf_Heater.label>
+  <!-- EN: Teaches a magic user how to create a temporary window into the plane of fire, creating a temporary heat source. -->
+  <SpellOf_Heater.description>Apprend à un utilisateur de magie à créer une fenêtre temporaire dans le plan du feu, créant ainsi une source de chaleur temporaire.</SpellOf_Heater.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_Heater.comps.CompUsable.useLabel>Lire</SpellOf_Heater.comps.CompUsable.useLabel>
+  
+  <!-- EN: Fire Spell: Heat Shield -->
+  <SpellOf_HeatShield.label>sort de feu : Bouclier thermique</SpellOf_HeatShield.label>
+  <!-- EN: Teaches a fire mage how to create a protective barrier against heat and fire. -->
+  <SpellOf_HeatShield.description>Apprend à un mage du feu à créer une barrière protectrice contre la chaleur et le feu.</SpellOf_HeatShield.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_HeatShield.comps.CompUsable.useLabel>Lire</SpellOf_HeatShield.comps.CompUsable.useLabel>
+  
+  <!-- EN: Paladin Spell: Holy Wrath -->
+  <SpellOf_HolyWrath.label>sort de Paladin : Colère divine</SpellOf_HolyWrath.label>
+  <!-- EN: Teaches a paladin how to call forth the wrath of the gods. -->
+  <SpellOf_HolyWrath.description>Apprend à un paladin à invoquer la colère des dieux.</SpellOf_HolyWrath.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_HolyWrath.comps.CompUsable.useLabel>Lire</SpellOf_HolyWrath.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: Ignite -->
+  <SpellOf_Ignite.label>sort de mage : Enflammer</SpellOf_Ignite.label>
+  <!-- EN: Teaches a magic user how to concentrate heat at a target location. -->
+  <SpellOf_Ignite.description>Apprend à l'utilisateur de la magie à concentrer la chaleur à un endroit précis.</SpellOf_Ignite.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_Ignite.comps.CompUsable.useLabel>Lire</SpellOf_Ignite.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: Invisibility -->
+  <SpellOf_Invisibility.label>sort de mage : Invisibilité</SpellOf_Invisibility.label>
+  <!-- EN: Teaches a magic user how to manipulate light and become invisible. -->
+  <SpellOf_Invisibility.description>Apprend à un utilisateur de magie à manipuler la lumière et à devenir invisible.</SpellOf_Invisibility.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_Invisibility.comps.CompUsable.useLabel>Lire</SpellOf_Invisibility.comps.CompUsable.useLabel>
+  
+  <!-- EN: Necromancer Spell: Lich Form -->
+  <SpellOf_LichForm.label>sort de Nécromancien : Forme de liche</SpellOf_LichForm.label>
+  <!-- EN: Teaches a necromancer how to transform into a lich. -->
+  <SpellOf_LichForm.description>Apprend à un nécromancien à se transformer en liche.</SpellOf_LichForm.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_LichForm.comps.CompUsable.useLabel>Lire</SpellOf_LichForm.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: Lightning Trap -->
+  <SpellOf_LightningTrap.label>sort de mage : Piège de foudre</SpellOf_LightningTrap.label>
+  <!-- EN: Teaches a magic user how to create a trap that discharges bolts of lightning. -->
+  <SpellOf_LightningTrap.description>Apprend à un utilisateur de magie à créer un piège qui décharge la foudre.</SpellOf_LightningTrap.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_LightningTrap.comps.CompUsable.useLabel>Lire</SpellOf_LightningTrap.comps.CompUsable.useLabel>
+  
+  <!-- EN: Golemancer Spell: Living Wall -->
+  <SpellOf_LivingWall.label>sort du Golemancien : Mur vivant</SpellOf_LivingWall.label>
+  <!-- EN: Teaches a golemancer how to give a wall a will of its own. -->
+  <SpellOf_LivingWall.description>Apprend à un golemancien comment donner à un mur une volonté propre.</SpellOf_LivingWall.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_LivingWall.comps.CompUsable.useLabel>Lire</SpellOf_LivingWall.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: Mage Light -->
+  <SpellOf_MageLight.label>sort de mage : Lumière de mage</SpellOf_MageLight.label>
+  <!-- EN: Teaches a magic user how to create a small orb of light. -->
+  <SpellOf_MageLight.description>Apprend à un utilisateur de magie comment créer un petit orbe de lumière.</SpellOf_MageLight.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_MageLight.comps.CompUsable.useLabel>Lire</SpellOf_MageLight.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: Magic Wardrobe -->
+  <SpellOf_MagicWardrobe.label>sort de mage : Armoire magique</SpellOf_MagicWardrobe.label>
+  <!-- EN: Teaches a magic user how to create a dimensional pocket to store a reserve set of equipment. -->
+  <SpellOf_MagicWardrobe.description>Apprend à un utilisateur de magie à créer une poche dimensionnelle pour stocker un équipement de réserve.</SpellOf_MagicWardrobe.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_MagicWardrobe.comps.CompUsable.useLabel>Lire</SpellOf_MagicWardrobe.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: Mana Shield -->
+  <SpellOf_ManaShield.label>sort de mage : Bouclier de mana</SpellOf_ManaShield.label>
+  <!-- EN: Teaches a magic user how to form a protective mana barrier to prevent physical harm. -->
+  <SpellOf_ManaShield.description>Apprend à un utilisateur de magie à former une barrière de mana protectrice pour éviter les dégâts physiques.</SpellOf_ManaShield.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_ManaShield.comps.CompUsable.useLabel>Lire</SpellOf_ManaShield.comps.CompUsable.useLabel>
+  
+  <!-- EN: Technomancer Spell: Mechanite Reprogramming -->
+  <SpellOf_MechaniteReprogramming.label>sort de Technomancien : Mécanites reprogrammés</SpellOf_MechaniteReprogramming.label>
+  <!-- EN: Teaches a technomancer how to reprogramming fibrous or sensory mechanites in a way that enhances the attributes of the host. -->
+  <SpellOf_MechaniteReprogramming.description>Apprend à un technomancien à reprogrammer des mécanites fibreuses ou sensorielles de manière à améliorer les attributs de l'hôte.</SpellOf_MechaniteReprogramming.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_MechaniteReprogramming.comps.CompUsable.useLabel>Lire</SpellOf_MechaniteReprogramming.comps.CompUsable.useLabel>
+  
+  <!-- EN: Geomancer Spell: Meteor -->
+  <SpellOf_Meteor.label>sort de Géomancien : Météore</SpellOf_Meteor.label>
+  <!-- EN: Teaches a geomancer how to summon a massive meteor to bury an area in rock and debris. -->
+  <SpellOf_Meteor.description>Apprend à un géomancien comment invoquer un énorme météore pour ensevelir une zone sous des rochers et des débris.</SpellOf_Meteor.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_Meteor.comps.CompUsable.useLabel>Lire</SpellOf_Meteor.comps.CompUsable.useLabel>
+  
+  <!-- EN: Technomancer Spell: Orbital Strike -->
+  <SpellOf_OrbitalStrike.label>sort de Technomancien : Frappe orbitale</SpellOf_OrbitalStrike.label>
+  <!-- EN: Teaches a technomancer how to access ancient satellites and orbital systems and use them to launch an orbital strike. -->
+  <SpellOf_OrbitalStrike.description>Apprend à un technomancien à accéder aux anciens satellites et systèmes orbitaux et à les utiliser pour lancer une frappe orbitale.</SpellOf_OrbitalStrike.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_OrbitalStrike.comps.CompUsable.useLabel>Lire</SpellOf_OrbitalStrike.comps.CompUsable.useLabel>
+  
+  <!-- EN: Technomancer Spell: Overdrive -->
+  <SpellOf_Overdrive.label>sort de Technomancien : Surmultiplicateur</SpellOf_Overdrive.label>
+  <!-- EN: Teaches a technomancer user how to over-clock or bypass security features of mechanical, electrical, and robotic devices causing it to perform at a drastically increased rate for a short period. -->
+  <SpellOf_Overdrive.description>Apprend à l'utilisateur technomancien à surrégler ou à contourner les dispositifs de sécurité des appareils mécaniques, électriques et robotiques, ce qui permet d'augmenter considérablement leurs performances pendant une courte période.</SpellOf_Overdrive.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_Overdrive.comps.CompUsable.useLabel>Lire</SpellOf_Overdrive.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: Power Node -->
+  <SpellOf_PowerNode.label>sort de mage : Nœud de puissance</SpellOf_PowerNode.label>
+  <!-- EN: Teaches a magic user how to create a contained power node that converts arcane energy into electrical power. Place next to existing power grid. Supplies 600 power. -->
+  <SpellOf_PowerNode.description>Apprend à un utilisateur de magie à créer un nœud d'énergie contenu qui convertit l'énergie magique en énergie électrique. A placer à côté d’un câble électrique. Fournit 600 watts.</SpellOf_PowerNode.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_PowerNode.comps.CompUsable.useLabel>Lire</SpellOf_PowerNode.comps.CompUsable.useLabel>
+  
+  <!-- EN: Warlock Spell: Psychic Shock -->
+  <SpellOf_PsychicShock.label>sort de Sorcier : Choc psychique</SpellOf_PsychicShock.label>
+  <!-- EN: Teaches a Warlock how to use his psychic powers to emit powerful psychic shock that overwhelms and reverberates from nearby pawn. -->
+  <SpellOf_PsychicShock.description>Apprend à un sorcier à utiliser ses pouvoirs psychiques pour émettre une puissante onde de choc psychique qui submerge et se répercute sur les colons à proximité.</SpellOf_PsychicShock.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_PsychicShock.comps.CompUsable.useLabel>Lire</SpellOf_PsychicShock.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: Rain -->
+  <SpellOf_Rain.label>sort de mage : Pluie</SpellOf_Rain.label>
+  <!-- EN: Teaches a magic user how to harness energy in the atmosphere to induce a brief rain. -->
+  <SpellOf_Rain.description>Apprend à un utilisateur de magie à exploiter l'énergie de l'atmosphère pour provoquer une pluie brève.</SpellOf_Rain.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_Rain.comps.CompUsable.useLabel>Lire</SpellOf_Rain.comps.CompUsable.useLabel>
+  
+  <!-- EN: Chronomancer Spell: Recall -->
+  <SpellOf_Recall.label>sort de Chronomancien : Rappel</SpellOf_Recall.label>
+  <!-- EN: Teaches a chronomancer how to recall their physical being to a past condition. -->
+  <SpellOf_Recall.description>Apprend à un chronomancien comment rappeler son être physique à un état antérieur.</SpellOf_Recall.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_Recall.comps.CompUsable.useLabel>Lire</SpellOf_Recall.comps.CompUsable.useLabel>
+  
+  <!-- EN: Druid Spell: Regrow Limb -->
+  <SpellOf_RegrowLimb.label>sort de Druide : Rétablissement</SpellOf_RegrowLimb.label>
+  <!-- EN: Teaches a druid how to regrow limbs by combining nature, arcane powers, and medical science. -->
+  <SpellOf_RegrowLimb.description>Apprend à un druide comment faire rétablir des membres en combinant la nature, les pouvoirs magiques et la science médicale.</SpellOf_RegrowLimb.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_RegrowLimb.comps.CompUsable.useLabel>Lire</SpellOf_RegrowLimb.comps.CompUsable.useLabel>
+  
+  <!-- EN: Priest Spell: Resurrection -->
+  <SpellOf_Resurrection.label>sort de Prêtre : Résurrection</SpellOf_Resurrection.label>
+  <!-- EN: Teaches a priest how to restore the spark of life to the recently deceased. -->
+  <SpellOf_Resurrection.description>Apprend à un prêtre comment redonner l'étincelle de vie aux personnes récemment décédées.</SpellOf_Resurrection.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_Resurrection.comps.CompUsable.useLabel>Lire</SpellOf_Resurrection.comps.CompUsable.useLabel>
+  
+  <!-- EN: Technomancer Spell: Sabotage -->
+  <SpellOf_Sabotage.label>sort de Technomancien : Sabotage</SpellOf_Sabotage.label>
+  <!-- EN: Teaches a technomancer user how to create a feedback loop in almost any mechanic system, causing it to catastrophically malfunction. -->
+  <SpellOf_Sabotage.description>Apprend à un utilisateur technomancien comment créer une boucle de rétroaction dans presque n'importe quel système mécanique, provoquant un dysfonctionnement catastrophique de celui-ci.</SpellOf_Sabotage.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_Sabotage.comps.CompUsable.useLabel>Lire</SpellOf_Sabotage.comps.CompUsable.useLabel>
+  
+  <!-- EN: Succubus Spell: Scorn -->
+  <SpellOf_Scorn.label>sort de Succube : Dédain</SpellOf_Scorn.label>
+  <!-- EN: Teaches a succubus how to unleash the full malice harbored by their demon heart. -->
+  <SpellOf_Scorn.description>Apprend à une succube à libérer toute la malice de son cœur de démon.</SpellOf_Scorn.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_Scorn.comps.CompUsable.useLabel>Lire</SpellOf_Scorn.comps.CompUsable.useLabel>
+  
+  <!-- EN: Enchanter Spell: Shapeshift -->
+  <SpellOf_Shapeshift.label>sort d'Enchanteur : Métamorphose</SpellOf_Shapeshift.label>
+  <!-- EN: Teaches an enchanter how to perform shapeshifting on themselves without losing their identity. -->
+  <SpellOf_Shapeshift.description>Apprend à un enchanteur comment effectuer un changement de forme sur lui-même sans perdre son identité.</SpellOf_Shapeshift.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_Shapeshift.comps.CompUsable.useLabel>Lire</SpellOf_Shapeshift.comps.CompUsable.useLabel>
+  
+  <!-- EN: Holy Caster Spell: Shield Other -->
+  <SpellOf_ShieldOther.label>sort de sacré : Bouclier sacré</SpellOf_ShieldOther.label>
+  <!-- EN: Teaches a holy caster (paladin, priest, etc) how to shield another from damage. -->
+  <SpellOf_ShieldOther.description>Apprend à un lanceur de sorts sacrés (paladin, prêtre, etc.) à protéger un autre lanceur de sorts contre les dégâts.</SpellOf_ShieldOther.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_ShieldOther.comps.CompUsable.useLabel>Lire</SpellOf_ShieldOther.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: Siphon Mana -->
+  <SpellOf_SiphonMana.label>sort de mage : Siphon de mana</SpellOf_SiphonMana.label>
+  <!-- EN: Teaches a magic user how to siphon mana from another mage.  If used on a being that does not possess mana, their physical traits will be drained instead (no mana will be gained).  Effect is potentially lethal in extreme cases. -->
+  <SpellOf_SiphonMana.description>Apprend à un utilisateur de magie à siphonner le mana d'un autre mage. S'il est utilisé sur un être qui ne possède pas de mana, ses traits physiques seront drainés à la place (aucun mana ne sera gagné). L'effet est potentiellement mortel dans les cas extrêmes.</SpellOf_SiphonMana.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_SiphonMana.comps.CompUsable.useLabel>Lire</SpellOf_SiphonMana.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: Smoke Cloud -->
+  <SpellOf_SmokeCloud.label>sort de mage : Nuage de fumée</SpellOf_SmokeCloud.label>
+  <!-- EN: Teaches a magic user how to ignite particles in the air to create a smokescreen, temporarily concealing a target area. -->
+  <SpellOf_SmokeCloud.description>Apprend à un utilisateur de magie à déclencher des particules dans l'air pour créer un écran de fumée, dissimulant temporairement une zone cible.</SpellOf_SmokeCloud.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_SmokeCloud.comps.CompUsable.useLabel>Lire</SpellOf_SmokeCloud.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: Snap Freeze -->
+  <SpellOf_SnapFreeze.label>sort de mage : Gel rapide</SpellOf_SnapFreeze.label>
+  <!-- EN: Teaches a magic user how to remove all heat at a target location. -->
+  <SpellOf_SnapFreeze.description>Apprend à un utilisateur de magie à supprimer toute chaleur à un endroit cible.</SpellOf_SnapFreeze.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_SnapFreeze.comps.CompUsable.useLabel>Lire</SpellOf_SnapFreeze.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: Spell Mending -->
+  <SpellOf_SpellMending.label>sort de mage : Réparation</SpellOf_SpellMending.label>
+  <!-- EN: Teaches a magic user how to reconstruct and repair worn equipment on a pawn. -->
+  <SpellOf_SpellMending.description>Apprend à un utilisateur de la magie comment reconstruire et réparer un équipement usé sur un colon.</SpellOf_SpellMending.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_SpellMending.comps.CompUsable.useLabel>Lire</SpellOf_SpellMending.comps.CompUsable.useLabel>
+  
+  <!-- EN: Brightmage Spell: Spirit Of Light -->
+  <SpellOf_SpiritOfLight.label>sort Mage de lumière : Lumière d’esprit</SpellOf_SpiritOfLight.label>
+  <!-- EN: Teaches a Brightmage how to summon a Spirit of Light. -->
+  <SpellOf_SpiritOfLight.description>Apprend à un mage de lumière comment invoquer un esprit de lumière.</SpellOf_SpiritOfLight.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_SpiritOfLight.comps.CompUsable.useLabel>Lire</SpellOf_SpiritOfLight.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: Summon Minion -->
+  <SpellOf_SummonMinion.label>sort de mage : Invocation d'un serviteur</SpellOf_SummonMinion.label>
+  <!-- EN: Teaches a magic user how to summon an otherworldly minion to assist in basic tasks. -->
+  <SpellOf_SummonMinion.description>Apprend à un utilisateur de magie à invoquer un serviteur d'un autre monde pour l'aider dans ses tâches de base.</SpellOf_SummonMinion.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_SummonMinion.comps.CompUsable.useLabel>Lire</SpellOf_SummonMinion.comps.CompUsable.useLabel>
+  
+  <!-- EN: Summoner Spell: Summon Poppi -->
+  <SpellOf_SummonPoppi.label>sort d'Invocateur : Invoquer Poppi</SpellOf_SummonPoppi.label>
+  <!-- EN: Teaches a summoner how to summon a band of cute and cuddly poppi. -->
+  <SpellOf_SummonPoppi.description>Apprend à un invocateur comment invoquer une bande de poppi mignons et câlins.</SpellOf_SummonPoppi.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_SummonPoppi.comps.CompUsable.useLabel>Lire</SpellOf_SummonPoppi.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: Sun Light -->
+  <SpellOf_Sunlight.label>sort de mage : Lumière solaire</SpellOf_Sunlight.label>
+  <!-- EN: Teaches a magic user how to create a dimensional pocket that emits a steady stream of sunlight strong enough to grow plants. Sun Light must be sustained by the mage that creates it and will reduce maximum mana and mana regeneration rate. -->
+  <SpellOf_Sunlight.description>Apprend à un utilisateur de magie à créer une sphère dimensionnelle qui émet un flux régulier de lumière solaire suffisamment fort pour faire pousser des plantes. La lumière du soleil doit être soutenue par le mage qui la crée et réduit le mana maximum et le taux de régénération du mana.</SpellOf_Sunlight.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_Sunlight.comps.CompUsable.useLabel>Lire</SpellOf_Sunlight.comps.CompUsable.useLabel>
+  
+  <!-- EN: Technomancer Spell: Kinetic Shield -->
+  <SpellOf_TechnoShield.label>sort de Technomancien : Bouclier cinétique</SpellOf_TechnoShield.label>
+  <!-- EN: Teaches a technomancer user how to create a uni-directional force field around a target, capable of repelling inbound projectiles or increasing the velocity of outbound projectiles. -->
+  <SpellOf_TechnoShield.description>Apprend à un utilisateur technomancien à créer un champ de force unidirectionnel autour d'une cible, capable de repousser les projectiles entrants ou d'augmenter la vitesse des projectiles sortants.</SpellOf_TechnoShield.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_TechnoShield.comps.CompUsable.useLabel>Lire</SpellOf_TechnoShield.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: Teleport -->
+  <SpellOf_Teleport.label>sort de mage : Téléportation</SpellOf_Teleport.label>
+  <!-- EN: Teaches a magic user how to manipulate energy using arcane dimensions, allowing the mage to create a portal for rapid transport. -->
+  <SpellOf_Teleport.description>Apprend à un utilisateur de magie à manipuler l'énergie en utilisant des dimensions arcaniques, permettant au mage de créer un portail pour un transport rapide.</SpellOf_Teleport.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_Teleport.comps.CompUsable.useLabel>Lire</SpellOf_Teleport.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mage Spell: Transfer Mana -->
+  <SpellOf_TransferMana.label>sort de mage : Transfert de mana</SpellOf_TransferMana.label>
+  <!-- EN: Teaches a magic user how to transfer mana to another mage.  If raw mana is infused into a non-mage recepient, their physical traits will be temporarily augmented. -->
+  <SpellOf_TransferMana.description>Apprend à un utilisateur de magie à transférer du mana à un autre mage. Si du mana brut est infusé dans un destinataire non-mage, ses traits physiques seront temporairement augmentés.</SpellOf_TransferMana.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_TransferMana.comps.CompUsable.useLabel>Lire</SpellOf_TransferMana.comps.CompUsable.useLabel>
+  
+  <!-- EN: Ice Spell: Moisturize Ground -->
+  <SpellOf_WetGround.label>sort de glace : Sol hydrater</SpellOf_WetGround.label>
+  <!-- EN: Teaches an ice mage how to infuse the earth with moisture and nutrients, transforming sand into usable soil. -->
+  <SpellOf_WetGround.description>Apprend à un mage de glace à insuffler de l'humidité et des nutriments à la terre, transformant le sable en terreau utilisable.</SpellOf_WetGround.description>
+  <!-- EN: TM_Learn -->
+  <SpellOf_WetGround.comps.CompUsable.useLabel>Lire</SpellOf_WetGround.comps.CompUsable.useLabel>
+  
+  <!-- EN: Torn Script: Power -->
+  <Torn_BookOfArcanist.label>texte déchiré : Arcane</Torn_BookOfArcanist.label>
+  <!-- EN: Teaches a gifted pawn how to harness arcane powers.  \nThis arcane script is incomplete and the reader may not be able to learn some, or any, arcane spells. -->
+  <Torn_BookOfArcanist.description>Apprend à un colon talentueux à maîtriser les pouvoirs des arcanes.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, sorts des arcanes.</Torn_BookOfArcanist.description>
+  <!-- EN: TM_Read -->
+  <Torn_BookOfArcanist.comps.CompUsable.useLabel>Lire</Torn_BookOfArcanist.comps.CompUsable.useLabel>
+  
+  <!-- EN: Torn Script: Bard -->
+  <Torn_BookOfBard.label>texte déchiré : Barde</Torn_BookOfBard.label>
+  <!-- EN: Teaches a gifted pawn how to become a professional bard. Bards are incapable of dumb labor and this work type will be disabled.\nThis arcane script is incomplete and the reader may not be able to learn some, or any, bard abilities. -->
+  <Torn_BookOfBard.description>Apprend à un colon talentueux à maîtriser comment devenir un barde professionnel. Les bardes sont incapables de faire du travail manuel et ce type de travail sera désactivé.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certaines, voire aucune, des capacités de barde.</Torn_BookOfBard.description>
+  <!-- EN: TM_Read -->
+  <Torn_BookOfBard.comps.CompUsable.useLabel>Lire</Torn_BookOfBard.comps.CompUsable.useLabel>
+  
+  <!-- EN: Torn Script: Chaos -->
+  <Torn_BookOfChaos.label>texte déchiré : Chaos</Torn_BookOfChaos.label>
+  <!-- EN: Teaches a gifted pawn chaos tradition. -->
+  <Torn_BookOfChaos.description>Apprend à un colon talentueux la tradition du chaos.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, des sorts du chaos.</Torn_BookOfChaos.description>
+  <!-- EN: TM_Read -->
+  <Torn_BookOfChaos.comps.CompUsable.useLabel>Lire</Torn_BookOfChaos.comps.CompUsable.useLabel>
+  
+  <!-- EN: Torn Script: Chronomancy -->
+  <Torn_BookOfChronomancer.label>texte déchiré : Chronomancie</Torn_BookOfChronomancer.label>
+  <!-- EN: Teaches a gifted pawn how to become a chronomancer, able to see and manipulate realities across time.\nThis arcane script is incomplete and the reader may not be able to learn some, or any, chronomancer abilities. -->
+  <Torn_BookOfChronomancer.description>Apprend à un colon talentueux comment de evenir un chronomancien, capable de voir et de manipuler les réalités à travers le temps.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certaines, voire aucune, des capacités du chronomancien.</Torn_BookOfChronomancer.description>
+  <!-- EN: TM_Read -->
+  <Torn_BookOfChronomancer.comps.CompUsable.useLabel>Lire</Torn_BookOfChronomancer.comps.CompUsable.useLabel>
+  
+  <!-- EN: Torn Script: Demonology -->
+  <Torn_BookOfDemons.label>texte déchiré : Démonologie</Torn_BookOfDemons.label>
+  <!-- EN: Details the process to enter an agreement with a demon to gain power. This contract binds the patron, in a literal sense, with demonic essence that affects their genetic makeup. This binding affects males and females differently. Demons will only agree to the contract if the user is magically gifted. \n	\n*Note scribbled at the bottom of the first page* This script is not clear on exactly what the demon gets out of the agreement... use with caution.\n\nThis arcane script is incomplete and does not explain the full contract process; the result might not immediately provide full access to all abilities. -->
+  <Torn_BookOfDemons.description>Détaille le processus permettant de conclure un accord avec un démon pour obtenir du pouvoir. Ce contrat lie le client, au sens propre, avec une essence démoniaque qui affecte sa constitution génétique. Cette liaison affecte différemment les hommes et les femmes. Les démons n'acceptent le contrat que si l'utilisateur est doué en magie.\n\n*Note griffonnée au bas de la première page* Ce texte n'est pas clair sur ce que le démon obtient de l'accord... à utiliser avec prudence.\n\nCet ouvrage magique est incomplet et n'explique pas le processus complet du contrat ; le résultat peut ne pas fournir immédiatement un accès complet à toutes les capacités.</Torn_BookOfDemons.description>
+  <!-- EN: TM_Read -->
+  <Torn_BookOfDemons.comps.CompUsable.useLabel>Lire</Torn_BookOfDemons.comps.CompUsable.useLabel>
+  
+  <!-- EN: Torn Script: Geomancy -->
+  <Torn_BookOfEarth.label>texte déchiré : Géomancie</Torn_BookOfEarth.label>
+  <!-- EN: Teaches a gifted pawn to combine physical law, elements, and the arcane.\nThis arcane script is incomplete and the reader may not be able to learn some, or any, geomancer abilities. -->
+  <Torn_BookOfEarth.description>Apprend à un colon talentueux à combiner les lois physiques, les éléments et la magie.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certaines, voire aucune, des capacités du géomancien.</Torn_BookOfEarth.description>
+  <!-- EN: TM_Read -->
+  <Torn_BookOfEarth.comps.CompUsable.useLabel>Lire</Torn_BookOfEarth.comps.CompUsable.useLabel>
+  
+  <!-- EN: Torn Script: Enchanter -->
+  <Torn_BookOfEnchanter.label>texte déchiré : Enchanteur</Torn_BookOfEnchanter.label>
+  <!-- EN: Teaches a gifted pawn how to become an enchanter, able to manipulate matter and material to serve their purpose.\nThis arcane script is incomplete and the reader may not be able to learn some, or any, enchanter abilities. -->
+  <Torn_BookOfEnchanter.description>Apprend à un colon talentueux comment devenir un enchanteur, capable de manipuler la matière et les matériaux pour les utiliser à ses fins.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certaines, voire aucune, des capacités de l'enchanteur.</Torn_BookOfEnchanter.description>
+  <!-- EN: TM_Read -->
+  <Torn_BookOfEnchanter.comps.CompUsable.useLabel>Lire</Torn_BookOfEnchanter.comps.CompUsable.useLabel>
+  
+  <!-- EN: Torn Script: Golemancer -->
+  <Torn_BookOfGolemancy.label>texte déchiré : Golemancien</Torn_BookOfGolemancy.label>
+  <!-- EN: Teaches a gifted pawn how to become a golemancer; a reclusive mage that channels arcane energy into mundane objects using sigils and runes. -->
+  <Torn_BookOfGolemancy.description>Apprend à un colon talentueux comment devenir un golemancien, un mage reclus qui canalise l'énergie magique dans des objets ordinaires à l'aide de sceaux et de runes.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, des sorts du golemancien.</Torn_BookOfGolemancy.description>
+  <!-- EN: TM_Read -->
+  <Torn_BookOfGolemancy.comps.CompUsable.useLabel>Lire</Torn_BookOfGolemancy.comps.CompUsable.useLabel>
+  
+  <!-- EN: Torn Script: Ice -->
+  <Torn_BookOfHeartOfFrost.label>texte déchiré : Glace</Torn_BookOfHeartOfFrost.label>
+  <!-- EN: Teaches a gifted pawn how to harness elemental ice and water.  \nThis arcane script is incomplete and the reader may not be able to learn some, or any, ice mage spells. -->
+  <Torn_BookOfHeartOfFrost.description>Apprend à un colon talentueux à maîtriser les éléments de glace et d'eau.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, sorts de glace et d'eau.</Torn_BookOfHeartOfFrost.description>
+  <!-- EN: TM_Read -->
+  <Torn_BookOfHeartOfFrost.comps.CompUsable.useLabel>Lire</Torn_BookOfHeartOfFrost.comps.CompUsable.useLabel>
+  
+  <!-- EN: Torn Script: Hemomancy -->
+  <Torn_BookOfHemomancy.label>texte déchiré : Hémomancie</Torn_BookOfHemomancy.label>
+  <!-- EN: Teaches a gifted pawn how to become a hemomancer, or blood mage, and use the power of blood to fuel their magic.\nThis arcane script is incomplete and the reader may not be able to learn some, or any, blood mage abilities. -->
+  <Torn_BookOfHemomancy.description>Apprend à un colon talentueux comment devenir un hémomage, ou mage de sang et utiliser le pouvoir du sang pour alimenter sa magie.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certaines, voire aucune, des capacités du mage de sang.</Torn_BookOfHemomancy.description>
+  <!-- EN: TM_Read -->
+  <Torn_BookOfHemomancy.comps.CompUsable.useLabel>Lire</Torn_BookOfHemomancy.comps.CompUsable.useLabel>
+  
+  <!-- EN: Torn Script: Fire -->
+  <Torn_BookOfInnerFire.label>texte déchiré : Feu</Torn_BookOfInnerFire.label>
+  <!-- EN: Teaches a gifted pawn how to harness elements of fire.  \nThis arcane script is incomplete and the reader may not be able to learn some, or any, fire spells. -->
+  <Torn_BookOfInnerFire.description>Apprend à un colon talentueux à maîtriser les éléments du feu.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, sorts de feu.</Torn_BookOfInnerFire.description>
+  <!-- EN: TM_Read -->
+  <Torn_BookOfInnerFire.comps.CompUsable.useLabel>Lire</Torn_BookOfInnerFire.comps.CompUsable.useLabel>
+  
+  <!-- EN: Torn Script: Technomancy -->
+  <Torn_BookOfMagitech.label>texte déchiré : Technomancie</Torn_BookOfMagitech.label>
+  <!-- EN: Teaches a gifted pawn in the ways of the Technomancer, able to see the connection between science and magic.\nThis arcane script is incomplete and the reader will not learn any supporting technomancer abilities, but may still select their primary technomancy path. -->
+  <Torn_BookOfMagitech.description>Apprend à un colon talentueux les voies de la technomancie, capable de voir le lien entre la science et la magie.\nCet ouvrage magique est incomplet et le lecteur n'apprendra pas les capacités de soutien du technomancien, mais il pourra toujours choisir sa voie principale de technomancie.</Torn_BookOfMagitech.description>
+  <!-- EN: TM_Read -->
+  <Torn_BookOfMagitech.comps.CompUsable.useLabel>Lire</Torn_BookOfMagitech.comps.CompUsable.useLabel>
+  
+  <!-- EN: Torn Script: Nature -->
+  <Torn_BookOfNature.label>texte déchiré : Nature</Torn_BookOfNature.label>
+  <!-- EN: Teaches a gifted pawn how to harness elements of nature.  \nThis arcane script is incomplete and the reader may not be able to learn some, or any, druid spells. -->
+  <Torn_BookOfNature.description>Apprend à un colon talentueux à maîtriser les éléments de la nature.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, sorts de druide.</Torn_BookOfNature.description>
+  <!-- EN: TM_Read -->
+  <Torn_BookOfNature.comps.CompUsable.useLabel>Lire</Torn_BookOfNature.comps.CompUsable.useLabel>
+  
+  <!-- EN: Torn Script: Priest -->
+  <Torn_BookOfPriest.label>texte déchiré : Prêtre</Torn_BookOfPriest.label>
+  <!-- EN: Teaches a gifted pawn how to confer powers of life and healing. Priests are incapable of violence and these skills will be disabled.\nThis arcane script is incomplete and the reader may not be able to learn some, or any, priest spells. -->
+  <Torn_BookOfPriest.description>Apprend à un colon talentueux à maîtriser les pouvoirs de vie et de guérison. Les prêtres sont incapables de violence et ces compétences seront désactivées.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, sorts de prêtre.</Torn_BookOfPriest.description>
+  <!-- EN: TM_Read -->
+  <Torn_BookOfPriest.comps.CompUsable.useLabel>Lire</Torn_BookOfPriest.comps.CompUsable.useLabel>
+  
+  <!-- EN: Torn Script: Shaman -->
+  <Torn_BookOfShamanism.label>texte déchiré : Chaman</Torn_BookOfShamanism.label>
+  <!-- EN: Teaches a gifted pawn how to become a shaman; a tribal leader focused on ritualistic magic to create powerful curses and enchantments, and extends their influence through totems. -->
+  <Torn_BookOfShamanism.description>Apprend à un colon talentueux à devenir un chaman ; un chef de tribu qui se concentre sur la magie rituelle pour créer de puissants maléfices et enchantements, et étend son influence par le biais de totems.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, des sorts du chaman.</Torn_BookOfShamanism.description>
+  <!-- EN: TM_Read -->
+  <Torn_BookOfShamanism.comps.CompUsable.useLabel>Lire</Torn_BookOfShamanism.comps.CompUsable.useLabel>
+  
+  <!-- EN: Torn Script: Lightning -->
+  <Torn_BookOfStormBorn.label>texte déchiré : Foudre</Torn_BookOfStormBorn.label>
+  <!-- EN: Teaches a gifted pawn how to harness elements of lightning.  \nThis arcane script is incomplete and the reader may not be able to learn some, or any,  lightning spells. -->
+  <Torn_BookOfStormBorn.description>Apprend à un colon talentueux à maîtriser les éléments de foudre.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, sorts de foudre.</Torn_BookOfStormBorn.description>
+  <!-- EN: TM_Read -->
+  <Torn_BookOfStormBorn.comps.CompUsable.useLabel>Lire</Torn_BookOfStormBorn.comps.CompUsable.useLabel>
+  
+  <!-- EN: Torn Script: Summoning -->
+  <Torn_BookOfSummoner.label>texte déchiré : Invocation</Torn_BookOfSummoner.label>
+  <!-- EN: Teaches a gifted pawn how to summon and interact with elements across dimensions.  \nThis arcane script is incomplete and the reader may not be able to learn some, or any, summoning spells. -->
+  <Torn_BookOfSummoner.description>Apprend à un colon talentueux à maîtriser comment invoquer et interagir avec les éléments à travers les dimensions.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, sorts d'invocation.</Torn_BookOfSummoner.description>
+  <!-- EN: TM_Read -->
+  <Torn_BookOfSummoner.comps.CompUsable.useLabel>Lire</Torn_BookOfSummoner.comps.CompUsable.useLabel>
+  
+  <!-- EN: Torn Script: Brightmage -->
+  <Torn_BookOfTheSun.label>texte déchiré : Mage de lumière</Torn_BookOfTheSun.label>
+  <!-- EN: Teaches a gifted pawn how to become a brightmage. Brightmages manipulate the power of sunlight to create intense, destructive magic. -->
+  <Torn_BookOfTheSun.description>Apprend à un colon talentueux comment devenir un mage de lumière. Les mages de lumière manipulent le pouvoir de la lumière du soleil pour créer une magie intense et destructrice.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, des sorts du mage de lumière.</Torn_BookOfTheSun.description>
+  <!-- EN: TM_Read -->
+  <Torn_BookOfTheSun.comps.CompUsable.useLabel>Lire</Torn_BookOfTheSun.comps.CompUsable.useLabel>
+  
+  <!-- EN: Torn Script: Necromancy -->
+  <Torn_BookOfUndead.label>texte déchiré : Nécromancie</Torn_BookOfUndead.label>
+  <!-- EN: Teaches a gifted pawn how to manipulate forces of life and death. *Note: The necromancer may become a lich at a later stage, lichs are incapable of all activity except fighting and research. Many other magic classes dislike necromancers. Choose carefully.\nThis arcane script is incomplete and the reader may not be able to learn some, or any, necromancer spells. -->
+  <Torn_BookOfUndead.description>Apprend à un colon talentueux comment manipuler les forces de vie et de mort. *Note : Le nécromancien peut devenir une liche à un stade ultérieur, les liches sont incapables de toute activité sauf le combat et la recherche. De nombreuses autres classes de magie n'apprécient pas les nécromanciens. Choisissez avec soin.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, sorts de nécromancien.</Torn_BookOfUndead.description>
+  <!-- EN: TM_Read -->
+  <Torn_BookOfUndead.comps.CompUsable.useLabel>Lire</Torn_BookOfUndead.comps.CompUsable.useLabel>
+  
+  <!-- EN: Torn Script: Paladin -->
+  <Torn_BookOfValiant.label>texte déchiré : Paladin</Torn_BookOfValiant.label>
+  <!-- EN: Teaches a gifted pawn how to harness holy powers.  \nThis arcane script is incomplete and the reader may not be able to learn some, or any, holy spells. -->
+  <Torn_BookOfValiant.description>Apprend à un colon talentueux à maîtriser les pouvoirs sacrés.\nCet ouvrage magique est incomplet et le lecteur peut ne pas être en mesure d'apprendre certains, voire aucun, sorts sacrés.</Torn_BookOfValiant.description>
+  <!-- EN: TM_Read -->
+  <Torn_BookOfValiant.comps.CompUsable.useLabel>Lire</Torn_BookOfValiant.comps.CompUsable.useLabel>
+  
+</LanguageData>

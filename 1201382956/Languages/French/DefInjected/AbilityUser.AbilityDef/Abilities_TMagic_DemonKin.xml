@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Attraction -->
+  <TM_Attraction.label>Attraction</TM_Attraction.label>
+  <!-- EN: Creates a large shadow well that draws all nearby pawns into its center. Shadows will cling to any creature affected by Attraction, drastically reducing their movement speed for a short time.\n\nCast time: 3s\nRange: 40\nCooldown: 60 -->
+  <TM_Attraction.description>Crée un grand puits d'ombre qui attire tous les colons proches en son centre. Les ombres s'accrochent à toute créature affectée par l'Attraction, réduisant drastiquement leur vitesse de déplacement pendant un court instant.\n\nIncantation : 3s\nTemps de recharge : 60\nPortée : 40</TM_Attraction.description>
+  
+  <!-- EN: Attraction -->
+  <TM_Attraction_I.label>Attraction</TM_Attraction_I.label>
+  <!-- EN: Creates a large shadow well that draws all nearby pawns into its center. Shadows will cling to any creature affected by Attraction, drastically reducing their movement speed for a short time.\n\nCast time: 2.6s\nRange: 45\nCooldown: 55 -->
+  <TM_Attraction_I.description>Crée un grand puits d'ombre qui attire tous les colons proches en son centre. Les ombres s'accrochent à toute créature affectée par l'Attraction, réduisant drastiquement leur vitesse de déplacement pendant un court instant.\n\nIncantation : 2.6s\nTemps de recharge : 55\nPortée : 45</TM_Attraction_I.description>
+  
+  <!-- EN: Attraction -->
+  <TM_Attraction_II.label>Attraction</TM_Attraction_II.label>
+  <!-- EN: Creates a large shadow well that draws all nearby pawns into its center. Shadows will cling to any creature affected by Attraction, drastically reducing their movement speed for a short time.\n\nCast time: 2.3s\nRange: 50\nCooldown: 50 -->
+  <TM_Attraction_II.description>Crée un grand puits d'ombre qui attire tous les colons proches en son centre. Les ombres s'accrochent à toute créature affectée par l'Attraction, réduisant drastiquement leur vitesse de déplacement pendant un court instant.\n\nIncantation : 2.3s\nTemps de recharge : 50\nPortée : 50</TM_Attraction_II.description>
+  
+  <!-- EN: Attraction -->
+  <TM_Attraction_III.label>Attraction</TM_Attraction_III.label>
+  <!-- EN: Creates a large shadow well that draws all nearby pawns into its center. Shadows will cling to any creature affected by Attraction, drastically reducing their movement speed for a short time.\n\nCast time: 2s\nRange: 55\nCooldown: 45 -->
+  <TM_Attraction_III.description>Crée un grand puits d'ombre qui attire tous les colons proches en son centre. Les ombres s'accrochent à toute créature affectée par l'Attraction, réduisant drastiquement leur vitesse de déplacement pendant un court instant.\n\nIncantation : 2s\nTemps de recharge : 45\nPortée : 55</TM_Attraction_III.description>
+  
+  <!-- EN: Dominate -->
+  <TM_Dominate.label>Dominer</TM_Dominate.label>
+  <!-- EN: Command the shadow to envelope your enemies in a living nightmare that will surround them in their greatest fears. Nearby enemies close enough to witness the fear in a dominated pawn may also succumb to fear and allow the shadow to dominate their own mind.\n		\nWarlocks and Succubi dominate their foes in different ways. Warlocks will attempt to break the mind of their enemies, while a succubus will reduce the physical prowess of their victims. -->
+  <TM_Dominate.description>Commander l'ombre pour envelopper vos ennemis dans un cauchemar vivant qui les entourera de leurs plus grandes peurs. Les ennemis suffisamment proches pour être témoins de la peur d'un colon dominé peuvent également succomber à la peur et laisser l'ombre dominer leur propre esprit.\n\nLes sorciers et les succubes dominent leurs ennemis de différentes manières. Les sorciers tenteront de briser l'esprit de leurs ennemis, tandis que les succubes réduiront les prouesses physiques de leurs victimes.</TM_Dominate.description>
+  
+  <!-- EN: Psychic Shock -->
+  <TM_PsychicShock.label>Choc psychique</TM_PsychicShock.label>
+  <!-- EN: The Warlock removes all mental barriers and projects a powerful wave of psychic energy. Any pawns caught in the wave will be bombarded by psychic power and will briefly be subjected to the will of the Warlock. \n		\nThe Warlock who will use the minds of others to propagate the psychic wave. The Warlock will also attempt to destroy the mind of any enemy touched by psychic energy. Being subjected to this mental assault will disorient pawns for a short period and may even disorient the warlock if he is affected by reflected psychic energy. Psychic Shock receives a bonus based on the psychic sensitivity of the warlock and may fail to affect pawns with reduced psychic sensitivity. -->
+  <TM_PsychicShock.description>Le sorcier supprime toutes les barrières mentales et projette une puissante vague d'énergie psychique. Tout colon pris dans la vague sera bombardé par la puissance psychique et sera brièvement soumis à la volonté du Sorcier.\n\nLe sorcier utilisera l'esprit des autres pour propager la vague psychique. Le sorcier tentera également de détruire l'esprit de tout ennemi touché par l'énergie psychique. Le fait d'être soumis à cet assaut mental désoriente les colons pendant une courte période et peut même désorienter le sorcier s'il est affecté par l'énergie psychique réfléchie. Choc psychique bénéficie d'un bonus basé sur la sensibilité psychique du sorcier et peut ne pas affecter les colons dont la sensibilité psychique est réduite.</TM_PsychicShock.description>
+  
+  <!-- EN: Repulsion -->
+  <TM_Repulsion.label>Répulsion</TM_Repulsion.label>
+  <!-- EN: The Warlock generates a burst of energy at a target cell with enough force to launch nearby creatures away from the center.\n\nCast time: 1s\nRange: 40\nCooldown: 30s\nRadius: 5 -->
+  <TM_Repulsion.description>Le sorcier génère une explosion d'énergie sur une case ciblée avec suffisamment de force pour projeter les créatures proches loin du centre.\n\nIncantation : 1s\nPortée : 40\nTemps de recharge : 30s\nRayon : 5</TM_Repulsion.description>
+  
+  <!-- EN: Repulsion -->
+  <TM_Repulsion_I.label>Répulsion</TM_Repulsion_I.label>
+  <!-- EN: The Warlock generates a burst of energy at a target cell with enough force to launch nearby creatures away from the center.\n\nCast time: .8s\nRange: 47\nCooldown: 25s\nRadius: 6 -->
+  <TM_Repulsion_I.description>Le sorcier génère une explosion d'énergie sur une case ciblée avec suffisamment de force pour projeter les créatures proches loin du centre.\n\nIncantation : 0.8s\nPortée : 47\nTemps de recharge : 25s\nRayon : 6</TM_Repulsion_I.description>
+  
+  <!-- EN: Repulsion -->
+  <TM_Repulsion_II.label>Répulsion</TM_Repulsion_II.label>
+  <!-- EN: The Warlock generates a burst of energy at a target cell with enough force to launch nearby creatures away from the center.\n\nCast time: .6s\nRange: 54\nCooldown: 20s\nRadius: 7 -->
+  <TM_Repulsion_II.description>Le sorcier génère une explosion d'énergie sur une case ciblée avec suffisamment de force pour projeter les créatures proches loin du centre.\n\nIncantation : 0.6s\nPortée : 54\nTemps de recharge : 20s\nRayon : 7</TM_Repulsion_II.description>
+  
+  <!-- EN: Repulsion -->
+  <TM_Repulsion_III.label>Répulsion</TM_Repulsion_III.label>
+  <!-- EN: The Warlock generates a burst of energy at a target cell with enough force to launch nearby creatures away from the center.\n\nCast time: .5s\nRange: 60\nCooldown: 15s\nRadius: 8 -->
+  <TM_Repulsion_III.description>Le sorcier génère une explosion d'énergie sur une case ciblée avec suffisamment de force pour projeter les créatures proches loin du centre.\n\nIncantation : 0.5s\nPortée : 60\nTemps de recharge : 15s\nRayon : 8</TM_Repulsion_III.description>
+  
+  <!-- EN: Scorn -->
+  <TM_Scorn.label>Dédain</TM_Scorn.label>
+  <!-- EN: The succubus uses her demonic powers to partially transform into a winged demon, launching herself towards a distant location to crush her foes in a torrent of dark fury.\n		\nA succubus will retain her partial demon form for a short period after using this ability, granting her improved physical capacities and a damage shield. -->
+  <TM_Scorn.description>Le succube utilise ses pouvoirs démoniaques pour se transformer partiellement en un démon ailé, se lançant vers un endroit éloigné pour écraser ses ennemis dans un torrent de furie sombre.\n\nLa succube conserve sa forme démoniaque partielle pendant une courte période après avoir utilisé cette capacité, ce qui lui confère des capacités physiques améliorées et un bouclier contre les dégâts.</TM_Scorn.description>
+  
+  <!-- EN: Shadow Bolt -->
+  <TM_ShadowBolt.label>Trait de l'ombre</TM_ShadowBolt.label>
+  <!-- EN: Launches a Shadow Bolt. Any creature caught in its path is touched by the shadow. Upon impact, Shadow energy is released in a violent wave of darkness.\n		\nCast time: 2s\nCooldown : 20s\nRange: 40 -->
+  <TM_ShadowBolt.description>Lance un Trait de l'ombre. Toute créature prise dans sa trajectoire est touchée par l'ombre. À l'impact, l'énergie de l'ombre est libérée dans une violente onde de ténèbres.\n\nIncantation : 2s\nTemps de recharge : 20s\nPortée : 40</TM_ShadowBolt.description>
+  
+  <!-- EN: Shadow Bolt -->
+  <TM_ShadowBolt_I.label>Trait de l'ombre</TM_ShadowBolt_I.label>
+  <!-- EN: Launches a Shadow Bolt. Any creature caught in its path is touched by the shadow. Upon impact, Shadow energy is released in a violent wave of darkness.\n		\nCast time: 1.8s\nCooldown : 18s\nRange: 45 -->
+  <TM_ShadowBolt_I.description>Lance un Trait de l'ombre. Toute créature prise dans sa trajectoire est touchée par l'ombre. À l'impact, l'énergie de l'ombre est libérée dans une violente onde de ténèbres.\n\nIncantation : 1.8s\nTemps de recharge : 18s\nPortée : 45</TM_ShadowBolt_I.description>
+  
+  <!-- EN: Shadow Bolt -->
+  <TM_ShadowBolt_II.label>Trait de l'ombre</TM_ShadowBolt_II.label>
+  <!-- EN: Launches a Shadow Bolt. Any creature caught in its path is touched by the shadow. Upon impact, Shadow energy is released in a violent wave of darkness.\n		\nCast time: 1.6s\nCooldown : 16s\nRange: 50 -->
+  <TM_ShadowBolt_II.description>Lance un Trait de l'ombre. Toute créature prise dans sa trajectoire est touchée par l'ombre. À l'impact, l'énergie de l'ombre est libérée dans une violente onde de ténèbres.\n\nIncantation : 1.6s\nTemps de recharge : 16s\nPortée : 50</TM_ShadowBolt_II.description>
+  
+  <!-- EN: Shadow Bolt -->
+  <TM_ShadowBolt_III.label>Trait de l'ombre</TM_ShadowBolt_III.label>
+  <!-- EN: Launches a Shadow Bolt. Any creature caught in its path is touched by the shadow. Upon impact, Shadow energy is released in a violent wave of darkness.\n		\nCast time: 1.5s\nCooldown : 15s\nRange: 55 -->
+  <TM_ShadowBolt_III.description>Lance un Trait de l'ombre. Toute créature prise dans sa trajectoire est touchée par l'ombre. À l'impact, l'énergie de l'ombre est libérée dans une violente onde de ténèbres.\n\nIncantation : 1.5s\nTemps de recharge : 15s\nPortée : 55</TM_ShadowBolt_III.description>
+  
+  <!-- EN: Shadow Call -->
+  <TM_ShadowCall.label>Appel de l'ombre</TM_ShadowCall.label>
+  <!-- EN: Commands the soul of a bonded host to travel to your location. -->
+  <TM_ShadowCall.description>Ordonne à l'âme d'un hôte lié à vous rejoindre à votre emplacement.</TM_ShadowCall.description>
+  
+  <!-- EN: Shadow Step -->
+  <TM_ShadowStep.label>Pas de l’ombre</TM_ShadowStep.label>
+  <!-- EN: Step through shadow to the location of your soul bonded host. -->
+  <TM_ShadowStep.description>Traverser l'ombre jusqu'à l'emplacement de votre hôte lié à votre âme.</TM_ShadowStep.description>
+  
+  <!-- EN: SoulBond -->
+  <TM_SoulBond.label>Lien d'âme</TM_SoulBond.label>
+  <!-- EN: Demons, or those possessing the power of a demon, can creates a soul bond (soul contract) with another pawn who will sustain (or host) the bond. The bond provides energy from the soul of the host to the demonkin, in exchange, the emotions of the host are washed away in bliss. The soul bond also creates a link that allows the demonkin to travel to, or summon, the host.\n		\nThe soul bond contract may be canceled at any time by the demonkin by re-using the ability on the current host. Creating a soul bond with another host will cancel any previous contracts. The contract will also end if either party dies or is destroyed. \n\nSuccubi and Warlocks form distinct types of soul bonds - warlocks bonds are mentally reciprocal while a succubus bonds are physical in nature. Demonkin can only sustain a single bond; hosts can only sustain a single bond of each type (mental/physical). -->
+  <TM_SoulBond.description>Les démons, ou ceux qui possèdent le pouvoir d'un démon, peuvent créer un lien d'âme (contrat d'âme) avec un autre colon qui soutiendra (ou accueillera) le lien. Le lien fournit l'énergie de l'âme de l'hôte au démonoïde, en échange, les émotions de l'hôte sont lavées dans le bonheur. Le lien d'âme crée également un lien qui permet au démonoïde de voyager vers l'hôte ou de l'invoquer.\n\nLe contrat de lien d'âme peut être annulé à tout moment par le démonoïde en réutilisant la capacité sur l'hôte actuel. La création d'un lien d'âme avec un autre hôte annule tous les contrats précédents. Le contrat prend également fin si l'une des parties meurt ou est détruite.\n\nLes succubes et les sorciers forment des liens d'âme distincts - les liens des sorciers sont mentalement réciproques tandis que les liens des succubes sont de nature physique. Les démonoïdes ne peuvent entretenir qu'un seul lien ; les hôtes ne peuvent entretenir qu'un seul lien de chaque type (mental/physique).</TM_SoulBond.description>
+  
+  <!-- EN: Summon Demon -->
+  <TM_SummonDemon.label>Invocation de démon</TM_SummonDemon.label>
+  <!-- EN: Manifest true demonic power through the manipulation of both physical and mental soul bonds. This dark power exacts a heavy toll and its use should only be considered under dire circumstances.\n \nThe summoning is initiated when a Succubus anchors the physical offering and is completed when a Warlock finalizes the terms of the demonic contract. -->
+  <TM_SummonDemon.description>Manifeste un véritable pouvoir démoniaque en manipulant les liens physiques et mentaux de l'âme. Ce pouvoir obscur fait payer un lourd tribut et son utilisation, ne doit être envisagée que dans des circonstances extrêmes.\n\nL'invocation est lancée lorsqu'une succube ancre l'offrande physique et s'achève lorsqu'un sorcier finalise les termes du contrat démoniaque.</TM_SummonDemon.description>
+  
+</LanguageData>

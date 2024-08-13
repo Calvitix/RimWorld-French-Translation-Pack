@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Advanced Heal -->
+  <TM_AdvancedHeal.label>Soins avancés</TM_AdvancedHeal.label>
+  <!-- EN: Invokes holy power to greatly heal the wounds of a target. Base heal restores 14 health for up to 3 wounds. Will immediately seal the bleeding of wounds from missing bodyparts. -->
+  <TM_AdvancedHeal.description>Invoquer la puissance sacrée pour soigner efficacement les blessures d'une cible. La guérison de base redonne 14 points de vie pour un maximum de 3 blessures. Stoppe immédiatement le saignement des blessures provenant de parties du corps manquantes.</TM_AdvancedHeal.description>
+  
+  <!-- EN: Bestow Might -->
+  <TM_BestowMight.label>Accorder la puissance</TM_BestowMight.label>
+  <!-- EN: Blesses a single target with greatly increased physical power. \n		\nDuration: 		30-40s\nPhysical capacity: 	+40%\nPhysical demand: 	+50%\nPain:		-40% -->
+  <TM_BestowMight.description>Bénit une seule cible avec une puissance physique considérablement accrue.\n\nDurée : 30-40s\nCapacité physique : +40%\nExigence physique : +50%\nDouleur : -40%</TM_BestowMight.description>
+  
+  <!-- EN: Bestow Might (I) -->
+  <TM_BestowMight_I.label>Accorder la puissance</TM_BestowMight_I.label>
+  <!-- EN: Blesses a single target with greatly increased physical power.\n		\nDuration: 		50-60s\nPhysical capacity: 	+60%\nPhysical demand: 	+60%\nPain:		-50% -->
+  <TM_BestowMight_I.description>Bénit une seule cible avec une puissance physique considérablement accrue.\n\nDurée : 50-60s\nCapacité physique : +60%\nExigence physique : +60%\nDouleur : -50%</TM_BestowMight_I.description>
+  
+  <!-- EN: Bestow Might (II) -->
+  <TM_BestowMight_II.label>Accorder la puissance</TM_BestowMight_II.label>
+  <!-- EN: Blesses a single target with greatly increased physical power.\n		\nDuration: 		50-60s\nPhysical capacity: 	+80%\nPhysical demand: 	+70%\nPain:		-60% -->
+  <TM_BestowMight_II.description>Bénit une seule cible avec une puissance physique considérablement accrue.\n\nDurée : 50-60s\nCapacité physique : +80%\nExigence physique : +70%\nDouleur : -60%</TM_BestowMight_II.description>
+  
+  <!-- EN: Bestow Might (III) -->
+  <TM_BestowMight_III.label>Accorder la puissance</TM_BestowMight_III.label>
+  <!-- EN: Blesses a single target with greatly increased physical power.\n		\nDuration: 		100-115s\nPhysical capacity: 	~+100%\nPhysical demand: 	+100%\nPain:		-70% -->
+  <TM_BestowMight_III.description>Bénit une seule cible avec une puissance physique considérablement accrue.\n\nDurée : 100-115s\nCapacité physique : ~+100%\nExigence physique : +100%\nDouleur : -70%</TM_BestowMight_III.description>
+  
+  <!-- EN: Healing Circle -->
+  <TM_HealingCircle.label>Cercle de guérison</TM_HealingCircle.label>
+  <!-- EN: Creates a field of light that heals friendly pawns within. Base ability heals 1 wound by 10 health for each pawn healed. Cannot heal injuries of missing bodyparts.\n		\nCircle radius: 3\nRange: 30 -->
+  <TM_HealingCircle.description>Créer un champ de lumière qui guérit les colons amis qui s'y trouvent. La capacité de base soigne 1 blessure de 10 points de vie pour chaque colon soigné. Ne peut pas guérir les blessures des parties du corps manquantes.\n\nRayon : 3\nPortée : 30</TM_HealingCircle.description>
+  
+  <!-- EN: Healing Circle (I) -->
+  <TM_HealingCircle_I.label>Cercle de guérison</TM_HealingCircle_I.label>
+  <!-- EN: Creates a field of light that heals friendly pawns within. Base ability heals 1 wound by 10 health for each pawn healed. Cannot heal injuries of missing bodyparts.\n		\nCircle radius: 4\nRange: 35 -->
+  <TM_HealingCircle_I.description>Créer un champ de lumière qui guérit les colons amis qui s'y trouvent. La capacité de base soigne 1 blessure de 10 points de vie pour chaque colon soigné. Ne peut pas guérir les blessures des parties du corps manquantes.\n\nRayon : 4\nPortée : 35</TM_HealingCircle_I.description>
+  
+  <!-- EN: Healing Circle (II) -->
+  <TM_HealingCircle_II.label>Cercle de guérison</TM_HealingCircle_II.label>
+  <!-- EN: Creates a field of light that heals friendly pawns within. Base ability heals 1 wound by 10 health for each pawn healed. Cannot heal injuries of missing bodyparts.\n		\nCircle radius: 5.5\nRange: 40 -->
+  <TM_HealingCircle_II.description>Créer un champ de lumière qui guérit les colons amis qui s'y trouvent. La capacité de base soigne 1 blessure de 10 points de vie pour chaque colon soigné. Ne peut pas guérir les blessures des parties du corps manquantes.\n\nRayon : 5.5\nPortée : 40</TM_HealingCircle_II.description>
+  
+  <!-- EN: Healing Circle (III) -->
+  <TM_HealingCircle_III.label>Cercle de guérison</TM_HealingCircle_III.label>
+  <!-- EN: Creates a field of light that heals friendly pawns within. Base ability heals 1 wound by 10 health for each pawn healed. Cannot heal injuries of missing bodyparts.\n		\nCircle radius: 7\nRange: 45 -->
+  <TM_HealingCircle_III.description>Créer un champ de lumière qui guérit les colons amis qui s'y trouvent. La capacité de base soigne 1 blessure de 10 points de vie pour chaque colon soigné. Ne peut pas guérir les blessures des parties du corps manquantes.\n\nRayon : 7\nPortée : 45</TM_HealingCircle_III.description>
+  
+  <!-- EN: Purify -->
+  <TM_Purify.label>Purifier</TM_Purify.label>
+  <!-- EN: Invokes holy power to purify scars on the body, mind, and soul. -->
+  <TM_Purify.description>Invoquer le pouvoir sacré pour purifier les cicatrices sur le corps, l'esprit et l'âme.</TM_Purify.description>
+  
+  <!-- EN: Resurrection -->
+  <TM_Resurrection.label>Résurrection</TM_Resurrection.label>
+  <!-- EN: Resurrection restores the life of a recently deceased pawn. This places an immense demand on the Priest and resurrected pawn and both will be weak for several days while their strength recovers. Resurrection comes at a price; the resurrected pawn will forfeit up to 35% of their skills and may develop detrimental health conditions. -->
+  <TM_Resurrection.description>La résurrection redonne la vie à un colon récemment décédé. Cela demande un effort considérable au prêtre et au colon ressuscité, qui seront tous deux affaiblis pendant plusieurs jours, le temps de récupérer leurs forces. La résurrection a un prix : le colon ressuscité perd jusqu'à 35% de ses compétences et peut développer des problèmes de santé.</TM_Resurrection.description>
+  
+</LanguageData>

@@ -231,8 +231,6 @@
 <Operation Class="PatchOperationFindMod">
   <mods>
     <li>Medieval Overhaul</li>
-			<li>Medieval Overhaul (unofficial)</li>
-	
   </mods>
   <match Class="PatchOperationReplace">
     <xpath>/Defs/ResearchProjectDef[defName ="BotchJob_DivineOrderSmithing"]/researchViewX</xpath>
@@ -245,8 +243,6 @@
 	<Operation Class="PatchOperationFindMod">
   <mods>
     <li>Medieval Overhaul</li>
-			<li>Medieval Overhaul (unofficial)</li>
-	
   </mods>
   <match Class="PatchOperationReplace">
     <xpath>/Defs/ResearchProjectDef[defName ="BotchJob_DivineOrderEliteArmor"]/researchViewX</xpath>
@@ -259,8 +255,6 @@
 	<Operation Class="PatchOperationFindMod">
   <mods>
     <li>Medieval Overhaul</li>
-			<li>Medieval Overhaul (unofficial)</li>
-	
   </mods>
   <match Class="PatchOperationReplace">
     <xpath>/Defs/ResearchProjectDef[defName ="BotchJob_DivineOrderStaffResearch"]/researchViewX</xpath>
@@ -273,8 +267,6 @@
 	<Operation Class="PatchOperationFindMod">
   <mods>
     <li>Medieval Overhaul</li>
-			<li>Medieval Overhaul (unofficial)</li>
-	
   </mods>
   <match Class="PatchOperationReplace">
     <xpath>/Defs/FactionDef[defName ="BotchJob_DivineOrderFaction"]/settlementTexturePath</xpath>

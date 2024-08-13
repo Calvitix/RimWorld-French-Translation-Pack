@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chest cage -->
+  <TM_Golem_Flesh_ChestCage.label>Cage thoracique</TM_Golem_Flesh_ChestCage.label>
+  <!-- EN: Increases armor:\nBlunt:	28%\nSharp:	10%\nHeat:	5% -->
+  <TM_Golem_Flesh_ChestCage.description>Augmente l'armure :\nTranchant : 10%\nContondant : 28%\nChaleur : 5%</TM_Golem_Flesh_ChestCage.description>
+  
+  <!-- EN: quad sight -->
+  <TM_Golem_Flesh_EyesT1.label>Vue quadruple</TM_Golem_Flesh_EyesT1.label>
+  <!-- EN: Increases sight by 100%. -->
+  <TM_Golem_Flesh_EyesT1.description>Augmente la vue de 100%.</TM_Golem_Flesh_EyesT1.description>
+  
+  <!-- EN: evil eye -->
+  <TM_Golem_Flesh_EyesT2.label>Mauvais œil</TM_Golem_Flesh_EyesT2.label>
+  <!-- EN: Enables an ability that terrifies and slows enemies.\n\nEvil Eye\nRage Cost:	10\nCooldown:	2.2s\nRange:	40 -->
+  <TM_Golem_Flesh_EyesT2.description>Active une capacité qui terrifie et ralentit les ennemis.</TM_Golem_Flesh_EyesT2.description>
+  
+  <!-- EN: horns -->
+  <TM_Golem_Flesh_Horns.label>Cornes</TM_Golem_Flesh_Horns.label>
+  <!-- EN: Adds a piercing attack and charge ability.\n\nBull Charge\nRage Cost:	5\nCooldown:	10s -->
+  <TM_Golem_Flesh_Horns.description>Ajoute une attaque perforante et une capacité de charge.</TM_Golem_Flesh_Horns.description>
+  
+  <!-- EN: left arm brace -->
+  <TM_Golem_Flesh_LeftArmBrace.label>Bracelet bras gauche</TM_Golem_Flesh_LeftArmBrace.label>
+  <!-- EN: Increases block chance by 20%, stacks with right bracer. -->
+  <TM_Golem_Flesh_LeftArmBrace.description>Augmente les chances de blocage de 20%, s'empile avec le bracelet droit.</TM_Golem_Flesh_LeftArmBrace.description>
+  
+  <!-- EN: left arm (harvest) cleaver -->
+  <TM_Golem_Flesh_LeftArmCleaver.label>Fendoir bras gauche</TM_Golem_Flesh_LeftArmCleaver.label>
+  <!-- EN: Harvest plants\n		\nAoE Cleave\nRage Cost:	15\nDamage:	15\nSplash:	2c -->
+  <TM_Golem_Flesh_LeftArmCleaver.description>Permet au golem de récolter des plantes et d'activer une attaque d'AoE.</TM_Golem_Flesh_LeftArmCleaver.description>
+  
+  <!-- EN: leg plates -->
+  <TM_Golem_Flesh_LegPlates.label>Plaques de jambe</TM_Golem_Flesh_LegPlates.label>
+  <!-- EN: Increases armor:\nBlunt:	10%\nSharp:	15%\nHeat:	8% -->
+  <TM_Golem_Flesh_LegPlates.description>Augmente l'armure :\nTranchant : 15%\nContondant : 10%\nChaleur : 8%</TM_Golem_Flesh_LegPlates.description>
+  
+  <!-- EN: right arm brace -->
+  <TM_Golem_Flesh_RightArmBrace.label>Bracelet bras droit</TM_Golem_Flesh_RightArmBrace.label>
+  <!-- EN: Increases block chance by 20%, stacks with left bracer. -->
+  <TM_Golem_Flesh_RightArmBrace.description>Augmente les chances de blocage de 20%, s'empile avec le bracelet gauche.</TM_Golem_Flesh_RightArmBrace.description>
+  
+  <!-- EN: right arm (chop) cleaver -->
+  <TM_Golem_Flesh_RightArmCleaver.label>Fendoir bras droit</TM_Golem_Flesh_RightArmCleaver.label>
+  <!-- EN: Cut trees\n\nAoE Cleave\nRage Cost:	15\nDamage:	15\nSplash:	2c -->
+  <TM_Golem_Flesh_RightArmCleaver.description>Permet au golem de récolter des plantes et d'activer une attaque d'AoE.</TM_Golem_Flesh_RightArmCleaver.description>
+  
+  <!-- EN: shoulder plates -->
+  <TM_Golem_Flesh_ShoulderPlates.label>Plaques d'épaule</TM_Golem_Flesh_ShoulderPlates.label>
+  <!-- EN: Increases armor:\nBlunt:	14%\nSharp:	12%\nHeat:	10% -->
+  <TM_Golem_Flesh_ShoulderPlates.description>Augmente l'armure :\nTranchant : 12%\nContondant : 14%\nChaleur : 10%</TM_Golem_Flesh_ShoulderPlates.description>
+  
+  <!-- EN: skull plate -->
+  <TM_Golem_Flesh_SkullPlate.label>Plaque crânienne</TM_Golem_Flesh_SkullPlate.label>
+  <!-- EN: Increases armor:\nBlunt:	12%\nSharp:	18%\nHeat:	8% -->
+  <TM_Golem_Flesh_SkullPlate.description>Augmente l'armure :\nTranchant : 18\nContondant : 12\nChaleur : 8</TM_Golem_Flesh_SkullPlate.description>
+  
+  <!-- EN: spine guard -->
+  <TM_Golem_Flesh_SpineGuard.label>Protection du dos</TM_Golem_Flesh_SpineGuard.label>
+  <!-- EN: Increases armor:\nBlunt:	12%\nSharp:	14%\nHeat:	5% -->
+  <TM_Golem_Flesh_SpineGuard.description>Augmente l'armure :\nTranchant : 12%\nContondant : 14%\nChaleur : 5%</TM_Golem_Flesh_SpineGuard.description>
+  
+  <!-- EN: tusks -->
+  <TM_Golem_Flesh_Tusks.label>Défenses</TM_Golem_Flesh_Tusks.label>
+  <!-- EN: Adds a powerful bite attack. -->
+  <TM_Golem_Flesh_Tusks.description>Ajoute une puissante attaque de morsure.</TM_Golem_Flesh_Tusks.description>
+  
+  <!-- EN: wings -->
+  <TM_Golem_Flesh_Wings.label>Ailes</TM_Golem_Flesh_Wings.label>
+  <!-- EN: Adds an ability that can grant the golem haste.\n\nHaste\nRage Cost:	15\nCooldown:	6s\nDouble attack and move speed -->
+  <TM_Golem_Flesh_Wings.description>Ajoute une capacité qui confère au golem de la hâte.</TM_Golem_Flesh_Wings.description>
+  
+  <!-- EN: muscular efficiency -->
+  <TM_Golem_FleshEnergyEfficiency.label>Efficacité musculaire</TM_Golem_FleshEnergyEfficiency.label>
+  <!-- EN: Increases energy efficiency by 10% per level. Starting energy efficiency is 50%. -->
+  <TM_Golem_FleshEnergyEfficiency.description>Augmente l'efficacité de l'énergie de 10% par niveau. L'efficacité de l'énergie de départ est de 50%.</TM_Golem_FleshEnergyEfficiency.description>
+  
+  <!-- EN: energy synthesis -->
+  <TM_Golem_FleshEnergyRate.label>Synthèse d'énergie</TM_Golem_FleshEnergyRate.label>
+  <!-- EN: Increases energy charge rate by 20% per level. Starting recharge rate is 100 energy/hour. -->
+  <TM_Golem_FleshEnergyRate.description>Augmente le taux de recharge d'énergie de 20% par niveau. Le taux de recharge initial est de 100 énergie/heure.</TM_Golem_FleshEnergyRate.description>
+  
+  <!-- EN: automaton power -->
+  <TM_Golem_FleshLifeStage.label>Puissance de l'automate</TM_Golem_FleshLifeStage.label>
+  <!-- EN: Increases stats and adds the dismember ability.\nMovement:	+[20%/35%/50%]\nHealth:		+[30%/50%/70%]\n\nDismember\nRage Cost:	25\nCooldown:	13s\nRange:	1c -->
+  <TM_Golem_FleshLifeStage.description>Augmente les stats et ajoute la capacité Démembrer.\nDéplacement : +[20%/35%/50%]\nSanté : +[30%/50%/70%]</TM_Golem_FleshLifeStage.description>
+  
+  <!-- EN: muscular endurance -->
+  <TM_Golem_FleshMaxEnergy.label>Endurance musculaire</TM_Golem_FleshMaxEnergy.label>
+  <!-- EN: Increases maximum energy by 400 per level. Starting max energy is 800. -->
+  <TM_Golem_FleshMaxEnergy.description>Augmente l'énergie maximale de 400 par niveau. L'énergie maximale de départ est de 800.</TM_Golem_FleshMaxEnergy.description>
+  
+  <!-- EN: restore part -->
+  <TM_Golem_FleshRestore.label>Partie restaurée</TM_Golem_FleshRestore.label>
+  
+</LanguageData>

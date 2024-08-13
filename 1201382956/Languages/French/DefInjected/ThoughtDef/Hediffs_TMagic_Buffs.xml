@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pumped -->
+  <AMP_I.stages.pumped.label>injecté</AMP_I.stages.pumped.label>
+  <!-- EN: I feel great. This is better than Go-Juice. -->
+  <AMP_I.stages.pumped.description>Je me sens bien. C'est mieux que le Go-Juice.</AMP_I.stages.pumped.description>
+  
+  <!-- EN: amped -->
+  <AMP_II.stages.amped.label>amplifié</AMP_II.stages.amped.label>
+  <!-- EN: This is amazing! I could run like the wind and fight like a lion - nothing can stop me! -->
+  <AMP_II.stages.amped.description>C'est incroyable ! Je pourrais courir comme le vent et me battre comme un lion - rien ne peut m'arrêter !</AMP_II.stages.amped.description>
+  
+  <!-- EN: surging energy -->
+  <AMP_III.stages.surging_energy.label>énergie débordante</AMP_III.stages.surging_energy.label>
+  <!-- EN: I'm surging with power, I feel unstoppable. -->
+  <AMP_III.stages.surging_energy.description>Je déborde de puissance, je me sens inarrêtable.</AMP_III.stages.surging_energy.description>
+  
+  <!-- EN: Shadow of hope -->
+  <RayofHope.stages.Shadow_of_hope.label>ombre d'espoir</RayofHope.stages.Shadow_of_hope.label>
+  <!-- EN: Where there's shadow, there's light -->
+  <RayofHope.stages.Shadow_of_hope.description>Là où il y a de l'ombre, il y a de la lumière.</RayofHope.stages.Shadow_of_hope.description>
+  
+  <!-- EN: Glimmer of hope -->
+  <RayofHope_I.stages.Glimmer_of_hope.label>lueur d'espoir</RayofHope_I.stages.Glimmer_of_hope.label>
+  <!-- EN: I have this glimmer of hope that wasn't there before! -->
+  <RayofHope_I.stages.Glimmer_of_hope.description>J'ai cette lueur d'espoir qui n'était pas là avant !</RayofHope_I.stages.Glimmer_of_hope.description>
+  
+  <!-- EN: Ray of hope -->
+  <RayofHope_II.stages.Ray_of_hope.label>rayon d'espoir</RayofHope_II.stages.Ray_of_hope.label>
+  <!-- EN: Theres a ray of light breaking through this dark mood, I finally feel like we have a chance. -->
+  <RayofHope_II.stages.Ray_of_hope.description>Il y a un rayon de lumière qui perce à travers cette humeur sombre, je sens enfin qu'on a une chance.</RayofHope_II.stages.Ray_of_hope.description>
+  
+  <!-- EN: Beacon of hope -->
+  <RayofHope_III.stages.Beacon_of_hope.label>lumière d'espoir</RayofHope_III.stages.Beacon_of_hope.label>
+  <!-- EN: All the misfortune that's befallen us is being burned away by a brilliant light, I have a burst of energy and feel amazing! -->
+  <RayofHope_III.stages.Beacon_of_hope.description>Tous les malheurs qui nous ont frappés sont brûlés par une lumière brillante, j'ai un regain d'énergie et je me sens merveilleusement bien !</RayofHope_III.stages.Beacon_of_hope.description>
+  
+  <!-- EN: twitchy -->
+  <Shadow.stages.twitchy.label>agité</Shadow.stages.twitchy.label>
+  <!-- EN: Something feels off.... -->
+  <Shadow.stages.twitchy.description>Quelque chose ne va pas...</Shadow.stages.twitchy.description>
+  
+  <!-- EN: anxious -->
+  <Shadow_I.stages.anxious.label>anxieux</Shadow_I.stages.anxious.label>
+  <!-- EN: There's a tingling sensation at the back of my neck, like I'm always being watched... it's creepy. -->
+  <Shadow_I.stages.anxious.description>Il y a une sensation de picotement à l'arrière de mon cou, comme si j'étais toujours observé... c'est effrayant.</Shadow_I.stages.anxious.description>
+  
+  <!-- EN: nervous -->
+  <Shadow_II.stages.nervous.label>nerveux</Shadow_II.stages.nervous.label>
+  <!-- EN: I keep seeing something out of the corner of my eye, it feels like someone is right behind me and it has me on edge. -->
+  <Shadow_II.stages.nervous.description>Je n'arrête pas de voir quelque chose du coin de l'œil, j'ai l'impression que quelqu'un est juste derrière moi et ça me met sur les nerfs.</Shadow_II.stages.nervous.description>
+  
+  <!-- EN: distraught -->
+  <Shadow_III.stages.distraught.label>affolé</Shadow_III.stages.distraught.label>
+  <!-- EN: There's another presence next to me, assisting in everything I do. It knows what to do before I do. Am I possessed?! -->
+  <Shadow_III.stages.distraught.description>Il y a une autre présence à côté de moi, qui m'assiste dans tout ce que je fais. Elle sait ce qu'il faut faire avant moi. Suis-je possédé ? !</Shadow_III.stages.distraught.description>
+  
+  <!-- EN: soothing breeze -->
+  <SoothingBreeze.stages.soothing_breeze.label>brise apaisante</SoothingBreeze.stages.soothing_breeze.label>
+  <!-- EN: Something is having a calming affect on me, I'm thinking clearly and I'm wasting less energy fretting about senseless concerns. -->
+  <SoothingBreeze.stages.soothing_breeze.description>Quelque chose a un effet apaisant sur moi, je pense clairement et je gaspille moins d'énergie à me préoccuper de choses insensées.</SoothingBreeze.stages.soothing_breeze.description>
+  
+  <!-- EN: soothing breeze -->
+  <SoothingBreeze_I.stages.soothing_breeze.label>brise apaisante</SoothingBreeze_I.stages.soothing_breeze.label>
+  <!-- EN: Something is having a calming affect on me, I'm thinking clearly and I'm wasting less energy fretting about senseless concerns. -->
+  <SoothingBreeze_I.stages.soothing_breeze.description>Quelque chose a un effet apaisant sur moi, je pense clairement et je gaspille moins d'énergie à me préoccuper de choses insensées.</SoothingBreeze_I.stages.soothing_breeze.description>
+  
+  <!-- EN: soothing breeze -->
+  <SoothingBreeze_II.stages.soothing_breeze.label>brise apaisante</SoothingBreeze_II.stages.soothing_breeze.label>
+  <!-- EN: With the wind at my back, I feel calm, relaxed, and focused and have the energy to keep going. -->
+  <SoothingBreeze_II.stages.soothing_breeze.description>Avec le vent dans le dos, je me sens calme, détendu, concentré et j'ai l'énergie pour continuer.</SoothingBreeze_II.stages.soothing_breeze.description>
+  
+  <!-- EN: soothing breeze -->
+  <SoothingBreeze_III.stages.soothing_breeze.label>brise apaisante</SoothingBreeze_III.stages.soothing_breeze.label>
+  <!-- EN: All distractions have been washed away, I am utterly focused and have the confidence to execute all tasks to perfection. -->
+  <SoothingBreeze_III.stages.soothing_breeze.description>Toutes les distractions ont été éliminées, je suis totalement concentré et j'ai la confiance nécessaire pour exécuter toutes les tâches à la perfection.</SoothingBreeze_III.stages.soothing_breeze.description>
+  
+  <!-- EN: blinded -->
+  <TM_Blind.stages.blinded.label>aveuglé</TM_Blind.stages.blinded.label>
+  <!-- EN: There was a flash of light and what it revealed to me... I can't... I don't want to see anymore! -->
+  <TM_Blind.stages.blinded.description>Il y a eu un flash de lumière et ce qu'il m'a révélé... Je ne peux pas... Je ne veux plus voir !</TM_Blind.stages.blinded.description>
+  
+</LanguageData>

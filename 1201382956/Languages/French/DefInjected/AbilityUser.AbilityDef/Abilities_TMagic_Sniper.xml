@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Anti-Armor -->
+  <TM_AntiArmor.label>Anti-armure</TM_AntiArmor.label>
+  <!-- EN: The sniper carries anti armor rounds for those special occasions. When this ammunition shatters, it releases nanites that will shred any armor they make contact with. Relatively ineffective against soft targets but does extra damage to armored targets, as long as the resistance on impact activates the nanites. Armored targets may be any mechanoid or a target with a Sharp armor rating above 100%. -->
+  <TM_AntiArmor.description>Le tireur d'élite porte des munitions anti-blindage pour les occasions spéciales. Lorsque ces munitions se brisent, elles libèrent des nanites qui déchiquettent toute armure avec laquelle elles entrent en contact. Relativement inefficaces contre les cibles tendres, elles font des dégâts supplémentaires sur les cibles blindées, pour autant que la résistance à l'impact active les nanites. Les cibles blindées peuvent être n'importe quel mécanoïde ou une cible avec un indice d'armure tranchant supérieur à 100%.</TM_AntiArmor.description>
+  
+  <!-- EN: Disabling Shot -->
+  <TM_DisablingShot.label>Tir incapacitant</TM_DisablingShot.label>
+  <!-- EN: A shot that aims to disable the opponent rather than kill. The sniper fires non-lethal rounds that release a jolt of electricity, briefly paralyzing the target for several seconds. Armored targets are unaffected.\n	\nRange: 20\nFiring Delay: 2.5s\nRecharge 45s -->
+  <TM_DisablingShot.description>Un tir qui vise à mettre l'adversaire hors d'état de nuire plutôt que de le tuer. Le tireur d'élite tire des balles non mortelles qui libèrent une décharge d'électricité, paralysant brièvement la cible pendant plusieurs secondes. Les cibles blindées ne sont pas affectées.\n\nPortée : 20\nDélai de mise à feu : 2.5s\nRecharge 45s</TM_DisablingShot.description>
+  
+  <!-- EN: Disabling Shot (I) -->
+  <TM_DisablingShot_I.label>Tir incapacitant</TM_DisablingShot_I.label>
+  <!-- EN: A shot that aims to disable the opponent rather than kill. The sniper fires non-lethal rounds that release a jolt of electricity, briefly paralyzing the target for several seconds. Armored targets are unaffected.\n	\nRange: 22\nFiring Delay: 2.3s\nRecharge 43s -->
+  <TM_DisablingShot_I.description>Un tir qui vise à mettre l'adversaire hors d'état de nuire plutôt que de le tuer. Le tireur d'élite tire des balles non mortelles qui libèrent une décharge d'électricité, paralysant brièvement la cible pendant plusieurs secondes. Les cibles blindées ne sont pas affectées.\n\nPortée : 22\nDélai de mise à feu : 2.3s\nRecharge 43s</TM_DisablingShot_I.description>
+  
+  <!-- EN: Disabling Shot (II) -->
+  <TM_DisablingShot_II.label>Tir incapacitant</TM_DisablingShot_II.label>
+  <!-- EN: A shot that aims to disable the opponent rather than kill. The sniper fires non-lethal rounds that release a jolt of electricity, briefly paralyzing the target for several seconds. Armored targets are unaffected.\n	\nRange: 25\nFiring Delay: 2.1s\nRecharge 41s -->
+  <TM_DisablingShot_II.description>Un tir qui vise à mettre l'adversaire hors d'état de nuire plutôt que de le tuer. Le tireur d'élite tire des balles non mortelles qui libèrent une décharge d'électricité, paralysant brièvement la cible pendant plusieurs secondes. Les cibles blindées ne sont pas affectées.\n\nPortée : 25\nDélai de mise à feu : 2.1s\nRecharge 41s</TM_DisablingShot_II.description>
+  
+  <!-- EN: Disabling Shot (III) -->
+  <TM_DisablingShot_III.label>Tir incapacitant</TM_DisablingShot_III.label>
+  <!-- EN: A shot that aims to disable the opponent rather than kill. The sniper fires non-lethal rounds that release a jolt of electricity, briefly paralyzing the target for several seconds. Armored targets are unaffected.\n	\nRange: 27\nFiring Delay: 2s\nRecharge 40s -->
+  <TM_DisablingShot_III.description>Un tir qui vise à mettre l'adversaire hors d'état de nuire plutôt que de le tuer. Le tireur d'élite tire des balles non mortelles qui libèrent une décharge d'électricité, paralysant brièvement la cible pendant plusieurs secondes. Les cibles blindées ne sont pas affectées.\n\nPortée : 27\nDélai de mise à feu : 2s\nRecharge 40s</TM_DisablingShot_III.description>
+  
+  <!-- EN: Headshot -->
+  <TM_Headshot.label>En pleine tête</TM_Headshot.label>
+  <!-- EN: A lethal shot that targets a vital bodypart like the head or heart. Effective on non-humanoids and humanoids alike. Headshot success chance is reduced against targets with thick armor protecting their vital organs. -->
+  <TM_Headshot.description>Un tir mortel qui vise une partie vitale du corps comme la tête ou le cœur. Efficace sur les non-humanoïdes comme sur les humanoïdes. Les chances de réussite du tir dans la tête sont réduites contre les cibles dotées d'une armure épaisse protégeant leurs organes vitaux.</TM_Headshot.description>
+  
+  <!-- EN: Shadow Slayer -->
+  <TM_ShadowSlayer.label>Tueur de l'ombre</TM_ShadowSlayer.label>
+  <!-- EN: A trained sniper is an expert at stealth and positioning, and knows the right time and place to strike. \n\nThe shadow slayer cloaking field is a long duration form of invisibility. Unlike normal cloaking technology, this stealth field relies heavily on a form of predictive cloaking that rapidly wears off when the user performs rapid or violent actions (such as firing a weapon). -->
+  <TM_ShadowSlayer.description>Un tireur d'élite entraîné est un expert en matière de furtivité et de positionnement, et connaît le bon moment et le bon endroit pour frapper.\n\nLe champ de dissimulation du tueur d'ombres est une forme d'invisibilité de longue durée. Contrairement à la technologie d'occultation normale, ce système repose sur une forme d'occultation prédictive qui se dissipe rapidement lorsque l'utilisateur effectue des actions rapides ou violentes (comme tirer avec une arme).</TM_ShadowSlayer.description>
+  
+  <!-- EN: Sniper Training -->
+  <TM_SniperFocus.label>Entraînement de tireur d'élite</TM_SniperFocus.label>
+  <!-- EN: Training that improves technique and status as sniper. Each level will change the trait of the sniper to reflect their skill level.\n	\nRanks:\nSharpshooter: Speed +0.1c/s, Aiming Delay -10%, Shooting Acc. +2%, Research and work speed -10%, tame and train animal -10%\nSniper: Speed +0.15c/s, Aiming Delay -15%, Shooting Acc. +4%, Research and work speed -13%, tame and train animal -13%\nMaster Sniper: Speed +0.2c/s, Aiming Delay -22%, Shooting Acc. +6%, Research and work speed -15%, tame and train animal -15%\nLegendary Sniper: Speed +0.25c/s, Aiming Delay -30%, Shooting Acc. +8%, Research and work speed -16%, tame and train animal -16% -->
+  <TM_SniperFocus.description>Un entraînement qui améliore la technique et le statut du tireur d'élite. Chaque niveau modifie le trait du tireur d'élite pour refléter son niveau de compétence.\n\nRangs :\nTireur précis : Vitesse +0.10c/s, Temps de visée -10%, Préci. de tir +2%, Vitesse de recherche et de travail -10%, Apprivoiser et Dresser un animal -10%\nTireur d'élite : Vitesse +0,15c/s, Temps de visée -15%, Préci. de tir +4%, Vitesse de recherche et de travail -10%, Apprivoiser et Dresser un animal -13%\nTireur d'élite Maître : Vitesse +0,20c/s, Temps de visée -22%, Préci. de tir +6%, Vitesse de recherche et de travail -13%, Apprivoiser et Dresser un animal -15%\nTireur d'élite Légendaire : Vitesse +0,25c/s, Temps de visée -30%, Préci. de tir +8%, Vitesse de recherche et de travail -15%, Apprivoiser et Dresser un animal -16%</TM_SniperFocus.description>
+  
+</LanguageData>

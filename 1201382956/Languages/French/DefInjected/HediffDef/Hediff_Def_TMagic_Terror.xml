@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Terror -->
+  <TM_Terror.label>terreur</TM_Terror.label>
+  <!-- EN: A raw display of magical power is inducing fear in this pawn. -->
+  <TM_Terror.description>Une démonstration brute de puissance magique induit la peur chez ce colon.</TM_Terror.description>
+  <!-- EN: Uneasy -->
+  <TM_Terror.stages.Uneasy.label>inquiet</TM_Terror.stages.Uneasy.label>
+  <!-- EN: Panicked -->
+  <TM_Terror.stages.Panicked.label>paniqué</TM_Terror.stages.Panicked.label>
+  <!-- EN: Terrified -->
+  <TM_Terror.stages.Terrified.label>terrifié</TM_Terror.stages.Terrified.label>
+  
+</LanguageData>

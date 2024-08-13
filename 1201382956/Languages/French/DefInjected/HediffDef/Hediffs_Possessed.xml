@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: spirit distortion -->
+  <TM_SpiritDistortionHD.label>distorsion de l'esprit</TM_SpiritDistortionHD.label>
+  <!-- EN: This pawn's spirit is distorted and is unable to maintain cohesion with its body. This pawn is vulnerable and will take more damage. -->
+  <TM_SpiritDistortionHD.description>L'esprit de ce colon est déformé et est incapable de maintenir la cohésion avec son corps. Il est vulnérable et subira plus de dégâts.</TM_SpiritDistortionHD.description>
+  
+  <!-- EN: spirit drain -->
+  <TM_SpiritDrainHD.label>drain d’esprit</TM_SpiritDrainHD.label>
+  <!-- EN: This pawn has been drained of spirit and their future looks grim. -->
+  <TM_SpiritDrainHD.description>Ce colon a été vidé de son esprit et son avenir semble bien sombre.</TM_SpiritDrainHD.description>
+  <!-- EN: recovering -->
+  <TM_SpiritDrainHD.stages.recovering.label>récupération</TM_SpiritDrainHD.stages.recovering.label>
+  <!-- EN: minor -->
+  <TM_SpiritDrainHD.stages.minor.label>mineur</TM_SpiritDrainHD.stages.minor.label>
+  <!-- EN: low -->
+  <TM_SpiritDrainHD.stages.low.label>faible</TM_SpiritDrainHD.stages.low.label>
+  <!-- EN: moderate -->
+  <TM_SpiritDrainHD.stages.moderate.label>modéré</TM_SpiritDrainHD.stages.moderate.label>
+  <!-- EN: severe -->
+  <TM_SpiritDrainHD.stages.severe.label>sévère</TM_SpiritDrainHD.stages.severe.label>
+  <!-- EN: deadly -->
+  <TM_SpiritDrainHD.stages.deadly.label>mortel</TM_SpiritDrainHD.stages.deadly.label>
+  
+  <!-- EN: spirit possession -->
+  <TM_SpiritPossessionHD.label>possession par un esprit</TM_SpiritPossessionHD.label>
+  <!-- EN: Possessed by a spirit. -->
+  <TM_SpiritPossessionHD.description>Possédé par un esprit.</TM_SpiritPossessionHD.description>
+  <!-- EN: distorted -->
+  <TM_SpiritPossessionHD.stages.distorted.label>déformé</TM_SpiritPossessionHD.stages.distorted.label>
+  <!-- EN: conflicted -->
+  <TM_SpiritPossessionHD.stages.conflicted.label>conflictuel</TM_SpiritPossessionHD.stages.conflicted.label>
+  <!-- EN: unstable -->
+  <TM_SpiritPossessionHD.stages.unstable.label>instable</TM_SpiritPossessionHD.stages.unstable.label>
+  <!-- EN: stable -->
+  <TM_SpiritPossessionHD.stages.stable.label>stable</TM_SpiritPossessionHD.stages.stable.label>
+  <!-- EN: cooperative -->
+  <TM_SpiritPossessionHD.stages.cooperative.label>coopératif</TM_SpiritPossessionHD.stages.cooperative.label>
+  <!-- EN: harmonious -->
+  <TM_SpiritPossessionHD.stages.harmonious.label>harmonieux</TM_SpiritPossessionHD.stages.harmonious.label>
+  
+  <!-- EN: spirit -->
+  <TM_SpiritPossessorHD.label>esprit</TM_SpiritPossessorHD.label>
+  <!-- EN: This pawn is a spirit, unable to interact with the physical world in common ways. Spirit's are unable to be physically harmed, but will lose spirit strength if their form receives damage. -->
+  <TM_SpiritPossessorHD.description>Ce colon est un esprit, incapable d'interagir avec le monde physique de manière courante. Les esprits ne peuvent pas être blessés physiquement, mais perdent leur force spirituelle si leur forme est endommagée.</TM_SpiritPossessorHD.description>
+  <!-- EN: I -->
+  <TM_SpiritPossessorHD.stages.I.label>I</TM_SpiritPossessorHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_SpiritPossessorHD.stages.II.label>II</TM_SpiritPossessorHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_SpiritPossessorHD.stages.III.label>III</TM_SpiritPossessorHD.stages.III.label>
+  <!-- EN: IV -->
+  <TM_SpiritPossessorHD.stages.IV.label>IV</TM_SpiritPossessorHD.stages.IV.label>
+  
+</LanguageData>

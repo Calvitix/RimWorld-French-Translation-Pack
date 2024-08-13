@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: perform arcane and magic dependent tasks -->
+  <TM_Magic.description>Effectuer des tâches liées à la magie.</TM_Magic.description>
+  <!-- EN: magic manipulation -->
+  <TM_Magic.gerundLabel>Manipulation magique</TM_Magic.gerundLabel>
+  <!-- EN: Magic -->
+  <TM_Magic.labelShort> Magie</TM_Magic.labelShort>
+  <!-- EN: Magic -->
+  <TM_Magic.pawnLabel>Magie</TM_Magic.pawnLabel>
+  <!-- EN: Perform Magic -->
+  <TM_Magic.verb>Faire de la magie</TM_Magic.verb>
+  
+</LanguageData>

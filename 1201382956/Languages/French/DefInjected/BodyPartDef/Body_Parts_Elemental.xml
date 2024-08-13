@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abdomen -->
+  <Ele_Abdomen.label>abdomen</Ele_Abdomen.label>
+  
+  <!-- EN: elemental movement base -->
+  <Ele_Base.label>base de mouvement élémentaire</Ele_Base.label>
+  
+  <!-- EN: body -->
+  <Ele_Body.label>corps</Ele_Body.label>
+  
+  <!-- EN: brain -->
+  <Ele_Brain.label>cerveau</Ele_Brain.label>
+  
+  <!-- EN: chest -->
+  <Ele_Chest.label>thorax</Ele_Chest.label>
+  
+  <!-- EN: eye -->
+  <Ele_Eye.label>œil</Ele_Eye.label>
+  
+  <!-- EN: head -->
+  <Ele_Head.label>tête</Ele_Head.label>
+  
+  <!-- EN: heart -->
+  <Ele_Heart.label>cœur</Ele_Heart.label>
+  
+  <!-- EN: horn -->
+  <Ele_Horn.label>corne</Ele_Horn.label>
+  
+  <!-- EN: jaw -->
+  <Ele_Jaw.label>mâchoire</Ele_Jaw.label>
+  
+  <!-- EN: left arm -->
+  <Ele_LeftArm.label>bras gauche</Ele_LeftArm.label>
+  
+  <!-- EN: left ear -->
+  <Ele_LeftEar.label>oreille gauche</Ele_LeftEar.label>
+  
+  <!-- EN: neck -->
+  <Ele_Neck.label>cou</Ele_Neck.label>
+  
+  <!-- EN: right arm -->
+  <Ele_RightArm.label>bras droit</Ele_RightArm.label>
+  
+  <!-- EN: right ear -->
+  <Ele_RightEar.label>oreille droite</Ele_RightEar.label>
+  
+  <!-- EN: skull -->
+  <Ele_Skull.label>crâne</Ele_Skull.label>
+  
+  <!-- EN: spine -->
+  <Ele_Spine.label>colonne vertébrale</Ele_Spine.label>
+  
+</LanguageData>

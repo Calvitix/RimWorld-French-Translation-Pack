@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate cooked minion meat -->
+  <AteMysteryMeatAsIngredient.stages.ate_cooked_minion_meat.label>a mangé de la viande de serviteur cuite</AteMysteryMeatAsIngredient.stages.ate_cooked_minion_meat.label>
+  <!-- EN: I ate a meal cooked with minion meat. No amount of seasoning or spices could prevent the impression that I was eating something disgusting. -->
+  <AteMysteryMeatAsIngredient.stages.ate_cooked_minion_meat.description>J'ai mangé un repas cuisiné avec de la viande de serviteur. Aucune quantité d'assaisonnement ou d'épices ne pourra empêcher l'impression que je mange quelque chose de dégoûtant.</AteMysteryMeatAsIngredient.stages.ate_cooked_minion_meat.description>
+  
+  <!-- EN: ate minion meat -->
+  <AteMysteryMeatDirect.stages.ate_minion_meat.label>a mangé de la viande de serviteur</AteMysteryMeatDirect.stages.ate_minion_meat.label>
+  <!-- EN: I ate some disgusting mystery meat from a dead minion. It was mashed together with sludge and other decaying things I couldn't identify. Was that a fingernail? Gross. -->
+  <AteMysteryMeatDirect.stages.ate_minion_meat.description>J'ai mangé de la viande mystérieuse dégoûtante d'un serviteur mort. C'était mélangé avec de la boue et d'autres choses en décomposition que je n'ai pas pu identifier. C'était un ongle ? Dégoûtant.</AteMysteryMeatDirect.stages.ate_minion_meat.description>
+  
+  <!-- EN: polymorphed against will -->
+  <Polymorphed.stages.polymorphed_against_will.label>métamorphosé...</Polymorphed.stages.polymorphed_against_will.label>
+  <!-- EN: I was polymorphed and forced to exist in the body of an animal, how dehumanizing. -->
+  <Polymorphed.stages.polymorphed_against_will.description>J'ai été métamorphosé et forcé d'exister dans le corps d'un animal, quelle déshumanisation.</Polymorphed.stages.polymorphed_against_will.description>
+  
+  <!-- EN: polymorphed! -->
+  <Polymorphed_Transhumanist.stages.polymorphed.label>métamorphosé !</Polymorphed_Transhumanist.stages.polymorphed.label>
+  <!-- EN: I was polymorphed into a wild animal - and it was AMAZING!. -->
+  <Polymorphed_Transhumanist.stages.polymorphed.description>J'ai été métamorphosé en un animal sauvage - et c'était INCROYABLE !</Polymorphed_Transhumanist.stages.polymorphed.description>
+  
+  <!-- EN: Empathy -->
+  <PsychicEmpathy.stages.Empathy.label>empathie</PsychicEmpathy.stages.Empathy.label>
+  <!-- EN: I can't explain why I'm feeling these strong emotions. -->
+  <PsychicEmpathy.stages.Empathy.description>Je ne peux pas expliquer pourquoi je ressens ces émotions fortes.</PsychicEmpathy.stages.Empathy.description>
+  
+  <!-- EN: bonded animal died -->
+  <RangerPetDied.stages.bonded_animal_died.label>animal lié mort</RangerPetDied.stages.bonded_animal_died.label>
+  <!-- EN: My faithful animal companion died. It feels like I've lost a piece of myself. -->
+  <RangerPetDied.stages.bonded_animal_died.description>Mon fidèle compagnon animal est mort. C'est comme si j'avais perdu une partie de moi-même.</RangerPetDied.stages.bonded_animal_died.description>
+  
+  <!-- EN: sold bonded animal -->
+  <RangerSoldBondedPet.stages.sold_bonded_animal.label>animal asservi vendu</RangerSoldBondedPet.stages.sold_bonded_animal.label>
+  <!-- EN: I allowed my animal companion to be sold into slavery. I won't soon be forgiven by the animal kingdom. (animal bonding disabled while this mood effect is active) -->
+  <RangerSoldBondedPet.stages.sold_bonded_animal.description>J'ai permis à mon compagnon animal d'être vendu comme esclave. Le royaume animal n'est pas prêt de me pardonner. (le lien avec l'animal est désactivé lorsque cet effet d'humeur est actif)</RangerSoldBondedPet.stages.sold_bonded_animal.description>
+  
+  <!-- EN: brightened day -->
+  <TM_BrightDayTD.stages.brightened_day.label>journée ensoleillée</TM_BrightDayTD.stages.brightened_day.label>
+  <!-- EN: A Spirit of Light brightened my day. -->
+  <TM_BrightDayTD.stages.brightened_day.description>Un esprit de lumière a illuminé ma journée.</TM_BrightDayTD.stages.brightened_day.description>
+  
+  <!-- EN: clean slate -->
+  <TM_MemoryWipe.stages.clean_slate.label>table rase</TM_MemoryWipe.stages.clean_slate.label>
+  <!-- EN: I can't remember the last few days, maybe that is for the best. -->
+  <TM_MemoryWipe.stages.clean_slate.description>Je ne me souviens pas des derniers jours, c'est peut-être mieux comme ça.</TM_MemoryWipe.stages.clean_slate.description>
+  
+  <!-- EN: phantom limb -->
+  <TM_PhantomLimb.stages.phantom_limb.label>membre fantôme</TM_PhantomLimb.stages.phantom_limb.label>
+  <!-- EN: Are these body parts really mine? I feel like a guest in my own body. -->
+  <TM_PhantomLimb.stages.phantom_limb.description>Ces parties du corps sont-elles vraiment à moi ? Je me sens comme un invité dans mon propre corps.</TM_PhantomLimb.stages.phantom_limb.description>
+  
+  <!-- EN: pleasant dreams -->
+  <TM_PleasantDreamsTD.stages.pleasant_dreams.label>rêves agréables</TM_PleasantDreamsTD.stages.pleasant_dreams.label>
+  <!-- EN: My dreams are filled with memories and events that make me happy. -->
+  <TM_PleasantDreamsTD.stages.pleasant_dreams.description>Mes rêves sont remplis de souvenirs et d'événements qui me rendent heureux.</TM_PleasantDreamsTD.stages.pleasant_dreams.description>
+  
+  <!-- EN: taking orders -->
+  <TM_TakingOrdersTD.stages.taking_orders.label>accepter les ordres</TM_TakingOrdersTD.stages.taking_orders.label>
+  <!-- EN: Another pawn gave me orders. This could become annoying. -->
+  <TM_TakingOrdersTD.stages.taking_orders.description>Un autre colon me donnait des ordres. Cela pourrait devenir ennuyeux.</TM_TakingOrdersTD.stages.taking_orders.description>
+  
+  <!-- EN: Empathy -->
+  <WarlockEmpathy.stages.Empathy.label>empathie</WarlockEmpathy.stages.Empathy.label>
+  <!-- EN: I can feel the emotions of those around me. -->
+  <WarlockEmpathy.stages.Empathy.description>Je peux ressentir les émotions de ceux qui m'entourent.</WarlockEmpathy.stages.Empathy.description>
+  
+</LanguageData>

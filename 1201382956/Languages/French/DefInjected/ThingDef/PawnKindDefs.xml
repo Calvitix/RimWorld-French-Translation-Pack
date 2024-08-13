@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: spirit -->
+  <TM_SpiritTD.label>esprit</TM_SpiritTD.label>
+  <!-- EN: A wandering spirit, anchored to the material plane by some unknown force. -->
+  <TM_SpiritTD.description>Un esprit errant, ancré au plan matériel par une force inconnue.</TM_SpiritTD.description>
+  <!-- EN: spirit tap -->
+  <TM_SpiritTD.tools.spirit_tap.label>connexion spirituelle</TM_SpiritTD.tools.spirit_tap.label>
+  
+</LanguageData>

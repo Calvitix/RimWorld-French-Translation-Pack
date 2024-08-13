@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dragon strike -->
+  <FlyingObject_DragonStrike.label>frappe du dragon</FlyingObject_DragonStrike.label>
+  
+  <!-- EN: dragon strike -->
+  <Projectile_DragonStrike.label>frappe du dragon</Projectile_DragonStrike.label>
+  
+  <!-- EN: thunder strike -->
+  <Projectile_ThunderStrike.label>coup de tonnerre</Projectile_ThunderStrike.label>
+  
+</LanguageData>

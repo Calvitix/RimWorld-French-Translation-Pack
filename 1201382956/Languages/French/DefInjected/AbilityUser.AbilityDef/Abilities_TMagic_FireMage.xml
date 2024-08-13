@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Fireball -->
+  <TM_Fireball.label>Boule de feu</TM_Fireball.label>
+  <!-- EN: Throws a massive, slow moving fireball. Wreaks havoc and creates a fiery explosion at the target area. -->
+  <TM_Fireball.description>Lance une boule de feu massive et lente. Elle fait des ravages et crée une explosion de feu dans la zone ciblée.</TM_Fireball.description>
+  
+  <!-- EN: Firebolt -->
+  <TM_Firebolt.label>Éclair de feu</TM_Firebolt.label>
+  <!-- EN: Launches a bolt of super-heated magma that damages and can set fire to the target. -->
+  <TM_Firebolt.description>Lance un éclair de magma surchauffé qui endommage la cible et peut l'enflammer.</TM_Firebolt.description>
+  
+  <!-- EN: Fireclaw -->
+  <TM_Fireclaw.label>Serre de feu</TM_Fireclaw.label>
+  <!-- EN: Create streaming tendrils of fire that rake across your enemies, leaving destruction and fire in its wake. -->
+  <TM_Fireclaw.description>Créer des vrilles de feu qui ratissent vos ennemis, laissant la destruction et le feu dans leur sillage.</TM_Fireclaw.description>
+  
+  <!-- EN: Firestorm -->
+  <TM_Firestorm.label>Tempête de feu</TM_Firestorm.label>
+  <!-- EN: Calls forth the full fury of elemental fire in a meteor storm of death and destruction. -->
+  <TM_Firestorm.description>Invoque toute la fureur du feu élémentaire dans une tempête de mort et de destruction.</TM_Firestorm.description>
+  
+  <!-- EN: Inner Fire -->
+  <TM_RayofHope.label>Feu intérieur</TM_RayofHope.label>
+  <!-- EN: Creates an aura of warmth around the caster that periodically reinforces the spirit of an ally.\n		\nInner Fire: Arcane augmentation that kindles an inner fire, increasing a pawn's endurance and resistances.\n	\nApplication Frequency: 	80-90s	\nDuration:  200-223s\nRest and hunger needs: -10%\nNatural healing: +20%\nMental break resistance: +3%\nCold resistance: +6c\n\nRequires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed. -->
+  <TM_RayofHope.description>Crée une aura de chaleur autour du lanceur de sorts qui renforce périodiquement l'esprit d'un allié.\n\nFeu intérieur : Augmentation magique qui allume un feu intérieur, augmentant l'endurance et les résistances d'un colon.\n\nFréquence d'application : 80-90s \nDurée : 200-223s\nBesoins Repos et Nourriture : -10%\nGuérison naturelle : +20%\nRésistance crise de nerfs : +3%\nRésistance au froid : +6°C\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau le sort pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_RayofHope.description>
+  
+  <!-- EN: Inner Fire -->
+  <TM_RayofHope_I.label>Feu intérieur</TM_RayofHope_I.label>
+  <!-- EN: Creates an aura of warmth around the caster that periodically reinforces the spirit of an ally.\n		\nInner Fire: Arcane augmentation that kindles an inner fire, increasing a pawn's endurance and resistances.\n	\nApplication Frequency: 	80-90s	\nDuration:  200-223s\nRest and hunger needs: -14%\nNatural healing: +25%\nMental break resistance: +4%\nCold resistance: +8c\n\nRequires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed. -->
+  <TM_RayofHope_I.description>Crée une aura de chaleur autour du lanceur de sorts qui renforce périodiquement l'esprit d'un allié.\n\nFeu intérieur : Augmentation magique qui allume un feu intérieur, augmentant l'endurance et les résistances d'un colon.\n\nFréquence d'application : 80-90s\nDurée : 200-223s\nBesoins Repos et Nourriture : -14%\nGuérison naturelle : +25%\nRésistance crise de nerfs : +4%\nRésistance au froid : +8°C\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau le sort pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_RayofHope_I.description>
+  
+  <!-- EN: Inner Fire -->
+  <TM_RayofHope_II.label>Feu intérieur</TM_RayofHope_II.label>
+  <!-- EN: Creates an aura of warmth around the caster that periodically reinforces the spirit of an ally.\n		\nInner Fire: Arcane augmentation that kindles an inner fire, increasing a pawn's endurance and resistances.\n	\nApplication Frequency: 	80-90s	\nDuration:  500-600s\nRest and hunger needs: -17%\nNatural healing: +28%\nMental break resistance: +4%\nCold resistance: +9c\n\nRequires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed. -->
+  <TM_RayofHope_II.description>Crée une aura de chaleur autour du lanceur de sorts qui renforce périodiquement l'esprit d'un allié.\n\nFeu intérieur : Augmentation magique qui allume un feu intérieur, augmentant l'endurance et les résistances d'un colon.\n\nFréquence d'application : 80-90s\nDurée : 500-600s\nBesoins Repos et Nourriture : -17%\nGuérison naturelle : +28%\nRésistance crise de nerfs : +4%\nRésistance au froid : +9°C\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau le sort pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_RayofHope_II.description>
+  
+  <!-- EN: Inner Fire -->
+  <TM_RayofHope_III.label>Feu intérieur</TM_RayofHope_III.label>
+  <!-- EN: Creates an aura of warmth around the caster that periodically reinforces the spirit of an ally.\n		\nInner Fire: Arcane augmentation that kindles an inner fire, increasing a pawn's endurance and resistances.\n	\nApplication Frequency: 	80-90s	\nDuration:  500-600\nRest and hunger needs: -20%\nNatural healing: +30%\nMental break resistance: +5%\nCold resistance: +10c\n\nRequires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed. -->
+  <TM_RayofHope_III.description>Crée une aura de chaleur autour du lanceur de sorts qui renforce périodiquement l'esprit d'un allié.\n\nFeu intérieur : Augmentation magique qui allume un feu intérieur, augmentant l'endurance et les résistances d'un colon.\n\nFréquence d'application : 80-90s\nDurée : 500-600\nBesoins Repos et Nourriture : -20%\nGuérison naturelle : +30%\nRésistance crise de nerfs : +5%\nRésistance au froid : +10°C\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau le sort pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_RayofHope_III.description>
+  
+</LanguageData>

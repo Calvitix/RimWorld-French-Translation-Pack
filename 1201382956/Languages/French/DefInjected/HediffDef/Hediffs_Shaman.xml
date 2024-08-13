@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flying -->
+  <TM_BirdflightHD.label>vol</TM_BirdflightHD.label>
+  <!-- EN: Increased movement while flying. -->
+  <TM_BirdflightHD.description>Augmentation des mouvements en volant.</TM_BirdflightHD.description>
+  
+  <!-- EN: Crows Insight -->
+  <TM_CrowInsightHD.label>vision du corbeau</TM_CrowInsightHD.label>
+  <!-- EN: Insight gained from the spirit crow - enhances research speed and psychic sensitivity. -->
+  <TM_CrowInsightHD.description>La perspicacité acquise auprès du corbeau spirituel - améliore la vitesse de recherche et la sensibilité psychique.</TM_CrowInsightHD.description>
+  <!-- EN: I -->
+  <TM_CrowInsightHD.stages.I.label>I</TM_CrowInsightHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_CrowInsightHD.stages.II.label>II</TM_CrowInsightHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_CrowInsightHD.stages.III.label>III</TM_CrowInsightHD.stages.III.label>
+  <!-- EN: IV -->
+  <TM_CrowInsightHD.stages.IV.label>IV</TM_CrowInsightHD.stages.IV.label>
+  
+  <!-- EN: Enrage -->
+  <TM_EnrageHD.label>enrager</TM_EnrageHD.label>
+  <!-- EN: Consume all positive emotions as fuel for physical power, the spell will fade once all happiness is burned off. While under this curse, a pawn is cannot be staggered, has increased pain resistance, attack speed, and melee damage. -->
+  <TM_EnrageHD.description>Consomme toutes les émotions positives comme carburant pour la puissance physique, le sort s'estompe une fois que tout le bonheur est consumé. Lorsqu'il est sous l'emprise de cette malédiction, le colon ne peut pas être étourdi, sa résistance à la douleur, sa vitesse d'attaque et ses dégâts de mêlée sont augmentés.</TM_EnrageHD.description>
+  <!-- EN: I -->
+  <TM_EnrageHD.stages.I.label>I</TM_EnrageHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_EnrageHD.stages.II.label>II</TM_EnrageHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_EnrageHD.stages.III.label>III</TM_EnrageHD.stages.III.label>
+  <!-- EN: IV -->
+  <TM_EnrageHD.stages.IV.label>IV</TM_EnrageHD.stages.IV.label>
+  <!-- EN: V -->
+  <TM_EnrageHD.stages.V.label>V</TM_EnrageHD.stages.V.label>
+  
+  <!-- EN: Unlucky -->
+  <TM_Hex_CriticalFailHD.label>malchance</TM_Hex_CriticalFailHD.label>
+  <!-- EN: Cursed with dangerously bad luck. -->
+  <TM_Hex_CriticalFailHD.description>Maudits par une malchance dangereuse.</TM_Hex_CriticalFailHD.description>
+  
+  <!-- EN: Hexed -->
+  <TM_HexHD.label>maléficié</TM_HexHD.label>
+  <!-- EN: Under the effects of a hex. -->
+  <TM_HexHD.description>Sous les effets d'une malédiction.</TM_HexHD.description>
+  
+  <!-- EN: Pain -->
+  <TM_PainHD.label>douleur</TM_PainHD.label>
+  <!-- EN: An injury cursed with extreme pain. -->
+  <TM_PainHD.description>Une blessure maudite avec une douleur extrême.</TM_PainHD.description>
+  <!-- EN: withered -->
+  <TM_PainHD.comps.HediffComp_GetsPermanent.permanentLabel>flétri</TM_PainHD.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: withered away -->
+  <TM_PainHD.injuryProps.destroyedLabel>flétri(e)</TM_PainHD.injuryProps.destroyedLabel>
+  <!-- EN: withered away -->
+  <TM_PainHD.injuryProps.destroyedOutLabel>flétri(e)</TM_PainHD.injuryProps.destroyedOutLabel>
+  <!-- EN: {0} in the {1} -->
+  <TM_PainHD.labelNounPretty>une {0} au/à la {1}</TM_PainHD.labelNounPretty>
+  
+  <!-- EN: Spirit Bond -->
+  <TM_SpiritBondHD.label>lien spirituel</TM_SpiritBondHD.label>
+  <!-- EN: Represents the bond this animal spirit shares with a shaman. Increases physical attributes and enhances healing. -->
+  <TM_SpiritBondHD.description>Représente le lien que cet esprit animal partage avec un chaman. Augmente les attributs physiques et améliore la guérison.</TM_SpiritBondHD.description>
+  <!-- EN: I -->
+  <TM_SpiritBondHD.stages.I.label>I</TM_SpiritBondHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_SpiritBondHD.stages.II.label>II</TM_SpiritBondHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_SpiritBondHD.stages.III.label>III</TM_SpiritBondHD.stages.III.label>
+  <!-- EN: IV -->
+  <TM_SpiritBondHD.stages.IV.label>IV</TM_SpiritBondHD.stages.IV.label>
+  
+</LanguageData>

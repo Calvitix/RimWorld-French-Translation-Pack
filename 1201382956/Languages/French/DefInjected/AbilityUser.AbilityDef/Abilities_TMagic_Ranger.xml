@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Animal Bond -->
+  <TM_AnimalFriend.label>Lien animal</TM_AnimalFriend.label>
+  <!-- EN: At home in the wild, the ranger is able to form a bond with creatures of the wild. \n		\nRangers are only able to form a single bond and maintaining the bond reduces the ranger's max stamina by 30; making a new bond breaks an existing bond and will cause the animal with a broken bond to leave forever. Failed attempts may cause the animal to turn manhunter. When using animal bond on the bonded animal may allow the animal to remain in the colony - the chance the animal remains is based on its wildness and how long it had a bond with the ranger.\n\nThe increase in physical capability applies to the animal kin only, in return, the bonded animal will assist the ranger in whatever capacity the animal is capable.\nA bond can be removed by using this ability on a bonded creature. -->
+  <TM_AnimalFriend.description>Chez lui dans la nature, le rôdeur est capable de former un lien avec les créatures de la nature.\n\nLes rôdeurs ne peuvent former qu'un seul lien et le maintien de ce lien réduit l'endurance maximum du rôdeur de 30. Créer un nouveau lien rompt le lien existant et provoque le départ définitif de l'animal dont le lien est rompu. Les tentatives ratées peuvent amener l'animal à se transformer en chasseur d'hommes. L'utilisation du lien animal sur l'animal lié peut permettre à l'animal de rester dans la colonie - la probabilité que l'animal reste est basée sur sa sauvagerie et sur la durée du lien avec le rôdeur.\n\nL'augmentation de la capacité physique ne s'applique qu'au parent de l'animal, en retour, l'animal lié aidera le rôdeur dans toutes les capacités dont il est capable.\nUn lien peut être retiré en utilisant cette capacité sur une créature liée.</TM_AnimalFriend.description>
+  
+  <!-- EN: Arrow Storm -->
+  <TM_ArrowStorm.label>Tempête de flèches</TM_ArrowStorm.label>
+  <!-- EN: Fire a volley of 5 arrows at a target.\nRange: 32 -->
+  <TM_ArrowStorm.description>Tirer une volée de 5 flèches sur une cible.\nPortée : 32</TM_ArrowStorm.description>
+  
+  <!-- EN: Arrow Storm (I) -->
+  <TM_ArrowStorm_I.label>Tempête de flèches</TM_ArrowStorm_I.label>
+  <!-- EN: Fire a volley of 6 arrows at a target.\nRange: 34 -->
+  <TM_ArrowStorm_I.description>Tirer une volée de 6 flèches sur une cible.\nPortée : 34</TM_ArrowStorm_I.description>
+  
+  <!-- EN: Arrow Storm (II) -->
+  <TM_ArrowStorm_II.label>Tempête de flèches</TM_ArrowStorm_II.label>
+  <!-- EN: Fire a rapid volley of 7 arrows at a target.\nRange: 36 -->
+  <TM_ArrowStorm_II.description>Tirer une volée de 7 flèches sur une cible.\nPortée : 36</TM_ArrowStorm_II.description>
+  
+  <!-- EN: Arrow Storm (III) -->
+  <TM_ArrowStorm_III.label>Tempête de flèches</TM_ArrowStorm_III.label>
+  <!-- EN: Fire a rapid volley of 8 arrows at a target.\nRange: 38 -->
+  <TM_ArrowStorm_III.description>Tirer une volée de 8 flèches sur une cible.\nPortée : 38</TM_ArrowStorm_III.description>
+  
+  <!-- EN: Bow Training -->
+  <TM_BowTraining.label>Entraînement à l'arc</TM_BowTraining.label>
+  <!-- EN: Training that increases damage and accuracy when using a bow.\n	\nLevel 0: Hearing and Sight +20%, +20% bow damage\nLevel 1: Hearing and Sight +40%, +40% bow damage\nLevel 2: Hearing and Sight +60%, Breathing +15%, +60% bow damage\nLevel 3: Hearing and Sight +80%, Breathing +25%, Blood filtration +10%, +80% bow damage -->
+  <TM_BowTraining.description>Entraînement qui augmente les dégâts et la précision lors de l'utilisation d'un arc.\n\nNiveau 0 : Arc +20% de dégâts, Ouïe et Vue +20%\nNiveau 1 : Arc +40% de dégâts, Ouïe et Vue +40%\nNiveau 2 : Arc +60% de dégâts, Ouïe et Vue +60%, Respiration +15%\nNiveau 3 : Arc +80% de dégâts, Ouïe et Vue +80%, Respiration +25%, Filtrage du sang +10%</TM_BowTraining.description>
+  
+  <!-- EN: Poison Trap -->
+  <TM_PoisonTrap.label>Piège de poison</TM_PoisonTrap.label>
+  <!-- EN: The ranger uses a dose of druidic poison to arm a wooden trap. Traps last indefinitely, but a ranger is only able to deploy a limited number at a time.\n\nEnemies caught in the poison will take 1-8 poison damage every 0.66 seconds. Poison damage also applies a slowing effect. Traps will never be triggered by animals. -->
+  <TM_PoisonTrap.description>Le rôdeur utilise une dose de poison druidique pour armer un piège en bois. Les pièges durent indéfiniment, mais un rôdeur ne peut en déployer qu'un nombre limité à la fois.\n\nLes ennemis pris dans le poison subissent 1 à 8 dégâts de poison toutes les 0,66 secondes. Les dégâts du poison appliquent également un effet de ralentissement. Les pièges ne seront jamais déclenchés par les animaux.</TM_PoisonTrap.description>
+  
+  <!-- EN: Ranger Training -->
+  <TM_RangerTraining.label>Entraînement de Rôdeur</TM_RangerTraining.label>
+  <!-- EN: Training that the ranger's professional skills. Each level will increase the ranger trait to reflect the skill of the ranger.\n	\nRanks:\nWoodsman: Speed +0.15c/s, Aiming Delay -15%, Immunity Gain +20%, Comf. Temperature +-10C., Toxic Sensitivity -10%\nTame and train animal +5%, butchering speed +5%, smelting and construction speed -10%\n\nHunter: Speed +0.2c/s, Aiming Delay -20%, Immunity Gain +25%, Comf. Temperature +-15C., Toxic Sensitivity -15%\nTame and train animal +8%, butchering speed +10%, smelting and construction speed -15%\n\nScout: Speed +0.25c/s, Aiming Delay -30%, Immunity Gain +30%, Comf. Temperature +-18C., Toxic Sensitivity -20%\nTame and train animal +10%, butchering speed +15%, smelting and construction speed -18%\n\nRanger: Speed +0.3c/s, Aiming Delay -40%, Immunity Gain +35%, Comf. Temperature +-25C., Toxic Sensitivity -25%\nTame and train animal +12%, butchering speed +20%, smelting and construction speed -20% -->
+  <TM_RangerTraining.description>Entraînement des compétences professionnelles du rôdeur. Chaque niveau augmentera le trait du rôdeur pour refléter la compétence du rôdeur.\n\nRangs :\nHomme des bois : Vitesse +0,15c/s, Temps de visée -15%, Gain d'immunité +20%, Conf. température +-10C, Sensibilité toxique -10%.\nApprivoiser et Dresser un animal +5%, Vitesse de dépeçage +5%, Vitesse de fonte et construction -10%.\n\nChasseur : Vitesse +0.2c/s, Temps de visée -20%, Gain d'immunité +25%, Conf. température +-15C, Sensibilité toxique -15%.\nApprivoiser et Dresser un animal +8%, Vitesse de dépeçage +10%, Vitesse de fonte et construction -15%.\n\nÉclaireur : Vitesse +0,25c/s, Temps de visée -30%, Gain d'immunité +30%, Conf. température +-18C, Sensibilité toxique -20%.\nApprivoiser et Dresser un animal +10%, Vitesse de dépeçage +15%, Vitesse de fonte et construction -18%.\n\nRôdeur : Vitesse +0,3c/s, Temps de visée -40%, Gain d'immunité +35%, Conf. température +-25C, Sensibilité toxique -25%.\nApprivoiser et Dresser un animal +12%, Vitesse de dépeçage +20%, Vitesse de fonte et construction -20%.</TM_RangerTraining.description>
+  
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: entertained -->
+  <TM_EntertainAuraID.label>diverti</TM_EntertainAuraID.label>
+  <!-- EN: r_logentry->Had an entertaining chat with [RECIPIENT_nameDef]. -->
+  <TM_EntertainAuraID.logRulesInitiator.rulesStrings.0>r_logentry->J'ai eu une conversation divertissante avec [RECIPIENT_nameDef].</TM_EntertainAuraID.logRulesInitiator.rulesStrings.0>
+  <!-- EN: r_logentry->Had an entertaining chat with [INITIATOR_nameDef]. -->
+  <TM_EntertainAuraID.logRulesRecipient.rulesStrings.0>r_logentry->J'ai eu une conversation divertissante avec [INITIATOR_nameDef].</TM_EntertainAuraID.logRulesRecipient.rulesStrings.0>
+  
+  <!-- EN: entertained -->
+  <TM_EntertainID.label>diverti</TM_EntertainID.label>
+  <!-- EN: r_logentry->Entertained [RECIPIENT_nameDef]. -->
+  <TM_EntertainID.logRulesInitiator.rulesStrings.0>r_logentry->Diverti [RECIPIENT_nameDef].</TM_EntertainID.logRulesInitiator.rulesStrings.0>
+  <!-- EN: r_logentry->Was entertained by [INITIATOR_nameDef]. -->
+  <TM_EntertainID.logRulesRecipient.rulesStrings.0>r_logentry->J'ai été diverti par [INITIATOR_nameDef].</TM_EntertainID.logRulesRecipient.rulesStrings.0>
+  
+  <!-- EN: discussed magic theories and practices -->
+  <TM_MagicLore.label>a discuté des théories et des techniques magiques</TM_MagicLore.label>
+  <!-- EN: r_logentry->Mentored [RECIPIENT_nameDef] in magic. -->
+  <TM_MagicLore.logRulesInitiator.rulesStrings.0>r_logentry->J'ai enseigné la magie à [RECIPIENT_nameDef].</TM_MagicLore.logRulesInitiator.rulesStrings.0>
+  <!-- EN: r_logentry->Learned magic theories from [INITIATOR_nameDef]. -->
+  <TM_MagicLore.logRulesRecipient.rulesStrings.0>r_logentry->J'ai appris les théories magiques de [INITIATOR_nameDef].</TM_MagicLore.logRulesRecipient.rulesStrings.0>
+  
+  <!-- EN: discussed combat techniques -->
+  <TM_MightLore.label>a discuté des techniques de combat</TM_MightLore.label>
+  <!-- EN: r_logentry->Taught combat techniques to [RECIPIENT_nameDef]. -->
+  <TM_MightLore.logRulesInitiator.rulesStrings.0>r_logentry->Enseigne les techniques de combat à [RECIPIENT_nameDef].</TM_MightLore.logRulesInitiator.rulesStrings.0>
+  <!-- EN: r_logentry->Trained in combat by [INITIATOR_nameDef]. -->
+  <TM_MightLore.logRulesRecipient.rulesStrings.0>r_logentry->Entraîné au combat par [INITIATOR_nameDef].</TM_MightLore.logRulesRecipient.rulesStrings.0>
+  
+</LanguageData>

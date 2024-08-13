@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Body Training -->
+  <TM_BladeArt.label>Entraînement physique</TM_BladeArt.label>
+  <!-- EN: Training that enhances physical capabilities.\n\nLevel 0: Moving +10%, Manipulation +10%\nLevel 1: Moving +15%, Manipulation +15%\nLevel 2: Moving +20%, Manipulation +20%, Breathing +10%\nLevel 3: Moving +25%, Manipulation +25%, Breathing +15%, Blood pumping +10%, Blood filtration +10% -->
+  <TM_BladeArt.description>Entraînement qui améliore les capacités physiques.\n\nNiveau 0 : Mouvement +10%, Manipulation +10%\nNiveau 1 : Mouvement +15%, Manipulation +15%\nNiveau 2 : Mouvement +20%, Manipulation +20%, Respiration +10%\nNiveau 3 : Mouvement +25%, Manipulation +25%, Respiration +15%, Pompage du sang +10%, Filtrage du sang +10%</TM_BladeArt.description>
+  
+  <!-- EN: Blade training -->
+  <TM_BladeFocus.label>Entraînement de lame</TM_BladeFocus.label>
+  <!-- EN: Training that improves technique and skill with melee weapons and raises the status of the bladedancer. Each level will change the trait of the bladedancer to reflect their skill level.\n\nRanks:\nBladesman: Speed +0.15c/s, MBT -3%, Hit chance +3%, Dodge +5%, Shooting Acc. -20%, Global Workspeed -10%\nBlademaster: Speed +0.2c/s, MBT -5%, Hit chance +6%, Dodge +10%, Shooting Acc. -25%, Global Workspeed -8%\nBladedancer: Speed +0.3c/s, MBT -8%, Hit chance +10%, Dodge +15%, Shooting Acc. -28%, Global Workspeed -6%, Pain threshold +5%\nLegendary Bladedancer: Speed +0.4c/s, MBT -10%, Hit chance +15%, Dodge +20%, Shooting Acc. -30%, Global Workspeed -5%, Pain threshold +10% -->
+  <TM_BladeFocus.description>Un entraînement qui améliore la technique et l'habileté avec les armes de mêlée et élève le statut du danseur de lames. Chaque niveau modifie le trait du danseur de lames pour refléter son niveau de compétence.\n\nRangs :\nBladesman : Vitesse +0.15c/s, MBT -3%, Chance de toucher +3%, Esquive +5%, Préci. de tir -20%, Vitesse générale de travail -10%\nMaître des lames : Vitesse +0.2c/s, MBT -5%, Chance de toucher +6%, Esquive +10%, Préci. de tir -25%, Vitesse générale de travail -8%\nDanseur de lames : Vitesse +0.3c/s, MBT -8%, Chance de toucher +10%, Esquive +15%, Préci. de tir -28%, Vitesse générale de travail -6%, Seuil de douleur +5%\nDanseur de lames légendaire : Vitesse +0.4c/s, MBT -10%, Chance de toucher +15%, Esquive +20%, Préci. de tir -30%, Vitesse générale de travail -5%, Seuil de douleur +10%</TM_BladeFocus.description>
+  
+  <!-- EN: Blade Spin -->
+  <TM_BladeSpin.label>Lame tournoyante</TM_BladeSpin.label>
+  <!-- EN: The blademaster seems to blur for a split second, striking all nearby targets in a flurry of steel. -->
+  <TM_BladeSpin.description>Le maître des lames semble disparaître pendant une fraction de seconde, frappant toutes les cibles proches dans une rafale d'acier.</TM_BladeSpin.description>
+  
+  <!-- EN: Phase Strike -->
+  <TM_PhaseStrike.label>Frappe de phase</TM_PhaseStrike.label>
+  <!-- EN: Melds the bladedancer's razor focus with the edge of a blade to slip between reality, appearing at a chosen location to execute a vicious strike on unsuspecting enemies.\n\nWarmup: .3s\nCooldown: 25s\nRange: 30 -->
+  <TM_PhaseStrike.description>Fusionne la concentration du danseur de lames avec le tranchant d'une lame pour se glisser entre les réalités, apparaissant à un endroit choisi pour exécuter une frappe vicieuse sur des ennemis peu méfiants.\n\nEchauffement : 0.3s\nTemps de recharge : 25s\nPortée : 30</TM_PhaseStrike.description>
+  
+  <!-- EN: Phase Strike (I) -->
+  <TM_PhaseStrike_I.label>Frappe de phase</TM_PhaseStrike_I.label>
+  <!-- EN: Melds the bladedancer's razor focus with the edge of a blade to slip between reality, appearing at a chosen location to execute a vicious strike on unsuspecting enemies.\n	\nWarmup: .2s\nCooldown: 23s\nRange: 35 -->
+  <TM_PhaseStrike_I.description>Fusionne la concentration du danseur de lames avec le tranchant d'une lame pour se glisser entre les réalités, apparaissant à un endroit choisi pour exécuter une frappe vicieuse sur des ennemis peu méfiants.\n\nEchauffement : 0.2s\nTemps de recharge : 23s\nPortée : 35</TM_PhaseStrike_I.description>
+  
+  <!-- EN: Phase Strike (II) -->
+  <TM_PhaseStrike_II.label>Frappe de phase</TM_PhaseStrike_II.label>
+  <!-- EN: Melds the bladedancer's razor focus with the edge of a blade to slip between reality, appearing at a chosen location to execute a vicious strike on unsuspecting enemies.\n		\nWarmup: .1s\nCooldown: 21s\nRange: 40 -->
+  <TM_PhaseStrike_II.description>Fusionne la concentration du danseur de lames avec le tranchant d'une lame pour se glisser entre les réalités, apparaissant à un endroit choisi pour exécuter une frappe vicieuse sur des ennemis peu méfiants.\n\nEchauffement : 0.1s\nTemps de recharge : 21s\nPortée : 40</TM_PhaseStrike_II.description>
+  
+  <!-- EN: Phase Strike (III) -->
+  <TM_PhaseStrike_III.label>Frappe de phase</TM_PhaseStrike_III.label>
+  <!-- EN: Melds the bladedancer's razor focus with the edge of a blade to slip between reality, appearing at a chosen location to execute a vicious strike on unsuspecting enemies.\n\nWarmup: 0s\nCooldown: 20s\nRange: 45 -->
+  <TM_PhaseStrike_III.description>Fusionne la concentration du danseur de lames avec le tranchant d'une lame pour se glisser entre les réalités, apparaissant à un endroit choisi pour exécuter une frappe vicieuse sur des ennemis peu méfiants.\n\nEchauffement : Instantanée\nTemps de recharge : 20s\nPortée : 45</TM_PhaseStrike_III.description>
+  
+  <!-- EN: Seismic Slash -->
+  <TM_SeismicSlash.label>Entaille sismique</TM_SeismicSlash.label>
+  <!-- EN: Harnessing the emotionless soul of the blade, the bladedancer unleashes a strike that rends the fabric of space along a line. -->
+  <TM_SeismicSlash.description>Exploitant l'âme sans émotion de la lame, le danseur de lames déclenche une frappe qui déchire le tissu le long d'une ligne droite.</TM_SeismicSlash.description>
+  
+</LanguageData>

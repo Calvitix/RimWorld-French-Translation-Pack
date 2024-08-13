@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: armor -->
+  <TM_Golem_MaharalArmor.label>Armure</TM_Golem_MaharalArmor.label>
+  <!-- EN: Increases overall protection:\nBlunt:	+[9,16,21]%\nSharp:	+[13,22,29]%\nHeat:	+[8,14,18]% -->
+  <TM_Golem_MaharalArmor.description>Augmente la protection globale :\nContondant : +[9,16,21]%\nTranchant : +[13,22,29]%\nChaleur : +[8,14,18]%</TM_Golem_MaharalArmor.description>
+  
+  <!-- EN: energy efficiency -->
+  <TM_Golem_MaharalEnergyEfficiency.label>Efficacité de l'énergie</TM_Golem_MaharalEnergyEfficiency.label>
+  <!-- EN: Increases energy efficiency by 10% per level. Starting energy efficiency is 50%. -->
+  <TM_Golem_MaharalEnergyEfficiency.description>Augmente l'efficacité de l'énergie de 10% par niveau. L'efficacité de l'énergie de départ est de 50%.</TM_Golem_MaharalEnergyEfficiency.description>
+  
+  <!-- EN: energy regeneration -->
+  <TM_Golem_MaharalEnergyRate.label>Régénération d'énergie</TM_Golem_MaharalEnergyRate.label>
+  <!-- EN: Increases energy charge rate by 20% per level. Starting recharge rate is 30 energy/hour. -->
+  <TM_Golem_MaharalEnergyRate.description>Augmente le taux de recharge d'énergie de 20% par niveau. Le taux de recharge de départ est de 30 énergie/heure.</TM_Golem_MaharalEnergyRate.description>
+  
+  <!-- EN: Heat -->
+  <TM_Golem_MaharalHeat.label>Chaleur</TM_Golem_MaharalHeat.label>
+  <!-- EN: Enables the golem the ability to produce heat while dormant. -->
+  <TM_Golem_MaharalHeat.description>Permet au golem de produire de la chaleur lorsqu'il est en sommeil.</TM_Golem_MaharalHeat.description>
+  
+  <!-- EN: frame tier -->
+  <TM_Golem_MaharalLifeStage.label>Niveau du cadre</TM_Golem_MaharalLifeStage.label>
+  <!-- EN: Increases stats:\nMovement:	+[20%/30%/40%]\nHealth:		+[20%/40%/50%] -->
+  <TM_Golem_MaharalLifeStage.description>Augmente les statistiques :\nDéplacement : +[20%/30%/40%]\nSanté : +[20%/40%/50%]</TM_Golem_MaharalLifeStage.description>
+  
+  <!-- EN: energy storage -->
+  <TM_Golem_MaharalMaxEnergy.label>Stockage d'énergie</TM_Golem_MaharalMaxEnergy.label>
+  <!-- EN: Increases maximum energy by 100 per level. Starting max energy is 800. -->
+  <TM_Golem_MaharalMaxEnergy.description>Augmente l'énergie maximum de 100 par niveau. L'énergie maximum de départ est de 800.</TM_Golem_MaharalMaxEnergy.description>
+  
+  <!-- EN: Power -->
+  <TM_Golem_MaharalPower.label>Puissance</TM_Golem_MaharalPower.label>
+  <!-- EN: Enables the golem the ability to produce excess power while dormant. -->
+  <TM_Golem_MaharalPower.description>Permet au golem de produire un surplus d'énergie lorsqu'il est en sommeil.</TM_Golem_MaharalPower.description>
+  
+  <!-- EN: restore part -->
+  <TM_Golem_MaharalRepair.label>Restauration d'une partie</TM_Golem_MaharalRepair.label>
+  
+</LanguageData>

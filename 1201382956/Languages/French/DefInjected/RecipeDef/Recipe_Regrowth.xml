@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: regrow body part (Druid only, 90% mana required) -->
+  <Regrowth.label>rétablir une partie du corps (Druide uniquement, 90 de mana requis)</Regrowth.label>
+  <!-- EN: Use druidic powers to regrow body parts. -->
+  <Regrowth.description>Utiliser les pouvoirs druidiques pour faire repousser des parties du corps.</Regrowth.description>
+  <!-- EN: Regrowing body part. -->
+  <Regrowth.jobString>rétablit la partie du corps.</Regrowth.jobString>
+  
+  <!-- EN: regrow body part (Druid only, 90% mana required) -->
+  <UniversalRegrowth.label>rétablir une partie du corps (Druide uniquement, 90 de mana requis)</UniversalRegrowth.label>
+  <!-- EN: Use druidic powers to regrow body parts. -->
+  <UniversalRegrowth.description>Utiliser les pouvoirs druidiques pour faire repousser des parties du corps.</UniversalRegrowth.description>
+  <!-- EN: Regrowing body part. -->
+  <UniversalRegrowth.jobString>rétablit la partie du corps.</UniversalRegrowth.jobString>
+  
+</LanguageData>

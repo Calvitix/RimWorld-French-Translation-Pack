@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: administer orb of the eternal -->
+  <AdministerOrbOfTheEternal.label>administrer l'orbe de l'éternité</AdministerOrbOfTheEternal.label>
+  <!-- EN: Applies the power of the Orb of the Eternal. This is a single use infusion of magical energy that will heal wounds, restore limbs, and cure diseases. The healing energy will target and heal the single worst health condition affecting someone at any given time. -->
+  <AdministerOrbOfTheEternal.description>Applique le pouvoir de l'orbe de l'éternité. Il s'agit d'une infusion d'énergie magique à usage unique qui permet de soigner les blessures, de restaurer les membres et de guérir les maladies. L'énergie de guérison ciblera et soignera le pire problème de santé affectant une personne à un moment donné.</AdministerOrbOfTheEternal.description>
+  <!-- EN: Using Orb of the Eternal. -->
+  <AdministerOrbOfTheEternal.jobString>utilise l'orbe de l'éternité.</AdministerOrbOfTheEternal.jobString>
+  
+</LanguageData>

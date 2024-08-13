@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: AMP -->
+  <Buff_AMP.label>AMP</Buff_AMP.label>
+  
+  <!-- EN: flying object -->
+  <FlyingObject_EyeOfTheStorm.label>objet volant</FlyingObject_EyeOfTheStorm.label>
+  
+  <!-- EN: Lightning Bolt -->
+  <Laser_LightningBolt.label>éclair</Laser_LightningBolt.label>
+  
+  <!-- EN: Eye of the Storm -->
+  <Projectile_EyeOfTheStorm.label>œil du cyclone</Projectile_EyeOfTheStorm.label>
+  
+  <!-- EN: Lightning Cloud -->
+  <Projectile_LightningCloud.label>nuage d'éclairs</Projectile_LightningCloud.label>
+  
+  <!-- EN: Lightning Storm -->
+  <Projectile_LightningStorm.label>tempête de foudre</Projectile_LightningStorm.label>
+  
+</LanguageData>

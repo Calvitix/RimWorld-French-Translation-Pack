@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Blood Boost -->
+  <TM_Artifact_BloodBoostHD.label>bonus sanguin</TM_Artifact_BloodBoostHD.label>
+  <!-- EN: Increases the maximum blood magic available to a blood mage. -->
+  <TM_Artifact_BloodBoostHD.description>Augmente le maximum de magie de sang disponible pour un mage de sang.</TM_Artifact_BloodBoostHD.description>
+  
+  <!-- EN: Hate Boost -->
+  <TM_Artifact_HateBoostHD.label>bonus haine</TM_Artifact_HateBoostHD.label>
+  <!-- EN: Increases the maximum hate available to a death knight. -->
+  <TM_Artifact_HateBoostHD.description>Augmente le maximum de haine disponible pour un chevalier de la mort.</TM_Artifact_HateBoostHD.description>
+  
+  <!-- EN: Psionic Boost -->
+  <TM_Artifact_PsionicBoostHD.label>bonus psionique</TM_Artifact_PsionicBoostHD.label>
+  <!-- EN: Increases the maximum psionic energy available to a psionic. -->
+  <TM_Artifact_PsionicBoostHD.description>Augmente le maximum d'énergie psionique disponible pour un psionique.</TM_Artifact_PsionicBoostHD.description>
+  
+  <!-- EN: Arcane Recovery -->
+  <TM_ArtifactArcaneRecoveryHD.label>récupération des arcanes</TM_ArtifactArcaneRecoveryHD.label>
+  <!-- EN: Increases the recovery rate from Arcane Weakness; does not reduce the amount of Arcane Weakness acquired. -->
+  <TM_ArtifactArcaneRecoveryHD.description>Augmente le taux de récupération de la faiblesse des arcanes ; ne réduit pas la quantité de faiblesse des arcanes acquise.</TM_ArtifactArcaneRecoveryHD.description>
+  
+  <!-- EN: Blocking -->
+  <TM_ArtifactBlockHD.label>blocage</TM_ArtifactBlockHD.label>
+  <!-- EN: Blocks physical attacks; prevents damage from successfully blocked attacks. -->
+  <TM_ArtifactBlockHD.description>Bloque les attaques physiques ; les attaques bloquées n’infligent pas de dégâts.</TM_ArtifactBlockHD.description>
+  
+  <!-- EN: Dark Sight -->
+  <TM_ArtifactCatEyesHD.label>vision sombre</TM_ArtifactCatEyesHD.label>
+  <!-- EN: Improves sight and grants minor night vision. -->
+  <TM_ArtifactCatEyesHD.description>Améliore la vue et accorde une vision nocturne partielle.</TM_ArtifactCatEyesHD.description>
+  
+  <!-- EN: Deflective Blocking -->
+  <TM_ArtifactDeflectHD.label>blocage par déflexion</TM_ArtifactDeflectHD.label>
+  <!-- EN: Blocks attacks and can deflect projectiles to nearby enemies; prevents damage from a successfully deflected attack. -->
+  <TM_ArtifactDeflectHD.description>Bloque les attaques et peut renvoyer les projectiles vers les ennemis proches ; les attaques déviées n’infligent pas de dégâts.</TM_ArtifactDeflectHD.description>
+  
+  <!-- EN: Improved Health -->
+  <TM_ArtifactHealthHD.label>santé améliorée</TM_ArtifactHealthHD.label>
+  <!-- EN: Increases natural healing. -->
+  <TM_ArtifactHealthHD.description>Augmente la guérison naturelle.</TM_ArtifactHealthHD.description>
+  
+  <!-- EN: Mending -->
+  <TM_ArtifactMendingHD.label>réparation</TM_ArtifactMendingHD.label>
+  <!-- EN: Mends and repairs equipped apparel and weapons. -->
+  <TM_ArtifactMendingHD.description>Répare les vêtements et les armes équipés.</TM_ArtifactMendingHD.description>
+  
+  <!-- EN: Mind Ward -->
+  <TM_ArtifactMindHD.label>protection de l'esprit</TM_ArtifactMindHD.label>
+  <!-- EN: A unique talisman that helps a pawn compartmentalize their emotions to quickly recover from a mental breakdown. -->
+  <TM_ArtifactMindHD.description>Un talisman unique qui aide un colon à compartimenter ses émotions pour se remettre rapidement d'un état mental.</TM_ArtifactMindHD.description>
+  
+  <!-- EN: Pathfinding -->
+  <TM_ArtifactPathfindingHD.label>science des chemins</TM_ArtifactPathfindingHD.label>
+  <!-- EN: A talisman that uncannily ascertains an easy path across any obstacle; bypasses the movement penalty for obstacles and terrain. -->
+  <TM_ArtifactPathfindingHD.description>Un talisman qui détermine de façon surnaturelle un chemin pour traverser facilement n'importe quel obstacle ; il annule la pénalité de mouvement pour les obstacles et le terrain.</TM_ArtifactPathfindingHD.description>
+  
+  <!-- EN: Renewal -->
+  <TM_ArtifactRenewalHD.label>renouveau</TM_ArtifactRenewalHD.label>
+  <!-- EN: Improves the quality of sleep. -->
+  <TM_ArtifactRenewalHD.description>Améliore la qualité du sommeil.</TM_ArtifactRenewalHD.description>
+  
+  <!-- EN: Strength of Stone -->
+  <TM_ArtifactStrengthHD.label>force de la pierre</TM_ArtifactStrengthHD.label>
+  <!-- EN: An enchantment that increases manipulation. -->
+  <TM_ArtifactStrengthHD.description>Un enchantement qui augmente la manipulation.</TM_ArtifactStrengthHD.description>
+  
+  <!-- EN: Shroud of Undeath -->
+  <TM_ShroudOfUndeathHD.label>linceul de mort</TM_ShroudOfUndeathHD.label>
+  <!-- EN: Reduces undead upkeep of this necromancer and increases the movement and attack power of nearby undead. -->
+  <TM_ShroudOfUndeathHD.description>Réduit l'entretien des morts-vivants de ce nécromancien et augmente la puissance de déplacement et d'attaque des morts-vivants proches.</TM_ShroudOfUndeathHD.description>
+  
+  <!-- EN: Trait Infusion -->
+  <TM_TraitInfusionHD.label>infusion de trait</TM_TraitInfusionHD.label>
+  <!-- EN: A pawn has gained traits through magical infusion; this will affect their sense of self. -->
+  <TM_TraitInfusionHD.description>Un colon a acquis des traits par infusion magique ; cela affectera son sentiment personnel.</TM_TraitInfusionHD.description>
+  
+  <!-- EN: Winter's Chill -->
+  <TM_WinterStaffHD.label>froid de l'hiver</TM_WinterStaffHD.label>
+  <!-- EN: Drains heat and energy from the body; prevents heat stroke. Mages only: lowers room temperature. -->
+  <TM_WinterStaffHD.description>Draine la chaleur et l'énergie du corps ; prévient les coups de chaleur. Mages uniquement : diminue la température de la pièce.</TM_WinterStaffHD.description>
+  
+</LanguageData>

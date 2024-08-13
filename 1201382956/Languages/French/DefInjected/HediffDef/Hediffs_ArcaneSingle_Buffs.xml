@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arcane suffocation -->
+  <TM_AntiBreathing.label>asphyxie des arcanes</TM_AntiBreathing.label>
+  <!-- EN: Arcane power that diminishes the circulation of air. -->
+  <TM_AntiBreathing.description>Un pouvoir des arcanes qui diminue la respiration.</TM_AntiBreathing.description>
+  <!-- EN: I -->
+  <TM_AntiBreathing.stages.I.label>I</TM_AntiBreathing.stages.I.label>
+  <!-- EN: II -->
+  <TM_AntiBreathing.stages.II.label>II</TM_AntiBreathing.stages.II.label>
+  <!-- EN: III -->
+  <TM_AntiBreathing.stages.III.label>III</TM_AntiBreathing.stages.III.label>
+  <!-- EN: IV -->
+  <TM_AntiBreathing.stages.IV.label>IV</TM_AntiBreathing.stages.IV.label>
+  <!-- EN: overwhelmed -->
+  <TM_AntiBreathing.stages.overwhelmed.label>submergé</TM_AntiBreathing.stages.overwhelmed.label>
+  
+  <!-- EN: arcane cripple -->
+  <TM_AntiManipulation.label>faiblesse des arcanes</TM_AntiManipulation.label>
+  <!-- EN: Arcane power that reduces dexterity (manipulation). -->
+  <TM_AntiManipulation.description>Un pouvoir des arcanes qui réduit la dextérité (manipulation).</TM_AntiManipulation.description>
+  <!-- EN: I -->
+  <TM_AntiManipulation.stages.I.label>I</TM_AntiManipulation.stages.I.label>
+  <!-- EN: II -->
+  <TM_AntiManipulation.stages.II.label>II</TM_AntiManipulation.stages.II.label>
+  <!-- EN: III -->
+  <TM_AntiManipulation.stages.III.label>III</TM_AntiManipulation.stages.III.label>
+  <!-- EN: IV -->
+  <TM_AntiManipulation.stages.IV.label>IV</TM_AntiManipulation.stages.IV.label>
+  <!-- EN: overwhelmed -->
+  <TM_AntiManipulation.stages.overwhelmed.label>submergé</TM_AntiManipulation.stages.overwhelmed.label>
+  
+  <!-- EN: arcane slow -->
+  <TM_AntiMovement.label>lenteur des arcanes</TM_AntiMovement.label>
+  <!-- EN: Arcane power that reduces movement. -->
+  <TM_AntiMovement.description>Un pouvoir des arcanes qui réduit le mouvement.</TM_AntiMovement.description>
+  <!-- EN: I -->
+  <TM_AntiMovement.stages.I.label>I</TM_AntiMovement.stages.I.label>
+  <!-- EN: II -->
+  <TM_AntiMovement.stages.II.label>II</TM_AntiMovement.stages.II.label>
+  <!-- EN: III -->
+  <TM_AntiMovement.stages.III.label>III</TM_AntiMovement.stages.III.label>
+  <!-- EN: IV -->
+  <TM_AntiMovement.stages.IV.label>IV</TM_AntiMovement.stages.IV.label>
+  <!-- EN: overwhelmed -->
+  <TM_AntiMovement.stages.overwhelmed.label>submergé</TM_AntiMovement.stages.overwhelmed.label>
+  
+  <!-- EN: arcane blind -->
+  <TM_AntiSight.label>aveugle des arcanes</TM_AntiSight.label>
+  <!-- EN: Arcane power that decreases sight. -->
+  <TM_AntiSight.description>Un pouvoir des arcanes qui diminue la vue.</TM_AntiSight.description>
+  <!-- EN: I -->
+  <TM_AntiSight.stages.I.label>I</TM_AntiSight.stages.I.label>
+  <!-- EN: II -->
+  <TM_AntiSight.stages.II.label>II</TM_AntiSight.stages.II.label>
+  <!-- EN: III -->
+  <TM_AntiSight.stages.III.label>III</TM_AntiSight.stages.III.label>
+  <!-- EN: IV -->
+  <TM_AntiSight.stages.IV.label>IV</TM_AntiSight.stages.IV.label>
+  <!-- EN: overwhelmed -->
+  <TM_AntiSight.stages.overwhelmed.label>submergé</TM_AntiSight.stages.overwhelmed.label>
+  
+  <!-- EN: infused oxygen -->
+  <TM_Breathing.label>oxygène infusé</TM_Breathing.label>
+  <!-- EN: Arcane power that enhances the efficiency and capacity of breathing. -->
+  <TM_Breathing.description>Un pouvoir des arcanes qui améliore l'efficacité et la capacité de la respiration.</TM_Breathing.description>
+  <!-- EN: I -->
+  <TM_Breathing.stages.I.label>I</TM_Breathing.stages.I.label>
+  <!-- EN: II -->
+  <TM_Breathing.stages.II.label>II</TM_Breathing.stages.II.label>
+  <!-- EN: III -->
+  <TM_Breathing.stages.III.label>III</TM_Breathing.stages.III.label>
+  <!-- EN: IV -->
+  <TM_Breathing.stages.IV.label>IV</TM_Breathing.stages.IV.label>
+  <!-- EN: V -->
+  <TM_Breathing.stages.V.label>V</TM_Breathing.stages.V.label>
+  
+  <!-- EN: arcane dexterity -->
+  <TM_Manipulation.label>dextérité des arcanes</TM_Manipulation.label>
+  <!-- EN: Arcane power that augments dexterity (manipulation). -->
+  <TM_Manipulation.description>Un pouvoir des arcanes qui augmente la dextérité (manipulation).</TM_Manipulation.description>
+  <!-- EN: I -->
+  <TM_Manipulation.stages.I.label>I</TM_Manipulation.stages.I.label>
+  <!-- EN: II -->
+  <TM_Manipulation.stages.II.label>II</TM_Manipulation.stages.II.label>
+  <!-- EN: III -->
+  <TM_Manipulation.stages.III.label>III</TM_Manipulation.stages.III.label>
+  <!-- EN: IV -->
+  <TM_Manipulation.stages.IV.label>IV</TM_Manipulation.stages.IV.label>
+  <!-- EN: V -->
+  <TM_Manipulation.stages.V.label>V</TM_Manipulation.stages.V.label>
+  
+  <!-- EN: arcane speed -->
+  <TM_Movement.label>vitesse des arcanes</TM_Movement.label>
+  <!-- EN: Arcane power that augments a pawns movement speed. -->
+  <TM_Movement.description>Un pouvoir des arcanes qui augmente la vitesse de déplacement du colon.</TM_Movement.description>
+  <!-- EN: I -->
+  <TM_Movement.stages.I.label>I</TM_Movement.stages.I.label>
+  <!-- EN: II -->
+  <TM_Movement.stages.II.label>II</TM_Movement.stages.II.label>
+  <!-- EN: III -->
+  <TM_Movement.stages.III.label>III</TM_Movement.stages.III.label>
+  <!-- EN: IV -->
+  <TM_Movement.stages.IV.label>IV</TM_Movement.stages.IV.label>
+  <!-- EN: V -->
+  <TM_Movement.stages.V.label>V</TM_Movement.stages.V.label>
+  
+  <!-- EN: Magically Mute -->
+  <TM_MuteHD.label>silence magique</TM_MuteHD.label>
+  <!-- EN: A curse that prevents the use of magical abilities. -->
+  <TM_MuteHD.description>Une malédiction qui empêche l'utilisation des capacités magiques.</TM_MuteHD.description>
+  
+  <!-- EN: arcane vision -->
+  <TM_Sight.label>vision ésotérique</TM_Sight.label>
+  <!-- EN: Arcane power that augments vision. -->
+  <TM_Sight.description>Un pouvoir des arcanes qui augmente la vue.</TM_Sight.description>
+  <!-- EN: I -->
+  <TM_Sight.stages.I.label>I</TM_Sight.stages.I.label>
+  <!-- EN: II -->
+  <TM_Sight.stages.II.label>II</TM_Sight.stages.II.label>
+  <!-- EN: III -->
+  <TM_Sight.stages.III.label>III</TM_Sight.stages.III.label>
+  <!-- EN: IV -->
+  <TM_Sight.stages.IV.label>IV</TM_Sight.stages.IV.label>
+  <!-- EN: V -->
+  <TM_Sight.stages.V.label>V</TM_Sight.stages.V.label>
+  
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: greater sentinel -->
+  <TM_Greater_Sentinel.label>sentinelle supérieure</TM_Greater_Sentinel.label>
+  <!-- EN: greater sentinel -->
+  <TM_Greater_Sentinel.lifeStages.greater_sentinel.label>sentinelle supérieure</TM_Greater_Sentinel.lifeStages.greater_sentinel.label>
+  <!-- EN: stone sentinels -->
+  <TM_Greater_Sentinel.lifeStages.greater_sentinel.labelPlural>sentinelles supérieures</TM_Greater_Sentinel.lifeStages.greater_sentinel.labelPlural>
+  
+  <!-- EN: lesser sentinel -->
+  <TM_Lesser_Sentinel.label>sentinelle inférieure</TM_Lesser_Sentinel.label>
+  <!-- EN: lesser sentinel -->
+  <TM_Lesser_Sentinel.lifeStages.lesser_sentinel.label>sentinelle inférieure</TM_Lesser_Sentinel.lifeStages.lesser_sentinel.label>
+  <!-- EN: stone sentinels -->
+  <TM_Lesser_Sentinel.lifeStages.lesser_sentinel.labelPlural>sentinelles inférieures</TM_Lesser_Sentinel.lifeStages.lesser_sentinel.labelPlural>
+  
+  <!-- EN: sentinel -->
+  <TM_Sentinel.label>sentinelle</TM_Sentinel.label>
+  <!-- EN: sentinel -->
+  <TM_Sentinel.lifeStages.sentinel.label>sentinelle</TM_Sentinel.lifeStages.sentinel.label>
+  <!-- EN: stone sentinels -->
+  <TM_Sentinel.lifeStages.sentinel.labelPlural>sentinelles</TM_Sentinel.lifeStages.sentinel.labelPlural>
+  
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Grave Blade -->
+  <Projectile_GraveBlade.label>lame runique</Projectile_GraveBlade.label>
+  
+  <!-- EN: Grave Blade -->
+  <Projectile_GraveBlade_I.label>lame runique</Projectile_GraveBlade_I.label>
+  
+  <!-- EN: Grave Blade -->
+  <Projectile_GraveBlade_II.label>lame runique</Projectile_GraveBlade_II.label>
+  
+  <!-- EN: Grave Blade -->
+  <Projectile_GraveBlade_III.label>lame runique</Projectile_GraveBlade_III.label>
+  
+  <!-- EN: spite -->
+  <Projectile_Spite.label>rancune</Projectile_Spite.label>
+  
+  <!-- EN: Wave of Fear -->
+  <Projectile_WaveOfFear.label>vague de peur</Projectile_WaveOfFear.label>
+  
+</LanguageData>

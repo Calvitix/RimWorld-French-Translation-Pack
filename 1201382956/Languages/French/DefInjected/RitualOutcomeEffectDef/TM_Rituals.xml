@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Spectating slaves will be 100% suppressed. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <TM_BestowMagic.description>Les esclaves spectateurs seront éliminés à 100%. Selon la qualité du rituel, les participants obtiendront entre {MINMOOD} et {MAXMOOD} humeur pendant {MOODDAYS} jours.</TM_BestowMagic.description>
+  <!-- EN: moral guide present -->
+  <TM_BestowMagic.comps.1.label>guide moral présent</TM_BestowMagic.comps.1.label>
+  <!-- EN: participant count -->
+  <TM_BestowMagic.comps.2.label>nombre de participants</TM_BestowMagic.comps.2.label>
+  <!-- EN: started at altar or ideogram -->
+  <TM_BestowMagic.comps.3.label>commencé à l'autel ou à l'idéogramme</TM_BestowMagic.comps.3.label>
+  <!-- EN: an altar or an ideogram -->
+  <TM_BestowMagic.comps.3.expectedThingLabelTip>un autel ou un idéogramme</TM_BestowMagic.comps.3.expectedThingLabelTip>
+  <!-- EN: room impressiveness -->
+  <TM_BestowMagic.comps.4.label>perception de la pièce</TM_BestowMagic.comps.4.label>
+  <!-- EN: Failed -->
+  <TM_BestowMagic.outcomeChances.0.label>Échec</TM_BestowMagic.outcomeChances.0.label>
+  <!-- EN: The {0} was botched. The voidseeker was unable to bridge a magical connection. -->
+  <TM_BestowMagic.outcomeChances.0.description>Le {0} a été bâclé. Le chercheur du vide n'a pas pu établir une connexion magique.</TM_BestowMagic.outcomeChances.0.description>
+  <!-- EN: Success -->
+  <TM_BestowMagic.outcomeChances.1.label>Succès</TM_BestowMagic.outcomeChances.1.label>
+  <!-- EN: The {0} was a success. The voidseeker granted the spark of magic. -->
+  <TM_BestowMagic.outcomeChances.1.description>Le {0} a été un succès. Le chercheur du vide a accordé l'étincelle de magie.</TM_BestowMagic.outcomeChances.1.description>
+  <!-- EN: Inspired -->
+  <TM_BestowMagic.outcomeChances.2.label>Inspirant</TM_BestowMagic.outcomeChances.2.label>
+  <!-- EN: The {0} was flawless - the ceremony reaffirmed our beliefs, bringing the gift of magic and granting inspirational visions. -->
+  <TM_BestowMagic.outcomeChances.2.description>Le {0} était impeccable - la cérémonie a réaffirmé nos convictions, apportant le don de la magie et accordant des visions inspirantes.</TM_BestowMagic.outcomeChances.2.description>
+  
+  <!-- EN: Spectating slaves will be 100% suppressed. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <TM_BestowMagicClass.description>Les esclaves spectateurs seront éliminés à 100%. Selon la qualité du rituel, les participants obtiendront entre {MINMOOD} et {MAXMOOD} humeur pendant {MOODDAYS} jours.</TM_BestowMagicClass.description>
+  <!-- EN: moral guide present -->
+  <TM_BestowMagicClass.comps.1.label>guide moral présent</TM_BestowMagicClass.comps.1.label>
+  <!-- EN: participant count -->
+  <TM_BestowMagicClass.comps.2.label>nombre de participants</TM_BestowMagicClass.comps.2.label>
+  <!-- EN: started at altar or ideogram -->
+  <TM_BestowMagicClass.comps.3.label>commencé à l'autel ou à l'idéogramme</TM_BestowMagicClass.comps.3.label>
+  <!-- EN: an altar or an ideogram -->
+  <TM_BestowMagicClass.comps.3.expectedThingLabelTip>un autel ou un idéogramme</TM_BestowMagicClass.comps.3.expectedThingLabelTip>
+  <!-- EN: room impressiveness -->
+  <TM_BestowMagicClass.comps.4.label>perception de la pièce</TM_BestowMagicClass.comps.4.label>
+  <!-- EN: Bland -->
+  <TM_BestowMagicClass.outcomeChances.0.label>Fade</TM_BestowMagicClass.outcomeChances.0.label>
+  <!-- EN: The {0} was a success but lacked any real feeling or energy. -->
+  <TM_BestowMagicClass.outcomeChances.0.description>Le {0} était un succès, mais il manquait de sentiment et d'énergie.</TM_BestowMagicClass.outcomeChances.0.description>
+  <!-- EN: Encouraging -->
+  <TM_BestowMagicClass.outcomeChances.1.label>Encourageant</TM_BestowMagicClass.outcomeChances.1.label>
+  <!-- EN: The {0} was a success. A gifted individual has taken a great step towards becoming a more powerful asset to our colony. -->
+  <TM_BestowMagicClass.outcomeChances.1.description>Le {0} a été un succès. Un individu doué a fait un grand pas pour devenir un atout plus puissant pour notre colonie.</TM_BestowMagicClass.outcomeChances.1.description>
+  <!-- EN: Inspiring -->
+  <TM_BestowMagicClass.outcomeChances.2.label>Inspirant</TM_BestowMagicClass.outcomeChances.2.label>
+  <!-- EN: The {0} was inspiring - through a magnificent spectacle of arcane and emotional energy, the colony has gained another powerful mage. -->
+  <TM_BestowMagicClass.outcomeChances.2.description>Le {0} était inspirant - à travers un magnifique spectacle de magie et d'énergie émotionnelle, la colonie a gagné un autre puissant mage.</TM_BestowMagicClass.outcomeChances.2.description>
+  
+  <!-- EN: Spectating slaves will be 100% suppressed. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <TM_SeverMagic.description>Les esclaves spectateurs seront éliminés à 100%. Selon la qualité du rituel, les participants obtiendront entre {MINMOOD} et {MAXMOOD} humeur pendant {MOODDAYS} jours.</TM_SeverMagic.description>
+  <!-- EN: moral guide present -->
+  <TM_SeverMagic.comps.1.label>guide moral présent</TM_SeverMagic.comps.1.label>
+  <!-- EN: participant count -->
+  <TM_SeverMagic.comps.2.label>nombre de participants</TM_SeverMagic.comps.2.label>
+  <!-- EN: started at altar or ideogram -->
+  <TM_SeverMagic.comps.3.label>commencé à l'autel ou à l'idéogramme</TM_SeverMagic.comps.3.label>
+  <!-- EN: an altar or an ideogram -->
+  <TM_SeverMagic.comps.3.expectedThingLabelTip>un autel ou un idéogramme</TM_SeverMagic.comps.3.expectedThingLabelTip>
+  <!-- EN: room impressiveness -->
+  <TM_SeverMagic.comps.4.label>perception de la pièce</TM_SeverMagic.comps.4.label>
+  <!-- EN: Botched -->
+  <TM_SeverMagic.outcomeChances.0.label>Raté</TM_SeverMagic.outcomeChances.0.label>
+  <!-- EN: The {0} was botched. The mage retaliated in fear and desperation. -->
+  <TM_SeverMagic.outcomeChances.0.description>Le {0} a été raté. Le mage a riposté dans la peur et le désespoir.</TM_SeverMagic.outcomeChances.0.description>
+  <!-- EN: Lethal -->
+  <TM_SeverMagic.outcomeChances.1.label>Léthal</TM_SeverMagic.outcomeChances.1.label>
+  <!-- EN: The {0} was lethal. The ritual was intended to sever the mage from magic, not kill the mage. -->
+  <TM_SeverMagic.outcomeChances.1.description>Le {0} a été léthal. Le rituel était destiné à séparer le mage de sa magie, pas de le tuer.</TM_SeverMagic.outcomeChances.1.description>
+  <!-- EN: Success -->
+  <TM_SeverMagic.outcomeChances.2.label>Succès</TM_SeverMagic.outcomeChances.2.label>
+  <!-- EN: The {0} was a success. The voidseeker effectively severed the mage's magic. -->
+  <TM_SeverMagic.outcomeChances.2.description>Le {0} a été un succès. Le chasseur du vide a efficacement coupé la magie du mage.</TM_SeverMagic.outcomeChances.2.description>
+  <!-- EN: Flawless -->
+  <TM_SeverMagic.outcomeChances.3.label>Impeccable</TM_SeverMagic.outcomeChances.3.label>
+  <!-- EN: The {0} was flawless - the ceremony brought compassion and freedom to the mage. -->
+  <TM_SeverMagic.outcomeChances.3.description>Le {0} était parfait - la cérémonie a apporté compassion et liberté au mage.</TM_SeverMagic.outcomeChances.3.description>
+  
+</LanguageData>

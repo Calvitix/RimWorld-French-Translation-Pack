@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Conviction -->
+  <TM_Artifact_Conviction.label>Sentence</TM_Artifact_Conviction.label>
+  <!-- EN: Overpower a pawn with conviction to join your cause. This power will exact a heavy toll on the caster.\n		\nUse of Conviction will destroy the orb. -->
+  <TM_Artifact_Conviction.description>Donner à un colon la conviction de rejoindre votre cause. Ce pouvoir fera payer un lourd tribut au lanceur.\n\nL'utilisation de Conviction détruira l'orbe.</TM_Artifact_Conviction.description>
+  
+  <!-- EN: Infuse Soul -->
+  <TM_Artifact_TraitInfuse.label>Infuser l'âme</TM_Artifact_TraitInfuse.label>
+  <!-- EN: Infuse sealed traits into a human-like pawn. -->
+  <TM_Artifact_TraitInfuse.description>Infuser des traits scellés dans un colon de type humain.</TM_Artifact_TraitInfuse.description>
+  
+  <!-- EN: Devour Soul -->
+  <TM_Artifact_TraitThief.label>Assimilation d'âme</TM_Artifact_TraitThief.label>
+  <!-- EN: Steal the traits of another pawn. -->
+  <TM_Artifact_TraitThief.description>Voler les traits d'un autre colon.</TM_Artifact_TraitThief.description>
+  
+  <!-- EN: Winter's Fury -->
+  <TM_Weapon_WintersFury.label>Furie de l'hiver</TM_Weapon_WintersFury.label>
+  <!-- EN: Covers the map in rolling waves of dark, angry clouds carrying winters' biting scorn. -->
+  <TM_Weapon_WintersFury.description>Couvre la carte de vagues ondulantes de nuages sombres et furieux, portant le souffle mordant de l'hiver.</TM_Weapon_WintersFury.description>
+  
+</LanguageData>

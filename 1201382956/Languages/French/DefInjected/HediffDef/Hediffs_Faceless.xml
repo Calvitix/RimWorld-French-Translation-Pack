@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Possessed -->
+  <TM_CoOpPossessionHD.label>possédé</TM_CoOpPossessionHD.label>
+  <!-- EN: Actions are being influenced by a master of deception. -->
+  <TM_CoOpPossessionHD.description>Les actions sont contrôlées par un maître de la tromperie.</TM_CoOpPossessionHD.description>
+  <!-- EN: I -->
+  <TM_CoOpPossessionHD.stages.I.label>I</TM_CoOpPossessionHD.stages.I.label>
+  
+  <!-- EN: Possessed -->
+  <TM_CoOpPossessionHD_I.label>possédé</TM_CoOpPossessionHD_I.label>
+  <!-- EN: Actions are being influenced by a master of deception. -->
+  <TM_CoOpPossessionHD_I.description>Les actions sont contrôlées par un maître de la tromperie.</TM_CoOpPossessionHD_I.description>
+  <!-- EN: II -->
+  <TM_CoOpPossessionHD_I.stages.II.label>II</TM_CoOpPossessionHD_I.stages.II.label>
+  
+  <!-- EN: Possessed -->
+  <TM_CoOpPossessionHD_II.label>possédé</TM_CoOpPossessionHD_II.label>
+  <!-- EN: Actions are being influenced by a master of deception. -->
+  <TM_CoOpPossessionHD_II.description>Les actions sont contrôlées par un maître de la tromperie.</TM_CoOpPossessionHD_II.description>
+  <!-- EN: III -->
+  <TM_CoOpPossessionHD_II.stages.III.label>III</TM_CoOpPossessionHD_II.stages.III.label>
+  
+  <!-- EN: Possessed -->
+  <TM_CoOpPossessionHD_III.label>possédé</TM_CoOpPossessionHD_III.label>
+  <!-- EN: Actions are being influenced by a master of deception. -->
+  <TM_CoOpPossessionHD_III.description>Les actions sont contrôlées par un maître de la tromperie.</TM_CoOpPossessionHD_III.description>
+  <!-- EN: IV -->
+  <TM_CoOpPossessionHD_III.stages.IV.label>IV</TM_CoOpPossessionHD_III.stages.IV.label>
+  
+  <!-- EN: Deception -->
+  <TM_DisguiseHD.label>tromperie</TM_DisguiseHD.label>
+  <!-- EN: Wrapped in a clever disguise to deceive opponents. -->
+  <TM_DisguiseHD.description>Enveloppé dans un déguisement astucieux pour tromper les adversaires.</TM_DisguiseHD.description>
+  <!-- EN: I -->
+  <TM_DisguiseHD.stages.I.label>I</TM_DisguiseHD.stages.I.label>
+  
+  <!-- EN: Deception -->
+  <TM_DisguiseHD_I.label>tromperie</TM_DisguiseHD_I.label>
+  <!-- EN: Wrapped in a clever disguise to deceive opponents. -->
+  <TM_DisguiseHD_I.description>Enveloppé dans un déguisement astucieux pour tromper les adversaires.</TM_DisguiseHD_I.description>
+  <!-- EN: II -->
+  <TM_DisguiseHD_I.stages.II.label>II</TM_DisguiseHD_I.stages.II.label>
+  
+  <!-- EN: Deception -->
+  <TM_DisguiseHD_II.label>tromperie</TM_DisguiseHD_II.label>
+  <!-- EN: Wrapped in a clever disguise to deceive opponents. -->
+  <TM_DisguiseHD_II.description>Enveloppé dans un déguisement astucieux pour tromper les adversaires.</TM_DisguiseHD_II.description>
+  <!-- EN: III -->
+  <TM_DisguiseHD_II.stages.III.label>III</TM_DisguiseHD_II.stages.III.label>
+  
+  <!-- EN: Deception -->
+  <TM_DisguiseHD_III.label>tromperie</TM_DisguiseHD_III.label>
+  <!-- EN: Wrapped in a clever disguise to deceive opponents. -->
+  <TM_DisguiseHD_III.description>Enveloppé dans un déguisement astucieux pour tromper les adversaires.</TM_DisguiseHD_III.description>
+  <!-- EN: IV -->
+  <TM_DisguiseHD_III.stages.IV.label>IV</TM_DisguiseHD_III.stages.IV.label>
+  
+  <!-- EN: disoriented -->
+  <TM_DisorientedVomit.label>désorienté</TM_DisorientedVomit.label>
+  <!-- EN: Disoriented after swapping positions with another pawn. -->
+  <TM_DisorientedVomit.description>Désorienté après avoir échangé sa position avec un autre colon.</TM_DisorientedVomit.description>
+  <!-- EN: I -->
+  <TM_DisorientedVomit.stages.I.label>I</TM_DisorientedVomit.stages.I.label>
+  
+  <!-- EN: Possessed -->
+  <TM_PossessionHD.label>possédé</TM_PossessionHD.label>
+  <!-- EN: Actions are being influenced by a master of deception. -->
+  <TM_PossessionHD.description>Les actions sont contrôlées par un maître de la tromperie.</TM_PossessionHD.description>
+  <!-- EN: I -->
+  <TM_PossessionHD.stages.I.label>I</TM_PossessionHD.stages.I.label>
+  
+  <!-- EN: Possessed -->
+  <TM_PossessionHD_I.label>possédé</TM_PossessionHD_I.label>
+  <!-- EN: Actions are being influenced by a master of deception. -->
+  <TM_PossessionHD_I.description>Les actions sont contrôlées par un maître de la tromperie.</TM_PossessionHD_I.description>
+  <!-- EN: II -->
+  <TM_PossessionHD_I.stages.II.label>II</TM_PossessionHD_I.stages.II.label>
+  
+  <!-- EN: Possessed -->
+  <TM_PossessionHD_II.label>possédé</TM_PossessionHD_II.label>
+  <!-- EN: Actions are being influenced by a master of deception. -->
+  <TM_PossessionHD_II.description>Les actions sont contrôlées par un maître de la tromperie.</TM_PossessionHD_II.description>
+  <!-- EN: III -->
+  <TM_PossessionHD_II.stages.III.label>III</TM_PossessionHD_II.stages.III.label>
+  
+  <!-- EN: Possessed -->
+  <TM_PossessionHD_III.label>possédé</TM_PossessionHD_III.label>
+  <!-- EN: Actions are being influenced by a master of deception. -->
+  <TM_PossessionHD_III.description>Les actions sont contrôlées par un maître de la tromperie.</TM_PossessionHD_III.description>
+  <!-- EN: IV -->
+  <TM_PossessionHD_III.stages.IV.label>IV</TM_PossessionHD_III.stages.IV.label>
+  
+  <!-- EN: Reversal Stance -->
+  <TM_ReversalHD.label>posture de renvoi</TM_ReversalHD.label>
+  <!-- EN: Turns the energy of attack back on the attacker. -->
+  <TM_ReversalHD.description>Renvoie l'énergie de l'attaque sur l'attaquant.</TM_ReversalHD.description>
+  <!-- EN: I -->
+  <TM_ReversalHD.stages.I.label>I</TM_ReversalHD.stages.I.label>
+  
+</LanguageData>

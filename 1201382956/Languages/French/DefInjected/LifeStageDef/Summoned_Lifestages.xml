@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: demon -->
+  <TM_Demon_Lifestage.label>demon</TM_Demon_Lifestage.label>
+  
+  <!-- EN: elemental -->
+  <TM_Elemental_Lifestage.label>élémentaire</TM_Elemental_Lifestage.label>
+  
+  <!-- EN: giant skeleton -->
+  <TM_GiantSkeleton_Lifestage.label>squelette géant</TM_GiantSkeleton_Lifestage.label>
+  
+  <!-- EN: greater elemental -->
+  <TM_GreaterElemental_Lifestage.label>élémentaire supérieure</TM_GreaterElemental_Lifestage.label>
+  
+  <!-- EN: greater minion -->
+  <TM_GreaterMinion_Lifestage.label>serviteur supérieure</TM_GreaterMinion_Lifestage.label>
+  
+  <!-- EN: greater sentinel -->
+  <TM_GreaterSentinel_Lifestage.label>sentinelle supérieure</TM_GreaterSentinel_Lifestage.label>
+  
+  <!-- EN: lesser demon -->
+  <TM_LesserDemon_Lifestage.label>demon inférieur</TM_LesserDemon_Lifestage.label>
+  
+  <!-- EN: lesser elemental -->
+  <TM_LesserElemental_Lifestage.label>élémentaire inférieur</TM_LesserElemental_Lifestage.label>
+  
+  <!-- EN: lesser sentinel -->
+  <TM_LesserSentinel_Lifestage.label>sentinelle inférieure</TM_LesserSentinel_Lifestage.label>
+  
+  <!-- EN: minion -->
+  <TM_Minion_Lifestage.label>serviteur</TM_Minion_Lifestage.label>
+  
+  <!-- EN: sentinel -->
+  <TM_Sentinel_Lifestage.label>sentinelle</TM_Sentinel_Lifestage.label>
+  
+  <!-- EN: skeleton -->
+  <TM_Skeleton_Lifestage.label>squelette</TM_Skeleton_Lifestage.label>
+  
+  <!-- EN: skeleton lich -->
+  <TM_SkeletonLich_Lifestage.label>liche squelette</TM_SkeletonLich_Lifestage.label>
+  
+</LanguageData>

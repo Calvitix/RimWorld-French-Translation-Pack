@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Combat Drugs -->
+  <TM_CombatDrugs.label>Drogues de combat</TM_CombatDrugs.label>
+  <!-- EN: Gives combat drugs to an ally\n\nThe Field Medic throws a syringe of improvised combat drugs to an ally.\nThe effects are always positive but may vary. -->
+  <TM_CombatDrugs.description>Donne des drogues de combat à un allié.\n\nLe médecin de combat lance une seringue de drogues de combat improvisées à un allié.\nLes effets sont toujours positifs mais peuvent varier.</TM_CombatDrugs.description>
+  
+  <!-- EN: Emergency -->
+  <TM_Emergency.label>Urgence</TM_Emergency.label>
+  <!-- EN: The Field Medic rushes to aid their patients.\n\nThe Field Medic gains increased base movement speed, tending speed and tending quality as well as reduced pain for a 30 seconds. -->
+  <TM_Emergency.description>Le médecin de combat se précipite pour aider ses patients.\n\nLe médecin de combat bénéficie d'une augmentation de la vitesse de déplacement de base, de la vitesse de soins et de la qualité des soins, ainsi que d'une réduction de la douleur pendant 30 secondes.</TM_Emergency.description>
+  
+  <!-- EN: Resupply -->
+  <TM_MedicalSupply.label>Réapprovisionnement</TM_MedicalSupply.label>
+  <!-- EN: Resupply the Field Medic's medical supplies.\n\nThe Field Medic will use one item from target stockpile and convert it into personal medical supplies he can use to fuel his abilities.\n\nThe amount of supply gained is equal to 20 times the medical potency of the item squared:\nmedicine - 20 medical supplies\nherbal medicine - 4.9 medical supplies\nglitterworld medicine - 51.2 medical supplies\n\nThe Field Medic can train to convert his equipment back into common medicine -->
+  <TM_MedicalSupply.description>Réapprovisionnement des fournitures médicales du Médecin de combat.\n\nLe médecin de combat utilisera un objet de la réserve de la cible et le convertira en fournitures médicales personnelles qu'il pourra utiliser pour ravitailler ses capacités.\n\nLa quantité de fournitures gagnée est égale à 20 fois la puissance médicale de l'objet au carré :\nMédicament : 20 fournitures médicales\nHerbe médicinale : 4.9 fournitures médicales\nMédicament avancé : 51.2 fournitures médicales\n\nLe médecin de combat peut s'entraîner à convertir son équipement en médecine commune.</TM_MedicalSupply.description>
+  
+  <!-- EN: Medigel -->
+  <TM_Medigel.label>Gel médical</TM_Medigel.label>
+  <!-- EN: Applies a healing gel to the wounds of a target that speeds recovery and fights infection. Wounds will be healed slowly over time. Medigel slightly reduces the pain of wounds. -->
+  <TM_Medigel.description>Applique un gel cicatrisant sur les blessures d'une cible qui accélère la guérison et combat l'infection. Les plaies seront guéries lentement au fil du temps. Le gel médical réduit légèrement la douleur des blessures.</TM_Medigel.description>
+  
+</LanguageData>

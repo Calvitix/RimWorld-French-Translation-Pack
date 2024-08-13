@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Empathy -->
+  <TM_Empathy.label>Empathie</TM_Empathy.label>
+  <!-- EN: An empath has the ability to experience the emotions of those around them reverberate their emotions to better understand the feelings of others, or to convey their own emotions. These innate abilities have been augmented by arcane power, magnifying the effects of empathy. Pawns in proximity to the empath will occasionally experience the faded emotions of the empath, both good and bad. The more good emotions an empath is feeling, the more likely nearby pawns will gain positive empathic feelings. Mastery of empathic abilities can make it an effective mood management tool, but an untrained and stressed out empath can cause despair to an entire colony. -->
+  <TM_Empathy.description>Un empathe a la capacité de ressentir les émotions de ceux qui l'entourent, de réverbérer ces émotions pour mieux comprendre les sentiments des autres, ou de transmettre ses propres émotions. Ces capacités innées ont été augmentées par des pouvoirs magiques, amplifiant les effets de l'empathie. Les colons qui se trouvent à proximité de l'empathe ressentiront occasionnellement les émotions atténuées de l'empathe, qu'elles soient bonnes ou mauvaises. Plus l'empathe ressent de bonnes émotions, plus les colons à proximité sont susceptibles de ressentir des sentiments empathiques positifs. La maîtrise des capacités empathiques peut en faire un outil efficace de gestion de l'humeur, mais un empathe non entraîné et stressé peut causer le désespoir de toute une colonie.</TM_Empathy.description>
+  
+  <!-- EN: Fade Emotion -->
+  <TM_FadeEmotions.label>Émotions disparues</TM_FadeEmotions.label>
+  <!-- EN: Reduces mood of the empath and the target to rid the target of negative memories. After the first memory, each additional negative memory will consume 30 mood from the target to be removed. The effect ends with the target has less than 30 mood or no remaining negative memories. The first memory always consumes 30 mood from the target. This ability has no affect on situational mood modifiers. -->
+  <TM_FadeEmotions.description>Réduit l'humeur de l'empathe et de la cible pour débarrasser la cible des souvenirs négatifs. Après le premier souvenir, chaque souvenir négatif supplémentaire consommera 30 d'humeur de la cible pour être éliminé. L'effet se termine lorsque la cible a moins de 30 d'humeur ou aucun souvenir négatif n'est plus présent. Le premier souvenir consomme toujours 30 d'humeur à la cible. Cette capacité n'a aucun effet sur les modificateurs d'humeur situationnels.</TM_FadeEmotions.description>
+  
+  <!-- EN: Harvest Passion -->
+  <TM_HarvestPassion.label>Récolte de passion</TM_HarvestPassion.label>
+  <!-- EN: Attempts to steal a work passion from the target pawn. The caster must sacrifice an active inspiration to activate this ability. Once all joy is removed from the target pawn, the effect attempts to transfer a passion to the caster. The joy of the caster is also consumed each iteration. If a passion is not transferred to the caster before their joy is depleted, then the ability ends. Both the caster and target will suffer shocking trauma while the effect is active. The passion harvested is always random. -->
+  <TM_HarvestPassion.description>Tente de voler une passion au colon ciblé. Le lanceur de sorts doit sacrifier une inspiration active pour activer cette capacité. Une fois que toute la joie est retirée du colon ciblé, l'effet tente de transférer une passion au lanceur de sorts. La joie du lanceur de sorts est également consommée à chaque itération. Si une passion n'est pas transférée au lanceur de sorts avant que sa joie ne soit épuisée, la capacité prend fin. Le lanceur et la cible subissent tous deux un traumatisme choquant pendant que l'effet est actif. La passion récoltée est toujours aléatoire.</TM_HarvestPassion.description>
+  
+  <!-- EN: Incite Passion -->
+  <TM_IncitePassion.label>Susciter la passion</TM_IncitePassion.label>
+  <!-- EN: Transfers a work passion from the caster to a target. This ability is always successful. This ability cannot be used by slaves. The transferred passion can be selected by right clicking on the ability icon. A random passion is transferred if no passion is specified. -->
+  <TM_IncitePassion.description>Transfère une passion du lanceur de sorts à une cible. Cette capacité est toujours réussie. Cette capacité ne peut pas être utilisée par les esclaves. La passion transférée est toujours aléatoire.</TM_IncitePassion.description>
+  
+  <!-- EN: Mind Killer -->
+  <TM_MindKiller.label>Tueur d'esprit</TM_MindKiller.label>
+  <!-- EN: Releases an empathic wail that floods all nearby pawns with emotions. Reactions can vary, but most living organisms have difficulty dealing with the overwhelming surge of emotions. Can cause hostile pawns to go berserk. The higher an affected pawns mood, the more emotional energy is released. When untrained, this skill may affect nearby allies. -->
+  <TM_MindKiller.description>Libère un gémissement empathique qui inonde d'émotions tous les colons proches. Les réactions peuvent varier, mais la plupart des organismes vivants ont du mal à gérer la vague d'émotions qui les submerge. Plus l'humeur d'un colon affecté est élevée, plus l'énergie émotionnelle est libérée. Lorsqu'elle n'est pas entraînée, cette compétence peut affecter les alliés proches.</TM_MindKiller.description>
+  
+  <!-- EN: Suppressive Aura -->
+  <TM_SuppressiveAura.label>Aura de suppression</TM_SuppressiveAura.label>
+  <!-- EN: Creates an aura around the empath that suppresses the emotions of other pawns, allowing them to feel only what the empath wishes them to feel. With training, the empath can allow positive emotions and suppress negative emotions. Side effects of the aura may cause transference of the emotions of the empath. Emotionally suppressed pawns will not experience mental breaks. -->
+  <TM_SuppressiveAura.description>Crée une aura autour de l'empathe qui supprime les émotions des autres colons, leur permettant de ne ressentir que ce que l'empathe souhaite qu'ils ressentent. Avec de l'entraînement, l'empathe peut permettre les émotions positives et supprimer les émotions négatives. Les effets secondaires de l'aura peuvent provoquer le transfert des émotions de l'empathe. Les colons dont les émotions sont supprimées ne connaîtront pas de rupture mentale.</TM_SuppressiveAura.description>
+  
+  <!-- EN: Symbiosis -->
+  <TM_Symbiosis.label>Symbiose</TM_Symbiosis.label>
+  <!-- EN: Entwines the fate of the empath with the target. The empath will enter into a mentally vacant state, unable to control their own body as they project their will to reinforce the will of a target pawn. The empath will still maintain any pre-existing effects or aura's. The target will receive emotional fortitude and mental strength in return. The symbiote may experience physical after-effects of injuries taken by their host. If the host dies while the empath is a symbiote, the empath will also die. The symbiosis will end when the empath's mood expires and can be manually ended if the host and symbiote are in close proximity. -->
+  <TM_Symbiosis.description>Lie le destin de l'empathe avec la cible. L'empathe entrera dans un état de vide mental, incapable de contrôler son propre corps alors qu'il projette sa volonté pour renforcer la volonté d'un colon ciblé. L'empathe conservera tout effet ou toute aura préexistants. La cible recevra en retour une force émotionnelle et une force mentale. Le symbiote peut ressentir les séquelles physiques des blessures subies par son hôte. Si l'hôte meurt alors que l'empathe est un symbiote, l'empathe mourra également. La symbiose ne prendra fin qu'à l'expiration de l'humeur de l'empathe.</TM_Symbiosis.description>
+  
+</LanguageData>

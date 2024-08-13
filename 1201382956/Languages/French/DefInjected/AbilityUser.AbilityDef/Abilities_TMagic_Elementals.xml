@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Firebolt -->
+  <TM_Elemental_Firebolt.label>Éclair de feu</TM_Elemental_Firebolt.label>
+  <!-- EN: Bolt of  magic fire. Sets fire to the target. -->
+  <TM_Elemental_Firebolt.description>Éclair de feu magique. Met le feu à la cible.</TM_Elemental_Firebolt.description>
+  
+  <!-- EN: elemental icebolt -->
+  <TM_Elemental_Icebolt.label>Éclair de glace</TM_Elemental_Icebolt.label>
+  <!-- EN: Bolt of ice specially created to shatter into glass like shards upon impact, causing severe bleeding and damage in a small area. -->
+  <TM_Elemental_Icebolt.description>Éclair de glace spécialement créé pour se briser en éclats de verre lors de l'impact, provoquant de graves saignements et des dégâts dans une petite zone.</TM_Elemental_Icebolt.description>
+  
+</LanguageData>

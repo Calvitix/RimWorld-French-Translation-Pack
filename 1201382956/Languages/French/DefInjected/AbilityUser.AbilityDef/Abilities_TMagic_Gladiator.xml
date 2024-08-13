@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cleave -->
+  <TM_Cleave.label>Enchaînement</TM_Cleave.label>
+  <!-- EN: Executes a powerful, sweeping blow that can strike multiple enemies adjacent to the target. As long as the gladiator has enough stamina, this ability works automatically whenever the gladiator performs a melee attack. Cleave chance is calculated from weapon mass - heavier weapons are more likely to cleave. -->
+  <TM_Cleave.description>Exécute un coup puissant et balayé qui peut frapper plusieurs ennemis adjacents à la cible. Tant que le gladiateur a suffisamment d'endurance, cette capacité fonctionne automatiquement chaque fois que le gladiateur effectue une attaque de mêlée. Les chances d'Enchaînement sont calculées en fonction de la masse de l'arme - les armes les plus lourdes ont plus de chances d'Enchaînement.</TM_Cleave.description>
+  
+  <!-- EN: Fortitude -->
+  <TM_Fortitude.label>Robustesse</TM_Fortitude.label>
+  <!-- EN: Mitigates a set amount of damage each hit.\nBase mitigation: 5 -->
+  <TM_Fortitude.description>Atténue une quantité déterminée de dégâts à chaque coup.\nAtténuation de base : 5</TM_Fortitude.description>
+  
+  <!-- EN: Grapple -->
+  <TM_Grapple.label>Grappin</TM_Grapple.label>
+  <!-- EN: Forcefully hooks and yanks an opponent to the Gladiator, followed by a violent leg sweep, knocking the opponent down.\n		\nCasting time: 1s\nRange: 15 -->
+  <TM_Grapple.description>Accroche et tire avec force un adversaire au Gladiateur, suivi d'un violent balayage des jambes, mettant l'adversaire à terre.\n\nIncantation : 1s\nPortée : 15</TM_Grapple.description>
+  
+  <!-- EN: Grapple -->
+  <TM_Grapple_I.label>Grappin</TM_Grapple_I.label>
+  <!-- EN: Forcefully hooks and yanks an opponent to the Gladiator, followed by a violent leg sweep, knocking the opponent down.\nCasting time: .6s\nRange: 17 -->
+  <TM_Grapple_I.description>Accroche et tire avec force un adversaire au Gladiateur, suivi d'un violent balayage des jambes, mettant l'adversaire à terre.\nIncantation : 0.6s\nPortée : 17</TM_Grapple_I.description>
+  
+  <!-- EN: Grapple -->
+  <TM_Grapple_II.label>Grappin</TM_Grapple_II.label>
+  <!-- EN: Forcefully hooks and yanks an opponent to the Gladiator, followed by a violent leg sweep, knocking the opponent down.\n		\nCasting time: .4s\nRange: 20 -->
+  <TM_Grapple_II.description>Accroche et tire avec force un adversaire au Gladiateur, suivi d'un violent balayage des jambes, mettant l'adversaire à terre.\n\nIncantation : 0.4s\nPortée : 20</TM_Grapple_II.description>
+  
+  <!-- EN: Grapple -->
+  <TM_Grapple_III.label>Grappin</TM_Grapple_III.label>
+  <!-- EN: Forcefully hooks and yanks an opponent to the Gladiator, followed by a violent leg sweep, knocking the opponent down.\n		\nCasting time: .2s\nRange: 23 -->
+  <TM_Grapple_III.description>Accroche et tire avec force un adversaire au Gladiateur, suivi d'un violent balayage des jambes, mettant l'adversaire à terre.\n\nIncantation : 0.2s\nPortée : 23</TM_Grapple_III.description>
+  
+  <!-- EN: Sprint -->
+  <TM_Sprint.label>Sprint</TM_Sprint.label>
+  <!-- EN: Activates or deactivates the sustained combat skill Sprint - greatly increases movement speed but causes exhaustion. Requires 30 Stamina to sustain and reduces stamina regen by 20%. -->
+  <TM_Sprint.description>Active ou désactive la compétence de combat maintenu Sprint - augmente considérablement la vitesse de déplacement mais provoque l'épuisement. Nécessite 30 d'endurance pour être maintenu et réduit la régénération de l'endurance de 20%.</TM_Sprint.description>
+  
+  <!-- EN: Sprint -->
+  <TM_Sprint_I.label>Sprint</TM_Sprint_I.label>
+  <!-- EN: Activates or deactivates the sustained combat skill Sprint - greatly increases movement speed but causes exhaustion. Requires 30 Stamina to sustain and reduces stamina regen by 20%.\n\nActivating sprint grants the user 10s of evasion (25% dodge chance) and 5s of adrenaline.\nDeactivating sprint instantly returns 20 stamina and applies 5s of +20% energy regeneration. -->
+  <TM_Sprint_I.description>Active ou désactive la compétence de combat maintenu Sprint - augmente considérablement la vitesse de déplacement mais provoque l'épuisement. Nécessite 30 d'endurance pour être maintenu et réduit la régénération de l'endurance de 20%.</TM_Sprint_I.description>
+  
+  <!-- EN: Sprint -->
+  <TM_Sprint_II.label>Sprint</TM_Sprint_II.label>
+  <!-- EN: Activates or deactivates the sustained combat skill Sprint - greatly increases movement speed but causes exhaustion. Requires 30 Stamina to sustain and reduces stamina regen by 20%.\n	\nActivating sprint grants the user 10s of 35% evasion, 8s of adrenaline, and all friendly pawns within 5 cells 10s of 25% evasion.\nDeactivating sprint instantly returns 35 stamina and applies 8s of +30% energy regeneration. -->
+  <TM_Sprint_II.description>Active ou désactive la compétence de combat maintenu Sprint - augmente considérablement la vitesse de déplacement mais provoque l'épuisement. Nécessite 30 d'endurance pour être maintenu et réduit la régénération de l'endurance de 20%.</TM_Sprint_II.description>
+  
+  <!-- EN: Sprint -->
+  <TM_Sprint_III.label>Sprint</TM_Sprint_III.label>
+  <!-- EN: Activates or deactivates the sustained combat skill Sprint - greatly increases movement speed but causes exhaustion. Requires 30 Stamina to sustain and reduces stamina regen by 20%.\n	\nActivating sprint grants the user 10s of 40% evasion, 10s of adrenaline, and all friendly pawns within 10 cells 10s of 30% evasion.\nDeactivating sprint instantly returns 40 stamina and applies 10s of +40% energy regeneration. -->
+  <TM_Sprint_III.description>Active ou désactive la compétence de combat maintenu Sprint - augmente considérablement la vitesse de déplacement mais provoque l'épuisement. Nécessite 30 d'endurance pour être maintenu et réduit la régénération de l'endurance de 20%.</TM_Sprint_III.description>
+  
+  <!-- EN: Whirlwind -->
+  <TM_Whirlwind.label>Tourbillon</TM_Whirlwind.label>
+  <!-- EN: The Gladiator launches into a frenzied attack, dancing forward in a furious whirlwind of steel and death. -->
+  <TM_Whirlwind.description>Le gladiateur se lance dans une attaque frénétique, dansant en avant dans un furieux tourbillon d'acier et de mort.</TM_Whirlwind.description>
+  
+</LanguageData>

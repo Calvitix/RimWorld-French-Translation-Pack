@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: energy efficiency -->
+  <TM_Golem_SilkEnergyEfficiency.label>Efficacité d'énergie</TM_Golem_SilkEnergyEfficiency.label>
+  <!-- EN: Increases energy efficiency by 8% per level. Starting energy efficiency is 40%. -->
+  <TM_Golem_SilkEnergyEfficiency.description>Augmente l'efficacité d'énergie de 8% par niveau. L'efficacité d'origine est de 40%.</TM_Golem_SilkEnergyEfficiency.description>
+  
+  <!-- EN: energy regeneration -->
+  <TM_Golem_SilkEnergyRate.label>Régénération d'énergie</TM_Golem_SilkEnergyRate.label>
+  <!-- EN: Increases energy charge rate by 10% per level. Starting recharge rate is 20 energy/hour. -->
+  <TM_Golem_SilkEnergyRate.description>Augmente le taux de recharge en énergie de 10% par niveau. Le taux de recharge de départ est de 20 énergie/heure.</TM_Golem_SilkEnergyRate.description>
+  
+  <!-- EN: frame tier -->
+  <TM_Golem_SilkLifeStage.label>Niveau du cadre</TM_Golem_SilkLifeStage.label>
+  <!-- EN: Increases stats:\nMovement:	+[20%/30%/40%]\nHealth:		+[20%/40%/60%] -->
+  <TM_Golem_SilkLifeStage.description>Augmente les statistiques :\nDéplacement : +[20%/30%/40%]\nSanté : +[20%/40%/60%]</TM_Golem_SilkLifeStage.description>
+  
+  <!-- EN: energy storage -->
+  <TM_Golem_SilkMaxEnergy.label>Stockage d'énergie</TM_Golem_SilkMaxEnergy.label>
+  <!-- EN: Increases maximum energy by 100 per level. Starting max energy is 300. -->
+  <TM_Golem_SilkMaxEnergy.description>Augmente l'énergie maximum de 100 par niveau. L'énergie maximum de départ est de 300.</TM_Golem_SilkMaxEnergy.description>
+  
+  <!-- EN: restore part -->
+  <TM_Golem_SilkRepair.label>Restauration d'une partie</TM_Golem_SilkRepair.label>
+  
+  <!-- EN: Skill Enhancement -->
+  <TM_Golem_SilkSkills.label>Niveau de compétence</TM_Golem_SilkSkills.label>
+  <!-- EN: Increases the skill levels of wardening by 1 per skill level. Starts with a skill of 7. -->
+  <TM_Golem_SilkSkills.description>Augmente le niveau de compétence de Geôlier de 1 par niveau de compétence. Commence avec une compétence de 7.</TM_Golem_SilkSkills.description>
+  
+</LanguageData>

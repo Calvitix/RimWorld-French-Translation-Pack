@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Affinity: Arcane -->
+  <TM_HollowGolem_AffinityArcane.label>affinité : Arcane</TM_HollowGolem_AffinityArcane.label>
+  <!-- EN: Enhances the golem's arcane alignment; magenta eye color. The arcane affinity provides the following benefits per upgrade level [1/2/3]\nMovement:	+[15/25/30]%\nHealth:	+[55/85/100]% -->
+  <TM_HollowGolem_AffinityArcane.description>Améliore l'alignement arcanique du golem ; couleur des yeux magenta. L'affinité avec les arcanes procure les avantages suivants par niveau d'amélioration  [1/2/3] :\nDéplacement : +[15/25/30]%\nSanté : +[55/85/100]%</TM_HollowGolem_AffinityArcane.description>
+  <!-- EN: applying elemental affinity -->
+  <TM_HollowGolem_AffinityArcane.jobString>applique l'affinité élémentaire.</TM_HollowGolem_AffinityArcane.jobString>
+  
+  <!-- EN: Affinity: Death -->
+  <TM_HollowGolem_AffinityDeath.label>affinité : Mort</TM_HollowGolem_AffinityDeath.label>
+  <!-- EN: Strengthens the golem's ties to death magic; green eye color. The death affinity provides the following benefits per upgrade level [1/2/3]\nMovement:	+[10/15/20]%\nHealth:	+[65/90/110]% -->
+  <TM_HollowGolem_AffinityDeath.description>Renforce les liens du golem avec la magie de la mort ; couleur des yeux verte. L'affinité avec la mort procure les avantages suivants par niveau d'amélioration [1/2/3] :\nDéplacement : +[10/15/20]%\nSanté : +[65/90/110]%</TM_HollowGolem_AffinityDeath.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_HollowGolem_AffinityDeath.jobString>améliore le golem.</TM_HollowGolem_AffinityDeath.jobString>
+  
+  <!-- EN: Affinity: Fire -->
+  <TM_HollowGolem_AffinityFire.label>affinité : Feu</TM_HollowGolem_AffinityFire.label>
+  <!-- EN: Strengthens the golem's ties to elemental fire; orange eye color. The fire affinity provides the following benefits per upgrade level [1/2/3]:\nMovement:	+[25/40/50]%\nHealth:	+[40/60/75]% -->
+  <TM_HollowGolem_AffinityFire.description>Renforce les liens du golem avec le feu élémentaire ; couleur des yeux orange. L'affinité avec le feu procure les avantages suivants par niveau d'amélioration [1/2/3] :\nDéplacement : +[25/40/50]%\nSanté : +[40/60/75]%</TM_HollowGolem_AffinityFire.description>
+  <!-- EN: applying elemental affinity -->
+  <TM_HollowGolem_AffinityFire.jobString>applique l'affinité élémentaire.</TM_HollowGolem_AffinityFire.jobString>
+  
+  <!-- EN: Affinity: Water -->
+  <TM_HollowGolem_AffinityIce.label>affinité : Eau</TM_HollowGolem_AffinityIce.label>
+  <!-- EN: Strengthens the golem's ties to elemental water; light blue eye color. The water affinity provides the following benefits per upgrade level [1/2/3]\nMovement:	+[20/30/35]%\nHealth:	+[50/75/90]% -->
+  <TM_HollowGolem_AffinityIce.description>Renforce les liens du golem avec l'eau élémentaire ; couleur des yeux bleu clair. L'affinité avec l'eau procure les avantages suivants par niveau d'amélioration [1/2/3] :\nDéplacement : +[20/30/35]%\nSanté : +[50/75/90]%</TM_HollowGolem_AffinityIce.description>
+  <!-- EN: applying elemental affinity -->
+  <TM_HollowGolem_AffinityIce.jobString>applique l'affinité élémentaire.</TM_HollowGolem_AffinityIce.jobString>
+  
+  <!-- EN: Hollowed Breastplate -->
+  <TM_HollowGolem_Armor.label>fabriquer un plastron d'armure animée</TM_HollowGolem_Armor.label>
+  <!-- EN: Upgrades the armor of the golem:\nBlunt:	+24%\nSharp:	+36%\nHeat:	+16%\nHit:	+12% -->
+  <TM_HollowGolem_Armor.description>Améliore l'armure du golem :\nContondant : +21%\nTranchant : +32%\nChaleur : +14%</TM_HollowGolem_Armor.description>
+  <!-- EN: crafting golem part -->
+  <TM_HollowGolem_Armor.jobString>fabrique la partie du golem.</TM_HollowGolem_Armor.jobString>
+  
+  <!-- EN: Hollowed Axe -->
+  <TM_HollowGolem_Axe.label>fabriquer une hache d'armure animée</TM_HollowGolem_Axe.label>
+  <!-- EN: Fuses a thrumbo axe to the arcane extremities of the hollow golem. When swung, this axe releases a wave of arcane energy that is capable cleaving through multiple foes and almost any armor. -->
+  <TM_HollowGolem_Axe.description>Fusionne avec la magie une hache thrumbo aux extrémités de l'armure animée. Lorsqu'elle est balancée, cette hache libère une vague d'énergie magique capable de fendre plusieurs ennemis et la plupart des armures.</TM_HollowGolem_Axe.description>
+  <!-- EN: crafting hollow axe -->
+  <TM_HollowGolem_Axe.jobString>fabrique la hache d'armure animée.</TM_HollowGolem_Axe.jobString>
+  
+  <!-- EN: Fade Cloak -->
+  <TM_HollowGolem_Cloak.label>fabriquer une cape de déplacement</TM_HollowGolem_Cloak.label>
+  <!-- EN: Equips the hollow golem with the Fade Cloak allowing it to instantly move to another location.\n	\nBlunt:	+12%\nSharp:	+6%\nHeat:	+18%\nHarmony: +10%\nMove Speed +1c/s\n\nAbility: Fade -->
+  <TM_HollowGolem_Cloak.description>Équipe l'armure animée de la cape de déplacement qui lui permet de se déplacer instantanément vers un autre endroit.\n\nContondant : +10%\nTranchant : +5%\nChaleur : +15%\nHarmonie : +5%\nVitesse de déplacement : +.4c/s\n\nCapacité : Disparition</TM_HollowGolem_Cloak.description>
+  <!-- EN: crafting golem part -->
+  <TM_HollowGolem_Cloak.jobString>fabrique la partie du golem.</TM_HollowGolem_Cloak.jobString>
+  
+  <!-- EN: Coat of Arms: Arcane -->
+  <TM_HollowGolem_CoAArcane.label>blason : Arcane</TM_HollowGolem_CoAArcane.label>
+  <!-- EN: Outfits the hollow golem with an arcane attuned coat of arms which provides the following benefits per upgrade level [1/2/3]:\nAbility Cooldown:	-[12%/24%/36%]\nAbility Damage:	+[10%/20%/30%]\nProcessing: 	+[15%/30%/45%]\nDamage Reduction:	[85%/80%/75%]\n\nIn addition, decay touch restores 20 + 5*level energy per hit. -->
+  <TM_HollowGolem_CoAArcane.description>Équipe l'armure animée d'un blason accordé aux arcanes qui lui confère les avantages suivants par niveau d'amélioration [1/2/3] :\nTemps de recharge : -[12%/24%/36%]\nDégâts de capacité : +[10%/20%/30%]\nTraitement : +[15%/30%/45%]\n\nDe plus, le toucher de décomposition restaure 20 + 5*niveau d'énergie par touche.</TM_HollowGolem_CoAArcane.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_HollowGolem_CoAArcane.jobString>améliore le golem.</TM_HollowGolem_CoAArcane.jobString>
+  
+  <!-- EN: Coat of Arms: Death -->
+  <TM_HollowGolem_CoADeath.label>blason : Mort</TM_HollowGolem_CoADeath.label>
+  <!-- EN: Outfits the hollow golem with a death attuned coat of arms which provides the following benefits per upgrade level [1/2/3]:\nArmor:	+[5%/10%/15%]\nAbility Cooldown:	-[8%/16%/24%]\nAbility Damage:	+[10%/20%/30%]\nProcessing:	-[5%/10%/15%]\nDamage Reduction:	[85%/80%/75%]\n\nIn addition, decay touch is 50% more effective and strikes twice. -->
+  <TM_HollowGolem_CoADeath.description>Équipe l'armure animée d'un blason accordé à la mort qui procure les avantages suivants par niveau d'amélioration [1/2/3] :\nArmure : +[5%/10%/15%]\nTemps de recharge :  -[8%/16%/24%]\nDégâts de capacité : +[10%/20%/30%]\nTraitement : -[5%/10%/15%]\n\nDe plus, le toucher de décomposition est 50% plus efficace et frappe deux fois.</TM_HollowGolem_CoADeath.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_HollowGolem_CoADeath.jobString>améliore le golem.</TM_HollowGolem_CoADeath.jobString>
+  
+  <!-- EN: Coat of Arms: Fire -->
+  <TM_HollowGolem_CoAFire.label>blason : Feu</TM_HollowGolem_CoAFire.label>
+  <!-- EN: Outfits the hollow golem with a fire attuned coat of arms which provides the following benefits per upgrade level [1/2/3]:\nMovement:	+[0.2c/0.3c/0.35c]\nHeat Armor:	+[30%/50%/60%]\nProcessing:	+[10%/20%/30%]\nCooldown: 	-[10%/20%/30%]\nDamage Reduction:	[85%/80%/75%]\n\nIn addition, decay touch deals bonus burn damage and the golem can absorb nearby fire to restore health. -->
+  <TM_HollowGolem_CoAFire.description>Équipe l'armure animée d'un blason accordé au feu qui procure les avantages suivants par niveau d'amélioration :\nDéplacement : +[0.2c/0.3c/0.35c]\nArmure thermique : +[30%/50%/60%]\nTraitement : +[10%/20%/30%]\nTemps de recharge : -[10%/20%/30%]\n\nDe plus, le toucher de décomposition inflige des dégâts de brûlure bonus et le golem peut absorber le feu à proximité pour restaurer sa santé.</TM_HollowGolem_CoAFire.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_HollowGolem_CoAFire.jobString>améliore le golem.</TM_HollowGolem_CoAFire.jobString>
+  
+  <!-- EN: Coat of Arms: Water -->
+  <TM_HollowGolem_CoAIce.label>blason : Eau</TM_HollowGolem_CoAIce.label>
+  <!-- EN: Outfits the hollow golem with a water attuned coat of arms which provides the following benefits per upgrade level [1/2/3]:\nArmor:		+[5%/10%/15%]\nAbility Cooldown:	-[10%/20%/30%]\nProcessing:	+[10%/20%/30%]\nDamage Reduction:	[85%/80%/75%]\n\nIn addition, decay touch heals the golem and one friendly pawn within 10 + 3*level cells for 10 + 4*level health. -->
+  <TM_HollowGolem_CoAIce.description>Équipe l'armure animée d'un blason accordé à l'eau qui procure les avantages suivants par niveau d'amélioration [1/2/3] :\nArmure : +[5%/10%/15%]\nTemps de recharge : -[10%/20%/30%]\nTraitement : +[10%/20%/30%]\n\nDe plus, le toucher de décomposition guérit le golem et un colon ami dans un rayon de 10 + 3*niveaux pour 10 + 4*niveaux de santé.</TM_HollowGolem_CoAIce.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_HollowGolem_CoAIce.jobString>améliore le golem.</TM_HollowGolem_CoAIce.jobString>
+  
+  <!-- EN: Crown of Awakening -->
+  <TM_HollowGolem_Crown.label>fabriquer une couronne d'éveil</TM_HollowGolem_Crown.label>
+  <!-- EN: Equips the hollow golem with the Crown of Awakening which allows it to detect and nullify magic of enemy pawns. -->
+  <TM_HollowGolem_Crown.description>Équipe l'armure animée de la couronne de l'Éveil qui lui permet de détecter et d'annuler la magie des autres colons.</TM_HollowGolem_Crown.description>
+  <!-- EN: crafting golem part -->
+  <TM_HollowGolem_Crown.jobString>fabrique la partie du golem.</TM_HollowGolem_Crown.jobString>
+  
+  <!-- EN: mana cell -->
+  <TM_HollowGolem_EnergyCell.label>fabriquer une cellule de mana</TM_HollowGolem_EnergyCell.label>
+  <!-- EN: Creates a mana pocket for storing additional mana. -->
+  <TM_HollowGolem_EnergyCell.description>Créer une cellule de mana pour stocker du mana supplémentaire.</TM_HollowGolem_EnergyCell.description>
+  <!-- EN: creating mana pocket -->
+  <TM_HollowGolem_EnergyCell.jobString>fabrique la cellule de mana.</TM_HollowGolem_EnergyCell.jobString>
+  
+  <!-- EN: mana polarity -->
+  <TM_HollowGolem_EnergyCharge.label>polarisation du mana</TM_HollowGolem_EnergyCharge.label>
+  <!-- EN: Increases the mana regeneration rate of the golem by 6 per hour. -->
+  <TM_HollowGolem_EnergyCharge.description>Augmente le taux de régénération du mana du golem de 6 par heure.</TM_HollowGolem_EnergyCharge.description>
+  <!-- EN: aligning mana polarities -->
+  <TM_HollowGolem_EnergyCharge.jobString>aligne les polarités du mana</TM_HollowGolem_EnergyCharge.jobString>
+  
+  <!-- EN: mana converter -->
+  <TM_HollowGolem_EnergyConverter.label>fabriquer un convertisseur de mana</TM_HollowGolem_EnergyConverter.label>
+  <!-- EN: Increases the efficiency of mana absorbed and used by the golem by 10%. -->
+  <TM_HollowGolem_EnergyConverter.description>Augmente de 10% l'efficacité du mana absorbé et utilisé par le golem.</TM_HollowGolem_EnergyConverter.description>
+  <!-- EN: crafting mana filter -->
+  <TM_HollowGolem_EnergyConverter.jobString>fabrique le convertisseur de mana.</TM_HollowGolem_EnergyConverter.jobString>
+  
+  <!-- EN: Focus Gem: Arcane -->
+  <TM_HollowGolem_FGArcane.label>gemme de focalisation : Arcane</TM_HollowGolem_FGArcane.label>
+  <!-- EN: Adorns the hollow golem with a gem containing condense arcane energy, allowing it to create a concentrated bolt of dark energy. Darkbolt targets enemies up to 120 cells away. Costs 50 energy. Dark bolts are slow moving but create a massive explosion of dark energy. Only one focus gem may be attached to a golem. -->
+  <TM_HollowGolem_FGArcane.description>Orne l'armure animée d'une gemme contenant de l'énergie des arcanes condensée, lui permettant de créer un éclair concentré d'énergie noire. L'éclair d'ombre cible les ennemis jusqu'à 100 cases de distance. Coûts 80 énergie. Une seule gemme de focalisation peut être attachée à un golem.</TM_HollowGolem_FGArcane.description>
+  <!-- EN: crafting golem part -->
+  <TM_HollowGolem_FGArcane.jobString>fabrique la partie du golem.</TM_HollowGolem_FGArcane.jobString>
+  
+  <!-- EN: Focus Gem: Death -->
+  <TM_HollowGolem_FGDeath.label>gemme de focalisation : Mort</TM_HollowGolem_FGDeath.label>
+  <!-- EN: Adorns the hollow golem with a gem containing death's essence, surrounding the golem with a field radiating death. Death Field periodically strikes nearby enemies. This ability is the only focus gem that does not require casting. Targets enemies within 10 cells of the golem and costs 10 energy per strike. Only one focus gem may be attached to a golem. -->
+  <TM_HollowGolem_FGDeath.description>Orne l'armure animée d'une gemme contenant l'essence de la mort, entourant le golem d'un champ rayonnant de mort. Le champ de mort frappe périodiquement les ennemis proches. Cette capacité est la seule gemme de focalisation qui ne nécessite pas d'incantation. Cible les ennemis situés dans un rayon de 10 cases autour du golem. Coûte 20 points d'énergie mais permet de gagner une attaque gratuite pour tout colon qui meurt dans le champ. Une seule gemme de focalisation peut être attachée à un golem.</TM_HollowGolem_FGDeath.description>
+  <!-- EN: crafting golem part -->
+  <TM_HollowGolem_FGDeath.jobString>fabrique la partie du golem.</TM_HollowGolem_FGDeath.jobString>
+  
+  <!-- EN: Focus Gem: Fire -->
+  <TM_HollowGolem_FGFire.label>gemme de focalisation : Feu</TM_HollowGolem_FGFire.label>
+  <!-- EN: Adorns the hollow golem with a fire element focus gem allowing it to use the fire blossom ability. Fire blossom creates 25 explosive firebolts and targets a cluster of enemies from 6 to 70 cells away. Consumes 20 energy. Only one focus gem may be attached. -->
+  <TM_HollowGolem_FGFire.description>Orne l'armure animée d'une gemme contenant du feu élémentaire lui permettant d'utiliser la capacité Fleur de feu. Fleur de feu crée 25 boules de feu explosives et cible un groupe d'ennemis de 6 à 50 cases. Consomme 40 d'énergie. Les cibles peuvent prendre feu. Une seule gemme de focalisation peut être attachée.</TM_HollowGolem_FGFire.description>
+  <!-- EN: crafting golem part -->
+  <TM_HollowGolem_FGFire.jobString>fabrique la partie du golem.</TM_HollowGolem_FGFire.jobString>
+  
+  <!-- EN: Focus Gem: Ice -->
+  <TM_HollowGolem_FGIce.label>gemme de focalisation : Glace</TM_HollowGolem_FGIce.label>
+  <!-- EN: Adorns the hollow golem with a gem containing elemental water allowing it to use the ice blossom ability. Ice Blossom creates a burst of 20 ice shards and targets a cluster of enemies from 8 to 80 cells away. Costs 30 energy. Ice shards inflict high amounts of bleeding and work best on concentrated, lightly armored targets. Only one focus gem may be attached to a golem. -->
+  <TM_HollowGolem_FGIce.description>Orne l'armure animée d'une gemme contenant de l'eau élémentaire lui permettant d'utiliser la capacité Fleur de glace. Fleur de glace crée une rafale de 20 éclats de glace et cible un groupe d'ennemis à une distance de 8 à 60 cases. Coûte 60 points d'énergie. Les éclats de glace infligent des saignements importants. Une seule gemme de focalisation peut être attachée à un golem.</TM_HollowGolem_FGIce.description>
+  <!-- EN: crafting golem part -->
+  <TM_HollowGolem_FGIce.jobString>fabrique la partie du golem.</TM_HollowGolem_FGIce.jobString>
+  
+  <!-- EN: Flames of Devouring Apathy -->
+  <TM_HollowGolem_FlamesOfDevouringApathy.label>flammes de l'apathie dévorante</TM_HollowGolem_FlamesOfDevouringApathy.label>
+  <!-- EN: The Flames of Devouring Apathy grant a hollow golem the ability to regulate temperature. The flames will also consume any filth within 25 cells and emit a faint mystical light. These effect are only active while the hollow golem is dormant. The flames of devouring apathy and orb of extinguishing flames cannot be used together, these two upgrades share the same component slot. -->
+  <TM_HollowGolem_FlamesOfDevouringApathy.description>Les flammes de l'apathie dévorante confèrent à l'armure animée la capacité de réguler la température. Les flammes consument également toute saleté dans les 25 cases et émettent une faible lumière mystique. Ces effets ne sont actifs que lorsque l'armure animée est en sommeil. Les flammes d'apathie dévorante et l'orbe de flammes extinctrices ne peuvent pas être utilisés ensemble, ces deux améliorations partagent le même emplacement de composant.</TM_HollowGolem_FlamesOfDevouringApathy.description>
+  <!-- EN: crafting golem part -->
+  <TM_HollowGolem_FlamesOfDevouringApathy.jobString>fabrique la partie du golem.</TM_HollowGolem_FlamesOfDevouringApathy.jobString>
+  
+  <!-- EN: Hollowed Helm -->
+  <TM_HollowGolem_Helm.label>fabriquer un casque d'armure animée</TM_HollowGolem_Helm.label>
+  <!-- EN: Increases armor of the golem by protecting the head:\nBlunt:	+26%\nSharp:	+9%\nHeat:	+11%\nHit:	+15% -->
+  <TM_HollowGolem_Helm.description>Augmente l'armure du golem qui protège sa tête :\nContondant : +22%\nTranchant : +7%\nChaleur : +9%</TM_HollowGolem_Helm.description>
+  <!-- EN: crafting golem part -->
+  <TM_HollowGolem_Helm.jobString>fabrique la partie du golem.</TM_HollowGolem_Helm.jobString>
+  
+  <!-- EN: Orb of Extinguished Flames -->
+  <TM_HollowGolem_OrbOfExtinguishedFlames.label>orbe de flammes extinctrices</TM_HollowGolem_OrbOfExtinguishedFlames.label>
+  <!-- EN: Equipping the hollow golem with the Orb of Extinguished Flames allows it to peek behind the veil of death to extract knowledge. Points into the active research technology will increase for every pawn killed on the map. The orb can also be toggled to detect and consume any fire within 25 cells and emits a faint silver light. These effect are only active while the hollow golem is dormant. The flames of devouring apathy and orb of extinguishing flames cannot be used together, these two upgrades share the same component slot. -->
+  <TM_HollowGolem_OrbOfExtinguishedFlames.description>Équiper l'armure animée de l'orbe de flammes extinctrices lui permet de voir derrière le voile de la mort pour en extraire des connaissances. Les points dans la technologie de recherche active augmenteront pour chaque colon tué sur la carte. L'orbe peut également être activé pour détecter et consumer tout feu dans un rayon de 25 cases et émet une faible lumière argentée. Ces effets ne sont actifs que lorsque l'armure animée est en sommeil. Les flammes de l'apathie dévorante et l'orbe des flammes extinctrices ne peuvent pas être utilisés ensemble, ces deux améliorations partagent le même emplacement de composant.</TM_HollowGolem_OrbOfExtinguishedFlames.description>
+  <!-- EN: crafting golem part -->
+  <TM_HollowGolem_OrbOfExtinguishedFlames.jobString>fabrique la partie du golem.</TM_HollowGolem_OrbOfExtinguishedFlames.jobString>
+  
+  <!-- EN: Protection Gem: Arcane -->
+  <TM_HollowGolem_PGArcane.label>gemme de protection : Arcane</TM_HollowGolem_PGArcane.label>
+  <!-- EN: Equips the golem with a arcane amulet which enables the Well of Despair ability. Well of Despair encases an area in a reverse shield which allows projectiles in but blocks projectiles from exiting. -->
+  <TM_HollowGolem_PGArcane.description>Équipe le golem d'une amulette des arcanes qui active la capacité Puits du désespoir. Le Puits du désespoir encercle une zone dans un bouclier inversé qui permet aux projectiles d'entrer mais les empêche de sortir.</TM_HollowGolem_PGArcane.description>
+  <!-- EN: crafting golem part -->
+  <TM_HollowGolem_PGArcane.jobString>fabrique la partie du golem.</TM_HollowGolem_PGArcane.jobString>
+  
+  <!-- EN: Protection Gem: Death -->
+  <TM_HollowGolem_PGDeath.label>gemme de protection : Mort</TM_HollowGolem_PGDeath.label>
+  <!-- EN: Equips the golem with a death amulet which surrounds the golem with an aura of death. Nearby enemies can be stricken with a curse that degrades their willpower and ability to fight. -->
+  <TM_HollowGolem_PGDeath.description>Équipe le golem d'une amulette de mort qui entoure le golem d'une aura de mort. Les ennemis proches peuvent être frappés d'une malédiction qui dégrade leur volonté et leur capacité à se battre.</TM_HollowGolem_PGDeath.description>
+  <!-- EN: crafting golem part -->
+  <TM_HollowGolem_PGDeath.jobString>fabrique la partie du golem.</TM_HollowGolem_PGDeath.jobString>
+  
+  <!-- EN: Protection Gem: Death's Abyss -->
+  <TM_HollowGolem_PGDoom.label>gemme de protection : Abîme de la mort</TM_HollowGolem_PGDoom.label>
+  <!-- EN: Equips the golem with a death's abyss amulet which slows nearby enemies in a movement debilitating field. This effect can trigger every 15s and effects enemies within 30 cells. -->
+  <TM_HollowGolem_PGDoom.description>Équipe le golem d'une amulette abîme de la mort qui ralentit les ennemis proches dans un champ affaiblissant les mouvements. Cet effet peut se déclencher toutes les 15s et affecte les ennemis dans un rayon de 30 cases.</TM_HollowGolem_PGDoom.description>
+  <!-- EN: crafting golem part -->
+  <TM_HollowGolem_PGDoom.jobString>fabrique la partie du golem.</TM_HollowGolem_PGDoom.jobString>
+  
+  <!-- EN: Protection Gem: Fire -->
+  <TM_HollowGolem_PGFire.label>gemme de protection : Feu</TM_HollowGolem_PGFire.label>
+  <!-- EN: Equips the golem with a fire amulet which provides a protective fire ward. Burning Fury provides a 35% damage reduction to all attacks, cauterizes wounds, prevents being staggered, and burns nearby enemies. Only one protection gem may be worn.\n	\nCooldown:	1200s\nDuration:	100s\nEnergy Cost:	50 -->
+  <TM_HollowGolem_PGFire.description>Équipe le golem d'une amulette de feu qui lui confère une protection contre le feu. Fureur ardente réduit de 35% les dégâts de toutes les attaques, cautérise les blessures, empêche d'être étourdi et brûle les ennemis proches. Une seule gemme de protection peut être portée.\n\nTemps de recharge : 1200s\nDurée : 100s\nCoûts en énergie : 50</TM_HollowGolem_PGFire.description>
+  <!-- EN: crafting golem part -->
+  <TM_HollowGolem_PGFire.jobString>fabrique la partie du golem.</TM_HollowGolem_PGFire.jobString>
+  
+  <!-- EN: Protection Gem: Water -->
+  <TM_HollowGolem_PGWater.label>gemme de protection : Eau</TM_HollowGolem_PGWater.label>
+  <!-- EN: Equips the golem with a water amulet which enables the golem to evade attacks. The chance to evade an attack is proportional to the golem's energy percent and reduces the golem's energy by 5 for each evasion. -->
+  <TM_HollowGolem_PGWater.description>Équipe le golem d'une amulette d'eau qui permet au golem d'éviter les attaques. Les chances d'esquiver une attaque sont proportionnelles au pourcentage d'énergie du golem et réduisent l'énergie du golem de 5 pour chaque esquive.</TM_HollowGolem_PGWater.description>
+  <!-- EN: crafting golem part -->
+  <TM_HollowGolem_PGWater.jobString>fabrique la partie du golem.</TM_HollowGolem_PGWater.jobString>
+  
+  <!-- EN: Part restoration -->
+  <TM_HollowGolem_RepairComponent.label>restaurer une partie du corps</TM_HollowGolem_RepairComponent.label>
+  <!-- EN: Replaces missing golem parts that do not require an upgrade. -->
+  <TM_HollowGolem_RepairComponent.description>Remplace les pièces manquantes des golems qui ne nécessitent pas d'amélioration.</TM_HollowGolem_RepairComponent.description>
+  <!-- EN: crafting golem part -->
+  <TM_HollowGolem_RepairComponent.jobString>restaure une partie du corps.</TM_HollowGolem_RepairComponent.jobString>
+  
+  <!-- EN: Hollowed Shoulder Guards -->
+  <TM_HollowGolem_Shoulder.label>fabriquer des épaulières d'armure animée</TM_HollowGolem_Shoulder.label>
+  <!-- EN: Increases armor of the golem with armor that protects the shoulders and neck:\nBlunt:	+10%\nSharp:	+23%\nHeat:	+7%\nHit:	+8% -->
+  <TM_HollowGolem_Shoulder.description>Augmente l'armure du golem qui protège ses épaules et son cou :\nContondant : +8%\nTranchant : +19%\nChaleur : +6%</TM_HollowGolem_Shoulder.description>
+  <!-- EN: crafting golem part -->
+  <TM_HollowGolem_Shoulder.jobString>fabrique la partie du golem.</TM_HollowGolem_Shoulder.jobString>
+  
+  <!-- EN: Hollowed Staff -->
+  <TM_HollowGolem_Staff.label>fabriquer un bâton d'armure animée</TM_HollowGolem_Staff.label>
+  <!-- EN: Fuses a staff of blazing power and staff of the defender to the hollow golem, creating the hollowed staff. The hollow golem can use this staff to launch magical projectiles without consuming energy. -->
+  <TM_HollowGolem_Staff.description>Fusionne un bâton de puissance flamboyante et un bâton de défenseur avec l'armure animée, créant ainsi un bâton d'armure animée. L'armure animée peut utiliser ce bâton pour lancer des projectiles magiques sans consommer d'énergie.</TM_HollowGolem_Staff.description>
+  <!-- EN: crafting hollow staff -->
+  <TM_HollowGolem_Staff.jobString>fabrique le bâton d'armure animée.</TM_HollowGolem_Staff.jobString>
+  
+</LanguageData>

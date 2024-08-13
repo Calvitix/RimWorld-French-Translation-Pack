@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>firstPart->void-</li>
+    <li>firstPart->null-</li>
+    <li>firstPart->hidden-</li>
+    <li>firstPart->star-</li>
+    <li>firstPart->link-</li>
+    <li>firstPart->soul-</li>
+    <li>firstPart->spirit-</li>
+    <li>firstPart->mind-</li>
+    <li>secondPart->master</li>
+    <li>secondPart->seeker</li>
+    <li>secondPart->touched</li>
+    <li>secondPart->caller</li>
+    <li>secondPart->searcher</li>
+    <li>secondPart->manipulator</li>
+    <li>secondPart->culler</li>
+    <li>secondPart->eraser</li>
+    <li>secondPart->mind</li>
+    <li>secondPart->whisperer</li>
+    <li>secondPart->bringer</li>
+    <li>secondPart->speaker</li>
+    <li>secondPart->steward</li>
+    <li>secondPart->slave</li>
+    <li>secondPart->being</li>
+    <li>secondPart->one</li>
+    <li>secondPart->guide</li>
+  -->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings>
+    <li>r_roleName(p=7)->[secondPart][firstPart]</li>
+    <li>firstPart->du vide-</li>
+    <li>firstPart->zéro-</li>
+    <li>firstPart->caché-</li>
+    <li>firstPart->des étoiles-</li>
+    <li>firstPart->du lien-</li>
+    <li>firstPart->des âmes-</li>
+    <li>firstPart->des esprits-</li>
+    <li>firstPart->d'esprit</li>
+    <li>secondPart->maître</li>
+    <li>secondPart->chercheur</li>
+    <li>secondPart->touché</li>
+    <li>secondPart->appel</li>
+    <li>secondPart->chercheur</li>
+    <li>secondPart->manipulateur</li>
+    <li>secondPart->broyeur</li>
+    <li>secondPart->effaceur</li>
+    <li>secondPart->esprit</li>
+    <li>secondPart->murmureur</li>
+    <li>secondPart->dissimulateur</li>
+    <li>secondPart->orateur</li>
+    <li>secondPart->steward</li>
+    <li>secondPart->esclave</li>
+    <li>secondPart->être</li>
+    <li>secondPart->un</li>
+    <li>secondPart->guide</li>
+  </TM_NamerRoleVoidseeker.rulePack.rulesStrings>
+  
+</LanguageData>

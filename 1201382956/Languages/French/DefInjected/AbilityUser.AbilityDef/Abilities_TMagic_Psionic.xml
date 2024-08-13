@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Psionic Augmentation -->
+  <TM_PsionicAugmentation.label>Augmentation psionique</TM_PsionicAugmentation.label>
+  <!-- EN: Psionic power is a physical manifestation of mental energy in the form of kinetic or potential energy. A Psionic is able to utilize this power most efficiently by directing it throughout their body to reinforce physical action.\n	\nA well trained psionic is able to achieve incredible physical feats using a blend of psionic and physical strength. Psionic augmentation becomes second nature and occurs naturally both in and out of combat. -->
+  <TM_PsionicAugmentation.description>Le pouvoir psionique est une manifestation physique de l'énergie mentale sous forme d'énergie cinétique ou potentielle. Un psionique est capable d'utiliser ce pouvoir de la manière la plus efficace en le dirigeant à travers son corps pour renforcer l'action physique.\n\nUn psionique bien entraîné est capable de réaliser des exploits physiques incroyables en utilisant un mélange de force psionique et physique. L'augmentation psionique devient une seconde nature et se produit naturellement en combat et hors combat.</TM_PsionicAugmentation.description>
+  
+  <!-- EN: Psionic Barrier -->
+  <TM_PsionicBarrier.label>Barrière psionique</TM_PsionicBarrier.label>
+  <!-- EN: The Psionic forms a psychic barrier that repels kinetic energy in a small area around the user. Using this ability requires constant concentration in order to maintain the barrier and the Psionic will be unable to perform any other action while this is active.\n\nThis ability requires 2 points to level. -->
+  <TM_PsionicBarrier.description>Le psionique forme une barrière psychique qui repousse l'énergie cinétique dans une petite zone autour de l'utilisateur. L'utilisation de cette capacité nécessite une concentration constante afin de maintenir la barrière et le psionique sera incapable d'effectuer toute autre action tant qu'elle sera active.\n\nCette capacité nécessite 2 points pour être mise à niveau.</TM_PsionicBarrier.description>
+  
+  <!-- EN: Psionic Barrier -->
+  <TM_PsionicBarrier_Projected.label>Barrière psionique</TM_PsionicBarrier_Projected.label>
+  <!-- EN: The Psionic forms a psychic barrier that repels kinetic energy in a small area around the user. Using this ability requires constant concentration in order to maintain the barrier and the Psionic will be unable to perform any other action while this is active.\n\nThis barrier can be projected to a designation location. -->
+  <TM_PsionicBarrier_Projected.description>Le psionique forme une barrière psychique qui repousse l'énergie cinétique dans une petite zone autour de l'utilisateur. L'utilisation de cette capacité nécessite une concentration constante afin de maintenir la barrière et le psionique sera incapable d'effectuer toute autre action tant qu'elle sera active.\n\nCette barrière peut être projetée vers un lieu désigné.</TM_PsionicBarrier_Projected.description>
+  
+  <!-- EN: Psionic Blast -->
+  <TM_PsionicBlast.label>Déflagration psionique</TM_PsionicBlast.label>
+  <!-- EN: Projects volatile psionic energy that creates a small detonation when it collides with a physical object. Up to five bursts may be projected, depending on how much energy is available to the psionic.\n		\nCast time: 	2s\nCooldown:	12s\nRange:		28 -->
+  <TM_PsionicBlast.description>Projeter de l'énergie psionique volatile qui crée une petite détonation lorsqu'elle entre en collision avec un objet physique. Jusqu'à cinq détonations peuvent être projetées, en fonction de la quantité d'énergie disponible pour le psionique.\n\nIncantation : 2s\nTemps de recharge : 12s\nPortée : 28</TM_PsionicBlast.description>
+  
+  <!-- EN: Psionic Blast I -->
+  <TM_PsionicBlast_I.label>Déflagration psionique</TM_PsionicBlast_I.label>
+  <!-- EN: Projects volatile psionic energy that creates a small detonation when it collides with a physical object. Up to five bursts may be projected, depending on how much energy is available to the psionic.\n		\nCast time: 	1.6s\nCooldown:	10s\nRange:		34 -->
+  <TM_PsionicBlast_I.description>Projeter de l'énergie psionique volatile qui crée une petite détonation lorsqu'elle entre en collision avec un objet physique. Jusqu'à cinq détonations peuvent être projetées, en fonction de la quantité d'énergie disponible pour le psionique.\n\nIncantation : 1.6s\nTemps de recharge : 10s\nPortée : 34</TM_PsionicBlast_I.description>
+  
+  <!-- EN: Psionic Blast II -->
+  <TM_PsionicBlast_II.label>Déflagration psionique</TM_PsionicBlast_II.label>
+  <!-- EN: Projects volatile psionic energy that creates a small detonation when it collides with a physical object. Up to five bursts may be projected, depending on how much energy is available to the psionic.\n		\nCast time: 	1.2s\nCooldown:	8s\nRange:		40 -->
+  <TM_PsionicBlast_II.description>Projeter de l'énergie psionique volatile qui crée une petite détonation lorsqu'elle entre en collision avec un objet physique. Jusqu'à cinq détonations peuvent être projetées, en fonction de la quantité d'énergie disponible pour le psionique.\n\nIncantation : 1.2s\nTemps de recharge : 8s\nPortée : 40</TM_PsionicBlast_II.description>
+  
+  <!-- EN: Psionic Blast III -->
+  <TM_PsionicBlast_III.label>Déflagration psionique</TM_PsionicBlast_III.label>
+  <!-- EN: Projects volatile psionic energy that creates a small detonation when it collides with a physical object. Up to five bursts may be projected, depending on how much energy is available to the psionic.\n		\nCast time: 	.8s\nCooldown:	6s\nRange:		46 -->
+  <TM_PsionicBlast_III.description>Projeter de l'énergie psionique volatile qui crée une petite détonation lorsqu'elle entre en collision avec un objet physique. Jusqu'à cinq détonations peuvent être projetées, en fonction de la quantité d'énergie disponible pour le psionique.\n\nIncantation : 0.8s\nTemps de recharge : 6s\nPortée : 46</TM_PsionicBlast_III.description>
+  
+  <!-- EN: Psionic Dash -->
+  <TM_PsionicDash.label>Célérité psionique</TM_PsionicDash.label>
+  <!-- EN: The Psionic infuses their body with an overwhelming amount of energy and uses it to propel themselves in a rapid burst of movement. Each step emits shockwaves of energy. -->
+  <TM_PsionicDash.description>Le psionique insuffle à son corps une quantité écrasante d'énergie et l'utilise pour se propulser dans un mouvement rapide. Chaque pas émet des ondes de choc d'énergie.</TM_PsionicDash.description>
+  
+  <!-- EN: Psionic Storm -->
+  <TM_PsionicStorm.label>Tempête psionique</TM_PsionicStorm.label>
+  <!-- EN: The Psionic lets down all mental barriers and unleashes their unrestrained psionic power. Due to the nature of this attack, the psionic will expend a tremendous amount of energy and will be left vulnerable, unable to exert psionic power, for a period following the attack. -->
+  <TM_PsionicStorm.description>Le psionique fait tomber toutes les barrières mentales et libère sa puissance psionique sans retenue. En raison de la nature de cette attaque, le psionique dépense une énorme quantité d'énergie et reste vulnérable, incapable d'exercer son pouvoir psionique, pendant un certain temps après l'attaque.</TM_PsionicStorm.description>
+  
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Demon -->
+  <TM_DemonR.label>démon</TM_DemonR.label>
+  <!-- EN: Released from the pits of hell, this demon will unleash its unfettered malice upon any and all beings in its path. There is no reasoning or subjugating the demon; destroy it or be destroyed. -->
+  <TM_DemonR.description>Libéré des fosses de l'enfer, ce démon va déchaîner sa malice sur tous les êtres qui se trouvent sur son chemin. Il n'y a aucun moyen de raisonner ou de subjuguer le démon ; détruisez-le ou soyez détruit.</TM_DemonR.description>
+  <!-- EN: demon flesh -->
+  <TM_DemonR.race.meatLabel>chair de démon</TM_DemonR.race.meatLabel>
+  <!-- EN: left claw -->
+  <TM_DemonR.tools.left_claw.label>griffe gauche</TM_DemonR.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <TM_DemonR.tools.right_claw.label>griffe droite</TM_DemonR.tools.right_claw.label>
+  <!-- EN: hoof -->
+  <TM_DemonR.tools.hoof.label>sabot</TM_DemonR.tools.hoof.label>
+  
+  <!-- EN: Lesser Demon -->
+  <TM_LesserDemonR.label>démon mineur</TM_LesserDemonR.label>
+  <!-- EN: Released from the pits of hell, this lesser demon will unleash its unfettered malice upon any and all beings in its path. There is no reasoning or subjugating the demon; destroy it or be destroyed. -->
+  <TM_LesserDemonR.description>Libéré des fosses de l'enfer, ce petit démon déchaîne sa malice sur tous les êtres qui se trouvent sur son chemin. Il n'y a aucun moyen de raisonner ou de subjuguer le démon ; détruisez-le ou soyez détruit.</TM_LesserDemonR.description>
+  <!-- EN: demon flesh -->
+  <TM_LesserDemonR.race.meatLabel>chair de démon</TM_LesserDemonR.race.meatLabel>
+  <!-- EN: left claw -->
+  <TM_LesserDemonR.tools.left_claw.label>griffe gauche</TM_LesserDemonR.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <TM_LesserDemonR.tools.right_claw.label>griffe droite</TM_LesserDemonR.tools.right_claw.label>
+  <!-- EN: hoof -->
+  <TM_LesserDemonR.tools.hoof.label>sabot</TM_LesserDemonR.tools.hoof.label>
+  
+</LanguageData>

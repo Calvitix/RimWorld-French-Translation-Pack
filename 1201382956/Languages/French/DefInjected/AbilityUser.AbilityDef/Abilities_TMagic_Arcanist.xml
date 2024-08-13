@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Blink -->
+  <TM_Blink.label>Transfert</TM_Blink.label>
+  <!-- EN: Instantly moves the caster to the target location.\n		\nCasting time: .5s\nRecharge time: 10s\nRange: 30 -->
+  <TM_Blink.description>Déplace instantanément le lanceur de sorts vers l'endroit ciblé.\n\nIncantation : 0,5s\nTemps de recharge : 10s\nPortée : 30</TM_Blink.description>
+  
+  <!-- EN: Blink -->
+  <TM_Blink_I.label>Transfert</TM_Blink_I.label>
+  <!-- EN: Instantly moves the caster to the target location.\n		\nCasting time: .3s\nRecharge time: 8s\nRange: 50 -->
+  <TM_Blink_I.description>Déplace instantanément le lanceur de sorts vers l'endroit ciblé.\n\nIncantation : 0.3s\nTemps de recharge : 8s\nPortée : 50</TM_Blink_I.description>
+  
+  <!-- EN: Blink -->
+  <TM_Blink_II.label>Transfert</TM_Blink_II.label>
+  <!-- EN: Instantly moves the caster to the target location.\n		\nCasting time: .1s\nRecharge time: 6s\nRange: 70 -->
+  <TM_Blink_II.description>Déplace instantanément le lanceur de sorts vers l'endroit ciblé.\n\nIncantation : 0.1s\nTemps de recharge : 6s\nPortée : 70</TM_Blink_II.description>
+  
+  <!-- EN: Blink -->
+  <TM_Blink_III.label>Transfert</TM_Blink_III.label>
+  <!-- EN: Instantly moves the caster to the target location.\n		\nCasting time: 0s\nRecharge time: 5s\nRange: 90 -->
+  <TM_Blink_III.description>Déplace instantanément le lanceur de sorts vers l'endroit ciblé.\n\nIncantation : Instantanée\nTemps de recharge : 5s\nPortée : 90</TM_Blink_III.description>
+  
+  <!-- EN: Gateway -->
+  <TM_FoldReality.label>Porte</TM_FoldReality.label>
+  <!-- EN: Folds reality to open a gateway to another player controlled location and instantly moves all pawns and items in a 7 cell radius around the target cell to the caster. -->
+  <TM_FoldReality.description>Plie la réalité pour ouvrir une porte vers un autre lieu contrôlé par le joueur et déplace instantanément tous les colons et objets dans un rayon de 7 cases autour de la case cible vers le lanceur de sorts.</TM_FoldReality.description>
+  
+  <!-- EN: Magic Missile -->
+  <TM_MagicMissile.label>Missile Magique</TM_MagicMissile.label>
+  <!-- EN: Fire a wave of magic missiles at enemies.\n		\nChance to confuse: 3%\nCasting time: 2.5s\nRange: 24\nProjectiles: 14 over 2.8s\nDamage: 4 -->
+  <TM_MagicMissile.description>Tire une vague de missiles magiques sur les ennemis.\n\nChance de désorienter : 3%.\nIncantation : 2,5s\nPortée : 24\nProjectiles : 14 sur 2.8s\nDégâts : 4</TM_MagicMissile.description>
+  
+  <!-- EN: Magic Missile -->
+  <TM_MagicMissile_I.label>Missile Magique</TM_MagicMissile_I.label>
+  <!-- EN: Fire a wave of magic missiles at enemies.\n		\nChance to confuse: 5%\nCasting time: 2s\nRange: 28\nProjectiles: 17 over 2.83s\nDamage: 5 -->
+  <TM_MagicMissile_I.description>Tire une vague de missiles magiques sur les ennemis.\n\nChance de désorienter : 5%.\nIncantation : 2s\nPortée : 28\nProjectiles : 17 sur 2.83s\nDégâts : 5</TM_MagicMissile_I.description>
+  
+  <!-- EN: Magic Missile -->
+  <TM_MagicMissile_II.label>Missile Magique</TM_MagicMissile_II.label>
+  <!-- EN: Fire a wave of magic missiles at enemies.\n		\nChance to confuse: 7%\nCasting time: 1.5s\nRange: 32\nProjectiles: 20 over 2.67s\nDamage: 6 -->
+  <TM_MagicMissile_II.description>Tire une vague de missiles magiques sur les ennemis.\n\nChance de désorienter : 7%\nIncantation : 1.5s\nPortée : 32\nProjectiles : 20 sur 2.67s\nDégâts : 6</TM_MagicMissile_II.description>
+  
+  <!-- EN: Magic Missile -->
+  <TM_MagicMissile_III.label>Missile Magique</TM_MagicMissile_III.label>
+  <!-- EN: Fire a wave of magic missiles at enemies.\n		\nChance to confuse: 9%\nCasting time: 1s\nRange: 36\nProjectiles: 24 over 2.4s\nDamage: 7 -->
+  <TM_MagicMissile_III.description>Tire une vague de missiles magiques sur les ennemis.\n\nChance de désorienter : 9%\nIncantation : 1s\nPortée: 36\nProjectiles : 24 sur 2.4s\nDégâts : 7</TM_MagicMissile_III.description>
+  
+  <!-- EN: Shadow -->
+  <TM_Shadow.label>Ombre</TM_Shadow.label>
+  <!-- EN: Creates a shadow aura around the caster that periodically buffs an ally.\n		\nShadow: Arcane augmentation that assists the worker improving their physical capacity but causes a mood decrease.\n\nApplication Frequency: 	80-90s\nDuration:	500-600s\nManipulation, Sight, Hearing, Blood filtration: +10%\nMoving, Consciousness:	+5%\nMood decrease: -3\n\nRequires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed. -->
+  <TM_Shadow.description>Crée une aura d'ombre autour du lanceur de sorts qui améliore périodiquement un allié.\n\nOmbre : Augmentation magique qui aide le travailleur à améliorer ses capacités physiques, mais provoque une baisse d'humeur.\n\nFréquence d'application : 80-90s\nDurée : 500-600s\nManipulation, vue, ouïe, Filtrage du sang : +10%\nMouvement, Conscience : +5%\nDiminution de l'humeur : -3\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_Shadow.description>
+  
+  <!-- EN: Shadow -->
+  <TM_Shadow_I.label>Ombre</TM_Shadow_I.label>
+  <!-- EN: Creates a shadow aura around the caster that periodically buffs an ally.\n		\nShadow: Arcane augmentation that assists the worker improving their physical capacity but causes a mood decrease.\n\nApplication Frequency: 	80-90s\nDuration:	500-600s\nManipulation, Sight, Hearing, Talking: +20%\nMoving, Consciousness, Metabolism, Blood filtration: +10%\nMood decrease:	-4\n\nRequires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed. -->
+  <TM_Shadow_I.description>Crée une aura d'ombre autour du lanceur de sorts qui améliore périodiquement un allié.\n\nOmbre : Augmentation magique qui aide le travailleur à améliorer ses capacités physiques, mais provoque une baisse d'humeur.\n\nFréquence d'application : 80-90s\nDurée : 500-600s\nManipulation, Vue, Ouïe, Parole : +20%\nMouvement, Conscience, Métabolisme, Filtrage du sang : +10%\nBaisse d'humeur : -4\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_Shadow_I.description>
+  
+  <!-- EN: Shadow -->
+  <TM_Shadow_II.label>Ombre</TM_Shadow_II.label>
+  <!-- EN: Creates a shadow aura around the caster that periodically buffs an ally.\n		\nShadow: Arcane augmentation that assists the worker improving their physical capacity but causes a mood decrease.\n	\nApplication Frequency: 	80-90s	\nDuration:	1100-1250s\nManipulation, Sight, Hearing, Talking: +25%\nMoving, Metabolism, Blood filtration: +15%\nConsciousness: 	+10%\nMood decrease:	-6\n\nRequires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed. -->
+  <TM_Shadow_II.description>Crée une aura d'ombre autour du lanceur de sorts qui améliore périodiquement un allié.\n\nOmbre : Augmentation magique qui aide le travailleur à améliorer ses capacités physiques, mais provoque une baisse d'humeur.\n\nFréquence d'application : 80-90s\nDurée : 1100-1250s\nManipulation, Vue, Ouïe, Parole : +25%\nMouvement, Métabolisme, Filtrage du sang : +15%\nConscience : +10%\nBaisse d'humeur : -6\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_Shadow_II.description>
+  
+  <!-- EN: Shadow -->
+  <TM_Shadow_III.label>Ombre</TM_Shadow_III.label>
+  <!-- EN: Creates a shadow aura around the caster that periodically buffs an ally.\n		\nShadow: Arcane augmentation that assists the worker improving their physical capacity but causes a mood decrease.\n	\nApplication Frequency: 	80-90s	\nDuration:	1100-1250s\nManipulation, Sight, Hearing, Talking: +25%\nMoving, Metabolism, Blood filtration: +20%\nConsciousness: 	+15%\nMood decrease:	-8\n\nRequires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed. -->
+  <TM_Shadow_III.description>Crée une aura d'ombre autour du lanceur de sorts qui améliore périodiquement un allié.\n\nOmbre : Augmentation magique qui aide le travailleur à améliorer ses capacités physiques, mais provoque une baisse d'humeur.\n\nFréquence d'application : 80-90s\nDurée : 1100-1250s\nManipulation, Vue, Ouïe, Parole : +25%\nMouvement, Métabolisme, Filtrage du sang : +20%\nConscience : +15%\nBaisse d'humeur : -8\n\nNécessite 40 mana pour être maintenu et réduit la régénération de mana de 30% ; lancer à nouveau pour le désactiver. Le lanceur de sorts gagne des points d'expérience chaque fois qu'un allié est amélioré.</TM_Shadow_III.description>
+  
+  <!-- EN: Summon -->
+  <TM_Summon.label>Invocation</TM_Summon.label>
+  <!-- EN: Summon objects to the casters location.\n		\nCasting time: 3s\nRecharge time: 20s\nRange: 70 -->
+  <TM_Summon.description>Invoque des objets à l'endroit où se trouve le lanceur de sorts.\n\nIncantation : 3s\nTemps de recharge : 20s\nPortée : 70</TM_Summon.description>
+  
+  <!-- EN: Summon -->
+  <TM_Summon_I.label>Invocation</TM_Summon_I.label>
+  <!-- EN: Summon objects to the casters location.\n		\nCasting time: 2.7s\nRecharge time: 18s\nRange: 80 -->
+  <TM_Summon_I.description>Invoque des objets à l'endroit où se trouve le lanceur de sorts.\n\nIncantation : 2.7s\nTemps de recharge : 18s\nPortée : 80</TM_Summon_I.description>
+  
+  <!-- EN: Summon -->
+  <TM_Summon_II.label>Invocation</TM_Summon_II.label>
+  <!-- EN: Summon objects to the casters location.\n		\nCasting time: 2.5s\nRecharge time: 16s\nRange: 90 -->
+  <TM_Summon_II.description>Invoque des objets à l'endroit où se trouve le lanceur de sorts.\n\nIncantation : 2.5s\nTemps de recharge : 16s\nPortée : 90</TM_Summon_II.description>
+  
+  <!-- EN: Summon -->
+  <TM_Summon_III.label>Invocation</TM_Summon_III.label>
+  <!-- EN: Summon objects to the casters location.\n		\nCasting time: 2.4s\nRecharge time: 15s\nRange: 100 -->
+  <TM_Summon_III.description>Invoque des objets à l'endroit où se trouve le lanceur de sorts.\n\nIncantation : 2.4s\nTemps de recharge : 15s\nPortée : 100</TM_Summon_III.description>
+  
+  <!-- EN: Teleport -->
+  <TM_Teleport.label>Téléportation</TM_Teleport.label>
+  <!-- EN: Mass teleport spell. Creates a temporary method of long range transport; be warned, the portal collapses after a brief period causing a feedback explosion at the point the portal was created. -->
+  <TM_Teleport.description>Sort de téléportation de masse. Crée une méthode temporaire de transport à longue distance ; attention, le portail s'effondre après une courte période, provoquant une explosion en retour à l'endroit où le portail a été créé.</TM_Teleport.description>
+  
+</LanguageData>

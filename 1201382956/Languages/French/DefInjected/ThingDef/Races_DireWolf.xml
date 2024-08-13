@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dire wolf -->
+  <TM_Dire_WolfR.label>loup sinistre</TM_Dire_WolfR.label>
+  <!-- EN: Dire wolves roam the north in great packs and fear neither man nor megasloth. A savage predator armed with razor sharp teeth and a coat like steel thread, dire wolves are as fierce as any known creature. They are often tied to mythical lore and are said to possess a unique link to arcane powers. -->
+  <TM_Dire_WolfR.description>Les loups sinistres parcourent le nord en grandes meutes et ne craignent ni l'homme ni le mégasloth. Prédateur sauvage, armé de dents acérées comme des rasoirs et d'un pelage semblable à du fil d'acier, le loup sinistre est aussi féroce que toute autre créature connue. Ils sont souvent liés aux traditions mythiques et on dit qu'ils possèdent un lien unique avec des pouvoirs magiques.</TM_Dire_WolfR.description>
+  <!-- EN: wolfmeat -->
+  <TM_Dire_WolfR.race.meatLabel>viande de loup</TM_Dire_WolfR.race.meatLabel>
+  <!-- EN: left claw -->
+  <TM_Dire_WolfR.tools.left_claw.label>griffe gauche</TM_Dire_WolfR.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <TM_Dire_WolfR.tools.right_claw.label>griffe droite</TM_Dire_WolfR.tools.right_claw.label>
+  <!-- EN: head -->
+  <TM_Dire_WolfR.tools.head.label>tête</TM_Dire_WolfR.tools.head.label>
+  
+</LanguageData>

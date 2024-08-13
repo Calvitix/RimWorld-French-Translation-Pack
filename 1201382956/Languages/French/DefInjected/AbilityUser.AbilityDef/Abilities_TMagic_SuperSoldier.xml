@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 60mm Mortar -->
+  <TM_60mmMortar.label>Mortier 60 mm</TM_60mmMortar.label>
+  <!-- EN: Soften up enemy targets before a fight even begins with a personal mortar system. The 60mm Mortar can easily be transported by a Super Soldier and quickly deployed to launch 3-rounds of indirect fire. -->
+  <TM_60mmMortar.description>Affaiblissez les cibles ennemies avant même que le combat ne commence avec un système de mortier personnel. Le mortier de 60 mm peut être facilement transporté par un super-soldat et déployé rapidement pour lancer trois rafales de tir indirect.</TM_60mmMortar.description>
+  
+  <!-- EN: Breaching charge -->
+  <TM_BreachingCharge.label>Charge explosive</TM_BreachingCharge.label>
+  <!-- EN: Throws a specialized explosive that excels at destroying structures or stopping enemy clusters. Deals 30x damage to structures. -->
+  <TM_BreachingCharge.description>Lancer un explosif spécialisé qui excelle à détruire les structures ou à arrêter des groupes d'ennemis. Il inflige 30x les dégâts aux structures.</TM_BreachingCharge.description>
+  
+  <!-- EN: Buckshot -->
+  <TM_Buckshot.label>Chevrotine</TM_Buckshot.label>
+  <!-- EN: A shotgun shell that fires multiple pellets. The sheer volume of rounds discharged can be devastating at short range, but disperses rapidly. -->
+  <TM_Buckshot.description>Une cartouche de fusil à pompe qui tire plusieurs plombs. Le volume des balles tirées peut être dévastateur à courte portée, mais se disperse rapidement.</TM_Buckshot.description>
+  
+  <!-- EN: CQC -->
+  <TM_CQC.label>Combat rapproché</TM_CQC.label>
+  <!-- EN: Close Quarters Combat (CQC) is common training for Soldiers that allows them to smoothly execute a vicious combo attack against an enemy in melee range. -->
+  <TM_CQC.description>Le Combat rapproché est un entraînement courant pour les soldats qui leur permet d'exécuter en douceur une attaque combinée vicieuse contre un ennemi à portée de mêlée.</TM_CQC.description>
+  
+  <!-- EN: Self Aid -->
+  <TM_FirstAid.label>Auto-assistance</TM_FirstAid.label>
+  <!-- EN: Self Aid is possible for Super Soldiers as a result of the genetic enhancements they acquire from the serum. This ability allows them to consciously focus energy to rapid tend wounds. Self Aid is unable to tend grievous wounds, such as missing body parts. -->
+  <TM_FirstAid.description>L'auto-assistance est possible pour les super-soldats grâce aux améliorations génétiques qu'ils ont acquises avec le sérum. Cette capacité leur permet de concentrer consciemment leur énergie pour soigner rapidement leurs blessures. L'auto-assistance est incapable de soigner des blessures graves, comme des parties du corps manquantes.</TM_FirstAid.description>
+  
+  <!-- EN: Mk203_GL -->
+  <TM_Mk203GL.label>Mk203 LG</TM_Mk203GL.label>
+  <!-- EN: Fires a grenade using the Mk203 under-barrel grenade launcher. -->
+  <TM_Mk203GL.description>Tire une grenade à l'aide du Mk203 Lance-Grenades sous le canon.</TM_Mk203GL.description>
+  
+  <!-- EN: Pistol Specialization -->
+  <TM_PistolSpec.label>Spécialisation Pistolet</TM_PistolSpec.label>
+  <!-- EN: Weapon Specialization: Pistol\n\nThis specialization improves all aspects of pistols: accuracy, damage, shot delay, shot count, range, and more.\nWeapon specializations apply automatically when a Super Soldier equips a weapon in their specialization category. Specialized weapons are denoted by a "++" after the item name.\n\nSuper Soldiers with a specialized pistol equipped gain a unique "double tap" talent which will occasionally ignore cooldown and immediately begin another shot burst; this talent consumes stamina when it occurs. -->
+  <TM_PistolSpec.description>Spécialisation en armement : Pistolet\n\nCette spécialisation améliore tous les aspects des pistolets : précision, dégâts, vitesse de tir, nombre de coups, portée, et plus encore.\nLes spécialisations d'armes s'appliquent automatiquement lorsqu'un Super-Soldat équipe une arme dans sa catégorie de spécialisation. Les armes spécialisées sont indiquées par un "++" après le nom de l'objet.\n\nLes super-soldats équipés d'un pistolet spécialisé acquièrent un talent unique de "double tape" qui leur permet d'ignorer le temps de recharge et de commencer immédiatement une nouvelle rafale de tirs ; ce talent consomme de l'endurance lorsqu'il se produit.</TM_PistolSpec.description>
+  
+  <!-- EN: Pistol Whip -->
+  <TM_PistolWhip.label>Coup de crosse</TM_PistolWhip.label>
+  <!-- EN: A sudden attack using the pistol stock as a blunt weapon; successful attacks will stun a target, leaving them dazed for a short period, and may also disarm them. -->
+  <TM_PistolWhip.description>Une attaque soudaine utilisant la crosse du pistolet comme une arme contondante ; les attaques réussies étourdissent la cible, la laissant étourdie pendant une courte période, et peuvent également désarmer la cible.</TM_PistolWhip.description>
+  
+  <!-- EN: Rifle Specialization -->
+  <TM_RifleSpec.label>Spécialisation Fusil</TM_RifleSpec.label>
+  <!-- EN: Weapon Specialization: Rifle \n\nThis specialization improves all aspects of rifles: accuracy, damage, shot delay, shot count, range, and more.\nWeapon specializations apply automatically when a Super Soldier equips a weapon in their specialization category. Specialized weapons are denoted by a "++" after the item name. -->
+  <TM_RifleSpec.description>Spécialisation en armement : Fusil\n\nCette spécialisation améliore tous les aspects des fusils : précision, dégâts, vitesse de tir, nombre de tirs, portée, etc.\nLes spécialisations d'armes s'appliquent automatiquement lorsqu'un Super-Soldat équipe une arme dans sa catégorie de spécialisation. Les armes spécialisées sont signalées par un "++" après le nom de l'objet.</TM_RifleSpec.description>
+  
+  <!-- EN: Shotgun Specialization -->
+  <TM_ShotgunSpec.label>Spécialisation Fusil à pompe</TM_ShotgunSpec.label>
+  <!-- EN: Weapon Specialization: Shotgun \n\nThis specialization improves all aspects of shotguns: accuracy, damage, shot delay, shot count, range, and more.\nWeapon specializations apply automatically when a Super Soldier equips a weapon in their specialization category. Specialized weapons are denoted by a "++" after the item name. -->
+  <TM_ShotgunSpec.description>Spécialisation en armement : Fusil à pompe\n\nCette spécialisation améliore tous les aspects des fusils à pompe : précision, dégâts, vitesse de tir, nombre de tirs, portée, etc.\nLes spécialisations d'armes s'appliquent automatiquement lorsqu'un Super-Soldat équipe une arme dans sa catégorie de spécialisation. Les armes spécialisées sont signalées par un "++" après le nom de l'objet.</TM_ShotgunSpec.description>
+  
+  <!-- EN: Suppressing Fire -->
+  <TM_SuppressingFire.label>Tir de suppression</TM_SuppressingFire.label>
+  <!-- EN: Suppress enemy positions with a storm of bullets. -->
+  <TM_SuppressingFire.description>Supprimer les positions ennemies avec une tempête de balles.</TM_SuppressingFire.description>
+  
+</LanguageData>

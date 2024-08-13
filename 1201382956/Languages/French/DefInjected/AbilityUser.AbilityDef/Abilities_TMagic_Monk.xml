@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Ch'i -->
+  <TM_Chi.label>Ch'i</TM_Chi.label>
+  <!-- EN: Ch'i, or spirit, is the life force that resides in all living things. Monks cultivate and harness this force to perform their art. Balancing the rhythm and flow of Ch'i takes time and is generally gained through dedicated meditation. -->
+  <TM_Chi.description>Le ch'i, ou esprit, est la force vitale qui réside dans tous les êtres vivants. Les moines cultivent et exploitent cette force pour exercer leur art. L'équilibre du rythme et du flux du Ch'i prend du temps et s'acquiert généralement par une méditation assidue.</TM_Chi.description>
+  
+  <!-- EN: Ch'i Burst -->
+  <TM_ChiBurst.label>Explosion de chi</TM_ChiBurst.label>
+  <!-- EN: Projects an enormous amount of ch'i into a target area, overloading and disrupting the energy of all pawns within the area of effect.\n\nCh'i Burst will interrupt fighter and mage abilities and will cause harm based on the amount of energy disrupted. This affects chi, mana, blood magic, stamina, hate and psionic energy.\n\nHas a low chance to disrupt the mental state of any pawn. Can be resisted. -->
+  <TM_ChiBurst.description>Projette une énorme quantité de ch'i dans une zone ciblée, surchargeant et perturbant l'énergie de tous les colons se trouvant dans la zone d'effet.\n\nExplosion de chi interrompt les capacités des combattants et des mages et cause des dégâts en fonction de la quantité d'énergie perturbée. Cela affecte le chi, le mana, la magie du sang, l'endurance, la haine et l'énergie psionique.\n\nA une faible chance de perturber l'état mental de n'importe quel colon. Il est possible d'y résister.</TM_ChiBurst.description>
+  
+  <!-- EN: Dragon Strike -->
+  <TM_DragonStrike.label>Frappe du dragon</TM_DragonStrike.label>
+  <!-- EN: A leap attack that allows the monk to rapidly close on an opponent. \n\nActivated ability (8 chi): leap through the air and deliver a powerful flying kick against an distant opponent. The closer an opponent is, the more damage Dragon Strike deals. If an opponent is within 5 cells, this attack will also knock the target back. \n\nPassive ability (10 stamina): performs a round-house kick that strikes multiple opponents. Dragon Strike has a chance to trigger on any normal attack when multiple enemies are near the target. -->
+  <TM_DragonStrike.description>Une attaque bondissante qui permet au moine de se rapprocher rapidement d'un adversaire.\n\nCapacité activée (8 chi) : saute dans les airs et délivre un puissant coup de pied volant contre un adversaire éloigné. Plus l'adversaire est proche, plus la Frappe du dragon inflige de dégâts. Si l'adversaire se trouve dans un rayon de 5 cases, cette attaque fait également reculer la cible.\n\nCapacité passive (10 d'endurance) : effectue un coup de pied circulaire qui frappe plusieurs adversaires. Frappe du dragon a une chance de se déclencher sur n'importe quelle attaque normale lorsque plusieurs ennemis se trouvent près de la cible.</TM_DragonStrike.description>
+  
+  <!-- EN: Meditate -->
+  <TM_Meditate.label>Méditer</TM_Meditate.label>
+  <!-- EN: Meditation restores the life force of the monk and is a vital component of maintaining a strong level of Ch'i.\n	\nAny physical or mental ailments must be purged before meditation can generate Ch'i. If the monk is afflicted (wounds, disease, poor mood, drug addictions), meditation will focus Ch'i in an effort to remove the affliction. Afflictions can only be purged while in a meditative state. -->
+  <TM_Meditate.description>La méditation restaure la force vitale du moine et constitue un élément vital pour maintenir un niveau élevé de Ch'i.\n\nToute affection physique ou mentale doit être purgée avant que la méditation ne puisse générer du Ch'i. Si le moine est affligé (blessures, maladies, mauvaise humeur, toxicomanie), la méditation concentrera le Ch'i dans le but de supprimer l'affliction. Les afflictions ne peuvent être purgées qu'en état de méditation.</TM_Meditate.description>
+  
+  <!-- EN: Mind Over Body -->
+  <TM_MindOverBody.label>Esprit et Corps</TM_MindOverBody.label>
+  <!-- EN: Mental conditioning that enhances the monk's control over their physical capabilities and improves resilience to both physical and mental stress. Damage mitigation is reduced by the weight (in kg) of armor worn.\n\nMind Over Body is a passive buff that improves consciousness, moving, manipulation, melee hit chance, dodge chance, armor penetration, mental break and pain thresholds. -->
+  <TM_MindOverBody.description>Conditionnement mental qui renforce le contrôle du moine sur ses capacités physiques et améliore sa résistance au stress physique et mental. L'atténuation des dégâts est réduite par le poids (en kg) de l'armure portée.\n\nL'esprit sur le corps est un buff passif qui améliore la conscience, les mouvements, la manipulation, les chances de toucher en mêlée, les chances d'esquive, la pénétration d'armure, les crisses mentale et la douleur.</TM_MindOverBody.description>
+  
+  <!-- EN: Thunder Strike -->
+  <TM_ThunderStrike.label>Coup de tonnerre</TM_ThunderStrike.label>
+  <!-- EN: Supercharges an attack with enough ch'i to generate lightning. -->
+  <TM_ThunderStrike.description>Surcharge une attaque avec suffisamment de ch'i pour générer des éclairs.</TM_ThunderStrike.description>
+  
+  <!-- EN: Tiger Strike -->
+  <TM_TigerStrike.label>Frappes du tigre</TM_TigerStrike.label>
+  <!-- EN: A melee attack that delivers multiple, rapid blows against a single opponent. Must be within melee range and unarmed to perform this attack.\n\nActivated ability (12 chi): delivers 4 attacks in rapid succession.  Tiger Strike can be further trained to add additional attacks that can stun, drain energy, or deliver a precision strike that destroys vital organs.\n\nPassive ability (8 stamina): deliver multiple hits against an opponent; attacks may be any type (physical, stun, drain, vital) that is trained. Tiger Strike has a chance to trigger on any normal attack or itself. -->
+  <TM_TigerStrike.description>Une attaque de mêlée qui porte de multiples coups rapides contre un seul adversaire. Il faut être à portée de mêlée et non armé pour effectuer cette attaque.\n\nCapacité activée (12 chi) : porte 4 attaques en succession rapide. Frappes du tigre peut être entraîné pour ajouter des attaques supplémentaires qui peuvent étourdir, drainer l'énergie ou délivrer une frappe de précision qui détruit les organes vitaux.\n\nCapacité passive (8 d'endurance) : inflige de multiples coups à un adversaire ; les attaques peuvent être de n'importe quel type (physique, étourdissement, drainage, vitale) qui est entraîné. Frappe du tigre a une chance de se déclencher sur n'importe quelle attaque normale ou sur elle-même.</TM_TigerStrike.description>
+  
+</LanguageData>

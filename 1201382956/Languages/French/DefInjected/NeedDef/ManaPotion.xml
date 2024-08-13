@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mana potion -->
+  <Chemical_ManaPotion.label>potion de mana</Chemical_ManaPotion.label>
+  <!-- EN: This person has become addicted to the chemicals and affects of mana potions and will suffer severe withdrawal symptoms if they don't continue consuming mana potions. -->
+  <Chemical_ManaPotion.description>Cette personne est devenue dépendante des effets chimiques des potions de mana et souffrira de graves symptômes de sevrage si elle ne continue pas à en consommer.</Chemical_ManaPotion.description>
+  
+</LanguageData>

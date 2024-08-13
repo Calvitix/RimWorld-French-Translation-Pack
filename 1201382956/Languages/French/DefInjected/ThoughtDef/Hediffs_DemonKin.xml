@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bliss (mental) -->
+  <SoulBondMental.stages.bliss_mental.label>bonheur (mental)</SoulBondMental.stages.bliss_mental.label>
+  <!-- EN: My worries and concerns have been washed away. Things that used to concern me are now little more than distractions that float away in a haze of dreams and reality. -->
+  <SoulBondMental.stages.bliss_mental.description>Mes inquiétudes et mes préoccupations ont été balayées. Les choses qui me préoccupaient auparavant ne sont plus que des distractions qui flottent dans une brume de rêves et de réalité.</SoulBondMental.stages.bliss_mental.description>
+  
+  <!-- EN: bliss (physical) -->
+  <SoulBondPhysical.stages.bliss_physical.label>bonheur (physique)</SoulBondPhysical.stages.bliss_physical.label>
+  <!-- EN: My pain is gone. I'm floating in a sea of euphoria. -->
+  <SoulBondPhysical.stages.bliss_physical.description>Ma douleur a disparu. Je flotte dans une mer d'euphorie.</SoulBondPhysical.stages.bliss_physical.description>
+  
+  <!-- EN: Vitality Drain -->
+  <VitalityDrainTD.stages.Vitality_Drain.label>drain de vitalité</VitalityDrainTD.stages.Vitality_Drain.label>
+  <!-- EN: That succubus was amazing - my worries are a dull memory and I feel relaxed, even a little lethargic. -->
+  <VitalityDrainTD.stages.Vitality_Drain.description>Ce succube était incroyable - mes soucis ne sont plus qu'un souvenir terne et je me sens détendu, même un peu léthargique.</VitalityDrainTD.stages.Vitality_Drain.description>
+  
+</LanguageData>

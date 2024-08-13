@@ -6,8 +6,6 @@
 
 		<mods>
 			<li>Medieval Overhaul</li> <!-- Problème avec la MàJ de Medieval Overhaul: Toggleable Stuff -->
-			<li>Medieval Overhaul (unofficial)</li>
-			
 		</mods>
 
 		<match Class="PatchOperationSequence">

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arm -->
+  <Skeletal_Arm.label>bras</Skeletal_Arm.label>
+  
+  <!-- EN: finger -->
+  <Skeletal_Finger.label>doigt</Skeletal_Finger.label>
+  
+  <!-- EN: foot -->
+  <Skeletal_Foot.label>pied</Skeletal_Foot.label>
+  
+  <!-- EN: hand -->
+  <Skeletal_Hand.label>main</Skeletal_Hand.label>
+  
+  <!-- EN: head -->
+  <Skeletal_Head.label>tête</Skeletal_Head.label>
+  
+  <!-- EN: jaw -->
+  <Skeletal_Jaw.label>mâchoire</Skeletal_Jaw.label>
+  
+  <!-- EN: leg -->
+  <Skeletal_Leg.label>jambe</Skeletal_Leg.label>
+  
+  <!-- EN: neck -->
+  <Skeletal_Neck.label>cou</Skeletal_Neck.label>
+  
+  <!-- EN: ribcage -->
+  <Skeletal_Ribcage.label>cage thoracique</Skeletal_Ribcage.label>
+  
+  <!-- EN: shoulder -->
+  <Skeletal_Shoulder.label>épaule</Skeletal_Shoulder.label>
+  
+  <!-- EN: toe -->
+  <Skeletal_Toe.label>orteil</Skeletal_Toe.label>
+  
+</LanguageData>

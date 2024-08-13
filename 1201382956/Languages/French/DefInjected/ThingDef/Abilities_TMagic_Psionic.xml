@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psionic dash -->
+  <FlyingObject_PsionicDash.label>célérité psionique</FlyingObject_PsionicDash.label>
+  
+  <!-- EN: psionic leap -->
+  <FlyingObject_PsionicLeap.label>bond psionique</FlyingObject_PsionicLeap.label>
+  
+  <!-- EN: psi storm -->
+  <FlyingObject_PsionicStorm.label>tempête psionique</FlyingObject_PsionicStorm.label>
+  
+  <!-- EN: psi storm -->
+  <FlyingObject_PsiStorm.label>tempête psionique</FlyingObject_PsiStorm.label>
+  
+  <!-- EN: psionic dash -->
+  <Projectile_PsionicDash.label>célérité psionique</Projectile_PsionicDash.label>
+  
+  <!-- EN: PsionicStorm -->
+  <Projectile_PsionicStorm.label>tempête psionique</Projectile_PsionicStorm.label>
+  
+  <!-- EN: psionic barrier -->
+  <TM_Projectile_PsionicBarrier.label>barrière psionique</TM_Projectile_PsionicBarrier.label>
+  
+  <!-- EN: psionic blast -->
+  <TM_Projectile_PsionicBlast.label>déflagration psionique</TM_Projectile_PsionicBlast.label>
+  
+  <!-- EN: psionic projectile -->
+  <TM_Psionic_Projectile.label>psionique projectile</TM_Psionic_Projectile.label>
+  
+</LanguageData>

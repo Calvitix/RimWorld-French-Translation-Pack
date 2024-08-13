@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: AMP -->
+  <TM_AMP.label>AMP</TM_AMP.label>
+  <!-- EN: Blessing: Augmented by Magical Power - aka "AMP."  Short term augmentation that drastically increases physical capacity at the cost of increased stress on the body.\n\nDuration: 		30-40s\nPhysical capacity: 	~+30%\nPhysical demand: 	+40%\nPain:		-20% -->
+  <TM_AMP.description>Bénédiction : Augmentation Magique de Puissance - alias "AMP". Augmente considérablement la capacité physique au prix d'un stress accru pour le corps.\n\nDurée : 30-40s\nCapacité physique : ~+30%\nExigence physique : +40%\nDouleur : -20%</TM_AMP.description>
+  
+  <!-- EN: AMP -->
+  <TM_AMP_I.label>AMP</TM_AMP_I.label>
+  <!-- EN: Blessing: Augmented by Magical Power - aka "AMP."  Drastically increases physical capacity at the cost of increased stress on the body.\n		\nDuration: 		30-40s\nPhysical capacity: 	~+50%\nPhysical demand: 	+60%\nPain:		-20% -->
+  <TM_AMP_I.description>Bénédiction : Augmentation Magique de Puissance - alias "AMP". Augmente considérablement la capacité physique au prix d'un stress accru pour le corps.\n\nDurée : 30-40s\nCapacité physique : ~+50%\nExigence physique : +60%\nDouleur : -20%</TM_AMP_I.description>
+  
+  <!-- EN: AMP -->
+  <TM_AMP_II.label>AMP</TM_AMP_II.label>
+  <!-- EN: Blessing: Augmented by Magical Power - aka "AMP."  Drastically increases physical capacity at the cost of increased stress on the body.\n		\nDuration: 		50-60s\nPhysical capacity: 	~+65%\nPhysical demand: 	+60%\nPain:		-30% -->
+  <TM_AMP_II.description>Bénédiction : Augmentation Magique de Puissance - alias "AMP". Augmente considérablement la capacité physique au prix d'un stress accru pour le corps.\n\nDurée : 50-60s\nCapacité physique : ~+65%\nExigence physique : +60%\nDouleur : -30%</TM_AMP_II.description>
+  
+  <!-- EN: AMP -->
+  <TM_AMP_III.label>AMP</TM_AMP_III.label>
+  <!-- EN: Blessing: Augmented by Magical Power - aka "AMP."  Drastically increases physical capacity at the cost of increased stress on the body.\n		\nDuration: 		50-60s\nPhysical capacity: 	~+80%\nPhysical demand: 	+100%\nPain:		-40% -->
+  <TM_AMP_III.description>Bénédiction : Augmentation Magique de Puissance - alias "AMP". Augmente considérablement la capacité physique au prix d'un stress accru pour le corps.\n\nDurée : 50-60s\nCapacité physique : ~+80%\nExigence physique : +100%\nDouleur : -40%</TM_AMP_III.description>
+  
+  <!-- EN: Eye of the Storm -->
+  <TM_EyeOfTheStorm.label>Œil du cyclone</TM_EyeOfTheStorm.label>
+  <!-- EN: Release a ball of pure electrical energy that annihilates everything it its path. -->
+  <TM_EyeOfTheStorm.description>Libère une boule d'énergie électrique pure qui anéantit tout sur son passage.</TM_EyeOfTheStorm.description>
+  
+  <!-- EN: Lightning Bolt -->
+  <TM_LightningBolt.label>Éclair</TM_LightningBolt.label>
+  <!-- EN: Launch a bolt of lightning to strike your target. -->
+  <TM_LightningBolt.description>Lancer un éclair pour frapper votre cible.</TM_LightningBolt.description>
+  
+  <!-- EN: Lightning Cloud -->
+  <TM_LightningCloud.label>Nuage d'éclairs</TM_LightningCloud.label>
+  <!-- EN: Creates an area charged with lightning. Damages and stuns anything in its mists. -->
+  <TM_LightningCloud.description>Crée une zone chargée d'éclairs. Endommage et étourdit tout ce qui se trouve dans la brume.</TM_LightningCloud.description>
+  
+  <!-- EN: Lightning Storm -->
+  <TM_LightningStorm.label>Tempête de foudre</TM_LightningStorm.label>
+  <!-- EN: Create a fierce, but uncontrolled, lightning storm over the target location. -->
+  <TM_LightningStorm.description>Créer un orage violent, mais incontrôlé, au-dessus de l'endroit ciblé.</TM_LightningStorm.description>
+  
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Ready to escape -->
+  <PL_EscapeColumn.label>TODO</PL_EscapeColumn.label>
+  
+  <!-- EN: Has Handcuffs -->
+  <PL_HasHandcuffs.label>TODO</PL_HasHandcuffs.label>
+  
+  <!-- EN: Has intel -->
+  <PL_HasIntel.label>TODO</PL_HasIntel.label>
+  
+  <!-- EN: Has Legcuffs -->
+  <PL_HasLegcuffs.label>TODO</PL_HasLegcuffs.label>
+  
+  <!-- EN: Interaction -->
+  <PL_InteractionColumn.label>TODO</PL_InteractionColumn.label>
+  <!-- EN: Interaction mode -->
+  <PL_InteractionColumn.headerTip>TODO</PL_InteractionColumn.headerTip>
+  
+  <!-- EN: Is Working -->
+  <PL_IsWorking.label>TODO</PL_IsWorking.label>
+  
+  <!-- EN: Motivation -->
+  <PL_MotivationColumn.label>TODO</PL_MotivationColumn.label>
+  
+  <!-- EN: Resocialization -->
+  <PL_Resocialization.label>TODO</PL_Resocialization.label>
+  <!-- EN: Prisoner wants to join to your colony -->
+  <PL_Resocialization.headerTip>TODO</PL_Resocialization.headerTip>
+  
+  <!-- EN: Treatment -->
+  <PL_TreatmentColumn.label>TODO</PL_TreatmentColumn.label>
+  
+</LanguageData>

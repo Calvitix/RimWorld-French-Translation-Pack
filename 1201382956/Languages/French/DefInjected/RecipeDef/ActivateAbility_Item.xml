@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: administer shard of extraction -->
+  <AdministerShardOfExtraction.label>administrer un éclat d'extraction d'esprit</AdministerShardOfExtraction.label>
+  <!-- EN: Extracts martial and arcane essence from a pawn. This is a single use item that will permanently remove a pawn's class and convert it into essence. Essence may be consumed to grant class experience. The shard is destroyed after the extraction process. -->
+  <AdministerShardOfExtraction.description>Extrait l'essence martiale et magique d'un colon. Cet objet à usage unique permet de supprimer définitivement la classe d'un colon et de la convertir en essence. L'essence peut être consommée pour accorder de l'expérience de classe. L'éclat est détruit après le processus d'extraction.</AdministerShardOfExtraction.description>
+  <!-- EN: Using Shard of Extraction -->
+  <AdministerShardOfExtraction.jobString>utilise l'éclat d'extraction d'esprit.</AdministerShardOfExtraction.jobString>
+  
+</LanguageData>
