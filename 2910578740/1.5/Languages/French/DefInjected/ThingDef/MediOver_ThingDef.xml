@@ -345,20 +345,20 @@
 <DankPyon_RusticCounter1x3c.label>comptoir (1x3)</DankPyon_RusticCounter1x3c.label>
 <DankPyon_RusticCounter1x3c.description>Les gens mangent sur les tables lorsque des chaises sont placées toutes autour.</DankPyon_RusticCounter1x3c.description>
 
-<DankPyon_Candles.label>bougies</DankPyon_Candles.label>
-<DankPyon_Candles.description>Une bougie pour empêcher l'obscurité de s'infiltrer dans votre chambre. Peut être rechargée avec du suif animal.</DankPyon_Candles.description>
+<DankPyon_Candles.label>bougies (suif)</DankPyon_Candles.label>
+<DankPyon_Candles.description>Une bougie pour empêcher l'obscurité de se répandre dans vos pièces. Peut être rechargée avec du suif animal.</DankPyon_Candles.description>
 
-<DankPyon_Candles_Beeswax.label>bougies</DankPyon_Candles_Beeswax.label>
-<DankPyon_Candles_Beeswax.description>Une bougie pour empêcher l'obscurité de s'infiltrer dans votre chambre. Peut être rechargée avec de la cire.</DankPyon_Candles_Beeswax.description>
+<DankPyon_Candles_Beeswax.label>bougies (cire)</DankPyon_Candles_Beeswax.label>
+<DankPyon_Candles_Beeswax.description>Une bougie pour empêcher l'obscurité de se répandre dans vos pièces. Peut être rechargée avec de la cire.</DankPyon_Candles_Beeswax.description>
 
-<DankPyon_CandleStand.label>support de bougie (suif)</DankPyon_CandleStand.label>
-<DankPyon_CandleStand.description>Un support de bougie pour éviter que l'obscurité ne s'infiltre dans votre chambre. Peut être rechargé avec du suif.</DankPyon_CandleStand.description>
-
-<DankPyon_CandleStand_Beeswax.label>support de bougie (cire)</DankPyon_CandleStand_Beeswax.label>
-<DankPyon_CandleStand_Beeswax.description>Un support de bougie pour éviter que l'obscurité ne s'infiltre dans votre chambre. Peut être rechargé avec de la cire.</DankPyon_CandleStand_Beeswax.description>
-
+<DankPyon_CandleStand.label>support de bougies</DankPyon_CandleStand.label>
+<DankPyon_CandleStand.description>Un support de bougie pour empêcher l'obscurité de se répandre dans vos pièces. Peut être rechargé avec de la cire.</DankPyon_CandleStand.description>
+<!--
+<DankPyon_CandleStand_Beeswax.label>support de bougies</DankPyon_CandleStand_Beeswax.label>
+<DankPyon_CandleStand_Beeswax.description>Un support de bougie pour empêcher l'obscurité de se répandre dans vos pièces. Peut être rechargé avec de la cire.</DankPyon_CandleStand_Beeswax.description>
+-->
 <DankPyon_RusticLamp.label>lanterne</DankPyon_RusticLamp.label>
-<DankPyon_RusticLamp.description>Une bougie pour éviter que l'obscurité ne s'infiltre dans votre chambre.</DankPyon_RusticLamp.description>
+<DankPyon_RusticLamp.description>Une bougie pour empêcher l'obscurité de se répandre dans vos pièces.</DankPyon_RusticLamp.description>
 
 <DankPyon_RusticChest.label>coffre rustique</DankPyon_RusticChest.label>
 <DankPyon_RusticChest.description>Un fidèle coffre en bois pour ranger vos effets personnels. Les objets qui y sont rangés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur. Plusieurs coffres ne cumulent pas les bonus de confort.</DankPyon_RusticChest.description>
@@ -813,37 +813,37 @@
 <DankPyon_RuinedShelfEmpty.label>étagère en ruine</DankPyon_RuinedShelfEmpty.label>
 <DankPyon_RuinedShelfEmpty.description>Une étagère en ruine.</DankPyon_RuinedShelfEmpty.description>
 
-<DankPyon_LootableShelf_ChaliceSilver.label>étagère remplie</DankPyon_LootableShelf_ChaliceSilver.label>
+<DankPyon_LootableShelf_ChaliceSilver.label>étagère (remplie)</DankPyon_LootableShelf_ChaliceSilver.label>
 <DankPyon_LootableShelf_ChaliceSilver.description>Une étagère pleine d'objets.</DankPyon_LootableShelf_ChaliceSilver.description>
 
-<DankPyon_LootableShelf_Emerald.label>étagère remplie</DankPyon_LootableShelf_Emerald.label>
+<DankPyon_LootableShelf_Emerald.label>étagère (remplie)</DankPyon_LootableShelf_Emerald.label>
 <DankPyon_LootableShelf_Emerald.description>Une étagère pleine d'objets.</DankPyon_LootableShelf_Emerald.description>
 
-<DankPyon_LootableShelf_Ruby.label>étagère remplie</DankPyon_LootableShelf_Ruby.label>
+<DankPyon_LootableShelf_Ruby.label>étagère (remplie)</DankPyon_LootableShelf_Ruby.label>
 <DankPyon_LootableShelf_Ruby.description>Une étagère pleine d'objets.</DankPyon_LootableShelf_Ruby.description>
 
-<DankPyon_LootableShelf_Sapphire.label>étagère remplie</DankPyon_LootableShelf_Sapphire.label>
+<DankPyon_LootableShelf_Sapphire.label>étagère (remplie)</DankPyon_LootableShelf_Sapphire.label>
 <DankPyon_LootableShelf_Sapphire.description>Une étagère pleine d'objets.</DankPyon_LootableShelf_Sapphire.description>
 
-<DankPyon_LootableShelf_Rations.label>étagère remplie</DankPyon_LootableShelf_Rations.label>
+<DankPyon_LootableShelf_Rations.label>étagère (remplie)</DankPyon_LootableShelf_Rations.label>
 <DankPyon_LootableShelf_Rations.description>Une étagère pleine d'objets.</DankPyon_LootableShelf_Rations.description>
 
-<DankPyon_LootableShelf_IronIngot.label>étagère remplie</DankPyon_LootableShelf_IronIngot.label>
+<DankPyon_LootableShelf_IronIngot.label>étagère (remplie)</DankPyon_LootableShelf_IronIngot.label>
 <DankPyon_LootableShelf_IronIngot.description>Une étagère pleine d'objets.</DankPyon_LootableShelf_IronIngot.description>
 
-<DankPyon_LootableShelf_Bowl.label>étagère remplie</DankPyon_LootableShelf_Bowl.label>
+<DankPyon_LootableShelf_Bowl.label>étagère (remplie)</DankPyon_LootableShelf_Bowl.label>
 <DankPyon_LootableShelf_Bowl.description>Une étagère pleine d'objets.</DankPyon_LootableShelf_Bowl.description>
 
-<DankPyon_LootableShelf_Book.label>étagère remplie</DankPyon_LootableShelf_Book.label>
+<DankPyon_LootableShelf_Book.label>étagère (remplie)</DankPyon_LootableShelf_Book.label>
 <DankPyon_LootableShelf_Book.description>Une étagère pleine d'objets.</DankPyon_LootableShelf_Book.description>
 
-<DankPyon_Lootable_RackMix.label>râtelier d'armes</DankPyon_Lootable_RackMix.label>
+<DankPyon_Lootable_RackMix.label>râtelier (arme)</DankPyon_Lootable_RackMix.label>
 <DankPyon_Lootable_RackMix.description>Un support pour ranger les armes de manière ordonnée.</DankPyon_Lootable_RackMix.description>
 
-<DankPyon_Lootable_RackSword.label>râtelier d'épées</DankPyon_Lootable_RackSword.label>
+<DankPyon_Lootable_RackSword.label>râtelier (épée)</DankPyon_Lootable_RackSword.label>
 <DankPyon_Lootable_RackSword.description>Un support pour ranger les épées de manière ordonnée.</DankPyon_Lootable_RackSword.description>
 
-<DankPyon_Lootable_RackSpear.label>râtelier à lances</DankPyon_Lootable_RackSpear.label>
+<DankPyon_Lootable_RackSpear.label>râtelier (lance)</DankPyon_Lootable_RackSpear.label>
 <DankPyon_Lootable_RackSpear.description>Un support pour ranger les lances de manière ordonnée.</DankPyon_Lootable_RackSpear.description>
 
 <DankPyon_LootableChest_RusticChest.label>coffre</DankPyon_LootableChest_RusticChest.label>
@@ -926,22 +926,22 @@
 <DankPyon_Bricks2x2c.label>blocs (2x2)</DankPyon_Bricks2x2c.label>
 <DankPyon_Bricks2x2c.description>Des blocs qui sont empilés de manière judicieuse pour gagner de l'espace.</DankPyon_Bricks2x2c.description>
 
-<DankPyon_RusticCupboardEmpty.label>armoire</DankPyon_RusticCupboardEmpty.label>
+<DankPyon_RusticCupboardEmpty.label>armoire (vide)</DankPyon_RusticCupboardEmpty.label>
 <DankPyon_RusticCupboardEmpty.description>Une armoire ouverte pour ranger et présenter des objets de manière efficace.</DankPyon_RusticCupboardEmpty.description>
 
-<DankPyon_RusticCupboardBread.label>armoire à pain</DankPyon_RusticCupboardBread.label>
+<DankPyon_RusticCupboardBread.label>armoire (pain)</DankPyon_RusticCupboardBread.label>
 <DankPyon_RusticCupboardBread.description>Une armoire ouverte pour ranger et présenter des objets de manière efficace.</DankPyon_RusticCupboardBread.description>
 
-<DankPyon_RusticCupboardCheese.label>armoire à fromage</DankPyon_RusticCupboardCheese.label>
+<DankPyon_RusticCupboardCheese.label>armoire (laitier)</DankPyon_RusticCupboardCheese.label>
 <DankPyon_RusticCupboardCheese.description>Une armoire ouverte pour ranger et présenter des objets de manière efficace.</DankPyon_RusticCupboardCheese.description>
 
-<DankPyon_RusticCupboardWine.label>armoire à vin</DankPyon_RusticCupboardWine.label>
+<DankPyon_RusticCupboardWine.label>armoire (vin)</DankPyon_RusticCupboardWine.label>
 <DankPyon_RusticCupboardWine.description>Une armoire ouverte pour ranger et présenter des objets de manière efficace.</DankPyon_RusticCupboardWine.description>
 
 <DankPyon_RusticBarrelBigClosed.label>grand tonneau</DankPyon_RusticBarrelBigClosed.label>
 <DankPyon_RusticBarrelBigClosed.description>Un tonneau cylindrique pour le stockage général. Les objets qui y sont stockés n'affecteront pas la beauté de la pièce et ne se détérioreront pas, même s'il est à l'extérieur.</DankPyon_RusticBarrelBigClosed.description>
 
-<DankPyon_RusticBarrelBigGrape.label>grand tonneau à raisins</DankPyon_RusticBarrelBigGrape.label>
+<DankPyon_RusticBarrelBigGrape.label>grand tonneau (raisin)</DankPyon_RusticBarrelBigGrape.label>
 <DankPyon_RusticBarrelBigGrape.description>Un tonneau cylindrique pour le stockage général. Les objets qui y sont stockés n'affecteront pas la beauté de la pièce et ne se détérioreront pas, même s'il est à l'extérieur.</DankPyon_RusticBarrelBigGrape.description>
 
 <DankPyon_RusticBarrelBigClosedDown.label>grand tonneau</DankPyon_RusticBarrelBigClosedDown.label>
@@ -953,55 +953,55 @@
 <DankPyon_RusticBarrelClosed.label>tonneau</DankPyon_RusticBarrelClosed.label>
 <DankPyon_RusticBarrelClosed.description>Un tonneau cylindrique pour le stockage général. Les objets qui y sont stockés n'affecteront pas la beauté de la pièce et ne se détérioreront pas, même s'il est à l'extérieur.</DankPyon_RusticBarrelClosed.description>
 
-<DankPyon_BarrelWoodLog.label>tonneau de rondin</DankPyon_BarrelWoodLog.label>
+<DankPyon_BarrelWoodLog.label>tonneau (rondin)</DankPyon_BarrelWoodLog.label>
 <DankPyon_BarrelWoodLog.description>Un tonneau cylindrique réservé au rondin de bois pour gagner de la place. Peut contenir jusqu'à 5 piles de rondin. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_BarrelWoodLog.description>
 
-<DankPyon_BarrelIronOre.label>tonneau de minerai de fer</DankPyon_BarrelIronOre.label>
+<DankPyon_BarrelIronOre.label>tonneau (minerai de fer)</DankPyon_BarrelIronOre.label>
 <DankPyon_BarrelIronOre.description>Un tonneau cylindrique réservé au minerai de fer pour gagner de la place. Peut contenir jusqu'à 4 piles de minerai de fer. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_BarrelIronOre.description>
 
-<DankPyon_BarrelSilverOre.label>tonneau de minerai d'argent</DankPyon_BarrelSilverOre.label>
+<DankPyon_BarrelSilverOre.label>tonneau (minerai d'argent)</DankPyon_BarrelSilverOre.label>
 <DankPyon_BarrelSilverOre.description>Un tonneau cylindrique réservé au minerai d'argent pour gagner de la place. Peut contenir jusqu'à 4 piles de minerai d'argent. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_BarrelSilverOre.description>
 
-<DankPyon_BarrelGoldOre.label>tonneau de minerai d'or</DankPyon_BarrelGoldOre.label>
+<DankPyon_BarrelGoldOre.label>tonneau (minerai d'or)</DankPyon_BarrelGoldOre.label>
 <DankPyon_BarrelGoldOre.description>Un tonneau cylindrique réservé au minerai d'or pour gagner de la place. Peut contenir jusqu'à 4 piles de minerai d'or. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_BarrelGoldOre.description>
 
-<DankPyon_BarrelCoalOre.label>tonneau de minerai de charbon</DankPyon_BarrelCoalOre.label>
+<DankPyon_BarrelCoalOre.label>tonneau (minerai de charbon)</DankPyon_BarrelCoalOre.label>
 <DankPyon_BarrelCoalOre.description>Un tonneau cylindrique réservé au minerai de charbon pour gagner de la place. Peut contenir jusqu'à 4 piles de minerai de charbon. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_BarrelCoalOre.description>
 
-<DankPyon_BarrelTextiles.label>tonneau de textile</DankPyon_BarrelTextiles.label>
+<DankPyon_BarrelTextiles.label>tonneau (textile)</DankPyon_BarrelTextiles.label>
 <DankPyon_BarrelTextiles.description>Un tonneau cylindrique réservé aux textiles pour gagner de la place. Peut contenir jusqu'à 5 piles de textile. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_BarrelTextiles.description>
 
-<DankPyon_BarrelLeather.label>tonneau de cuir</DankPyon_BarrelLeather.label>
+<DankPyon_BarrelLeather.label>tonneau (cuir)</DankPyon_BarrelLeather.label>
 <DankPyon_BarrelLeather.description>Un tonneau cylindrique réservé au cuir pour gagner de la place. Peut contenir jusqu'à 5 piles de cuir. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_BarrelLeather.description>
 
-<DankPyon_BarrelComponentBasic.label>tonneau de composant simple</DankPyon_BarrelComponentBasic.label>
+<DankPyon_BarrelComponentBasic.label>tonneau (composant simple)</DankPyon_BarrelComponentBasic.label>
 <DankPyon_BarrelComponentBasic.description>Un tonneau cylindrique réservé au composant simple pour gagner de la place. Peut contenir jusqu'à 5 piles de composant simple. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_BarrelComponentBasic.description>
 
-<DankPyon_BarrelGrape.label>tonneau de raisin</DankPyon_BarrelGrape.label>
+<DankPyon_BarrelGrape.label>tonneau (raisin)</DankPyon_BarrelGrape.label>
 <DankPyon_BarrelGrape.description>Un tonneau cylindrique réservé au raisin pour gagner de la place. Peut contenir jusqu'à 5 piles de raisin. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_BarrelGrape.description>
 
-<DankPyon_LargeShelfEmpty.label>grande étagère vide</DankPyon_LargeShelfEmpty.label>
+<DankPyon_LargeShelfEmpty.label>grande étagère (vide)</DankPyon_LargeShelfEmpty.label>
 <DankPyon_LargeShelfEmpty.description>Une grande plate-forme carrée conçue pour stocker des objets, les garder propres et hors du sol.</DankPyon_LargeShelfEmpty.description>
 
-<DankPyon_LargeShelf_Bread.label>grande étagère à pain</DankPyon_LargeShelf_Bread.label>
+<DankPyon_LargeShelf_Bread.label>grande étagère (pain)</DankPyon_LargeShelf_Bread.label>
 <DankPyon_LargeShelf_Bread.description>Une grande plate-forme carrée conçue pour stocker des objets, les garder propres et hors du sol.</DankPyon_LargeShelf_Bread.description>
 
-<DankPyon_LargeShelf_Grain.label>grande étagère à céréale</DankPyon_LargeShelf_Grain.label>
+<DankPyon_LargeShelf_Grain.label>grande étagère (céréale)</DankPyon_LargeShelf_Grain.label>
 <DankPyon_LargeShelf_Grain.description>Une grande plate-forme carrée conçue pour stocker des objets, les garder propres et hors du sol.</DankPyon_LargeShelf_Grain.description>
 
-<DankPyon_Large_Meat_Shelf.label>grande étagère à viande</DankPyon_Large_Meat_Shelf.label>
+<DankPyon_Large_Meat_Shelf.label>grande étagère (viande)</DankPyon_Large_Meat_Shelf.label>
 <DankPyon_Large_Meat_Shelf.description>Une grande plate-forme carrée conçue pour stocker des objets, les garder propres et hors du sol.</DankPyon_Large_Meat_Shelf.description>
 
-<DankPyon_LargeShelf_Cheese.label>grande étagère à fromage</DankPyon_LargeShelf_Cheese.label>
+<DankPyon_LargeShelf_Cheese.label>grande étagère (laitier)</DankPyon_LargeShelf_Cheese.label>
 <DankPyon_LargeShelf_Cheese.description>Une grande plate-forme carrée conçue pour stocker des objets, les garder propres et hors du sol.</DankPyon_LargeShelf_Cheese.description>
 
-<DankPyon_LargeShelf_Wine.label>grande étagère à vin</DankPyon_LargeShelf_Wine.label>
+<DankPyon_LargeShelf_Wine.label>grande étagère (vin)</DankPyon_LargeShelf_Wine.label>
 <DankPyon_LargeShelf_Wine.description>Une grande plate-forme carrée conçue pour stocker des objets, les garder propres et hors du sol.</DankPyon_LargeShelf_Wine.description>
 
-<DankPyon_LargeShelf_Mead.label>grande étagère à hydromel</DankPyon_LargeShelf_Mead.label>
+<DankPyon_LargeShelf_Mead.label>grande étagère (hydromel)</DankPyon_LargeShelf_Mead.label>
 <DankPyon_LargeShelf_Mead.description>Une grande plate-forme carrée conçue pour stocker des objets, les garder propres et hors du sol.</DankPyon_LargeShelf_Mead.description>
 
-<DankPyon_LargeShelf_Vegetables.label>grande étagère à légume</DankPyon_LargeShelf_Vegetables.label>
+<DankPyon_LargeShelf_Vegetables.label>grande étagère (légume)</DankPyon_LargeShelf_Vegetables.label>
 <DankPyon_LargeShelf_Vegetables.description>Une grande plate-forme carrée conçue pour stocker des objets, les garder propres et hors du sol.</DankPyon_LargeShelf_Vegetables.description>
 
 <DankPyon_SackClosed.label>sac fermé</DankPyon_SackClosed.label>
@@ -1025,76 +1025,76 @@
 <DankPyon_Crate1x2c.label>caisse (1x2)</DankPyon_Crate1x2c.label>
 <DankPyon_Crate1x2c.description>Une boîte en bois composée de planches conçues pour stocker des ressources. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_Crate1x2c.description>
 
-<DankPyon_RackEmpty.label>râtelier vide</DankPyon_RackEmpty.label>
+<DankPyon_RackEmpty.label>râtelier (vide)</DankPyon_RackEmpty.label>
 <DankPyon_RackEmpty.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_RackEmpty.description>
 
-<DankPyon_RackSword.label>râtelier d'épée</DankPyon_RackSword.label>
+<DankPyon_RackSword.label>râtelier (épée)</DankPyon_RackSword.label>
 <DankPyon_RackSword.description>Un support pour ranger les épées de manière ordonnée. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_RackSword.description>
 
-<DankPyon_RackSpear.label>râtelier à lance</DankPyon_RackSpear.label>
+<DankPyon_RackSpear.label>râtelier (lance)</DankPyon_RackSpear.label>
 <DankPyon_RackSpear.description>Un support pour ranger les lances de manière ordonnée. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_RackSpear.description>
 
-<DankPyon_RackMixed.label>râtelier d'arme d'hast</DankPyon_RackMixed.label>
+<DankPyon_RackMixed.label>râtelier (arme d'hast)</DankPyon_RackMixed.label>
 <DankPyon_RackMixed.description>Un support pour ranger les armes d'hasts de manière ordonnée. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_RackMixed.description>
 
-<DankPyon_ShelfEmpty.label>étagère vide</DankPyon_ShelfEmpty.label>
+<DankPyon_ShelfEmpty.label>étagère (vide)</DankPyon_ShelfEmpty.label>
 <DankPyon_ShelfEmpty.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_ShelfEmpty.description>
 
-<DankPyon_ShelfFilled1c.label>étagère remplie</DankPyon_ShelfFilled1c.label>
+<DankPyon_ShelfFilled1c.label>étagère (remplie)</DankPyon_ShelfFilled1c.label>
 <DankPyon_ShelfFilled1c.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_ShelfFilled1c.description>
 
-<DankPyon_ShelfFilled2c.label>étagère remplie</DankPyon_ShelfFilled2c.label>
+<DankPyon_ShelfFilled2c.label>étagère (remplie)</DankPyon_ShelfFilled2c.label>
 <DankPyon_ShelfFilled2c.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_ShelfFilled2c.description>
 
-<DankPyon_ShelfFilledEmerald.label>étagère avec émeraude</DankPyon_ShelfFilledEmerald.label>
+<DankPyon_ShelfFilledEmerald.label>étagère (émeraude)</DankPyon_ShelfFilledEmerald.label>
 <DankPyon_ShelfFilledEmerald.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_ShelfFilledEmerald.description>
 
-<DankPyon_ShelfFilledSapphire.label>étagère avec saphir</DankPyon_ShelfFilledSapphire.label>
+<DankPyon_ShelfFilledSapphire.label>étagère (saphir)</DankPyon_ShelfFilledSapphire.label>
 <DankPyon_ShelfFilledSapphire.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_ShelfFilledSapphire.description>
 
-<DankPyon_ShelfFilledRuby.label>étagère avec rubis</DankPyon_ShelfFilledRuby.label>
+<DankPyon_ShelfFilledRuby.label>étagère (rubis)</DankPyon_ShelfFilledRuby.label>
 <DankPyon_ShelfFilledRuby.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_ShelfFilledRuby.description>
 
-<DankPyon_ShelfFilledSilverware.label>étagère remplie d'argenterie</DankPyon_ShelfFilledSilverware.label>
+<DankPyon_ShelfFilledSilverware.label>étagère (argenterie)</DankPyon_ShelfFilledSilverware.label>
 <DankPyon_ShelfFilledSilverware.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_ShelfFilledSilverware.description>
 
-<DankPyon_ShelfFilledGoldware.label>étagère remplie d'orfèvrerie</DankPyon_ShelfFilledGoldware.label>
+<DankPyon_ShelfFilledGoldware.label>étagère (orfèvrerie)</DankPyon_ShelfFilledGoldware.label>
 <DankPyon_ShelfFilledGoldware.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_ShelfFilledGoldware.description>
 
-<DankPyon_ShelfFilledChaliceSilver.label>étagère avec calice en argent</DankPyon_ShelfFilledChaliceSilver.label>
+<DankPyon_ShelfFilledChaliceSilver.label>étagère (calice en argent)</DankPyon_ShelfFilledChaliceSilver.label>
 <DankPyon_ShelfFilledChaliceSilver.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_ShelfFilledChaliceSilver.description>
 
-<DankPyon_ShelfFilledChaliceGold.label>étagère avec calice en or</DankPyon_ShelfFilledChaliceGold.label>
+<DankPyon_ShelfFilledChaliceGold.label>étagère (calice en or)</DankPyon_ShelfFilledChaliceGold.label>
 <DankPyon_ShelfFilledChaliceGold.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_ShelfFilledChaliceGold.description>
 
-<DankPyon_ShelfFilledWine.label>étagère remplie de vin</DankPyon_ShelfFilledWine.label>
+<DankPyon_ShelfFilledWine.label>étagère (vin)</DankPyon_ShelfFilledWine.label>
 <DankPyon_ShelfFilledWine.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_ShelfFilledWine.description>
 
-<DankPyon_ShelfFilledFood.label>étagère remplie de nourriture</DankPyon_ShelfFilledFood.label>
+<DankPyon_ShelfFilledFood.label>étagère (nourriture)</DankPyon_ShelfFilledFood.label>
 <DankPyon_ShelfFilledFood.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_ShelfFilledFood.description>
 
-<DankPyon_ShelfFilledIngot.label>étagère remplie de lingot</DankPyon_ShelfFilledIngot.label>
+<DankPyon_ShelfFilledIngot.label>étagère (lingot)</DankPyon_ShelfFilledIngot.label>
 <DankPyon_ShelfFilledIngot.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_ShelfFilledIngot.description>
 
-<DankPyon_ShelfFilledBook.label>étagère remplie de livre</DankPyon_ShelfFilledBook.label>
+<DankPyon_ShelfFilledBook.label>étagère (livre)</DankPyon_ShelfFilledBook.label>
 <DankPyon_ShelfFilledBook.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_ShelfFilledBook.description>
 
-<DankPyon_Storage_Cart_Empty.label>charrette vide</DankPyon_Storage_Cart_Empty.label>
+<DankPyon_Storage_Cart_Empty.label>charrette (vide)</DankPyon_Storage_Cart_Empty.label>
 <DankPyon_Storage_Cart_Empty.description>Une charrette fiable pour transporter des nouveautés, des artefacts et des marchandises à travers les terres impitoyables de la Bordure. Peut être utilisé pour stocker des objets.</DankPyon_Storage_Cart_Empty.description>
 
-<DankPyon_Storage_Cart_Assorted.label>charrette d'assortiment</DankPyon_Storage_Cart_Assorted.label>
+<DankPyon_Storage_Cart_Assorted.label>charrette (assortiment)</DankPyon_Storage_Cart_Assorted.label>
 <DankPyon_Storage_Cart_Assorted.description>Une charrette fiable pour transporter des nouveautés, des artefacts et des marchandises à travers les terres impitoyables de la Bordure. Peut être utilisé pour stocker des objets.</DankPyon_Storage_Cart_Assorted.description>
 
-<DankPyon_Storage_Cart_Ore.label>charrette de minerai</DankPyon_Storage_Cart_Ore.label>
+<DankPyon_Storage_Cart_Ore.label>charrette (minerai)</DankPyon_Storage_Cart_Ore.label>
 <DankPyon_Storage_Cart_Ore.description>Une charrette fiable pour transporter des nouveautés, des artefacts et des marchandises à travers les terres impitoyables de la Bordure. Peut être utilisé pour stocker des objets.</DankPyon_Storage_Cart_Ore.description>
 
-<DankPyon_Storage_Cart_PlantRaw.label>charrette de légume</DankPyon_Storage_Cart_PlantRaw.label>
+<DankPyon_Storage_Cart_PlantRaw.label>charrette (légume)</DankPyon_Storage_Cart_PlantRaw.label>
 <DankPyon_Storage_Cart_PlantRaw.description>Une charrette fiable pour transporter des nouveautés, des artefacts et des marchandises à travers les terres impitoyables de la Bordure. Peut être utilisé pour stocker des objets.</DankPyon_Storage_Cart_PlantRaw.description>
 
-<DankPyon_Storage_Cart_Textiles.label>charrette de textile</DankPyon_Storage_Cart_Textiles.label>
+<DankPyon_Storage_Cart_Textiles.label>charrette (textile)</DankPyon_Storage_Cart_Textiles.label>
 <DankPyon_Storage_Cart_Textiles.description>Une charrette fiable pour transporter des nouveautés, des artefacts et des marchandises à travers les terres impitoyables de la Bordure. Peut être utilisé pour stocker des objets.</DankPyon_Storage_Cart_Textiles.description>
 
-<DankPyon_Storage_Cart_RawWood.label>charrette de rondin</DankPyon_Storage_Cart_RawWood.label>
+<DankPyon_Storage_Cart_RawWood.label>charrette (rondin)</DankPyon_Storage_Cart_RawWood.label>
 <DankPyon_Storage_Cart_RawWood.description>Une charrette fiable pour transporter des nouveautés, des artefacts et des marchandises à travers les terres impitoyables de la Bordure. Peut être utilisé pour stocker des objets.</DankPyon_Storage_Cart_RawWood.description>
 
 <DankPyon_RusticDoor.label>porte rustique</DankPyon_RusticDoor.label>
@@ -1103,7 +1103,7 @@
 <DankPyon_LogGate.label>portail</DankPyon_LogGate.label> <!-- Pour éviter la répétition en rondin -->
 <DankPyon_LogGate.description>Divise les pièces. Les portes simples doivent être ouvertes manuellement, ce qui ralentit les gens. L'importance du ralentissement dépend du matériau du portail.</DankPyon_LogGate.description>
 
-<DankPyon_Gate.label>portail</DankPyon_Gate.label>
+<DankPyon_Gate.label>herse</DankPyon_Gate.label>
 <DankPyon_Gate.description>Un portail renforcé qui divise les pièces. Les portes simples doivent être ouvertes manuellement, ce qui ralentit les gens. L'importance du ralentissement dépend du matériau du portail.</DankPyon_Gate.description>
 
 <DankPyon_SlabDoor.label>porte en dalle</DankPyon_SlabDoor.label>
@@ -1148,22 +1148,22 @@
 <DankPyon_RoyalColumn.label>colonne royale</DankPyon_RoyalColumn.label>
 <DankPyon_RoyalColumn.description>Une belle colonne dorée capable de supporter un toit. Ne bloque pas la vue ou le mouvement et a une belle apparence.</DankPyon_RoyalColumn.description>
 
-<DankPyon_TableMarket_Meats.label>étalage de viande</DankPyon_TableMarket_Meats.label>
+<DankPyon_TableMarket_Meats.label>étalage (viande)</DankPyon_TableMarket_Meats.label>
 <DankPyon_TableMarket_Meats.description>Une table garnie pour exposer la viande.</DankPyon_TableMarket_Meats.description>
 
-<DankPyon_TableMarket_Dairy.label>étalage de fromage</DankPyon_TableMarket_Dairy.label>
+<DankPyon_TableMarket_Dairy.label>étalage (laitier)</DankPyon_TableMarket_Dairy.label>
 <DankPyon_TableMarket_Dairy.description>Une table garnie pour présenter des produits laitiers.</DankPyon_TableMarket_Dairy.description>
 
-<DankPyon_TableMarket_Bread.label>étalage de pain</DankPyon_TableMarket_Bread.label>
+<DankPyon_TableMarket_Bread.label>étalage (pain)</DankPyon_TableMarket_Bread.label>
 <DankPyon_TableMarket_Bread.description>Une table garnie pour présenter des produits de boulangerie.</DankPyon_TableMarket_Bread.description>
 
-<DankPyon_MarketTent_1c.label>auvent d'étalage (rouge)</DankPyon_MarketTent_1c.label>
+<DankPyon_MarketTent_1c.label>auvent (rouge)</DankPyon_MarketTent_1c.label>
 <DankPyon_MarketTent_1c.description>Une tente pour protéger vos marchandises des rayons du soleil.</DankPyon_MarketTent_1c.description>
 
-<DankPyon_MarketTent_2c.label>auvent d'étalage (bleu)</DankPyon_MarketTent_2c.label>
+<DankPyon_MarketTent_2c.label>auvent (bleu)</DankPyon_MarketTent_2c.label>
 <DankPyon_MarketTent_2c.description>Une tente pour protéger vos marchandises des rayons du soleil.</DankPyon_MarketTent_2c.description>
 
-<DankPyon_MarketTent_3c.label>auvent d'étalage (vert)</DankPyon_MarketTent_3c.label>
+<DankPyon_MarketTent_3c.label>auvent (vert)</DankPyon_MarketTent_3c.label>
 <DankPyon_MarketTent_3c.description>Une tente pour protéger vos marchandises des rayons du soleil.</DankPyon_MarketTent_3c.description>
 
 <DankPyon_AncientReliquaryEmpty.label>reliquaire antique</DankPyon_AncientReliquaryEmpty.label>
@@ -2081,6 +2081,13 @@
 <DankPyon_MeleeWeapon_Halberd.tools.shaft.label>manche</DankPyon_MeleeWeapon_Halberd.tools.shaft.label>
 <DankPyon_MeleeWeapon_Halberd.tools.blade.label>lame</DankPyon_MeleeWeapon_Halberd.tools.blade.label>
 
+<DankPyon_MeleeWeapon_BlacksmithHammer.label>marteau de forgeron</DankPyon_MeleeWeapon_BlacksmithHammer.label>
+<DankPyon_MeleeWeapon_BlacksmithHammer.description>Outil essentiel de la forge, le marteau de forgeron est conçu pour façonner le métal en fusion et forger des armes et des armures redoutables. Bien que sa fonction première soit l'artisanat, sa tête lourde et son manche robuste en font une arme redoutable, capable de briser les défenses avec la même efficacité que celle dont il fait preuve pour façonner les lingots.</DankPyon_MeleeWeapon_BlacksmithHammer.description>
+<DankPyon_MeleeWeapon_BlacksmithHammer.tools.shaft.label>manche</DankPyon_MeleeWeapon_BlacksmithHammer.tools.shaft.label>
+<DankPyon_MeleeWeapon_BlacksmithHammer.tools.head.label>tête</DankPyon_MeleeWeapon_BlacksmithHammer.tools.head.label>
+
+
+
 <DankPyon_MeleeWeapon_Pickaxe.label>pioche</DankPyon_MeleeWeapon_Pickaxe.label>
 <DankPyon_MeleeWeapon_Pickaxe.description>Outil d'exploitation minière utilisé pour frapper les pierres et les gisements ; bien qu'elle serve principalement à collecter des ressources, la pioche comporte des pointes mortelles à ses deux extrémités, capables de décimer les armures aussi efficacement qu'elle extrait le minerai.</DankPyon_MeleeWeapon_Pickaxe.description>
 <DankPyon_MeleeWeapon_Pickaxe.tools.handle.label>poignée</DankPyon_MeleeWeapon_Pickaxe.tools.handle.label>
@@ -2474,11 +2481,14 @@
 <DankPyon_Wine_Griffon.tools.bottle.label>bouteille</DankPyon_Wine_Griffon.tools.bottle.label>
 <DankPyon_Wine_Griffon.tools.neck.label>goulot</DankPyon_Wine_Griffon.tools.neck.label>
 
-<DankPyon_MustWine_Griffon.label>moût de baie de griffon (vin)</DankPyon_MustWine_Griffon.label>
+<DankPyon_MustWine_Griffon.label>moût de baie de griffon (vin de griffon)</DankPyon_MustWine_Griffon.label>
 <DankPyon_MustWine_Griffon.description>Baies de griffon écrasées. Doit subir une fermentation pour devenir du vin.</DankPyon_MustWine_Griffon.description>
 
+<DankPyon_MustWine_Ice.label>moût de baie de givre (vin de glace)</DankPyon_MustWine_Ice.label>
+<DankPyon_MustWine_Ice.description>Baies de givre écrasées. Doit subir une fermentation dans un tonneau rustique pour devenir du vin.</DankPyon_MustWine_Ice.description>
+
 <DankPyon_Wine_Ice.label>vin de glace</DankPyon_Wine_Ice.label>
-<!--DankPyon_Wine_Ice.description>PLACEHOLDER</DankPyon_Wine_Ice.description-->
+<DankPyon_Wine_Ice.description>Élaboré à partir de rares baies de givre, c'est un élixir recherché, connu pour ses qualités enchanteresses. Les baies de givre, récoltées lors des premières gelées de l'hiver, donnent un vin à la saveur vive et sucrée, avec un soupçon de froid hivernal. Le vin de glace confère une subtile résistance au froid à ceux qui le boivent, les fortifiant ainsi contre les froids les plus rigoureux. Cette boisson magique est très appréciée des aventuriers et des voyageurs qui bravent les terrains glacés, car elle offre à la fois chaleur et protection en une seule gorgée rafraîchissante.</DankPyon_Wine_Ice.description>
 <DankPyon_Wine_Ice.ingestible.ingestCommandString>Boire du {0}</DankPyon_Wine_Ice.ingestible.ingestCommandString>
 <DankPyon_Wine_Ice.ingestible.ingestReportString>Boit du {0}.</DankPyon_Wine_Ice.ingestible.ingestReportString>
 <DankPyon_Wine_Ice.tools.bottle.label>bouteille</DankPyon_Wine_Ice.tools.bottle.label>
@@ -2496,10 +2506,10 @@
 <DankPyon_RusticBookshelf1x2c.label>grande bibliothèque</DankPyon_RusticBookshelf1x2c.label>
 <DankPyon_RusticBookshelf1x2c.description>Augmente la vitesse de recherche lorsqu'il est placé près d'un poste de recherche. Chaque poste de recherche peut utiliser une grande bibliothèque.</DankPyon_RusticBookshelf1x2c.description>
 
-<DankPyon_RusticEmptyShelf.label>étagère vide</DankPyon_RusticEmptyShelf.label>
+<DankPyon_RusticEmptyShelf.label>étagère (vide)</DankPyon_RusticEmptyShelf.label>
 <DankPyon_RusticEmptyShelf.description>Une étagère vide.</DankPyon_RusticEmptyShelf.description>
 
-<DankPyon_RusticEmptyShelf1x2c.label>grande étagère vide</DankPyon_RusticEmptyShelf1x2c.label>
+<DankPyon_RusticEmptyShelf1x2c.label>grande étagère (vide)</DankPyon_RusticEmptyShelf1x2c.label>
 <DankPyon_RusticEmptyShelf1x2c.description>Une grande étagère vide.</DankPyon_RusticEmptyShelf1x2c.description>
 
 <DankPyon_Fountain1x1c.label>petite fontaine</DankPyon_Fountain1x1c.label>
@@ -2714,7 +2724,7 @@ Exigences :
 <DankPyon_Plasteel2x2c.label>pile de lingots de plastacier (2x2)</DankPyon_Plasteel2x2c.label>
 <DankPyon_Plasteel2x2c.description>Les lingots sont empilés de manière judicieuse afin d'économiser de l'espace.</DankPyon_Plasteel2x2c.description>
 
-<DankPyon_BarrelRawPlasteel.label>tonneau de minerai de plastacier</DankPyon_BarrelRawPlasteel.label>
+<DankPyon_BarrelRawPlasteel.label>tonneau (minerai de plastacier)</DankPyon_BarrelRawPlasteel.label>
 <DankPyon_BarrelRawPlasteel.description>Un tonneau cylindrique réservé au minerai de plastacier pour gagner de la place. Peut contenir jusqu'à 4 piles de minerai de plastacier. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_BarrelRawPlasteel.description>
 
 <DankPyon_IceCellar.label>cave à glace</DankPyon_IceCellar.label>
@@ -2747,22 +2757,22 @@ Exigences :
 <DankPyon_HideoutBricks2x2c.label>blocs (2x2)</DankPyon_HideoutBricks2x2c.label>
 <DankPyon_HideoutBricks2x2c.description>Des blocs qui sont empilés de manière judicieuse pour gagner de l'espace.</DankPyon_HideoutBricks2x2c.description>
 
-<DankPyon_HideoutRusticCupboardEmpty.label>armoire</DankPyon_HideoutRusticCupboardEmpty.label>
+<DankPyon_HideoutRusticCupboardEmpty.label>armoire (vide)</DankPyon_HideoutRusticCupboardEmpty.label>
 <DankPyon_HideoutRusticCupboardEmpty.description>Une armoire ouverte pour ranger et présenter des objets de manière efficace.</DankPyon_HideoutRusticCupboardEmpty.description>
 
-<DankPyon_HideoutRusticCupboardBread.label>armoire à pain</DankPyon_HideoutRusticCupboardBread.label>
+<DankPyon_HideoutRusticCupboardBread.label>armoire (pain)</DankPyon_HideoutRusticCupboardBread.label>
 <DankPyon_HideoutRusticCupboardBread.description>Une armoire ouverte pour ranger et présenter des objets de manière efficace.</DankPyon_HideoutRusticCupboardBread.description>
 
-<DankPyon_HideoutRusticCupboardCheese.label>armoire à fromage</DankPyon_HideoutRusticCupboardCheese.label>
+<DankPyon_HideoutRusticCupboardCheese.label>armoire (laitier)</DankPyon_HideoutRusticCupboardCheese.label>
 <DankPyon_HideoutRusticCupboardCheese.description>Une armoire ouverte pour ranger et présenter des objets de manière efficace.</DankPyon_HideoutRusticCupboardCheese.description>
 
-<DankPyon_HideoutRusticCupboardWine.label>armoire à vin</DankPyon_HideoutRusticCupboardWine.label>
+<DankPyon_HideoutRusticCupboardWine.label>armoire (vin)</DankPyon_HideoutRusticCupboardWine.label>
 <DankPyon_HideoutRusticCupboardWine.description>Une armoire ouverte pour ranger et présenter des objets de manière efficace.</DankPyon_HideoutRusticCupboardWine.description>
 
 <DankPyon_HideoutRusticBarrelBigClosed.label>grand tonneau</DankPyon_HideoutRusticBarrelBigClosed.label>
 <DankPyon_HideoutRusticBarrelBigClosed.description>Un tonneau cylindrique pour le stockage général. Les objets qui y sont stockés n'affecteront pas la beauté de la pièce et ne se détérioreront pas, même s'il est à l'extérieur.</DankPyon_HideoutRusticBarrelBigClosed.description>
 
-<DankPyon_HideoutRusticBarrelBigGrape.label>grand tonneau à raisins</DankPyon_HideoutRusticBarrelBigGrape.label>
+<DankPyon_HideoutRusticBarrelBigGrape.label>grand tonneau (raisin)</DankPyon_HideoutRusticBarrelBigGrape.label>
 <DankPyon_HideoutRusticBarrelBigGrape.description>Un tonneau cylindrique pour le stockage général. Les objets qui y sont stockés n'affecteront pas la beauté de la pièce et ne se détérioreront pas, même s'il est à l'extérieur.</DankPyon_HideoutRusticBarrelBigGrape.description>
 
 <DankPyon_HideoutRusticBarrelBigClosedDown.label>grand tonneau</DankPyon_HideoutRusticBarrelBigClosedDown.label>
@@ -2774,55 +2784,55 @@ Exigences :
 <DankPyon_HideoutRusticBarrelClosed.label>tonneau</DankPyon_HideoutRusticBarrelClosed.label>
 <DankPyon_HideoutRusticBarrelClosed.description>Un tonneau cylindrique pour le stockage général. Les objets qui y sont stockés n'affecteront pas la beauté de la pièce et ne se détérioreront pas, même s'il est à l'extérieur.</DankPyon_HideoutRusticBarrelClosed.description>
 
-<DankPyon_HideoutBarrelWoodLog.label>tonneau de rondin</DankPyon_HideoutBarrelWoodLog.label>
+<DankPyon_HideoutBarrelWoodLog.label>tonneau (rondin)</DankPyon_HideoutBarrelWoodLog.label>
 <DankPyon_HideoutBarrelWoodLog.description>Un tonneau cylindrique réservé au rondin de bois pour gagner de la place. Peut contenir jusqu'à 4 piles de rondin. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutBarrelWoodLog.description>
 
-<DankPyon_HideoutBarrelIronOre.label>tonneau de minerai de fer</DankPyon_HideoutBarrelIronOre.label>
+<DankPyon_HideoutBarrelIronOre.label>tonneau (minerai de fer)</DankPyon_HideoutBarrelIronOre.label>
 <DankPyon_HideoutBarrelIronOre.description>Un tonneau cylindrique réservé au minerai de fer pour gagner de la place. Peut contenir jusqu'à 4 piles de minerai de fer. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutBarrelIronOre.description>
 
-<DankPyon_HideoutBarrelSilverOre.label>tonneau de minerai d'argent</DankPyon_HideoutBarrelSilverOre.label>
+<DankPyon_HideoutBarrelSilverOre.label>tonneau (minerai d'argent)</DankPyon_HideoutBarrelSilverOre.label>
 <DankPyon_HideoutBarrelSilverOre.description>Un tonneau cylindrique réservé au minerai d'argent pour gagner de la place. Peut contenir jusqu'à 4 piles de minerai d'argent. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutBarrelSilverOre.description>
 
-<DankPyon_HideoutBarrelGoldOre.label>tonneau de minerai d'or</DankPyon_HideoutBarrelGoldOre.label>
+<DankPyon_HideoutBarrelGoldOre.label>tonneau (minerai d'or)</DankPyon_HideoutBarrelGoldOre.label>
 <DankPyon_HideoutBarrelGoldOre.description>Un tonneau cylindrique réservé au minerai d'or pour gagner de la place. Peut contenir jusqu'à 4 piles de minerai d'or. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutBarrelGoldOre.description>
 
-<DankPyon_HideoutBarrelCoalOre.label>tonneau de minerai de charbon</DankPyon_HideoutBarrelCoalOre.label>
+<DankPyon_HideoutBarrelCoalOre.label>tonneau (minerai de charbon)</DankPyon_HideoutBarrelCoalOre.label>
 <DankPyon_HideoutBarrelCoalOre.description>Un tonneau cylindrique réservé au minerai de charbon pour gagner de la place. Peut contenir jusqu'à 4 piles de minerai de charbon. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutBarrelCoalOre.description>
 
-<DankPyon_HideoutBarrelTextiles.label>tonneau de textile</DankPyon_HideoutBarrelTextiles.label>
+<DankPyon_HideoutBarrelTextiles.label>tonneau (textile)</DankPyon_HideoutBarrelTextiles.label>
 <DankPyon_HideoutBarrelTextiles.description>Un tonneau cylindrique réservé au textile pour gagner de la place. Peut contenir jusqu'à 4 piles de textile. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutBarrelTextiles.description>
 
-<DankPyon_HideoutBarrelLeather.label>tonneau de cuir</DankPyon_HideoutBarrelLeather.label>
+<DankPyon_HideoutBarrelLeather.label>tonneau (cuir)</DankPyon_HideoutBarrelLeather.label>
 <DankPyon_HideoutBarrelLeather.description>Un tonneau cylindrique réservé au cuir pour gagner de la place. Peut contenir jusqu'à 4 piles de cuir. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutBarrelLeather.description>
 
-<DankPyon_HideoutBarrelComponentBasic.label>tonneau de composant simple</DankPyon_HideoutBarrelComponentBasic.label>
+<DankPyon_HideoutBarrelComponentBasic.label>tonneau (composant simple)</DankPyon_HideoutBarrelComponentBasic.label>
 <DankPyon_HideoutBarrelComponentBasic.description>Un tonneau cylindrique réservé au composant simple pour gagner de la place. Peut contenir jusqu'à 4 piles de composant simple. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutBarrelComponentBasic.description>
 
-<DankPyon_HideoutBarrelGrape.label>tonneau de raisin</DankPyon_HideoutBarrelGrape.label>
+<DankPyon_HideoutBarrelGrape.label>tonneau (raisin)</DankPyon_HideoutBarrelGrape.label>
 <DankPyon_HideoutBarrelGrape.description>Un tonneau cylindrique réservé au raisin pour gagner de la place. Peut contenir jusqu'à 4 piles de raisin. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutBarrelGrape.description>
 
-<DankPyon_HideoutLargeShelfEmpty.label>grande étagère vide</DankPyon_HideoutLargeShelfEmpty.label>
+<DankPyon_HideoutLargeShelfEmpty.label>grande étagère (vide)</DankPyon_HideoutLargeShelfEmpty.label>
 <DankPyon_HideoutLargeShelfEmpty.description>Une grande plate-forme carrée conçue pour stocker des objets, les garder propres et hors du sol.</DankPyon_HideoutLargeShelfEmpty.description>
 
-<DankPyon_HideoutLargeShelf_Bread.label>grande étagère à pain</DankPyon_HideoutLargeShelf_Bread.label>
+<DankPyon_HideoutLargeShelf_Bread.label>grande étagère (pain)</DankPyon_HideoutLargeShelf_Bread.label>
 <DankPyon_HideoutLargeShelf_Bread.description>Une grande plate-forme carrée conçue pour stocker des objets, les garder propres et hors du sol.</DankPyon_HideoutLargeShelf_Bread.description>
 
-<DankPyon_HideoutLargeShelf_Grain.label>grande étagère à céréale</DankPyon_HideoutLargeShelf_Grain.label>
+<DankPyon_HideoutLargeShelf_Grain.label>grande étagère (céréale)</DankPyon_HideoutLargeShelf_Grain.label>
 <DankPyon_HideoutLargeShelf_Grain.description>Une grande plate-forme carrée conçue pour stocker des objets, les garder propres et hors du sol.</DankPyon_HideoutLargeShelf_Grain.description>
 
-<DankPyon_HideoutLargeShelf_Meats.label>grande étagère à viande</DankPyon_HideoutLargeShelf_Meats.label>
+<DankPyon_HideoutLargeShelf_Meats.label>grande étagère (viande)</DankPyon_HideoutLargeShelf_Meats.label>
 <DankPyon_HideoutLargeShelf_Meats.description>Une grande plate-forme carrée conçue pour stocker des objets, les garder propres et hors du sol.</DankPyon_HideoutLargeShelf_Meats.description>
 
-<DankPyon_HideoutLargeShelf_Cheese.label>grande étagère à fromage</DankPyon_HideoutLargeShelf_Cheese.label>
+<DankPyon_HideoutLargeShelf_Cheese.label>grande étagère (laitier)</DankPyon_HideoutLargeShelf_Cheese.label>
 <DankPyon_HideoutLargeShelf_Cheese.description>Une grande plate-forme carrée conçue pour stocker des objets, les garder propres et hors du sol.</DankPyon_HideoutLargeShelf_Cheese.description>
 
-<DankPyon_HideoutLargeShelf_Wine.label>grande étagère à vin</DankPyon_HideoutLargeShelf_Wine.label>
+<DankPyon_HideoutLargeShelf_Wine.label>grande étagère (vin)</DankPyon_HideoutLargeShelf_Wine.label>
 <DankPyon_HideoutLargeShelf_Wine.description>Une grande plate-forme carrée conçue pour stocker des objets, les garder propres et hors du sol.</DankPyon_HideoutLargeShelf_Wine.description>
 
-<DankPyon_HideoutLargeShelf_Mead.label>grande étagère à hydromel</DankPyon_HideoutLargeShelf_Mead.label>
+<DankPyon_HideoutLargeShelf_Mead.label>grande étagère (hydromel)</DankPyon_HideoutLargeShelf_Mead.label>
 <DankPyon_HideoutLargeShelf_Mead.description>Une grande plate-forme carrée conçue pour stocker des objets, les garder propres et hors du sol.</DankPyon_HideoutLargeShelf_Mead.description>
 
-<DankPyon_HideoutLargeShelf_Vegetables.label>grande étagère à légume</DankPyon_HideoutLargeShelf_Vegetables.label>
+<DankPyon_HideoutLargeShelf_Vegetables.label>grande étagère (légume)</DankPyon_HideoutLargeShelf_Vegetables.label>
 <DankPyon_HideoutLargeShelf_Vegetables.description>Une grande plate-forme carrée conçue pour stocker des objets, les garder propres et hors du sol.</DankPyon_HideoutLargeShelf_Vegetables.description>
 
 <DankPyon_HideoutSackClosed.label>sac fermé</DankPyon_HideoutSackClosed.label>
@@ -2846,70 +2856,70 @@ Exigences :
 <DankPyon_HideoutCrate1x2c.label>caisse</DankPyon_HideoutCrate1x2c.label>
 <DankPyon_HideoutCrate1x2c.description>Une boîte en bois composée de planches conçues pour stocker des ressources. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutCrate1x2c.description>
 
-<DankPyon_HideoutRackEmpty.label>râtelier vide</DankPyon_HideoutRackEmpty.label>
+<DankPyon_HideoutRackEmpty.label>râtelier (vide)</DankPyon_HideoutRackEmpty.label>
 <DankPyon_HideoutRackEmpty.description>Un support pour ranger des armes de manière ordonnée. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutRackEmpty.description>
 
-<DankPyon_HideoutRackSword.label>râtelier d'épée</DankPyon_HideoutRackSword.label>
+<DankPyon_HideoutRackSword.label>râtelier (épée)</DankPyon_HideoutRackSword.label>
 <DankPyon_HideoutRackSword.description>Un support pour ranger les épées de manière ordonnée. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutRackSword.description>
 
-<DankPyon_HideoutRackSpear.label>râtelier à lance</DankPyon_HideoutRackSpear.label>
+<DankPyon_HideoutRackSpear.label>râtelier (lance)</DankPyon_HideoutRackSpear.label>
 <DankPyon_HideoutRackSpear.description>Un support pour ranger les lances de manière ordonnée. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutRackSpear.description>
 
-<DankPyon_HideoutRackMixed.label>râtelier d'arme d'hast</DankPyon_HideoutRackMixed.label>
+<DankPyon_HideoutRackMixed.label>râtelier (arme d'hast)</DankPyon_HideoutRackMixed.label>
 <DankPyon_HideoutRackMixed.description>Un support pour ranger les armes d'hasts de manière ordonnée. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutRackMixed.description>
 
-<DankPyon_HideoutShelfEmpty.label>étagère vide</DankPyon_HideoutShelfEmpty.label>
+<DankPyon_HideoutShelfEmpty.label>étagère (vide)</DankPyon_HideoutShelfEmpty.label>
 <DankPyon_HideoutShelfEmpty.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutShelfEmpty.description>
 
-<DankPyon_HideoutShelfFilledEmerald.label>étagère avec émeraude</DankPyon_HideoutShelfFilledEmerald.label>
+<DankPyon_HideoutShelfFilledEmerald.label>étagère (émeraude)</DankPyon_HideoutShelfFilledEmerald.label>
 <DankPyon_HideoutShelfFilledEmerald.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutShelfFilledEmerald.description>
 
-<DankPyon_HideoutShelfFilledSapphire.label>étagère avec saphir</DankPyon_HideoutShelfFilledSapphire.label>
+<DankPyon_HideoutShelfFilledSapphire.label>étagère (saphir)</DankPyon_HideoutShelfFilledSapphire.label>
 <DankPyon_HideoutShelfFilledSapphire.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutShelfFilledSapphire.description>
 
-<DankPyon_HideoutShelfFilledRuby.label>étagère avec rubis</DankPyon_HideoutShelfFilledRuby.label>
+<DankPyon_HideoutShelfFilledRuby.label>étagère (rubis)</DankPyon_HideoutShelfFilledRuby.label>
 <DankPyon_HideoutShelfFilledRuby.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutShelfFilledRuby.description>
 
-<DankPyon_HideoutShelfFilledSilverware.label>étagère remplie d'argenterie</DankPyon_HideoutShelfFilledSilverware.label>
+<DankPyon_HideoutShelfFilledSilverware.label>étagère (argenterie)</DankPyon_HideoutShelfFilledSilverware.label>
 <DankPyon_HideoutShelfFilledSilverware.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutShelfFilledSilverware.description>
 
-<DankPyon_HideoutShelfFilledGoldware.label>étagère remplie d'orfèvrerie</DankPyon_HideoutShelfFilledGoldware.label>
+<DankPyon_HideoutShelfFilledGoldware.label>étagère (orfèvrerie)</DankPyon_HideoutShelfFilledGoldware.label>
 <DankPyon_HideoutShelfFilledGoldware.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutShelfFilledGoldware.description>
 
-<DankPyon_HideoutShelfFilledChaliceSilver.label>étagère avec calice en argent</DankPyon_HideoutShelfFilledChaliceSilver.label>
+<DankPyon_HideoutShelfFilledChaliceSilver.label>étagère (calice en argent)</DankPyon_HideoutShelfFilledChaliceSilver.label>
 <DankPyon_HideoutShelfFilledChaliceSilver.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutShelfFilledChaliceSilver.description>
 
-<DankPyon_HideoutShelfFilledWine.label>étagère remplie de vin</DankPyon_HideoutShelfFilledWine.label>
+<DankPyon_HideoutShelfFilledWine.label>étagère (vin)</DankPyon_HideoutShelfFilledWine.label>
 <DankPyon_HideoutShelfFilledWine.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutShelfFilledWine.description>
 
-<DankPyon_HideoutShelfFilledFood.label>étagère remplie de nourriture</DankPyon_HideoutShelfFilledFood.label>
+<DankPyon_HideoutShelfFilledFood.label>étagère (nourriture)</DankPyon_HideoutShelfFilledFood.label>
 <DankPyon_HideoutShelfFilledFood.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutShelfFilledFood.description>
 
-<DankPyon_HideoutShelfFilledIngot.label>étagère remplie de lingot</DankPyon_HideoutShelfFilledIngot.label>
+<DankPyon_HideoutShelfFilledIngot.label>étagère (lingot)</DankPyon_HideoutShelfFilledIngot.label>
 <DankPyon_HideoutShelfFilledIngot.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutShelfFilledIngot.description>
 
-<DankPyon_HideoutShelfFilledBook.label>étagère remplie de livre</DankPyon_HideoutShelfFilledBook.label>
+<DankPyon_HideoutShelfFilledBook.label>étagère (livre)</DankPyon_HideoutShelfFilledBook.label>
 <DankPyon_HideoutShelfFilledBook.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutShelfFilledBook.description>
 
 <DankPyon_HideoutStrawPile.label>tas de paille</DankPyon_HideoutStrawPile.label>
 <DankPyon_HideoutStrawPile.description>Une quantité massive de paille, façonnée pour économiser de l'espace.</DankPyon_HideoutStrawPile.description>
 
-<DankPyon_HideOutBuildingBase_Cart_Empty.label>charrette vide</DankPyon_HideOutBuildingBase_Cart_Empty.label>
+<DankPyon_HideOutBuildingBase_Cart_Empty.label>charrette (vide)</DankPyon_HideOutBuildingBase_Cart_Empty.label>
 <DankPyon_HideOutBuildingBase_Cart_Empty.description>Une charrette fiable pour transporter des nouveautés, des artefacts et des marchandises à travers les terres impitoyables de la Bordure. Peut être utilisé pour stocker des objets.</DankPyon_HideOutBuildingBase_Cart_Empty.description>
 
-<DankPyon_HideOutBuildingBase_Cart_Assorted.label>charrette d'assortiment</DankPyon_HideOutBuildingBase_Cart_Assorted.label>
+<DankPyon_HideOutBuildingBase_Cart_Assorted.label>charrette (assortiment)</DankPyon_HideOutBuildingBase_Cart_Assorted.label>
 <DankPyon_HideOutBuildingBase_Cart_Assorted.description>Une charrette fiable pour transporter des nouveautés, des artefacts et des marchandises à travers les terres impitoyables de la Bordure. Peut être utilisé pour stocker des objets.</DankPyon_HideOutBuildingBase_Cart_Assorted.description>
 
-<DankPyon_HideOutBuildingBase_Cart_Ore.label>charrette de minerai</DankPyon_HideOutBuildingBase_Cart_Ore.label>
+<DankPyon_HideOutBuildingBase_Cart_Ore.label>charrette (minerai)</DankPyon_HideOutBuildingBase_Cart_Ore.label>
 <DankPyon_HideOutBuildingBase_Cart_Ore.description>Une charrette fiable pour transporter des nouveautés, des artefacts et des marchandises à travers les terres impitoyables de la Bordure. Peut être utilisé pour stocker des objets.</DankPyon_HideOutBuildingBase_Cart_Ore.description>
 
-<DankPyon_HideOutBuildingBase_Cart_PlantRaw.label>charrette de légume</DankPyon_HideOutBuildingBase_Cart_PlantRaw.label>
+<DankPyon_HideOutBuildingBase_Cart_PlantRaw.label>charrette (légume)</DankPyon_HideOutBuildingBase_Cart_PlantRaw.label>
 <DankPyon_HideOutBuildingBase_Cart_PlantRaw.description>Une charrette fiable pour transporter des nouveautés, des artefacts et des marchandises à travers les terres impitoyables de la Bordure. Peut être utilisé pour stocker des objets.</DankPyon_HideOutBuildingBase_Cart_PlantRaw.description>
 
-<DankPyon_HideOutBuildingBase_Cart_Textiles.label>charrette de textile</DankPyon_HideOutBuildingBase_Cart_Textiles.label>
+<DankPyon_HideOutBuildingBase_Cart_Textiles.label>charrette (textile)</DankPyon_HideOutBuildingBase_Cart_Textiles.label>
 <DankPyon_HideOutBuildingBase_Cart_Textiles.description>Une charrette fiable pour transporter des nouveautés, des artefacts et des marchandises à travers les terres impitoyables de la Bordure. Peut être utilisé pour stocker des objets.</DankPyon_HideOutBuildingBase_Cart_Textiles.description>
 
-<DankPyon_HideOutBuildingBase_Cart_RawWood.label>charrette de rondin</DankPyon_HideOutBuildingBase_Cart_RawWood.label>
+<DankPyon_HideOutBuildingBase_Cart_RawWood.label>charrette (rondin)</DankPyon_HideOutBuildingBase_Cart_RawWood.label>
 <DankPyon_HideOutBuildingBase_Cart_RawWood.description>Une charrette fiable pour transporter des nouveautés, des artefacts et des marchandises à travers les terres impitoyables de la Bordure. Peut être utilisé pour stocker des objets.</DankPyon_HideOutBuildingBase_Cart_RawWood.description>
 
 <DankPyon_Hideout_RusticChest.label>coffre rustique</DankPyon_Hideout_RusticChest.label>
@@ -3000,40 +3010,40 @@ Exigences :
 <DankPyon_ThickUnholdFur.description>Les peaux robustes du formidable unhold, réputées pour leur épaisseur et leur résistance aux intempéries, très recherchées pour la confection de vêtements résistants et d'équipements de protection.</DankPyon_ThickUnholdFur.description>
 
 <DankPyon_UnholdHide.label>cuir de unhold</DankPyon_UnholdHide.label>
-<!--DankPyon_UnholdHide.description>PLACEHOLDER</DankPyon_UnholdHide.description-->
+<DankPyon_UnholdHide.description>La peau robuste du formidable unhold, réputée pour son épaisseur et sa résistance aux intempéries, est recherchée pour la confection de vêtements résistants et d'équipements de protection.</DankPyon_UnholdHide.description>
 
 <DankPyon_UnholdHeart.label>cœur de unhold</DankPyon_UnholdHeart.label>
 <DankPyon_UnholdHeart.description>Le cœur battant du redoutable unhold, palpitant de puissance primitive et de vitalité ancienne, considéré comme un ingrédient clé pour la création d'élixirs d'endurance.</DankPyon_UnholdHeart.description>
 
-<DankPyon_Gossamer.label>toile</DankPyon_Gossamer.label>
-<!--DankPyon_Gossamer.description>PLACEHOLDER</DankPyon_Gossamer.description-->
+<DankPyon_Gossamer.label>fil webknecht</DankPyon_Gossamer.label>
+<DankPyon_Gossamer.description>Les fils solides d'un webknecht, plus légers et plus résistants que l'acier.</DankPyon_Gossamer.description>
 
 <DankPyon_PoisonGland.label>glande à poison</DankPyon_PoisonGland.label>
-<!--DankPyon_PoisonGland.description>PLACEHOLDER</DankPyon_PoisonGland.description-->
+<DankPyon_PoisonGland.description>Le poison webknecht est connu dans le monde entier pour sa capacité à faire tomber un rox.</DankPyon_PoisonGland.description>
 
 <DankPyon_RedbackPoisonGland.label>glande à poison de dos rouge</DankPyon_RedbackPoisonGland.label>
-<!--DankPyon_RedbackPoisonGland.description>PLACEHOLDER</DankPyon_RedbackPoisonGland.description-->
+<DankPyon_RedbackPoisonGland.description>Le poison de dos rouge est connu dans le monde entier pour sa capacité à faire tomber un daer.</DankPyon_RedbackPoisonGland.description>
 
 <DankPyon_LindwurmBlood.label>sang de lindwurm</DankPyon_LindwurmBlood.label>
 <DankPyon_LindwurmBlood.description>Le sang acide d'un Lindwurm, soigneusement conservé dans du verre. De nature très corrosive, il peut faire fondre une armure en quelques secondes. En raison de ses capacités offensives, il est très recherché par les alchimistes et les chasseurs.</DankPyon_LindwurmBlood.description>
 
 <DankPyon_LindwurmBones.label>os de lindwurm</DankPyon_LindwurmBones.label>
-<!--DankPyon_LindwurmBones.description>PLACEHOLDER</DankPyon_LindwurmBones.description-->
+<DankPyon_LindwurmBones.description>Os solides et légers d'un lindwurm, appréciés pour leur résistance et souvent utilisés dans la fabrication d'armes solides et d'outils spécialisés.</DankPyon_LindwurmBones.description>
 
 <DankPyon_LindwurmScales.label>écailles de lindwurm</DankPyon_LindwurmScales.label>
-<!--DankPyon_LindwurmScales.description>PLACEHOLDER</DankPyon_LindwurmScales.description-->
+<DankPyon_LindwurmScales.description>Écailles résistantes et durables prélevées sur un lindwurm, appréciées pour leur force et leur résistance exceptionnelles. Idéales pour fabriquer des armures et des équipements de protection de haute qualité.</DankPyon_LindwurmScales.description>
 
-<DankPyon_NachHorns.label>corne de goule</DankPyon_NachHorns.label>
-<!--DankPyon_NachHorns.description>PLACEHOLDER</DankPyon_NachHorns.description-->
+<DankPyon_NachHorns.label>corne de nachzehrer</DankPyon_NachHorns.label>
+<DankPyon_NachHorns.description>Cornes acérées et torsadées d'un nachzehrer, connues pour leur dureté et utilisées dans la fabrication d'armes puissantes ou d'objets rituels.</DankPyon_NachHorns.description>
 
 <DankPyon_ParchedSkin.label>peau desséchée</DankPyon_ParchedSkin.label>
-<!--DankPyon_ParchedSkin.description>PLACEHOLDER</DankPyon_ParchedSkin.description-->
+<DankPyon_ParchedSkin.description>Peau douce mais durable d'un alp, souvent utilisée pour fabriquer des armures légères ou des vêtements aux qualités protectrices subtiles.</DankPyon_ParchedSkin.description>
 
 <DankPyon_PetrifiedScream.label>cri pétrifié</DankPyon_PetrifiedScream.label>
-<!--DankPyon_PetrifiedScream.description>PLACEHOLDER</DankPyon_PetrifiedScream.description-->
+<DankPyon_PetrifiedScream.description>Partie unique de la biologie des alps, cette manifestation solidifiée du dernier cri de la créature est un matériau rare et sinistre utilisé dans l'artisanat ou les rituels sombres.</DankPyon_PetrifiedScream.description>
 
 <DankPyon_ThirdEye.label>troisième œil</DankPyon_ThirdEye.label>
-<!--DankPyon_ThirdEye.description>PLACEHOLDER</DankPyon_ThirdEye.description-->
+<DankPyon_ThirdEye.description>Organe mystique d'un alp, connu pour sa capacité à percevoir au-delà du domaine physique. Il est souvent recherché pour être utilisé dans des rituels puissants ou pour fabriquer des objets dotés d'une meilleure perception ou de capacités psychiques.</DankPyon_ThirdEye.description>
 
 <DankPyon_UnfinishedLinduwrmShield.label>bouclier de lindwurm inachevé</DankPyon_UnfinishedLinduwrmShield.label>
 <DankPyon_UnfinishedLinduwrmShield.description>Un bouclier de lindwurm inachevé.</DankPyon_UnfinishedLinduwrmShield.description>
@@ -3073,7 +3083,7 @@ Exigences :
 <DankPyon_Headgear_CultistHood.description>Une coiffe à rembourrage épais, le plus souvent portée sous un casque plus lourd pour une couche de protection supplémentaire. Elle est plutôt isolante et offre à elle seule une certaine protection contre les objets contondants.</DankPyon_Headgear_CultistHood.description>
 
 <DankPyon_Weapon_AcidFlask.label>flacon d'acide</DankPyon_Weapon_AcidFlask.label>
-<!--DankPyon_Weapon_AcidFlask.description>PLACEHOLDER</DankPyon_Weapon_AcidFlask.description-->
+<DankPyon_Weapon_AcidFlask.description>Un flacon contenant de l'acide de lindwurm, conçue pour pulvériser l'acide corrosif en cas de rupture.</DankPyon_Weapon_AcidFlask.description>
 <DankPyon_Weapon_AcidFlask.verbs.throw_acid_flask.label>lancer flacon d'acide</DankPyon_Weapon_AcidFlask.verbs.throw_acid_flask.label>
 <DankPyon_Proj_AcidFlask.label>flacon d'acide</DankPyon_Proj_AcidFlask.label>
 
@@ -3164,6 +3174,7 @@ Exigences :
 <DankPyon_SchratPlain_Sapling.description>Un enchevêtrement noueux de branches, de racines et de boue, dont la forme rappelle celle d'un être humain.\n\nDoués d'une volonté tordue et sinistre, les Schrats se faufilent lentement dans les sous-bois à la recherche des vivants.\n\nOn dit que les Waldschrats se délectent du sang des bûcherons indiscrets et des chasseurs trop zélés.</DankPyon_SchratPlain_Sapling.description>
 <DankPyon_SchratPlain_Sapling.tools.left_fist.label>poing gauche</DankPyon_SchratPlain_Sapling.tools.left_fist.label>
 <DankPyon_SchratPlain_Sapling.tools.right_fist.label>poing droit</DankPyon_SchratPlain_Sapling.tools.right_fist.label>
+<DankPyon_SchratPlain_Sapling.tools.head.label>tête</DankPyon_SchratPlain_Sapling.tools.head.label>
 
 <DankPyon_AncientTroll.label>ancien troll</DankPyon_AncientTroll.label>
 <DankPyon_AncientTroll.description>Un bûcheron géant, de la taille de trois hommes, qui éclipse même les plus grands. Il mange des moutons entiers en guise de collation et vide un étang pour épancher sa soif.</DankPyon_AncientTroll.description>
@@ -3180,7 +3191,7 @@ Exigences :
 <DankPyon_AncientTroll.tools.head.label>tête</DankPyon_AncientTroll.tools.head.label>
 
 <DankPyon_Unhold.label>unhold</DankPyon_Unhold.label>
-<!--DankPyon_Unhold.description>PLACEHOLDER</DankPyon_Unhold.description-->
+<DankPyon_Unhold.description>L'unhold est un géant imposant, trois fois plus grand qu'un homme, connu pour dévorer les moutons et assécher les étangs d'une seule gorgée. Bien que les contes les décrivent comme destructeurs, ils ne sont pas foncièrement malveillants, préférant effrayer les intrus par des rugissements assourdissants plutôt que d'attaquer. Généralement solitaires, les unholds se retrouvent seuls ou en petits groupes, défendant farouchement leur territoire.</DankPyon_Unhold.description>
 <DankPyon_Unhold.tools.left_claw.label>griffe gauche</DankPyon_Unhold.tools.left_claw.label>
 <DankPyon_Unhold.tools.left_claw.labelNoLocation>griffe</DankPyon_Unhold.tools.left_claw.labelNoLocation>
 <DankPyon_Unhold.tools.left_fist.label>poing gauche</DankPyon_Unhold.tools.left_fist.label>
@@ -3193,7 +3204,7 @@ Exigences :
 <DankPyon_Unhold.tools.head.label>tête</DankPyon_Unhold.tools.head.label>
 
 <DankPyon_UnholdSnow.label>unhold</DankPyon_UnholdSnow.label>
-<!--DankPyon_UnholdSnow.description>PLACEHOLDER</DankPyon_UnholdSnow.description-->
+<DankPyon_UnholdSnow.description>L'unhold est un géant imposant, trois fois plus grand qu'un homme, connu pour dévorer les moutons et assécher les étangs d'une seule gorgée. Bien que les contes les décrivent comme destructeurs, ils ne sont pas foncièrement malveillants, préférant effrayer les intrus par des rugissements assourdissants plutôt que d'attaquer. Généralement solitaires, les unholds se retrouvent seuls ou en petits groupes, défendant farouchement leur territoire.</DankPyon_UnholdSnow.description>
 <DankPyon_UnholdSnow.tools.left_claw.label>griffe gauche</DankPyon_UnholdSnow.tools.left_claw.label>
 <DankPyon_UnholdSnow.tools.left_claw.labelNoLocation>griffe</DankPyon_UnholdSnow.tools.left_claw.labelNoLocation>
 <DankPyon_UnholdSnow.tools.left_fist.label>poing gauche</DankPyon_UnholdSnow.tools.left_fist.label>
@@ -3226,19 +3237,19 @@ Exigences :
 <DankPyon_IceBlock_Maker.description>Un moule en bois pour congeler l'eau en glace pendant les périodes de froid.</DankPyon_IceBlock_Maker.description>
 
 <DankPyon_Cauldron.label>chaudron</DankPyon_Cauldron.label>
-<!--DankPyon_Cauldron.description>PLACEHOLDER.</DankPyon_Cauldron.description-->
+<DankPyon_Cauldron.description>Un récipient solide utilisé pour préparer des potions, en combinant des ingrédients soumis à la chaleur pour créer des élixirs et des remèdes puissants.</DankPyon_Cauldron.description>
 
 <DankPyon_Mindwort.label>sabline</DankPyon_Mindwort.label>
-<!--DankPyon_Mindwort.description>PLACEHOLDER.</DankPyon_Mindwort.description-->
+<DankPyon_Mindwort.description>Plante utile qui entre dans la composition de plusieurs médicaments puissants.</DankPyon_Mindwort.description>
 
 <DankPyon_Poppy.label>coquelicot</DankPyon_Poppy.label>
-<!--DankPyon_Poppy.description>PLACEHOLDER.</DankPyon_Poppy.description-->
+<DankPyon_Poppy.description>Plante utile qui entre dans la composition de plusieurs médicaments puissants.</DankPyon_Poppy.description>
 
 <DankPyon_Fleawort.label>plantain</DankPyon_Fleawort.label>
-<!--DankPyon_Fleawort.description>PLACEHOLDER.</DankPyon_Fleawort.description-->
+<DankPyon_Fleawort.description>Plante utile qui entre dans la composition de plusieurs médicaments puissants.</DankPyon_Fleawort.description>
 
 <DankPyon_FlyAgaric.label>amanite tue-mouches</DankPyon_FlyAgaric.label>
-<!--DankPyon_FlyAgaric.description>PLACEHOLDER.</DankPyon_FlyAgaric.description-->
+<DankPyon_FlyAgaric.description>Plante utile qui entre dans la composition de plusieurs médicaments puissants.</DankPyon_FlyAgaric.description>
 
 <DankPyon_HerbalExtract.label>extrait de plantes</DankPyon_HerbalExtract.label>
 <DankPyon_HerbalExtract.description>Mélange concentré d'essence de plantes extraites par broyage de plusieurs plantes brutes. Moins puissant que les produits pharmaceutiques industriels, mais bien mieux que rien.</DankPyon_HerbalExtract.description>
@@ -3256,31 +3267,31 @@ Exigences :
 <DankPyon_Apparel_AdditionalFurPadding.description>Un rembourrage supplémentaire est constitué de fourrure de unhold et de la peau de loup terrifiant. Le port de cette fourrure démontre la force de son propriétaire, car elle est la preuve qu'il a tué un unhold et qu'il peut donc porter ce trophée. Tout en intimidant les peureux, le rembourrage supplémentaire amortit les coups reçus par le porteur.</DankPyon_Apparel_AdditionalFurPadding.description>
 
 <DankPyon_Apparel_RunesAndSigils.label>runes et sigils</DankPyon_Apparel_RunesAndSigils.label>
-<!--DankPyon_Apparel_RunesAndSigils.description>PLACEHOLDER</DankPyon_Apparel_RunesAndSigils.description-->
+<DankPyon_Apparel_RunesAndSigils.description>Vêtements enchantés ornés de runes et de sigles mystiques, qui renforcent la force mentale du porteur.</DankPyon_Apparel_RunesAndSigils.description>
 
 <DankPyon_Ring_StunImmunity.label>anneau d'immunité à l'étourdissement</DankPyon_Ring_StunImmunity.label>
-<!--DankPyon_Ring_StunImmunity.description>PLACEHOLDER</DankPyon_Ring_StunImmunity.description-->
+<DankPyon_Ring_StunImmunity.description>Un anneau puissant qui confère à son porteur une immunité totale aux effets d'étourdissement, garantissant un mouvement et une action ininterrompus pendant le combat ou dans les situations critiques.</DankPyon_Ring_StunImmunity.description>
 
 <DankPyon_Apparel_FlashPotBelt.label>ceinture de pot étourdissant</DankPyon_Apparel_FlashPotBelt.label>
-<!--DankPyon_Apparel_FlashPotBelt.description>PLACEHOLDER</DankPyon_Apparel_FlashPotBelt.description-->
+<DankPyon_Apparel_FlashPotBelt.description>Ceinture utilitaire conçue pour transporter des pots étourdissants, qui peuvent être lancés pour désorienter et aveugler les ennemis.</DankPyon_Apparel_FlashPotBelt.description>
 <DankPyon_Apparel_FlashPotBelt.comps.CompApparelReloadable.chargeNoun>pots étourdissant</DankPyon_Apparel_FlashPotBelt.comps.CompApparelReloadable.chargeNoun>
 <DankPyon_Apparel_FlashPotBelt.comps.CompApparelReloadable.cooldownGerund>en recharge</DankPyon_Apparel_FlashPotBelt.comps.CompApparelReloadable.cooldownGerund>
 <DankPyon_Apparel_FlashPotBelt.verbs.throw_flash_pot.label>lancer pot étourdissant</DankPyon_Apparel_FlashPotBelt.verbs.throw_flash_pot.label>
 
 <DankPyon_Apparel_FirePotBelt.label>ceinture de pot incendiaire</DankPyon_Apparel_FirePotBelt.label>
-<!--DankPyon_Apparel_FirePotBelt.description>PLACEHOLDER</DankPyon_Apparel_FirePotBelt.description-->
+<DankPyon_Apparel_FirePotBelt.description>Ceinture utilitaire conçue pour transporter des pots incendiaires, permettant au porteur d'enflammer des zones ou des ennemis à distance.</DankPyon_Apparel_FirePotBelt.description>
 <DankPyon_Apparel_FirePotBelt.comps.CompApparelReloadable.chargeNoun>pots incendiaire</DankPyon_Apparel_FirePotBelt.comps.CompApparelReloadable.chargeNoun>
 <DankPyon_Apparel_FirePotBelt.comps.CompApparelReloadable.cooldownGerund>en recharge</DankPyon_Apparel_FirePotBelt.comps.CompApparelReloadable.cooldownGerund>
 <DankPyon_Apparel_FirePotBelt.verbs.throw_fire_pot.label>lancer pot incendiaire</DankPyon_Apparel_FirePotBelt.verbs.throw_fire_pot.label>
 
 <DankPyon_Apparel_SmokePotBelt.label>ceinture de pot fumigène</DankPyon_Apparel_SmokePotBelt.label>
-<!--DankPyon_Apparel_SmokePotBelt.description>PLACEHOLDER</DankPyon_Apparel_SmokePotBelt.description-->
+<DankPyon_Apparel_SmokePotBelt.description>Ceinture utilitaire conçue pour transporter des pots fumigènes, qui peuvent être lancés pour désorienter et aveugler les ennemis.</DankPyon_Apparel_SmokePotBelt.description>
 <DankPyon_Apparel_SmokePotBelt.comps.CompApparelReloadable.chargeNoun>pots fumigène</DankPyon_Apparel_SmokePotBelt.comps.CompApparelReloadable.chargeNoun>
 <DankPyon_Apparel_SmokePotBelt.comps.CompApparelReloadable.cooldownGerund>en recharge</DankPyon_Apparel_SmokePotBelt.comps.CompApparelReloadable.cooldownGerund>
 <DankPyon_Apparel_SmokePotBelt.verbs.throw_smoke_pot.label>lancer pot fumigène</DankPyon_Apparel_SmokePotBelt.verbs.throw_smoke_pot.label>
 
 <DankPyon_Apparel_AcidFlaskBelt.label>ceinture de flacon d'acide</DankPyon_Apparel_AcidFlaskBelt.label>
-<!--DankPyon_Apparel_AcidFlaskBelt.description>PLACEHOLDER</DankPyon_Apparel_AcidFlaskBelt.description-->
+<DankPyon_Apparel_AcidFlaskBelt.description>Ceinture utilitaire conçue pour transporter des flacons d'acide, qui peuvent être lancés pour déclencher de puissantes attaques acides capables de faire fondre les armures et d'endommager les ennemis sur la durée.</DankPyon_Apparel_AcidFlaskBelt.description>
 <DankPyon_Apparel_AcidFlaskBelt.comps.CompApparelReloadable.chargeNoun>flacons d'acide</DankPyon_Apparel_AcidFlaskBelt.comps.CompApparelReloadable.chargeNoun>
 <DankPyon_Apparel_AcidFlaskBelt.comps.CompApparelReloadable.cooldownGerund>en recharge</DankPyon_Apparel_AcidFlaskBelt.comps.CompApparelReloadable.cooldownGerund>
 <DankPyon_Apparel_AcidFlaskBelt.verbs.throw_acid_flask.label>lancer flacon d'acide</DankPyon_Apparel_AcidFlaskBelt.verbs.throw_acid_flask.label>
@@ -3293,28 +3304,28 @@ Exigences :
 <MedicineHerbal.label>racine de vie</MedicineHerbal.label><!-- Modifié par MO. -->
 
 <DankPyon_Plant_Mindwort.label>sabline</DankPyon_Plant_Mindwort.label>
-<!--DankPyon_Plant_Mindwort.description>PLACEHOLDER</DankPyon_Plant_Mindwort.description-->
+<DankPyon_Plant_Mindwort.description>Une petite herbe délicate avec des feuilles vertes pâles et de minuscules fleurs jaunes, souvent utilisée dans la fabrication d'élixirs forts en raison de ses propriétés puissantes.</DankPyon_Plant_Mindwort.description>
 
 <DankPyon_Plant_Poppy.label>coquelicot</DankPyon_Plant_Poppy.label>
-<!--DankPyon_Plant_Poppy.description>PLACEHOLDER</DankPyon_Plant_Poppy.description-->
+<DankPyon_Plant_Poppy.description>Plante vibrante aux fleurs d'un rouge saisissant, connue pour son utilisation dans diverses préparations médicinales et alchimiques, souvent appréciée pour ses effets puissants.</DankPyon_Plant_Poppy.description>
 
 <DankPyon_Plant_Fleawort.label>plantain</DankPyon_Plant_Fleawort.label>
-<!--DankPyon_Plant_Fleawort.description>PLACEHOLDER</DankPyon_Plant_Fleawort.description-->
+<DankPyon_Plant_Fleawort.description>Plante rustique, traditionnellement utilisée pour ses propriétés médicinales.</DankPyon_Plant_Fleawort.description>
 
 <DankPyon_Plant_FlyAgaric.label>amanite tue-mouches</DankPyon_Plant_FlyAgaric.label>
-<!--DankPyon_Plant_FlyAgaric.description>PLACEHOLDER</DankPyon_Plant_FlyAgaric.description-->
+<DankPyon_Plant_FlyAgaric.description>Un champignon remarquable avec un chapeau rouge vif orné de taches blanches, connu pour ses propriétés toxiques. Malgré son danger, il a été utilisé à petites doses dans des remèdes et rituels traditionnels, mais la prudence est toujours de mise.</DankPyon_Plant_FlyAgaric.description>
 
 <DankPyon_Plant_MindwortWild.label>sabline sauvage</DankPyon_Plant_MindwortWild.label>
-<!--DankPyon_Plant_MindwortWild.description>PLACEHOLDER</DankPyon_Plant_MindwortWild.description-->
+<DankPyon_Plant_MindwortWild.description>Une petite herbe délicate avec des feuilles vertes pâles et de minuscules fleurs jaunes, souvent utilisée dans la fabrication d'élixirs forts en raison de ses propriétés puissantes.</DankPyon_Plant_MindwortWild.description>
 
 <DankPyon_Plant_PoppyWild.label>coquelicot sauvage</DankPyon_Plant_PoppyWild.label>
-<!--DankPyon_Plant_PoppyWild.description>PLACEHOLDER</DankPyon_Plant_PoppyWild.description-->
+<DankPyon_Plant_PoppyWild.description>Plante vibrante aux fleurs d'un rouge saisissant, connue pour son utilisation dans diverses préparations médicinales et alchimiques, souvent appréciée pour ses effets puissants.</DankPyon_Plant_PoppyWild.description>
 
 <DankPyon_Plant_FleawortWild.label>plantain sauvage</DankPyon_Plant_FleawortWild.label>
-<!--DankPyon_Plant_FleawortWild.description>PLACEHOLDER</DankPyon_Plant_FleawortWild.description-->
+<DankPyon_Plant_FleawortWild.description>Plante rustique, traditionnellement utilisée pour ses propriétés médicinales.</DankPyon_Plant_FleawortWild.description>
 
 <DankPyon_Plant_FlyAgaricWild.label>amanite tue-mouches sauvage</DankPyon_Plant_FlyAgaricWild.label>
-<!--DankPyon_Plant_FlyAgaricWild.description>PLACEHOLDER</DankPyon_Plant_FlyAgaricWild.description-->
+<DankPyon_Plant_FlyAgaricWild.description>Un champignon remarquable avec un chapeau rouge vif orné de taches blanches, connu pour ses propriétés toxiques. Malgré son danger, il a été utilisé à petites doses dans des remèdes et rituels traditionnels, mais la prudence est toujours de mise.</DankPyon_Plant_FlyAgaricWild.description>
 
 <DankPyon_Mixture_Miracle.label>mélange miracle de l'apothicaire</DankPyon_Mixture_Miracle.label>
 <DankPyon_Mixture_Miracle.description>Un mélange de miracles d'apothicaire. Nécessite un brassage supplémentaire pour être utilisé.</DankPyon_Mixture_Miracle.description>
@@ -3338,32 +3349,32 @@ Exigences :
 <DankPyon_Mixture_Stardust.description>Un mélange de poussières d'étoiles. Nécessite un brassage supplémentaire pour être utilisé.</DankPyon_Mixture_Stardust.description>
 
 <DankPyon_BattleElixir.label>élixir de bataille</DankPyon_BattleElixir.label>
-<!--DankPyon_BattleElixir.description>PLACEHOLDER</DankPyon_BattleElixir.description-->
+<DankPyon_BattleElixir.description>Cet élixir rare et puissant, conçu pour les guerriers, augmente considérablement les capacités de combat et accroît instantanément la concentration psychique lorsqu'il est consommé, ce qui en fait un outil puissant pour ceux qui font face à des batailles intenses.</DankPyon_BattleElixir.description>
 <DankPyon_BattleElixir.ingestible.ingestCommandString>Boire un {0}</DankPyon_BattleElixir.ingestible.ingestCommandString>
 <DankPyon_BattleElixir.ingestible.ingestReportString>Boit l'{0}.</DankPyon_BattleElixir.ingestible.ingestReportString>
 
 <DankPyon_HappyPowder.label>poudre de bonheur</DankPyon_HappyPowder.label>
-<!--DankPyon_HappyPowder.description>PLACEHOLDER</DankPyon_HappyPowder.description-->
+<DankPyon_HappyPowder.description>Substance récréative qui induit une euphorie intense, améliorant l'humeur et stimulant temporairement le moral, mais qui présente des risques potentiels de dépendance.</DankPyon_HappyPowder.description>
 <DankPyon_HappyPowder.ingestible.ingestCommandString>Sniffer de la {0}</DankPyon_HappyPowder.ingestible.ingestCommandString>
 <DankPyon_HappyPowder.ingestible.ingestReportString>Sniffe la {0}.</DankPyon_HappyPowder.ingestible.ingestReportString>
 
 <DankPyon_Luhix.label>luhix</DankPyon_Luhix.label>
-<!--DankPyon_Luhix.description>PLACEHOLDER</DankPyon_Luhix.description-->
+<DankPyon_Luhix.description>Une substance rare et puissante qui améliore la mémoire et la capacité d'apprentissage, avec une légère augmentation initiale de la concentration psychique, ce qui la rend très recherchée par ceux qui recherchent la clarté mentale et le développement rapide des compétences.</DankPyon_Luhix.description>
 <DankPyon_Luhix.ingestible.ingestCommandString>Boire du {0}</DankPyon_Luhix.ingestible.ingestCommandString>
 <DankPyon_Luhix.ingestible.ingestReportString>Boit du {0}.</DankPyon_Luhix.ingestible.ingestReportString>
 
 <DankPyon_Miracle.label>miracle de l'apothicaire</DankPyon_Miracle.label>
-<!--DankPyon_Miracle.description>PLACEHOLDER</DankPyon_Miracle.description-->
+<DankPyon_Miracle.description>Un élixir légendaire réputé pour ses extraordinaires capacités de guérison, accélérant rapidement le rétablissement après une blessure et améliorant considérablement la capacité du corps à développer une immunité. Lorsqu'il est consommé, il confère une immunité totale à toute une série de maladies courantes et mortelles, ce qui en fait un remède inestimable dans les situations difficiles.</DankPyon_Miracle.description>
 <DankPyon_Miracle.ingestible.ingestCommandString>Prendre du {0}</DankPyon_Miracle.ingestible.ingestCommandString>
 <DankPyon_Miracle.ingestible.ingestReportString>Prend le {0}.</DankPyon_Miracle.ingestible.ingestReportString>
 
 <DankPyon_Paregoric.label>parégorique</DankPyon_Paregoric.label>
-<!--DankPyon_Paregoric.description>PLACEHOLDER</DankPyon_Paregoric.description-->
+<DankPyon_Paregoric.description>Un puissant remède pour soulager la douleur et favoriser la guérison, mais qui comporte un risque de dépendance en cas d'utilisation prolongée.</DankPyon_Paregoric.description>
 <DankPyon_Paregoric.ingestible.ingestCommandString>Prendre du {0}</DankPyon_Paregoric.ingestible.ingestCommandString>
 <DankPyon_Paregoric.ingestible.ingestReportString>Prend du {0}.</DankPyon_Paregoric.ingestible.ingestReportString>
 
 <DankPyon_Stardust.label>poussière d'étoile</DankPyon_Stardust.label>
-<!--DankPyon_Stardust.description>PLACEHOLDER</DankPyon_Stardust.description-->
+<DankPyon_Stardust.description>La poussière d'étoile améliore considérablement la mémoire et la capacité d'apprentissage, et augmente légèrement la concentration psychique lorsqu'elle est consommée pour la première fois.</DankPyon_Stardust.description>
 <DankPyon_Stardust.ingestible.ingestCommandString>Sniffer de la {0}</DankPyon_Stardust.ingestible.ingestCommandString>
 <DankPyon_Stardust.ingestible.ingestReportString>Sniffe la {0}.</DankPyon_Stardust.ingestible.ingestReportString>
 
@@ -3447,7 +3458,7 @@ Exigences :
 <DankPyon_Shelf_VigorPill.label>étagère (pilule de vigueur)</DankPyon_Shelf_VigorPill.label>
 <DankPyon_Shelf_VigorPill.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_Shelf_VigorPill.description>
 
-<DankPyon_Shelf_AssortedDrugsA.label>étagère (assortiment de drogues a)</DankPyon_Shelf_AssortedDrugsA.label>
+<DankPyon_Shelf_AssortedDrugsA.label>étagère (drogues A)</DankPyon_Shelf_AssortedDrugsA.label>
 <DankPyon_Shelf_AssortedDrugsA.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_Shelf_AssortedDrugsA.description>
 
 <DankPyon_Shelf_Stardust.label>étagère (poussière d'étoile)</DankPyon_Shelf_Stardust.label>
@@ -3459,23 +3470,448 @@ Exigences :
 <DankPyon_Shelf_Paregoric.label>étagère (parégorique)</DankPyon_Shelf_Paregoric.label>
 <DankPyon_Shelf_Paregoric.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_Shelf_Paregoric.description>
 
-<DankPyon_Shelf_AssortedDrugsB.label>étagère (assortiment de drogues b)</DankPyon_Shelf_AssortedDrugsB.label>
+<DankPyon_Shelf_AssortedDrugsB.label>étagère (drogues B)</DankPyon_Shelf_AssortedDrugsB.label>
 <DankPyon_Shelf_AssortedDrugsB.description>Une étagère pour ranger des objets divers. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_Shelf_AssortedDrugsB.description>
 
 <DankPyon_PyreRound.label>bûcher rond</DankPyon_PyreRound.label>
 <DankPyon_PyreRound.description>Un grand feu de camp capable de produire une grande quantité de chaleur et de lumière. Il convient pour brûler les déchets et les cadavres, mais il n'est pas conseillé de le placer à l'intérieur.</DankPyon_PyreRound.description>
 
 <DankPyon_TrollHeart.label>cœur bleu</DankPyon_TrollHeart.label>
-<!--DankPyon_TrollHeart.description>PLACEHOLDER.</DankPyon_TrollHeart.description-->
+<DankPyon_TrollHeart.description>Le cœur d'un ancien troll, prisé pour ses propriétés alchimiques.</DankPyon_TrollHeart.description>
 
 <DankPyon_AdrenalineGland.label>glande adrénaline</DankPyon_AdrenalineGland.label>
-<!--DankPyon_AdrenalineGland.description>PLACEHOLDER</DankPyon_AdrenalineGland.description-->
+<DankPyon_AdrenalineGland.description>Cet organe renforce considérablement la réaction de combat ou de fuite du corps, en augmentant la force, la vitesse et le temps de réaction lorsqu'il est activé. Il est souvent utilisé dans la fabrication de puissants stimulants de combat.</DankPyon_AdrenalineGland.description>
 
 <DankPyon_Apparel_Zweihanders_Cuirass.label>cuirasse zweihander</DankPyon_Apparel_Zweihanders_Cuirass.label>
 <DankPyon_Apparel_Zweihanders_Cuirass.description>La cuirasse zweihander est un mélange frappant de protection et de flamboyance, avec une armure de plaque complexe complétée par des vêtements bouffants et colorés. Les entailles audacieuses dans le tissu révèlent des couleurs contrastées, créant une apparence distinctive et redoutable sur le champ de bataille. Cette combinaison unique de métal robuste et de textiles attrayants incarne l'esprit intrépide et audacieux des mercenaires zweihander.</DankPyon_Apparel_Zweihanders_Cuirass.description>
 
 <DankPyon_Apparel_Zweihanders_CuirassFloof.label>cuirasse zweihander</DankPyon_Apparel_Zweihanders_CuirassFloof.label>
 <DankPyon_Apparel_Zweihanders_CuirassFloof.description>La cuirasse zweihander est un mélange frappant de protection et de flamboyance, avec une armure de plaque complexe complétée par des vêtements bouffants et colorés. Les entailles audacieuses dans le tissu révèlent des couleurs contrastées, créant une apparence distinctive et redoutable sur le champ de bataille. Cette combinaison unique de métal robuste et de textiles attrayants incarne l'esprit intrépide et audacieux des mercenaires zweihander.</DankPyon_Apparel_Zweihanders_CuirassFloof.description>
+
+<DankPyon_Schematic_BasicPolearms.label>ancien schéma pique simple</DankPyon_Schematic_BasicPolearms.label>
+<DankPyon_Schematic_BasicPolearms.description>Un parchemin détaillant diverses technologies et leurs méthodes d'utilisation. En parcourant le parchemin schématique, vous pouvez découvrir de nouvelles avancées et des connaissances cachées.</DankPyon_Schematic_BasicPolearms.description>
+
+<DankPyon_Tale.label>conte</DankPyon_Tale.label>
+<DankPyon_Tale.description>Les livres de contes sont joliment reliés et contiennent des histoires d'aventures et de mythes. Chaque livre emmène le lecteur dans des contrées lointaines et des temps anciens. Rédigés à la main par des scribes et ornés d'illustrations, ces livres sont appréciés pour la richesse de leurs récits et leur qualité d'exécution. Ils sont appréciés à la fois pour le divertissement et la préservation de l'histoire.</DankPyon_Tale.description>
+
+<DankPyon_Treatise.label>traité</DankPyon_Treatise.label>
+<DankPyon_Treatise.description>Des volumes soigneusement reliés contenant des connaissances et des techniques détaillées sur divers sujets. Chaque livre offre des explications approfondies et des conseils pratiques, aidant les lecteurs à maîtriser de nouvelles compétences. Rédigés par des experts et souvent accompagnés de diagrammes détaillés, ces ouvrages constituent des ressources précieuses pour l'apprentissage et le perfectionnement.</DankPyon_Treatise.description>
+
+<DankPyon_BookUnique_OrnateTome.label>tome orné</DankPyon_BookUnique_OrnateTome.label>
+<DankPyon_BookUnique_OrnateTome.description>Un ancien tome fabriqué de manière complexe avec une finition dorée. Contient des écritures détaillant les récits historiques des empires précédents.\n\nIl peut être vendu pour une somme rondelette aux collectionneurs intéressés.</DankPyon_BookUnique_OrnateTome.description>
+
+<DankPyon_BookUnique_OnEnglish.label>sur l'anglais</DankPyon_BookUnique_OnEnglish.label>
+<DankPyon_BookUnique_OnEnglish.description>“Un mercier du nom de Sheffield était originaire du nord de l'Angleterre. Il entra dans une maison et demanda à la "bonne femme" s'il pouvait acheter des "œufs". Elle répondit qu'elle ne parlait pas français, ce qui l'ennuya, car il ne parlait pas français non plus. Un passant suggéra que Sheffield demandait des "z’eufs", ce que la femme dit comprendre.”\n\nVoilà, que doit écrire un homme de nos jours : œufs ou z’eufs ? Il est certainement difficile de plaire à tous les hommes en raison de la diversité et du changement de langue.</DankPyon_BookUnique_OnEnglish.description>
+
+<DankPyon_Vase.label>vase en argile</DankPyon_Vase.label>
+<DankPyon_Vase.description>Un récipient simple, façonné à la main, en argile naturelle. Il est beau à regarder.</DankPyon_Vase.description>
+
+<DankPyon_OnTop_Bottle_Milk.label>jarre de lait (vide)</DankPyon_OnTop_Bottle_Milk.label>
+<DankPyon_OnTop_Bottle_Milk.description>Une jarre de lait vide. Peut être placé sur des tables pour la décoration.</DankPyon_OnTop_Bottle_Milk.description>
+
+<DankPyon_OnTop_Bottle_Ale.label>chope de bière (vide)</DankPyon_OnTop_Bottle_Ale.label>
+<DankPyon_OnTop_Bottle_Ale.description>Une chope de bière vide. Peut être placé sur des tables pour la décoration.</DankPyon_OnTop_Bottle_Ale.description>
+
+<DankPyon_OnTop_Bottle_Mead.label>bouteille d'hydromel (vide)</DankPyon_OnTop_Bottle_Mead.label>
+<DankPyon_OnTop_Bottle_Mead.description>Une bouteille d'hydromel vide. Peut être placé sur des tables pour la décoration.</DankPyon_OnTop_Bottle_Mead.description>
+
+<DankPyon_OnTop_Bottle_Wine.label>bouteille de vin (vide)</DankPyon_OnTop_Bottle_Wine.label>
+<DankPyon_OnTop_Bottle_Wine.description>Une bouteille de vin vide. Peut être placé sur des tables pour la décoration.</DankPyon_OnTop_Bottle_Wine.description>
+
+<DankPyon_OnTop_Bottle_MulberryWine.label>bouteille de vin de mûre (vide)</DankPyon_OnTop_Bottle_MulberryWine.label>
+<DankPyon_OnTop_Bottle_MulberryWine.description>Une bouteille de vin de mûre vide. Peut être placé sur des tables pour la décoration.</DankPyon_OnTop_Bottle_MulberryWine.description>
+
+<DankPyon_OnTop_Bottle_IceWine.label>bouteille de vin de glace (vide)</DankPyon_OnTop_Bottle_IceWine.label>
+<DankPyon_OnTop_Bottle_IceWine.description>Une bouteille de vin de glace vide. Peut être placé sur des tables pour la décoration.</DankPyon_OnTop_Bottle_IceWine.description>
+
+<DankPyon_OnTop_Bottle_GriffonWine.label>bouteille de vin de griffon (vide)</DankPyon_OnTop_Bottle_GriffonWine.label>
+<DankPyon_OnTop_Bottle_GriffonWine.description>Une bouteille de vin de griffon vide. Peut être placé sur des tables pour la décoration.</DankPyon_OnTop_Bottle_GriffonWine.description>
+
+<DankPyon_OnTop_Scribe_StackPaper.label>papier en ruine</DankPyon_OnTop_Scribe_StackPaper.label>
+<DankPyon_OnTop_Scribe_StackPaper.description>Une pile de papier en ruine, mouillée, déchirée et chiffonnée. Peut être placé sur des tables pour la décoration.</DankPyon_OnTop_Scribe_StackPaper.description>
+
+<DankPyon_OnTop_Scribe_ScrollAndInkwell.label>parchemin et plume en ruine</DankPyon_OnTop_Scribe_ScrollAndInkwell.label>
+<DankPyon_OnTop_Scribe_ScrollAndInkwell.description>Parchemin déchiré en ruine et plume d'oie émoussée. Peut être placé sur des tables pour la décoration.</DankPyon_OnTop_Scribe_ScrollAndInkwell.description>
+
+<DankPyon_OnTop_Scribe_Book.label>livre en ruine</DankPyon_OnTop_Scribe_Book.label>
+<DankPyon_OnTop_Scribe_Book.description>Livre abîmé, mouillé, déchiré et corné. Peut être placé sur des tables pour la décoration.</DankPyon_OnTop_Scribe_Book.description>
+
+<DankPyon_OnTop_Kitchen_Bowl.label>bol (vide)</DankPyon_OnTop_Kitchen_Bowl.label>
+<DankPyon_OnTop_Kitchen_Bowl.description>Un bol vide. Peut être placé sur des tables pour la décoration.</DankPyon_OnTop_Kitchen_Bowl.description>
+
+<DankPyon_OnTop_Kitchen_Plate.label>assiette (vide)</DankPyon_OnTop_Kitchen_Plate.label>
+<DankPyon_OnTop_Kitchen_Plate.description>Une assiette vide. Peut être placé sur des tables pour la décoration.</DankPyon_OnTop_Kitchen_Plate.description>
+
+<DankPyon_OnTop_Kitchen_CookingPot.label>marmite (vide)</DankPyon_OnTop_Kitchen_CookingPot.label>
+<DankPyon_OnTop_Kitchen_CookingPot.description>Une marmite vide. Peut être placé sur des tables pour la décoration.</DankPyon_OnTop_Kitchen_CookingPot.description>
+
+<DankPyon_OnTop_Kitchen_Cup.label>coupe (vide)</DankPyon_OnTop_Kitchen_Cup.label>
+<DankPyon_OnTop_Kitchen_Cup.description>Une coupe vide. Peut être placé sur des tables pour la décoration.</DankPyon_OnTop_Kitchen_Cup.description>
+
+<DankPyon_OnTop_Kitchen_EmbeddedCleaver.label>hachoir (planté)</DankPyon_OnTop_Kitchen_EmbeddedCleaver.label>
+<DankPyon_OnTop_Kitchen_EmbeddedCleaver.description>Un hachoir planté dans une surface. Peut être placé sur des tables pour la décoration.</DankPyon_OnTop_Kitchen_EmbeddedCleaver.description>
+
+<DankPyon_OnTop_Research_Flasks.label>flacons (inertes)</DankPyon_OnTop_Research_Flasks.label>
+<DankPyon_OnTop_Research_Flasks.description>Flacons chimiquement inertes. Peut être placé sur des tables pour la décoration.</DankPyon_OnTop_Research_Flasks.description>
+
+<DankPyon_OnTop_Research_Vials.label>fioles (inertes)</DankPyon_OnTop_Research_Vials.label>
+<DankPyon_OnTop_Research_Vials.description>Fioles chimiquement inertes. Peut être placé sur des tables pour la décoration.</DankPyon_OnTop_Research_Vials.description>
+
+<DankPyon_OnTop_Alchemy_MortarAndPestle.label>mortier et pilon en ruine</DankPyon_OnTop_Alchemy_MortarAndPestle.label>
+<DankPyon_OnTop_Alchemy_MortarAndPestle.description>Un mortier et un pilon en mauvais état. Peut être placé sur des tables pour la décoration.</DankPyon_OnTop_Alchemy_MortarAndPestle.description>
+
+<DankPyon_WallBanner1x2c.label>banderole murale (1x2)</DankPyon_WallBanner1x2c.label>
+<DankPyon_WallBanner1x2c.description>Une bannière murale décorative. À fixer sur les murs.</DankPyon_WallBanner1x2c.description>
+
+<DankPyon_RusticThickRoomDivider_Open1x2c.label>cloison épaisse et ouverte (1x2)</DankPyon_RusticThickRoomDivider_Open1x2c.label>
+<DankPyon_RusticThickRoomDivider_Open1x2c.description>Une cloison simple qui préserve l'intimité de vos colons. Peut soutenir un toit.</DankPyon_RusticThickRoomDivider_Open1x2c.description>
+
+<DankPyon_RusticThickRoomDivider_Closed1x2c.label>cloison épaisse et fermée (1x2)</DankPyon_RusticThickRoomDivider_Closed1x2c.label>
+<DankPyon_RusticThickRoomDivider_Closed1x2c.description>Une cloison simple qui préserve l'intimité de vos colons. Peut soutenir un toit.</DankPyon_RusticThickRoomDivider_Closed1x2c.description>
+
+<DankPyon_DividerColumn.label>colonne cloison (1x2)</DankPyon_DividerColumn.label>
+<DankPyon_DividerColumn.description>Une colonne capable de supporter un toit. Elle ne bloque ni la vue ni le mouvement et elle est très esthétique.</DankPyon_DividerColumn.description>
+
+<DankPyon_RusticTable1x3c.label>table rustique (1x3)</DankPyon_RusticTable1x3c.label>
+<DankPyon_RusticTable1x3c.description>Les gens mangent sur les tables lorsque des chaises sont placées toutes autour.</DankPyon_RusticTable1x3c.description>
+
+<DankPyon_Candle.label>bougie (suif)</DankPyon_Candle.label>
+<DankPyon_Candle.description>Une bougie pour empêcher l'obscurité de se répandre dans vos pièces. Elle est moins lumineuse qu'une torche classique mais dure plus longtemps. Peut être rechargée avec du suif d'animal.</DankPyon_Candle.description>
+
+<DankPyon_Candle_Beeswax.label>bougie (cire)</DankPyon_Candle_Beeswax.label>
+<DankPyon_Candle_Beeswax.description>Une bougie pour empêcher l'obscurité de se répandre dans vos pièces. Elle est moins lumineuse qu'une torche classique mais dure plus longtemps. Peut être rechargée avec de la cire d'abeille.</DankPyon_Candle_Beeswax.description>
+
+<DankPyon_Candelabra.label>chandelier</DankPyon_Candelabra.label>
+<DankPyon_Candelabra.description>Un chandelier pour empêcher l'obscurité de se répandre dans vos pièces. Elle est moins lumineuse qu'une torche classique mais dure plus longtemps. Peut être rechargée avec du suif animal ou de la cire d'abeille.</DankPyon_Candelabra.description>
+
+<DankPyon_BedLogDouble.label>lit double</DankPyon_BedLogDouble.label>
+<DankPyon_BedLogDouble.description>Un lit en rondins simple et rapide à fabriquer pour deux personnes. Mieux que de dormir à même le sol.</DankPyon_BedLogDouble.description>
+
+<DankPyon_Bed_Rustic_Red.label>lit rustique (rouge)</DankPyon_Bed_Rustic_Red.label>
+<DankPyon_Bed_Rustic_Red.description>Un lit rustique et confortable composé de couvertures brodées de soie et d'oreillers moelleux.</DankPyon_Bed_Rustic_Red.description>
+
+<DankPyon_Bed_Rustic_Green.label>lit rustique (vert)</DankPyon_Bed_Rustic_Green.label>
+<DankPyon_Bed_Rustic_Green.description>Un lit rustique et confortable composé de couvertures brodées de soie et d'oreillers moelleux.</DankPyon_Bed_Rustic_Green.description>
+
+<DankPyon_Bed_Rustic_Blue.label>lit rustique (bleu)</DankPyon_Bed_Rustic_Blue.label>
+<DankPyon_Bed_Rustic_Blue.description>Un lit rustique et confortable composé de couvertures brodées de soie et d'oreillers moelleux.</DankPyon_Bed_Rustic_Blue.description>
+
+<DankPyon_Bed_RusticDouble_Red.label>lit double rustique (rouge)</DankPyon_Bed_RusticDouble_Red.label>
+<DankPyon_Bed_RusticDouble_Red.description>Un lit rustique et confortable composé de couvertures brodées de soie et d'oreillers moelleux. Lit double qui convient à deux personnes.</DankPyon_Bed_RusticDouble_Red.description>
+
+<DankPyon_Bed_RusticDouble_Green.label>lit double rustique (vert)</DankPyon_Bed_RusticDouble_Green.label>
+<DankPyon_Bed_RusticDouble_Green.description>Un lit rustique et confortable composé de couvertures brodées de soie et d'oreillers moelleux. Lit double qui convient à deux personnes.</DankPyon_Bed_RusticDouble_Green.description>
+
+<DankPyon_Bed_RusticDouble_Blue.label>lit double rustique (bleu)</DankPyon_Bed_RusticDouble_Blue.label>
+<DankPyon_Bed_RusticDouble_Blue.description>Un lit rustique et confortable composé de couvertures brodées de soie et d'oreillers moelleux. Lit double qui convient à deux personnes.</DankPyon_Bed_RusticDouble_Blue.description>
+
+<DankPyon_RoyalThrone.label>trône royal</DankPyon_RoyalThrone.label>
+<DankPyon_RoyalThrone.description>Chaise grandiose et ornée destinée à un roi ou à une reine, symbolisant leur autorité et leur pouvoir. Elle est souvent décorée de riches tissus, de sculptures et de métaux précieux.</DankPyon_RoyalThrone.description>
+
+<DankPyon_MiningTools.label>outils de minage</DankPyon_MiningTools.label>
+<DankPyon_MiningTools.description>Un ensemble d'outils conçus pour extraire des ressources dans les profondeurs de la terre. Augmente la vitesse d'extraction lorsqu'il est placé à proximité d'un lieu d'extraction.</DankPyon_MiningTools.description>
+
+<DankPyon_PaperHangingRack.label>porte-papier suspendu</DankPyon_PaperHangingRack.label>
+<DankPyon_PaperHangingRack.description>Un support pour sécher les manuscrits fraîchement écrits. Augmente la vitesse de travail lorsqu'il est placé près d'une table de scribe.</DankPyon_PaperHangingRack.description>
+
+<DankPyon_QuillAndInkwell.label>plume et d'encrier</DankPyon_QuillAndInkwell.label>
+<DankPyon_QuillAndInkwell.description>Fourniture de plumes et d'encre. Augmente la vitesse de travail lorsqu'il est placé près d'une table de scribe.</DankPyon_QuillAndInkwell.description>
+
+<DankPyon_Stack_Books.label>pile de livres</DankPyon_Stack_Books.label>
+<DankPyon_Stack_Books.description>Pile de livres facilement accessibles pour référence. Augmente la vitesse de travail lorsqu'il est placé près d'une table de scribe.</DankPyon_Stack_Books.description>
+
+<DankPyon_Stack_Paper.label>pile de papiers</DankPyon_Stack_Paper.label>
+<DankPyon_Stack_Paper.description>Pile de papiers facilement accessibles pour l'écriture. Augmente la vitesse de travail lorsqu'il est placé près d'une table de scribe.</DankPyon_Stack_Paper.description>
+
+<DankPyon_CharcoalPile.label>amas de bois</DankPyon_CharcoalPile.label>
+<DankPyon_CharcoalPile.description>Monticule de bois recouvert de terre et laissé à incandescence, produisant du charbon de bois pour le chauffage et le travail des métaux.</DankPyon_CharcoalPile.description>
+
+<DankPyon_Press_Paper.label>presse à papier</DankPyon_Press_Paper.label>
+<DankPyon_Press_Paper.description>Appareil en bois robuste utilisé pour enlever les liquides et aplatir les feuilles de papier. Il utilise un lourd mécanisme à vis pour s'assurer que chaque feuille est lisse et prête à être écrite ou dessinée. Cet outil essentiel permet de transformer la pâte à papier en parchemin utilisable.</DankPyon_Press_Paper.description>
+
+<DankPyon_Kiln.label>fourneau</DankPyon_Kiln.label>
+<DankPyon_Kiln.description>Four en pierre utilisé pour cuire l'argile et la transformer en briques.</DankPyon_Kiln.description>
+
+<DankPyon_DiggingSpot.label>lieu de creusage</DankPyon_DiggingSpot.label>
+<DankPyon_DiggingSpot.description>Un endroit où l'on creuse la terre. La production y est lente en raison du manque d'outils.</DankPyon_DiggingSpot.description>
+
+<DankPyon_Book_ScribeTable.label>table de scribe</DankPyon_Book_ScribeTable.label>
+<DankPyon_Book_ScribeTable.description>Table en bois équipée d'encriers, de plumes et de parchemins, destinée à la rédaction de manuscrits et de parchemins.</DankPyon_Book_ScribeTable.description>
+
+<DankPyon_RugPatched_Leather1x1c.label>tapis rapiécé (1x1)</DankPyon_RugPatched_Leather1x1c.label><!-- En cuir pour éviter le doublon. -->
+<DankPyon_RugPatched_Leather1x1c.description>Un tapis grossièrement cousu, composé de différents cuirs.</DankPyon_RugPatched_Leather1x1c.description>
+
+<DankPyon_RugPatched_Leather1x2c.label>tapis rapiécé (1x2)</DankPyon_RugPatched_Leather1x2c.label><!-- En cuir pour éviter le doublon. -->
+<DankPyon_RugPatched_Leather1x2c.description>Un tapis grossièrement cousu, composé de différents cuirs.</DankPyon_RugPatched_Leather1x2c.description>
+
+<DankPyon_RugPatched_Leather2x2c.label>tapis rapiécé (2x2)</DankPyon_RugPatched_Leather2x2c.label><!-- En cuir pour éviter le doublon. -->
+<DankPyon_RugPatched_Leather2x2c.description>Un tapis grossièrement cousu, composé de différents cuirs.</DankPyon_RugPatched_Leather2x2c.description>
+
+<DankPyon_RugPatched_Leather2x4c.label>tapis rapiécé (2x4)</DankPyon_RugPatched_Leather2x4c.label><!-- En cuir pour éviter le doublon. -->
+<DankPyon_RugPatched_Leather2x4c.description>Un tapis grossièrement cousu, composé de différents cuirs.</DankPyon_RugPatched_Leather2x4c.description>
+
+<DankPyon_RugPatched_Leather3x3c.label>tapis rapiécé (3x3)</DankPyon_RugPatched_Leather3x3c.label><!-- En cuir pour éviter le doublon. -->
+<DankPyon_RugPatched_Leather3x3c.description>Un tapis grossièrement cousu, composé de différents cuirs.</DankPyon_RugPatched_Leather3x3c.description>
+
+<DankPyon_RugPatched_Cloth1x1c.label>tapis rapiécé (1x1)</DankPyon_RugPatched_Cloth1x1c.label><!-- En tissu pour éviter le doublon. -->
+<DankPyon_RugPatched_Cloth1x1c.description>Un tapis grossièrement cousu, composé d'étoffes séparées.</DankPyon_RugPatched_Cloth1x1c.description>
+
+<DankPyon_RugPatched_Cloth1x2c.label>tapis rapiécé (1x2)</DankPyon_RugPatched_Cloth1x2c.label><!-- En tissu pour éviter le doublon. -->
+<DankPyon_RugPatched_Cloth1x2c.description>Un tapis grossièrement cousu, composé d'étoffes séparées.</DankPyon_RugPatched_Cloth1x2c.description>
+
+<DankPyon_RugPatched_Cloth2x2c.label>tapis rapiécé (2x2)</DankPyon_RugPatched_Cloth2x2c.label><!-- En tissu pour éviter le doublon. -->
+<DankPyon_RugPatched_Cloth2x2c.description>Un tapis grossièrement cousu, composé d'étoffes séparées.</DankPyon_RugPatched_Cloth2x2c.description>
+
+<DankPyon_RugPatched_Cloth2x4c.label>tapis rapiécé (2x4)</DankPyon_RugPatched_Cloth2x4c.label><!-- En tissu pour éviter le doublon. -->
+<DankPyon_RugPatched_Cloth2x4c.description>Un tapis grossièrement cousu, composé d'étoffes séparées.</DankPyon_RugPatched_Cloth2x4c.description>
+
+<DankPyon_RugPatched_Cloth3x3c.label>tapis rapiécé (3x3)</DankPyon_RugPatched_Cloth3x3c.label><!-- En tissu pour éviter le doublon. -->
+<DankPyon_RugPatched_Cloth3x3c.description>Un tapis grossièrement cousu, composé d'étoffes séparées.</DankPyon_RugPatched_Cloth3x3c.description>
+
+<DankPyon_RugRoyal_Lys2x3c.label>tapis royal lys (2x3)</DankPyon_RugRoyal_Lys2x3c.label>
+<DankPyon_RugRoyal_Lys2x3c.description>Un tapis de soie luxueux et complexe, conçu pour la noblesse.</DankPyon_RugRoyal_Lys2x3c.description>
+
+<DankPyon_RugRoyal_LongLys2x4c.label>long tapis royal lys (2x4)</DankPyon_RugRoyal_LongLys2x4c.label>
+<DankPyon_RugRoyal_LongLys2x4c.description>Un tapis de soie luxueux et complexe, conçu pour la noblesse.</DankPyon_RugRoyal_LongLys2x4c.description>
+
+<DankPyon_RugRoyal_LongLys3x3c.label>tapis royal croix (3x3)</DankPyon_RugRoyal_LongLys3x3c.label>
+<DankPyon_RugRoyal_LongLys3x3c.description>Un tapis de soie luxueux et complexe, conçu pour la noblesse.</DankPyon_RugRoyal_LongLys3x3c.description>
+
+<DankPyon_RugRoyal_GrandCross3x3c.label>grand tapis royal croix (4x6)</DankPyon_RugRoyal_GrandCross3x3c.label>
+<DankPyon_RugRoyal_GrandCross3x3c.description>Un tapis de soie luxueux et complexe, conçu pour la noblesse.</DankPyon_RugRoyal_GrandCross3x3c.description>
+
+<DankPyon_RugLoot_Lys_DeepGreen2x3c.label>tapis lys vert foncé (2x3)</DankPyon_RugLoot_Lys_DeepGreen2x3c.label>
+<DankPyon_RugLoot_Lys_DeepGreen2x3c.description>Un tapis de soie luxueux et complexe, conçu pour la noblesse.</DankPyon_RugLoot_Lys_DeepGreen2x3c.description>
+
+<DankPyon_RugLoot_Lys_Lime2x3c.label>tapis lys vert (2x3)</DankPyon_RugLoot_Lys_Lime2x3c.label>
+<DankPyon_RugLoot_Lys_Lime2x3c.description>Un tapis de soie luxueux et complexe, conçu pour la noblesse.</DankPyon_RugLoot_Lys_Lime2x3c.description>
+
+<DankPyon_RugLoot_Lys_Blue2x3c.label>tapis lys bleu (2x3)</DankPyon_RugLoot_Lys_Blue2x3c.label>
+<DankPyon_RugLoot_Lys_Blue2x3c.description>Un tapis de soie luxueux et complexe, conçu pour la noblesse.</DankPyon_RugLoot_Lys_Blue2x3c.description>
+
+<DankPyon_RugLoot_Lys_Red2x3c.label>tapis lys rouge (2x3)</DankPyon_RugLoot_Lys_Red2x3c.label>
+<DankPyon_RugLoot_Lys_Red2x3c.description>Un tapis de soie luxueux et complexe, conçu pour la noblesse.</DankPyon_RugLoot_Lys_Red2x3c.description>
+
+<DankPyon_RugLoot_Diamond_DeepGreen2x4c.label>tapis diamant vert foncé (2x4)</DankPyon_RugLoot_Diamond_DeepGreen2x4c.label>
+<DankPyon_RugLoot_Diamond_DeepGreen2x4c.description>Un tapis de soie luxueux et complexe, conçu pour la noblesse.</DankPyon_RugLoot_Diamond_DeepGreen2x4c.description>
+
+<DankPyon_RugLoot_Diamond_RedYellow2x4c.label>tapis diamant rouge-jaune (2x4)</DankPyon_RugLoot_Diamond_RedYellow2x4c.label>
+<DankPyon_RugLoot_Diamond_RedYellow2x4c.description>Un tapis de soie luxueux et complexe, conçu pour la noblesse.</DankPyon_RugLoot_Diamond_RedYellow2x4c.description>
+
+<DankPyon_RugLoot_Diamond_LimeRed2x4c.label>tapis diamant vert-rouge (2x4)</DankPyon_RugLoot_Diamond_LimeRed2x4c.label>
+<DankPyon_RugLoot_Diamond_LimeRed2x4c.description>Un tapis de soie luxueux et complexe, conçu pour la noblesse.</DankPyon_RugLoot_Diamond_LimeRed2x4c.description>
+
+<DankPyon_RugLoot_Diamond_RGB2x4c.label>tapis diamant à carreaux (2x4)</DankPyon_RugLoot_Diamond_RGB2x4c.label>
+<DankPyon_RugLoot_Diamond_RGB2x4c.description>Un tapis de soie luxueux et complexe, conçu pour la noblesse.</DankPyon_RugLoot_Diamond_RGB2x4c.description>
+
+<DankPyon_RugLoot_Striped_RGB2x4c.label>tapis rayé vert foncé (2x4)</DankPyon_RugLoot_Striped_RGB2x4c.label>
+<DankPyon_RugLoot_Striped_RGB2x4c.description>Un tapis de soie luxueux et complexe, conçu pour la noblesse.</DankPyon_RugLoot_Striped_RGB2x4c.description>
+
+<DankPyon_RugLoot_Striped_BlueLime2x4c.label>tapis rayé bleu-vert (2x4)</DankPyon_RugLoot_Striped_BlueLime2x4c.label>
+<DankPyon_RugLoot_Striped_BlueLime2x4c.description>Un tapis de soie luxueux et complexe, conçu pour la noblesse.</DankPyon_RugLoot_Striped_BlueLime2x4c.description>
+
+<!--DankPyon_Cellar.label>cave</DankPyon_Cellar.label>
+<DankPyon_Cellar.description>N'a pas de fonction pour l'instant, il sert juste de placeholder.</DankPyon_Cellar.description-->
+
+<DankPyon_LootableShelf_AssortedHerbs.label>étagère (remplie)</DankPyon_LootableShelf_AssortedHerbs.label>
+<DankPyon_LootableShelf_AssortedHerbs.description>Une étagère remplie d'herbes.</DankPyon_LootableShelf_AssortedHerbs.description>
+
+<DankPyon_LootableShelf_GreenHerbs.label>étagère (remplie)</DankPyon_LootableShelf_GreenHerbs.label>
+<DankPyon_LootableShelf_GreenHerbs.description>Une étagère remplie d'herbes.</DankPyon_LootableShelf_GreenHerbs.description>
+
+<DankPyon_LootableShelf_RedHerbs.label>étagère (remplie)</DankPyon_LootableShelf_RedHerbs.label>
+<DankPyon_LootableShelf_RedHerbs.description>Une étagère remplie d'herbes.</DankPyon_LootableShelf_RedHerbs.description>
+
+<DankPyon_LootableShelf_BattleElixir.label>étagère (remplie)</DankPyon_LootableShelf_BattleElixir.label>
+<DankPyon_LootableShelf_BattleElixir.description>Une étagère remplie de drogues.</DankPyon_LootableShelf_BattleElixir.description>
+
+<DankPyon_LootableShelf_HappyPowder.label>étagère (remplie)</DankPyon_LootableShelf_HappyPowder.label>
+<DankPyon_LootableShelf_HappyPowder.description>Une étagère remplie de drogues.</DankPyon_LootableShelf_HappyPowder.description>
+
+<DankPyon_LootableShelf_VigorPill.label>étagère (remplie)</DankPyon_LootableShelf_VigorPill.label>
+<DankPyon_LootableShelf_VigorPill.description>Une étagère remplie de drogues.</DankPyon_LootableShelf_VigorPill.description>
+
+<DankPyon_LootableShelf_AssortedDrugsA.label>étagère (remplie)</DankPyon_LootableShelf_AssortedDrugsA.label>
+<DankPyon_LootableShelf_AssortedDrugsA.description>Une étagère remplie de drogues.</DankPyon_LootableShelf_AssortedDrugsA.description>
+
+<DankPyon_LootableShelf_Stardust.label>étagère (remplie)</DankPyon_LootableShelf_Stardust.label>
+<DankPyon_LootableShelf_Stardust.description>Une étagère remplie de drogues.</DankPyon_LootableShelf_Stardust.description>
+
+<DankPyon_LootableShelf_Luhix.label>étagère (remplie)</DankPyon_LootableShelf_Luhix.label>
+<DankPyon_LootableShelf_Luhix.description>Une étagère remplie de drogues.</DankPyon_LootableShelf_Luhix.description>
+
+<DankPyon_LootableShelf_Paregoric.label>étagère (remplie)</DankPyon_LootableShelf_Paregoric.label>
+<DankPyon_LootableShelf_Paregoric.description>Une étagère remplie de drogues.</DankPyon_LootableShelf_Paregoric.description>
+
+<DankPyon_LootableShelf_AssortedDrugsB.label>étagère (remplie)</DankPyon_LootableShelf_AssortedDrugsB.label>
+<DankPyon_LootableShelf_AssortedDrugsB.description>Une étagère remplie de drogues.</DankPyon_LootableShelf_AssortedDrugsB.description>
+
+<DankPyon_LootableCrate_Bones.label>grande caisse</DankPyon_LootableCrate_Bones.label>
+<DankPyon_LootableCrate_Bones.description>Une grande caisse remplie d'objets.</DankPyon_LootableCrate_Bones.description>
+
+<DankPyon_LootableCrate_Unhold.label>grande caisse</DankPyon_LootableCrate_Unhold.label>
+<DankPyon_LootableCrate_Unhold.description>Une grande caisse remplie d'objets.</DankPyon_LootableCrate_Unhold.description>
+
+<DankPyon_LootableCrate_Lindwurm.label>grande caisse</DankPyon_LootableCrate_Lindwurm.label>
+<DankPyon_LootableCrate_Lindwurm.description>Une grande caisse remplie d'objets.</DankPyon_LootableCrate_Lindwurm.description>
+
+<DankPyon_HideoutTableMarket_Meats.label>étalage (viande)</DankPyon_HideoutTableMarket_Meats.label>
+<DankPyon_HideoutTableMarket_Meats.description>Une table garnie pour présenter de la viande.</DankPyon_HideoutTableMarket_Meats.description>
+
+<DankPyon_HideoutTableMarket_Dairy.label>étalage (laitier)</DankPyon_HideoutTableMarket_Dairy.label>
+<DankPyon_HideoutTableMarket_Dairy.description>Une table garnie pour présenter des produits laitiers.</DankPyon_HideoutTableMarket_Dairy.description>
+
+<DankPyon_HideoutTableMarket_Bread.label>étalage (pain)</DankPyon_HideoutTableMarket_Bread.label>
+<DankPyon_HideoutTableMarket_Bread.description>Une table garnie pour présenter des produits de boulangerie.</DankPyon_HideoutTableMarket_Bread.description>
+
+<DankPyon_HideoutTableMarket_Herb.label>étalage (herbe)</DankPyon_HideoutTableMarket_Herb.label>
+<DankPyon_HideoutTableMarket_Herb.description>Une table garnie pour présenter des produits d'herboristerie.</DankPyon_HideoutTableMarket_Herb.description>
+
+<DankPyon_HideoutTableMarket_Bow.label>étalage (arc)</DankPyon_HideoutTableMarket_Bow.label>
+<DankPyon_HideoutTableMarket_Bow.description>Une table remplie pour présenter des arcs.</DankPyon_HideoutTableMarket_Bow.description>
+
+<DankPyon_HideoutTableMarket_Melee.label>étalage (arme)</DankPyon_HideoutTableMarket_Melee.label>
+<DankPyon_HideoutTableMarket_Melee.description>Une table remplie pour présenter des armes de mêlée.</DankPyon_HideoutTableMarket_Melee.description>
+
+<DankPyon_HideoutStallMarket_Meats.label>étalage (viande)</DankPyon_HideoutStallMarket_Meats.label>
+<DankPyon_HideoutStallMarket_Meats.description>Une table garnie pour présenter de la viande.</DankPyon_HideoutStallMarket_Meats.description>
+
+<DankPyon_HideoutStallMarket_Dairy.label>étalage (laitier)</DankPyon_HideoutStallMarket_Dairy.label>
+<DankPyon_HideoutStallMarket_Dairy.description>Une table garnie pour présenter des produits laitiers.</DankPyon_HideoutStallMarket_Dairy.description>
+
+<DankPyon_HideoutStallMarket_Bread.label>étalage (pain)</DankPyon_HideoutStallMarket_Bread.label>
+<DankPyon_HideoutStallMarket_Bread.description>Une table garnie pour présenter des produits de boulangerie.</DankPyon_HideoutStallMarket_Bread.description>
+
+<DankPyon_HideoutStallMarket_Herb.label>étalage (herbe)</DankPyon_HideoutStallMarket_Herb.label>
+<DankPyon_HideoutStallMarket_Herb.description>Une table garnie pour présenter des produits d'herboristerie.</DankPyon_HideoutStallMarket_Herb.description>
+
+<DankPyon_HideoutStallMarket_Bow.label>étalage (arc)</DankPyon_HideoutStallMarket_Bow.label>
+<DankPyon_HideoutStallMarket_Bow.description>Une table remplie pour présenter des arcs.</DankPyon_HideoutStallMarket_Bow.description>
+
+<DankPyon_HideoutStallMarket_Melee.label>étalage (arme)</DankPyon_HideoutStallMarket_Melee.label>
+<DankPyon_HideoutStallMarket_Melee.description>Une table remplie pour présenter des armes de mêlée.</DankPyon_HideoutStallMarket_Melee.description>
+
+<DankPyon_HideoutBarrelPlasteelOre.label>tonneau (minerai de plastacier)</DankPyon_HideoutBarrelPlasteelOre.label>
+<DankPyon_HideoutBarrelPlasteelOre.description>Un tonneau cylindrique réservé au minerai de plastacier pour gagner de la place. Peut contenir jusqu'à 4 piles de minerai de plastacier. Les objets qui y sont stockés n'affectent pas la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutBarrelPlasteelOre.description>
+
+<DankPyon_HideoutLargeShelf_FilledA_Amboise.label>étagère (remplie) (A)</DankPyon_HideoutLargeShelf_FilledA_Amboise.label>
+<DankPyon_HideoutLargeShelf_FilledA_Amboise.description>Une étagère pour ranger des objets divers. Les objets qui y sont rangés ne nuisent pas à la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutLargeShelf_FilledA_Amboise.description>
+
+<DankPyon_HideoutLargeShelf_FilledB_Amboise.label>étagère (remplie) (A)</DankPyon_HideoutLargeShelf_FilledB_Amboise.label>
+<DankPyon_HideoutLargeShelf_FilledB_Amboise.description>Une étagère pour ranger des objets divers. Les objets qui y sont rangés ne nuisent pas à la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutLargeShelf_FilledB_Amboise.description>
+
+<DankPyon_HideoutLargeShelf_FilledA_Hesse.label>étagère (remplie) (H)</DankPyon_HideoutLargeShelf_FilledA_Hesse.label>
+<DankPyon_HideoutLargeShelf_FilledA_Hesse.description>Une étagère pour ranger des objets divers. Les objets qui y sont rangés ne nuisent pas à la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutLargeShelf_FilledA_Hesse.description>
+
+<DankPyon_HideoutLargeShelf_FilledB_Hesse.label>étagère (remplie) (H)</DankPyon_HideoutLargeShelf_FilledB_Hesse.label>
+<DankPyon_HideoutLargeShelf_FilledB_Hesse.description>Une étagère pour ranger des objets divers. Les objets qui y sont rangés ne nuisent pas à la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutLargeShelf_FilledB_Hesse.description>
+
+<DankPyon_HideoutLargeShelf_FilledA_Soren.label>étagère (remplie) (S)</DankPyon_HideoutLargeShelf_FilledA_Soren.label>
+<DankPyon_HideoutLargeShelf_FilledA_Soren.description>Une étagère pour ranger des objets divers. Les objets qui y sont rangés ne nuisent pas à la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutLargeShelf_FilledA_Soren.description>
+
+<DankPyon_HideoutLargeShelf_FilledB_Soren.label>étagère (remplie) (S)</DankPyon_HideoutLargeShelf_FilledB_Soren.label>
+<DankPyon_HideoutLargeShelf_FilledB_Soren.description>Une étagère pour ranger des objets divers. Les objets qui y sont rangés ne nuisent pas à la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutLargeShelf_FilledB_Soren.description>
+
+<DankPyon_HideoutLargeShelf_FilledA_Oswin.label>étagère (remplie) (O)</DankPyon_HideoutLargeShelf_FilledA_Oswin.label>
+<DankPyon_HideoutLargeShelf_FilledA_Oswin.description>Une étagère pour ranger des objets divers. Les objets qui y sont rangés ne nuisent pas à la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutLargeShelf_FilledA_Oswin.description>
+
+<DankPyon_HideoutLargeShelf_FilledB_Oswin.label>étagère (remplie) (O)</DankPyon_HideoutLargeShelf_FilledB_Oswin.label>
+<DankPyon_HideoutLargeShelf_FilledB_Oswin.description>Une étagère pour ranger des objets divers. Les objets qui y sont rangés ne nuisent pas à la beauté de la pièce et ne se détériorent pas, même s'ils sont à l'extérieur.</DankPyon_HideoutLargeShelf_FilledB_Oswin.description>
+
+<DankPyon_IngotStack1x1_Iron.label>pile de lingots de fer</DankPyon_IngotStack1x1_Iron.label>
+<DankPyon_IngotStack1x1_Iron.description>Une pile de lingots. Contient 1 pile de lingots.</DankPyon_IngotStack1x1_Iron.description>
+
+<DankPyon_IngotStack1x1_Steel.label>pile de lingots d'acier</DankPyon_IngotStack1x1_Steel.label>
+<DankPyon_IngotStack1x1_Steel.description>Une pile de lingots. Contient 1 pile de lingots.</DankPyon_IngotStack1x1_Steel.description>
+
+<DankPyon_IngotStack1x1_Gold.label>pile de lingots d'or</DankPyon_IngotStack1x1_Gold.label>
+<DankPyon_IngotStack1x1_Gold.description>Une pile de lingots. Contient 1 pile de lingots.</DankPyon_IngotStack1x1_Gold.description>
+
+<DankPyon_HideoutDryingRack_Big.label>support de séchage (2x2)</DankPyon_HideoutDryingRack_Big.label>
+<DankPyon_HideoutDryingRack_Big.description>Un support en bois pour faire sécher les marchandises au soleil afin de les préserver et de les utiliser longtemps.</DankPyon_HideoutDryingRack_Big.description>
+
+<DankPyon_HideoutTanningRack.label>support de tannage</DankPyon_HideoutTanningRack.label>
+<DankPyon_HideoutTanningRack.description>Une étagère sur pied pour traiter les peaux brutes afin qu'elles deviennent des cuirs souples et magnifiques.</DankPyon_HideoutTanningRack.description>
+
+<DankPyon_TudorWall.label>mur tudor</DankPyon_TudorWall.label>
+<DankPyon_TudorWall.description>Construction à ossature en bois remplie de torchis. Robuste et capable de supporter un toit.</DankPyon_TudorWall.description>
+
+<DankPyon_TableMarket_Herb.label>étalage (herbe)</DankPyon_TableMarket_Herb.label>
+<DankPyon_TableMarket_Herb.description>Une table garnie pour présenter des produits d'herboristerie.</DankPyon_TableMarket_Herb.description>
+
+<DankPyon_TableMarket_MeleeWeapons.label>étalage (arme)</DankPyon_TableMarket_MeleeWeapons.label>
+<DankPyon_TableMarket_MeleeWeapons.description>Une table remplie pour présenter des armes de mêlée.</DankPyon_TableMarket_MeleeWeapons.description>
+
+<DankPyon_TableMarket_Bow.label>étalage (arc)</DankPyon_TableMarket_Bow.label>
+<DankPyon_TableMarket_Bow.description>Une table remplie pour présenter des arcs.</DankPyon_TableMarket_Bow.description>
+
+<DankPyon_Stall_Empty.label>étal de marché (vide)</DankPyon_Stall_Empty.label>
+<DankPyon_Stall_Empty.description>Une table vide utilisée pour présenter des marchandises.</DankPyon_Stall_Empty.description>
+
+<DankPyon_Stall_Meats.label>étal de marché (viande)</DankPyon_Stall_Meats.label>
+<DankPyon_Stall_Meats.description>Une table garnie pour présenter de la viande.</DankPyon_Stall_Meats.description>
+
+<DankPyon_Stall_Dairy.label>étal de marché (laitier)</DankPyon_Stall_Dairy.label>
+<DankPyon_Stall_Dairy.description>Une table garnie pour présenter des produits laitiers.</DankPyon_Stall_Dairy.description>
+
+<DankPyon_Stall_Bread.label>étal de marché (pain)</DankPyon_Stall_Bread.label>
+<DankPyon_Stall_Bread.description>Une table garnie pour présenter des produits de boulangerie.</DankPyon_Stall_Bread.description>
+
+<DankPyon_Stall_Herb.label>étal de marché (herbe)</DankPyon_Stall_Herb.label>
+<DankPyon_Stall_Herb.description>Une table garnie pour présenter des produits d'herboristerie.</DankPyon_Stall_Herb.description>
+
+<DankPyon_Stall_MeleeWeapons.label>étal de marché (arme)</DankPyon_Stall_MeleeWeapons.label>
+<DankPyon_Stall_MeleeWeapons.description>Une table remplie pour présenter des armes.</DankPyon_Stall_MeleeWeapons.description>
+
+<DankPyon_Stall_Bow.label>étal de marché (arc)</DankPyon_Stall_Bow.label>
+<DankPyon_Stall_Bow.description>Une table remplie pour présenter des arcs.</DankPyon_Stall_Bow.description>
+
+<DankPyon_MarketTent_4c.label>auvent (noir blanc)</DankPyon_MarketTent_4c.label>
+<DankPyon_MarketTent_4c.description>Une tente pour protéger vos marchandises des rayons du soleil.</DankPyon_MarketTent_4c.description>
+
+<DankPyon_MarketTent_5c.label>auvent (noir jaune)</DankPyon_MarketTent_5c.label>
+<DankPyon_MarketTent_5c.description>Une tente pour protéger vos marchandises des rayons du soleil.</DankPyon_MarketTent_5c.description>
+
+<DankPyon_MarketTent_6c.label>auvent (blanc)</DankPyon_MarketTent_6c.label>
+<DankPyon_MarketTent_6c.description>Une tente pour protéger vos marchandises des rayons du soleil.</DankPyon_MarketTent_6c.description>
+
+<DankPyon_MarketTent_7c.label>auvent (simple)</DankPyon_MarketTent_7c.label>
+<DankPyon_MarketTent_7c.description>Une tente pour protéger vos marchandises des rayons du soleil.</DankPyon_MarketTent_7c.description>
+
+<DankPyon_Clay.label>argile</DankPyon_Clay.label>
+<DankPyon_Clay.description>Un matériau polyvalent et abondant que l'on trouve dans le lit des rivières, à flanc de colline et dans les carrières. Douce et souple, mais robuste et durable, elle est depuis longtemps le fondement de l'artisanat dans notre royaume. De l'humble pot de cheminée aux imposants murs des forteresses, l'argile témoigne du travail et de l'art de nos ancêtres, façonnant nos villages et nos fortifications par son humble mais noble présence.</DankPyon_Clay.description>
+
+<DankPyon_Mixture_Paper.label>pâte à papier</DankPyon_Mixture_Paper.label>
+<DankPyon_Mixture_Paper.description>Pâte épaisse et fibreuse créée à partir de matériaux fibreux finement broyés, trempés et mélangés jusqu'à obtenir une consistance homogène. Ce mélange est la matière première essentielle pour la fabrication du papier, prêt à être étalé, pressé et séché en feuilles solides pour l'écriture et le dessin.</DankPyon_Mixture_Paper.description>
+
+<DankPyon_UnfinishedRug.label>tapis inachevé</DankPyon_UnfinishedRug.label>
+<DankPyon_UnfinishedRug.description>Un tapis inachevé.</DankPyon_UnfinishedRug.description>
+
+<DankPyon_UnfinishedBook.label>livre inachevé</DankPyon_UnfinishedBook.label>
+<DankPyon_UnfinishedBook.description>Un livre inachevé.</DankPyon_UnfinishedBook.description>
+
+<DankPyon_NaturalWall_Clay.label>argile</DankPyon_NaturalWall_Clay.label>
+<DankPyon_NaturalWall_Clay.description>Une roche sédimentaire composée de particules d'argile comprimées ensemble.</DankPyon_NaturalWall_Clay.description>
+
+<DankPyon_SmoothedClay.label>argile lissé</DankPyon_SmoothedClay.label>
+<DankPyon_SmoothedClay.description>Une roche sédimentaire composée de particules d'argile comprimées ensemble. Les couches d'argile ont été polies pour obtenir une surface plane et lisse.</DankPyon_SmoothedClay.description>
+
+<DankPyon_ChunkClay.label>gravats en argile</DankPyon_ChunkClay.label>
+<DankPyon_ChunkClay.description>Un morceau de roche. Il est possible d'en extraire des blocs de pierre utilisables.</DankPyon_ChunkClay.description>
+
+<DankPyon_BlocksClay.label>bloc d'argile</DankPyon_BlocksClay.label>
+<DankPyon_BlocksClay.description>Bloc d'argile massif. L'argile est une roche relativement tendre qui s'écaille facilement.</DankPyon_BlocksClay.description>
+<DankPyon_BlocksClay.stuffProps.stuffAdjective>argile</DankPyon_BlocksClay.stuffProps.stuffAdjective>
+
+<DankPyon_MeleeWeapon_BlacksmithHammer.label>marteau de forgeron</DankPyon_MeleeWeapon_BlacksmithHammer.label>
+<DankPyon_MeleeWeapon_BlacksmithHammer.description>Outil essentiel de la forge, le marteau de forgeron est conçu pour façonner le métal en fusion et forger des armes et des armures redoutables. Bien que sa fonction première soit l'artisanat, sa lourde tête et son manche robuste en font une arme redoutable, capable de briser les défenses avec la même efficacité que celle dont il fait preuve pour façonner les lingots.</DankPyon_MeleeWeapon_BlacksmithHammer.description>
+<DankPyon_MeleeWeapon_BlacksmithHammer.tools.handle.label>manche</DankPyon_MeleeWeapon_BlacksmithHammer.tools.handle.label>
+<DankPyon_MeleeWeapon_BlacksmithHammer.tools.head.label>tête</DankPyon_MeleeWeapon_BlacksmithHammer.tools.head.label>
+
+<DankPyon_MeleeWeapon_ButcherCleaver.label>hachoir de boucher</DankPyon_MeleeWeapon_ButcherCleaver.label>
+<DankPyon_MeleeWeapon_ButcherCleaver.description>Lame lourde utilisée pour hacher la viande et les os, le hachoir excelle dans la préparation des aliments et le dépeçage des animaux. Mais son tranchant en fait aussi une arme mortelle.</DankPyon_MeleeWeapon_ButcherCleaver.description>
+<DankPyon_MeleeWeapon_ButcherCleaver.tools.shaft.label>manche</DankPyon_MeleeWeapon_ButcherCleaver.tools.shaft.label>
+<DankPyon_MeleeWeapon_ButcherCleaver.tools.edge.label>tranchant</DankPyon_MeleeWeapon_ButcherCleaver.tools.edge.label>
 
 
 </LanguageData>

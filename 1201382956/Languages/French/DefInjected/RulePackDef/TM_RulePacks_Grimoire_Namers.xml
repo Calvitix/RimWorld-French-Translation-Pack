@@ -92,8 +92,7 @@
   -->
   <TM_Namer_CombatTechniques.rulePack.rulesStrings>TODO</TM_Namer_CombatTechniques.rulePack.rulesStrings>
   
-  <!-- EN:
-    <li>title->[titleBasic]</li>
+  <TM_Namer_Grimoire.rulePack.rulesStrings>    <li>title->[titleBasic]</li>
     <li>title(p=2)->[titleAuthored]</li>
     <li>title(p=2)->[titleAuthoredNoSubject]</li>
     <li>title(length_subject_primary[less_than]20,p=4)->[titleAuthoredOneSubject]</li>
@@ -178,22 +177,21 @@
     <li>titleBasicTwoSubjects->The Way of [subject_tuple]</li>
     <li>titleBasicTwoSubjects->Insights into [subject_tuple]</li>
     <li>titleBasicTwoSubjects->Unraveling [subject_tuple]</li>
-    <li>titleBasicTwoSubjects->Secrets of [subject_tuple]</li>
+    <li>titleBasicTwoSubjects->Les Secrets de [subject_tuple]</li>
     <li>titleBasicTwoSubjects->Mastering [subject_tuple]</li>
-    <li>titleBasicTwoSubjects->Ancient Study of [subject_tuple]</li>
-    <li>titleBasicTwoSubjects->Arcane Compendium of [subject_tuple]</li>
-    <li>titleBasicTwoSubjects->Sorcerers Treatise on [subject_tuple]</li>
-    <li>titleBasicTwoSubjects->Wizards Tome of [subject_tuple]</li>
-    <li>titleBasicTwoSubjects->Ancient Tome of [subject_tuple]</li>
-    <li>titleBasicTwoSubjects->Grimoire of [subject_tuple]</li>
-    <li>titleBasicTwoSubjects->Ancient Theories on [subject_tuple]</li>
-    <li>titleBasicTwoSubjects->Eldritch Studies on [subject_tuple]</li>
-    <li>titleBasicTwoSubjects->The Witches' [subject_tuple]</li>
-    <li>titleBasicTwoSubjects->The Hidden Secrets of [subject_tuple]</li>
-    <li>subjectsTuple(has_subject_secondary==true,p=6)->[TM_randTopic_Magic] and [TM_randTopic_Magic]</li>
-    <li>subjectsTuple->[TM_randTopic_Magic], [TM_randTopic_Magic], and [TM_randTheme_Magic]</li>
-    <li>subjectsTuple->[TM_randTopic_Magic] and [TM_randTheme_Magic]</li>
-  -->
-  <TM_Namer_Grimoire.rulePack.rulesStrings>TODO</TM_Namer_Grimoire.rulePack.rulesStrings>
+    <li>titleBasicTwoSubjects->Etude Ancienne sur [subject_tuple]</li>
+    <li>titleBasicTwoSubjects->Compendium Arcanique de [subject_tuple]</li>
+    <li>titleBasicTwoSubjects->Traité des Sorciers sur [subject_tuple]</li>
+    <li>titleBasicTwoSubjects->Tome de [subject_tuple]</li>
+    <li>titleBasicTwoSubjects->Tome antique sur [subject_tuple]</li>
+    <li>titleBasicTwoSubjects->Grimoire de [subject_tuple]</li>
+    <li>titleBasicTwoSubjects->Théories ancienne de [subject_tuple]</li>
+    <li>titleBasicTwoSubjects->Etudes antiques de [subject_tuple]</li>
+    <li>titleBasicTwoSubjects->[subject_tuple] des sorcières</li>
+    <li>titleBasicTwoSubjects->Les secrets cachés de [subject_tuple]</li>
+    <li>subjectsTuple(has_subject_secondary==true,p=6)->[TM_randTopic_Magic] et [TM_randTopic_Magic]</li>
+    <li>subjectsTuple->[TM_randTopic_Magic], [TM_randTopic_Magic], et [TM_randTheme_Magic]</li>
+    <li>subjectsTuple->[TM_randTopic_Magic] et [TM_randTheme_Magic]</li>
+	</TM_Namer_Grimoire.rulePack.rulesStrings>
   
 </LanguageData>

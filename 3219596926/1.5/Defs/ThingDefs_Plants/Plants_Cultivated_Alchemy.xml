@@ -11,6 +11,7 @@
 		<description>A small, delicate herb with pale green leaves and tiny, yellow flowers, often used in crafting strong elixirs due to its potent properties.</description>
 		<plant>
 			<immatureGraphicPath>Plants/MindwortPlant</immatureGraphicPath>
+			<!--calvitix changes-->
 			<growDays>6.5</growDays>
 			<sowWork>600</sowWork>
 			<sowMinSkill>9</sowMinSkill>

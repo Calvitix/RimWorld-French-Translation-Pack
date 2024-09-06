@@ -46,6 +46,7 @@
 		<statBases>
 		<MarketValue>10</MarketValue>
 		<Mass>0.35</Mass>
+		<!-- Calvitix changes -->
 		<Flammability>1.4</Flammability>
 		<MedicalPotency>0.65</MedicalPotency>
 		<MedicalQualityMax>0.68</MedicalQualityMax>

@@ -90,6 +90,7 @@
         <capacities>
           <li>Stab</li>
         </capacities>
+		<!-- Calvitix changes -->
         <power>16</power>
         <cooldownTime>3.2</cooldownTime>
       </li>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<RG_BoilingDrizzle.label>bruine bouillante</RG_BoilingDrizzle.label>
+<RG_BoilingDrizzle.description>Une pluie bouillante très fine mais proéminente qui inflige aux personnes et aux animaux de légers dégâts de brûlure, réduit légèrement la précision des armes à distance et la vitesse de déplacement.</RG_BoilingDrizzle.description>
+
+<RG_BoilingRain.label>pluie bouillante</RG_BoilingRain.label>
+<RG_BoilingRain.description>La pluie bouillante inflige des brûlures aux personnes et aux animaux, réduit la précision des armes à distance, éteint le feu et ralentit les gens.</RG_BoilingRain.description>
+
+<RG_BoilingFoggyRain.label>pluie brumeuse bouillante</RG_BoilingFoggyRain.label>
+<RG_BoilingFoggyRain.description>Inflige des dégâts de brûlure aux personnes et aux animaux, réduit la précision et la vitesse de déplacement.</RG_BoilingFoggyRain.description>
+
+<RG_BoilingRainyThunderstorm.label>orage bouillant</RG_BoilingRainyThunderstorm.label>
+<RG_BoilingRainyThunderstorm.description>Les éclairs déclenchent des incendies, mais la pluie bouillante les éteint. La pluie bouillante inflige également des brûlures aux personnes et aux animaux, réduit la vitesse de déplacement et la précision des tirs.</RG_BoilingRainyThunderstorm.description>
+
+
+</LanguageData>

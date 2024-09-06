@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<DankPyon_Sack.label>sac</DankPyon_Sack.label>
+<DankPyon_Candles.label>bougies</DankPyon_Candles.label>
+
+<!-- v1.5 -->
+<DankPyon_IngotStack1x1c.label>pile de lingot (1x1)</DankPyon_IngotStack1x1c.label>
+<DankPyon_IngotStack1x2c.label>pile de lingot (1x2)</DankPyon_IngotStack1x2c.label>
+<DankPyon_IngotStack2x2c.label>pile de lingot (2x2)</DankPyon_IngotStack2x2c.label>
+<DankPyon_Bale1x2c.label>balle (1x2)</DankPyon_Bale1x2c.label>
+<DankPyon_Bale2x2c.label>balle (2x2)</DankPyon_Bale2x2c.label>
+<DankPyon_Pile1x2c.label>pile (1x2)</DankPyon_Pile1x2c.label>
+
+<DankPyon_Floor_RusticWoodFloor.label>plancher rustique en bois</DankPyon_Floor_RusticWoodFloor.label>
+<DankPyon_Floor_Cobblestone.label>pavé</DankPyon_Floor_Cobblestone.label>
+<DankPyon_Floor_RuinedStoneTile.label>dalle de ruine en pierre</DankPyon_Floor_RuinedStoneTile.label>
+
+<DankPyon_Beverages.label>boissons</DankPyon_Beverages.label>
+<DankPyon_ScribeTools.label>outils de scribe</DankPyon_ScribeTools.label>
+<DankPyon_ResearchTools.label>outils de recherche</DankPyon_ResearchTools.label>
+<DankPyon_Candle.label>bougie</DankPyon_Candle.label>
+<DankPyon_Floor_HerringboneTile.label>carrelages chevron</DankPyon_Floor_HerringboneTile.label>
+<DankPyon_Floor_WindmillTile.label>carrelages moulin</DankPyon_Floor_WindmillTile.label>
+<DankPyon_Floor_CobblestoneTile.label>carrelages divers</DankPyon_Floor_CobblestoneTile.label>
+<DankPyon_Floor_VersaillesTile.label>carrelages Versailles</DankPyon_Floor_VersaillesTile.label>
+<DankPyon_Floor_Lys.label>carrelages lys</DankPyon_Floor_Lys.label>
+<DankPyon_Floor_DiamondLys.label>carrelages lys diamant</DankPyon_Floor_DiamondLys.label>
+<DankPyon_Floor_CircleLys.label>carrelages lys cercle</DankPyon_Floor_CircleLys.label>
+<DankPyon_Floor_CheckeredLysStar.label>carrelages lys-étoile damier</DankPyon_Floor_CheckeredLysStar.label>
+
+
+</LanguageData>
